@@ -1,0 +1,212 @@
+The effect of dietary intervention on inflammatory markers in patients with type 2 diabetes
+ An analysis of the Lifestyle Over and Above Drugs in Diabetes (LOADD) studypatients with type 2 diabetes
+ An analysis of the Lifestyle Over Chris S Booker * a,b, Kirsten J Coppell a, Ashley Duncan c, Minako Kataoka c, Sheila M a Edgar Diabetes and Obesity Research, Department of Medicine, Dunedin School of Medicine, University of b Centre for Neuroendocrinology, Otago School of Medical Sciences, University of Otago, PO Box 913, c Department of Human Nutrition, University of Otago, PO Box 56, Dunedin 9054, New Zealand d Department of Preventive and Social Medicine, Dunedin School of Medicine, University of Otago, PO Box Summary: Ninety-three participants with poorly controlled type 2 diabetes despite optimized drug therapy were randomised to receive intensive dietary advice or usual care for six months
+ Following dietary intervention a significant reduction in interleukin-18 levels was observed, with a ratio of change (95% CI) of 
+90 (
+ -
+99); p = 
+ 
+ Changes in IL-18 correlated with changes in neopterin, r = 
+299 (p = 
+009)  Abbreviations: CRP: C-reactive protein; IL-6/10/18: interleukins 6, 10 or 18; IL-18BP: not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 7, 
+ ;    There is increasing recognition that obesity and type 2 diabetes are characterized by sub-clinical inflammation, which may contribute to the development of atherosclerosis []
+ Since intensive glycaemic control has not been found to reduce cardiovascular events in people with type 2 diabetes [2], reducing inflammation may be an important focus for reducing cardiovascular morbidity and mortality in this group of patients
+ Diabetes lifestyle intervention aims to improve glycaemic control, lipids and blood pressure levels, but appropriate dietary changes may also influence levels of inflammation
+ We therefore measured a selection of inflammatory markers in the Lifestyle Over and Above Drugs in Diabetes (LOADD) study, a randomized controlled trial which investigated the effect of a six month intensive dietary intervention in 93 participants with type 2 diabetes with poor glycaemic control whose drug therapy had been optimized according to treatment guidelines The LOADD study has been described in detail elsewhere []
+ The study was approved by the Lower South Regional Ethics Committee of New Zealand (LRS/05/07/026), and recommendations from the European Association for the Study of Diabetes [5], or a usual care control group
+ Clinically and statistically significant improvements (95% CI) in weight of 
+3 kg (
+1, 
+4), waist circumference of 
+6 cm (
+5, 
+7), and HbA1c of 
+4% (
+1, 
+7) [4 CRP was measured using a high sensitivity CRP kit (Roche, catalogue number 04628918190) on a Cobas c311 analyser; participants with CRP values > 10 mg/L were excluded from further analysis
+ IL-18 was measured by ELISA (MBL, Japan); leptin and neopterin by I-not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 7, 
+ ;    Remaining cytokines were measured by Lumenix bead array multiplex system using beads and plates from Millipore (MA, USA) and a Bio-Plex suspension array instrument (Bio-Rad Laboratories, CA, USA)
+ Participant samples were analysed in duplicate in RIAs and ELISAs, and using single samples in multiplex and CRP assays
+ Samples from RIAs and ELISAs with coefficients of variation  20% were excluded from further analysis
+ The data were analysed according to modified intention to treat
+ Multiple regression was used to estimate the difference between treatments adjusting for the baseline, age and sex
+ As the data were log transformed before analysis the differences are presented as the ratio (95% confidence interval) of the geometric means at six months
+ Pairwise correlation coefficients to assess the relationship between changes in IL-18 and neopterin were generated using non-The effect of the LOADD study dietary intervention on levels of adipokines and inflammatory markers is shown in Table 
+ The intervention group exhibited significant reductions in IL-18 and neopterin levels relative to the control group
+ No significant changes were observed in other inflammatory markers and adipokines, although neopterin levels showed a decrease of borderline significance (p = 
+ )
+ After adjustment for baseline BMI and HbA1c, the effect size for the change in IL-18 was minimally altered, with a difference of 
+90 (95% CI: 
+82  
+99, p=
+ )
+ Changes in IL-18 and neopterin were correlated, with a pairwise correlation coefficient of r = 
+299 (p = 
+009, n = )
+ This randomized controlled trial examined the effects of an evidence-based six month dietary intervention in patients with type 2 diabetes on a range of adipokines and inflammatory markers
+ The intervention group exhibited a significant reduction in circulating IL-18 levels relative to the control group, an inflammatory marker which  may have an active role in the not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 7, 
+ ;    further adjustment for baseline BMI and HbA1c levels
+ While obesity is associated with increased inflammation, these results suggest that an evidence-based dietary intervention can A reduction in neopterin levels of borderline significance was also observed
+ Neopterin release from macrophages is induced by IL-18 (via induction of IFN- [8]), and increases in circulating neopterin levels have been observed in monkeys after an injection of IL-18 []
+ It is likely that changes in neopterin therefore occurred downstream of the reduction in circulating IL-18 levels in our study, as changes in neopterin levels were correlated with The LOADD study dietary intervention resulted in a significant increase in the percentage of total energy (%TE) consumed as protein, a significant reduction in %TE consumed as saturated fat, and an increase in dietary fibre intake of borderline significance []
+ Previous metabolic studies by Esposito et al have shown that IL-18 increases after a high fat meal and decreases after a high fibre meal []
+ Changes in inflammatory markers in the LOADD study are therefore consistent with the short-term changes observed by Esposito et al []
+ The mechanism underlying these changes is unclear, but there is evidence that dietary modification influences gut microbiota [11], that IL-18 is produced in the gut [12], and that different bacteria produce diverging effects on IL-18 expression in intestinal cells in vitro []
+ Therefore our observations could be explained by the interaction of dietary components with gut bacteria resulting in altered levels of circulating inflammatory cytokines
+ Chance may explain the significant reduction in IL-18 levels observed in our study
+ However, changes in neopterin levels are induced by IL-18, and the correlated changes in neopterin and IL-18 suggest the significant reduction in IL-18 is likely to reflect a true biological effect of The relationship between an evidence-based dietary intervention and reduction in IL-18 levels, independent of adiposity and glycaemia, suggests a further mechanism by which diet not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 7, 
+ ;    Table 1: The effect of usual dietary advice and intensive evidence based dietary advice intervention on adipokines and inflammatory markers in patients with type 2 diabetes and poor glycaemic control despite optimized drug therapy
+ Measure n baseline * 6 months * baseline * 6 months * (95 % CI) p CRP (mg/L) 41 
+9 (
+1, 
+7) 
+4 (
+7, 
+2) 
+3 (
+9, 
+5) 
+4 (
+9, 
+9) 
+76 (
+53, 
+07) 
+118 IL-6 (pg/ml) 29 
+94 (
+43, 
+76) 
+61 (
+88, 
+21) 
+68 (
+64, 
+32) 
+44 (
+78, 
+30) 
+05 (
+47, 
+32) 
+906 IL-10 (pg/ml) 20 
+08 (
+74, 
+61) 
+42 (
+60, 
+63) 
+81 (
+01, 
+27) 
+42 (
+39, 
+96) 
+58 (
+29, 
+16) 
+120 IL-18 (pg/ml) 45 506 (430, 666) 449 (354, 553) 527 (418, 657) 504 (419, 652) 
+91 (
+83, 
+00) 
+049 IL-18 BP (pg/ml) 32 455 (140, 857) 362 (163, 768) 473 (255, 751) 426 (229, 782) 
+94 (
+62, 
+44) 
+783 Leptin (ng/ml) 36 
+4 (
+8, 
+0) 
+4 (
+9, 
+5) 
+2 (
+7, 
+6) 
+2 (
+8, 
+6) 
+12 (
+83, 
+52) 
+445 Neopterin (nmol/l)  39 
+36 (
+55, 
+09) 
+04 (
+42, 
+47) 
+08 (
+51, 
+83) 
+21 (
+56, 
+85) 
+89 (
+79, 
+00) 
+057 sTNF-R1 (pg/ml) 40 836 (615, 1019) 901 (671, 1127) 857 (611, 960) 854 (661, 1093) 
+00 (
+89, 
+12) 
+964 sTNF-R2 (pg/ml) 40 2727 (2413, 3300) 2919 (2418, 3254) 2616 (2155, 3157) 2648 (1908, 3613) 
+09 (
+85, 
+39) 
+482 TNF (pg/ml) 44 
+7 (
+7, 
+3) 
+0 (
+2, 
+8) 
+0 (
+7, 
+9) 
+0 (
+0, 
+9) 
+01 (
+79, 
+29) 
+938 We thank the participants of the LOADD study
+ Many thanks to Michelle Harper and Holiday Wilson, Diabetes and Lipid Laboratory, Department of Human Nutrition, University of Otago for This work was supported by the Health Research Council of New Zealand [grant number 06/352] and the Southern Trust of New Zealand
+ CSB was funded by a Postgraduate Scholarship from the National Heart Foundation of New Zealand during the conduct of this research
+ The funders of this work had no role in the study design; collection, analysis and interpretation of data; in the writing of the report; or in the decision to submit the article for publication
+  KJC co-conceived the main study; contributed to the design, implementation, conduct, and monitoring of the main study; and interpretation of results and editing this manuscript
+ JIM co-conceived the main study; contributed to the design, implementation, conduct, and monitoring of the main study; analysis and interpretation of results, and was responsible for editing the manuscript
+ MK participated in the implementation and conduct of the dietary intervention and contributed to the analysis and interpretation of diet records
+ AD and CSB were responsible for conducting the laboratory analyses
+ SMW contributed to the design; performed the statistical analyses; and contributed to the interpretation of the findings
+ CSB contributed to the design of the study and was responsible for writing the manuscript drafts
+ All authors approve of the final not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 7, 
+ ;    [1] Ross R
+ Atherosclerosis - an inflammatory disease
+ N Engl J Med ;:
+ [2] Ferguson LD, Sattar N
+ Reducing cardiovascular disease risk in type 2 diabetes: is the focus [3] New Zealand Guidelines Group
+ Management of type 2 diabetes
+ Wellington  N
+ Z
+: New [4] Coppell KJ, Kataoka M, Williams SM, Chisholm AW, Vorgers SM, Mann JI
+ Nutritional intervention in patients with type 2 diabetes who are hyperglycaemic despite optimised drug treatment - Lifestyle Over and Above Drugs in Diabetes (LOADD) study: randomised [5] Mann JI, De Leeuw I, Hermansen K, Karamanos B, Karlstrm B, Katsilambros N, et al Evidence-based nutritional approaches to the treatment and prevention of diabetes mellitus
+ [6] Jefferis BJ, Papacosta O, Owen CG, Wannamethee SG, Humphries SE, Woodward M, et al Interleukin 18 and coronary heart disease: prospective study and systematic review
+ [7] Kaptoge S, Seshasai SRK, Gao P, Freitag DF, Butterworth AS, Borglykke A, et al Inflammatory cytokines and risk of coronary heart disease: new prospective study and [8] Huber C, Batchelor JR, Fuchs D, Hausen A, Lang A, Niederwieser D, et al Immune [9] Soos J, Polsky R, Keegan S, Bugelski P, Herzyk D
+ Identification of natural antibodies to interleukin-18 in the sera of normal humans and three nonhuman primate species
+ Clin [10] Esposito K, Nappo F, Giugliano F, Di Palo C, Ciotola M, Barbieri M, et al Meal modulation of circulating interleukin 18 and adiponectin concentrations in healthy subjects and in patients with type 2 diabetes mellitus
+ Am J Clin Nutr ;:
+ not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 7, 
+ ;    [11] Diamant M, Blaak EE, de Vos WM
+ Do nutrientgutmicrobiota interactions play a role in human obesity, insulin resistance and type 2 diabetes? Obes Rev ;:
+ [12] Zambetti LP, Mortellaro A
+ NLRPs, microbiota, and gut homeostasis: unravelling the [13] Bahrami B, Macfarlane S, Macfarlane GT
+ Induction of cytokine formation by human intestinal bacteria in gut epithelial cell lines
+ J Appl Microbiol ;:
+ not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 7, 
+ ;    

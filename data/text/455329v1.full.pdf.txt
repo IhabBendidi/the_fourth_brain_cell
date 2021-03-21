@@ -1,0 +1,707 @@
+Utilizing Transcranial Direct Current Stimulation to Enhance Laparoscopic Technical Skills Training: A Randomized Controlled TrialCOX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 Sarah H
+ Lisanby, MD2,3; John Migaly, MD1; Lawrence G
+ Appelbaum, PhD1Departments of Surgery, Duke University School of Medicine, Durham, NC, USA2Departments of Psychiatry and Behavioral Sciences, Duke University School of Medicine, Durham, NC, USAProgram, National Institute of Mental Health, National Institutes of Health, Bethesda, MD, USAThis study aimed to test the efficacy of transcranial direct current stimulation (tDCS) duringlaparoscopic skill training to determine if it has the capacity to accelerate technical skill acquisition
+tDCS is a non-invasive brain stimulation technique that delivers constant, low electrical current resultingin changes to cortical excitability and prior work suggests it may enhance motor learning
+ We evaluate forthe first time the potential of tDCS, coupled with motor skill training, to accelerate the development oflaparoscopic technical skills
+ In this pre-registered, double-blinded and sham-controlled study, 60 healthysubjects were randomized into sham or active tDCS in either bilateral primary motor cortex (bM)or supplementary motor area (SMA) electrode configurations
+ All subjects practiced the Fundamentalof Laparoscopic Surgery Peg Transfer Task during a pre-test, six 20-minute training sessions, and apost-test
+ The primary outcome was change in laparoscopic skill performance over time, quantified byimprovement in performance according to a seconds-per-object calculated score accounting for errors
+Sixty participants were randomized equally into the three training cohorts (active bM1, active SMA,sham)
+ The active groups had significantly greater improvement in performance from pre-test to post-testcompared to the sham groups (108 vs 76 seconds, p = 
+ )
+ Both bM1 and SMA active cohorts hadsignificantly greater improvement in learning (p < 
+01), achieving the same skill level in 4 sessionscompared to the 6 sessions required of the sham cohort
+ The SMA cohort had more variability inperformance compared to the bM1 and control cohorts
+ Laparoscopic skill training with active, bM1 orSMA, tDCS exhibited significantly greater learning relative to training with sham tDCS
+ The potentialfor tDCS to enhance the training of surgical skills merits further investigation to determine if thesecertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    COX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 The field of surgery has continued to evolve over time with technological advances, work hourrestrictions, and emphasis on patient safety []
+ This evolution has driven surgical residenciesto focus on simulation and competency-based training to target technical skill developmentin a safe, controlled environment prior to patient interaction []
+ The importance of thistraining paradigm has been exemplified by the American Board of Surgery requiring that allgeneral surgery residents pass the one-time, simulation-based certifications in Fundamentals ofLaparoscopic Surgery (FLS) and Fundamentals of Endoscopic Surgery (FESTM) [9, ]
+ Thedevelopment of these basic technical skills requires the removal of residents from the bedsidein order to achieve repetition of training within the simulation lab []
+ Therefore, it isimperative that new technologies and training techniques are developed symbiotically to expeditethe time-consuming development of basic technical skills in the simulation lab
+Transcranial direct current stimulation (tDCS) is a non-invasive brain stimulation techniquethat delivers constant, low electrical current via saline-soaked electrodes on the scalp to modifyneuronal excitability in the underlying cortex []
+ Anodal current has been shown to increasecortical excitability and facilitate spontaneous neuronal firing []
+ Numerous studies suggest thattDCS to motor cortex, in some cases coupled with simultaneous motor skill training, may enhancemotor learning in healthy individuals [1923] as well as faster motor-system recovery followingstroke in clinical populations [24, ]
+ While a recent consensus paper on tDCS and motorlearning described promising results, it also highlighted a pressing need for prospective, pre-registered, hypothesis-based studies to improve the transparency and replication of this approachso that the potential of these interventions may be rigorously established []
+ The ease withwhich tDCS can be implemented and tolerated, paired with the potential for lasting changes incortical excitability and associated motor learning, gives this approach the powerful potential toaccelerate the development of surgical technical skills [27, ]
+ Additionally, the safety profileof tDCS has been well described with parameters feasible for implementation within a surgicalOnly one prior study has been published on the application of tDCS within surgery []
+ In thatstudy, Ciechanski and colleagues applied anodal tDCS to 22 medical students performing a neu-rosurgical tumor resection task resulting in improved efficiency and effectiveness of performance
+While this is the first evidence that tDCS can positively affect surgical skill training, the studycertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    COX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 was conducted within a surgical subspecialty and targeted a more advanced task
+ The applicationof tDCS within general surgery training, targeting fundamental and generalizable skills necessaryto pass required technical skill assessments, has yet to be investigated
+ Additionally, given thattDCS has not previously been applied in a bimanual surgical skill task, the optimal electrodeTherefore, the current study aimed to test the efficacy of tDCS during laparoscopic skilltraining to determine if it has the capacity to accelerate technical skill acquisition
+ We electedtDCS parameters to be in the range of those previously reported to affect motor skill training
+Since the optimal electrode configuration is not known, we evaluated two separate electrodeconfigurations, each targeting the motor system (bilateral primary motor area and supplementalmotor area)
+ We hypothesized active tDCS would lead to faster and larger learning gains relativeto sham tDCS while performing the FLS Peg Transfer Task, and we evaluated the exploratoryhypothesis that the two active placements would differ in their effects
+ We selected the SMA targetdue to its functional role in motor planning and execution, as well as bimanual coordination;prior tDCS studies have shown that stimulation of the SMA can increase performance on simpleThis double-blinded, randomized, and sham-controlled study was approved by the DukeHealthy adults with the ability to provide consent and follow directions were included in thestudy
+ Exclusion criteria were specific to tDCS including brain tumor, psychotropic medications,seizure disorder, substance abuse, and metal implants in the head
+ Females had to provide anegative urine pregnancy test at the initiation of the study
+ Subjects meeting inclusion criteriaon a screening survey provided written consent and were enrolled into the study
+ Subjects werePrior to the start of the study, simple randomization was used to assign a tDCS code andelectrode configuration to each participant
+ Each code was programmed as either active or shamcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    COX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 stimulation by the device manufacturer, and this information remained blinded to the study teamElectrode configurations targeted either the bilateral primary motor cortex (bM1) or the sup-plementary motor area (SMA) and balanced randomization was performed to assign subjectsequally to active bM1, active SMA, and sham cohorts (half with bM1 and half with SMAThe Soterix Medical 11 tDCS Device (Soterix Medical Inc
+, New York, NY) was used
+ Activestimulation consisted of a 30-second, gradual ramping up of electrical current to a maximumsustained level of 2mA for the duration of the 20-minute training session, followed by a -second down ramp to 0 mA current
+ Sham tDCS consisted of the 30-second on ramp, followedimmediately by the off ramp to create an initial cutaneous sensation of stimulation without thesustained current delivery []
+ The device provided another 30-seconds of stimulation at theElectrodes were placed on each subject utilizing the 1020 electroencephalography electrodesystem, with the two, 3 cm5 cm, saline-soaked sponges held in place using two Soterix MedicalElastic Fastener Blue bands (Soterix Medical Inc
+, New York, NY)
+ For the bM1 configuration,the cathodal electrode was placed over C4 while the anodal electrode was placed over C
+SMA configuration placed the cathodal electrode over Fpz and the anodal electrode 15% ofthe nasioninion distance anterior to vertex, with the long edge of the sponge pads orientedleftright
+ Electrode configurations and underlying cortical electric field illustrations are shownin Figure 
+ Electric field simulation was performed using SimNIBS 
+ 
+ 
+ []
+Electrode conductivity was measured continuously throughout the session, and instances ofincreased contact impedance were noted and addressed by adding more saline to the spongesor increasing the amount of pressure applied by the elastic bands
+ If necessary, the session wasstopped and restarted for repositioning of the electrodes
+ The occurrence and duration of anycritical connectivity events were documented
+ No subject had to be excluded due to an inabilitycertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    COX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 Figure 1: tDCS electrode (red = anode, blue = cathode) configurations and underlying electricfield distribution in the brain for the A) bilateral primary motor cortex montage (bM1) and B)Each subject viewed the same 4-minute online instructional video on how to perform the FLSby approximately 10-minutes of acclimation to the FLS box trainer (Limbs & Things Ltd
+,Savannah, GA) with time allowing for one repetition of the Peg Transfer Task, consisting ofmoving all 6 triangle objects to the right and back to the left, while receiving verbal feedbackfrom a study team member to point out any violations of the procedure
+Laparoscopic surgical skill training consisted of six separate 20-minute sessions where thesubject repeatedly performed the FLS Peg Transfer Task
+ Training sessions were completedduring three study visits within a 7-day window with two sessions completed each visit and amaximum five-minute break in between
+ Additionally, a pre-test and a post-test consisting ofone repetition of the task were administered prior to and upon completion of the six trainingcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    COX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 sessions
+ In the three instances where a pre or post-tests was not completed, the first repetitionStudy data were collected and managed using Research Electronic Data Capture (REDCap)Subjects completed a questionnaire consisting of baseline characteristics, prior surgical skillexperience, and personal behaviors which was repeated at the beginning of each visit
+ Baselinecharacteristics included age, sex, ethnicity, race, and handedness
+ Prior experience with eitheropen or laparoscopic surgery was obtained
+ Personal behaviors included self-identification as anathlete, musician, video gamer, or artist in addition to servings of caffeine consumed and hoursVideos of each study visit were recorded using the Argus Science Frame Grabber (ArgusScience, LLC, Tyngsborough, MA)
+ This system digitizes the analog signal directly from thecamera located within the FLS box trainer
+ Each video was reviewed and scored at a later dateby a single study team member (MLC) with surgical experience to ensure internal consistency
+Errors were defined as 1) drops of the object outside the field of view and 2) imprper transfers(transfer on a drop, transfer with the wrong hand, resting the object during transfer)
+ These errorswere penalized by deducting either 3 (drop out of field-of-view) or 1 (improper transfer) fromTime-to-completion and errors committed were recorded for both pre- and post-tests
+ Dataobtained from each 20-minute training session included number of full repetitions completed,number of individual objects moved, and errors committed
+ An overall score was calculated bysubtracting the penalties accrued from errors from the total number of objects moved (Figure )
+Finally, seconds-per-object were calculated for the pre-test, six training sessions, and post-testin order to have all longitudinal assessments on the same measurement scale for analysis
+Baseline characteristics, personal behaviors, and prior surgical skill data were compiled andanalyzed
+ Comparisons between the multiple intervention groups were performed with one-wayanalysis of variance (ANOVA)
+ Comparisons between categorical variables were made withchi-square test for association
+ Individual performance on pre-tests and post-tests across thecertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    COX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 Learning curves were plotted using the seconds-per-object scores for pre-test, six trainingsessions, and post-test
+ A second learning curve was produced including only the six trainingsessions to ensure any differences were not driven by differences on the pre-test between cohorts
+These learning curves were normalized relative to the pre-test score and first training session,respectively
+ We analyzed the effects of intervention using linear mixed effects models
+ Arepeated effect of training session was used to model the covariance of the residuals with acompound symmetry structure
+ In addition to the main effects of intervention and session, wemetrics based on sex, handedness, and prior surgical experience
+ Finally, performance metricswere correlated to the various baseline characteristics and personal behaviors obtained on theA p-value of < 
+05 was considered statistically significant
+ Statistical analysis was completedusing R v
+ 
+0 (The R Foundation for Statistical Computing, Vienna, Austria)
+Sixty subjects (
+5% of screened participants) completed all six training sessions, including20 each in the active bM1, active SMA, and sham (10 bM1, 10 SMA) tDCS groups (Figure )
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    COX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 Among the three intervention groups, there was no difference in mean age (bM1 
+9 
+2 vsSMA 
+ 
+4 vs sham 
+ 
+7 years), sex (males: bM1 8, SMA 4, sham 6), race (Caucasian:bM1 6, SMA 11, sham 8), and handedness (left: bM1 17, SMA 18, sham 18) (all p > 
+ )
+Six subjects had prior open surgical experience, and four had prior laparoscopic surgicalexperience
+ These individuals were distributed evenly amongst the three cohorts (open p = 
+and laparoscopic p = 
+ )
+ Self-identified athletes (n = 34, 
+7%), musicians (n = ,
+7%), and artists (n = 10, 
+7%) were also equally represented across cohorts (all p > 
+ )
+However, video gamers had a larger presence within the bM1 cohort compared to SMA andsham (2 = 
+412, p = 
+ )
+ There was no difference in the average amount of caffeineconsumed (p = 
+15) or hours of sleep obtained (p = 
+24) prior to each training session acrosscertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    COX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 Age 
+7 (
+8) 
+9 (
+2) 
+5 (
+4) 
+7 (
+7) p = 
+Native American/Alaska Native 0 (0%) 0 (0%) 0 (0%) 0 (%)Native Hawaiian/Pacific Islander 1 (1%) 0 (0%) 0 (0%) 1 (%)More than one 4 (7%) 1 (5%) 2 (10%) 1 (%)Prior Open Surgery Experience 6 (10%) 1 (5%) 2 (10%) 3 (15%) p = 
+Prior Laparoscopic Surgery Experience 4 (
+7%) 1 (5%) 2 (10%) 1 (5%) p = 
+Athlete 34 (
+7%) 11 (55%) 12 (60%) 11 (55%) p = 
+Musician 22 (
+7%) 5 (25%) 9 (45%) 8 (40%) p = 
+Gamer 9 (15%) 7 (35%) 1 (5%) 1 (5%) p < 
+Artist 10 (
+7%) 6 (30%) 1 (5%) 3 (15%) p = 
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    COX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 All three cohorts had a gradual improvement in the average number of total repetitionscompleted (ranging from 
+3 to 
+4) and average number of total objects moved (ranging from
+7 to 
+1) as they progressed through the 6 training sessions
+ Errors made by dropping theobject outside of the field-of-view remained fairly stable throughout training, ranging from 
+to 
+8 across all cohorts
+ The average number of improper transfers gradually decreased in theSMA cohort (
+1 to 
+7) and had greater variability in the bM1 and sham cohorts
+ The overallscores accounting for objects moved and errors committed also increased over all six trainingsessions for all training cohorts (bM1 
+4 to 
+1, SMA 
+7 to 
+5, sham 
+5 to 
+ )
+ANOVA calculated on the raw (non-penalized) completion times did not differ significantlybetween the bM1, SMA or sham cohorts at pre-test (
+8, 
+2, and 
+7 seconds respectively,p = 
+31) or post-test (
+3, 
+5, and 
+5 seconds respectively, p = 
+ )
+ However, differencesin improvement from pre-test to post-test completion times did differ significantly
+ The combinedactive tDCS cohort, bM1 and SMA, showed significantly greater improvement compared tosham (
+1 vs 
+3 seconds, p = 
+ )
+ Similarly, the bM1 active (
+5 vs 
+3 seconds,p = 
+022) and the SMA active (
+7 vs 
+3 seconds, p = 
+015) conditions each, alone,Linear mixed effects modeling on the scored performance data (total objects moved minuserrors) demonstrated that all subjects, regardless of intervention group, demonstrated learningacross the six training sessions (Figure )
+ A significant group by session interaction was ob-served
+ There was no significant difference in performance when comparing the bM1 and SMAcohorts (t = 
+043, p = 
+ )
+ This difference between active and sham tDCS remained whenlooking solely at the six 20-minute training sessions, with a statistically significant differencebetween bM1 and sham cohorts (t = 
+07, p = 
+039), but not between the SMA and shamComparing performance between male versus female subjects and right versus left handedsubjects did not reveal significant differences in pre-test, post-test, improvement from pre- to post-certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    COX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 Defined as transfers on a drop, with the wrong hand, or while resting the objectcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    COX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 Figure 4: Mean improvement in time-to-completion (seconds) from pre-test to post-test for eachof the three intervention groups
+ Whiskers denote standard error of the mean
+ Significant pairwisedifferences are present between each active group and the sham group
+test, or overall score during the six training sessions (all p > 
+ )
+ Similarly, no differences wereobserved in performance between individuals who self-reported as athletes, musicians, artists,or video gamers, versus those reporting not to belong to these classifications (all p > 
+ )
+Age, servings of caffeine, and hours of sleep did not correlate with any of the task metrics (allSimilarly, subjects with prior open surgery experience had no difference in performancecompared to those without prior experience (p > 
+ )
+ However, subjects with prior laparoscopicsurgery experience had significantly better performance in the second (t = 
+1, p < 
+001) andthird (t = 
+7, p = 
+001) 20-minute training sessions compared to subjects without laparoscopicEleven participants (
+5%) who were screened did not complete the entire study protocol
+ Oneparticipant did not consent while another was excluded at screening due to metal implants
+ Sixparticipants withdrew due to technology issues and scheduling conflicts
+ Three participants hadintolerance of tDCS due to lightheadedness leading to early cessation of training and exclusionfrom analysis
+ Two of these three subjects were in an active tDCS cohort; one subject revealedcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    COX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 Figure 5: Learning curves stratified by intervention group and reported as percent improvementin seconds-per-object normalized to the session 1 performance
+ Whiskers denote standard errorshe had nothing to eat throughout the day prior to the study session while the other subjectdisclosed she ran 10 miles directly prior to the study session
+ The third intolerant subject wasin the sham cohort and experienced dizziness during the initial ramp up and final ramp downWe present the largest to date, pre-registered, randomized, and sham-controlled study of theeffectiveness of tDCS coupled with simultaneous surgical skills training, and the first studyto contrast two different tDCS electrode configurations (bilateral primary motor cortex or thesupplementary motor area)
+ Training coupled with active tDCS exhibited significantly greaterlearning in the Fundaments of Laparoscopic Surgery Peg Transfer Task compared to sham tDCSfor both electrode configurations although the SMA configuration produced greater variability
+The results from this pilot study demonstrate the potential of accelerating laparoscopic technicalcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    COX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 skill acquisition through the addition of tDCS
+ Given the safety and ease of administering tDCSalong with these promising preliminary results, this novel technique could be a useful andAll general surgery residents utilize deliberate practice within the surgical simulation lab inorder to pass the national, standardized FLS curriculum allowing for board eligibility
+ However,the amount of time allotted for training is restricted by the maximum 80-hour work week
+Our results suggest trainees could achieve faster and greater learning with the application oftDCS during practice sessions
+ Subjects training with active tDCS reached the same level oftechnical skill in roughly two thirds the time as compared with sham tDCS
+ This translates toabout 40 minutes less total training time when using active tDCS, a savings that could likelybe compounded when factoring in training on all five FLS tasks
+ Collectively, the active tDCScohorts improved an average of 31 seconds more per repetition of the Peg Transfer Task comparedto the sham cohort
+ This is a highly meaningful amount considering a total completion time of48 seconds is considered expert proficiency in this particular task []
+There is only one prior study utilizing tDCS within the field of surgery []
+ In that study,Ciechanski and colleagues applied unilateral, anodal tDCS within neurosurgery skills trainingusing a simulated tumor resection model
+ They concluded tDCS safely enhanced simulation-based neurosurgical skill acquisition with larger gains appreciated in the lower skill participants
+A strength of their study included a retention test at 6 weeks post-training which revealed noskill decay for either training group
+ Unfortunately, the tDCS intervention was fairly limited withonly a 24-minute training session consisting of 8 task repetitions
+ The current study applyingtDCS within general surgery skill training utilizes a reliable and validated model in the FLSPeg Transfer Task, with substantially more accrued training time
+ Our methodology includeda training curriculum designed to prevent an early plateau in performance and allow enoughtraining over time for the development of sufficient learning curves to determine the effect ofour intervention
+ These studies together support the rationale to continue evaluation of tDCS asan augmentation to technical skill training within the surgical simulation lab
+Other strengths of our study include sham-control, comparison of two electrode configurations,E-field simulation, and use of a device permitting complete double-blinding of subjects andinvestigators to active versus sham conditions
+ A recent tDCS consensus manuscript by Buch andcolleagues [26], proposed a checklist with standards for tDCS studies to allow for methodologicalreproducibility
+ The current study was designed prior to the publication of this updated list, butcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    COX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 Limitations of this study include the potential that pre-test differences in performance may haveinfluenced the results
+ While not statistically significant, the sham groups had better performanceat baseline, which may have contributed to less change in performance due to ceiling effects
+ Abaseline difference was not anticipated given the overall sample size of 60 individuals and randomgroup assignments
+ Nonetheless, future studies may wish to adopt a stratified randomizationOf note, the learning curve of the SMA cohort had more variability compared to the bMcohort
+ This likely contributed to the lack of significant differences when considering learningin the absence of pre-test and post-test performance
+ The SMA electrode configuration includescathodal placement over the frontal cortex which could theoretically impair subjects attention orcognitive control []
+ This possibility, and the optimal electrode configuration, current strength,duration of stimulation, and timing of stimulation relative to manual-skill training merits furtherThis was a pilot study with no prior investigation to allow for a power calculation to determinesample size
+ Therefore, 20 subjects were randomized into each cohort in concordance with priortDCS research studies []
+ The current study included both right handed (n = 53) and lefthanded (n = 7) subjects, but the anode and cathode electrodes were placed in the same positionregardless of handedness
+ Given the bimanual nature of the task future studies may wish toquantify the lateralized effects of anodal and cathodal stimulation or use unipolar motor systemmontages
+ Finally, the current study utilized a single simulation task leaving the generalizabilityof this intervention yet to be determined
+ However, tDCS did provide a training advantage, anddexterity utilized in the Peg Transfer Task also applies to other surgical skills including open,Moving forward, future studies will be needed to replicate these findings, and determineif similar benefits can be gained with surgical residents who have already achieved a higherbaseline level of surgical knowledge and skill compared to the studied cohort
+ In addition,translation of these findings to a commercially available tDCS device would also allow morefeasible implementation into the surgical skills laboratory, allowing training without researchsupervision
+ While outside the scope of the current study, tDCS could be useful to accelerateremediation programs for trainees found to be outliers in regards to their technical skills
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    COX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 The results of this study suggest the acquisition of basic laparoscopic skill can be enhancedwith the addition of active tDCS during training
+ This finding has the potential to accelerategeneral surgery training within the current climate of work hour restrictions and limited timeThis study was presented as an oral presentation at the Innovative Techniques session at the2018 Annual ACS Surgical Simulation Summit: An International Multi-Professional Meeting inThis study was supported internally at our institution
+ M
+ L
+ Cox is supported by a NationalInstitutes of Health T32 Training Grant with grant number THL
+ Z
+ -D
+ Deng is supportby the National Institute of Mental Health Intramural Research Program and a NARSAD YoungThe authors do not have any commercial, proprietary or financial interest in any device,S
+ H
+ Lisanby contributed to this article while at Duke University, prior to joining NIMH
+ Theviews expressed are her own and do not necessarily represent the views of the NIH or the United[1] N
+ Ahmed, K
+ S
+ Devitt, I
+ Keshet, J
+ Spicer, K
+ Imrie, L
+ Feldman, J
+ Cools-Lartigue,A
+ Kayssi, N
+ Lipsman, M
+ Elmi, A
+ V
+ Kulkarni, C
+ Parshuram, T
+ Mainprize, R
+ J
+ Warren,P
+ Fata, M
+ S
+ Gorman, S
+ Feinberg, and J
+ Rutka, A systematic review of the effects ofresident duty hour restrictions in surgery: impact on resident wellness, training, and patient[2] F
+ R
+ Lewis and M
+ E
+ Klingensmith, Issues in general surgery residency training,[3] K
+ Y
+ Bilimoria, J
+ W
+ Chung, L
+ V
+ Hedges, A
+ R
+ Dahlke, R
+ Love, M
+ E
+ Cohen, D
+ B
+Hoyt, A
+ D
+ Yang, J
+ L
+ Tarpley, J
+ D
+ Mellinger, D
+ M
+ Mahvi, R
+ R
+ Kelz, C
+ Y
+ Ko, D
+ D
+Odell, J
+ J
+ Stulberg, and F
+ R
+ Lewis, National cluster-randomized trial of duty-hourflexibility in surgical training, N Eng J Med, vol
+ 374, no
+ 8, pp
+ 713727, 
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    COX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 [4] R
+ R
+ Sonnadara, C
+ Mui, S
+ McQueen, P
+ Mironova, M
+ Nousiainen, O
+ Safir, W
+ Kraemer,P
+ Ferguson, B
+ Alman, and R
+ Reznick, Reflections on competency-based education andtraining for surgical residents, J Surg Educ, vol
+ 71, no
+ 1, pp
+ 151158, 
+[5] D
+ M
+ Long, Competency based residency training: the next advance in graduate medical[6] K
+ Malone and S
+ Supri, A critical time for medical education: the perils of competence-based reform of the curriculum, Adv Health Sci Educ Theory Pract, vol
+ 17, no
+ 2, pp
+[7] J
+ R
+ Frank, R
+ Mungroo, A
+ Y
+, M
+ Wang, S
+ De Rossi, and T
+ Horsley, Toward a definitionof competency-based education in medicine: a systematic review of published definitions,[8] D
+ Stefanidis, Optimal acquisition and assessment of proficiency on simulators in surgery,Surg Clin North Am, vol
+ 90, no
+ 3, pp
+ 475489, 
+[9] M
+ C
+ Vassiliou, B
+ J
+ Dunkin, J
+ M
+ Marks, and G
+ M
+ Fried, FLS and FES: comprehensivemodels of training and assessment, Surg Clin North Am, vol
+ 90, no
+ 3, pp
+ 535558, 
+[10] J
+ H
+ Peters, G
+ M
+ Fried, L
+ L
+ Swanstrom, N
+ J
+ Soper, L
+ F
+ Sillin, B
+ Schirmer,K
+ Hoffman, and SAGES FLS Committee, Development and validation of a comprehensiveprogram of education and assessment of the basic fundamentals of laparoscopic surgery,[11] E
+ M
+ Ritter and D
+ J
+ Scott, Design of a proficiency-based skills training curriculum forthe fundamentals of laparoscopic surgery, Surg Innov, vol
+ 14, no
+ 2, pp
+ 107112, 
+[12] M
+ A
+ Kirkman, Deliberate practice, domain-specific expertise, and implications forsurgical education in current climes, J Surg Educ, vol
+ 70, no
+ 3, pp
+ 309317, 
+[13] D
+ Stefanidis, J
+ R
+ Korndorffer, Jr
+, S
+ Markley, R
+ Sierra, B
+ T
+ Heniford, and D
+ J
+ Scott,Closing the gap in operative performance between novices and experts: does harder meanbetter for laparoscopic simulator training? J Am Coll Surg, vol
+ 205, no
+ 2, pp
+ ,[14] M
+ Nagendran, C
+ D
+ Toon, B
+ R
+ Davidson, and K
+ S
+ Gurusamy, Laparoscopic surgicalbox model training for surgical trainees with no prior laparoscopic experience, Cochrane[15] M
+ A
+ Nitsche and W
+ Paulus, Sustained excitability elevations induced by transcranialDC motor cortex stimulation in humans, Neurology, vol
+ 57, no
+ 10, pp
+ 18991901, 
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    COX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 [16] A
+ Rahman, D
+ Reato, M
+ Arlotti, F
+ Gasca, A
+ Datta, L
+ C
+ Parra, and M
+ Bikson, Cellulareffects of acute direct current stimulation: somatic and synaptic terminal effects, J Physiol,[17] B
+ Fritsch, J
+ Reis, K
+ Martinowich, H
+ M
+ Schambra, Y
+ Ji, L
+ G
+ Cohen, and B
+ Lu, Direct[18] M
+ A
+ Nitsche and W
+ Paulus, Excitability changes induced in the human motor cortex byweak transcranial direct current stimulation, J Physiol, vol
+ 527, no
+ Pt 3, pp
+ ,[19] A
+ M
+ Goodwill, J
+ Reynolds, R
+ M
+ Daly, and D
+ J
+ Kidgell, Formation of cortical plasticityin older adults following tDCS and motor training, Front Aging Neurosci, vol
+ 5, no
+ ,[20] F
+ Hashemirad, M
+ Zoghi, P
+ B
+ Fitzgerald, and S
+ Jaberzadeh, The effect of anodaltranscranial direct current stimulation on motor sequence learning in healthy individuals:A systematic review and meta-analysis, Brain Cogn, vol
+ 102, pp
+ 112, 
+[21] M
+ A
+ Nitsche, A
+ Schauenburg, N
+ Lang, D
+ Liebetanz, C
+ Exner, W
+ Paulus, and F
+ Tergau,Facilitation of implicit motor learning by weak transcranial direct current stimulation ofthe primary motor cortex in the human, J Cogn Neurosci, vol
+ 15, no
+ 4, pp
+ ,[22] J
+ Reis, H
+ M
+ Schambra, L
+ G
+ Cohen, E
+ R
+ Buch, B
+ Fritsch, E
+ Zarahn, P
+ A
+ Celnik,and J
+ W
+ Krakauer, Noninvasive cortical stimulation enhances motor skill acquisition overmultiple days through an effect on consolidation, Proc Natl Acad Sci U S A, vol
+ ,[23] C
+ J
+ Stagg, G
+ Jayaram, D
+ Pastor, Z
+ T
+ Kincses, P
+ M
+ Matthews, and H
+ Johansen-Berg,Polarity and timing-dependent effects of transcranial direct current stimulation in explicit[24] S
+ Madhavan and B
+ Shah, Enhancing motor skill learning with transcranial direct currentstimulationa concise review with applications to stroke, Front Psychiatry, vol
+ 3, no
+ ,[25] I
+ S
+ Menezes, L
+ G
+ Cohen, E
+ A
+ Mello, A
+ G
+ Machado, P
+ H
+ Peckham, S
+ M
+ Anjos,I
+ L
+ Siqueira, J
+ Conti, E
+ B
+ Plow, and A
+ B
+ Conforto, Combined brain and peripheralnerve stimulation in chronic stroke patients with moderate to severe motor impairment,certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    COX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 [26] E
+ R
+ Buch, E
+ Santarnecchi, A
+ Antal, J
+ Born, P
+ A
+ Celnik, J
+ Classen, C
+ Gerloff,M
+ Hallett, F
+ C
+ Hummel, M
+ A
+ Nitsche, A
+ Pascual-Leone, W
+ J
+ Paulus, J
+ Reis, E
+ M
+Robertson, J
+ C
+ Rothwell, M
+ Sandrini, H
+ M
+ Schambra, E
+ M
+ Wassermann, U
+ Ziemann,and L
+ G
+ Cohen, Effects of tDCS on motor learning and memory formation: A consensusand critical position paper, Clin Neurophysiol, vol
+ 128, no
+ 4, pp
+ 589603, 
+[27] J
+ Reis and B
+ Fritsch, Modulation of motor performance and motor learning by transcranialdirect current stimulation, Curr Opin Neurol, vol
+ 24, no
+ 6, pp
+ 590596, 
+[28] A
+ R
+ Brunoni, M
+ A
+ Nitsche, N
+ Bolognini, M
+ Bikson, T
+ Wagner, L
+ Merabet, D
+ J
+Edwards, A
+ Valero-Cabre, A
+ Rotenberg, A
+ Pascual-Leone, R
+ Ferrucci, A
+ Priori, P
+ S
+Boggio, and F
+ Fregni, Clinical research with transcranial direct current stimulation (tDCS):challenges and future directions, Brain Stimul, vol
+ 5, no
+ 3, pp
+ 175195, 
+[29] M
+ Bikson, P
+ Grossman, C
+ Thomas, A
+ L
+ Zannou, J
+ Jiang, T
+ Adnan, A
+ P
+ Mourdouk-outas, G
+ Kronberg, D
+ Truong, P
+ Boggio, A
+ R
+ Brunoni, L
+ Charvet, F
+ Fregni, B
+ Fritsch,B
+ Gillick, R
+ H
+ Hamilton, B
+ M
+ Hampstead, R
+ Jankord, A
+ Kirton, H
+ Knotkova,D
+ Liebetanz, A
+ Liu, C
+ Loo, M
+ A
+ Nitsche, J
+ Reis, J
+ D
+ Richardson, A
+ Rotenberg, P
+ E
+Turkeltaub, and A
+ J
+ Woods, Safety of transcranial direct current stimulation: evidencebased update 2016, Brain Stimul, vol
+ 9, no
+ 5, pp
+ 641661, 
+[30] M
+ B
+ Iyer, U
+ Mattu, J
+ Grafman, M
+ Lomarev, S
+ Sato, and E
+ M
+ Wassermann, Safetyand cognitive effect of frontal DC brain polarization in healthy individuals, Neurology,[31] C
+ Poreisz, K
+ Boros, A
+ Antal, and W
+ Paulus, Safety aspects of transcranial direct currentstimulation concerning healthy subjects and patients, Brain Res Bull, vol
+ 72, no
+ 2-6, pp
+[32] P
+ Ciechanski, A
+ Cheng, S
+ Lopushinsky, K
+ Hecker, L
+ S
+ Gan, S
+ Lang, K
+ Zareinia,and A
+ Kirton, Effects of transcranial direct-current stimulation on neurosurgical skillacquisition: A randomized controlled trial, World Neurosurg
+, vol
+ 108, pp
+ 876884, 
+[33] K
+ E
+ Hupfeld, C
+ J
+ Ketcham, and H
+ D
+ Schneider, Transcranial direct current stimulation(tDCS) to the supplementary motor area (SMA) influences performance on motor tasks,[34] G
+ G
+ Ambrus, H
+ Al-Moyed, L
+ Chaieb, L
+ Sarp, A
+ Antal, and W
+ Paulus, The fade-inshort stimulationfade out approach to sham tDCSreliable at 1 mA for nave andcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    COX et al, TDCS FOR LAPAROSCOPIC SKILLS TRAINING, OCTOBER 2018 experienced subjects, but not investigators, Brain Stimul, vol
+ 5, no
+ 4, pp
+ 499504, 
+[35] A
+ Thielscher, A
+ Antunes, and G
+ B
+ Saturnino, Field modeling for transcranial magneticstimulation: A useful tool to understand the physiological effects of TMS? in Conf Proc[36] P
+ A
+ Harris, R
+ Taylor, R
+ Thielke, J
+ Payne, N
+ Gonzalez, and J
+ G
+ Conde, Researchfor providing translational research informatics support, J Biomed Inform, vol
+ 42, no
+ ,[37] D
+ J
+ Scott and E
+ M
+ Ritter
+ Fundamentals of Laparoscopic Surgery[38] M
+ J
+ Imburgio and J
+ M
+ Orr, Effects of prefrontal tDCS on executive function:certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 30, 
+ ;    

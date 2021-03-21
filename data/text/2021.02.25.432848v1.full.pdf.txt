@@ -1,0 +1,766 @@
+Screening of different cytotoxicity methods for the assessment of ENDS toxicity relative tobacco cigarettesScreening of different cytotoxicity methods for the assessment of ENDS toxicity relative 1 Department of Biomedical and Biotechnological Sciences, University of Catania, Via S
+ 2 Center of Excellence for the Acceleration of Harm Reduction (CoEHAR), University of 3 Department of Clinical and Experimental Medicine, University of Catania, Via S
+ Sofia, 97,  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Electronic Nicotine Delivery Systems (ENDS), i
+ e
+, electronic cigarettes (e-cigs) and Tobacco Heating Products (THPs), are rapidly growing in popularity
+ The marketing of these products is regulated by specific rules in the European Union and in the US, which permit their legal are still under development
+ Cytotoxicity studies are an important initial step in appraising the potential toxicity of ENDS
+ The aim of the present study was to screen a battery of different in vitro cytotoxicity methods for the assessment of toxicity induced by ENDS
+ We evaluated (HCS) assays and Real Time Cell Analysis (RTCA), to compare two e-cigs (Vype ePen 3 and Vype eStick Maxx) and two THPs (IQOS and GLO) with the 1R6F reference tobacco ciga-rette
+ Human bronchial epithelial cells (H292) were exposed to 1R6F smoke (5 puffs by HCI regime), ePen vapor (10 puffs by modified HCI regime), eStick vapor (25 puffs by CRM81 regime), IQOS vapor (7 puffs by HCI regime) and GLO vapor (8 puffs by HCI regime) at air-liquid interface
+ All tests showed reduced cell viability following 1R6F smoke exposure and slight or no reduction with ENDS at 24 hours compared to controls
+ In addition, Annexin V and RTCA exhibited a further significant reduction in cell viability following 1R6F exposure compared with other assays
+ Furthermore, Annexin V allowed to discriminate viable cells from those in early/late apoptosis
+ Finally, RTCA and HCS being time-resolved analyses al-lowed also to determine the kinetic dependency parameter for toxicity of smoke/vapor chemi-cals on cell viability
+ In conclusion, NRU assay may be considered a suitable test, especially when combined with a time-resolved test, for assessing the kinetic of cytotoxicity induced by  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Funding: This work was supported by a grant of the Foundation for a Smoke-Free World  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Cytotoxicity assays have been widely used to assess the toxicological impact of tobacco smoke (Belushkin et al, )
+ Indeed, regulatory authorities included in vitro toxicity tests in a battery of assays to detect all possible toxicity effects of tobacco products (Belushkin et al, 2014; CORESTA, )
+ Consequently, these toxicity assays are routinely used as standard methods by tobacco industry for product assessments (Baker et al, 2004a, 2004b; Dempsey et al, )
+ More recently marketing of alternative tobacco products, generally referred as electronic nicotine delivery systems (ENDS), including electronic cigarettes (e-cig) and tobacco heating products (THPs), increased the need to properly assess their potential toxic effects (Johnson et al, )
+ Currently, alternative tobacco products are tested following the standard approach used for tobacco products, but a more specific approach for e-cig and THPs could improve their toxicity assessment (Iskandar et al, )
+ However, the rapid evolution of these products, and their large variability, due to the lack of manufacturing standard, make it difficult to develop standard protocols for toxicity assessment (Davis et al, 2015; Iskandar et al, 2016; Kim et al, )
+ Neutral red uptake (NRU) is the most used assay for cytotoxicity evaluation in the context of tobacco products testing (Belushkin et al, 2014), and it is also included in the first non-genotoxicity in vitro assay accepted for the regulatory evaluation of chemical compounds (European Commission, 2000; OECD/OCDE, 2004; Repetto et al, )
+ The NRU cytotoxicity test is a cell survival/viability chemosensitivity test based on the ability of viable cells to incorporate and bind neutral red (NR), a weak supra-vital cationic dye that freely penetrates cell membranes by non-ionic diffusion and accumulates in lysosomes
+ Alterations of biological membranes leading to lysosomal fragility and other changes caused by the action of the chemical mixture (e
+ g
+, cigarette smoke) can result in a decrease in the absorption and binding of NR
+ This makes it possible to distinguish between viable, damaged  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    or dead cells
+ The degree of inhibition of growth, related to the concentration of the test compound, provides an indication of cytotoxicity expressed as a reduction in NR absorption after chemical exposure, thus providing a sensitive signal of both cell integrity and growth inhibition (Putnam et al, 2002; Repetto et al, 2008; The National Toxicology Program 2,5-diphenyl-2H-tetrazolium bromide (MTT, thiazolyl blue) is the most used among them
+ The water-soluble MTT salts are incorporated by viable cells due to their net positive charge, and then reduced by dehydrogenases and other reducing agents contained in metabolically active cells (Berridge et al, 2005; Stockert et al, )
+ The reduction of MTT leads to the formation of insoluble violet-blue formazan product, which are proportional to cell viability (Berridge et al, 2005; Johnson et al, )
+ The use of the above-described methods has some drawbacks since they do not discriminate among apoptosis, necrosis or autophagy thus leading to a possible underestimation of toxicity
+  Indeed, the induction of programmed cell death (i
+ e
+, apoptosis) and necrosis processes represent crucial steps in the evaluation of cytotoxicity
+ In particular, though apoptosis is not an inflammatory form of programmed cell death, it is well known that cigarette smoke induces apoptosis in human bronchial epithelial cells (Comer et al, 2013; Imai et al, )
+ Annexin V evaluation by cytofluorimetric analysis to assess apoptosis represents a useful tool to measure of cytotoxicity even though it with an overall overview of biological response and monitoring them continuously over time (Iskandar et al, )
+ These new rapid methods, alongside with the classic cytotoxicity assay, could provide a deeper knowledge on toxicity of alternative tobacco products
+ Two of  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    these new methods are the High content screening (HCS)-based multiparametric analysis and the Real-Time Cell-based Assay (RTCA) technology
+ HCS analysis represents a useful tool in early toxicity testing because it allows to measure simultaneously numerous parameters stress and morphological parameters without the use of specific dyes (Mandavilli et al, )
+ Instead RTCA, a real-time cellular biosensor, allows for uninterrupted, label free, and real time analysis of cells over the course of an experiment with the advantages of avoiding marks, violation to the cell, and overcoming the interference of the compounds in detection Since there is not a specific indication or protocol for toxicity evaluation of e-cig and THPs products on human bronchial epithelial cells, we evaluated a number of in vitro cytotoxicity assays (i
+ e
+, NRU assay, MTT assay, Annexin V apoptosis assay, NRU assay, HCS and RTCA technologies) by comparing two brands of e-cig (Vype ePen 3 and Vype eStick Maxx), two THPs (IQOS and GLO) with the 1R6F research cigarettes using human  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    1R6F reference cigarettes (Center for Tobacco Reference Products, University of Kentucky) were used for smoke exposure
+ These cigarettes have been reported to produce 
+8 mg TPM, 
+1 mg tar and 
+896 mg nicotine per cigarette smoked following HCI regime (Center for Tobacco Reference Products Kentucky University, )
+  Cigarettes were conditioned at 221 C and 603 % of relative humidity for at least 48 hours according to ISO 3402:1999 guidelines
+ LM1 smoking machine (Borgwaldt KC GmbH, Hamburg  Germany) was used to smoke 5 puffs of 1R6F cigarette following HCI regime which ensures a 55 ml, 2 s duration bell shape profile, puff every 30 s with filter vent blocked
+ Vapor exposure was carried out using two electronic cigarettes, Vype ePen 3 and Vype eStick (British American Tobacco;   (Azzopardi et al, 2016) and two THPs, IQOS Duo (Philip Morris  Vype ePen3 is a closed-system e-cigarette with a cotton wick comprising a rechargeable 650 mAh battery and actuation button, and a disposable cartridge with integral mouthpiece
+ The device has a single 6 W power setting
+ Vype eStick is puff-activated cigarette-like product consisting of two modules, a rechargeable battery section and a replaceable liquid (e-liquid) containing cartridge (cartomizer) operating at 
+7 V (Azzopardi et al, )
+ IQOS Duo consists of three distinct components that perform different functions: (i) a tobacco stick containing a tobacco powder with the addition of water, glycerin, guar gum and cellulose fibers, (ii) a holder into which the tobacco stick is inserted and which heats the tobacco material by means of an electronically controlled heating blade from inside the tobacco stick, and (iii) a charger that is used to recharge the holder after one or two uses
+ The temperature of the heating blade is carefully controlled and  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    the operating temperature does not exceed 350C (Bekki et al, 2017; Li et al, )
+ GLO Pro includes two parts: an electronic handheld device with a heating chamber equipped with a rechargeable Li-ion battery (3000 mAh capacity), and a custom-made tobacco rod to be inserted into the heating chamber
+ The electronic device has a heating module separately controlled by the inbuilt software, and thus, the tobacco rod is heated to less than 250C from the periphery
+ This is significantly lower than the major pyrolysis and combustion temperature ranges seen in a lit cigarette (typically between 350C and 900C) but is sufficient to release nicotine, glycerol (added as the main aerosol agent) and volatile tobacco flavor compounds (Eaton et al, )
+ Master Blend flavored variant containing 18 mg/mL nicotine was used for Vype ePen3, Toasted Tobacco flavored variant containing 18 mg/mL nicotine was used for Vype eStick Maxx, Heets Sienna Selection was used for IQOS duo, and Neo Sticks Ultramarine was used for GLO Pro
+ Vapor exposure was performed using LM4E vaping machine (Borgwaldt KC GmbH, Hamburg  Germany)
+ Vype ePen3 (button-activated e-cigarette) was vaped following a modified HCI regimen (55 mL puff volume, drawn over 2 s, once every 30 s with square shape profile) plus 1 s of pre-activation, for 10 puffs
+ Vype eStick Maxx was vaped following CRM81 regimen (55 mL puff volume, drawn over 3 s, once every 30 s with square shape profile) for 25 puffs
+ IQOS Duo and GLO Pro were vaped using HCI regime without blocking the filter vents, to avoid the device overheating, for 7 and 8 puffs respectively
+ The ENDS product batteries were fully charged before use and a fresh e-liquid cartridge for e-cig were used
+ The puff number for each product was established according to nicotine dose delivered from 1R6F causing the 50% of cell death (data not shown), in order to have the similar nicotine  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    cultured as described previously by Azzopardi et al 2015 ()
+ Briefly, H292 cells were cultured in RPMI 1640 medium (10% foetal bovine serum, 2 mM L-glutamine, 50 U/ml penicillin and 50 mg/ml streptomycin) at 37 C, 5% CO2 in a humidified atmosphere
+ Then, cells were seeded in 12 mm Transwells inserts (Corning Incorporated, NY, USA) at a density of 3x105 cells/ml sustained by 1 ml of RPMI medium in the basal compartment of each well and 
+5 ml in the apical compartment of each Transwell insert, 48 hours prior to exposure
+ Cell starvation was done 24 hours prior to exposure by replacing the basal and apical medium with 1 mL and 
+5 mL respectively of UltraCULTURE containing 2 mM glutamine, 50 U/mL penicillin and 50 g/mL streptomycin
+ Next, when the 80% confluency was reached, the apical medium was removed from each insert and two inserts per test product were transitioned to the exposure chamber with 20 ml of DMEM-high glucose (DMEM-hg) in the basal compartment in order to perform the air-liquid interface (ALI) exposure (Fig
+ )
+ This exposure method is the most physiologically relevant for bronchial epithelial cell lines (e
+ g
+, H292) exposing them to all fractions and components of smoke/vapor (Azzopardi et al, )
+ For each smoking/vaping regime, one exposure chamber was connected to the LM4E port without the device so as to expose H292 cells to laboratory air filtered by a Cambridge Filter Pad at the same regime (AIR control)
+ Moreover, 2 negative controls, consisting of 1 seeded insert with media submerged (INC) and 1 seeded insert without apical media (ALI) in the incubator, and 1 positive control with 1 ml apical and 2 ml basal sodium dodecyl sulphate (SDS) at 350 M were included for each set of exposure
+ After each exposure, the inserts were transferred from the chamber to a clean well plate, adding 1 mL and 
+5 mL of supplemented UltraCULTURE respectively at the basal and apical side for 24 hours of recovery period
+ The recovery period was not performed for Neutral Red Uptake (NRU) Assay in live and xCELLigence Real-Time Cell analysis
+  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Figure 
+ Exposure at AIR-Liquid Interface (ALI)
+ (A) H292 cells are seeded in Transwell inserts
+ (B) At 80% confluency, the apical medium is removed from the inserts, and then (C) transitioned to the exposure chamber with 20 ml of DMEM-hg in the basal compartment
+ (D) The exposure chamber is placed in a controlled temperature incubator (37C) and connected with smoking/vaping machine through the IN tube
+ An OUT tube is connected to the exhaust
+ After 24 h recovery period, UltraCULTURE medium was removed and exposed cells were washed twice with phosphate buffered saline (PBS)
+ Then, cells were incubated with Neutral Red (NR) dye (
+05 g/L in UltraCULTURE) for 3 h at 37 C, 5% CO2 in a humidified atmosphere
+ Next, other two washes with PBS were done to remove unincorporated dye
+ 500 l of destain solution (50% ethanol, 49% distilled water, 1% glacial acetic acid; V:V:V) was added to each insert in order to elute incorporated NR from cells by incubation for 10 min at 300 rpm on a plate shaker
+ NR extracts were transferred to a 96-well plate in triplicate, in aliquots of 100 l per well
+ The optical density of NR extracts was read with a microplate spectrophotometer (Synergy HT, BioTek) at 540 nm using a reference filter of 630 nm
+ A blank insert (without cells) was used to assess how much NR solution stains the Transwells NRU levels of treated cells were expressed as a percentage of air-exposed controls
+  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Basal and apical UltraCULTURE medium was removed after 24 hours of recovery
+ Cells were washed twice with PBS and then incubated with 
+5 ml (
+5 ml apical and 1 ml basal) of UltraCULTURE for 3 hours at 37 C, 5% CO2 in a humidified atmosphere
+ Next, 500 l of DMSO was added to each insert and incubated for 10 min at 300 rpm on a plate shaker in order to dissolve the formazan crystals produced
+ The eluted formazan crystals were transferred to a 96-well plate in triplicate, in aliquots of 100 l per well
+ The optical density of MTT extracts was read with a microplate spectrophotometer (Synergy HT, BioTek) at 570 nm
+ A blank insert (without cells) was used to assess how much MTT salts were trapped in each measurement
+ Cell viability was expressed as percentage of air-exposed controls
+ Evaluation of apoptosis and necrosis was performed using the Muse Annexin V & dead cell Kit (Luminex Corporation, Austin - USA)
+ After a recovery period of 24 hours, H292 cells medium
+ Each exposure condition was assayed in duplicate
+ The assay was carried out following the manufacturers instructions
+ Viable cells [Annexin V-PE () and 7AAD ()], early apoptotic cells [Annexin V-PE (+) and 7AAD ()], advanced apoptotic cells [Annexin V-PE (+) and 7AAD (+)], and dead cells [Annexin V-PE () and 7AAD (+)] were evaluated as percentage gated
+ The percentage of viable cells was expressed as percentage of HCI-AIR  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Exposed H292 cells were washed twice with PBS and detached from the inserts with 
+25% trypsin
+ Cells were seeded in a CellCarrier-96 well (PerkinElmer) at a density of 1x104 cells/ml, and incubated at 37 C, 5% CO2 for 24 hours
+ Next, the cells were labelled with 100 l of a solution consist of 
+05 g/L NR dye and 2 droplets/ml NucBlue (Invitrogen) in UltraCULTURE by incubating for 3 h at 37 C, 5% CO2 in a humidified atmosphere
+ After the 3 hours of staining, medium was removed from each well and cells were washed twice with PBS
+ Then, 200 l of fresh supplemented RPMI-1640 medium was added in each well
+ The plate was read under confocal conditions using the 20x long WD objective by High Exposed H292 cells were monitored every 1 h until 24 h and, then every 4 h until 48 h
+ All (PerkinElmer)
+ Final output values from the analysis are expressed as mean fluorescence intensity (MFI) percentage of control per well
+ Live cell viability curves were generated for At the end of each exposure, H292 cells were washed twice with PBS, trypsinized (
+25% trypsin), counted and resuspended in supplemented RPMI-
+ Next, cells were seeded in E-16 xCELLigence plate at a density of 3 x 103 cells/ml per well
+ The plates were then incubated at 37 C, 5% CO2 for 30 min in order to allow cell settling
+ Real-time cell changes in electrical impedance were measured and expressed as cell index, defined as (Rn-Rb)/15, where Rb is the background impedance and Rn is the impedance of the well with cells
+ The background impedance was measured in E-plate 16 with 100L medium (without  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    cells) after 30 min incubation period at room temperature
+ Cell proliferation was monitored Distribution of data was assessed using the Shapiro-Wilk test
+ Data were summarised using the meanstandard deviation (SD)
+ Comparisons of NRU, MTT, Annexin V Apoptosis results, and comparisons among the assays were made using one-way analysis of variance multiple comparisons
+ For NRU in live imaging and xCELLigence Real-Time Cell analysis, p values were calculated by applying two-way ANOVA with differences between groups and multiple linear regression analyses were performed in order to verify the relationships among the cell viability curves
+ All analyses were considered significant with a p-value of less than 5 %
+ Analyses of data were performed using R version 
+ 
+1 (R Core Team, )
+ NRU cell viability assay showed that all used products had a significant difference with an overall p value< 
+0001 (Fig
+ )
+ Particularly, we observed a significant reduction of cell viability after exposure to 1R6F smoke (
+02%  
+78) compared to AIR-HCI control (p< 
+ )
+ Similarly, significant cell viability decrease was observed after exposure to IQOS (
+35%  
+88) (p< 
+001), and GLO (
+98%  
+99) (p< 
+01) compared to AIR-HCI control
+ On the other hand, H292 exposure to ePen vapor showed no reduction in cell viability (
+63%  
+97) compared to AIR-mHCI control (p> 
+ )
+  No reduction in cell viability was also observed in H292 cells exposed to eStick vapor (
+59%  
+06)  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    compared to AIR-CRM81 control
+ Cross comparisons among the study products showed that cell viability reduction after 1R6F exposure is significantly different when compared to all the other products (p values < 
+ )
+ Furthermore, significant differences were observed for IQOS vs eStick (p< 
+0001), IQOS vs ePen (p= 
+006), GLO vs eStick (p< 
+0001), and ePen vs eStick (p= 
+ )
+ Instead, no significant differences were observed for GLO vs ePen Figure 
+ Evaluation of cell viability by NRU assay
+ Cell viability of each tested product is expressed as percentage of its AIR control
+ The mean  SD values were respectively, 
+02  
+78% for 1R6F, 
+35  
+88% for IQOS, 
+98  
+99% for GLO, 
+63  
+97% for ePen, and 
+59  
+06% for eStick
+ Significance code: p< 
+0001 () vs AIR control; p< 
+001 (#) vs AIR control; p< 
+01(**) vs AIR control
+  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Consistently with NRU assay we observed a significant difference among the products tested in this study with an overall p value< 
+0001 (Fig
+ )
+ Considerable H292 cell viability reduction was shown after exposure to 1R6F smoke with 
+21  
+95% of viable cells, compared to AIR-HCI control (p< 
+ )
+ Instead, the meansSD of cell viability percentage after exposure to IQOS, 
+29  
+95 %, GLO, 
+79  
+54 %, ePen, 
+08  
+79 %, and eStick, 
+69  
+63 %, were not different from their related AIR controls
+ Moreover, cross comparisons among these products showed no significant differences in cell viability percentages (p values> 
+ )
+ Conversely, cell viability after exposure to IQOS, GLO, ePen, and eStick was significantly higher compared to cell viability after 1R6F smoke  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Figure 
+ Evaluation of cell viability by MTT assay
+ Cell viability of each tested product is expressed as percentage of its AIR control
+ The mean  SD values were respectively, 
+21  
+95% for 1R6F, 
+29  
+95 % for IQOS, 
+79  
+54 % for GLO, 
+08  
+79 % for ePen, and 
+69  
+63 % for eStick
+ Significance Flow cytometric evaluation of apoptosis and necrosis of H292 cells exposed to 1R6F cigarette smoke, THPs (IQOS and GLO), and e-cig (ePen and eStick) is shown in Figure 
+ The mean  SD of viable cells percentage gated is significantly lower for cells exposed to 5 puff of 1R6F cigarette, 
+35  
+2 %, compared to exposure with IQOS, 
+95  
+7%, GLO, 
+55  
+91%, ePen, 
+55  
+4%, eStick, 
+55  
+8%, with p values <
+ 
+ Moreover,  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    significant increase of advanced apoptotic cell percentage was observed for cells exposed to 1R6F cigarette, 
+15  
+6 %, compared to cells exposed to IQOS, 
+2  
+8%, GLO, 
+15  
+2%, ePen, 
+9  
+6%, eStick, 
+5  1%, (p values <
+ )
+ Also, the percentage of early apoptotic cells after exposure to 1R6F cigarette, 
+55  
+5%, was significantly different from AIR-HCI control, 
+75  
+2% (p= 
+01), and eStick, 
+6  
+7%, (p= 
+ )
+ No differences were observed between early apoptotic cells after exposure to 1R6F cigarette and Figure 
+ Evaluation of apoptosis and necrosis after smoke/vapor exposure
+ Each bar in the chart represents the whole (100%) of cell gated for the tested products, and segments in each bar represent  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    the percentage of viable cells, early apoptotic cells, advanced apoptotic cells, and dead cells
+ Data An alternative approach of NRU assay was performed using the Operetta High-Content Imaging System (PerkinElmer)
+ H292 cells labelled with Neutral Red dye were monitored for 48 h after exposures (Figure )
+ MFI values were normalised with the number of viable cells (labelled with NUCblue dye), and cell viability was expressed as MFI percentage of related air control
+ We observed a significant difference among the H292 cell viability curves during the observation time (p< 
+ )
+ 1R6F cell viability curve was much lower compared to AIR control and other product curves, whereas the trends of NGPs were more similar to each other with a cell proliferation % reduction higher than RF
+ Particularly, exposure to 1R6F smoke significantly decreased H292 cell viability compared to AIR-HCI control starting from the 2th hour (p< 
+0001) until 24 h (p< 
+0001) and 48 h (p< 
+ )
+ Moreover, H292 cell viability curve of 1R6F was significantly reduced compared to all the other tested products at 24 h (1R6F vs IQOS p value= 
+02; 1R6F vs GLO p value< 
+001; 1R6F vs ePen p value< 
+001; 1R6F vs eStick p value= 
+ )
+ However, no significant decrease of H292 cell viability curve of 1R6F compared to GLO, ePen and eStick were observed at 48 h (p values> 
+ )
+ Instead, the H292 cell viability curve of IQOS was not different compared to 1R6F curve until 11 h, but it was significant different from 12h to 48 h (p values> 
+ )
+ Furthermore, the comparison between GLO curve and AIR-HCI was significantly different at 24 h (p= 
+017), but it was not significant at h
+ No significant differences were observed in H292 cell viability curves of GLO compared to AIR-HCI control at 24h, but this comparison becomes significant at 48 h (p<
+ )
+ Also, the comparison between H292 cell viability curve of ePen and AIR-mHCI control was not significant at 24h, but it was significant at 48h (p< 
+ )
+ Instead, H292 cell viability curve of eStick was significantly different compared  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    to AIR-CRM81 control both at 24 h (p= 
+038) and 48h (p= 
+ )
+ The comparison among the H292 cell viability curves of AIR controls showed no significant differences
+ Linear regression analysis showed a significant relationship among the AIR controls (p< 
+ )
+ Additionally, significant relationship was observed among 1R6F, IQOS and GLO vs AIR-HCI control (p< 
+ )
+ Significant associations were also observed for ePen vs AIR-mHCI Figure 
+ Cell viability by NRU using Operetta live imaging system
+ Data are reported as MFI percentage of Real-Time Cell viability analysis of H292 cell exposed to 1R6F cigarette smoke, THPs (IQOS and GLO), and e-cig (ePen and eStick) was also evaluated immediately after the exposures for 48 h (Figure )
+ Cell index values were normalised with mean control value and data were expressed as percentages of related air control values
+ A significant difference among the H292 cell viability curves was observed over time (p< 
+ )
+ As expected,  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    1R6F cell viability curve was much lower compared to AIR control with significant differences for all the analysed time points (p< 
+ )
+ THPs cell viability curves showed a similar trend with significant decreases from AIR control both at 24 h (IQOS p< 
+0001; GLO p= 
+003) and 48 h (IQOS p< 
+0001; GLO p< 
+ )
+ However, no significant differences were shown between THPs and 1R6F cell viability curves
+ Moreover, THPs cell viability curves were significantly lower compared to eStick both at 24 h (IQOS p< 
+0001; GLO p< 
+0001) and 48 h (IQOS p< 
+0001; GLO p< 
+0001), but no significant differences were showed between THPs and ePen cell viability curves
+ H292 cell viability curve after exposure to ePen vapor was not different from AIR control at 24h (p> 
+05), but a significant decrease was observed at 48 h (p= 
+ )
+ Furthermore, ePen cell viability was significantly increased compared to 1R6F at 24h (p=
+002) but no difference was observed at 48 h (p>
+ )
+ Exposure to eStick vapor showed a very different cell viability trend compared to AIR control and the other products
+ Indeed, cell viability of eStick was significantly increased already after 1h compared to both AIR control (p< 
+0001) and the other products (p< 
+ )
+ eStick cell viability started to decrease after approximately 24 h until 48 h, but, in spite of this, the differences remained significant compared to AIR control (p<
+001) and  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Figure 
+ xCELLigence Real-Time Cell viability Analysis
+ Data are reported as Cell Index percentage of related Percentages of viable cells observed with the different cytotoxicity assays are reported in table 
+ Cross-comparison results are shown in Tables A1 (1R6F), A2 (ePen), A3 (eStick), A4 (IQOS), and A5 (GLO) of the Appendix A
+ Even though all the cytotoxicity assays showed decreased cell viability after 1R6F exposure, we observed significant differences among them (p< 
+ )
+ Indeed, almost all of cross-comparisons were significant (p values< 
+ )
+ Particularly, substantial reduction in cell viability after 1R6F exposure was observed with Annexin V and RTCA assays compared with other assays (p values < 
+ )
+ Also, the comparisons among NRU, MTT, Annexin V, NRU HCS, and RTCA assays were significantly different
+ But, the cross-comparisons showed that only the comparisons with  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Table 
+ Comparison of viable cells percentages obtained with different cytotoxicity assays at 24 1R6F 
+029  
+78% 
+21  
+95% 
+66  
+58 % 
+03  
+22% -
+1  
+17% <
+001 IQOS 
+315  
+88% 
+29  
+95 % 
+98  
+83% 
+38  
+57% 
+64  
+41% <
+001 GLO 
+984  
+99% 
+79  
+54 % 
+08  
+21% 
+39  
+57% 
+58  
+87% <
+001 ePen 
+631  
+97% 
+08  
+79 % 
+00  
+50% 
+36  
+76% 
+96  
+74% 
+003 eStick 
+586  
+06% 
+69  
+63 % 
+4  
+10% 
+97  
+21% 
+74  
+77% <
+001 All data are reported as mean  SD of percentage of their respectively AIR control
+ P values were calculated using one-way ANOVA
+ Tobacco smoke consists of a complex mixture of gaseous and particulate components as a result of the combustion of organic matter
+ The cytotoxic effects are particularly relevant on bronchial epithelial cells which are directly exposed to smoke in human lungs
+ Different approaches were used to test and quantify these effects (Li, 2016; Putnam et al, )
+ The marketing of ENDS like THP and e-cig during the last decade, requires inclusion of new burning cigarettes and no-burning products (Belushkin et al, )
+ These assays are important to inform the regulatory bodies about their safety profile
+ It is therefore necessary to compare the cytotoxicity induced by ENDS with that induced by tobacco cigarettes and to evaluate the possible reduction of the damage triggered by these novel devices
+ One of the most used methods to evaluate cytotoxicity induced by ENDS vapor vs cigarette smoke is NRU assay
+  A low cost and easy test for indirect measurement of cell viability
+ But this assay, as many other cell viability and toxicity tests, has its own limitations (The National  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Toxicological Methods (NICEATM), )
+ In fact, any chemical affecting lysosomes may alter the result of the cell count and viability
+ This factor makes the system particularly sensitive to chemicals capable of specifically altering the lysosomal pH and cellular environment with consequent overestimation of the toxic effect
+ Considering the acidifying capacity of cigarette smoke, the possibility of altering the result with a pH-sensitive dye cannot be excluded
+ Previous reports showed no significant differences between NRU and MTT cytotoxicity evaluations with cigarette smoke and THP vapor (Davis et al, )
+  However, different studies concluded that NRU assay was the most sensitive cytotoxicity assay for moderate (3-6 h) and longer (12, 18 and 24 h) exposure times to smoke condensate compared to other cytotoxicity assays such as LDH release, kenacid blue binding, MTT, XTT, acid phosphatase activity, sulforhodamine B binding and resazurin binding (Putnam et al, )
+ Unfortunately, these studies, exposed bronchial epithelial cells to condensate smoking extract (CSE), and thus only to the water-soluble components of smoke/vapor, and therefore cannot be considered as reference studies in the toxicological assessment of cigarettes and ENDS
+ However, they have raised an important technical issue regarding the gold standard for toxicological evaluations
+ Therefore, we compared the standard NRU assay with the MTT assay (i), Annexin V Apoptosis Assay (ii), with an updated version of the NRU assay combined with HCS analysis (iii) and, finally, with a RTCA technology (iv) to evaluate the performance of these tests in the assessment of cigarette smoke and ENDS vapor induced cytotoxicity in a whole smoke/vapor ALI-exposed model of bronchial epithelial cells (H)
+ Our results, independently from the test used, showed an overall reduced toxicity in bronchial epithelial cells exposed to ENDS vapor when compared to cigarette smoke exposure
+ However, different cytotoxicity results were observed for each assay on the basis of the evaluated cytotoxic mechanism and the peculiarity of each test
+ In particular, NRU and MTT results showed that 5 puffs of smoke from 1R6F cigarette were sufficient to adversely affect  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    the uptake of dye and the metabolism of H292 bronchial cells
+ We also observed a slight significant difference of viable cells with NRU assay and MTT assay (Table A)
+ The MTT assay detects a higher percentage of cells survived to the exposure to 1R6F cigarette smoke
+ On the other hand, different results were obtained from NRU and MTT assays for H292 cells exposed to vapor of e-cig and THPs (Table A-A)
+ Both, MTT and NRU assays did not show any difference between exposures to e-cigarettes and their AIR controls (Table A2, A)
+ Similarly, no significant differences between exposures to THPs and AIR control were detected by MTT assay (Figure )
+ Our results are consistent with previous studies showing similar results on reduced cytotoxicity of e-cig and THPs compared to cigarette smoke (Davis et al, 2019; Leigh et al, 2018; Sohal et al, )
+ We also observed a significant reduction of H292 cell viability between exposures to THPs and their AIR controls by NRU assay (Figure 2), suggesting that this assay is more sensitive compared to MTT for the cytotoxicity The reduction of MTT leads to the formation of insoluble violet-blue formazan product, which are proportional to cell viability
+ Therefore, the acidic pH of the medium can modify the absorption spectrum of the cationic formazan altering the outcome of this test and representing an important bias for the interpretation of the results, particularly when it comes to tobacco products known to modify the pH of the medium (Brunnemann & Hoffmann, 1974; Henningfield et al, )
+  This aspect has to be considered when interpreting data from MTT assay on the effect of a complex chemical mixture, such as tobacco smoke and ENDS vapor, on cells, both to correctly interpret the result obtained and to evaluate a possible overestimation of viable cells
+ The reduction of pH by cigarette smoke on the culture medium could explain the high viability detected by MTT assay compared to NRU assay with 1R6F cigarette smoke, differently from ENDS vapor exposure, particularly for e-cig  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Our results obtained by Annexin V evaluation showed high reduction of viable cells after exposure to 1R6F [Annexin V-PE () and 7AAD ()] compared to NRU and MTT assays with a substantial percentage of cells in advanced apoptosis [Annexin V-PE (+) and 7AAD (+)]
+ Comparing the percentage of viable cells obtained by the Annexin V apoptosis assay to that obtained by MTT assay, the result of viable cells by the latter assay is even higher
+ MTT is mainly reduced by the coenzyme NAD(P)H and glycolytic enzymes of the endoplasmic reticulum (Berridge et al, )
+ Since in cells undergoing early apoptosis coenzyme NAD(P)H and glycolytic enzymes remain intact and able to reduce MTT to formazan, the formation of this colored product in MTT assay could be viewed as a measure of the rate of glycolytic NAD(P)H production
+ Hence, a decrease in the concentration of D-glucose, NADH or NADPH in the culture medium may be accompanied by a decrease in MTT-formazan production
+ Another reason why the results of viable cells by MTT assay are higher may be due to test product different pH levels affecting the culture medium, to which the NRU assay does not seem to be sensitive
+ Our results suggest that for each product the results obtained by Apoptosis Annexin V assay are quite similar in terms of viable cells obtained with the classical NRU assay (Figure 4 and 2) due to the integrity of cell membranes in the early phase of apoptosis
+ Finally, effects of chemical mixture contained in smoke/vapor could result in changes in enzymatic activity that could influence the results of NRU and MTT assays (Winikoff et al, )
+ Cytotoxicity analysis by all these assays have the limit to detect live/dead cells at a given time (24 hours), without the possibility of understanding how cells behave in a continuum
+ Therefore, we also performed an NRU imaging assay, preparing a protocol on live imaging for NRU in lysosomes, then observing the morphological changes and the phenotypic fingerprinting, indicator of metabolically active cells over the time (from 0 to 48 hours), going therefore beyond the determination of cytotoxicity in classical tests
+   (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Finally, the RTCA data are produced and collected during the whole time of running protocol, and hence there is the possibility of assessing the effect of smoke/vapor on cells at any time of the post-exposure time (0 - 48 hours), generating proliferation profiles in one single experiment (Figure )
+ By comparing of the results from this technique and the others we observed a strong deviation from the others at 24 hours, in particular for the 1R6F cigarette smoke and for THP vapor exposure
+ Despite a good number of viable cells for e-cigs, there is a significant difference between the data obtained for the other products
+ The fact that this method mainly detects the ability of cells to attach and proliferate suggest that cells are viable and metabolically active
+ However, our results suggest that cells exhibit delayed replication as suggested by low cellular indexes following treatment with cigarette smoke and THP vapor, but not with treatment with e-cig vapor (Figure 6 and Table )
+ This data needs to be further investigated to better understand the limitations or benefits of RTCA for the assessment of these products
+ RTCA and HCS still have the advantage to generate a time-dependent growth/mortality profile in a single experimental run, differently from other assays
+ This is a relevant point allowing to determine and derive the kinetic dependency parameter for effectiveness and potency of smoke/vapor in the cell metabolism
+ However, these methods have some limitations related to the costs of the instruments and personnel training for non-routinary methodology
+ Increased costs for performing such tests are also depending on those related for buying dedicated disposable parts for imaging and RTCA
+ In conclusion, MTT assay applied to the assessment of the cytotoxicity induced by cigarette smoke and ENDS vapors could suffer from potential interference due to the intrinsic nature of these chemical mixtures
+ Instead, NRU assay is a more appropriate test for assessing the cytotoxicity induced by these products
+ However, it should be combined with a time-resolved  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    test, particularly when studying new products and devices whose kinetics are unknown
+ Furthermore, it would be advisable to deepen the results of the NRU assay with a flow cytometric test evaluating apoptosis and necrosis in order to increase toxicological sensitivity
+  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Azzopardi, D
+, Haswell, L
+ E
+, Foss-Smith, G
+, Hewitt, K
+, Asquith, N
+, Corke, S
+, & Phillips, G
+ (2015, Oct)
+ Evaluation of an air-liquid interface cell culture model for studies on the inflammatory and cytotoxic responses to tobacco smoke aerosols
+ Toxicol In Vitro, 29(7), -
+ Azzopardi, D
+, Patel, K
+, Jaunky, T
+, Santopietro, S
+, Camacho, O
+ M
+, McAughey, J
+, & Gaa, M
+ (2016, Jul)
+ Electronic cigarette aerosol induces significantly less cytotoxicity than tobacco Baker, R
+ R
+, Pereira da Silva, J
+ R
+, & Smith, G
+ (a)
+ The effect of tobacco ingredients on smoke chemistry
+ Part I: Flavourings and additives
+ Food Chem Toxicol, 42 Suppl, S-
+ Baker, R
+ R
+, Pereira da Silva, J
+ R
+, & Smith, G
+ (b)
+ The effect of tobacco ingredients on smoke chemistry
+ Part II: casing ingredients
+ Food Chem Toxicol, 42 Suppl, S-
+ Bekki, K
+, Inaba, Y
+, Uchiyama, S
+, & Kunugita, N
+ ()
+ Comparison of Chemicals in Mainstream Smoke in Heat-not-burn Tobacco and Combustion Cigarettes
+ J uoeh, 39(3), -
+ Belushkin, M
+, Piad, J
+ J
+, Chapman, S
+, & Fazekas, G
+ (2014, Mar)
+ Investigating predictability of in vitro toxicological assessments of cigarettes: analysis of 7 years of regulatory submissions to Berridge, M
+ V
+, Herst, P
+ M
+, & Tan, A
+ S
+ ()
+ Tetrazolium dyes as tools in cell biology: new Brunnemann, K
+ D
+, & Hoffmann, D
+ (1974, Feb)
+ The pH of tobacco smoke
+ Food Cosmet Toxicol, Center for Tobacco Reference Products Kentucky University
+ ()
+ Certificate of Analysis: 1R6F Comer, D
+ M
+, Kidney, J
+ C
+, Ennis, M
+, & Elborn, J
+ S
+ (2013, May)
+ Airway epithelial cell apoptosis and inflammation in COPD, smokers and nonsmokers
+ Eur Respir J, 41(5), -
+ CORESTA
+ ()
+ The CORESTA E-Cigarette Task Force
+ The rationale and strategy for conducting Davis, B
+, Dang, M
+, Kim, J
+, & Talbot, P
+ (2015, Feb)
+ Nicotine concentrations in electronic cigarette  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Davis, B
+, To, V
+, & Talbot, P
+ (2019, Dec)
+ Comparison of cytotoxicity of IQOS aerosols to smoke from Marlboro Red and 3R4F reference cigarettes
+ Toxicol In Vitro, 61, 
+ Dempsey, R
+, Coggins, C
+ R
+, & Roemer, E
+ (2011, Oct)
+ Toxicological assessment of cigarette Eaton, D
+, Jakaj, B
+, Forster, M
+, Nicol, J
+, Mavropoulou, E
+, Scott, K
+, Liu, C
+, McAdam, K
+, Murphy, J
+, & Proctor, C
+ J
+ (2018, ///)
+ Assessment of tobacco heating product THP
+ 
+ Part European Commission
+ ()
+ Commission Directive 2000/33/EC of 25 April 2000 adapting to technical progress for the 27th time Council Directive 67/548/EEC on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances (Text with EEA relevance
+), CELEX
+ Publications Office of Henningfield, J
+ E
+, Fant, R
+ V
+, Radzius, A
+, & Frost, S
+ (1999, Jun)
+ Nicotine concentration, smoke pH and whole tobacco aqueous pH of some cigar brands and types popular in the United States
+ Imai, K
+, Mercer, B
+ A
+, Schulman, L
+ L
+, Sonett, J
+ R
+, & D'Armiento, J
+ M
+ (2005, Feb)
+ Correlation of lung surface area to apoptosis and proliferation in human emphysema
+ Eur Respir J, 25(2), Iskandar, A
+ R
+, Gonzalez-Suarez, I
+, Majeed, S
+, Marescotti, D
+, Sewer, A
+, Xiang, Y
+, Leroy, P
+, Guedj, E
+, Mathis, C
+, Schaller, J
+ P
+, Vanscheeuwijck, P
+, Frentzel, S
+, Martin, F
+, Ivanov, N
+ V
+, Peitsch, M
+ C
+, & Hoeng, J
+ (2016, Jul)
+ A framework for in vitro systems toxicology assessment Johnson, M
+ D
+, Schilz, J
+, Djordjevic, M
+ V
+, Rice, J
+ R
+, & Shields, P
+ G
+ (2009, Dec)
+ Evaluation of in vitro assays for assessing the toxicity of cigarette smoke and smokeless tobacco
+ Cancer Kim, S
+, Goniewicz, M
+ L
+, Yu, S
+, Kim, B
+, & Gupta, R
+ (2015, May )
+ Variations in label information and nicotine levels in electronic cigarette refill liquids in South Korea: regulation challenges
+ Leigh, N
+ J
+, Tran, P
+ L
+, O'Connor, R
+ J
+, & Goniewicz, M
+ L
+ (2018, Nov)
+ Cytotoxic effects of heated tobacco products (HTP) on human bronchial epithelial cells
+ Tob Control, 27(Suppl 1), s-Li, X
+ (2016, Oct)
+ In vitro toxicity testing of cigarette smoke based on the air-liquid interface exposure: Li, X
+, Luo, Y
+, Jiang, X
+, Zhang, H
+, Zhu, F
+, Hu, S
+, Hou, H
+, Hu, Q
+, & Pang, Y
+ (2019, Jan )
+ Chemical Analysis and Simulated Pyrolysis of Tobacco Heating System 
+2 Compared to  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Mandavilli, B
+ S
+, Aggeler, R
+ J
+, & Chambers, K
+ M
+ ()
+ Tools to Measure Cell Health and Cytotoxicity Using High Content Imaging and Analysis
+ Methods Mol Biol, 1683, -
+ OECD/OCDE
+ ()
+ OECD GUIDELINE FOR TESTING OF CHEMICALSGuideline - 432 in vitro Putnam, K
+ P
+, Bombick, D
+ W
+, & Doolittle, D
+ J
+ (2002, Oct)
+ Evaluation of eight in vitro assays for assessing the cytotoxicity of cigarette smoke condensate
+ Toxicol In Vitro, 16(5), -
+ Repetto, G
+, del Peso, A
+, & Zurita, J
+ L
+ ()
+ Neutral red uptake assay for the estimation of cell Sohal, S
+ S
+, Eapen, M
+ S
+, Naidu, V
+ G
+ M
+, & Sharma, P
+ (2019, Feb)
+ IQOS exposure impairs human airway cell homeostasis: direct comparison with traditional cigarette and e-cigarette
+ ERJ Open Stockert, J
+ C
+, Horobin, R
+ W
+, Colombo, L
+ L
+, & Blzquez-Castro, A
+ (2018, Apr)
+ Tetrazolium salts and formazan products in Cell Biology: Viability assessment, fluorescence imaging, and The National Toxicology Program (NTP) Interagency Center for the Evaluation of Alternative Toxicological Methods (NICEATM)
+ ()
+ A Test for Basal Cytotoxicity for an In Vitro Validation Study Phase III (National Institute of Environmental Health Sciences (NIEHS)- U
+ S
+ Public Health Service - Department of Health and Human Services, Issue
+ Winikoff, S
+ E
+, Zeh, H
+ J
+, DeMarco, R
+, & Lotze, M
+ T
+ ()
+ Chapter 29 - Cytolytic Assays
+ In M
+ T
+ Lotze & A
+ W
+ Thomson (Eds
+), Measuring Immunity (pp
+ -)
+ Academic Press
+ Yan, G
+, Du, Q
+, Wei, X
+, Miozzi, J
+, Kang, C
+, Wang, J
+, Han, X
+, Pan, J
+, Xie, H
+, Chen, J
+, & Zhang, W
+ (2018, Dec )
+ Application of Real-Time Cell Electronic Analysis System in Modern  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Table A
+ Cross-comparisons among NRU, MTT, Annexin V, NRU-HCS, and RTDA Adjusted p values were calculated using Tukeys adjustment for multiple comparisons
+  Significance code: < 
+0001 (), < 
+001 (#), < 
+01(**), < 
+05 (*)  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Table A
+ Cross-comparisons among NRU, MTT, Annexin V, NRU-HCS, and RTDA Adjusted p values were calculated using Tukeys adjustment for multiple comparisons
+ Significance code: < 
+0001 (), < 
+001 (#), < 
+01(**), < 
+05 (*)   (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Table A
+ Cross-comparisons among NRU, MTT, Annexin V, NRU-HCS, and RTDA Adjusted p values were calculated using Tukeys adjustment for multiple comparisons
+ Significance code: < 
+0001 (), < 
+001 (#), < 
+01(**), < 
+05 (*)   (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Table A
+ Cross-comparisons among NRU, MTT, Annexin V, NRU-HCS, and RTDA Adjusted p values were calculated using Tukeys adjustment for multiple comparisons
+ Significance level: < 
+0001 (), < 
+001 (#), < 
+01(**), < 
+05 (*)   (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    Table A
+ Cross-comparisons among NRU, MTT, Annexin V, NRU-HCS, and RTDA Adjusted p values were calculated using Tukeys adjustment for multiple comparisons
+ Significance level: < 
+0001 (), < 
+001 (#), < 
+01(**), < 
+05 (*)   (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 26, 
+ ;    

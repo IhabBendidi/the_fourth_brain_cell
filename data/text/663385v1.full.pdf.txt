@@ -1,0 +1,1540 @@
+PARP1 as a biomarker for early detection and intraoperative tumor delineation in epithelial cancers  first-in-human resultsTitle: PARP1 as a biomarker for early detection and intraoperative tumor Authors: Susanne Kossatz1,a, Giacomo Pirovano1, Paula Demtrio De Souza Frana1, Arianna L
+ Carney1, Christian Brand1, Veer Shah1, Ravindra D
+ Ramanajinappa2, Naveen Hedne3, Praveen Birur6, Smita Sihag4, Ronald A
+ Ghossein7, Mithat Gnen5, Marshall Strome8, Amritha Suresh2, 1 Department of Radiology, Memorial Sloan Kettering Cancer Center, New York, NY, USA
+ 2 Integrated Head and Neck Oncology Research Program, Mazumdar Shaw Medical Foundation, 3 Head and Neck Oncology, Mazumdar Shaw Medical Center, Narayana Health, Bangalore, 4 Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, NY, USA
+ 5 Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer Center, New 6 Department of Oral Medicine and Radiology, KLES Institute of Dental Sciences, Bangalore, 7 Department of Pathology, Memorial Sloan Kettering Cancer Center, New York, NY, USA
+ 11 Chemical Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA a present address: Department of Nuclear Medicine, School of Medicine, Technical University certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    Major determining factors for survival of patients with oral, oropharyngeal, and esophageal cancer are early detection, the quality of surgical margins, and the contemporaneous detection of residual tumor
+ Intuitively, the exposed location at the epithelial surface qualifies these tumor types for utilization of visual aids to assist in discriminating tumor from healthy surrounding tissue
+ Here, we explored the DNA repair enzyme PARP1 as imaging biomarker and conducted optical imaging in animal models, human tissues and as part of a first-in-human clinical trial Our data suggests that PARP1 is a quantitative biomarker for oral, oropharyngeal, and esophageal cancer and can be visualized with PARPi-FL, a fluorescently labeled small molecule contrast agent for topical or intravenous delivery
+ We show feasibility of PARPi-FL-assisted tumor detection in esophageal cancer, oropharyngeal and oral cancer
+ We developed a contemporaneous PARPi-FL topical staining protocol for human biospecimens
+ Using fresh oral cancer tissues within 25 min of biopsy, tumor and margin samples were correctly identified with >95% sensitivity and specificity without terminal processing
+ PARPi-FL imaging can be integrated into clinical workflows, potentially providing instantaneous assessment of the presence or absence of microscopic disease at the surgical margin
+ Additionally, we showed first-in-human PARPi-FL imaging in oral cancer
+ In aggregate, our preclinical and clinical studies have the unifying goal of verifying the clinical value of PARPi-FL-based optical imaging for early detection and intraoperative margin assignment
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    Cancers that originate in the epithelium of exposed or accessible body areas, such as oral and oropharyngeal cancers as well as esophageal cancer, should be easy to screen for by monitoring and identifying visible changes in the mucosal lining
+ However, cancer registry data reveal that only 29% of oral and oropharyngeal cancers and 19% of esophageal cancers are detected at early stages, when the cancer is still confined to its primary site
+ Survival rates steeply drop with detection at advanced tumor stages
+ The five-year survival rate in the US is 
+7% for oral cancer and 
+2% for esophageal cancer when the disease is still localized at the time of diagnosis, compared to 
+1% (oral cancer) and 
+8% (esophageal cancer) for metastatic disease (1, )
+ Clinical outcome is also negatively affected by the presence of residual tumor at the surgical margins in the postsurgical histopathology exam of the resected specimen (-)
+ Intuitively, this suggests that the current clinical practice of visual examination in combination with biopsy-based histopathological diagnosis is insufficient to improve early diagnosis and consequently, to improve treatment outcomes for patients with cancers that develop close to the epithelial surface
+   For initial diagnosis, identifying early-stage morphological changes and distinguishing among a variety of inflammatory and benign conditions, given their potentially similar appearance, is difficult
+ During surgical interventions, success is typically dependent on the absence of positive margins and micro-metastasis
+ Current clinical practice, e
+ g
+, for oral cancer, calls for surgical excision with at least 5 mm margins of normal tissue on histopathologic examination to reduce the risk of residual microscopic disease
+ Wide margins, however, can lead to additional morbidity and Therefore, the current surgical paradigm consists of the surgeon arbitrarily removing at least 10 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    mm of normal appearing tissue in all dimensions around the visible and palpable extent of the tumor
+ Following excision of the tumor, frozen section histopathology is often used to evaluate the presence of tumor cells at the surgical margins
+ However, this approach leads to significant time delays during surgery and has less accuracy than the gold standard permanent histopathology due to tissue artifacts caused by the freezing process
+ Frozen section histopathology is also afflicted by high false-negative ratesintuitively, a direct consequence of the small sampling volume used for sectioning
+ Lastly, action is delayed several days until the definitive histopathological diagnosis is available, often leading to secondary surgeries and/or adjuvant treatment with radiation and chemotherapy, which are all associated with compounded morbidity, further cost, and poorer Enhancing the visibility of malignant lesions in relation to normal tissues contemporaneouslychallenges associated with diagnosis and intraoperative imaging
+ In pursuit of this goal, a host of methods have been explored as clinical diagnostic adjuncts, including tissue staining with vital dyes (e
+ g
+, Toluidine Blue, Methylene Blue, or Lugols Iodine), chemiluminescence imaging following an acetic acid wash, and optical-based imaging techniques, which rely on autofluorescence (-)
+ To date, these methods have shown limited sensitivity and/or specificity A new class of emerging diagnostic adjuncts focuses on in vivo microscopic (IVM) techniques
+ These include optical coherence tomography (OCT), reflectance confocal microscopy (RCM), and certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    assessed via histopathology during the examination
+ Currently, IVM techniques for epithelial cancers are in early-stage development and their diagnostic accuracy remains to be determined
+ Thus, existing approaches possess limitations that have prevented their clinical adoption
+ Those limitations are i) absence of a tumor-specific molecular target, ii) confinement to either microscopic or macroscopic resolution iii) diagnostic accuracy that is limited by either low sensitivity or low specificity (6, 7, -)
+ In contrast, employing the optically active, molecularly targeted approach presented in this work could not only improve sensitivity and specificity of tumor recognition, but also allow for imaging on both the cellular and macroscopic level, which, if combined, could increase the breadth and depth of the molecular information used for early The molecular target for our optical imaging approach is the DNA repair enzyme Poly(ADP-ribose)Polymerase 1 (PARP)
+ In addition to its many functions in cell cycle regulation and transcription, high levels of PARP1 expression have been observed in many different tumor types, indicating its potential for diagnostic applications (-)
+ Higher expression has moreover been linked to worse prognosis (-)
+ While PARP1 also appears in the nuclei of normal, proliferating cells, expression levels and especially cellularity tend to be lower than in rapidly growing tumors, supporting the rationale that high-contrast imaging can be achieved with PARP-targeted imaging The optical PARP1-targeted imaging agent PARPi-FL is a fluorescently labeled analog of the FDA-approved PARP inhibitor olaparib with high affinity and specificity for PARP1 ()
+ PARPi-FL is a cell penetrating imaging agent that rapidly clears in the absence of target binding
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    Importantly, compared to other nuclear staining vital dyes, PARPi-FL does not intercalate into the DNA, but instead reversibly binds to PARP1, which locates to DNA strand breaks, and is not mutagenic, enabling in vivo applications in addition to ex vivo applications
+ The efficacy of high-contrast xenograft imaging with PARPi-FL after intravenous application has been shown on the whole body as well as at the cellular level (25, )
+ Importantly, the tissue penetrating nature of PARPi-FL enables its use as both a systemic and topical agent
+ Topical application, as an alternative to intravenous injection, enables the application of microdoses of PARPi-FL and allows for almost immediate imaging ()
+ However, this concept has neither been tested systematically nor was it tested in humans
+ The versatile features of PARPi-FL make it a tool for use in early detection as well as surgical margin assignment applications, both of which could strongly benefit Oral and oropharyngeal cancer as well as esophageal cancers typically grow at the epithelial surface
+ For all three, tumors are currently inspected by visual examination, followed by incisional biopsy without visual aids
+ We hypothesized that these malignancies would benefit most from PARP1-targeted optical imaging to improve tumor detection and increase the accuracy of tumor excision
+ The goal of the latter is to increase surgical success by facilitating contemporaneous In this study, we aimed to characterize the potential of PARP1 expression as a quantitative biomarker for early detection and intraoperative delineation in human biospecimens and to models
+ Due to differences in anatomical accessibility of esophageal, oropharyngeal, and oral certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    cancer, we did not seek to create a one-size-fits-all optical imaging approach, but rather pursued In esophageal cancer, we validated PARPi-FL as a quantitative marker for PARP1 expression levels and showed that it could be applied topically to the esophagus
+ In oropharyngeal cancer, we tested whether combining brush biopsy (a less invasive approach to obtaining diagnostic tissue) with PARPi-FL staining is a feasible approach to identifying tumor cells in a complex tissue sample
+ In oral cancer, we developed a staining and imaging method for freshly excised biopsies that allows for the identification of positive margins within minutes while preserving the fresh tissue for other downstream applications
+ We then tested the diagnostic accuracy of this detection method in human biopsies and evaluated its translational potential In additional support of the translational potential of PARPi-FL, we show first-in-human in vivo imaging after topical application (NCT)
+ Finally, we explore the potential to expand PARPi-FL imaging to in situ surgical guidance applications with a large surgical window after intravenous delivery in a large animal The presented studies are consistent in demonstrating the clinical relevance of PARPi-FL-based optical imaging methods for the early detection and intraoperative delineation of cancers that develop at the epithelial surface
+ An overview of all conducted studies can be found certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    To explore and confirm the clinical value of a PARP1-targeted imaging approach in esophageal cancer, we quantified PARP1 expression in human surgical biospecimens (n=)
+ In all specimens, three regions of interest were analyzed: tumor, normal epithelium, and deep margin (comprising submucosa and muscle tissue)
+ We found strongly increased PARP1 expression in tumor compared to deep margin as well as epithelium, which had limited physiological PARP1 expression in its basal layer (Fig
+ 2A, fig
+ SA)
+ Quantification, measured as PARP1-positive area (details in Materials and Methods and fig
+ S2), revealed a mean value of 
+4%  
+8% PARP1-positive area in the tumor, which was significantly higher than the epithelium (
+0%  
+9%, p=
+03, Wilcoxon test) and the deep margin (
+9%  
+5%, p=
+02, Wilcoxon test) (Fig
+ 2B and fig
+ S1, The ability of PARPi-FL to identify high and low PARP1-expressing tumors was tested in four mouse xenograft models (ESO51, OE33, SKGT3, OE19) of esophageal adenocarcinoma (EAC)
+ Tumor-bearing animals were sacrificed 90 min after intravenous injection of 75 nmol of confocal microscopy, where the nuclear accumulation of PARPi-FL could be clearly seen (Fig
+ uptake correlates with cellular PARP1 expression (Fig
+ C)
+ Quantification of the fluorescence intensity in tumor, esophagus, and thigh muscle showed a three-fold increase from the lowest (ESO51) to highest (OE19) PARP1-expressing xenograft model, while fluorescence intensities in normal esophagus and muscle tissue were low and comparable in all animals (Fig
+ D)
+ Tumor-certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    to-esophagus ratios were high in all models, ranging from 
+1  
+7 (ESO51) to 
+8  
+5 (OE19), providing adequate contrast to discriminate tumor from normal esophagus tissue in both high and low PARP1-expressing tumors
+ PARP1 expression levels of the xenograft models were also quantified via PARP1 IHC (Fig
+ 2E) and Western blot (Fig
+ F)
+ In addition, uptake of the quantitative, showing a similar increase in in vivo tumor uptake of the xenograft models The feasibility of PARPi-FL topical application has been shown in oral cancer ()
+ However, given the limited accessibility of the esophagus, we explored an alternative topical application strategy and measured penetration depth of PARPi-FL in the esophagus of a pig using a balloon applicator with sponge-like Lubrizol stripes (Fig
+ 2G) soaked with 2 mL of a 1 M PARPi-FL solution
+ After insertion into the pigs esophagus in a deflated state, the balloon was inflated to expose the Lubrizol stripes and induce release of PARPi-FL onto the esophagus wall of the anesthetized pig for a duration of 3 min; 10 min after the application, the pig was sacrificed, followed by necropsy and cryopreservation of the esophagus in 10x10 mm tiles
+ Cryosections were cut perpendicular to the esophagus surface (Fig
+ H)
+ On fresh slides, without further staining, we detected nuclear PARPi-FL staining in the basal layer of the epithelium (100-200 m depths) and mucus glands in the submucosa, up to 800 m below the tissue surface (Fig
+ I)
+ Deeper-lying mucus glands and submucosal tissue (>1000 m depth) showed very low to non-detectable fluorescence
+ We found that PARPi-FL was able to penetrate approximately 800 m deep into the certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    esophagus within 3 min of topical application and bind to PARP1 in cell nuclei without noticeable Expanding on whether PARP1 could be a relevant general biomarker to tumors of the oral cavity, we investigated PARP1 expression in a clinical data set of oropharyngeal cancer, which arises at the base of the tongue, tonsils, soft palate, or pharynx wall (n=)
+ All biospecimens contained invasive carcinomas with high levels of PARP1 expression (Fig
+ 3A and fig
+ SA)
+ In the normal epithelium, PARP1 expression was found in the basal layer and at very low levels in the deep margin (Fig
+ 3A and fig
+ SA)
+ Analogous to esophageal biospecimens, quantification of the PARP1-positive area confirmed significantly higher expression levels in the tumor (
+5%  
+7% PARP1-positive area) than the epithelium (
+4%  
+9%; p=
+02, Wilcoxon test) and deep margin (
+0%  
+1%; p<
+01, Wilcoxon test) (Fig
+ 3B and fig
+ SB)
+ Brush biopsy techniques have been investigated as a less invasive alternative to standard punch and scalpel biopsies
+ We conducted a feasibility study to determine if brush biopsies in combination with PARPi-FL staining could enable rapid detection of tumor cells in cell suspensions derived from solid tissues
+ In a proof-of-principle approach, we developed an ex vivo staining protocol and flow cytometric analysis of single-cell suspensions derived from pharynx cancer xenografts (FaDu cells) and healthy mouse tongues (Fig
+ C)
+ We analyzed PARPi-FL staining of tumor and tongue tissue after applying appropriate gating procedures (fig
+ SA)
+ We found a significantly higher number of PARPi-FL-positive cells in tumor-derived suspensions than certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    in tongue-derived suspensions (Fig
+ 3, D and E; p<
+001, unpaired t-test)
+ Specificity of PARPi-FL staining in cell suspensions was confirmed by blocking PARPi-FL binding sites with an excess of the non-fluorescent PARP inhibitor olaparib, which reduced the percentage of positive cells from 
+9%  
+2% to 
+0%  
+0% (p<
+05, unpaired t-test using the Holm-Sidak method without assuming a consistent SD)
+ A PBS-stained control group showed no PARPi-FL-positive cells
+ In addition, we were able to confirm these results in esophageal cancer cells (OE19), which also showed a higher percentage of PARPi-FL-positive cells in tumor compared to tongue tissue and a significant uptake reduction after olaparib blocking (fig
+ SB)
+ Thus, this proof-of-principle experiment showed that PARPi-FL staining of a cell suspension derived from a complex tissue can help to distinguish between tumor cell containing and normal samples, encouraging further PARP1 expression during malignant transition and at tumor margins in oral cancer In oral cancer, we confirmed the gradual increase of PARP1 expression during malignant transition
+ We further analyzed tumor margins to gain insight into the clinical potential of PARP-In healthy epithelial tissues, physiological PARP1 expression was localized predominantly to the basal layer of the epithelium
+ In benign, dysplastic, and malignant biospecimens (n=60), we found an increase in PARP1 expression, particularly for cases with severe dysplasia (=carcinoma in situ) and in invasive tumors (Fig
+ A)
+ This was reflected in the quantification of the PARP1-positive area, which was significantly higher in severe dysplasia and tumors compared to benign cases, mild dysplasia, and moderate dysplasia (p<
+05, Mann-Whitney test; Fig
+ B)
+ Combining cases certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    that are predominantly treated non-surgically (benign, mild dysplasia) and cases that require pronounced, statistically significant difference in PARP1 expression (
+6%  
+6% vs
+ 
+1%  
+8%, p<
+001, Mann-Whitney test) (Fig
+ C)
+ We determined a sensitivity of 81% and specificity of 83% at the optimal cutoff of 
+1% PARP1-positive area for separation of these two groups, with an area under the curve (AUC) of 
+908 (Fig
+ D)
+ To substantiate these results, we also employed a manual scoring method for PARP1 IHC, based on the percentage of PARP1-positive cells and staining intensity (fig
+ SA)
+ Manual scoring yielded similar results, resulting in a sensitivity of 82% and specificity of 86% for the differentiation between benign/mild dysplasia and severe In presurgical biopsies (tumor: n=12, benign tissues: n=10 subdivided into epithelium and deep margin from n=12 patients) and surgical specimens (n=12), we quantified the difference in PARP1 expression between the tumor area, epithelium, and deep margin (Fig
+ E)
+ While PARP1 staining was high in the tumor area of both biopsies (
+9%  
+5% PARP1-positive area; Fig
+ 4F) and surgical specimens (
+6%  
+0% PARP1-positive area; Fig
+ 4G), it was significantly lower in the epithelium (
+8%  
+6% and 
+1%  
+8%; p=
+03 and p=
+008, respectively, Wilcoxon test) as well as in the deep margin (
+3%  
+9% and 
+5%  
+5%; p=
+04 and p=
+001, respectively, Wilcoxon test)
+ Importantly, when only looking at paired datasets, PARP1 expression was always higher in the tumor than in the epithelium or deep margin, with no case of overlap, which was also the case in biospecimens of oropharyngeal and esophageal tumors (fig
+ S)
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    Combining all oral cancer IHC datasets (three datasets, n=84 patients total) confirmed consistently elevated PARP1 expression in tumors and severe dysplasia, whereas a much lower expression was found in the epithelium and deep margin of normal oral tissue and benign and early dysplastic cases (Fig
+ H)
+ Analyses of statistically significant differences in this dataset (Mann-Whitney test, Fig
+ 4I) support PARP1 expression as viable biomarker for both early detection and intraoperative margin delineation of oral cancer
+ Overall, PARP1 levels increased significantly with disease stage, from a median of 
+0% in deep margin to 
+2% in tumor (Kendalls tau = 
+67, Motivated by the abrupt drop of PARP1 expression in benign tissues adjacent to the tumor, we wanted to determine whether PARPi-FL uptake can serve as a diagnostic tool in fresh biopsy tissue
+ We aimed to develop a protocol that does not interfere with tissue integrity or morphology (e
+ g
+, by freezing or fixing) and can produce results faster than standard frozen section staining times, and washing times on freshly excised FaDu xenograft tissue toward high nuclear staining intensity and low cytosolic and non-specific background staining (fig
+ S)
+ The selected fresh tissue staining protocol consisted of 5 min PARPi-FL staining followed by 10 min of washing, and was translated to fresh human biopsy samples
+ A similar protocol can be used for non-fixed cryosections, leading to a nuclear staining pattern that reflects PARP1 expression of the same OE19 xenograft specimen (fig
+ S)
+ Staining specificity was confirmed by PARP1 IHC and certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    Confocal microscopy images of tumor samples showed abundant nuclear PARPi-FL in areas identified as PARP1-expressing tumor cells based on PARP1 IHC and H&E staining (Fig
+ B)
+ In benign samples, nuclear PARPi-FL staining was confined to the thin PARP1-expressing basal layer of the epithelium (Fig
+ B)
+ Endogenous collagen-related autofluorescence, which was observed in the submucosa of the clinical samples, was discriminated from the exogenous PARPi-FL signal by two-channel imaging
+ PARPi-FL signals only appeared after 488 nm excitation, while autofluorescence was present after both the 488 nm and 543 nm excitations (fig
+ SA)
+ Confocal images were acquired from fresh biopsies of 12 patients and compiled into a study set of 30 cases (n=12 tumors, n=10 benign tissues adjacent to tumor, n=8 duplicates (4 tumors, 4 benign tissues The images, acquired at 488 nm and 543 nm excitations, were read by volunteers (n=27) in a blinded study; each specimen was scored as tumor or benign tissue adjacent to tumor (see fig
+ S10B for study design and Supplementary Materials PDF files 1 and 2 for the blinded study training set and data set)
+ Of a total of 810 ratings, 361/378 negative margins and 414/432 tumors were assigned correctly (fig
+ S10, C and D)
+ Pairs of sensitivity and specificity for each reader are reported in Fig
+ C
+ We found an overall sensitivity of 
+8%, an average specificity of 
+5%, a positive predictive value of 
+1% and a negative predictive value of 
+3% (Fig
+ D)
+ To assess intrareader agreement, 8 cases were presented as duplicates without the readers knowledge (images were mirrored and rotated)
+ Overall intrareader agreement was 
+2% (Fig
+ 5E and fig
+ SE)
+ We confirmed the non-destructive nature of the staining to biopsy tissue by carrying out regular, permanent H&E histopathology following PARPi-FL staining and imaging and found no evidence of perturbed tissue integrity or quality (fig
+ S)
+ Thus, PARPi-FL allowed for rapid certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    staining and identification of tumor cells in fresh biopsies with high sensitivity and specificity, and without impeding the use of the sample for regular processing afterwards
+  The purpose of the presented dataset was to validate our PARPi-FL staining method and identify if samples containing tumor (in the clinical setting: positive margins) can be reliably distinguished from samples not containing tumor (negative margins)
+ Most importantly, considering an intraoperative setting, our data also suggests that focal tumor invasion into a suspected negative margin or a predominantly negative biopsy can be clearly identified and demarcated from The simplicity of the PARPi-FL staining method, paired with its contemporaneous readout, makes for a technology well-suited to clinically relevant settings, including the operating room
+ Admittedly, the rate-limiting step of this technology would be image acquisition with a state-of-the-art confocal microscope
+ Reasoning that a quicker, more user-friendly readout would be preferable, we tested a confocal scanner, which is designed to rapidly analyze fresh tissue specimens by creating a high-resolution strip-mosaic (Vivascope 2500, Caliber ID, Andover, MA)
+ We stained fresh FaDu xenograft tissue with PARPi-FL (0, 100, 250 nM) for 10 min, placed the tissue on the scanner, and scanned the field of view of 15x15 mm in about 150 s
+ The high-resolution images allowed for clear identification of PARPi-FL-stained nuclei (fig
+ SA)
+ This was confirmed using human biospecimens, which were also used for regular confocal microscopy (compare Fig
+ B)
+ Tumor cell nuclei in the human biospecimen samples were clearly identified based on their strong PARPi-FL staining, which was in alignment with H&E and PARP1 IHC (fig
+ SB)
+ The Vivascope 2500 could be used as a back-table instrument in a surgical suite, allowing for ad hoc PARPi-FL images of freshly excised tissues, before tissue is passed on for other in-certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    We also explored the feasibility of macroscopic and microscopic in vivo imaging
+ Here, we validated an in vivo imaging device, the ViewnVivo (Optiscan, Mulgrave, Australia), a miniaturized handheld confocal endomicroscope with an adjustable focal plane, suitable for in vivo or ex vivo imaging (Fig
+ A)
+ The device is equipped with a 488 nm laserthe optimal wavelength for PARPi-FL detection
+ The choice of different longpass and bandpass filters allows for was able to detect PARPi-FL at up to 50 m tissue depths (fig
+ S14, A and B)
+ Images of the same human biospecimens as presented in fig
+ S13B revealed comparable image quality for tumor detection, including clear delineation of tumor cell nuclei and the PARP1-expressing basal layer in margin tissue (Fig
+ B)
+ Intuitively, the ViewnVivo has the potential to be used for intraoperative, PARPi-FL-based in vivo imaging without tissue excision
+ For this specific application  imaging in the surgical cavity  intravenous instead of topical delivery would be required, since distribution of PARPi-FL in the entire tumor mass would enable surgical guidance across the whole surgical bed
+ Key questions in this regard are the necessary injected mass and surgical window for imaging
+ Intravenous injection of 
+05 mg/kg PARPi-FL in a pig (fig
+ S15A) resulted in a blood half-life of 
+6  
+48 min and simultaneously revealed that it was possible to detect PARPi-FL specifically in PARP1 expressing nuclei in the epithelial basal layer as soon as 5 min post injection and up to 120 min post injection (fig
+ S15, B and C)
+ This suggests feasibility of PARPi-FL injection during surgery to provide visual guidance, to identify tumor margins and certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    Lastly, while the first-in-human clinical trial using PARPi-FL (NCT03085147) is ongoing, feasibility of translation to in-human imaging has been shown using a topically applied mouthwash (Fig
+ C)
+ Compared to images before contrast application, a one-minute gargle with 250 nM PARPi-FL led to a 
+9-fold increase in tumor fluorescence, resulting in a tumor-to-non-tumor ratio certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    In this study, supported by both clinical and preclinical specimens, we designed and validated a fluorescence-driven imaging approach for oral, oropharyngeal, and esophageal cancer
+ In human biospecimens, and across all three investigated cancer types, we confirm that malignant tissues express significantly higher levels of PARP1 than normal epithelium and submucosal tissue, supporting our central hypothesis that PARP1 will yield high-contrast imaging as a diagnostic and resolution imaging has the potential to improve early diagnosis and surgical removal of tumors
+ Of particular translational importance, PARPi-FL-based differentiation of tumor and normal tissue in fresh human oral cancer biopsies could be achieved with >95% sensitivity and specificity
+ PARPi-FL imaging uses fresh tissue for staining and is non-destructive and contemporaneous (-min staining time), all features that promote effortless clinical integration
+ Intuitively, the absence of terminal processing preserves the tissue for further applications following PARPi-FL imaging, We investigated PARP1 expression in esophageal cancer, consisting of adeno- and squamous cell carcinomas (stage T-T)
+ We found that all tumors had higher levels of PARP1 expression (
+3 to 
+6% PARP1-positive area) than normal epithelium and submucosal (deep margin) tissue (
+3% to 
+0% PARP1-positive area), representing a clear quantitative separation between normal and tumor tissue
+ Similarly, we found a range of different PARP1 expression levels in our preclinical models, where increasing PARP1 expression resulted in higher PARPi-FL uptake and tumor-to-esophagus ratios of up to 
+ Even the mouse model with the lowest PARP1 expression, however, had a six-fold higher PARPi-FL signal in the tumor than in the normal esophagus (Fig
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    2, C-F)
+ These ratios suggest it might be possible to delineate EAC in the esophagus with high Considering current clinical practice in EAC, including screening and surveillance protocols in patient populations with an increased risk to develop the diseasespecifically in patients with Barretts esophagus (BE)a non-invasive imaging approach could have a significant impact on screening and early detection
+ In addition to white light endoscopy, current surveillance protocols require invasive four-quadrant biopsies every 2-5 years
+ Sampling errors complicate this approach, since progression to cancer usually occurs in only a small fraction of the area presenting Barretts mucosa, while excisional quadrant biopsies cover only about 4% of the area affected by BE ()
+ Conceivably, complementing white light endoscopy with PARPi-FL imaging could guide biopsy site selection and enhance non-invasive identification of suspicious areas, including flat, small, Existing diagnostic aids, including acetic acid, methylene blue (29, 30), or Lugols iodine (31) do not provide a biomarker-specific signal As their benefit for biopsy site selection is limited, their clinical adoption rate is low
+ Clinical translation and integration of PARPi-FL imaging into regular white light endoscopy workflows can be optimized by using a topical application approach, as has been suggested for oral cancer imaging ()
+ To reach the esophagus, we tested an alternative route of administration using a balloon applicator
+ Recently, balloon-based devices have been introduced to retrieve cells (32) or DNA (33) from the esophagus in order to detect BE and EAC
+ In our case, we deployed a balloon-based applicator with highly absorbent Lubrizol stripes, which are collapsed inside of folds when the balloon is deflated but exposed and pressed onto the esophageal certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    surface upon inflation
+ The pig model we used generally resembles the human esophaguss anatomy and size
+ However, Yucatan pigs were found to have a considerable number of esophageal mucus glands, which do nevertheless express PARP
+ By measuring PARPi-FL uptake in relation to gland depth, we were able to show penetration and specific binding of PARPi-FL up to 800 m into the tissue within 3 min of application
+ These results corroborate the small molecules ability to penetrate well beyond the epithelial layers where EAC originates
+ Thus, our results indicate that specific, PARPi-FL-based detection of superficially presenting cancerous lesions in the esophagus Novel methods for early detection, surveillance, and surgical guidance are also urgently needed in oral and oropharyngeal cancer
+ The incidence of oral and oropharyngeal cancer is increasing, while survival has shown no or only modest improvement over the last three decades ()
+ A main contributor to disease-related mortality is tumor stage at the time of diagnosis
+ Although the oral cavity is easily accessible for regular inspection, about two-thirds of all patients in the US present with advanced-stage disease, resulting in an overall five-year survival rate of about 50%, as compared to over 80% if diagnosed at an early stage
+ Another complicating factor for improving the standard of care is that socioeconomic groups with high oral cancer incidence are also the least likely to have dental or health insurance, further delaying diagnosis of their often asymptomatic disease (35, )
+ The global situation is now more dire than ever, with respect to both incidence and number of associated deaths (300,000 and 145,000, respectively ())
+ In India, where oral cancer is the third most common malignancy in men, the disease often remains untreated for extended amounts of time
+ Here, it is less HPV or smoking/drinking that drives the disease, but rather the consumption of paan/gutka (chewing tobacco), both common mild stimulants that certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    contain betel leaf and areca nuts
+ Very few patients in India survive if their disease is discovered Currently, no diagnostic adjuncts have shown a proven clinical benefit for detection or surveillance of oral cancer
+ However, considering the various emerging optical imaging methods (11), we believe that molecularly specific fluorescence contrast, as provided by PARPi-FL, combined with novel analytical devices and methodologies, has the clear potential to improve delineation and detection of oral and oropharyngeal cancer
+ One such novel combination is PARPi-FL brush cytology
+ Brush cytology, also known as exfoliative cytology or brush biopsy, is a minimally invasive technique in which cells are collected between the surface and basement membrane of the epithelium, rather than using invasive incisional biopsy, followed by cytopathological evaluation (7, )
+ Despite extensive clinical evaluation, adoption into clinical practice is still limited, partially due to the high cost of cytopathology as well as mixed reports about its sensitivity We evaluated whether a combination of brush biopsy and PARPi-FL staining is feasible in oropharyngeal cancer to identify and quantify tumor cells in a tissue sample
+ Analysis of PARP1 high PARP1 expressioneven higher than in oral and esophageal cancerwhile normal epithelial expression resembled other physiological backgrounds
+ Located behind the oral cavity, oro- and hypopharyngeal cancers are less accessible to visual inspection than other oral cancer types, such as tongue cancer
+ Brush cytology, however, could be easily performed in this location
+ To establish a PARPi-FL staining method for brush cytology-like samples, we prepared a single-cell solution, certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    as it would be derived during the brush cytology process, from solid xenograft tumor samples with known high PARP1 expression (FaDu (26); OE19, Fig
+ )
+ Instead of cytopathological evaluation, we then stained this complex tissue sample with PARPi-FL and analyzed the percentage of PARPi-FL-positive cells using flow cytometry
+ We found a significantly higher number of PARPi-FL-stained cells in both xenograft models than in non-neoplastic tongue tissue samples
+ Importantly, due to the homology of human and murine PARP1, PARPi-FL targets both human and murine tissues
+ Considering PARP1 IHC results, a baseline level of PARPi-FL-positive cells in normal tongue samples was not surprising, since PARP1 expression in the epitheliums basal layer is well-These proof-of-principle results warrant further studies on combining PARPi-FL with brush cytology to establish baselines for PARPi-FL-positive cells in preclinical and human samples
+ staining intensity, and cell size and granularity (forward and side scatter) could further increase the accuracy of this approach
+ A flow-based technology has the advantage of investigating suspicious lesions in a minimally invasive, quantitative, and automatable approach
+ In addition to pharyngeal cancer, application of PARPi-FL brush cytology is promising in all locations where brush cytology is currently explored, including other sites inside the oral cavity (40) and esophagus While PARPi-FL brush cytology is a technology tailored for the screening and surveillance setting, PARPi-FL tissue staining is a promising approach for both pre- and intraoperative diagnostics
+ In several patient datasets from the US (Memorial Sloan Kettering Cancer Center; MSK) and India certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    (Mazumdar Shaw Medical Center, Narayana Health; MSMC), we were able to establish that PARP1 expression at the epithelium undergoes statistically significant increases during disease progression
+ Considering the potential clinical impact, our most essential finding was that in severe increased when compared to all other degrees of dysplasia and normal epithelium
+ Our results indicate that PARP1-based diagnosis could differentiate benign and potentially malignant lesions from normal epithelium and cancerous lesions that require surgical treatment, allowing for surveillance and chemoprevention to reduce the risk of cancer development ()
+  Such results suggest measurement of PARP1 expression via PARPi-FL has the potential to identify different disease stages, including early stages
+ Despite a strong statistical separation of advanced disease from normal tissue, a certain overlap can be observed between groups, which we attribute to i) inter-patient heterogeneity of PARP1 expression and ii) imperfect histopathologic diagnostic separation of different stages of dysplasia
+ This is supported by our data where only paired data on PARP1 expression are analyzed  here, no intra-patient overlap between tumor and normal epithelium was observed
+ PARP1 IHC quantification also showed that surgical tumor margins were clearly delineated by PARP1 expression
+ This is significant, since almost all oral cancers are surgically treated
+ Complete removal, defined by clear margins, is a major determining factor for local recurrence (3, 44, )
+ The current gold standard for negative tumor margins is clearance greater than 5 mm on permanent histopathology (46), which is not available until days after surgery
+ The only method currently available to surgeons for intraoperative feedback before surgical closure and reconstruction is frozen section analysis of surgical margins, which are sampled during surgery and sent to a pathologist
+ However, there is no standardized practice for certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    frozen sections in head and neck cancer ()
+ Moreover, many view frozen sections critically, since accuracy is reduced as compared to paraffin sections, positive effects on outcome have not been reported, and the cost:benefit ratio is 20:1 ()
+ The PARPi-FL fresh tissue staining method reported here offers a promising alternative or addition to frozen section analysis
+ We have shown that PARPi-FL staining patterns of tumor biopsies and normal epithelium are distinct
+ We also identified several cases of focal invasion of tumor cells into an otherwise normal area based on the PARPi-FL signal PARPi-FL staining patterns strongly represent PARP1 staining on IHC but were achieved within minutes of biopsy (as quickly as one minute)
+ The rapid nature of the staining, in combination with back-table imaging, could provide feedback much faster than with frozen sections
+ If positive margins are found, the surgeon could perform re-excision and margin evaluation without delay
+ The vicinity to the surgery would also improve accuracy in anatomic sample orientation, a frequent source of error in frozen sections
+ We determined an excellent sensitivity and specificity of >95% for the identification of tumor and margin samples in fresh human biospecimens using blinded readers who received minimal training (10 min), supporting our claim that this method could be implemented in the clinic without the need for highly specialized personnel
+ A unique feature of our PARPi-FL staining method is the tissue-preserving nature of the staining, which would allow for integration into existing workflows, since PARPi-FL stained tissue would remain available for either frozen or permanent pathology or other In addition to ex vivo imaging and microscopic evaluation, PARPi-FL holds promise for an array of further applications
+ We have shown feasibility of PARPi-FL in vivo diagnostics, based on our findings that intravenous injection provides a broad surgical window of at least 5-120 min post certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    injection and can be detected with a handheld confocal endomicroscope
+ In a clinical scenario, this could enable a targeted search for a positive margin within the tumor bed
+ Currently, correlating the exact location of a positive margin, identified histologically ex vivo, to its counterpart in the surgical cavity is challenging due to significant shrinking and distortion that the tissue undergoes upon resection
+ In addition, we show feasibility of macroscopic first-in-human PARPi-FL staining and imaging with a topically applied PARPi-FL solution, which is currently under clinical It is frequently suggested that a near infrared version of PARPi-FL would be advantageous over the green fluorescent variant
+ However, the fact that PARP1 is an intranuclear target puts several design constraints on a functional PARP1 imaging agent, which have been discussed previously ()
+ Longer wavelength PARP imaging agents were introduced in vitro, but the available data suggests pronounced effects on nuclear penetration and clearance affecting their in vivo performance (50, )
+ In our opinion, overall pharmacokinetics of PARPi-FL and its ability to serve as a sensor for PARP1 outweighs the wavelength trade-offs
+ This is supported by numerous clinical studies involving green fluorescent dyes for surgical guidance, including the first first-in-Together, the versatility of PARPi-FL with respect to application, imaging settings, platforms, and technologies enables a combination of micro- and macroscopic evaluation techniques and thus a large range of applications, including screening, surveillance, biopsy guidance, fresh biopsy staining, in vivo diagnostic capability, and intraoperative margin delineation
+ Thus, PARPi-FL offers a whole host of diagnostic and intraoperative applications that can also be combined with each other, which could not be achieved with previously introduced contrast agents or label free certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    In the future, more extensive studies will be necessary to further confirm the clinical value of characterize their procedural benefit over existing practices (27, )
+ Our next logical step toward standard of care clinical use of PARPi-FL will be blinded sampling of fresh tissue specimens at multiple clinical sites, with a focus on recruiting patients from different backgrounds and of varying disease stages
+ We do know that PARPi-FL staining is a highly sensitive and specific marker for discriminating tumor from non-tumor margins in cases with pathologically confirmed malignancy
+ While PARPi-FL could therefore conceivably be used in a surgical setting, its ultimate clinical value as a field diagnostic cannot be confirmed until a larger multi-national, multi-institutional study has been completed
+ Overall, this study represents a significant milestone towards clinical use of PARPi-FL, and it is critical for characterizing fluorescence-guided certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    The analysis of PARP1 expression was conducted on banked or newly collected paraffin embedded biospecimens at MSK and MSMC
+ Specimen selection and collection was approved by the Institutional Review Boards (IRB) at MSK and MSMC and the Independent Ethics Committee (MSMC)
+ All diagnoses were conducted by the pathology department on H&E stained sections from the same samples
+ We analyzed specimens of oral cancer (n=84 patients, 3 separate studies), oropharyngeal cancer (n=9) and esophageal cancer (n=7) patients (a more detailed description can PARP1 IHC staining was carried out using a primary polyclonal rabbit anti-PARP1 antibody (sc-7150, 
+4 g/mL, Santa Cruz Biotechnology)
+ At MSK, the staining was carried out using the automated Discovery XT processor (Ventana Medical Systems) at the Molecular Cytology Core Facility as described previously ()
+ At MSMC, the same anti-PARP1 antibody was used (
+4 g/mL, 1 h) in combination with the DAKO Real Envision kit (K5007, DAKO)
+ Since the PARP1 antibody was discontinued by Santa Cruz, we tested and validated PA5-16452 (Invitrogen) as For PARP1 protein quantification, PARP1 IHC slides were digitalized using a MIRAX Slide certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    tumor, normal epithelium and deep margin if present
+ On biopsy specimen (tumor or margin) we analyzed tumor on the tumor biopsy and normal epithelium and deep margin on the margin biopsy, if present
+ On at least 3 fields of view per area of interest (tumor, epithelium, deep margin) (20x Hematoxylin stainings were separated using the Color Deconvolution algorithm and appropriate threshold levels were set to measure the area of specific DAB staining (=PARP1 area) as well as hematoxylin staining (=tissue area) to calculate the relative PARP1 positive area on each image
+ The thresholds were kept constant within each dataset
+ We report means and standard deviation for each sample
+ For grouped analysis, we pooled the means of all samples
+ ROC curves were Additional manual scoring was conducted on PARP1 IHC cases from MSMC
+ Therefore, the staining intensity was evaluated on a scale of 1-4 (Fig
+ S6A) and multiplied with the % PARP-positive cells (1-100%, visual evaluation), resulting in a final score of -
+ All slides were scored by three people
+ We report the mean score for each slide and the ROC curve comparing The synthesis of PARPi-FL and [18F]PARPi have been carried out as described previously ()
+ PARPi-FL was prepared as 
+5 mM stock solution in PEG300 and was diluted to its final concentration in %PEG/PBS
+ [18F]PARPi was formulated in 
+9% sterile saline with 10% certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    All animal experiments were done in accordance with protocols approved by the Institutional Animal Care and Use Committee (IACUC) of MSK and followed the National Institutes of Health guidelines for animal welfare
+ For in vivo and ex vivo experiments, we grew subcutaneous xenografts in athymic nude mice (NCr-Foxn1nu, Taconic) using human pharynx squamous cell carcinoma (FaDu) and esophageal adenocarcinoma (EAC) cell lines (ESO51, OE33, SKGT4, OE19) cancer cells by injecting 2106 cells in a mixture of culture medium (50 l) and Matrigel (BD Biosciences) (50 l)
+ Experiment were conducted 12-16 days after xenografting
+ We used 12 nude mice for imaging of EAC models, 9 nude mice for brush biopsy experiments, 10 nude mice for PARPi-FL fresh tissue staining optimization and 3 nude mice for rapid fresh tissue imaging on a strip-mosaic confocal scanner (Vivascope )
+ FaDu cells were ordered from ATCC, EAC cell lines were ordered from DSMZ
+ To prepare cells for xenografting, they were cultivated in a monolayer culture at 37C in a 5% CO2 humidified atmosphere, following standard procedures
+ They were maintained in their respective growth medium (Roswell Park Memorial Institute medium for ESO51, OE33, SKGT4 and OE19) and minimum essential medium for FaDu), To determine PARPi-FL uptake in EAC xenograft models, we intravenously injected PARPi-FL (75 nmol in 167 l, 30%PEG300/PBS) in mice bearing ESO51, OE33, SKGT4 or OE19 xenografts (n=/group)
+ 90 min post-injection, animals were sacrificed and tumors, the esophagus and thigh certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    muscle were excised and were imaged immediately in the epifluorescence system IVIS (PerkinElmer, Waltham, MA) using the standard filter set for GFP imaging
+ Autofluorescence removal and quantification were carried out as described previously (26, )
+  After epifluorescence imaging, the freshly excised whole tumors were imaged using a confocal microscope
+ Tissues were placed on a cover slip with a freshly cut surface facing the cover slip and all images were taken using identical settings and 488 nm laser excitation (LSM880, Zeiss, Jena, Germany)
+ Subsequently, tumors were fixed in 4% Paraformaldehyde for 24 h and then paraffin embedded
+ H&E staining and PARP1 IHC staining and quantification were carried out as PARP1 protein expression was measured in ESO51, OE19, SKGT4 and OE33 cell lysates using Western blot analysis as described before ()
+ Briefly, proteins were isolated from cells and 30 g of protein per sample were separated with SDS/PAGE gel electrophoresis and transferred to a Nitrocellulose membrane
+ Proteins were detected using antibodies specific for PARP1 (1:1000; sc-7150, Santa Cruz) and b-actin (1:2000; A3854, Sigma-Aldrich) with a corresponding SuperSignal West Pico)
+ Since distribution of the primary anti-PARP1 antibody was discontinued, certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    A topical application strategy of PARPi-FL for the human esophagus was developed using a Yucatan mini swine (Sus scrofa domesticus), which reflects the human anatomy more closely than small animals
+ Pig experiments were carried out at CBSet, Inc
+ (Lexington, MA) and were approved by their IACUC
+ Topical application was realized using a balloon applicator (developed by Aero-Di-Namics, New York, NY; produced by Medical Murray, North Barrington, IL)
+ The balloons are made of silicone with 12 Lubrizol stripes (electrospun Lubrizol tecophilic TN TG 500) and have a nominal diameter of 7 mm, which extends to 20-25 mm upon inflation (Fig
+ G)
+ The Lubrizol strips are protected inside of pleats during device delivery and removal and are only exposed when inflated
+ The Lubrizol stripes were loaded with 2 mL of a 1 M PARPi-FL solution
+ The balloon was inserted into the anesthetized pigs esophagus in a deflated state under white light endoscopic guidance
+ Inflation led to exposure of the Lubrizol stripes and a pressure induced release of PARPi-FL onto the esophagus wall of the anesthetized pig for a duration of 3 min
+ 10 min after the application, the pig was sacrificed followed by necropsy and cryopreservation of the esophagus in 10x10 mm tiles
+ Cryosections were cut perpendicular to the esophagus surface and imaged using a confocal microscope to detect penetration depths and binding of PARPi-FL from the topical application
+ Adjacent slides were H&E stained to identify morphological structures
+ We used one pig and applied PARPi-FL to three different sites by re-loading and re-insertion of Brush biopsy samples, obtained from tissue derived cell suspensions were used for PARPi-FL staining
+ Specifically, FaDu (n=9) and OE19 (n=12) xenografts were grown in female athymic nude mice
+ Tumors and tongues were harvested, and single cell suspensions were obtained via certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    tissue dissociation using the gentleMACS Octo Dissociator with Heaters (Miltenyi Biotech) in combination with a tissue dissociation kit (#130-095-929, Miltenyi Biotech), following the manufacturers instructions
+ Cells were then resuspended and stained with either 100 nM PARPi-FL, 100 M olaparib mixed with 100 nM PARPi-FL or PBS for 1 hour at room temperature with occasional shaking, followed by a 1 hour wash in PBS at room temperature with occasional shaking
+ After resuspension in fresh PBS, cells were analyzed on a Fortessa flow cytometer (BD Biosciences)
+ DAPI was added to exclude dead cells from the analysis
+ Side scatter and forward scatter were used to select single cells, excluding doublets, aggregates and debris
+ Fluorescence was measured in the DAPI channel (DAPI live/dead stain), FITC channel (PARPi-FL) and PE channel (to control for near FITC laser bleeding)
+ The appropriate gates were selected on unstained and single stained controls (Fig
+ SA)
+ The cell populations were analyzed for the percentage of Optimization of the PARPi-FL fresh tissue staining protocol towards short staining time and specific nuclear accumulation was carried out using FaDu xenografts (n=5) (Fig
+ S)
+ The final protocol was used to stain fresh biopsies from oral cancer patients
+ 2 biopsies per patient (one biopsy was taken from the visible tumor and one biopsy at the 5 mm margin - see fig
+ 5A) were obtained pre-surgically under an IRB approved protocol
+ 13 patients were included in the study (see Table S2 for histopathological diagnoses; all margins were tumor negative)
+ One tumor diagnosis (verrucous hyperplasia)
+ For 3 patients, margin samples were not available, resulting in a total of n=12 tumors and n=10 margins
+ Upon receipt, tissues were photographed and divided certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    into three equal parts, each containing mucosa and submucosa
+ One part was used for immediate fresh tissue imaging, one part was cryoconserved and one part was fixed in 4% PFA for H&E and PARP1 IHC
+ The fresh tissue staining protocol consisted of staining for 5 min in 100 nM PARPi-FL (in 30%PEG300/PBS, room temperature) and a 10 min wash in %PEG/PBS
+ Samples were then transferred to ice-cold PBS containing 10 g/mL Hoechst 33342 until confocal imaging (LSM880, Zeiss, Germany)
+ Tissues were placed between two cover glasses (48x60 mm, Brain Research Laboratories) and a three-channel tile scan of the entire tissue (at least 2x2 mm) was captured (405 nm to detect Hoechst 33342, 488 nm to detect PARPi-FL and 543 nm to detect autofluorescence) using a 20x objective at 
+6x zoom in a scan time under 10 min
+ The diagnostic value of PARPi-FL fresh tissue staining was determined in a blinded reader study (n=27 readers) (study design in Fig
+ SB)
+ Readers received a ~10 min training on characteristic features of PARPi-FL staining in tumor and margin samples (Supplementary Material X)
+ They were then shown the study set, consisting of 30 cases (n=12 tumors, n=10 margins, n=8 duplicates (4 tumors, 4 margins) to determine sensitivity, specificity and intrareader variability
+ For each case, readers were presented 1-5 images for 5 sec/image, followed by a 10 sec decision window to classify a tissue as tumor or margin (full study set in Supplementary Material Y; each case was assigned a random ID (random
+org) and cases were presented in ascending numbers to the readers)
+ Images were presented at 488 nm and 488/543 nm overlay (to facilitate autofluorescence identification), where available (Fig
+ SA)
+ Statistical values were calculated in R
+  Biopsy samples from esophageal cancer patients (n = 5), acquired under an IRB approved protocol, were stained with 100 nM PARPi-FL for 5 min, subjected to confocal microscopy scanning and were then fixed in 4% PFA, followed by paraffin embedding and H&E staining
+ H&E sections certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    Fresh biospecimen imaging with a strip-mosaic scanning confocal fresh tissue scanner To test the feasibility of tissue scanning at a faster speed than standard confocal microscopy, we tested a confocal scanner that was specifically designed to create high-resolution strip-mosaics of whole tissues and features a 488 nm laser excitation (Vivascope 2500, Caliber ID, Andover, MA)
+ Following PARPi-FL staining of FaDu xenografts (0, 100, 250 nM PARPi-FL for 10 min) and human biospecimens (100 nM PARPi-FL for 10 min), tissues were placed on the specimen holder and images of a 15x15 mm field-of-view were acquired in about 150 sec
+ Images were compared to regular confocal microscopy and PARP1 IHC of the same samples
+  In addition to scanning of excised biospecimens, imaging with a confocal endomicroscope would enable imaging within the surgical cavity/wound bed in real time during surgery
+ Therefore, we can distinguish PARPi-FL stained tumor and normal biospecimens
+ The system uses a 488 nm laser with several bandpass and emission filters, which allow for identification of autofluorescence (Fig
+ SA)
+ The focal plane is adjustable between 0-400 m depth (Fig
+ SB)
+ The same human biospecimens that were used for regular confocal imaging were also imaged using the ViewnVivo to determine if PARPi-FL stained nuclei can be clearly identified
+ The images were compared to PARPi-FL blood half-life and imaging after intravenous injection in a pig certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    In a Yorkshire pig (50-55 kg), anesthesia was induced and the pig was placed on a table in the supine position
+ PARPi-FL (
+05 mg/kg, 10 mL, 30% PEG300 in PBS) was administered intravenously and, subsequently, blood samples (
+0 mL) and tongue punch biopsies (3 mm) were taken at predetermined time points (5, 10, 30, 60, 90, and 120 minutes)
+ The pig was euthanized with an intravenous overdose of pentobarbital sodium and phenytoin sodium (440 mg/ml)
+ Tongue punch biopsies were stored in ice-cold PBS containing 10 g/mL Hoechst 33342 until confocal imaging
+ The whole, fresh punch biopsies were imaged using a LSM880 confocal microscope (Zeiss, Germany) to identify PARPi-FL staining in the epithelial basal layer
+ Ice-cold acetonitrile (
+5 mL) was added to blood samples (
+0 mL) and vortexed for 30 s
+ After centrifugation for 10 min (4000 rpm), the supernatant (
+8 mL) was lyophilized overnight
+ Acetonitrile (200 uL) was added, vortexed for 15 s, and spun down for 5 min (4000 rpm)
+ Then, supernatant (100 uL) of each time was analyzed in a black bottom-less 96-well plate using a UV/VIS plate reader (Spectramax To conduct PARPi-FL first in-human imaging, we obtained IRB approval Informed consent was obtained from each patient
+ The presented data are part of a clinical phase I/II trial Videos were acquired before and post contrast application using the Quest Spectrum platform (Quest Medical Imaging, Middenmeer, Netherlands) in combination with a laparoscope and a customized PARPi-FL optimized laser/filter system
+ The same instrument settings were used throughout the imaging procedure (30 ms exposure time, 100% laser power, gain: 
+5 dB)
+ For contrast application, the patient gargled 15 mL of a 250 nM PARPi-FL solution (in 15% certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    PEG300/PBS) for 60 sec, followed by a washing solution (15%PEG300/PBS) for 60 sec
+ No adverse events or discomfort were observed
+ Image processing did not involve autofluorescence removal For quantification, still frames were selected from a pre- and postcontrast video and in each image 5 regions of interested were placed on tumor and non-tumor regions using ImageJ
+ Animals bearing EAC xenografts were injected intravenously with 160-230 Ci of [18F]PARPi 2 hours before PET/CT imaging
+ To acquire PET/CT images (Inveon PET/CT, Siemens) animals were anesthetized with 2% isoflurane and positioned on the scanner bed
+ PET data were collected for 5-10 minutes, followed by CT
+ Data analysis was carried out using the Inveon Research PARPi-FL staining
+ In this case, PARPi-FL staining and imaging was conducted in approximately 60-90 min from receiving the fresh human biopsy
+ Then, the biopsy was fixed in 4% PFA for 24 hours at 4C and processed for paraffin embedding, sectioning and H&E staining
+ PARPi-FL staining was optimized on fresh FaDu xenograft tissue
+ Freshly excised tumor tissue was cut into small pieces (2-3 mm diameter) before staining
+ We tested different staining protocols, varying PARPi-FL concentration (50, 100, 250 nM PARPi-FL in 30%PEG300/PBS), staining certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    times (1, 5, 10 min) and washing steps (0, 2, 10 min in %PEG/PBS)
+ Samples were then transferred to ice-cold PBS containing 10 g/mL Hoechst 33342 until confocal imaging (LSM880, Zeiss, Germany)
+ To collect images, tissues were placed on top of a cover glass (48x60 mm, Brain Statistical analysis was conducted using Graphpad Prism 7, except for the blinded study readings, which were analyzed with R
+ The confidence intervals for the diagnostic values were computed using a robust variance estimate accounting for a reader effect using a GEE approach
+ We used the Wilcoxon test for analysis of paired samples, e
+ g
+, PARP1-positive area of tumor, epithelium, and deep margin
+ We used the Mann-Whitney test for analysis of unpaired samples, e
+ g
+, PARP-positive area of different disease stages
+ We used an unpaired t-test for analyzing flow cytometry data and corrected for multiple comparison using the Holm-Sidak method, without assuming a consistent standard deviation (SD)
+ Statistical significance was determined with alpha = 
+ 
+ We specify which test was used and which level of significance was found for each result (*p<
+05, **p<
+01, ***p<
+001, ****p<
+ )
+ ROC curves were generated with Graphpad Prism 
+ All in vivo and ex vivo experiments subjected to statistical analysis consisted of group sizes of at least three
+ If not stated otherwise, data are presented as mean  standard deviation
+ The authors declare that all data supporting the findings of this study are available within the paper and its supplementary information files
+ The associated raw data and step-by-step protocols can be made available from the corresponding author upon reasonable request
+ The full code of the certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    ImageJ macro for automated analysis of PARP1 expression on IHC slides is available through Fig
+ S10: Diagnostic value of rapid PARPi-FL staining on fresh biospecimens
+ Fig
+ S13: Biospecimen imaging with a backtable scanner optimized for whole tissues
+  certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    
+ SEER Cancer Stat Facts: Oral Cavity and Pharynx, based on November 2017 SEER data submission, posted to SEER website, April 
+ National Cancer Institute
+ Bethesda, 
+ SEER Cancer Stat Facts: Esophageal Cancer, based on November 2017 SEER data submission, posted to SEER website, April 
+ National Cancer Institute
+ Bethesda, 
+ D
+ N
+ Sutton, J
+ S
+ Brown, S
+ N
+ Rogers, E
+ D
+ Vaughan, J
+ A
+ Woolgar, The prognostic implications of the surgical margin in oral squamous cell carcinoma
+ Int J Oral 
+ I
+ Ganly, S
+ Patel, J
+ Shah, Early stage squamous cell cancer of the oral tongue--
+ S
+ Law, C
+ Arcilla, K
+ M
+ Chu, J
+ Wong, The significance of histologically infiltrated 
+ S
+ Fedele, Diagnostic aids in the screening of oral cancer
+ Head & neck oncology 1, 5 
+ M
+ W
+ Lingen, J
+ R
+ Kalmar, T
+ Karrison, P
+ M
+ Speight, Critical evaluation of diagnostic aids for the detection of oral cancer
+ Oral oncology 44, 10-22 ()
+ 
+ C
+ Fuller, R
+ Camilon, S
+ Nguyen, J
+ Jennings, T
+ Day, M
+ B
+ Gillespie, Adjunctive diagnostic techniques for oral lesions of unknown malignant potential: Systematic review certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    
+ M
+ Olivo, R
+ Bhuvaneswari, I
+ Keogh, Advances in bio-optical imaging for the diagnosis 
+ A
+ Strome, S
+ Kossatz, D
+ K
+ Zanoni, M
+ Rajadhyaksha, S
+ Patel, T
+ Reiner, Current 
+ E
+ C
+ Yang, M
+ T
+ Tan, R
+ A
+ Schwarz, R
+ R
+ Richards-Kortum, A
+ M
+ Gillenwater, N
+ premalignant oral epithelial lesions: current limitations and future directions
+ Oral Surg 
+ D
+ Shin, N
+ Vigneswaran, A
+ Gillenwater, R
+ Richards-Kortum, Advances in fluorescence imaging techniques to detect oral cancer and its precursors
+ Future Oncol 6, 1143-1154 
+ L
+ L
+ Patton, J
+ B
+ Epstein, A
+ R
+ Kerr, Adjunctive techniques for oral cancer examination and lesion diagnosis: a systematic review of the literature
+ J Am Dent Assoc 139, -
+ K
+ Nosho, H
+ Yamamoto, M
+ Mikami, H
+ Taniguchi, T
+ Takahashi, Y
+ Adachi, A
+ (PARP-1) in the early stage of colorectal carcinogenesis
+ European journal of cancer 42, 
+ S
+ Staibano, S
+ Pepe, L
+ Lo Muzio, P
+ Somma, M
+ Mascolo, G
+ Argenziano, M
+ Scalvenzi, G
+ Salvatore, G
+ Fabbrocini, G
+ Molea, A
+ R
+ Bianco, C
+ Carlomagno, G
+ De Rosa, certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    from photoexposed areas of the head and neck region
+ Human pathology 36, 724-731 
+ J
+ P
+ Chow, W
+ Y
+ Man, M
+ Mao, H
+ Chen, F
+ Cheung, J
+ Nicholls, S
+ W
+ Tsao, M
+ Li Lung, R
+ Y
+ Poon, PARP1 is overexpressed in nasopharyngeal carcinoma and its 
+ M
+ Salemi, A
+ Galia, F
+ Fraggetta, C
+ La Corte, P
+ Pepe, S
+ La Vignera, G
+ Improta, P
+ Bosco, A
+ E
+ Calogero, Poly (ADP-ribose) polymerase 1 protein expression in normal and neoplastic prostatic tissue
+ European journal of histochemistry : EJH 57, e13 ()
+ 
+ A
+ R
+ Green, D
+ Caracappa, A
+ A
+ Benhasouna, A
+ Alshareeda, C
+ C
+ Nolan, R
+ D
+ Macmillan, S
+ Madhusudan, I
+ O
+ Ellis, E
+ A
+ Rakha, Biological and clinical significance of PARP1 protein expression in breast cancer
+ Breast cancer research and treatment 149, 
+ T
+ Dziaman, H
+ Ludwiczak, J
+ M
+ Ciesla, Z
+ Banaszkiewicz, A
+ Winczura, M
+ Chmielarczyk, E
+ Wisniewska, A
+ Marszalek, B
+ Tudek, R
+ Olinski, PARP-1 expression is increased in colon adenoma and carcinoma and correlates with OGG
+ PloS one 9, 
+ V
+ Ossovskaya, I
+ C
+ Koo, E
+ P
+ Kaldjian, C
+ Alvares, B
+ M
+ Sherman, Upregulation of 
+ J
+ Michels, J
+ Adam, A
+ Goubar, F
+ Obrist, D
+ Damotte, A
+ Robin, M
+ Alifano, I
+ Vitale, K
+ A
+ Olaussen, P
+ Girard, I
+ Cremer, M
+ Castedo, J
+ C
+ Soria, G
+ Kroemer, Negative prognostic value of high levels of intracellular poly(ADP-ribose) in non-small cell lung certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    cancer
+ Annals of oncology : official journal of the European Society for Medical 
+ F
+ Rojo, J
+ Garcia-Parra, S
+ Zazo, I
+ Tusquets, J
+ Ferrer-Lozano, S
+ Menendez, P
+ Eroles, C
+ Chamizo, S
+ Servitja, N
+ Ramirez-Merino, F
+ Lobo, B
+ Bellosillo, J
+ M
+ Corominas, J
+ Yelamos, S
+ Serrano, A
+ Lluch, A
+ Rovira, J
+ Albanell, Nuclear PARP-1 protein overexpression is associated with poor overall survival in early breast cancer
+ Annals of oncology : official journal of the European Society for Medical Oncology / ESMO 23, 
+ H
+ Pashaiefar, M
+ Yaghmaie, J
+ Tavakkoly-Bazzaz, S
+ H
+ Ghaffari, K
+ Alimoghaddam, M
+ Momeny, P
+ Izadi, M
+ Izadifard, A
+ Kasaeian, A
+ Ghavamzadeh, PARP-1 Overexpression as an Independent Prognostic Factor in Adult Non-M3 Acute Myeloid 
+ Z
+ H
+ Li, T
+ Lv, Y
+ Y
+ Liu, X
+ S
+ Huang, Z
+ P
+ Qiu, J
+ J
+ Li, PARP1 is a novel independent prognostic factor for the poor prognosis of chordoma
+ Cancer Biomark 16, 633-639 
+ C
+ P
+ Irwin, Y
+ Portorreal, C
+ Brand, Y
+ Zhang, P
+ Desai, B
+ Salinas, W
+ A
+ Weber, T
+ 
+ S
+ Kossatz, C
+ Brand, S
+ Gutiontov, J
+ T
+ Liu, N
+ Y
+ Lee, M
+ Gonen, W
+ A
+ Weber, T
+ Reiner, Detection and delineation of oral cancer with a PARP1 targeted optical imaging 
+ E
+ L
+ Rosenthal, J
+ M
+ Warram, E
+ de Boer, J
+ P
+ Basilion, M
+ A
+ Biel, M
+ Bogyo, M
+ Bouvet, B
+ E
+ Brigman, Y
+ L
+ Colson, S
+ R
+ DeMeester, G
+ C
+ Gurtner, T
+ Ishizawa, P
+ M
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    Jacobs, S
+ Keereweer, J
+ C
+ Liao, Q
+ T
+ Nguyen, J
+ M
+ Olson, K
+ D
+ Paulsen, D
+ Rieves, B
+ D
+ Sumer, M
+ F
+ Tweedle, A
+ L
+ Vahrmeijer, J
+ P
+ Weichert, B
+ C
+ Wilson, M
+ R
+ Zenn, K
+ R
+ Zinn, G
+ M
+ van Dam, Successful Translation of Fluorescence Navigation During Oncologic Surgery: A Consensus Report
+ Journal of nuclear medicine : official 
+ R
+ Kariv, T
+ P
+ Plesec, J
+ R
+ Goldblum, M
+ Bronner, M
+ Oldenburgh, T
+ W
+ Rice, G
+ W
+ Falk, The Seattle protocol does not more reliably predict the detection of cancer at the gastroenterology and hepatology : the official clinical practice journal of the American 
+ M
+ I
+ Canto, S
+ Setrakian, J
+ Willis, A
+ Chak, R
+ Petras, N
+ R
+ Powe, M
+ V
+ Sivak, Jr
+, 
+ S
+ Ngamruengphong, V
+ K
+ Sharma, A
+ Das, Diagnostic yield of methylene blue 
+ H
+ Shiozaki, H
+ Tahara, K
+ Kobayashi, H
+ Yano, S
+ Tamura, H
+ Imamoto, T
+ Yano, K
+ Oku, M
+ Miyata, K
+ Nishiyama, et al, Endoscopic screening of early esophageal cancer with the Lugol dye method in patients with head and neck cancers
+ Cancer 66, 2068-2071 
+ A
+ A
+ Patel, M
+ Strome, A
+ Blitzer, Directed balloon cytology of the esophagus: A novel certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    
+ H
+ R
+ Moinova, T
+ LaFramboise, J
+ D
+ Lutterbaugh, A
+ K
+ Chandar, J
+ Dumot, A
+ Faulx, W
+ Brock, O
+ De la Cruz Cabrera, K
+ Guda, J
+ S
+ Barnholtz-Sloan, P
+ G
+ Iyer, M
+ I
+ Canto, J
+ S
+ Wang, N
+ J
+ Shaheen, P
+ N
+ Thota, J
+ E
+ Willis, A
+ Chak, S
+ D
+ Markowitz, 
+ S
+ Warnakulasuriya, Global epidemiology of oral and oropharyngeal cancer
+ Oral 
+ S
+ Johnson, M
+ J
+ Corsten, J
+ T
+ McDonald, J
+ Chun, Socio-economic factors and stage at presentation of head and neck cancer patients in Ottawa, Canada: a logistic regression 
+ D
+ I
+ Conway, M
+ Petticrew, H
+ Marlborough, J
+ Berthiller, M
+ Hashibe, L
+ M
+ Macpherson, Socioeconomic inequalities and oral cancer risk: a systematic review and 
+ L
+ A
+ Torre, F
+ Bray, R
+ L
+ Siegel, J
+ Ferlay, J
+ Lortet-Tieulent, A
+ Jemal, Global cancer statistics, 
+ CA: a cancer journal for clinicians 65, 87-108 ()
+ 
+ R
+ Mehrotra, D
+ K
+ Gupta, Exciting new advances in oral cancer diagnosis: avenues to 
+ M
+ S
+ Greenberg, The "brush" controversy
+ Oral Surg Oral Med Oral Pathol Oral Radiol 
+ R
+ Mehrotra, The role of cytology in oral lesions: a review of recent improvements
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    
+ P
+ Fusaroli, P
+ Fedeli, R
+ Manta, G
+ Martino, S
+ Maltoni, T
+ Togliani, L
+ Andreini, R
+ Nannini, S
+ Zanarini, G
+ C
+ Caletti, Histology vs brush cytology (BC) in the diagnosis and 
+ R
+ H
+ Hardwick, R
+ J
+ Morgan, B
+ F
+ Warren, M
+ Lott, D
+ Alderson, Brush cytology in the diagnosis of neoplasia in Barrett's esophagus
+ Diseases of the esophagus : official journal of the International Society for Diseases of the Esophagus / I
+ S
+ D
+E 10, 233-237 ()
+ 
+ S
+ D'Souza, V
+ Addepalli, Preventive measures in oral cancer: An overview
+ Biomed 
+ J
+ McMahon, C
+ J
+ O'Brien, I
+ Pathak, R
+ Hamill, E
+ McNeil, N
+ Hammersley, S
+ Gardiner, E
+ Junor, Influence of condition of surgical margins on local recurrence and disease-specific survival in oral and oropharyngeal cancer
+ Br J Oral Maxillofac Surg 41, 
+ L
+ A
+ Ravasz, P
+ J
+ Slootweg, G
+ J
+ Hordijk, F
+ Smit, I
+ van der Tweel, The status of the resection margin as a prognostic factor in the treatment of head and neck carcinoma
+ J 
+ M
+ Alicandri-Ciufelli, M
+ Bonali, A
+ Piccinini, L
+ Marra, A
+ Ghidini, E
+ M
+ Cunsolo, A
+ Maiorana, L
+ Presutti, P
+ F
+ Conte, Surgical margins in head and neck squamous cell 
+ C
+ Black, J
+ Marotti, E
+ Zarovnaya, J
+ Paydarfar, Critical evaluation of frozen section margins in head and neck cancer resections
+ Cancer 107, 2792-2800 ()
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    
+ K
+ A
+ Pathak, R
+ W
+ Nason, C
+ Penner, N
+ R
+ Viallet, D
+ Sutherland, P
+ D
+ Kerr, Impact of use of frozen section assessment of operative margins on survival in oral cancer
+ Oral Surg Oral Med Oral Pathol Oral Radiol Endod 107, 235-239 ()
+ 
+ S
+ Kossatz, W
+ Weber, T
+ Reiner, Detection and Delineation of Oral Cancer With a 
+ B
+ Carney, S
+ Kossatz, T
+ Reiner, Molecular Imaging of PARP
+ Journal of Nuclear 
+ G
+ M
+ Thurber, T
+ Reiner, K
+ S
+ Yang, R
+ H
+ Kohler, R
+ Weissleder, Effect of small-
+ G
+ M
+ van Dam, G
+ Themelis, L
+ M
+ Crane, N
+ J
+ Harlaar, R
+ G
+ Pleijhuis, W
+ Kelder, A
+ Sarantopoulos, J
+ S
+ de Jong, H
+ J
+ Arts, A
+ G
+ van der Zee, J
+ Bart, P
+ S
+ Low, V
+ 
+ W
+ S
+ Tummers, J
+ M
+ Warram, N
+ S
+ van den Berg, S
+ E
+ Miller, R
+ J
+ Swijnenburg, A
+ L
+ 
+ B
+ Carney, S
+ Kossatz, B
+ H
+ Lok, V
+ Schneeberger, K
+ K
+ Gangangari, N
+ V
+ K
+ Pillarsetty, W
+ A
+ Weber, C
+ M
+ Rudin, J
+ T
+ Poirier, T
+ Reiner, Target engagement imaging of PARP inhibitors in small-cell lung cancer
+ Nature communications 9, 176 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    
+ S
+ Kossatz, W
+ A
+ Weber, T
+ Reiner, Optical Imaging of PARP1 in Response to Radiation 
+ S
+ Kossatz, B
+ Carney, C
+ Farley, W
+ A
+ Weber, C
+ M
+ Drain, T
+ Reiner, Direct Imaging of Drug Distribution and Target Engagement of the PARP Inhibitor Rucaparib
+ Journal of nuclear medicine : official publication, Society of Nuclear Medicine 59, 1316-1320 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    Acknowledgments: We thank Aditi Sahu and Rachel Giese for supporting the work at MSMC
+ We thank Jay Budrewicz for his support of the experiments at CBSet, and Nora Katabi for providing their expertise in histopathology
+ We also thank Violeta Dokic for assistance during clinical work with PARPi-FL
+ We thank the Molecular Cytology Core Facility, Radiochemistry & Molecular Imaging Probes Core Facility, and Flow Cytometry Core Facility at Memorial Sloan Kettering Cancer Center
+ We also thank Garon Scott and Leah Bassity for editing the manuscript
+ Finally, we thank the participants of the blinded study, including (in alphabetical order): Adam Schulman, Aditi Sahu, Alexander Bolaender, Christian Mason, Edwin Pratt, Chrysafis Andreou, Fay Nicolson, Jack Berry, Jeroen Goos, Junior Gonzales, Kelly Henry, Luke Carter, Manu Jain, Marlena McGill, Navjot Guru, Nick Sobol, Patricia Ribeiro Pereira, Rustin Mirsafavi, Sheryl Roberts, Sophie Poty, Stephen Jannetti, Troy Crawford, Veronica Nagle, Xiancheng (Lewis) Wu, Funding: This work was supported by National Institutes of Health grants R01 CA204441, P30 CA008748, R43 CA228815, and K99 CA218875 (SK)
+ The authors thank the Tow Foundation and MSKs Center for Molecular Imaging & Nanotechnology, Imaging and Radiation Sciences Author contributions: S
+ K
+, G
+ P
+, M
+ A
+ K
+, S
+ P
+, and T
+ R
+ conceived the study and designed the experiments
+ S
+ K
+, G
+ P
+, A
+ L
+ S
+, S
+ P
+ S
+, P
+ D
+ S
+ F
+, D
+ K
+ Z
+, C
+ B
+, R
+ G
+ V
+ S
+, P
+ B
+, N
+ H
+, R
+ D
+ R
+, A
+ S
+, and T
+ R
+ carried out the experiments and collected and analyzed the data
+ S
+ K
+, S
+ P
+ S
+, P
+ D
+ S
+ F
+, D
+ K
+ Z
+, A
+ S
+, S
+ P
+, and T
+ R
+ wrote IRB protocols
+ A
+ M
+, M
+ G
+, G
+ P
+, and S
+ K
+ conducted certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    statistical analysis of the data
+ M
+ S
+ and M
+ A
+ K
+ contributed experimental or analysis tools
+ S
+ K
+ and T
+ R
+ wrote the manuscript
+ All authors carefully reviewed and approved the manuscript
+ Competing interests: S
+ K
+, S
+ P
+, C
+ B
+, and T
+ R
+ are shareholders of Summit Biomedical Imaging, LLC
+ S
+ K
+, S
+ P
+, and T
+ R
+ are co-inventors on filed U
+ S
+ patent (WO2016164771) held by MSK that covers methods of use for PARPi-FL
+ T
+ R
+ is a co-inventor on U
+ S
+ patent (WO2012074840) held by the General Hospital Corporation that covers the composition of PARPi-FL
+ B
+ C
+ and T
+ R
+ are co-inventors on the filed U
+ S
+ patent (WO2016033293) held by MSK that covers methods for the synthesis of [F]PARPi
+ M
+ S
+ is a co-founder of Aero-Di-Namics
+ Data and materials availability: All data are in the main manuscript or in the Supplementary Materials
+  certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    Fig
+ 
+ Study overview
+ We analyzed PARP1 expression via IHC staining in esophageal, oropharyngeal, and oral cancer samples and carried out different PARP1 imaging studies
+ The figure illustrates the type of imaging-based study and species used for each tumor type
+  certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    Fig
+ 
+ PARP1 expression and imaging in esophageal cancer
+ (A) Representative PARP1 IHC and H&E histology obtained from human biospecimens
+ (B) Quantification of PARP1 expression in IHC samples (n=7 patients)
+ Statistical significance was determined using the Wilcoxon certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    matched pairs signed rank test (all values present for n=6 patients)
+ * p<
+ 
+ (C) Fluorescence imaging of EAC in xenograft mouse models after intravenous injection of 75 nmol PARPi-FL
+ Excised tumors were imaged using epifluorescence (IVIS) and confocal microscopy
+ PARP1 expression was confirmed via IHC staining
+ (D) Quantification of the fluorescence signal 90 min post-injection of PARPi-FL and tumor/esophagus (T/E) contrast ratios
+ (E) Quantification of PARP1 expression of tumors, esophagus, and muscle assessed by PARP1 IHC
+ (F) Quantification of PARP1 expression in EAC cell lines via Western blot
+ (G) Inflatable balloon applicator used to topically apply PARPi-FL to a Yucatan mini swine esophagus
+ (H) 2 mL of a 1000 nM PARPi-FL solution were loaded into the balloon applicator and topically applied for 3 min onto the esophagus of the anaesthetized mini swine
+ (I) Penetration of topically applied PARPi-FL was visualized in perpendicular cryosections of the esophagus using a confocal microscope
+ H&E certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    Fig
+ 
+ PARP1 expression and PARP cytometry in oropharyngeal cancer
+ (A) Representative PARP1 IHC from human biospecimens of oropharyngeal cancer, displaying PARP1 expression in the epithelium, deep margin, and tumor, with corresponding H&E images
+ (B) Quantification of PARP1 expression in IHC samples (n=9 patients)
+ Statistical significance was determined using certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    the Wilcoxon matched pairs signed rank test (all values present for n=7 patients)
+ * p<
+05, ** p<
+ 
+ (C) Workflow of PARP cytometry
+ Tissue samples (FaDu xenograft, tongue) were dissociated into single cell suspensions, stained with 100 nM PARPi-FL, and subjected to flow cytometry to determine the percentage of PARPi-FL stained cells in the sample
+ (D) Dot plots of the gated samples showing PARPi-FL-positive cells (FITC channel) vs
+ live/dead stain (DAPI)
+ Representative dot plot for tumor and tongue stained with 100 nM PARPi-FL or controls, which were used to assess specificity of the PARPi-FL binding (Olaparib/PARPi-FL) and specificity of the signal (PBS)
+ (E) Quantification of PARPi-FL flow cytometry (n=3 mice processed in 3 separate experiments)
+ Significance was determined using an unpaired t-test
+ * p<
+05, *** certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    Fig
+ 
+ PARP1 expression during malignant transition and at tumor margins in oral cancer
+ (A) Representative PARP1 IHC images in different stages of oral cancer progression (benign, mild certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    Mazumdar Shaw Medical Center (MSMC)
+ (B) Quantification of PARP1 expression in IHC samples (n=60 patients)
+ The PARP1-positive area (in relation to the entire tissue area) was quantified in high-resolution images of the epithelium or tumor area (mean of n  4 images per case)
+ Statistical significance was determined using an unpaired Mann-Whitney rank sum test
+ (C) Comparison of PARP1 expression in low-grade, potentially malignant lesions (benign vs
+ mild dysplasia) vs
+ severe dysplasia (carcinoma in situ) and malignant cases
+ Statistical significance was determined using an unpaired Mann-Whitney rank sum test
+ (D) ROC curve for the data represented in (C)
+ (E) Representative images of PARP1 expression in samples from two populations: presurgical biopsies of tumor and benign tissues (divided in two areas: epithelium and deep margin) and surgical specimens, which included tumor, adjacent benign epithelium, and deep margin on each specimen
+ (F) Quantification of PARP1 expression in IHC samples of biopsy specimens (n=12 patients)
+ Statistical significance was determined using the Wilcoxon matched pairs signed rank test (all values present for n=6 patients)
+ (G) Quantification of PARP1 expression in IHC samples of surgical specimens (n=12 patients)
+ Statistical significance was determined using the Wilcoxon matched pairs signed rank test (all values present for n=8 patients)
+ A different analysis of the same dataset has been published previously ()
+ (H) Pooling of all three datasets of oral biospecimens investigated for PARP1 expression via IHC
+ (I) Statistical significance of the datasets in (H) was determined between all groups using the unpaired Mann-Whitney rank sum certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    Fig
+ 
+ Rapid PARPi-FL staining on fresh biospecimens
+ (A) Workflow of rapid PARPi-FL staining of fresh human biospecimens
+ Biospecimens were split and separately processed for fresh tissue staining as well as histopathology
+ (B) Examples of PARPi-FL staining of a tumor and margin sample and corresponding histopathology of the same sample
+ We aimed to scan the entire fresh tissue in a high-resolution tile scan
+ Lower and higher magnification images showcase PARPi-FL staining and corresponding PARP1 expression in the specimens
+ A total of 22 tissues (n=12 tumors and n=10 benign tissues adjacent to tumor from 13 individual patients) were stained and analyzed
+ (C) In a blinded study, readers (n=27) scored 30 cases (n=12 tumors, n=10 margins, n=8 duplicates (4 tumors, 4 margins)) as tumor or margins (see fig
+ S9 for study design)
+ Pairs of sensitivity and specificity for each reader are represented in the graph
+ (D) Average values for value (
+3%), and correctly assigned cases (
+ %)
+ (E) Overall tumor agreement was 
+5% and certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    Fig
+ 
+ Feasibility of microscopic and macroscopic in-human imaging of PARPi-FL
+ (A) Imaging setup for the ViewnVivo point scanning confocal endomicroscope suitable for in vivo imaging
+ (B) Fluorescence images from a patient sample stained with 100 nM PARPi-FL and corresponding PARP1 IHC
+ (C) PARPi-FL first-in-human imaging
+ An oral squamous cell carcinoma patient was imaged as part of clinical evaluation of PARPi-FL (NCT)
+ Using a Quest Spectrum imaging device with a laparoscopic camera and PARPi-FL optimized laser/filter system the tumor area of the patient was imaged before and after gargling a 250 nM PARPi-FL solution
+ (D) Fluorescence intensities in the tumor and surrounding non-tumor area were analyzed certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 14, 
+ ;    

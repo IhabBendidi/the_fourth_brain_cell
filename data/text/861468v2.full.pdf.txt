@@ -1,0 +1,360 @@
+Cluster Analysis Based on Fasting and Postprandial Plasma Glucose and Insulin Concentrationsabetes
+ In this paper, we carried out a cluster analysis using plasmaone (fasting glucose) to four (fasting and postprandial glucose and in-sulin) attribute input to a k-means clustering algorithm
+ Based on theelbow and silhouette methods, three clusters were chosen to carry outto assess the dependence between the glucose and insulin levels for eachdiabetes were assigned to another cluster
+ Although age was not usedas an attribute, we have found that subjects in the three clusters have ainsulin levels in fasting and postprandial and between glucose levels inDiabetes is a progressive disease characterized by high blood glucose levels due to poorperformance in the production or action of insulin [6, ]
+ There is no clear knowl-edge about the instant in which diabetes occurs but there are pre-diabetic conditions,not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 5, 
+ ;    such as impaired glucose tolerance (IGT) and impaired fasting glucose (IFG), thatpredispose the development of diabetes [10] and increase the risk of cardiovascularThe increase of the population in urban areas and the proliferation of a sedentarylifestyle have influenced the prevalence diabetes and prediabetes worldwide
+ For in-stance, two thirds of adults with diabetes live in urban settings (298 million people)whereas a third lives in rural areas (153 million people) []
+ The prevalence of dia-betes in adults in 2017 was estimated in 425 million cases (almost 9% of adults) but itis estimated that 629 million people (about 10% of adults) will suffer from diabetes in
+ Similarly, the prevalence of IGT in adults in 2017 was estimated in 374 millioncases (almost 8% of adults), 69% of which live in low and middle income countries,but it is estimated that 587 million adults (
+4% of adults) will suffer from IGT in2045 []
+ The North American and Caribbean region has the highest prevalence ofIGT (
+6%) and the Southeast Asia region has the lowest one (
+ %)
+ The prevalenceof IFG is between 
+9% and 58% for Caucasians and between 
+2% and 
+1% forDiabetes, IGT and IFG can be diagnosed from the oral glucose tolerance test(POTG) [20], a clinical test consisting of five plasma glucose and insulin measurements,one in fasting and, after oral intake of 75 grams of liquid anhydrous glucose, fourothers each 30 minutes
+ IGT is diagnosed when plasma glucose levels at 120 minutesare between 140 and 200 mg/dL and IFG is diagnosed when fasting glucose levels areNumerous methodologies have been used for the diagnosis of diabetes and predia-betes
+ Support vector machines, genetic algorithms and k-means have been used forthe diagnosis of diabetes [25] and gestational diabetes [23] using databases that includeplasma glucose, plasma insulin, blood pressure, among others
+ Likewise, linear regres-sions has been used for the diagnosis of IGT to correlate plasma metabolite valueswith insulin and OGTT glucose []
+ Additionally, machine learning algorithms havebeen explored to predict the evolution towards diabetes in patients at high risk []
+Diabetes is a multifactorial disease that usually comes in concomitance with otherdrome, among others
+ Some studies have explored the characterization of diabeticsin more specific groups with particular characteristics, the results of these investiga-tions have revealed that a more specific characterization of diabetic patients couldimprove the quality of life of diabetic patients by designing treatments more appro-priate to their type of diabetes and even avoid long-term diabetic complications suchFasting and postprandial blood glucose and insulin levels defined in the literatureare used to identify prediabetic and diabetic conditions
+ In a recent study, we haveused these ranges of values and combined them to better characterize the metabolicconditions of individuals []
+ Specifically, we define 28 different classes, of which fourcorrespond to the normal condition, twelve to the condition of prediabetes and twelveto the condition of diabetes
+ In this work, we propose to cluster these subjects us-ing fasting and postprandial glucose and insulin values in order to find characteristicpatterns of glucose and insulin that reveal important information about the processesof deterioration of the metabolic condition
+ In this sense, we propose to divide thedata set into three groups using the k-means algorithm, which allows to find naturalgroups in the data set by means of a similarity measure based on the distance betweenindividuals, in such a way that the individuals within the same cluster are similarto each other and share the same attributes (characteristics) and these in turn arenot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 5, 
+ ;    different from the individuals of the other groups []
+ The advantage of clustering isthat it allows the subjects to be grouped without having a priori knowledge of how todo it (it is a type of unsupervised learning) since the data is not labeled []
+Prediabetic conditions can be reversed with simple changes in peoples lifestyle []but diabetes can only be controlled with medical treatment
+ Therefore, early diagnosisof prediabetic conditions is of paramount importance in the prevention of diabetes []
+The OGTT is an invasive and expensive test, the application of methodologies thatimprove the diagnosis of diabetes and prediabetes by decreasing the amount of glucoseand insulin measurements and including non-invasive variables such as age could beof great help especially in developing countries []
+ There is evidence that earlydiagnosis and prediction of the onset of diabetes are vital for the delay of diseaseof life expectancy, symptom relief and prevention of related complications []
+The age and levels of glucose and insulin in plasma in fasting from 2835 women,collected in a previous study at Caracas University Hospital, Venezuela, were employedin this work
+ Please refer to [4] for a more detailed explanation of the clinical protocoland the database in general The database is freely available at []
+In this work, we focused on analyzing the result of the clustering for different combi-
+ The first clustering experiment was performed using only fasting glucose levels(G)
+ This experiment is important since estimating the fasting glucose con-centration is a feasible task to be performed by an inexperienced person using,for example, commercial devices, such as a glucometer or a smartphone appli-cation [8, 27], or wearable technology, such as a contact lens [16, ]
+ Therefore,glucose concentration could have a significant impact on society since peoplecould obtain useful information without going to a specialized clinical labora-
+ The second clustering experiment uses fasting and postprandial glucose levels(G&G)
+ Although two blood samples are required to perform this exper-iment and ingest a certain glucose concentration, which indicates that it is amore expensive and complicated procedure than the previous one, most spe-cialized laboratories perform this type of test to diagnose metabolic diseases
+and postprandial blood glucose concentrations could be a useful tool for clinical
+ The third one uses fasting glucose and insulin levels (G&I)
+ The measure-ment of the concentration of insulin in the blood is carried out with specializedequipment in a clinical laboratory, therefore, it is an expensive procedure thatnot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 5, 
+ ;    
+ The fourth and final clustering experiment uses fasting and postprandial glucosesame time can help contribute to discovering patterns or clinical indicators inthe data
+ Besides, we recall that the database was classified into 28 classesbased on fasting and postprandial glucose and insulin values defined in theliterature []
+ However, this test would require two blood samples, the intakeof a certain amount of glucose, and a specialized instrument to determine theconcentration of insulin in blood (glucose concentration can also be obtainedwith a specialized instrument, however, as mentioned, a person can estimate itsSince our objective is to group the subjects based on blood glucose and insulinconcentrations, the age variable was not considered as an attribute in the clusteringprocess, however, it was used for analyzing the groups created
+ The number of subjectsThe squared Euclidean distance was used as the distance measure in which, foreach attribute, each centroid corresponds to the mean of the values of the attribute ofSince hyperparameter k must be specified prior to the clustering process, the elbowand silhouette methods were used to estimate the number of clusters
+ In the caseof the elbow method, for different values of k, we performed the clustering processand compute the percentage of variance explained
+ Then, the optimal number ofclusters corresponds to the lowest k that gives 90% of the percentage of varianceexplained
+ The elbow method by considering the total within cluster sum of squares(WCSS) as a function of the number of clusters was also considered
+ In the case of theSilhouette clustering evaluation criterion, again for different values of k, we performedthe clustering process and computed the average Silhouette of observations
+ Then,the optimal number of clusters is the one that provides the highest average SilhouetteWe computed the mean and standard deviation of the variables age, and fasting andpostprandial glucose and insulin levels of the subjects assigned to the clusters
+ Theences in the variables age, and fasting and postprandial glucose and insulin levelsdifference test as a post hoc test
+ The Wilcoxon signed rank test was used to assess thesignificant differences in the variables glucose and insulin between fasting and pospran-dial (dependent samples)
+ The Pearson correlation coefficient was used to assess thelinear dependence between the glucose and insulin levels per cluster
+ A p-value lessthan or equal to 5% was considered to be statistically significant
+A capsule in Code Ocean to reproduce the results of this paper is available at []
+Figure 1 shows the results of applying the elbow and average Silhouette methods fornot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 5, 
+ ;    deciding the number of clusters
+ Based on the results, we decided to use three clustersFigure 1: Elbow and average Silhouette methods for different combination ofTable 1 shows the number of subjects assigned to each cluster for the differentclustering experiments carried out, i
+ e
+ by considering G0, G0&G120, G0&I0 andTable 1: Number of subjects per cluster for different attributes used by theTable 2 shows the result of the variables age, G0, G120, I0 and G120 of the subjectsassigned to each cluster for each clustering experiment carried out
+ Significant differ-ences of the variables between clusters and of the cluster between the levels of glucoseFigure 2 shows box plot of the variables per cluster for each attribute combinationTable 3 shows the correlations between the variables of glucose and insulin inIn all the experiments carried out with the different attribute combinations, subjectsin cluster C1 have G0 and G120 lower than subjects in cluster C2, and they, in turn,have G0 and G120 lower than subjects in cluster C
+ It is important to note thatwe have named cluster C1 the one with the most subjects and cluster C3 the onewith fewer subjects, as shown in Table 
+ Moreover, the results of the clusteringalgorithm are in accordance with the diagnostic values of diabetes and prediabetesstated by the American Diabetes Association [6]: cluster C2 contains prediabetics,not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 5, 
+ ;    Table 2: Mean  standard deviation of the variables per cluster for each at-C1 
+83  
+57 a,b 
+05 
+74 a,b,c 
+ 
+61 a,b 
+ 
+81 b,ca The variable shows significant difference between clusters C1 and C
+b The variable shows significant difference between clusters C1 and C
+c The variable shows significant difference between clusters C2 and C
+significant and greater than |  
+5| are shown in bold text
+G120 I0 I120 G120 I0 I120 G120 I0 I120 G120 I0 IG0 
+251 
+138 
+092 
+259 
+159 -
+008 
+262 
+088 
+060 
+438 
+163 
+G0 
+587 
+112 
+038 
+196 
+117 -
+165 
+588 
+024 -
+023 
+430 
+155 
+G0 
+714 
+319 -
+030 
+701 -
+058 -
+439 
+714 
+319 -
+030 
+699 
+093 -
+not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 5, 
+ ;    Figure 2: Box plots of the variables (rows) per cluster for each attribute com-not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 5, 
+ ;    cluster C3 contains diabetic, and cluster C1 contains subjects without any of theAge is an important factor in the development of diabetes, and this is reflectedin the clustering performed
+ In all experiments, subjects in cluster C1 were youngerthan subjects in cluster C2, and they, in turn, were younger than subjects in clusterC
+ Consequently, as we age, we are more likely to suffer from diabetes
+ Moreover,a chronological trend was observed: the youngest tends to be healthy (cluster C),prediabetes tends to occur at middle-aged adults (cluster C2) and diabetes tends toBy considering the insulin concentration, on the one hand, in all the experiments,cluster C1 grouped subjects with lower I0 and greater insulin sensitivity (mean HOMA-IR < 
+ )
+ This is an expected result since these subjects tend to have normal fastingglucose and insulin levels
+ Clustering experiments with G0, G0&G120, and G&Ias attributes, grouped subjects with higher I0 levels in cluster C
+ These subjectshave lower insulin sensitivity (mean HOMA-IR> 
+ )
+ It is known that low insulinsensitivity can cause the development of diabetes
+ This can be reflected by the factthat subjects in cluster C2 have a mean HOMA-IR> 
+6, indicating that these subjects(with glucose values consistent with prediabetes) have insulin resistance []
+ On theother hand, in all the experiments, cluster C2 contains subjects with elevated levels ofI120, which could indicate that subjects with prediabetes tend to produce more insulinfor glucose metabolism than normal Moreover, cluster C3 contains the lowest level ofI120 when the clustering is carried out with G0 and G0&I0 as attributes
+ Subjects incluster C3 are mostly diabetic as indicated by their fasting and postprandial glucoselevels, their insulin production is thus compromised due to the diabetic condition []
+It is interestingly to note the behavior of the correlations between the variablesas the metabolic disease progresses (from cluster C1 to C)
+ For instance, cluster-ing experiments with G0 and G0&I0 show significant correlations above 
+5 betweenfasting and postprandial insulin in cluster C1 and between fasting and postprandialglucose in cluster C
+ The association between fasting and postprandial glucose ap-pears in cluster C2 (mostly composed by prediabetics) but it is then strengthenedin cluster C3 (mostly composed by diabetics), with correlations around 
+7, for allthe clustering experiments
+ This suggests that the association between fasting andpostprandial plasma glucose concentration is marked in subjects with problems withThis work has shown that the k-means clustering algorithm with three clusters groupsthe subjects into healthy, prediabetic and diabetic, by using fasting and postprandialglucose and insulin levels
+ In addition, it also groups subjects with low insulin sensi-tivity
+ Age can also be considered an important factor in the development of diabetessince subjects with diabetes and prediabetes (clusters C3 and C2, respectively) wereamong the older subjects
+ Low insulin sensitivity could be another risk factor in thedevelopment of diabetes
+ Clusters C2 and C3 contain subjects with HOMA-IR> 
+,being the subjects of cluster C3 (diabetics) those who presented a greater detrimentnot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 5, 
+ ;    The authors have no affiliations with or involvement in any organization or entitywith any financial interest or non-financial interest in the subject matter or materialsMiguel Altuve carried out the experiment and contributed to the conception of thestudy, and the writing and revising of the manuscript
+ Erika Severeyn contributed tothe conception of the study, the analysis of the results and the writing and revising of[1] E
+ Ahlqvist, P
+ Storm, A
+ Karajamaki, M
+ Martinell, M
+ Dorkhan, A
+ Carlsson,P
+ Vikman, R
+ B
+ Prasad, D
+ M
+ Aly, P
+ Almgren, et al Novel subgroups of adult-onset diabetes and their association with outcomes: a data-driven cluster analysisof six variables
+ The lancet Diabetes & endocrinology, 6(5):361369, 
+ ISSN[2] M
+ Altuve and E
+ Severeyn
+ Fasting and postprandial glucose and insulin dataset
+[3] M
+ Altuve and E
+ Severeyn
+ Cluster analysis based on fasting and postprandial[4] M
+ Altuve and E
+ Severeyn
+ Joint analysis of fasting and postprandial plasma[5] R
+ Ambady and S
+ Chamukuttan
+ Early diagnosis and prevention of diabetes[6] American Diabetes Association
+ 
+ classification and diagnosis of diabetes: Stan-[7] R
+ Badugu, E
+ A
+ Reece, and J
+ R
+ Lakowicz
+ Glucose-sensitive silicone hydrogelcontact lens toward tear glucose monitoring
+ Journal of biomedical optics, ():[8] A
+ J
+ Bandodkar, S
+ Imani, R
+ Nunez-Flores, R
+ Kumar, C
+ Wang, A
+ V
+ Mohan,J
+ Wang, and P
+ P
+ Mercier
+ Re-usable electrochemical glucose sensors integratednot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 5, 
+ ;    [10] N
+ Bansal Prediabetes diagnosis and treatment: A review
+ World journal of[11] A
+ Cahn, A
+ Shoshan, T
+ Sagiv, R
+ Yesharim, I
+ Raz, and R
+ Goshen
+ Use of a[12] N
+ Cho, J
+ Shaw, S
+ Karuranga, Y
+ Huang, J
+ da Rocha Fernandes, A
+ Ohlrogge,and B
+ Malanda
+ IDF diabetes atlas: Global estimates of diabetes prevalencefor 2017 and projections for 
+ Diabetes research and clinical practice, :[13] C
+ K
+ Chow, C
+ Ramasundarahettige, W
+ Hu, K
+ F
+ AlHabib, A
+ Avezum Jr,X
+ Cheng, J
+ Chifamba, G
+ Dagenais, A
+ Dans, B
+ A
+ Egbujie, et al Availability[14] M
+ P
+ Czech
+ Insulin action and resistance in obesity and type 2 diabetes
+ Nature[15] R
+ A
+ DeFronzo, E
+ Ferrannini, L
+ Groop, R
+ R
+ Henry, W
+ H
+ Herman, J
+ J
+Holst, F
+ B
+ Hu, C
+ R
+ Kahn, I
+ Raz, G
+ I
+ Shulman, et al Type 2 diabetes[16] N
+ M
+ Farandos, A
+ K
+ Yetisen, M
+ J
+ Monteiro, C
+ R
+ Lowe, and S
+ H
+ Yun
+[17] V
+ A
+ Fonseca
+ Defining and characterizing the progression of type 2 diabetes
+[18] K
+ H
+ Ha and D
+ J
+ Kim
+ Trends in the diabetes epidemic in korea
+ Endocrinology[19] Y
+ Huang, X
+ Cai, W
+ Mai, M
+ Li, and Y
+ Hu
+ Association between prediabetesand risk of cardiovascular disease and all cause mortality: systematic review and[20] A
+ Hulman, D
+ Vistisen, C
+ Glumer, M
+ Bergman, D
+ R
+ Witte, and K
+ Frch
+Glucose patterns during an oral glucose tolerance test and associations with futurenot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 5, 
+ ;    [21] I
+ Kavakiotis, O
+ Tsave, A
+ Salifoglou, N
+ Maglaveras, I
+ Vlahavas, and I
+ Chou-varda
+ Machine learning and data mining methods in diabetes research
+ Compu-[22] E
+ B
+ Ketema and K
+ T
+ Kibret
+ Correlation of fasting and postprandial plasmaglucose with hba1c in assessing glycemic control; systematic review and meta-analysis
+ Archives of Public Health, 73(1):43, 
+ ISSN -
+ doi: 
+[23] T
+ Santhanam and M
+ Padmavathi
+ Application of K-means and genetic algo-rithms for dimension reduction by integrating SVM for diabetes diagnosis
+ Pro-[24] A
+ Saxena, M
+ Prasad, A
+ Gupta, N
+ Bharill, O
+ P
+ Patel, A
+ Tiwari, M
+ J
+ Er,W
+ Ding, and C
+ -T
+ Lin
+ A review of clustering techniques and developments
+[25] P
+ M
+ Shakeel, S
+ Baskar, V
+ S
+ Dhulipala, and M
+ M
+ Jaber
+ Cloud based[26] C
+ Wildberg, A
+ Masuch, K
+ Budde, G
+ Kastenmuller, A
+ Artati, W
+ Rathmann,J
+ Adamski, T
+ Kocher, H
+ Volzke, M
+ Nauck, et al Plasma metabolomics toidentify and stratify patients with impaired glucose tolerance
+ The Journal of[27] J
+ Yang
+ Blood glucose monitoring with smartphone as glucometer
+ Electrophore-[28] W
+ Yip, I
+ Sequeira, L
+ Plank, and S
+ Poppitt
+ Prevalence of pre-diabetes acrossethnicities: a review of impaired fasting glucose (IFG) and impaired glucose toler-[29] P
+ Zimmet, K
+ Alberti, and J
+ Shaw
+ Global and societal implications of thenot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 5, 
+ ;    

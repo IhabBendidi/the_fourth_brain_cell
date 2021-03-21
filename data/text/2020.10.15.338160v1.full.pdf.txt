@@ -1,0 +1,2053 @@
+Authors Ss Skovs1, Evgeniy Panzhinskiy1, Jelena Kolic1, Derek A
+ Dionne1, Xiao-Qing Dai2, Rohit B
+ Sharma3, Lynda Elghazi4, Haoning Howard Cen1, Cara E
+ Ellis1, Katharine Faulkner5, Stephanie A
+ M
+ Marcil1, Peter Overby1, Nilou Noursadeghi1, Daria Hutchinson1, Xiaoke Hu1, Hong Li1, Honey Modi1, Jen Wildi1, J
+ Diego Botezelli1, Hye Lim Noh6, Sujin Suk6, Brian Gablaski6, Austin Bautista2, Ryekjang Kim2, Corentin Cras-Mneur7, Stephane Flibotte8, Sunita Sinha9, Dan S
+ Luciani10, Corey Nislow9, Elizabeth J
+ Rideout1, Eric N
+ Cytrynbaum5, Jason Kim6,12, Ernesto Bernal-Mizrachi11, Laura 1Diabetes Research Group, Life Sciences Institute, and Department of Cellular and Physiological 2Alberta Diabetes Institute and Department of Pharmacology, University of Alberta, Edmonton, 3 Division of Endocrinology, Diabetes and Metabolism, Weill Cornell Medicine, New York, USA 4Islet isolation Laboratory of the Animal Studies Core of the Michigan Diabetes Research Center, Department of Ophthalmology and Visual Sciences, University of Michigan Kellogg Eye Center, Ann 7Department of Internal Medicine, Division of Metabolism, Endocrinology and Diabetes, University of 8UBC Life Sciences Institute Bioinformatics Facility, University of British Columbia, Vancouver, 10BC Childrens Hospital Research Institute, Department of Surgery, Faculty of Medicine, University of 11 Division of Endocrinology, Diabetes and Metabolism, University of Miami Miller School of Medicine, 12Division of Endocrinology, Metabolism, and Diabetes, Department of Medicine, University of Address correspondence to James D
+ Johnson, PhD
+, Faculty of Medicine, Department Cellular and Physiological Sciences, The University of British Columbia, Life Sciences Institute, 5358  2350 Health Sciences Mall, Vancouver, British Columbia, Canada V6T 1Z3  Email (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    S
+ S
+ led project design/management, conducted experiments, analyzed data, and wrote the E
+ P
+ conducted experiments, analyzed data, and edited the manuscript (protein synthesis, Westerns)
+ J
+ K
+ conducted experiments, analyzed data, and edited the manuscript (ex vivo insulin secretion)
+ D
+ A
+ D
+ conducted experiments and analyzed data (in vivo glucose homeostasis)
+ X-Q
+ D
+ conducted experiments, analyzed data, and edited the manuscript (electrophysiology)
+ R
+ B
+ S
+ conducted experiments, analyzed data, and edited the manuscript (long-term hyperglycemia, L
+ E
+ conducted experiments, analyzed data, and edited the manuscript (MIPCre mice) H
+ H
+ C
+ analyzed data, and edited the manuscript (RNAseq analysis) C
+ E
+ analyzed data, and edited the manuscript (Bioinformatics and calcium data analysis) S
+ A
+ M
+ M
+ conducted experiments and analyzed data (beta-cell area) P
+ O
+ conducted experiments, analyzed data, and edited the manuscript (Seahorse) H
+ M
+ conducted experiments, analyzed data, and edited the manuscript (FACS, RNAseq prep) D
+ S
+ L
+ conducted experiments and edited the manuscript (nTnG validation) L
+ A
+ supervised studies, and edited the manuscript (long-term hyperglycemia, proliferation) J
+ D
+ J
+ conceived the project, oversaw its execution, edited the manuscript, and guarantees the work
+ We thank Johnson lab members for valuable feedback and those who provided insight when data was presented at conferences
+ We also thank Sarah Hulme, Charles Nieh and our animal care staff for supporting our animal husbandry, Bernard Thorens and Jorge Ferrer for sharing the Ins1cre knock-in mice, Eric Jan for allowing us to use his facilities to conduct S35 labeling
+ We thank Quin Wills for helpful discussion of the smartseq2 protocol, and Austin Taylor for discussion of genotyping
+ SS was supported by an Alfred Benzon Post-Doctoral fellowship
+ Work was primarily supported by a CIHR grant (133692) to JDJ
+ Work in Edmonton was supported by CIHR grant (148451) to PEM
+ Work in the Michigan Diabetes Research Center was supported by NIH (P30 DK)
+ Work at U Mass was supported by an NIH grants (5U2C-DK093000) to JKK and (R01DK114686) to LCA
+ CN is (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    The authors report no conflicts of interest related to this work
+ Insulin receptor (Insr) protein can be found at higher levels in pancreatic -cells than in most other cell types, but the consequences of -cell insulin resistance remain enigmatic
+ Ins1cre allele was used to delete Insr specifically in -cells of both female and male mice which were compared to Inscre-containing littermate controls at multiple ages and on multiple diets
+ RNA-seq of recombined -cells revealed significant differences in multiple pathways previously implicated in insulin secretion and cellular fate, including rewired Ras and NFKB signaling
+ Male, but not female, InsrKO mice had reduced oxygen consumption rate, while action potential and calcium oscillation frequencies were increased in Insr knockout -cells from female, but not male mice
+ Female InsrKO and InsrHET mice exhibited elevated insulin release in perifusion experiments, during hyperglycemic clamps, and following i
+ p
+ glucose challenge
+ Deletion of Insr did not reduce -cell mass up to 9 months of age, nor did it impair hyperglycemia-induced proliferation
+ Based on our data, we adapted a mathematical model to include -cell insulin resistance, which predicted that -cell Insr knockout would improve glucose tolerance depending on the degree of whole-body insulin resistance
+ Indeed, glucose tolerance was significantly improved in female InsrKO and InsrHET mice when compared to controls at 9, 21 and 39 weeks
+ We did not observe improved glucose tolerance in adult male mice or in high fat diet-fed mice, corroborating the prediction that global insulin resistance obscures the effects of -cell specific insulin resistance
+ We further validated our in vivo findings using the Ins1-CreERT transgenic line and found improved glucose tolerance 4 weeks after tamoxifen-mediated Insr deletion
+ Collectively, our data show that loss of -cell Insr alone is sufficient to drive glucose-induced hyperinsulinemia, thereby improving glucose homeostasis in otherwise insulin sensitive dietary and Type 2 diabetes is a multifactorial disease wherein several cell types, most prominently pancreatic -cells, are dysfunctional prior to and after diagnosis (Prentki and Nolan, )
+ Hyperinsulinemia, insulin resistance, impaired fasting glucose, and impaired glucose tolerance can all be observed prior to the onset of frank diabetes (Tabak et al, 2012), but the causal relationships between these factors remain incompletely understood (Page and Johnson, )
+ Impaired insulin receptor signaling is associated with obesity and often precedes the onset of overt type 2 diabetes, but it has been studied primarily in skeletal muscle, fat, and liver where it manifests differently (Boucher et al, )
+ Recent work in mice has established that -cell specific insulin resistance can be observed early in the progression towards type 2 diabetes, when hyperinsulinemia is prominent, and independently of insulin resistance in other tissues (Paschen et al, )
+ The physiological consequences of reduced It remains unresolved whether physiological insulin action on -cells manifests as positive feedback to stimulate further insulin secretion, or negative feedback to inhibit its own release (Leibiger et al, )
+ Human studies provide evidence for both possibilities
+ In vivo hyperinsulinemic-euglycemic clamps have been shown to reduce circulating C-peptide, a marker of endogenous insulin secretion (Cavallo-Perin et al, 1993; Elahi et al, )
+ In some studies, this inhibition was impaired in the obese state suggesting that systemic insulin resistance also extends to the -cells (Cavallo-Perin et al, )
+ Bouche and colleagues replicated this result at basal glucose, but also found evidence that insulin can potentiate glucose-stimulated insulin secretion under specific conditions (Bouche et al, )
+ Others have shown that insulin can either stimulate or inhibit its own secretion depending on the metabolic context (Mari et al, )
+ Administration of insulin to single -cells in vitro increases intracellular Ca2+ (Johnson and Misler, 2002a) and, in some studies, stimulates exocytosis (Aspinwall et al, )
+ However, Ca2+ release from intracellular stores is not always sufficient to evoke insulin exocytosis
+ We previously did not detect robust exocytosis or C-peptide release from human -cells in response to exogenous insulin despite observed changes in Ca2+ release (Luciani and Johnson, Whether chronic changes in autocrine insulin signaling affect -cell development, survival and adaptation conditions is also controversial Mice with chronically reduced insulin production have (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    impaired -cell expansion in the context of a high fat diet (Mehran et al, )
+ In vitro, physiologically relevant concentrations of insulin support the survival of both human and mouse -cells (Johnson et al, a)
+ We also reported insulin is sufficient to increase proliferation of cultured primary mouse -cells and that blocking insulin secretion with somatostatin blunts proliferation induced by hyperglycemia in vitro (Beith et al, 2008) and that the majority of glucose-dependent changes in gene expression in MIN6 cells are Insr-dependent (Ohsugi et al, )
+ However, it has also been proposed hyperglycemia-induced -cell proliferation bypasses the Insr (Jhala et al, 2003; Stamateris et al, )
+ Thus, whether these signals from insulin and/or glucose are transmitted through Insr, To address the short- and long-term consequences of eliminating Insr signaling in vivo, Kulkarni and colleagues generated mice with a floxed Insr allele and an Ins2 promoter driven Cre transgene (Kulkarni et al, )
+ Using this and related models, they reported that mice lacking -cell Insr have profound glucose intolerance, and frank diabetes in some cases, due to impaired glucose stimulated insulin secretion, Glut2 loss, and insufficient -cell mass (Kulkarni et al, 1999; Okada et al, 2007; Otani et al, )
+ Mice lacking Insr in -cells (and other off-target cell types) failed to exhibit the compensatory increase in -cell mass that accompanies a high fat diet in mice (Okada et al, )
+ Doubt was cast on some of these results when these Cre lines were subsequently shown to have off-target tissue effects owing to endogenous Ins2 expression in the brain and thymus (Fan et al, 2009; Johnson, 2014; Mehran et al, 2012; Wicksteed et al, a)
+ More recently, Wang and colleagues studied the roles of -cell Insr in utero and in adult mice using an inducible Ins1-CreER transgenic mouse model (Oakie et al, 2020; Wang et al, 2018), but these studies are confounded by the presence of the human growth hormone (hGH) minigene (Oropeza et al, 2015), which necessitates In the present study, we used the constitutive Ins1Cre knock-in strain with robust and specific recombination in -cells (Thorens et al, 2015) to precisely reduce insulin receptor signaling and define the impacts of -cell specific insulin resistance on glucose homeostasis
+ Using this approach, we found that insulin receptor signaling plays a suppressive role on insulin secretion by modulating -cell electrical excitability and that this effect is absent in conditions of global insulin resistance
+ We initiated our studies by conducting an unbiased analysis of insulin receptor abundance across tissues using publicly accessible data
+ Pancreatic islets had the 2nd highest protein abundance of both isoforms of the insulin receptor across a panel of 24 human tissues, as quantified by mass-spectrometry (Fig
+ A)
+ These results, which are not complicated by the limitations associated with anti-insr antibodies, show that islets have more INSR protein than classical insulin target tissues, including the liver and adipose
+ This also supports our previous observations suggesting that insulin receptors are more abundant in -cells relative to other cells in the pancreas (Boothe et al, )
+ Compilation of open source public single-cell RNA sequencing data from human islets demonstrated at least one count of insulin receptor mRNA in 
+4% -cells, alongside other islet cell types (Fig
+ We next sought to examine the function of the Insr, and the consequences of -cell-specific insulin resistance/sensitivity, using an in vivo -cell specific knockout mouse model
+ To limit recombination of the floxed Insr allele to pancreatic -cells, we used a Cre allele knocked into the endogenous Ins1 locus which, unlike Ins2 promoters, drives specific expression in -cells (Thorens et al, )
+ control Insrwt/wt;Ins1cre/wt;nTnG mice were generated using a breeding scheme to ensure consistency of the Cre donor parent (Fig
+ C)
+ Cre-recombinase efficiency was assessed using the nuclear TdTomato-to-nuclear EGFP (nTnG) lineage trace reporter (Prigge et al, 2013) and found to be robust on the Insrf/f;Ins1cre/wt;nTnG genetic background (Fig D)
+ We confirmed by Western blotting that Insr protein was almost completely absent from InsrKO islets and partially reduced from InsrHET (Fig
+ E)
+ qPCR showed that Insr mRNA was not decreased in any of the 18 tissues examined, including the whole brain or hypothalamus specifically, hence we did not perform Western blots for other tissues (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    (Fig
+ F)
+ Together with other published data on Ins1cre mice, these data strongly suggest that Insr deletion with Ins1cre is robust and sufficiently specific to pancreatic -cells
+ To establish a baseline gene expression profile of our -cell specific Insr knockout model we performed an unbiased global analysis of -cell gene expression in FACS purified GFP-positive -cells labelled with the nTnG reporter (Fig
+ SA)
+ RNA sequencing revealed significant differences in mRNA expression between InsrKO -cells and wild type -cells (Fig
+ 2; Fig
+ SB-E)
+ Overall, differentially expressed genes were enriched in Reactome pathways related to NFB signaling, Ras signaling, and mRNA splicing (Fig
+ SB)
+ In many cases, Insr gene deletion showed a gene-dose-dependent effect on regulated gene expression meaning that heterozygous InsrHET -cells exhibited intermediate expression of target genes between the full Insr knockout and wildtype -cells (Fig
+ SC)
+ Significantly upregulated individual mRNAs in InsrKO mice included genes that promote insulin secretion (Jak2, Atp6ap2), mediate cell death (Tmem123, Dusp26, Rela) and mitochondria fragmentation (Cers6), and repress -cell maturity (Dusp26) and proliferation (Rela, Kras), or participate in islet development (Tm4sf4)(Anderson et al, 2011; Chamberlain et al, 2014; Dai et al, 2015; Gomez-Banoy et al, 2019; Ma et al, 2001; Mandrup-Poulsen, 2003; Zhang et al, )
+ Several of the upregulated individual genes have been reported to be significantly associated with glycemic or obesity traits in human GWAS studies, including Utp3, Rela, Cers6, Rnf6, and Tbce (Fig
+ S1C; www
+ typediabetesgenetics
+ org)
+ Collectively, these upregulated genes point to -cells that may be hyper-secretory, but are perhaps more susceptible to some stress conditions
+ Individual genes that were significantly decreased included regulators of -cell function, including the regulation of KATP channels, and -cell fate (Brsk2, Rab3a, Bmpr2, Camk2b, Mapk8ip3), a negative regulator of Glut2 protein abundance (Prnp), a regulator of endocytosis (Vps8), a mediator of autophagy and cellular cholesterol traffic (Gramd1a), an anti-apoptosis gene (Rel), a transducer of ER stress (Atf6b), and a histone methyltransferase and STAT target gene (Mettl8)(Ashok and Singh, 2018; Engin et al, 2013; Fornoni et al, 2008; Frau et al, 2017; Goulley et al, 2007; Gu et al, 2018; Kline et al, 2013; Laraia et al, 2019; Locke et al, 2015; Mokhtari et al, 2009; Tobi et al, 2018; Wang et al, 2005; Yaekura et al, 2003; Yang et al, 2015; Zhang et al, )
+ Several of these downregulated genes showed strong evidence for genome-wide association with glycemic traits, including Ttll12, C2, Atf6b, Sympk, and Camk2b (Fig
+ SC)
+ Interestingly, Ddx31 is a genetic regulator of circulating proinsulin levels in women but not men (Strawbridge et al, )
+ Hnf4g belongs to a network of transcription factors that play essential roles in -cell function and fate but its specific role is unclear (Hara et al, )
+ Together, analysis of upregulated and downregulated genes points to the possibility that -cells lacking Insr may exhibit increased glucose-stimulated insulin secretion but We also used unbiased protein-protein interaction network analysis to examine the relationships between the differentially expressed genes, as well as known components of the insulin signaling pathways
+ We identified key network hubs downstream of -cell Insr (Fig
+ SD)
+ We also predicted the factors Rel, Pygo2, Polr2a, Nanos1 were significantly decreased and Jak2, Thap3 significantly increased in Insr-deficient -cells
+ These are likely to be the more proximal mediators of the Insr-The RNA-seq analysis of Insr-regulated genes implicated multiple factors known to promote insulin secretion, including regulators of Glut2, mitochondria, KATP channels, and granule trafficking
+ We did not observe significant differences in the intensity or gross localization of Glut2 protein using immunofluorescence imaging (Fig
+ A,B)
+ We examined mitochondrial function using the Seahorse bioanalyzer and found no significant differences between groups in females
+ In males, we observed a significant reduced oxygen consumption rate in dispersed islets from both InsrKO and InsrHET in comparison to controls during basal respiration and after antimycin A/rotenone injections, suggesting reduced ATP production (Fig
+ C)
+ Insulin administration has been reported to open -cell KATP channels, mediating negative feedback on insulin secretion (Khan et al, )
+ Lack of this endogenous insulin action through Insr would therefore be expected to lead to -cell hyper-excitability in our mouse model in the context of high glucose
+ Indeed, electrophysiological analysis of single -(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    cells from female InsrKO mice confirmed a significant increase in action potential firing frequency during glucose stimulation, when compared to control -cells, with no differences in resting potential, firing threshold, or action potential height (Fig
+ D,E)
+ The reversal potential was right-shifted in InsrKO -cells, further suggesting reduced K+ conductance (Fig
+ G)
+ Interestingly, the hyper-excitability was observed in Insr knockout -cells from female, but not male mice (Fig
+ E,F)
+ Perhaps the reduced mitochondrial efficiency in males prevented -cell hyperexcitability
+ It is also possible that male control -cells were already maximally insulin resistant when studied
+ No significant differences have been identified in Insr mRNA expression between sorted -cells from female and male islets (Stancill et al, )
+ We did not observe a statistically significant difference in depolarization induced exocytosis in single cells from either sex (Fig
+ 3H), suggesting that the late stages of insulin granule exocytosis are Next, we analyzed Ca2+ responses to 15mM glucose in thousands of Fura-2-loaded dispersed islet cells and analyzed the data with an adaptation of our TraceCluster algorithm (Wills et al, )
+ In agreement with the electrophysiological data, Insr knockout -cells from female mice exhibited a significantly greater number of oscillation peaks within the glucose stimulation period compared to control cells (Fig
+ 3I,J, S)
+ A similar increase in excitability was observed in InsrHET -cells
+ Collectively, these experiments demonstrate that -cells lacking Insr have increased electrical activity, suggesting that insulin has a negative feedback influence on excitability in the context of Loss of -cell Insr causes insulin hypersecretion in the context of stimulatory glucose Insulin secretion is driven by electrical excitability, so we next carefully examined the effects of partial and full -cell Insr deletion on secretory function employing multiple orthogonal in vitro and in vivo assays
+ We used islet perifusion to examine the dynamics of insulin secretion ex vivo at rest (3 mM glucose) and in response to 20mM glucose or 10mM glucose, as well as direct depolarization with 30mM KCl
+ Islets from female 16 week-old InsrKO and InsrHET mice secreted more insulin in response to 20 mM glucose and 30 mM KCl compared to islets from control mice (Fig
+ A)
+ No significant differences were observed at 3mM or 10mM glucose (Fig
+ A)
+ Consistent with our electrophysiology data, we did not observe differences in islets from males of the same age and on the same diet (Fig
+ B)
+ It seems possible that reduced ATP generation in male mice (Fig
+ 4C) offsets any enhanced excitability/Ca2+ responsiveness, to result in absence of significant changes in insulin This potentiation of high glucose-stimulated insulin secretion ex vivo in the complete and partial Insr knockout -cells, led us to examine how insulin levels were affected by glucose stimulation in vivo using the hyperglycemic clamp technique in awake mice
+ For this cohort of mice, there were no significant differences in body mass (control 
+5 +/- 
+5g n=8 vs InsrKO 
+8 +/- 
+4g n=10), lean mass (control 
+5 +/- 
+4g vs InsrKO 
+3 +/- 
+2g), or fat mass (control 
+8 +/- 
+3g vs InsrKO 
+2 +/- 
+ g)
+ Glucose infusion rates were adjusted in order to reach hyperglycemic levels (~19 mM) in InsrKO and wild type control mice (Fig
+ 4C, D, G, H)
+ Interestingly, slightly higher glucose infusion rates were necessary in female InsrKO mice in comparison to control mice in order to reach similar hyperglycemic levels (Fig
+ C)
+ In accordance with our ex vivo insulin secretion data, glucose-stimulated insulin secretion was higher in female, but not in male InsrKO mice compared with control mice (Fig
+ 4E, I)
+ We further tested whether in vivo insulin secretion would be potentiated after a single bolus of glucose in mice with reduced -cell Insr
+ At 11 weeks of age, plasma insulin response, relative to baseline, was significantly elevated 30 min after i
+ p
+ injection of 2g/kg body mass glucose in female, but not in male, InsrKO mice compared to controls (Fig
+ 4K, L)
+ In accordance with the electrophysiology, Ca2+ oscillation, and islet perifusion data, we detected no statistical difference between female genotypes in fasting plasma insulin in vivo at multiple ages (Fig
+ S)
+ Together, these experiments suggest that -cell Insr can play suppressive role in glucose-stimulated insulin secretion Effects of -cell Insr loss on insulin production, storage, processing and clearance  Insulin and insulin signaling can modulate protein synthesis in many cell types and we have previously provided evidence that soluble cellular insulin protein transiently increases in human islet cell cultures treated with exogenous insulin (Luciani and Johnson, )
+ To assess the quantitative contribution of Insr signaling to insulin production and mRNA translation rates we measured total islet (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    insulin content after acid-ethanol extraction and examined total protein synthesis rate using S35- methoioine/cysteine pulse labelling in isolated islets
+ Total insulin content and protein synthesis in isolated islets were unaffected by Insr deletion under these basal glucose conditions (Fig
+ M-P)
+ To investigate the role of Insr signaling on -cell stress and insulin clearance, we conducted analysis of plasma proinsulin to C-peptide ratios, and C-peptide to insulin ratios in the fasting state (4h) across multiple ages in both male and female mice, and on multiple diets (Fig
+ S)
+ While many of these parameters changed with age, no statistical differences between genotypes was seen in any of these parameters of mice fed either a low-fat diet (LFD) or a high fat diet (HFD)
+ A trend towards lower insulin clearance was observed in LFD-fed female InsrKO mice in comparison to wild type control mice at 7 weeks
+ Collectively, these experiments show that -cell insulin receptor signaling has only a small, if any, effect on insulin processing and clearance at baseline glucose conditions
+ As our RNA sequencing data revealed pathways downstream of Insr signaling that may affect -cell proliferation capacity (Fig
+ 2), we examined baseline -cell area and proliferation reserve capacity
+ Islet architecture and -cell-to--cell ratio were not obviously perturbed (Fig
+ A)
+ We did not detect significant differences associated with genotype in -cell area in either female or male mice, at 13, 42 weeks (LFD) or 54 weeks (HFD) of age (Fig
+ B)
+ In comparison to control mice, HFD fed female InsrKO mice had a tendency toward a smaller -cell area at 54 weeks of age that were consistent with tendencies towards lower plasma insulin (Fig
+ S3C), proinsulin and C-peptide levels (Fig
+ S)
+ These data suggest that Insr may help support age-dependent -cell expansion under some conditions
+ Prolonged hyperglycemia can stimulate -cell proliferation in adult mouse -cells (Sharma et al, 2015), but whether this requires intact insulin receptor signaling remains controversial To examine the role of Insr-mediated signaling on hyperglycemia-induced -cell proliferation, we performed 4-day hyperglycemic infusions in InsrKO and wild type control mice
+ In female mice, hyperglycemia (>10 mM; Fig
+ 5F) resulted in mildly elevated insulin secretion in InsrKO relative to control mice for the initial 48 h, which was not sustained for the duration of the experiment (Fig
+ 5G,H), while glucagon levels declined similarly in both genotypes (Fig
+ I,J)
+ There was no effect of Insr deletion on hyperglycemia-induced proliferation of either -cells or -cells in females (Fig
+ K,L)
+ In male mice, 96 h of hyperglycemia resulted in sustained hyperinsulinemia in InsrKO mice (Fig
+ 5M-O), with no differences in circulating glucagon (Fig
+ P,Q)
+ In male mice lacking -cell Insr, this manipulation was associated with more -cell proliferation (Fig
+ R,S)
+ The fact that we did not observe a suppression of glucose-induced proliferation of -cells lacking Insr prompted us to determine the degree to which the broadly defined insulin signaling pathway was inhibited in our model
+ Indeed, glucose-induced Akt phosphorylation, shown by western blot of whole islet lysate, was statistically unaffected, and glucose-induced Erk phosphorylation was only reduced ~50% in Insr knockout -cells (Fig
+ T)
+ It is likely that the Igf1r or a receptor tyrosine-kinase-independent mechanism initiates parts of intracellular post-receptor insulin signaling in the absence of Insr
+ Testing this hypothesis in the future will require truly Modelling contributions of peripheral and -cell specific insulin sensitivity to glucose homeostasis The continuum between insulin sensitivity and resistance impacts multiple tissues, including pancreatic -cells
+ We observed that -cell-specific insulin resistance resulted in insulin hypersecretion in the context of unchanged -cell mass
+ We next used mathematical modelling to generate quantitative predictions of the dependence of glucose tolerance on both -cell and whole-body insulin resistance, both independently and synchronously
+ As described in the methods section, we modified the Topp model (Topp et al, 2000) to include insulin receptor-mediated negative feedback on insulin secretion, as indicated by our experimental data, with S serving as the -cell Insr-specific insulin sensitivity parameter (see equations in Fig
+ 6A; for InsrKO mice, S = )
+ Peripheral insulin sensitivity is represented by SP, (SI in the original Topp model)
+ We used our hyperglycemic clamp data (Figs
+ 4C-H, S5A,B) to estimate S in both female and male control mice and found S,female to be significantly different from zero (S,female = 
+4 +/- 
+5 nM--)
+ S,male was not significantly different from zero (S,male = -
+05 +/- 
+0 nM
+ )
+ In silico glucose tolerance tests found that decreased -cell insulin-sensitivity (S) (similar to InsrKO mice) corresponded with elevated peak and plateau insulin secretion (Fig
+ B)
+ As expected, (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    this was predicted to drive more rapid clearance of blood glucose (Fig C)
+ Analysis of areas under the curve for glucose and insulin resulting from in silico glucose tolerance tests while varying SP and S indicated that -cell insulin resistance should have a marked effect on insulin secretion and glucose tolerance, most dramatically in conditions of low peripheral insulin sensitivity
+ Next, we compared the predictions of this model with experimental results
+ We used the in silico AUCGlucose values as a function of both SP and S combined with averaged experimental AUGC values to estimate SP as a function of age for the low-fat diet conditions (Fig
+ SC,D)
+ We found that male values of SP for wildtype and mutant were indistinguishable from each other while females showed significant differences from each other and from the male values at all ages
+ As expected, HFD led to reduced peripheral insulin sensitivity (Fig
+ SE)
+ Collectively, these simulations show how -cell insulin sensitivity and peripheral insulin sensitivity may combine to the regulation of glucose tolerance
+ To test our theoretical model experimentally, we examined glucose tolerance in female and male InsrKO, InsrHET, and control littermates at multiple ages between 4 and 52 weeks in the context of two diets
+ Significant improvements in glucose tolerance were observed in female mice with reduced Insr signaling at multiple ages, and in young males (Fig
+ F)
+ Consistent with our mathematical modelling that suggested a diminished contribution of -cell insulin resistance to glucose homeostasis in the context of greater whole-body insulin resistance, we did not observe significant effects of genotype in older male mice, or mice of either sex fed an insulin-resistance-inducing HFD (Fig
+ F)
+ Thus, Insr deletion has little consequence on glucose tolerance in mice with already impaired pan-tissue insulin resistance, which we and others have shown increases with age and is more The Ins1cre allele results in pre-natal gene deletion (Thorens et al, )
+ To assess the effects of Insr deletion in adult -cells, and to determine the role of Insr on a different genetic background and under different housing conditions, we also phenotyped multiple cohorts of mice in which the Insrf/f allele was recombined by the Ins1 promoter-driven CreERT transgenic allele (commonly known as MIP-Cre) after injection with tamoxifen
+ In agreement with our observations in mice with constitutive loss of -cell Insr, we found that glucose tolerance was significantly improved 4 weeks after -cell-specific Insr deletion in male mice (Fig
+ G)
+ These differences were not maintained as the mice aged and presumably became more insulin resistant
+ In these mice, there were no significant differences observed in fasting glucose (control 
+8 +/- 
+3mM n=7 vs InsrKO  
+4 +/- 
+2mM n=10), -cell mass (control 
+4 +/- 
+3% n=3 vs InsrKO 
+1 +/- 
+2% n=5), or body mass (control 
+1 +/- 
+1g n=7 vs InsrKO 
+1 +/- 
+7g n=
+ Collectively, these observations using an independent model and independent housing conditions lend support to our conclusion that the initial consequence of -cell We and others have shown that even modest differences in hyperinsulinemia can have profound consequences for insulin sensitivity, adiposity, fatty liver, longevity and cancer (Mehran et al, 2012; Templeman et al, 2017; Zhang et al, )
+ Thus, we asked how the context-dependent glucose-stimulated insulin hyper-secretion induced by targeted -cell specific insulin resistance may affect insulin sensitivity, adiposity, and body mass over time
+ Insulin sensitivity was assessed at multiple ages in the same mice
+ Interestingly, insulin sensitivity was significantly improved in 10-week-old female InsrHET mice compared to littermate controls without Insr deletion (Fig
+ S)
+ On a high fat diet, male InsrKO and InsrHET mice had significantly improved insulin sensitivity compared to controls at 22 weeks of age
+ Longitudinal tracking of 4-h fasting glucose identified relative hypoglycemia in young LFD female InsrKO and InsrHET mice, older LDF male InsrKO and InsrHET mice, and across the tested ages in HDF female mice (Fig
+ A-D)
+ Longitudinal tracking of body weight revealed that female mice with reduced -cell Insr consistently weighed more than controls when fed a HFD (Fig
+ 7E-H), consistent with the known role of hyperinsulinemia in diet-induced obesity (Mehran et al, 2012; Templeman et al, )
+ We also examined the mass of several tissues at 13 weeks of age
+ Interestingly, liver mass was lower in both female and male mice lacking -cell Insr (Fig
+ IJ)
+ Pilot experiments showed that liver Insr protein abundance appeared reduced in mice with partially or completely reduced -cell Insr, in the context of the LFD but not the HFD (Fig
+ K)
+ These data are (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    consistent with the concept that modest hyperinsulinemia can drive down insulin receptor levels and the concept that insulin signaling is a trophic signal for liver
+ Together, these data demonstrate that specifically preventing autocrine insulin feedback can have systemic effects on insulin sensitivity, body mass, and the size of some tissues
+ These changes may affect the eventual susceptibility to type 2 The goal of the present study was to establish the role of -cell specific insulin resistance on -cell function and glucose homeostasis using specific genetic loss-of-function tools
+ We found that in vivo Insr deletion potentiated glucose-stimulated insulin secretion by increasing action potential firing and Ca2+ oscillation frequency, leading to improved glucose tolerance in insulin sensitive animals
+ Our data therefore suggest a model in which insulin inhibits its own secretion in a context-dependent manner and that this local negative feedback loop has physiological consequences for glucose tolerance
+ Autocrine signaling in endocrine cells is generally a negative feedback (Norman and Henry, 2014), with a few exceptions in specific conditions (Ma et al, )
+ Given the abundance of Insr protein in islets and the physiological modulation of both insulin and Insr signaling in health and disease, autocrine and paracrine insulin signaling have been topics of interest and controversy for decades (Braun et al, 2012; Leibiger et al, )
+ While some have questioned whether local insulin levels are sufficient for signaling within the islet, mathematical modelling of insulin hexamer dissolution estimated that monomeric insulin within islets is in the picomolar range (Wang et al, 2013), similar to the dose that maximally activates insulin signaling pathways (Alejandro et al, 2010; Beith et al, )
+ Consistent with a narrow range of responsiveness, our results also show that the contribution of autocrine insulin feedback to glucose homeostasis depends on whether mice are on a diet or at an age where insulin resistance is high, and potentially saturated in -cells
+ Background genetics, diet, housing conditions, microbiome, or glucose concentrations could contribute to differences in observed phenotypes between our -cell specific Insr knockout models and the frank diabetes reported for transgenic models that use fragments of the Ins2 or Pdx1 promoters to drive Cre-mediated -cell insr deletion (Kulkarni et al, 1999; Okada et al, 2007; Otani et al, )
+ However, we believe that the discrepancy is more likely due to depletion of Insr in key neuronal populations since both of Ins2 and Pdx1 are expressed in brain regions that influence glucose homeostasis (Vogt and Bruning, 2013; Wicksteed et al, a)
+ For example, Insr deletion in the brain with Nestin Cre causes insulin resistance (Plum et al, 2005) and impairs the sympathoadrenal response to hypoglycemia (Fisher et al, 2005), while Insr knockout using AgRP Cre results in abnormal suppression of hepatic glucose production (Konner et al, )
+ We expect that our InsrKO mouse line is the most tissue specific model used to date for the study of autocrine insulin signaling and -cell insulin resistance
+ Using genetic and genomic tools, our work complements previous studies in humans and animal models
+ Ex vivo studies of perfused canine pancreata found an inhibitory autocrine effect of insulin (Iversen and Miles, )
+ Similarly, exogenous insulin perfusion of canine pancreas in situ was shown to lead to reduced endogenous insulin production (Rappaport et al, )
+ In vivo insulin infusion rapidly suppressed C-peptide levels in healthy men, but not those with obesity and presumably global insulin resistance (Cavallo-Perin et al, )
+ In isolated human islets, perifusion studies showed that treatment with physiological doses of insulin had no effect on C-peptide release (Johnson and Misler, 2002b), while static incubation experiments found only moderate potentiation of glucose-stimulated insulin secretion with super-physiological levels of insulin (Braun et al, )
+ Our conclusions are in line with the recent work of Paschen et al reporting that a high fat, high sucrose diet induced tissue-selective insulin resistance in -cells, as well as profound hyperinsulinemia and -cell hyper-excitability (Paschen et al, )
+ Our mechanistic finding that Insr knockout -cells have increased action potential firing frequency is consistent with previous observations that insulin directly increased KATP currents via PI3-kinase signaling (Khan et al, 2001) and that PI3-kinase inhibition with wortmannin potentiates glucose stimulated insulin secretion in normal, but not T2D, human islets (Kolic et al, )
+ Our studies further illustrate the molecular mechanisms of negative autocrine Beyond the potentiation of glucose-stimulated insulin secretion, transcriptomic analysis of fully and partially Insr-deficient -cells revealed a broad re-wiring of multiple signaling pathways and gene networks that are expected to change how these cells respond to stresses
+ In particular, Insr loss in (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    our model biased the combined insulin/Igf signaling pathway towards Ras/MAP-kinase signaling and increased in the capacity for cytokine signaling that could modulate cell fate
+ The conditions under which these gene expression changes could manifest in -cell proliferation or increased -cell survival remain incompletely explored
+ Otani et al reported modestly reduced -cell mass in non-diabetic Ins-Cre transgenic Insr knockouts, which was exacerbated by diabetes, but they did not employ Cre controls (Otani et al, )
+ Okada et al reported impaired compensatory -cell proliferation in the context of high fat diet or liver Insr knockout in the same experimental groups (Okada et al, )
+ These previous studies comparing -cell knockout mice of Insr versus Igf1r, suggested a more important role for the former in -cell proliferation and survival (Okada et al, )
+ Insulin receptor over-expression experiments also support the idea that -cells are key insulin targets (Okamoto et al, )
+ In the present study, we were unable to identify conditions which would result in statistically significant differences in -cell mass in mice with Insr deficiency, but variability was high and relatively few animals were studied at older ages
+ We have previously shown that the increase in -cell mass resulting from high fat diet requires local insulin production and is independent of hyperglycemia (Mehran et al, 2012), consistent with the known direct anti-apoptotic and mitogenic effects of insulin in vitro (Beith et al, 2008; Johnson et al, 2006a; Muller et al, )
+ These findings can be reconciled by proposing that high insulin concentrations within the islet are sufficient to activate remaining Igf1 receptors linked to biased post-receptor signaling
+ We observed that sustained hyperglycemia and hyperinsulinemia over 4 days was associated with increased proliferation, but whether these are effects are mediated through Igf1r function compensation will require double receptor knockout experiments
+ It is also possible that hyperglycemia itself is a major driver of -cell proliferation under these conditions, through Irs2-Creb signaling that may bypass Insr/Igf1r (Jhala et al, )
+ It has also been demonstrated that ~80% of the gene expression changes attributed to glucose in MIN6 cells require full insulin receptor expression (Ohsugi et al, )
+ We have previously found that glucose cannot stimulate primary mouse -cell proliferation when autocrine insulin signaling is blocked by somatostatin and that glucose-induced Erk phosphorylation requires full insulin secretion (Alejandro et al, 2010; Beith et al, )
+ On the other hand, inhibiting Insr in mouse islets with S961 or shRNA did not block glucose-induced proliferation of cultured -cells (Stamateris et al, )
+ Additional Early hyperinsulinemia is a feature of -cell Insr knockout models on multiple genetic backgrounds (Kulkarni et al, 1999; Okada et al, 2007; Otani et al, 2004), including the present study
+ Loss of Irs1 or Akt function results in basal hyperinsulinemia and, in some cases, increased -cell mass (Bernal-Mizrachi et al, 2004; Kido et al, 2000), mimicking the early stages in human diabetes
+ Our experiments begin to shed light on the systemic consequences of the hyperinsulinemia caused by -cell-specific insulin resistance, which may be an early event in the pathogenesis of type 2 diabetes
+ Human data  suggests that -cell insulin resistance can be found in the obese state prior to hyperglycemia (Cavallo-Perin et al, )
+ We and others have shown that hyperinsulinemia contributes to insulin resistance and obesity (Mehran et al, 2012; Templeman et al, 2015), through multiple mechanisms including the down-regulation of insulin receptors (Knutson et al, )
+ We observed propensity for excessive diet-induced body mass gain in mice with -cell specific insulin resistance, as well as Insr protein down-regulation in the liver
+ Thus, -cell defects such as impaired autocrine feedback through Insr may contribute to insulin hypersecretion and accelerate the early stages of type 2 diabetes (Esser et al, )
+ In the later stages, the lack of pro-survival insulin signaling, perhaps in combination with other molecular defects, may contribute to failures in -cell compensation and survival, thereby further accelerating the course of the disease (Gunton et al, 2005; Kulkarni et al, 1999; Ohsugi et al, 2005; Okada et al, 2007; Otani et al, )
+  Our studies illustrate the power of using both females and males to study integrated physiology
+ Indeed, -cell Insr loss led to increased -cell action potentials, calcium oscillations, and glucose-stimulated insulin secretion in 16-week-old female mice, but not in age-matched males
+ No intrinsic sex differences of Insr mRNA levels were in a transcriptomic analysis of sorted -cells (Stancill et al, )
+ Given the abundance of data showing more pronounced insulin resistance in males (Parks et al, 2015; Yki-Jarvinen, 1984), the most likely reason for these female-specific phenotypic responses to -cell Insr deletion was the development of insulin resistance in control males but not in control females
+ To this point, glucose tolerance is improved in 4-week-old InsrKO males, an age at which control males remain insulin-sensitive, and in male mice with acute loss of Insr
+ More work will be needed to confirm this possibility, and to determine factors in addition to sex hormones and sex (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    chromosomes that impact these sex differences in insulin sensitivity and glucose homeostasis (Mauvais-Jarvis, )
+ The sex-specific nature of phenotypes arising from our genetic manipulation of Insr in -cells highlights the importance of including both sexes to accurately interpret data and to While our study is comprehensive and employs the best genetic tools available today, this work has limitations
+ Ins1Cre is the most  cell-specific Cre deletion strain available today (Thorens et al, 2015), but this fact does not preclude off-tissue effects that have yet to be discovered
+ Cre recombinase itself is not totally benign
+ These facts and our detailed comparison of Ins1wt/wt mice with Ins1Cre/wt mice (Figs
+ S7-10), highlight the importance of the Cre control group we employed throughout our studies
+ Recently, it was reported that some colonies of Ins1cre mice exhibited some silencing via DNA hypermethylation at the Ins1 locus and this was suggested as an explanation for discordance between the phenotypes compared to gene deletions using Pdx1-Cre and Ins2-Cre transgenic lines (Mosleh et al, )
+ In our study, we observed virtually complete recombination in -cells and no evidence for off-tissue Insr deletion
+ We believe a major source of discrepancy with previously reported phenotypes stems from the propensity of previous promoter transgenic strains to recombine in the brain and robust expression of Insr throughout the brain
+ Another caveat of our experiments using InsrKO mice is that Insr is expected to be deleted from -cells starting in late fetal development (Thorens et al, )
+ In our hands, tamoxifen-inducible Ins1CreERT mice have insufficient -cell specific recombination for in vivo physiological studies
+ Our validation experiments using the tamoxifen-inducible Ins-CreERT address this limitation and confirm that -cell insulin resistance improves glucose tolerance, at least under the initial insulin sensitive conditions
+ It should also be noted that, because we show that long-term deletion of Insr results in profound re-wiring of the -cell transcriptome, the physiological changes can be the result of either direct or indirect action of Insr signaling
+ It should also be emphasized that, while we have deleted Insr, insulin can signal through Igf1r and Igf2r, especially at the higher concentrations predicted in the pancreas
+ A further caveat is that the molecular mechanisms involved in insulin secretion may be different in mouse and human -cells (Rorsman and Ashcroft, 2018), although we note that direction of effect we surmise agrees with the majority of human and canine studies, indicating general agreement across species (Cavallo-Perin et al, 1993; Elahi et al, 1982; Iversen and Miles, 1971; Rappaport et al, )
+ In conclusion, our work demonstrates a key modulatory role for autocrine insulin negative feedback and the lack thereof (i
+ e
+ -cell resistance) in insulin secretion, glucose homeostasis and body mass, which depend on the physiological context studied
+ We hope our studies resolved longstanding and controversial questions about the local effect of insulin on -cells, and lead to experimental and theoretical studies that incorporate Insr-mediated signaling in other islet cell types
+ resource ( et al, 2018) in 2019 and sorted by relative protein abundance in Microsoft Excel
+ Publicly available human islet scRNAseq data were acquired from the panc
+SeuratData package and the SCTransform pipeline was followed to integrate the studies (Hafemeister and Satija, )
+ Expression data were normalized using the Seurat::NormalizeData function with default parameters and visualized using the Seurat::RidgePlot and Seurat::UMAPPlot functions, all from the Seurat package in R (Stuart et al, )
+ All animal protocols were approved by the University of British Columbia Animal Care Committee (Protocol A16-0022), the Institutional Animal Care and Use Committee of the University of Massachusetts Medical School (A-1991-17) and the University of Michigan Institutional Animal Care and use Committee, in accordance with national and international guidelines
+ Mice were housed at room temperature on a 12/12 light dark cycle at the UBC Modified Barrier Facility, unless otherwise  Ins1cre mice were gifted to us by Jorge Ferrer (Thorens et al, 2015) (now commercially available, Jax #)
+ The Insrf/f allele (#006955) and the nuclear TdTomato-to-nuclear EGFP (nTnG) lineage tracing allele (Prigge et al, 2013) were obtained from Jax (#023035) (Bar Harbor, ME)
+ We generated (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    two parental strains to avoid Cre effects during pregnancy; Ins1cre/wt;Insrf/wt male mice and Ins1cre/wt;nTnG/+ female mice
+ These two parental strains were crossed in order to generate full mice (3 alleles of insulin) and Insrf/f;Ins1wt/wt;nTnG/- mice (4 alleles of insulin)
+ Insrf, Ins1cre, and nTnG genotyping were done in accordance with Jaxs recommendations using a ProFlex PCR system (Thermo Fisher Scientific, Canada)
+ NNT genotyping was done as described previously (Nicholson et al, )
+ Master mix for genotyping included 
+5M primers (Integrated DNA technologies), 2mM dNTPs (New England Biolabs, #N0447S), 
+5U DreamTaq DNA polymerase (Fisher Scientific, In our studies, mice were fed 1 of 3 diets: either a chow diet (PicoLab Mouse Diet 20-5058); a low-fat diet (LFD; Research Diets D12450B) containing 20% of kcal protein, 10% of kcal fat, and 70% of kcal carbohydrate including 35% sucrose, or; a high-fat diet (HFD; Research Diets D12492) containing 20% of kcal protein, 60% of kcal fat, and 20% of kcal carbohydrate including 10% sucrose
+ MIPcre mice were generously obtained from Dr Dempsey (Wicksteed et al, b)
+ The CAG-YFP reporter transgenic animals were from Jax (#)
+ All animals were males that were intraperitoneally injected at 8 weeks of age for 5 consecutive days with tamoxifen (Sigma, T5648) freshly dissolved in corn oil (Sigma, C8267) with 3 injections at 200 mg/kg over a 1-week period
+ Before conducting our main study, we did a pilot experiment to determine whether the Ins1cre knock-in mice had any phenotype on their own under both low fat and high fat diets, and we tracked both control genotypes for the majority of our studies
+ Although Insrwt/wt;Ins1cre/wt;nTnG and Insrf/f;Ins1wt/wt:nTnG control mice exhibited generally similar phenotypes, we observed key differences that reinforced the rationale for using controls containing Cre and lacking 1 allele of Ins1, matching the higher levels of plasma proinsulin in comparison to Insrwt/wt;Ins1cre/wt;nTnG mice at 16 and 28 weeks of age (Fig
+ S)
+ At several ages, both LFD and HFD fed female Insrf/f;Ins1wt/wt;nTnG/- mice exhibited trends toward slightly improved glucose tolerance (Fig
+ S8), most likely due to one extra allele of insulin, in comparison to Insrwt/wt;Ins1cre/wt;nTnG mice
+ Insulin sensitivity was generally similar, although not identical (Fig
+ S)
+ Longitudinal tracking of body weight revealed a consistent tendency for mice with a full complement of insulin gene alleles to be heavier than mice in which 1 allele of Ins1 had been replaced with Cre
+ With the statistical power we had available, female HFD-fed Insrf/f;Ins1wt/wt;nTnG mice had significantly increased body mass at 11 and 16 weeks of age in comparison to Insrwt/wt;Ins1cre/wt;nTnG mice (Fig
+ S)
+ Once we had established the effects of the Ins1cre allele on its own, we used a breeding strategy ensuring that all pups were born with 3 insulin alleles to control for any effects of reduced insulin gene dosage (See Fig
+ C)
+ This strategy gave us Insr heterozygous knockout mice, and Insrf/f;Ins1cre/wt;nTnG/- (InsrKO) -cell specific Insr complete knockout mice
+ In some studies, the nTnG allele was not present (see Figure legends)
+  Mouse islet isolations were conducted by ductal inflation and incubation with collagenase, followed by filtration and hand-picking as in our previous studies and following a protocol adapted from Salvalaggio et al (Beith et al, 2008; Johnson et al, 2006a; Luciani and Johnson, 2005; Salvalaggio et al, )
+ 24h post islets isolations, islets were washed (x4) (Ca/Mg-Free Minimal Essential Medium for suspension cultures, Cellgro #15-015-CV), followed by gentle trypsinization (
+01%), and resuspended in RPMI 1640 (Thermo Fisher Scientific #11875-093), 10%FBS, %PS)
+ Seeding were done either on glass cover slips or in 96-well plates according to the experimental procedure (see 50 islets per sample were washed in PBS twice and then lysed and sonicated in RIPA buffer (10mM HEPES, 50mM -glycerol phosphate, 1% Triton X-100) supplemented with complete mini protease inhibitor cocktail (Roche, Laval, QC) and phosphatase inhibitors (2mM EGTA, 70mM NaCl, 347 1mM Na3VO4, and 1mM NaF)
+ Protein concentration was measured using Micro BCA Protein (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    Assay Kit  (ThermoFischer Scientific)
+ 10 g of total protein for each sample was separated by SDS-membranes were blocked in I-Block (ThermoFischer Scientific) and probed with primary antibodies targeting insr- subunit (1:1000, CST #3020S), ERK1/2 (1:1000, CST #4695), p-ERK1/2 (Thr202/Tyr204) (1:1000, CST #4370), AKT (1:1000, CST #9272), p-AKT (Thr308) (1:1000, CST #9275), ACTB (Novus Biologicals, NB-)
+ Protein detection was performed by the use of the HRP-conjugated secondary antibodies: anti-rabbit (CST #7074) or anti-mouse (CST #7076) and Immobilon Forte Western HRP substrate (Millipore Sigma)
+ Protein band intensity on exposed film was Tissue samples were kept frozen during grinding using mortals and pestles
+ cDNA was synthesized using qScriptTM cDNA synthesis kits (QuantaBio, #95047-500) following RNA was isolated from -100mg of sample using RNeasy mini kits (Qiagen, #74106) according to manufacturers recommendations
+  qPCR was performed in 15ul reaction volumes using a CFX384 Touch Real-Time Insr expression data were analyzed using the 2-CT method using Hprt as a housekeeping gene
+ Cq=Cq(Insr)-Cq(Hprt) followed by normalization of the Cq(exp) to the mean of the Hprt expression To generate transcriptomic data from -cells lacking Insr and littermate controls, groups of 50 islets were dispersed using mild trypsin digest according to our standard protocol (Alejandro et al, 2010; Luciani and Johnson, 2005), and FACS purified based on the GFP-positivity of the Ins1Cre-induced nTnG allele
+ RNA isolation and library preparation were conducted in accordance with the SMART seq 2 protocol (Picelli et al, )
+ Sequencing of 100 GFP-positive -cells was performed at the UBC Sequencing and Bioinformatics Consortium using Illumina NextSeq 500 with paired-end 75 bp reads
+ The number of read pairs per sample ranged from 4 millions to 42 millions with a median of 18 millions
+ Multiple analysis pipelines have been applied and their results combined using the procedure described elsewhere (Wang et al, )
+ One sample with exceptionally high glucagon reads was omitted, as a presumed -cell purification failure
+ Pathway enrichment analyses were generated using differentially expressed genes between KO and WT control group using Network Analyst 
+0 platform ( et al, )
+ PPI network data were based on STRING interactome with high (900-1000) confidence score
+ PPI sub-network enriching KEGG Insulin signaling pathway was generated using the Module Extraction function
+ TF-gene network data were The Seahorse XF Cell Mito Stress Test kit (cat#103015-100) was used to measure oxygen consumption rate (OCR) in dispersed mouse islets using an Agilent Seahorse XF96 Analyzer XF96 (Seahorse Bioscience, North Billerica, MA)
+ Dispersed islet cells were seeded at a density of 40,000 cells/well
+ 48h post seeding, additionally, 180L of Seahorse XF Calibrant Solution (cat#100840-000) was added to each well of the Seahorse XF Sensor Cartridge to hydrate the XF Utility Plate (cat#-)
+ The hydrated cartridge was kept in a non-CO2 incubator at 37Co for 24h hereby removing the CO2 from media
+ To allow the assay media to pre-equilibrate, 180 L of assay (eagle's minimal essential medium (DMEM, no glucose, Gibco, (cat#103334-100) supplemented with 25  added to each well 1 h prior to the run and used for extracellular flux measurements ofXF
+  The plate was kept at 37 Co in a non-CO2 incubator
+ Mitochondrial respiration was analyzed by sequential injections of modulators including oligomycin (1M) used to block ATP synthase, carbonyl-cyanide--(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    membrane allowing maximum electron flux through the electron transport chain, and a mix of rotenone (1M) and antimycin A (1M) were used together to inhibit complexes I and III, respectively
+ The modulators were diluted in XF Assay Medium and loaded into the injection ports of the hydrated sensor cartridge corresponding to the order of injection 1 h prior to the run
+ Islets from 16-week-old chow-fed male and female mice were isolated at UBC
+ 100-300 islets from each mouse shipped in a blinded manner overnight to the University of Alberta in RPMI (Invitrogen, 11875) with 10% FBS (Invitrogen #12483020), and 1% penicillin-streptomycin (Thermo Fisher, #)
+ Islets were dissociated into single cells using StemPro accutase (Thermo Fisher Scientific, Cat# A11105-01) one day after receiving the islets
+ Dispersed cells were cultured in RPMI-1640 containing 
+1 mM glucose with 10% FBS and 100 U/ml penicillin/streptomycin for up to 2 days
+ Membrane potential and current measurements were collected using a HEKA EPC10 amplifier and PatchMaster Software (HEKA Instruments Inc, Lambrecht/Pfalz, Germany) in either the current- or voltage-clamp mode in the perforated patch-clamp configuration
+ All the measures were done in a heated chamber (C)
+ Membrane potential measurement was performed with patch pipettes pulled from thick-walled borosilicate glass tubes (Sutter Instrument), with resistances of 810 M when filled with 76 mM K2SO4, 10 mM KCl, 10 mM NaCl, 1 mM MgCl2 and 5 mM Hepes (pH 
+25 with KOH), and back-filled with 
+24 mg/ml amphotericin B (Sigma, cat# a)
+ The extracellular solution consisted of 140 mM NaCl, 
+6 mM KCl, 
+5 mM CaCl2, 
+5 mM MgSO4, 10 mM Hepes, 
+5 mM NaH2PO4, 5 mM NaHCO3, 5 mM glucose (pH 
+3 with NaOH)
+ Membrane potential was measured with 5 mM G starting from the beginning, for 5 min, then changed to 1 mM G for 4-5 min, then changed to 10 mM G for 8-10 min, finally changed back to 5 mM G
+ KATP currents and reversal potential were recorded during and after membrane potential measurement on each cell
+ -cells were distinguished by characteristic differences in the voltage-dependent inactivation of Na+ channel Before the start of whole-cell patch clamping, media were changed to bath solution containing (in mM): 118 NaCl, 20 Tetraethylammonium-Cl, 
+6 KCl, 
+2 MgCl2, 
+6 CaCl2, 5 HEPES, and 5 glucose (pH 
+4 with NaOH)
+ For whole-cell patch-clamping, fire polished thin-walled borosilicate pipettes coated with Sylgard (3-5 MOhm), contained an intracellular solution with (in mM): 125 Cs-glutamate, 10 CsCl, 10 NaCl, 1 MgCl2, 
+05 EGTA, 5 HEPES, 
+1 cAMP, and 3 MgATP (pH 
+15 with CsOH)
+ Quality control was assessed by the stability of seal (>10 GOhm) and access resistance (<15 MOhm) over the course of the experiment
+ Data were analysed using FitMaster (HEKA Instruments Inc) and Two days following cell seeding on glass coverslips, adherent islet cells were loaded with 5M of the acetoxymethyl (AM) ester form of the calcium indicator Fura-2 (Thermo Fisher Scientific #F1221) for min
+ Islet cells were perifused at 1mL/min for 45min prior to experimental procedure to ensure washout of excess FURA
+ During experiments, cells were mounted on a temperature-controlled stage and held at 37C on a Zeiss Axiovert 200M inverted microscope equipped with a FLUAR 20 objective (Carl Zeiss,Thornwood, NY), while perifused with Krebs-Ringer (KRB) solution (144mM NaCl, 
+5mM KCL, 1mM MgCl2, 2mM CaCl2, 20mM HEPES) of various glucose concentrations as Ca2+ traces were analyzed automatically, as follows
+ Taking a similar approach to that described previously (Wills et al, 2016), 8 features were extracted from the Traces (Fig S)
+ Peaks during each phase were identified as local maxima reaching a value with a percent difference above the median baseline level greater than %
+ P-values for calcium analysis were generated using ANOVA with correction for multiple comparisons performed using Tukey's method
+ Figures were generated using the ggplot2 package in R (Wickham)
+ Code used to analyze data and generate figures are For the purpose of pulse labeling of newly translated proteins, 50 isolated islets were incubated in complete RPMI media without cysteine and methionine (MP Biomedicals, #SKU 091646454) for hr
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    (PerkinElmer, NEG772002MC) and islets were incubated under normal conditions for 30 min
+ Islets were then lysed and proteins separated by SDS-gel electrophoresis as described above
+ Gels were fixed for 30 min in 50% (v/v) ethanol in water with 10% (v/v) acetic acid, dried in gel dryer (Bio-Rad model 583) and then exposed to storage phosphor screen (GE Healthcare) overnight
+ Screens were imaged and digitised using Typhoon FLA 9000 biomolecular imager (GE Healthcare)
+ Protein bands For perifusion experiments, islets from 16week old chow-fed male and female mice were isolated using collagenase, filtration and hand-picking as previously described (Johnson et al, b)
+ Our standard approach compared the insulin response to both 20mM and 10mM glucose stimulation as well as direct depolarization with 30 mM KCl
+ More specifically, 150 hand-picked islets per column were perifused (
+4 mL/min) with 3 mM glucose KRB solution containing (in mM) 129 NaCl, 
+8KCL, 
+2 MgSO47H2O, 
+2 KH2PO4, 
+5 CaCl2, NaHCO3, 10 HEPES, as well as 
+5% BSA (Sigma # A7030) for 60 min to equilibrate the islets to the KRB and flow rate, and then treated as indicated
+ Samples were analyzed using a rat insulin radioimmunoassay that has 100% cross-reactivity for mouse insulin (Millipore-Sigma #ri-k)
+ Insulin content was measured after acid-ethanol extraction In vivo hyperglycemic clamp experiments were performed at the National Mouse Metabolic Phenotyping Center (MMPC) at UMass Medical School
+ Body composition analysis was conducted by noninvasively measuring whole body fat mass and lean mass using 1H-MRS (Echo Medical Systems, Houston, TX)
+ A survival surgery was performed at 56 days before hyperglycemic clamp experiments to establish an indwelling catheter in the jugular vein
+ On the day of experiment, mice were fasted overnight (~15h), and a 2-h hyperglycemic clamp was conducted in awake mice by intravenously infusing 20% dextrose to rapidly raise and maintain plasma glucose levels at ~19 mM (Zhang et al, Mice were bred and genotyped at University of British Columbia and shipped at 5 weeks of age to the Division of Diabetes, Department of Medicine, University of Massachusetts Medical School, USA
+ In a blinded manner, glucose infusions were performed as described (Alonso et al, )
+ Jugular vein catheters were placed in 9-12-week-old male and female mice with blinded genotypes
+ From postoperative recovery through euthanasia mice were unrestrained and were maintained on a 12-h light/dark cycle, with access to 
+2 g diet (to ensure isocaloric intake across all mice) and water
+ After 2 days of recovery, mice received continuous 4-day intravenous infusions of 50% dextrose (Baxter) containing 500ug/mL BrdU
+ Tail blood was sampled for plasma insulin, glucagon and blood glucose at Day 0, 1, 2 and 
+ Blood glucose was measured using ReliOn glucometer (Walmart), glucagon was measured using mouse Glucagon ELISA (Mercodia 10-1281-01), and plasma insulin was measured using mouse Insulin ELISA kit (Mercodia --)
+ Mice were euthanized at the end of the experiment and pancreas and duodenum were harvested for histology
+ Tissues were fixed for 5 h in 10% formalin and then stored in 1X PBS until processing, paraffin embedding and sectioning
+ Images were acquired using a NIKON fully motorized for Phase and Fluorescence Ti-E microscope
+ Images were taken of at least 10 randomly selected islets, all four channels at the same time
+ To generate RGB images, channels were inserted to show Insulin-BrdU-DAPI, Glucagon-BrdU-DAPI or Insulin-files were generated in Adobe Photoshop in which original channel data were displayed in multiple channels using the merge function (e
+ g
+ to change green to yellow, green channel data were added to both green and red channels; for more detailed information please contact LCA)
+ Cells were counted using Cell profiler automated counting software from Broad Institute (Cambridge, MA); all counts were (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    Pancreata were perfused, then fixed for 24h with 4% paraformaldehyde, and then washed twice with 70% ethanol prior to paraffin embedding and sectioning (5 m) to obtain 5 different regions of the pancreas (100 m apart) by WAXit Inc
+ (Vancouver, Canada)
+ Paraffin was removed by 5 min xylene incubation steps
+ Sections were rehydrated in decreasing concentrations of ethanol and rinsed with water and PBS
+ Epitope retrieval was done either by immersing samples 10 mM citrate buffer, pH 
+0 for 15min at 95oC, or by transferring sections to prewarmed 1N HCl for 25 min at oC
+ Samples were washed with PBS twice and were either blocked for 10 min at room temperature (Dako protein block #X0909), or with goat block (GB) with Triton X-100 (10% BSA + 5% Goat Serum with 
+5% Triton X-100) for 1-4 h at room temperature
+ Samples were incubated overnight at 4oC in primary antibodies #2760S), anti-BrdU (1:250, Abcam ab6326), anti-GLUT2 (1:1000, Milipore, #-)
+ Following 3 PBS washes (5 min each), samples were incubated for 30min or 1h at room temperature in secondary antibodies in a light-deprived humid chamber
+ Secondary antibodies applied were anti-rabbit Alexa Fluor-488 (1:200, Invitrogen, # A-11008), anti-rabbit Alexa-488 (1:200, Invitrogen, #A11034), anti-rat Alexa-594 (1:200, Invitrogen, #A11007), anti-guinea pig Alexa-647 (1:200, Invitrogen, #A21450), anti-guinea pig Alexa-594 (1:200, Invitrogen #A-)
+ Samples were mounted with either VECTASHIELD Hard Set Mounting Medium (Vector labs, # H-1500) or Fluoroshield both containing DAPI (Sigma-Aldrich, #F6182-20ML) following an additional three washes in PBS (10 min each)
+ For -cell area quantification, whole pancreas sections were imaged using an ImageXpressMICRO using a 10x (NA 
+3) objective and analyzed using the MetaXpress software (Molecular Devices, San Jose, CA, USA)
+ Beta cell area was calculated as insulin positive area normalized to the entire pancreas of each section
+ The mean of five sections from 5 regions of the pancreas were quantified
+ For other immunofluorescence analysis of fixed tissue, we used a Zeiss 200M microscope using 20x air objective (NA 
+75), NIKON fully motorized for Phase and Fluorescence Ti-E microscope
+ For live cell imaging for recombination validation, islets from Ins1cre/wt:nTnG mice were incubated with CellMask Deep Red Plasma membrane stain (Invitrogen/Thermo Fisher - Catalog number: C10046) using a Blood collection and in vivo analysis of glucose homeostasis and insulin secretion  Tail blood was collected for blood glucose measurements using a glucometer (OneTouch Ultra 2 meter, Lifescan, Canada) for single time points as well as during glucose and insulin tolerance tests
+ Mice were fasted for 4h or 16h during single timepoints and for 6h during glucose and insulin tolerance tests, as well as glucose stimulated insulin secretion tests
+ The i
+ p
+ glucose dose was 2g/kg unless otherwise specified
+ The i
+ p
+ Humalog (Eli Lilly and Co) insulin dose was 
+75U unless otherwise indicated
+ 1-2 days prior to femoral blood collection the experimental mice were tube handled and shaved
+ Femoral blood was collected for single timepoints, as well as for measurements of in vivo glucose-stimulated insulin secretion after i
+ p
+ injection of 2g/kg glucose
+ Blood samples were kept on ice during collection, centrifuged at 2000rpm for 10min at 4oC and stored as plasma at -oC
+  Plasma samples were analysed for insulin (Stellux Chemi Rodent Insulin ELISA, Alpco #80-INSMR-CH10), -)
+ Measurements were performed on a Spark plate reader (TECAN), and analysed using We used a modified version of the Topp model (Topp et al, 2000) to simulate glucose and insulin dynamics (see equations in Fig
+ A)
+ Parameter values for the glucose and insulin equations were modified by hand so that the model matched a typical wildtype female low-fat-diet glucose tolerance test time series and predicted the observed beta cell mass in these mice
+ We included an inhibition factor, 1/(1 + S I), multiplying the insulin secretion term that accounts for insulin receptor-mediated negative feedback on insulin secretion, parametrized by S, -cell Insr-specific insulin sensitivity
+ In glucose clamp conditions, a simple equation relates S to steady state insulin levels in wildtype and * is the steady state insulin level for wild type control * is the equivalent for the InsrKO mice
+ We assumed that, at each time point after the first one in the glucose-clamp insulin measurements, the blood insulin levels were hovering around steady (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    state and all other parameters and variables were constant (Fig
+ SA)
+ We used those steady state data points to estimate S for the male and female wild type mice using this equation
+ Glucose tolerance tests were simulated for various S and SP values by calculating the IG system steady state values for each S and SP, then using the steady state value as the initial condition for insulin, and steady state plus 20 mM as the initial condition for glucose
+ Fig
+ 6A shows sample in silico glucose tolerance tests for various values of S, with SP fixed at 
+ The glucose tolerance area under the glucose curve (AUGC) was then calculated for each set of S and SP, generating a numerical map from S and SP to AUGC
+ From the glucose tolerance tests in wildtype and mutant male mice and wildtype and mutant female mice, we calculated the experimental AUGC values at 4, 9, 21 and 39 weeks
+ Using the computed AUGC map and the S values calculated from the glucose-clamp data, we estimated the SP value that would give the experimental AUGC (Fig
+ S5C)  Data are presented as mean +/- SEM, with individual data points, unless otherwise indicated
+ T-tests were performed when only 2 groups were compared at a single timepoint
+ One-way ANOVA was applied when three groups were compared at a single timepoint
+ Mixed effects model statistics were used for statistical analysis of GTT, ITT, GSIS experiments
+ Specifically, a fitted mixed model (Prism 8, Graph Pad), which allows for missing measurements and un-even group sizes, was applied when 2 or more groups were compared at multiple time points (e
+ g
+ 4h fasted blood glucose, insulin, 
+ Alejandro, E
+ U
+, Kalynyak, T
+ B
+, Taghizadeh, F
+, Gwiazda, K
+ S
+, Rawstron, E
+ K
+, Jacob, K
+ J
+, and Johnson, J
+ D
+ ()
+ Acute insulin signaling in pancreatic beta-cells is mediated by multiple Raf-
+ Alonso, L
+ C
+, Yokoe, T
+, Zhang, P
+, Scott, D
+ K
+, Kim, S
+ K
+, O'Donnell, C
+ P
+, and Garcia-Ocana, A
+ ()
+ Glucose infusion in mice: a new model to induce beta-cell replication
+ Diabetes 56, -
+ Anderson, K
+ R
+, Singer, R
+ A
+, Balderes, D
+ A
+, Hernandez-Lagunas, L
+, Johnson, C
+ W
+, Artinger, K
+ B
+, and Sussel, L
+ ()
+ The L6 domain tetraspanin Tm4sf4 regulates endocrine pancreas 
+ Ashok, A
+, and Singh, N
+ ()
+ Prion protein modulates glucose homeostasis by altering 
+ Aspinwall, C
+ A
+, Lakey, J
+ R
+, and Kennedy, R
+ T
+ ()
+ Insulin-stimulated insulin secretion in 
+ Beith, J
+ L
+, Alejandro, E
+ U
+, and Johnson, J
+ D
+ ()
+ Insulin stimulates primary beta-cell 
+ Bernal-Mizrachi, E
+, Fatrai, S
+, Johnson, J
+ D
+, Ohsugi, M
+, Otani, K
+, Han, Z
+, Polonsky, K
+ S
+, and Permutt, M
+ A
+ ()
+ Defective insulin secretion and increased susceptibility to experimental diabetes are induced by reduced Akt activity in pancreatic islet beta cells
+ J Clin Invest 114, -
+ Boothe, T
+, Lim, G
+ E
+, Cen, H
+, Skovso, S
+, Piske, M
+, Li, S
+ N
+, Nabi, I
+ R
+, Gilon, P
+, and Johnson, J
+ D
+ ()
+ Inter-domain tagging implicates caveolin-1 in insulin receptor trafficking and Erk 
+ Bouche, C
+, Lopez, X
+, Fleischman, A
+, Cypess, A
+ M
+, O'Shea, S
+, Stefanovski, D
+, Bergman, R
+ N
+, Rogatsky, E
+, Stein, D
+ T
+, Kahn, C
+ R
+, et al ()
+ Insulin enhances glucose-stimulated insulin secretion in healthy humans
+ Proc Natl Acad Sci U S A 107, -
+ 
+ Boucher, J
+, Kleinridders, A
+, and Kahn, C
+ R
+ ()
+ Insulin receptor signaling in normal and 
+ Braun, M
+, Ramracheya, R
+, and Rorsman, P
+ ()
+ Autocrine regulation of insulin secretion
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    
+ Cavallo-Perin, P
+, Bruno, A
+, Scaglione, L
+, Gruden, G
+, Cassader, M
+, and Pagano, G
+ ()
+ Feedback inhibition of insulin and glucagon secretion by insulin is altered in abdominal obesity 
+ Chamberlain, C
+ E
+, Scheel, D
+ W
+, McGlynn, K
+, Kim, H
+, Miyatsuka, T
+, Wang, J
+, Nguyen, V
+, Zhao, S
+, Mavropoulos, A
+, Abraham, A
+ G
+, et al ()
+ Menin determines K-RAS proliferative 
+ Dai, F
+ F
+, Bhattacharjee, A
+, Liu, Y
+, Batchuluun, B
+, Zhang, M
+, Wang, X
+ S
+, Huang, X
+, Luu, L
+, Zhu, D
+, Gaisano, H
+, et al ()
+ A Novel GLP1 Receptor Interacting Protein ATP6ap2 Regulates Insulin Secretion in Pancreatic Beta Cells
+ J Biol Chem 290, -
+ 
+ Elahi, D
+, Nagulesparan, M
+, Hershcopf, R
+ J
+, Muller, D
+ C
+, Tobin, J
+ D
+, Blix, P
+ M
+, Rubenstein, A
+ H
+, Unger, R
+ H
+, and Andres, R
+ ()
+ Feedback inhibition of insulin secretion by insulin: relation to the hyperinsulinemia of obesity
+ N Engl J Med 306, -
+ 
+ Engin, F
+, Yermalovich, A
+, Nguyen, T
+, Hummasti, S
+, Fu, W
+, Eizirik, D
+ L
+, Mathis, D
+, and Hotamisligil, G
+ S
+ ()
+ Restoration of the unfolded protein response in pancreatic beta cells protects mice against type 1 diabetes
+ Sci Transl Med 5, ra
+ 
+ Esser, N
+, Utzschneider, K
+ M
+, and Kahn, S
+ E
+ ()
+ Early beta cell dysfunction vs insulin hypersecretion as the primary event in the pathogenesis of dysglycaemia
+ Diabetologia 63, -
+ Fan, Y
+, Rudert, W
+ A
+, Grupillo, M
+, He, J
+, Sisino, G
+, and Trucco, M
+ ()
+ Thymus-specific deletion of insulin induces autoimmune diabetes
+ The EMBO journal 28, -
+ 
+ Fisher, S
+ J
+, Bruning, J
+ C
+, Lannon, S
+, and Kahn, C
+ R
+ ()
+ Insulin signaling in the central nervous system is critical for the normal sympathoadrenal response to hypoglycemia
+ Diabetes 
+ Fornoni, A
+, Pileggi, A
+, Molano, R
+ D
+, Sanabria, N
+ Y
+, Tejada, T
+, Gonzalez-Quintana, J
+, Ichii, H
+, Inverardi, L
+, Ricordi, C
+, and Pastori, R
+ L
+ ()
+ Inhibition of c-jun N terminal kinase (JNK) improves functional beta cell mass in human islets and leads to AKT and glycogen synthase 
+ Frau, F
+, Crowther, D
+, Ruetten, H
+, and Allebrandt, K
+ V
+ ()
+ Type-2 diabetes-associated variants with cross-trait relevance: Post-GWAs strategies for biological function interpretation
+ Mol 
+ Gomez-Banoy, N
+, Guseh, J
+ S
+, Li, G
+, Rubio-Navarro, A
+, Chen, T
+, Poirier, B
+, Putzel, G
+, Rosselot, C
+, Pabon, M
+ A
+, Camporez, J
+ P
+, et al ()
+ Adipsin preserves beta cells in diabetic mice and associates with protection from type 2 diabetes in humans
+ Nat Med 25, -
+ 
+ Gopel, S
+ O
+, Kanno, T
+, Barg, S
+, Weng, X
+ G
+, Gromada, J
+, and Rorsman, P
+ ()
+ Regulation of glucagon release in mouse -cells by KATP channels and inactivation of TTX-sensitive Na+ 
+ Goulley, J
+, Dahl, U
+, Baeza, N
+, Mishina, Y
+, and Edlund, H
+ ()
+ BMP4-BMPR1A signaling in beta cells is required for and augments glucose-stimulated insulin secretion
+ Cell Metab 5, -
+ Gu, H
+, Do, D
+ V
+, Liu, X
+, Xu, L
+, Su, Y
+, Nah, J
+ M
+, Wong, Y
+, Li, Y
+, Sheng, N
+, Tilaye, G
+ A
+, et al ()
+ The STAT3 Target Mettl8 Regulates Mouse ESC Differentiation via Inhibiting the JNK 
+ Gunton, J
+ E
+, Kulkarni, R
+ N
+, Yim, S
+, Okada, T
+, Hawthorne, W
+ J
+, Tseng, Y
+ H
+, Roberson, R
+ S
+, Ricordi, C
+, O'Connell P, J
+, Gonzalez, F
+ J
+, et al ()
+ Loss of ARNT/HIF1beta Mediates Altered Gene Expression and Pancreatic-Islet Dysfunction in Human Type 2 Diabetes
+ Cell 122, 
+ Hafemeister, C
+, and Satija, R
+ ()
+ Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression
+ Genome Biol 20, 
+ 
+ Hara, M
+, Wang, X
+, Paz, V
+ P
+, Cox, N
+ J
+, Iwasaki, N
+, Ogata, M
+, Iwamoto, Y
+, and Bell, G
+ I
+ ()
+ No diabetes-associated mutations in the coding region of the hepatocyte nuclear factor-4gamma gene (HNF4G) in Japanese patients with MODY
+ Diabetologia 43, -
+ 
+ Iversen, J
+, and Miles, D
+ W
+ ()
+ Evidence for a Feedback Inhibition of Insulin on Insulin (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    
+ Jhala, U
+ S
+, Canettieri, G
+, Screaton, R
+ A
+, Kulkarni, R
+ N
+, Krajewski, S
+, Reed, J
+, Walker, J
+, Lin, X
+, White, M
+, and Montminy, M
+ ()
+ cAMP promotes pancreatic beta-cell survival via CREB-
+ Johnson, J
+ D
+ ()
+ A practical guide to genetic engineering of pancreatic beta-cells in vivo: 
+ Johnson, J
+ D
+, Bernal-Mizrachi, E
+, Alejandro, E
+ U
+, Han, Z
+, Kalynyak, T
+ B
+, Li, H
+, Beith, J
+ L
+, Gross, J
+, Warnock, G
+ L
+, Townsend, R
+ R
+, et al (a)
+ Insulin protects islets from apoptosis via Pdx1 and specific changes in the human islet proteome
+ Proc Natl Acad Sci U S A 103, -
+ Johnson, J
+ D
+, Ford, E
+ L
+, Bernal-Mizrachi, E
+, Kusser, K
+ L
+, Luciani, D
+ S
+, Han, Z
+, Tran, H
+, Randall, T
+ D
+, Lund, F
+ E
+, and Polonsky, K
+ S
+ (b)
+ Suppressed Insulin Signaling and 
+ Johnson, J
+ D
+, and Misler, S
+ (a)
+ Nicotinic acid-adenine dinucleotide phosphate-sensitive calcium stores initiate insulin signaling in human beta cells
+ Proc Natl Acad Sci U S A 99, -
+ Johnson, J
+ D
+, and Misler, S
+ (b)
+ Nicotinic acid-adenine dinucleotide phosphate-sensitive calcium stores initiate insulin signaling in human beta cells
+ Proceedings of the National Academy 
+ Khan, F
+ A
+, Goforth, P
+ B
+, Zhang, M
+, and Satin, L
+ S
+ ()
+ Insulin activates ATP-sensitive K(+) 
+ Kido, Y
+, Burks, D
+ J
+, Withers, D
+, Bruning, J
+ C
+, Kahn, C
+ R
+, White, M
+ F
+, and Accili, D
+ ()
+ Tissue-specific insulin resistance in mice with mutations in the insulin receptor, IRS-1, and IRS-
+ 
+ Kline, C
+ F
+, Wright, P
+ J
+, Koval, O
+ M
+, Zmuda, E
+ J
+, Johnson, B
+ L
+, Anderson, M
+ E
+, Hai, T
+, Hund, T
+ J
+, and Mohler, P
+ J
+ ()
+ betaIV-Spectrin and CaMKII facilitate Kir
+2 regulation in pancreatic beta cells
+ Proc Natl Acad Sci U S A 110, -
+ 
+ Knutson, V
+ P
+, Ronnett, G
+ V
+, and Lane, M
+ D
+ ()
+ Rapid, reversible internalization of cell surface insulin receptors
+ Correlation with insulin-induced down-regulation
+ J Biol Chem 258, 
+ Kolic, J
+, Manning Fox, J
+ E
+, Chepurny, O
+ G
+, Spigelman, A
+ F
+, Ferdaoussi, M
+, Schwede, F
+, Holz, G
+ G
+, and MacDonald, P
+ E
+ ()
+ PI3 kinases p110alpha and PI3K-C2beta negatively regulate cAMP via PDE3/8 to control insulin secretion in mouse and human islets
+ Mol Metab 5, 
+ Konner, A
+ C
+, Janoschek, R
+, Plum, L
+, Jordan, S
+ D
+, Rother, E
+, Ma, X
+, Xu, C
+, Enriori, P
+, Hampel, B
+, Barsh, G
+ S
+, et al ()
+ Insulin action in AgRP-expressing neurons is required for 
+ Kulkarni, R
+ N
+, Bruning, J
+ C
+, Winnay, J
+ N
+, Postic, C
+, Magnuson, M
+ A
+, and Kahn, C
+ R
+ ()
+ Tissue-specific knockout of the insulin receptor in pancreatic beta cells creates an insulin secretory defect similar to that in type 2 diabetes
+ Cell 96, -
+ 
+ Laraia, L
+, Friese, A
+, Corkery, D
+ P
+, Konstantinidis, G
+, Erwin, N
+, Hofer, W
+, Karatas, H
+, Klewer, L
+, Brockmeyer, A
+, Metz, M
+, et al ()
+ The cholesterol transfer protein GRAMD1A regulates 
+ Leibiger, I
+ B
+, Leibiger, B
+, and Berggren, P
+ -O
+ ()
+ Insulin Signaling in the Pancreatic -Cell
+ 
+ Locke, J
+ M
+, Hysenaj, G
+, Wood, A
+ R
+, Weedon, M
+ N
+, and Harries, L
+ W
+ ()
+ Targeted allelic expression profiling in human islets identifies cis-regulatory effects for multiple variants identified 
+ Luciani, D
+ S
+, and Johnson, J
+ D
+ ()
+ Acute effects of insulin on beta-cells from transplantable 
+ Ma, F
+, Zhang, C
+, Prasad, K
+ V
+, Freeman, G
+ J
+, and Schlossman, S
+ F
+ ()
+ Molecular cloning of Porimin, a novel cell surface receptor mediating oncotic cell death
+ Proc Natl Acad Sci U S A (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    
+ Ma, X
+, Zhang, Y
+, Gromada, J
+, Sewing, S
+, Berggren, P
+ -O
+, Buschard, K
+, Salehi, A
+, Vikman, J
+, Rorsman, P
+, and Eliasson, L
+ ()
+ Glucagon Stimulates Exocytosis in Mouse and Rat Pancreatic -Cells by Binding to Glucagon Receptors
+ Molecular Endocrinology 19, -
+ 
+ Mandrup-Poulsen, T
+ ()
+ Apoptotic signal transduction pathways in diabetes
+ Biochem 
+ Mari, A
+, Tura, A
+, Natali, A
+, Anderwald, C
+, Balkau, B
+, Lalic, N
+, Walker, M
+, Ferrannini, E
+, and Investigators, R
+ ()
+ Influence of hyperinsulinemia and insulin resistance on in vivo beta-cell 
+ Mauvais-Jarvis, F
+ ()
+ Sex differences in metabolic homeostasis, diabetes, and obesity
+ Biol 
+ Mehran, A
+ E
+, Templeman, N
+ M
+, Brigidi, G
+ S
+, Lim, G
+ E
+, Chu, K
+ Y
+, Hu, X
+, Botezelli, J
+ D
+, Asadi, A
+, Hoffman, B
+ G
+, Kieffer, T
+ J
+, et al ()
+ Hyperinsulinemia drives diet-induced obesity 
+ Mokhtari, D
+, Barbu, A
+, Mehmeti, I
+, Vercamer, C
+, and Welsh, N
+ ()
+ Overexpression of the nuclear factor-kappaB subunit c-Rel protects against human islet cell death in vitro
+ Am J Physiol 
+ Mosleh, E
+, Ou, K
+, Haemmerle, M
+ W
+, Tembo, T
+, Yuhas, A
+, Carboneau, B
+ A
+, Townsend, S
+ E
+, Bosma, K
+ J
+, Gannon, M
+, OBrien, R
+ M
+, et al ()
+ Ins1-Cre and Ins1-CreER Gene Replacement Alleles Are Susceptible To Silencing By DNA Hypermethylation
+ Endocrinology 
+ 
+ Muller, D
+, Jones, P
+ M
+, and Persaud, S
+ J
+ ()
+ Autocrine anti-apoptotic and proliferative 
+ Nicholson, A
+, Reifsnyder, P
+ C
+, Malcolm, R
+ D
+, Lucas, C
+ A
+, MacGregor, G
+ R
+, Zhang, W
+, and Leiter, E
+ H
+ ()
+ Diet-induced obesity in two C57BL/6 substrains with intact or mutant 
+ Oakie, A
+, Zhou, L
+, Rivers, S
+, Cheung, C
+, Li, J
+, and Wang, R
+ ()
+ Postnatal knockout of beta cell insulin receptor impaired insulin secretion in male mice exposed to high-fat diet stress
+ 
+ Ohsugi, M
+, Cras-Meneur, C
+, Zhou, Y
+, Bernal-Mizrachi, E
+, Johnson, J
+ D
+, Luciani, D
+ S
+, Polonsky, K
+ S
+, and Permutt, M
+ A
+ ()
+ Reduced expression of the insulin receptor in mouse insulinoma (MIN6) cells reveals multiple roles of insulin signaling in gene expression, proliferation, 
+ Okada, T
+, Liew, C
+ W
+, Hu, J
+, Hinault, C
+, Michael, M
+ D
+, Krtzfeldt, J
+, Yin, C
+, Holzenberger, M
+, Stoffel, M
+, and Kulkarni, R
+ N
+ ()
+ Insulin receptors in beta-cells are critical for islet compensatory growth response to insulin resistance
+ Proc Natl Acad Sci U S A 104, -
+ 
+ Okamoto, H
+, Nakae, J
+, Kitamura, T
+, Park, B
+ C
+, Dragatsis, I
+, and Accili, D
+ ()
+ Transgenic 
+ Oropeza, D
+, Jouvet, N
+, Budry, L
+, Campbell, J
+ E
+, Bouyakdan, K
+, Lacombe, J
+, Perron, G
+, Bergeron, V
+, Neuman, J
+ C
+, Brar, H
+ K
+, et al ()
+ Phenotypic Characterization of MIP-CreERT1Lphi Mice With Transgene-Driven Islet Expression of Human Growth Hormone
+ Diabetes 
+ Otani, K
+, Kulkarni, R
+ N
+, Baldwin, A
+ C
+, Krutzfeldt, J
+, Ueki, K
+, Stoffel, M
+, Kahn, C
+ R
+, and Polonsky, K
+ S
+ ()
+ Reduced {beta}-cell mass and altered glucose sensing impairs insulin secretory function in mice with pancreatic {beta}-cell knockout of the insulin receptor
+ Am J 
+ Otani, K
+, Kulkarni, R
+ N
+, Baldwin, A
+ C
+, Krutzfeldt, J
+, Ueki, K
+, Stoffel, M
+, Kahn, C
+ R
+, and Polonsky, K
+ S
+ ()
+ Reduced beta-cell mass and altered glucose sensing impair insulin-secretory function in betaIRKO mice
+ Am J Physiol Endocrinol Metab 286, E-
+ 
+ Page, M
+ M
+, and Johnson, J
+ D
+ ()
+ Mild Suppression of Hyperinsulinemia to Treat Obesity 
+ Parks, B
+ W
+, Sallam, T
+, Mehrabian, M
+, Psychogios, N
+, Hui, S
+ T
+, Norheim, F
+, Castellani, L
+ W
+, Rau, C
+ D
+, Pan, C
+, Phun, J
+, et al ()
+ Genetic architecture of insulin resistance in the mouse
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    
+ Paschen, M
+, Moede, T
+, Valladolid-Acebes, I
+, Leibiger, B
+, Moruzzi, N
+, Jacob, S
+, Garcia-Prieto, C
+ F
+, Brismar, K
+, Leibiger, I
+ B
+, and Berggren, P
+ O
+ ()
+ Diet-induced beta-cell insulin resistance results in reversible loss of functional beta-cell mass
+ Faseb J 33, -
+ 
+ Picelli, S
+, Faridani, O
+ R
+, Bjorklund, A
+ K
+, Winberg, G
+, Sagasser, S
+, and Sandberg, R
+ ()
+ Full-length RNA-seq from single cells using Smart-seq
+ Nat Protoc 9, -
+ 
+ Plum, L
+, Schubert, M
+, and Bruning, J
+ C
+ ()
+ The role of insulin receptor signaling in the 
+ Prentki, M
+, and Nolan, C
+ J
+ ()
+ Islet beta cell failure in type 2 diabetes
+ J Clin
+Invest 116, 
+ Prigge, J
+ R
+, Wiley, J
+ A
+, Talago, E
+ A
+, Young, E
+ M
+, Johns, L
+ L
+, Kundert, J
+ A
+, Sonsteng, K
+ M
+, Halford, W
+ P
+, Capecchi, M
+ R
+, and Schmidt, E
+ E
+ ()
+ Nuclear double-fluorescent reporter for in vivo and ex vivo analyses of biological transitions in mouse nuclei
+ Mamm Genome
+ 
+ Rappaport, A
+ M
+, Ohira, S
+, Coddling, J
+ A
+, Empey, G
+, Kalnins, A
+, Lin, B
+ J
+, and Haist, R
+ E
+ ()
+ Effects on insulin output and on pancreatic blood flow of exogenous insulin infusion into an in situ isolated portion of the pancreas
+ Endocrinology 91, -
+ 
+ Rorsman, P
+, and Ashcroft, F
+ M
+ ()
+ Pancreatic -Cell Electrical Activity and Insulin Secretion: 
+ Salvalaggio, P
+ R
+, Deng, S
+, Ariyan, C
+ E
+, Millet, I
+, Zawalich, W
+ S
+, Basadonna, G
+ P
+, and Rothstein, D
+ M
+ ()
+ Islet filtration: a simple and rapid new purification procedure that avoids 
+ Schmidt, T
+, Samaras, P
+, Frejno, M
+, Gessulat, S
+, Barnert, M
+, Kienegger, H
+, Krcmar, H
+, Schlegl, J
+, Ehrlich, H
+ C
+, Aiche, S
+, et al ()
+ ProteomicsDB
+ Nucleic Acids Res 46, D-
+ Sharma, R
+ B
+, O'Donnell, A
+ C
+, Stamateris, R
+ E
+, Ha, B
+, McCloskey, K
+ M
+, Reynolds, P
+ R
+, Arvan, P
+, and Alonso, L
+ C
+ ()
+ Insulin demand regulates beta cell number via the unfolded protein 
+ Stamateris, R
+ E
+, Sharma, R
+ B
+, Kong, Y
+, Ebrahimpour, P
+, Panday, D
+, Ranganath, P
+, Zou, B
+, Levitt, H
+, Parambil, N
+ A
+, O'Donnell, C
+ P
+, et al ()
+ Glucose Induces Mouse beta-Cell Proliferation via IRS2, MTOR, and Cyclin D2 but Not the Insulin Receptor
+ Diabetes 65, -
+ 
+ Stancill, J
+ S
+, Osipovich, A
+ B
+, Cartailler, J
+ P
+, and Magnuson, M
+ A
+ ()
+ Transgene-associated human growth hormone expression in pancreatic beta-cells impairs identification of sex-based 
+ Strawbridge, R
+ J
+, Dupuis, J
+, Prokopenko, I
+, Barker, A
+, Ahlqvist, E
+, Rybin, D
+, Petrie, J
+ R
+, Travers, M
+ E
+, Bouatia-Naji, N
+, Dimas, A
+ S
+, et al ()
+ Genome-wide association identifies nine common variants associated with fasting proinsulin levels and provides new insights into the 
+ Stuart, T
+, Butler, A
+, Hoffman, P
+, Hafemeister, C
+, Papalexi, E
+, Mauck, W
+ M
+, 3rd, Hao, Y
+, Stoeckius, M
+, Smibert, P
+, and Satija, R
+ ()
+ Comprehensive Integration of Single-Cell Data
+ 
+ Tabak, A
+ G
+, Herder, C
+, Rathmann, W
+, Brunner, E
+ J
+, and Kivimaki, M
+ ()
+ Prediabetes: a 
+ Templeman, N
+ M
+, Clee, S
+ M
+, and Johnson, J
+ D
+ ()
+ Suppression of hyperinsulinaemia in 
+ Templeman, N
+ M
+, Flibotte, S
+, Chik, J
+ H
+ L
+, Sinha, S
+, Lim, G
+ E
+, Foster, L
+ J
+, Nislow, C
+, and Johnson, J
+ D
+ ()
+ Reduced Circulating Insulin Enhances Insulin Sensitivity in Old Mice and 
+ Thorens, B
+, Tarussio, D
+, Maestro, M
+ A
+, Rovira, M
+, Heikkila, E
+, and Ferrer, J
+ ()
+ Ins1(Cre) 
+ Tobi, E
+ W
+, Slieker, R
+ C
+, Luijk, R
+, Dekkers, K
+ F
+, Stein, A
+ D
+, Xu, K
+ M
+, Biobank-based Integrative Omics Studies, C
+, Slagboom, P
+ E
+, van Zwet, E
+ W
+, Lumey, L
+ H
+, et al ()
+ DNA methylation as a mediator of the association between prenatal adversity and risk factors for (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    
+ Topp, B
+, Promislow, K
+, deVries, G
+, Miura, R
+ M
+, and Finegood, D
+ T
+ ()
+ A model of beta-cell mass, insulin, and glucose kinetics: pathways to diabetes
+ J Theor Biol 206, -
+ 
+ Vogt, M
+ C
+, and Bruning, J
+ C
+ ()
+ CNS insulin signaling in the control of energy homeostasis and glucose metabolism - from embryo to old age
+ Trends Endocrinol Metab 24, -
+ 
+ Wang, F
+, Pulinilkunnil, T
+, Flibotte, S
+, Nislow, C
+, Vlodavsky, I
+, Hussein, B
+, and Rodrigues, B
+ ()
+ Heparanase protects the heart against chemical or ischemia/reperfusion injury
+ J Mol Cell 
+ Wang, J
+, Gu, W
+, and Chen, C
+ ()
+ Knocking down Insulin Receptor in Pancreatic Beta Cell Decreasing the Gene Expression of Insulin, GLUT2 and Pdx
+ International journal of molecular 
+ Wang, M
+, Li, J
+, Lim, G
+ E
+, and Johnson, J
+ D
+ ()
+ Is dynamic autocrine insulin signaling 
+ Wang, Z
+, Ramanadham, S
+, Ma, Z
+ A
+, Bao, S
+, Mancuso, D
+ J
+, Gross, R
+ W
+, and Turk, J
+ ()
+ Group VIA phospholipase A2 forms a signaling complex with the calcium/calmodulin-dependent protein kinase IIbeta expressed in pancreatic islet beta-cells
+ J Biol Chem 280, -
+ 
+ Wicksteed, B
+, Brissova, M
+, Yan, W
+, Opland, D
+ M
+, Plank, J
+ L
+, Reinert, R
+ B
+, Dickson, L
+ M
+, Tamarina, N
+ A
+, Philipson, L
+ H
+, Shostak, A
+, et al (a)
+ Conditional gene targeting in mouse pancreatic beta-cells: analysis of ectopic Cre transgene expression in the brain
+ Diabetes 59, 
+ Wicksteed, B
+, Brissova, M
+, Yan, W
+, Opland, D
+ M
+, Plank, J
+ L
+, Reinert, R
+ B
+, Dickson, L
+ M
+, Tamarina, N
+ A
+, Philipson, L
+ H
+, Shostak, A
+, et al (b)
+ Conditional gene targeting in mouse pancreatic ss-Cells: analysis of ectopic Cre transgene expression in the brain
+ Diabetes 59, -
+ Wills, Q
+ F
+, Boothe, T
+, Asadi, A
+, Ao, Z
+, Warnock, G
+ L
+, Kieffer, T
+ J
+, and Johnson, J
+ D
+ ()
+ Statistical approaches and software for clustering islet cell functional heterogeneity
+ Islets 8, -
+ Yaekura, K
+, Julyan, R
+, Wicksteed, B
+ L
+, Hays, L
+ B
+, Alarcon, C
+, Sommers, S
+, Poitout, V
+, Baskin, D
+ G
+, Wang, Y
+, Philipson, L
+ H
+, et al ()
+ Insulin secretory deficiency and glucose 
+ Yang, Y
+ H
+, Wills, Q
+ F
+, and Johnson, J
+ D
+ ()
+ A live-cell, high-content imaging survey of 206 endogenous factors across five stress conditions reveals context-dependent survival effects in 
+ Yki-Jarvinen, H
+ ()
+ Sex and insulin sensitivity
+ Metabolism 33, -
+ 
+ Zhang, A
+ M
+ Y
+, Magrill, J
+, de Winter, T
+ J
+ J
+, Hu, X
+, Skovso, S
+, Schaeffer, D
+ F
+, Kopp, J
+ L
+, and 
+ Zhang, B
+, Chang, A
+, Kjeldsen, T
+ B
+, and Arvan, P
+ ()
+ Intracellular retention of newly synthesized insulin in yeast is caused by endoproteolytic processing in the Golgi complex
+ J Cell 
+ Zhang, F
+, Zhang, Q
+, Tengholm, A
+, and Sjoholm, A
+ ()
+ Involvement of JAK2 and Src kinase tyrosine phosphorylation in human growth hormone-stimulated increases in cytosolic free Ca2+ and insulin secretion
+ Am J Physiol Cell Physiol 291, C-
+ 
+ Zhang, Z
+, Zhang, W
+, Jung, D
+ Y
+, Ko, H
+ J
+, Lee, Y
+, Friedline, R
+ H
+, Lee, E
+, Jun, J
+, Ma, Z
+, Kim, F
+, et al ()
+ TRPM2 Ca2+ channel regulates energy balance and glucose metabolism
+ 
+ Zhou, G
+, Soufan, O
+, Ewald, J
+, Hancock, R
+ E
+ W
+, Basu, N
+, and Xia, J
+ ()
+ NetworkAnalyst 
+0: a visual analytics platform for comprehensive gene expression profiling and (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    Figure 
+ An animal model to examine the role of abundant Insr in -cells
+ (A) INSR protein (isoform A and B) and INSR mRNA expression across human tissues
+ Left 3 columns show INSR isoform A and B protein abundance expressed as normalized median intensity (NMI; www
+ proteomicsdb
+ org)
+ Right 3 columns show total INSR mRNA expression in the same tissues (where available) extracted from 3 databases
+ Left to right, mRNA data from human proteome atlas (HPA) and genotype tissue expression project (GTEX) are shown in reads per kilobase million (RPKM)
+ Data from the FAMTOMS database is shown as transcripts per kilobase million (TMP)
+ (B) Human insulin receptor expression in islet cell subtypes extracted from an integrated dataset of human single cell RNA seq data (see Methods)
+ Normalized expression levels are shown in UMAP space (top) and as a ridge plot on a log scale (bottom)
+ The height of the ridge indicates the frequency of cells at a given expression level
+ (C) Breeding strategy for generating -cell specific InsrKO, (InsrHET), and littermate control Cre-only mice
+ (D) Robust Cre recombination verified by imaging the nTnG reporter allele in an isolated islet from an Ins1Cre/wt;nTnG mouse
+ (E) Western blot of Insr protein in islets isolated from InsrKO, (InsrHET), and littermate control Cre-only mice
+ (F) Insr mRNA expression across tissues in 16 week-old LFD-fed control, InsrHET, and InsrKO mice assessed by Figure 
+ Transcriptomic analysis of purified Insr deficient -cells
+ (A) Differentially expressed genes between FACS purified GFP-positive -cells from InsrKO and control mice are shown overlaid on a diagram of their predicted functional roles
+ See Figure S1 for full gene names
+ Figure 
+ -Cells lacking Insr have increased action potential and calcium oscillation frequencies
+ (A,B) Representative image and quantification of Slc2a2 (Glut2) in islet from sectioned pancreas from a LFD-fed 13 week old female control and InsrKO mice
+ Unpaired t-test
+ (C) Oxygen consumption rate data of dispersed islets from 16 week-old chow-fed control, InsrHET, and InsrKO mice
+ Data analyzed with mixed effects model from independent islet cultures from 3 male and 1 female mice
+ (D) Representative traces of action potential firing in -cells from 16 week-old chow-fed mice
+ Glucose changed as indicated
+ (E-G) Quantification of action potential properties and reversal potentia during the 10mM glucose phase in patch clamped dispersed -cells
+ Data analyzed using un-paired t-test (n=16-17 cells, from 3 mice per group)
+ (H) -Cell exocytosis measured as increased membrane capacitance normalized to initial cell size (fF/pF) over a series of ten 500 ms membrane depolarizations from -70 to 0 mV (n= control 32 cells, 29 InsrKO cells, from 3 pairs of mice)
+ (I) Ca2+ dynamics measured in dispersed islet cells (Fura-2 340/380 ratio) treated as indicated from a baseline of 3 mM glucose)
+ (J) Quantification of glucose induced Ca2+ oscillation number (n=3523 cells)
+ ANOVA with correction for multiple comparisons using Tukeys method
+ Additional quantification of Figure 
+ Insr knockout increases glucose-stimulated insulin secretion in vitro and in vivo
+ (A,B) Perifused islets isolated from 16 week old chow-fed control, InsrHET, InsrKO (A) female (n=3,3,5), and (B) male (n=6,5,5) mice were exposed to 20 mM glucose (20G), 10 mM glucose (10G), (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    and 30 mM KCL (KCL) from a baseline of 3 mM glucose
+ Data analyzed using repeated measures mixed effects model
+ Quantification of area under the curve (AUC) is shown for 1st phase and 2nd phase during 15 mM glucose stimulation, total response during 10 mM glucose stimulation, and during 30mM KCL stimulation
+ AUCs were analyzed with 1-way ANOVA analysis
+ (C,F) Glucose infusion rates, (D,G) plasma glucose levels, and (E,H) plasma insulin levels during 2 h hyperglycemic clamps in awake of LFD-fed 10 week old LFD-fed control and InsrKO female (n=14, 15) and male (n=4, 4) mice
+ Data were analyzed using repeated measures mixed effects model
+ (I,J) Insulin levels (% basal insulin) following a single glucose injection (2g glucose/kg body mass,i
+p) of 11 week old LFD-fed control, InsrHET, InsrKO  female (n=33,34,23) and male (n=22,29,17) mice
+ Data were analyzed using repeated measures mixed effects model
+ (K,L) 30min islet protein synthesis measured by S35 labeling in islets isolated from control, InsrHET, InsrKO  female (n=7,5,6) and male (n=5,4,3) mice
+ Data were analyzed by 1-way ANOVA
+ (M,N) Insulin content of 10 islets isolated from control, InsrHET, InsrKO  female (n=4,3,5) and male (n=5,4,5) mice
+ Data were analyzed by 1-way ANOVA
+  Figure 
+ Islet cell proliferation and relative area in mice lacking -cell Insr
+ (A) A representative image showing islet architecture via staining for insulin, glucagon and DNA
+ (B-E) -Cell area shown as a percentage of total pancreatic area
+ Data were analyzed by 1-way ANOVA analyses
+ (F-S) 4-day in vivo glucose infusion in female (n=5 control, 4 InsrKO ) and male (n=6 control, 8 InsrKO) mice
+ (F,M) Tail blood glucose and (G,N) insulin data were analyzed using repeated measures mixed effects model
+ (H,O) 4 day average plasma insulin data were analyzed by an unpaired t-test
+ (I,P) Plasma glucagon (tail blood) data were analyzed using repeated measures mixed effects model
+ (J,Q) 4 day average plasma insulin data were analyzed by an unpaired t-test
+ (K,R) Representative single channel and merge images showing islets stained for insulin, glucagon, BrdU and DNA from LFD-fed female and male controls and female InsrKO and male InsrKO mice following 4day glucose infusion
+ (L,S) Quantification of BrdU+ insulin+ cells and 
+ BrdU+ glucagon+ cells
+ Data were analyzed by an unpaired t-tests
+ (T) Representative western blot image and quantification of islet lysate from male (dark blue bar, n=3) mice treated with 3 mM or 20 mM glucose
+ Data were analyzed by 1-way ANOVA
+  Figure 
+ Glucose tolerance at multiple ages in -cell specific Insr knockout mice fed 2 different diets
+ (A) modified version of the Topp model
+ (B, C) Simulations of the effects of reduced -cell insulin sensitivity on glucose stimulated insulin release and glucose tolerance
+ (D, E) Relationship between the contributes of peripheral insulin sensitivity and -cell insulin sensitivity to the glucose AUC and insulin AUC in the in silico glucose tolerance tests
+ (F) Glucose tolerance tests of control, and male (n4week=10,18,5; n9week=17,30,11; n21week=8,14,8; n39week=9,7,13) as well as HFD-fed female n21week=7,16,8; n39week=8,14,8; n54week=6,11,7) mice
+ (All mice received a glucose bolus of 2g glucose/kg body mass (i
+p) except older HFD-fed males, which received only 2g glucose/kg body mass (i
+ p)
+ *p-values are italicized when InsrKO   was compared to controls, p-values are underlined when InsrHET  was compared to controls
+ (G)
+ The glucose tolerance of Chow-fed Insrwt/wt;MIPCre-ERTM;YFP+/wt (n=7) and Insrf/f;MIPCre-ERTM;YFP+/wt (n=17) mice were examined at 4, 8, 16 and 20 weeks after tamoxifen injection (8 weeks of age upon tamoxifen injection (3 x 200 mg/kg over a 1-week Figure 
+ Effects of -cell specific Insr deletion fasting glucose, body weight and organ weight
+ (A-D) Plasma glucose concentration after a 4-h fast in control, InsrHET, and InsrKO mice at multiple ages in both LFD and HFD
+ (E-H) Longitudinally tracked body weight in control, InsrHET, and InsrKO mice at multiple ages in both LFD and HFD
+ (I,J) Weights, as a percentage of the whole body, of inguinal adipose tissue, gonadal adipose tissue, liver, brown adipose tissue and skeletal muscle
+ Data were analysed using repeated measures mixed effects models
+ (K) Representative immunoblot of Insr (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    Tissue INSR-A (NMI) INSR-B (NMI) INSR (RPKM) INSR (RPKM) INSR (TPM)(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    3   20       3   20       3   20  Glucose (mM)3   20       3   20       3   20  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    12 weeks of age / 4 w post Tmx 16 weeks of age / 8 w post Tmx(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    7 11 16 21 28 31 36 40 44 50 7 11 16 21 28 31 36 40 44 50 4 5 7 11 16 21 28 31 36 40 4 5 7 11 16 21 28 31 36 40 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    Gene Name CPM WT sem CPM HT sem CPM KO sem Glycemic Obesity Function (Uniprot summary)Jak2 14 1 24 6 26 1 Jak-Stat signalling from GH, prolactin, leptinDusp26 13 3 27 4 41 3 BMI Inactivates MAPK1/MAPK3, p38 MAPKTmem123 28 1 37 6 41 2 BMI oncocytic cell deathUtp3 11 3 15 4 28 2 T2D gene silencing, chromatinRnf138rt1 6 2 16 3 19 2 ring finger protein Atp6ap2 334 23 377 36 475 20 activates ERK1/2, RAS systemRela 18 3 18 3 33 2 aT2D whr aBMI NFkB signallingOgfr 17 1 23 2 31 2 BMI Met-enkephalin signalling, growth regulationRnf6 29 6 44 5 55 3 T2D E3 ubiquitin ligase, LIMK1 turnoverAnkrd28 5 1 12 2 18 2 BMI PP6-mediated dephosphorylation of NFKBIETbce 23 3 35 2 48 5 T2D BMI tubulin foldingMorf4l1 265 7 289 20 340 15 aBMI NuA4 histone acetyltransferase, mSin3A complexCsnk2a2 16 2 26 2 33 4 apoptosis, cell cycle, transcription, viral infectionPtges3l 3 1 4 1 6 1 whr aBMI prostaglandin E synthase 2 likeKras 55 7 84 9 103 10 GTPase, insulin and growth factor signallingCr1l 46 3 41 5 63 3 whr aBMI complement componentPpp1r7 21 3 28 2 38 4 phosphatase, PP1; ERK signallingGene Name CPM WT sem CPM HT sem CPM KO sem Glycemic Obesity Function (Uniprot summary)Crybb3 284 
+3 197 
+3 116 
+7 structual component of vertebrate eye lensAdamts2 5 
+6 4 
+7 3 
+3 whr aBMI type I and II collagen propeptide cleavageTtll12 12 
+7 7 
+6 4 
+0 HbA1c post-translational tubulin modificationsPygo2 35 
+3 33 
+2 27 
+9 whr aBMI Wnt signallingC2 6 
+0 2 
+8 2 
+4 T1D, T2D whr aBMI complement factorAtf6b 25 
+8 18 
+7 18 
+8 T1D, T2D BMI ER stress signallingApobec1 60 
+5 51 
+8 40 
+8 postranscriptional editing, DNA methylationMettl8 10 
+5 5 
+5 2 
+6 whr aBMI histone methyltransferaseMapk8ip3 67 
+9 46 
+3 36 
+6 JNK and MAPK signalling, vesible trafficHars2 25 
+7 16 
+4 12 
+5 class II aminoacyl-tRNA synthetaseRab3a 113 
+5 84 
+0 84 
+7 whr aBMI insulin secretionBmpr2 24 
+3 18 
+7 13 
+0 BMI BMP7, BMP2, BMP4 signallingL3mbtl2 22 
+0 12 
+5 7 
+4 BMI chomatin modification, polycomb groupSympk 29 
+9 20 
+0 14 
+6 T2D BMI pre-mRNA polyadenylation, tight junctionsDnaic1 7 
+5 4 
+9 2 
+8 dynein complex in respiratory ciliaPdzd11 57 
+9 39 
+4 34 
+4 plasma membrane calcium ATPase-interactingLrrc56 8 
+5 5 
+3 3 
+8 BMI primary ciliary dyskinesiaFig
+ S
+ RNA sequencing analysis of Insr-deficient purified beta-cells
+ (A) FACS plot example of sorted cells
+ (B)Significantly different Reactome Pathways
+ (C) List of most significantly upregulated or downregulated individual genes
+Data are shown for control control, bInsrHET, and bInsrKO (n=-)
+ (D) Protein-protein interaction networks constructedaround differentially expressed genes
+ (E) Transcription factors predicted to mediated differential gene expression
+Individual transcription factors that were increase (blue) or decreased (red) are highlighted
+Significantly Altered Reactome Pathways Set Size % of Set p value q valueDEx/H-box helicases activate type I IFN and inflammatory cytokines production 13 15 
+001 
+Downstream signaling events of B Cell Receptor (BCR) 30 10 
+000 
+ZBP1(DAI) mediated induction of type I IFNs 27 7 
+004 
+TAK1 activates NFkB by phosphorylation and activation of IKKs complex 32 6 
+006 
+Signaling by moderate kinase activity BRAF mutants 38 5 
+008 
+Paradoxical activation of RAF signaling by kinase inactive BRAF 38 5 
+008 
+Transport of vitamins, nucleosides, and related molecules 39 5 
+009 
+(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    Fig
+ S
+ Additional quantification of dynamic Ca2+ responses
+ Responses to glucose or KCl were defined as themedian high glucose (15mM) or KCl (30mM) signal above baseline glucose (3mM), respectively, and normalized to themaximum response to KCl above baseline
+ High glucose-stimulated Ca2+ oscillations, Ca2+ oscillation in low glucose,and KCl-stimulated Ca2+ oscillation were defined as the median absolute deviation (MAD) during the high glucose, lowglucose or KCl exposures, respectively, normalized to the maximum response to KCl above baseline
+(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    Fig
+ S
+ Fasting insulin, glucagon, and glucose levels
+ (A-D) Circulating plasma insulin levels after a 4-hour fast,(E-H) or a 16-hour fast; (I-K) plasma glucagon levels after a 16-hour fast (L-O) plasma glucose concentration after a16-hour fast in control, bInsrHET, and bInsrKO mice at multiple ages
+(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    Fig
+ S
+ Fasting proinsulin and C-peptide
+ (A-D) Circulating plasma proinsulin and C-peptide levels after a -hourfast, and their associated ratios in control, bInsrHET, and bInsrKO mice at multiple ages
+ Statistical analyses were done(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    Fig
+ S5 Mathematical modeling of glucose tolerance
+ (A,B) Relationship between insulin and glucose during thehyperglycemia clamps over time in female and male mice
+ Data from the clamp studies were used to define a beta-cellinsulin sensitivity term that was included in a modified Topp model (see main text)
+ (C) Modelled effects of peripheralinsulin sensitivity and beta-cell insulin sensitivity on glucose AUC (topographical lines)
+ Female response is shown inthe pink shadow and male response in the blue shadow
+ The experimental effects of the knockout are shown as thesingle data point with SEM bars
+ (D) Model-assessed change in peripheral insulin sensitivity with age, usingexperimental data
+ (E) Effects of HFD at 9 weeks, where comparable glucose bolus was given
+(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    Fig
+ S
+ Insulin tolerance tests
+ (A-D) Insulin tolerance tests after a 6 hour fast in control, bInsrHET and bInsrKO mice fedLFD or HFD at multiple ages (n=-)
+ Statistical analyses were done with repeated measures 2-way ANOVA
+ Doses(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    Fig
+ S
+ Fasting insulin, proinsulin, C-peptide and glucagon in control mice
+ (A-D) Circulating plasma insulin,proinsulin and C-peptide levels after a 4-hour fast, and their associated ratios as well as 16-hour fasted insulin,glucagon and blood glucose levels in Insrwt/wt;Ins1Cre/wt;nTnG+/- (black) and Insrwt/wt;Ins1wt/wt;nTnG+/- (grey) LFD-mice at(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    0 30 60 90 120 0 30 60 90 120 0 30 60 90 0 30 60 90 120 0 30 60 90 120 0 30 60 90 Fig
+ S
+ Glucose tolerance and fasting glucose comparison in controls
+ (A-D) Glucose tolerance tests after a hour fast in female and male of Insrwt/wt;Ins1Cre/wt;nTnG+/- (black) and Insrwt/wt;Ins1wt/wt;nTnG+/- (grey) fed LFD or HFD atmultiple ages (n=-)
+ Statistical analyses were done with repeated measures 2-way ANOVA
+ (E-H) Blood glucose(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    Fig
+ S
+ Insulin tolerance tests in control mice
+ (A-D) Insulin tolerance after a 6 hour fast in female and male ofInsrwt/wt;Ins1Cre/wt;nTnG+/- (black) and Insrwt/wt;Ins1wt/wt;nTnG+/- (grey) fed LFD or HFD at multiple ages (n=-)
+Statistical analysis were done with repeated measures 2-way ANOVA
+ Doses are 
+75 U/kg unless otherwise shown
+(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    Fig
+ S
+ Body weight in control mice
+ (A-D) Body weight in female and male of Insrwt/wt;Ins1Cre/wt;nTnG+/- (black) andInsrwt/wt;Ins1wt/wt;nTnG+/- (grey) fed LFD or HFD at multiple ages
+ Statistical analysis with mixed effect model
+4 5 7 11 16 21 28 31 36 40 7 11 16 21 28 31 36 40 44 50 7 11 16 21 28 31 36 40 44 50 4 5 7 11 16 21 28 31 36 40 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted October 15, 
+ ;    

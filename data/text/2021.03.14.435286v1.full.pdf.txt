@@ -1,0 +1,427 @@
+Redox Buffering Capacity of Nanomaterials as an Index of ROS-based Therapeutics and Toxicity: A Preclinical Animal Study1Department of Chemical, Biological and Macromolecular Sciences, S
+ N
+ Bose National Centre for Basic Sciences, Block JD, Sector 3, Salt Lake, Kolkata 700106, India 4Technical Research Centre, S
+ N
+ Bose National Centre for Basic Sciences, Block JD, Sector 5Department of Microbiology, St
+ Xavier's College, 30, Mother Teresa Sarani, Kolkata 6Research and Development Division, Deys Medical Stores (Mfg
+) Pvt
+ Ltd
+, 62 Bondel 7Department of Pathology, Coochbehar Govt
+ Medical College and Hospital, Silver Jubilee 8Department of Pediatric Medicine, Nil Ratan Sirkar Medical College and Hospital, 138 AJC (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Precise control of intracellular redox status, i
+ e
+, maintenance of physiological level of reactive oxygen species (ROS) for mediating normal cellular functions (oxidative eustress) while evading the excess ROS stress (distress) is central to the concept of redox medicine
+ In this functions have the potential to be the choice of redox therapeutics
+ However, it is always challenging to estimate whether ROS-induced intracellular events are beneficial or deleterious to the cell
+ Here, we propose the concept of redox buffering capacity as a therapeutic index of engineered nanomaterials
+ As a steady redox state is maintained for normal functioning cells, we hypothesize that the ability of a nanomaterial to preserve this homeostatic condition will dictate its therapeutic efficacy
+ Additionally, the redox buffering capacity is expected to trimanganese tetroxide nanoparticles (C-Mn3O4 NPs) as a model nanosystem we explored its redox buffering capacity in erythrocytes
+ Furthermore, we went on to study the chronic toxic effect (if any) of this nanomaterial in animal model in order to co-relate with the experimentally estimated redox buffering capacity
+ This study could function as a framework for assessing the capability of a nanomaterial as redox medicine (whether maintains eustress or damages by creating distress), thus orienting its application and safety for clinical use
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Reactive oxygen species (ROS) and associated oxidative stress (so-called) remains the most fascinating paradigm for elucidating the adverse effects of engineered nanomaterials at cellular and molecular level []
+ ROS generating nanomaterials are generally considered cytotoxic for biomedical use, and their therapeutic applications are restricted to anticancer or anti-microbial activities [-]
+ Indeed, elevated ROS levels have the capacity to oxidize unsaturated fatty acids in lipids, and amino acids in proteins, inducing irreversible damage to vital organelles, and DNA, ultimately leading to cell apoptosis, and necrosis resulting in [-]
+ However, recent understandings in free radical biology illustrate the pivotal role of ROS (at low concentration) as second messengers to modulate essential cellular functions like signaling, adhesion, migration, proliferation and homeostasis []
+ This inherent duality of ROS, the purposeful beneficial functions at physiological level (i
+ e
+, oxidative eustress), as highlights the importance of maintaining proper redox balance for healthy organismal functions, and leads to the concept of redox medicine [9, ]
+ Redox medicine epitomize a promising tool for restoration of cell and tissue homeostasis via direct detoxification of pathways []
+ In this sense, an interesting  (perhaps the most important) avenue in redox medicine is the maintenance of oxidative eustress to regulate redox signaling and associated cell functions in addition to modulation of oxidative distress (i
+ e
+, inhibition to counteract pathological cell loss and induction to promote cell death of pathological cells)
+ The disappointing history of efforts to prevent, or treat diseases with exogenous antioxidants (e
+ g
+, vitamin c, ascorbic acid, polyphenols etc
+) further reflect the importance of redox-based In this new front of redox medicine, ROS-based nanomedicines that involve nanomaterials with ROS-regulating properties, holds promise for optimized therapeutic efficacies []
+ Recent advancement in controlled synthesis process resulted into a wave of multifunctional nanomaterials with unique ROS generation, transition, or depletion functions
+ However, for in vivo application, it is a double-edged sword
+ After exerting expected therapeutic functions, (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    the elevated ROS level may also impair adjacent normal tissues []
+ Moreover, if the nanomaterials are not degraded or excreted, their ROS-generating functions may still exist that may result in sustained oxidative damage
+ Therefore, balancing the therapeutic outcome and side effect of ROS generating nanomaterials is important for the optimization of therapeutic effects, which needs more careful characterization of the in vivo behavior of ROS and more exhaustive safety assessment of the nanomaterials []
+ In other words, information about ROS-mediated changes in cellular redox state, or ability of a nanomaterial to maintain eustress condition could be instrumental in dictating the therapeutic potential of a Unfortunately, the quantitative basis of changes in the intracellular redox state of the cells is not well-defined, thus leading to the dilemma that redox changes induced by oxidants in distinct cells types cannot be predicted []
+ The current state of the art measurement methods for estimating changes in cellular redox state is by measuring the concentration variation of Nernst equation, which is grossly misleading as spatial-temporal control exists between redox couples, and information about single couple cannot reflect the actual redox status [-]
+ In this study, we introduce the concept of redox buffering capacity as a therapeutic index of engineered nanomaterials
+ As a steady redox state is maintained for normal functioning cells, we hypothesize that the ability of a nanomaterial to preserve this homeostatic condition will dictate its therapeutic efficacy
+ Additionally, the redox buffering capacity is expected to trimanganese tetroxide nanoparticles (C-Mn3O4 NPs) as a model nanosystem we explored its redox buffering capacity in erythrocytes
+ In this regard it is worth mentioning that, C-Mn3O4 NPs has previously been well studied from our group and showed therapeutic efficacy using both ROS generation and ROS scavenging abilities in in vitro as well as in vivo models
+ It treats hyperbilirubinemia by oxidative breakdown of bilirubin inside the body
+ On the other hand, it can mimic glutathione peroxidase to scavenge ROS and treat several diseases including hepatic fibrosis, heavy metal toxicity and Huntingtons disorder
+ Thus, it is of considerable interest to assess the redox modulatory properties of this multifunctional nanoparticle
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Furthermore, we went on to study the chronic toxic effect (if any) of this nanomaterial in animal model in order to co-relate with the experimentally estimated redox buffering capacity
+ This study could function as a framework for assessing the capability of a nanomaterial as redox medicine (whether maintains eustress or damages by creating distress), thus orienting (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    In the present study we used ~10 nm nearly spherical C-Mn3O4 NPs having monomodal size distribution (Figure )
+ The optical properties of the nanoparticles have been thoroughly investigated and described by us in previous studies [15, ]
+ The nanoparticle has the unique ability to generate ROS in dark, without any photo- or chemi-activation []
+ Moreover, the NPs can function as a GSH-dependent GPx mimic to scavenge H2O2 in physiological milieu
+ In order to explore the redox buffering effect of C-Mn3O4 NPs, we used the DCFH assay and measured the DCF intensity as a quantitative marker of ROS present in the reaction medium
+ First, we evaluated the in vitro redox buffering capacity of the synthesized NPs using H2O2 as an oxidant molecule
+ Figure 2a reflects the rate of DCFH oxidation with an increasing concentrations of H2O2 added to aqueous medium
+ The results clearly shows that the DCFH oxidation increased significantly with increasing concentration of HO
+ On the other hand, introduction of C-Mn3O4 NPs into the medium resulted into insignificant alteration in DCF intensity even after the addition of the highest concentration of HO
+ As shown in Figure 2a, the DCFH oxidation rate remained almost constant up to the addition of 
+5 mM of HO
+ It signifies the efficient quenching of ROS generated from H2O2 by C-Mn3O4 NPs
+ It should be noted that C-Mn3O4 NPs always maintained a constant ROS concentration in the reaction medium instead of eliminating all the ROS
+ Figure 2a depicts the relation between the DCFH oxidation rate (Vf) and oxidant (H2O2) concentration
+ Here, it is evident that DCFH oxidation by H2O2 follows an exponential kinetics and the oxidation rate clearly reduced in presence of Next we quantified the in-vitro redox buffering capacity of the synthesized NPs
+ As per definition, the redox buffer capacity of a system is numerically equal to the magnitude of change of concentration of an oxidant (or a reductant) added to a solution, which is reduced or oxidized, to change the effective reduction potential by 1 unit (1 V) []
+ Thus, the redox (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Where cox represents the concentration of the oxidant added to the system
+ Experimentally, the redox buffering capacity and the effective reduction potential can be determined from the dependence of 1/Vf on 1/cox (Figure b)
+ The correlation can be max is the highest rate of DCFH oxidation and kcap is a constant having dimension of concentration
+ According to Eq
+ 2, the redox buffering capacity (from the tangent of slope angle of the plot of 1/Vf (Y-axis) vs
+ 1/cox (X-axis)
+ Figure 2b shows the significantly higher (~
+3 times) redox buffering capacity of C-Mn3O4 To test the aforementioned redox buffering ability of C-Mn3O4 NPs in the cellular milieu we used human erythrocytes, or red blood corpuscle (RBC)
+ The choice of erythrocytes was based on the fact that (i) their continuous exposure to high oxygen tensions, (ii) inability to replace damaged components, and (iii) the composition of membrane lipids partly of polyunsaturated fatty acid side chains that are vulnerable to peroxidation
+ Exogenously introduced H2O2 served as the inducer of oxidative stress
+ It is well-known that H2O2 generates massive oxidative stress and perturbs the intracellular redox state
+ For living cells, the electron donating and electron accepting capabilities of the intracellular medium can be specified by the value of effective redox potential, and any change in effective redox potential can be measured using specific redox sensor like DCFH in our study
+ Figure 2c and 2d represent the in-cellulo redox buffering capacity of C-Mn3O4 NPs
+ It is evident from the results that the DCF intensity of the RBCs treated with C-Mn3O4 NPs is significantly lower than the control RBCs treated with normal saline (Figure c)
+ Following the method described above we found that (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    the redox buffering capacity of C-Mn3O4 NPs (
+46 units) when integrated in erythrocytes is significantly higher (~
+9 times) compared to the intrinsic cellular components (
+24 units) (Figure d)
+ It has to be noted that the redox buffering capacity of the C-Mn3O4 NPs in cellular system is considerably higher compared to in vitro aqueous system
+ This may be due to the additional (i
+ e
+, other than direct antioxidant activity) GPx mimicking activity of the C-Mn3O4 NPs [18] which can only happen in presence of GSH, and intracellular metabolite
+ Redox buffering requires sensing and rapid adjustment in the redox environment to maintain the oxidative eustress in cells
+ Cumulative data obtained from the experiments (both in-vitro and in-cellulo) suggest that C-Mn3O4 NPs can sense and swiftly shift the redox state in the favour of oxidative eustress
+ This behaviour of C-Mn3O4 NPs as a redox modulator is consistent with that of pH buffers
+ pH buffers adjust the pH of the solution by sensing the concentration of H+ ions present
+ Similarly, C-Mn3O4 NPs perceive the amount of ROS in the medium and change its redox state accordingly
+ Also, it has been shown that a significant change in the concentration of C-Mn3O4 NPs in the solution can cause a change in the redox Previous studies suggest that for maintaining the oxidative eustress, C-Mn3O4 NPs generate comproportionation of the surface Mn2+/Mn3+/Mn4+ ions present at the spinel structure []
+ Electrons, produced from this process of conversion of Mn2+ Mn3+ Mn4+, react with the dissolved O2 and H2O of the medium and produce ROS
+ The ROS produced in this process is simultaneously neutralized by the conversion of Mn4+ Mn3+ Mn2+, i
+ e
+ the opposite pathway [17, 19, ]
+ Therefore, when the cells stay at oxidative eustress condition, a dynamic equilibrium is maintained between the generation and elimination of ROS by C-Mn3O4 NPs
+ However, in many instances, the ROS level in the cells decreases resulting into immune suppression
+ During this condition the ROS generated by C-Mn3O4 NPs can take part in the cellular signalling process and maintain the normal cell functions
+ On the other hand, in oxidative distress conditions, the scenario becomes more complicated
+ The C-Mn3O4 NPs can follow numerous buffering strategies to mitigate the oxidative distress
+ Besides quenching of ROS through the conversion of Mn2+/Mn3+/Mn4+, another likely strategy is that, in ROS excess medium, NPs act as a cofactor to some antioxidant enzymes and directly help (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    intracellular anti-oxidant defence system [17, 20, ]
+ Furthermore, the NPs can function as a GSH-dependent GPx mimic and scavenge excess ROS being incorporated into the cellular The combined results suggest that the C-Mn3O4 NPs can efficiently function as a redox buffer in intracellular condition
+ The described redox titration method could be beneficial for comparing buffering capacity, as a marker of cyto-compatibility of different nanomaterials Next we evaluated chronic toxicity of C-Mn3O4 NPs in animal model
+ With all newly developed nanoparticles, the potential for toxicity remains a factor in determining their NPs are administered in vivo, the most important physiological system they interact with is the blood and blood components
+ Then, if cleared by immune cells, they leave away from the bloodstream and reach the target organ []
+ Thus, it is important to measure the hemocompatibility of the NPs targeted for therapeutic use
+ We performed the hemolysis assay for evaluation of the hemolytic behaviors of C-Mn3O4 NPs on isolated mouse erythrocytes
+ The erythrocytes were first isolated by centrifugation and purified by sequential washes with sterile isotonic phosphate-buffered saline (PBS) pH 
+4, then diluted to 5% hematocrit and incubated with different concentrations of NP suspensions (
+01, 
+05- or 
+1-ml ml-1 PBS)
+ The same amount of PBS was used as the negative control
+ An aqueous solution of RBCs was used as a positive control that is likely to show hemolysis
+ After 6 hrs incubation at room temperature, the samples were spun down to check the extent of hemolysis
+ Considering the hemolytic ability of positive control (water) as 100%, all the NP treated samples showed negligible (<5%) hemolysis (Figure 3a and b)
+ Corresponding absorbance spectra (with the supernatant after final centrifugation) showed the optical features of C-Mn3O4 NPs (Figure 3c) with ligand to metal charge transfer band at 300 nm and d-d transition bands at 429, 526 nm
+ Only the positive control sample showed a distinct absorbance signature of hemoglobin with the Sorret band at 420 nm and Q-bands at 546 and 576 nm (Figure c)
+ The scanning electron micrographs (SEM) (Figure 3e) of erythrocytes and Leishman stained whole blood smears supported the same (Figure f)
+ The cell membrane remained unaltered after particle (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    interaction, and the erythrocytes maintained normal biconcave shape just like control ones (Figure 3e & f)
+ To study the in vivo effect of C-Mn3O4 NPs on blood, different hematology and serum biochemical indicators were measured after 90-days administration of the particles
+ All hematology marker values were within normal ranges and did not indicate a trend of toxicity associated with NPs (Supplementary Table S)
+ We further went on to assay ALAD activity, an important enzyme in the hematopoietic pathway which usually gets downregulated in cases of metal toxicity, particularly due to exposure of heavy metals like lead, mercury, etc
+ [23] However, we found no change in the activity of ALAD (Figure d)
+ The hematoxylin and eosin stained spleen showed no abnormality (Figure g)
+ These results High dose of C-Mn3O4 NPs cause mild oxidative damage to liver
+ The results of biodistribution (Supplementary Figure S1) study suggest the affinity of C-Mn3O4 NPs towards the liver
+ The gross morphology (Figure 4a) and relative liver weights do not reveal any toxic effect on the organ
+ But compared to control animals, 
+5 mg kg-1 BW NP-treated mice (not the other two groups of NP treated ones) displayed significantly higher 4b & 4c, p<
+001 in one way ANOVA)
+ A similar trend was observed in the case of alkaline phosphatase (ALP) and -glutamyl transferase (GT) activity (Figure 4d & 4e), however, bilirubin levels showed no significant differences among groups (Figure f)
+ The increased serum activity of transferases, normally confined within hepatic cells (not in serum), can be attributed to the damaged structural integrity of hepatocytes and subsequent release into the circulation
+ To know the real reason behind such elevated liver function parameters in the case of 
+5 mg kg-1 BW NP-treated mice we went of histological analysis
+ In vehicle control animals, liver sections showed normal hepatic cells with well-preserved cytoplasm, prominent nucleus and nucleolus, and central vein (Figure a)
+ They along with 
+1 and 
+25 mg kg-1 BW NP-treated livers displayed characteristic hepatic architecture with hepatic plates directed from the portal triads toward the central vein where they freely anastomose
+ Inflammatory cells were seen intervening the hepatic strands and surrounding degenerative hepatocytes (Figure a)
+ In addition, pericentral vein inflammation was also seen
+ Further histological (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    calcification were observed in the same group of mice (Figure a)
+ Thus, it is evident from the results of histopathological observations and liver function tests that C-Mn3O4 NPs at the highest administered dose (
+5 mg kg-1 BW) can cause moderate hepatic toxicity
+ Previously, we have demonstrated the NPs ability to generate reactive oxygen species (ROS) in aqueous solution
+ So, to understand the pathophysiological mechanism of observed toxicity, we (MDA) content, a byproduct of lipid peroxidation and also an index of oxidative damage, which was found to be high in 
+5 mg kg-1 BW NP-treated group (Figure i)
+ We further extended our investigation to the changes in activities of superoxide dismutase (SOD), catalase (CAT) and glutathione peroxidase (GPX) which creates a mutually supportive team to fight against increased ROS [17, ]
+ We found the downregulation of all the antioxidant enzyme activities in 
+5 mg kg-1 BW NP-treated mice compared to control (Figure j-l)
+ The mitochondrial markers of oxidative damage like mPTP opening, membrane potential, and ATP content followed same trend (Figure m-o)
+ Though previous studies have shown that, Mn3O4 NPs can display antioxidant enzyme mimetic (particularly SOD and CAT) activity in the cellular environment, the humongous amount of ROS instantaneously generated due to high local concentration of NPs cannot be quenched through that mechanism
+ It should be noted that at the therapeutic dose (
+25 mg kg-1 BW NPs) there is no evidence of oxidative Moderate to high dose of C-Mn3O4 NPs show mild to moderate inflammatory response in Sections of lung tissue from control and low dose C-Mn3O4 NP treated animals have the normal appearance of fine lace because most of the lung is composed of thin-walled alveoli (Figure a)
+ The alveoli are composed of a single layer of flattened epithelial cells and pneumocytes
+ Between the alveoli a thin layer of connective tissue and numerous capillaries are also lined with endothelium
+ However, the sections from moderate and high dose groups showed signs of nonspecific interstitial pneumonia in patchy manner other than normal lung architecture
+ The cellular pattern consists primarily of mild to moderate chronic interstitial inflammation, containing lymphocytes and a few plasma cells, in a uniform and patchy distribution
+ Signs of fibrosis, honeycombing, hyaline membranes and granulomas are absent
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    This kind of histological features may arise from the localization of particulate matters (as evident from our biodistribution study) in lungs []
+ This features are generally reversible and do not cause long term harm to the subjects []
+ Most of the drugs and xenobiotics pass through the kidney for excretion
+ But earlier studies have described that Mn cannot excrete through it
+ Our biodistribution results also revealed minimal deposition of Mn in the Kidney (Supplementary Figure S)
+ The histological analysis shows no damage and the normal structure of medulla and cortex was maintained in all four groups in spite of sexuality (Figure b)
+ Consistent with these findings other parameters like BUN, Creatinine, Urine Volume, Urine Protein and albumin to creatinine ratio remained Affinity of nanoparticles towards testes is contradictory
+ Several nanoparticles such as gold and magnetic nanoparticles have been reported to enter testes in small quantities, whereas carbon nanotubes behave oppositely []
+ Our biodistribution results indicate that C-Mn3O4 NPs could enter or accumulate in the testis
+ The average testis weight (Supplementary Figure S3a), and morphology (Figure 5c) of NP-treated mice did not show any significant difference compared to the control mice
+ The observed accumulation of C-Mn3O4 NPs in the testes upon chronic repeated dose administration have not shown any adverse effect on Sertoli cells, seminiferous tubules and germ cell nuclear volume (Supplementary Figure Sb-Sd)
+ Figure 5c presents hematoxylin and eosin stained cross-section structure of the testes of control and C-Mn3O4 NP treated mice
+ It is well known that within the seminiferous tubules, sperm cells are generated through differentiation of spermatozoa by meiosis
+ Microscopic images show normal testes structure for control mice (Figure c)
+ Histologic examination of the cross sections of testes from all three dose group showed no alteration even after 90 days of administration (Figure c)
+ Leydig cells or spermatids were similar in all groups
+ The sperm counts and sperm motility showed similar trends (Supplementary Figure Se-Sg)
+ We further microscopically observed eosin-Y stained sperms, and found slight deformity in 
+5 mg kg-1 BW NP treated group (Figure 5c-lower panel)
+ Appropriate levels of male sex hormones are (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    crucial for spermatogenesis
+ However, their functions can be affected by xenobiotics or inorganic heavy metals, can alter the levels of these hormones, causing injury to testes, fault disturbs the endocrine action of the male reproductive system by increasing the plasma testosterone levels in male rats
+ In this study, we determined the plasma concentrations of testosterone, LH and FSH on day 90 by enzyme-linked immunosorbent assay (ELISA)
+ The results (Supplementary Figure S3h-S3j) indicate that the NPs did not alter plasma sex Similar to male reproductive system, no observable sign of toxicity was found in case of female reproductive system
+ The haematoxylin and eosin stained sections of ovary from primary, pre-antral and antral follicles), corpora luteum, Graafian follicles and atretic follicles were found in the cortex of the ovary which was covered by a surface epithelium (Figure d)
+ The ovary of Mn3O4 NPs treated mice (at any dose) did not show any noticeable changes in histology such as formation of fibrosis or cyst
+ The total number of healthy follicles (all categories) remains same after chronic exposure of Mn3O4 NPs across three dose groups (Supplementary Figure Sb)
+ The mean number of corpora lutea in mice remained same in all groups
+ The estrus cycle was normal with typical distribution of diestrus, estrus, proestrus and metestrus stages (Supplementary Figure S3c & Sd)
+ The hormone levels showed no We further investigated the effect of C-Mn3O4 NPs on plasma glucose levels and its metabolism
+ Microscopic investigation of the pancreas, the major organ responsible for glucose homeostasis, both control, and NP-treated mice showed normal pancreatic tissue (Supplementary Figure Sa)
+ The islet of Langerhanss displayed islet cells arranged in trabecular and acinar pattern with abundant eosinophilic cytoplasm and central small nucleus, separated by thin loose connective tissue with thin vessels
+ Islets have their typical spherical shape with a large number of -cells with normal round shape distinct round nuclei
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    No significant change was observed across the groups for total cholesterol, triglyceride, LDL, HDL or VLDL (Supplementary Figure Sc-Sf)
+ Plasma glucose levels (12h fasting), HbA1c and serum insulin concentration remained similar to control animals (Supplementary Figure S5g & Se)
+2h glucose tolerance test showed indistinctive results among the groups with identical AUC (Supplementary Figure S5i & Sj)
+ Thus, the NPs neither affects glucose (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    In summary, the present study intends to highlight the efficient redox buffering capability of an exclusively developed C-Mn3O4 NPs
+ The chronic toxicity study implies its potential safety
+ Furthermore, our study can serve as a template to assess other redox modulatory nanotherapeutic agents
+ The method is easy, semi-quantitative and sustainable for robust use
+ To the best of our understanding this may open a new avenue in preliminary screening and The authors thank SAIF-IIT Bombay for ICP-AES measurements
+ MD thanks University Grants Commission (UGC), Govt
+ of India for Junior Research Fellowship
+ SKP thanks the Indian National Academy of Engineering (INAE) for the Abdul Kalam Technology Biotechnology (DBT, West Bengal) for the financial grant under BOOST scheme, All data that support the findings of this study are available within the published article (and supplementary information files)
+ Study related additional data will be available from SKP (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    DCFH a very popular chemical for quantification of ROS generation was prepared from protocol described in earlier studies []
+ ROS generated in the reaction medium reacted with DCFH and convert it to DCF which has a characteristic fluorescence emission maxima at 520 nm when excited at 488 nm
+ DCFH was allowed to react with increasing concentration of Ch-Mn3O4 NPs in aqueous medium and fluorescence was recorded using fluorolog, Model After isolation RBC were incubated with C-Mn3O4 NPs (
+4 g mlincubation cells were washed with PBS and treated with DCFH-DA probe for 30 minutes
+ At the end of this period the excess amount of DCFH-DA was thoroughly rinsed with PBS
+ Then cells were scraped and suspended in PBS
+ The cell suspensions was subjected to the All spectroscopic experiments were performed using quartz cuvette of path length 1 cm
+  Swiss albino mice of both sex (23 weeks, weighing 1215 g) were used for the current study
+ Four or five mice were housed together in polypropylene cage under a 12:12 light-dark cycle
+ During the time, food and water were accessible ad libitum
+ Mice were procured from National Institute of Nutrition, Hyderabad, India
+ All animal studies and experimental procedures were performed at animal house of Uluberia College, West Bengal, India (Reg
+ No
+- (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    At the end of the experimental period, the animals were euthanized and decapitated after being fasted
+ Blood was collected from retro orbital plexus just before sacrifice, kept in sterile non-heparinized tubes in slanting position for 45 min and centrifuged at 3500g for 20 min
+ The clear serum was obtained and used in subsequent biochemical analysis
+ Gold, Span Diagnostic Ltd
+, India) following the protocol described by respective the European standardized method []
+ Complete blood count (CBC) was obtained using an automated cell counter (Medonic CA 620, Boule Diagnostics, Sweden)
+ Hormones were estimated using commercially available ELISA kits following the protocol described by Tissue samples were collected, homogenized in cold phosphate buffer (
+1 M; pH 
+4), and centrifuged at 10,000 r
+ p
+ m
+ at 4C for 15 min
+ The supernatants were collected and used to determine the activity of SOD, CAT, GPx and GSH as well as the content of malondialdehyde (MDA) as marker of lipid peroxidation
+ Lipid peroxidation was determined in TBARS formation using a reported procedure [28, ]
+ SOD (Sigma, MO, USA), CAT (Abcam, Germany), and GPx activities (Sigma, MO, USA) were estimated using For microscopic evaluation, a conventional technique of paraffin wax sectioning and differential staining was used []
+ Organs were removed following incision, fixed in 10% neutral buffered formalin saline for 72 h, dehydrated in graduated ethanol (50100%), cleared in xylene, and embedded in paraffin
+ Microtome was used to prepare ultrathin sections (45 m), followed by staining with hematoxylin and eosin (H&E)
+ Histopathological changes were examined under the microscope (Olympus BX51) equipped with a CCD based camera
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    ICP-AES (ARCOS, SPECTRO Analytical Instruments GmbH, Germany) was carried out to determine the amount of Mn in blood and other organs like liver, kidney, spleen and, brain
+ The open acid digestion method was used for sample preparation
+ In brief, tissues were dried using liquid nitrogen and weighted
+ The freeze-dried samples were dissolved in an acid mixture that contained HNO3 (3 ml), H2SO4 (2 ml), and H2O2 (1 ml), heated at 120C until only a residue remained, and then diluted with deionized water to 10 ml
+ All quantitative data are expressed as MeanSD unless otherwise stated
+ One-way analysis of variance (ANOVA) followed by Tukeys multiple comparison test was executed for comparison of different parameters between the groups using a computer program GraphPad Prism (version 
+00 for Windows), GraphPad Software (CA, USA)
+ p<
+05 was considered (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    
+ Stone V, Donaldson K: Signs of stress
+ Nature Nanotechnology 2006, ():-
+ 
+ Wang S, Li F, Hu X, Lv M, Fan C, Ling D: Tuning the Intrinsic Nanotoxicity in 
+ Xia T, Kovochich M, Brant J, Hotze M, Sempf J, Oberley T, Sioutas C, Yeh JI, Wiesner MR, Nel AE: Comparison of the Abilities of Ambient and Manufactured 
+ Nel A, Xia T, Mdler L, Li N: Toxic Potential of Materials at the Nanolevel
+ Science 
+ Yang B, Chen Y, Shi J: Reactive Oxygen Species (ROS)-Based Nanomedicine
+ 
+ Winterbourn CC: Reconciling the chemistry and biology of reactive oxygen species
+ 
+ Wang Z, Zhang Y, Ju E, Liu Z, Cao F, Chen Z, Ren J, Qu X: Biomimetic 
+ Trachootham D, Alexandre J, Huang P: Targeting cancer cells by ROS-mediated 
+ Sies H, Jones DP: Reactive oxygen species (ROS) as pleiotropic physiological 
+ Sims CM, Hanna SK, Heller DA, Horoszko CP, Johnson ME, Montoro Bustos AR, 
+ Nathan C, Cunningham-Bussel A: Beyond oxidative stress: an immunologist's guide 
+ Martinovich GG, Martinovich IV, Cherenkevich SN, Sauer H: Redox Buffer Capacity of the Cell: Theoretical and Experimental Approach
+ Cell Biochemistry and 
+ Morgan B, Ezeria D, Amoako TNE, Riemer J, Seedorf M, Dick TP: Multiple 
+ Martinovich GG, Cherenkevich SN, Sauer H: Intracellular redox state: towards (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    
+ Giri A, Goswami N, Sasmal C, Polley N, Majumdar D, Sarkar S, Bandyopadhyay SN, Singha A, Pal SK: Unprecedented catalytic activity of Mn3O4 nanoparticles: 
+ Adhikari A, Biswas P, Mondal S, Das M, Darbar S, Hameed AM, Alharbi A, Ahmed SA, Sankar Bhattacharya S, Pal D et al: A Smart Nanotherapeutic Agent for in vitro 
+ Adhikari A, Polley N, Darbar S, Bagchi D, Pal SK: Citrate functionalized Mn3O4 in nanotherapy of hepatic fibrosis by oral administration
+ Future Science OA 2016, 
+ Adhikari A, Mondal S, Das M, Biswas P, Pal U, Darbar S, Bhattacharya SS, Pal D, Saha-Dasgupta T, Das AK et al: Incorporation of a Biocompatible Nanozyme in 
+ Horsburgh MJ, Wharton SJ, Karavolos M, Foster SJ: Manganese: elemental defence 
+ Takashima T, Hashimoto K, Nakamura R: Inhibition of Charge Disproportionation 
+ Adhikari A, Das M, Mondal S, Darbar S, Das AK, Bhattacharya SS, Pal D, Pal SK: 
+ Huang X, Li L, Liu T, Hao N, Liu H, Chen D, Tang F: The Shape Effect of 
+ Adhikari A, Darbar S, Chatterjee T, Das M, Polley N, Bhattacharyya M, Bhattacharya S, Pal D, Pal SK: Spectroscopic Studies on Dual Role of Natural Flavonoids in 
+ Adhikari A, Polley N, Darbar S, Pal SK: Therapeutic Potential of Surface 
+ Kumar V, Abbas AK, Fausto N, Aster JC: Robbins and Cotran pathologic basis of 
+ Bai Y, Zhang Y, Zhang J, Mu Q, Zhang W, Butch ER, Snyder SE, Yan B: Repeated administrations of carbon nanotubes in male mice cause reversible testis damage (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    
+ Moore K, Roberts LJ: Measurement of Lipid Peroxidation
+ Free Radic Res 1998, 
+ Garcia YJ, Rodrguez-Malaver AJ, Pealoza N: Lipid Peroxidation Measurement by Thiobarbituric Acid Assay in Rat Cerebellar Slices
+ J Neurosci Methods 2005, 
+ Polley N, Saha S, Adhikari A, Banerjee S, Darbar S, Das S, Pal SK: Safe and (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Figure 
+ Properties of citrate-Mn3O4 nanoparticles (C-Mn3O4 NPs)
+ (a) Transmission electron microscopic (TEM) images of C-Mn3O4 NPs
+ (b) The particle size distribution of the NPs with average size of 
+ 
+41 nm
+ (c) High resolution TEM (HR-TEM) of single NP shows the interplanar distance of 
+312 nm for 112 planes of C-Mn3O4 NPs
+ (d) Hydrodynamic diameter of C-Mn3O4 NPs as (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Figure 
+ Redox buffering capacity of C-Mn3O4 NPs
+ (a) Rate of DCFH oxidation in presence of HO
+ (b) Double reciprocal plot of the same
+ (c) Rate of DCFH oxidation in presence of H2O2 in (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Figure 
+ Effect of C-Mn3O4 NPs on haematological system
+ (a) Visual inspection of the tubes containing RBC after exposure to NPs
+ No visible haemolytic behaviour was observed for NPs, water was used as positive control and PBs as negative control
+ The bar plot shows percentage of haemolysis induced by C-Mn3O4 NPs
+ (c) UV-vis absorbance spectra of the supernatant
+ (d) ALAD activity
+ (e) Scanning electron micrographs of the RBCs incubated with C-Mn3O4 NPs shows no visible damage to the membrane or morphology
+ (f) Leishman stained whole blood from the BALB/c mice treated with different doses of NPs for 90 days
+ (g) H&E stained spleen sections after 90 days oral All data represented as Mean  Standard Deviation (SD)
+ N=6 for each measurement
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Figure 
+ Effect of C-Mn3O4 NPs on hepatic function after chronic administration
+ (a) Morphology of the liver and H&E stained liver sections
+ (b-g) Effect on liver function parameters show chronic administration of high dose of NPs can cause damage hepatic cells
+ However, the therapeutic dose has no detrimental effect
+ (i-l) Assessment of cellular antioxidant enzymes revealed the damage to be ROS mediated
+ (m-o) Effect of the NPs on mitochondria reveals membrane depolarization along with increased MPTP which in turn increase cellular apoptosis through release of cytochrome c
+ All data represented as Mean  Standard Deviation (SD)
+ N=6 for each measurement
+  (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Figure 
+ Hematoxylin and eosin stained tissue sections from different groups
+ (a) Lungs
+ (b) Kidney
+ Inset shows morphology of kidney and Bowmans capsule
+ (c) Testes
+ Inset shows morphology of testes
+ Lower pannel shows morphology of sperm from respective groups
+ (d) Ovary
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    

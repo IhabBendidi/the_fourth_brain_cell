@@ -1,0 +1,483 @@
+radiotherapy on body composit ion: III 
+  An interim 2 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    Background: Ketogenic therapy (KT) in the form of ketogenic diets (KDs) and/or supplements that 17 induce nutritional ketosis have gained interest as a complementary treatment for cancer patients
+ 18 Besides putative anti-tumor effects, preclinical and preliminary clinical data indicate that KT could 19 induce favorable changes in body composition of the tumor bearing host
+ Here we present first 20 results of our ongoing KETOCOMP study (NCT02516501) study concerning body composition changes 21 among rectal, breast and head & neck cancer (HNC) patients who underwent concurrent KT during 22 Methods: Eligible patients were assigned to one of three groups: (i) a standard diet group; (ii) a 24 ketogenic breakfast group taking 50-250 ml of a medium-chain triglyceride (MCT) drink plus 10 g 25 essential amino acids in the morning of RT days; (iii) a complete KD group supplemented with 10 g 26 essential amino acids on RT days
+ Body composition was to be measured prior to and weekly during 27 RT using 8-electrode bioimpedance analysis
+ Longitudinal data were analyzed using mixed effects 28 Results: A total of 17 patients underwent KT during RT thus far (rectal cancer: n=6; HNC: n=6; breast 30 cancer: n=)
+ All patients consuming a KD (n=14) reached nutritional ketosis and finished the study 31 protocol with only minor problems reported
+ Compared to control subjects, the ketogenic 32 intervention in rectal and breast cancer patients was significantly associated with a decline in fat 33 mass over time (
+3 and 
+5 kg/week, respectively), with no significant changes in skeletal muscle 34 mass
+ In HNC patients, concurrent chemotherapy was the strongest predictor of body weight, fat free 35 and skeletal muscle mass decline during radiotherapy, while KT showed significant opposite 36 associations
+ Rectal cancer patients who underwent KT during neoadjuvant RT had significantly 37 better tumor response at the time of surgery as assessed by the Dworak regression grade (median 3 38 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    Conclusions: While sample sizes are still small our results already indicate some significant favorable 40 effects of KT on body composition
+ These as well as a putative radiosensitizing effect on rectal tumor 41 cells need to be confirmed once the final analysis of our study becomes possible
+ 42 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    bioimpedance analysis; breast cancer; head and neck cancer; ketogenic diet; amino acids; rectal 45 Cancer patients frequently seek additional possibilities to support their standard therapies, improve 48 their quality of life and positively influence their outcomes
+ One such supportive treatment approach 49 is ketogenic therapy (KT) which comprises dietary interventions leading to nutritional ketosis such as 50 ketogenic diets (KDs), short-term fasting and ketone body supplementation []
+ Nutritional ketosis 51 is a physiological state, usually defined as -hydroxybutyrate (BHB) concentrations exceeding 
+5 52 mmol/l []
+ Ketogenic therapy for cancer patients is an emerging research topic, paralleled by an 53 increasing interest on behalf of patients
+ For example, a survey among high grade glioma patients 54 revealed that almost three quarters (73%) of patients would be willing to try a KD for three months 55 and 66% would participate in a clinical trial investigating the effectiveness of the KD []
+ 56 In a variety of preclinical tumor models, ketogenic therapy has shown beneficial effects, including 57 efficacy against tumor growth and a positive impact on body composition, although some counter-58 examples showing no or even tumor-promoting effects of KDs or ketone bodies exist []
+ These 59 contrasting findings concerning the efficacy of ketogenic therapy against tumor growth are most 60 likely explained by the metabolic phenotype of the particular tumor treated []
+ However, a 61 growing number of studies reveal synergistic effects of ketogenic therapy with other therapies 62 inducing oxidative stress in tumor cells such as radiotherapy (RT), chemotherapy or hyperbaric 63 oxygen [,,]
+ In addition, mechanistic studies provide evidence for muscle-sparing effects of 64 ketone bodies, especially under conditions of insulin resistance often encountered in cancer patients
+ 65 This makes sense from an evolutionary perspective, given that ketosis during starvation periods 66 could have helped to maintain muscle mass which is indispensable for hunting and gathering foods
+ 67 Despite the growing number of preclinical in vitro and in vivo studies, research on the effects of 68 ketogenic therapy in humans is still limited to small pilot studies and case reports []
+ In an initial 69 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    case series of patients undertaking a KD during RT in our clinic we found some evidence that the diet 70 could induce beneficial effects on body composition and quality of life []
+ This lead to the initiation 71 of a clinical phase I study with the main aim to investigate the impact of a KD intervention on body 72 composition in cancer patients undergoing RT (the KETOCOMP study, ClinicalTrials
+gov Identifier: 73 NCT02516501) []
+ Here we report an interim analysis of in total 63 patients who were either 74 enrolled in the KETOCOMP study or followed a very similar protocol prior to study initiation
+ While 75 the study is ongoing, these results are useful for providing first insights into the feasibility and effects 76 The KETOCOMP study has been approved by the ethics committee of the Bavarian Medical 80 NCT
+ The detailed study protocol has been published previously []
+ Briefly, patients 82 between 18 and 75 years with rectal, breast or head and neck cancer (HNC) referred to our clinic for 83 curative RT were principally eligible for participating
+ Exclusion criteria were body mass index <18 or 84 , Karnofsky index <70, pregnancy, metallic body parts that interfere with bioimpedance 85 analysis (BIA), type I diabetes, known enzyme defects that contradict a KD and renal insufficiency
+ 86 Patients were assigned to one of three groups: (i) a standard diet group; (ii) a ketogenic breakfast 87 group taking 50-250 ml of a medium-chain triglyceride (MCT) drink (betaquick, vitaflo, Bad 88 Homburg, Germany) plus 10 g essential amino acids (MyAmino, dr
+ reinwald healthcare gmbh & co 89 kg, Altdorf, Germany) in the morning of RT days; (iii) a complete ketogenic diet group supplemented 90 with 10 g essential amino acids on RT days
+ The composition of the MCT drink and amino acid 91 Body composition was supposed to be measured prior to and weekly during RT using the seca mBCA 93 scale (seca Deutschland, Hamburg, Germany)
+ Based on body weight (BW), height, age, gender and 5 94 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    kHz und 50 kHz resistance and reactance values, the scale estimates fat free mass (FFM), 95 extracellular water and total body water and  using 50 kHz values only  skeletal muscle mass 96 (SMM) [,]
+ Fat mass (FM) was calculated as FM=BWFFM
+ In order to standardize each 97 measurement, patients were advised to fast overnight, not to drink in the morning and to void their 98 bladder; their RT appointments were accordingly scheduled in the morning so that they could receive 99 radiotherapy after BIA and weighing
+ On three occasions, blood samples were supposed to be 100 collected with the patient still in fasting state immediately following BIA: once prior to, once in the 101 middle of and once in the last week of RT
+ 102 As a proxy for measuring possible synergistic effects between ketogenic therapy and RT, we used the 103 Dworak regression grade [20] at the time of surgery in rectal cancer patients treated with 104 neoadjuvant chemo-RT
+ The Dworak grade ranges from 0 to 4, with 0 indicating no response and 4 105 In most cases, ketogenic interventions were started following baseline measurements prior to the 108 first RT fraction and lasted until the final week of RT
+ Patients in the KETOCOMP study received a 109 popular book on the KD for cancer patients [21], handouts with brief descriptions which foods to 110 consume and which to avoid, urinary ketone strips for self-assessment of ketosis, and they had the 111 opportunity to speak to our dietician
+ The consumption of a whole food KD was promoted, with 112 emphasis on high-quality protein (meat, eggs and fish), micronutrient-dense foods (vegetables to 113 every meal, organ meats and bone broth), and avoidance of industrial and processed foods (with the 114 exception of MCT oil) as well as vegetable oils (except virgin coconut and olive oil) and foods rich in 115 anti-nutrients (grains and legumes)
+ Dairy products were suggested in moderation and preferably in 116 the form of butter, cheese and fermented products
+ Due to the theoretically high micronutrient 117 density and the brief duration of the KD, no additional supplements were advised
+ Patients in the 118 ketogenic breakfast group were informed about the nature of a ketogenic diet and advised to avoid 119 sugar and processed carbohydrates
+ They were instructed to receive each RT fasted and then 120 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    consume the breakfast which they received by the technical staff
+ For the rest of the day, they could 121 eat and drink ad libitum
+ Patients in the control group received no dietary advice, but were also free 122 to receive dietary counseling, in which case they obtained the official recommendations of the 123 German Society for Nutrition (DGE)
+ Besides diet, all patients were advised to maintain their habitual 124 A list of patients included in this analysis is given in Supplementary Table 2, and from now on 127 individual patients will be referred to by their number given in that table
+ In order to increase patient 128 number and therefore modeling accuracy, a total of five patients undertaking a KD during RT prior to 129 the KETOCOMP study initiation were included in this analysis since they received the same weekly 130 BIA measurements as the KETOCOMP participants; four of these patients are described in more 131 detail in a previous publication []
+ We also included one HNC patient who wished to participate in 132 the KD group of the study despite having a metallic knee implant and included her data in the 133 analysis of body weight changes
+ Due to the small number of patients recruited for the ketogenic 134 breakfast group to date, patients receiving a ketogenic breakfast and those on a complete ketogenic 135 diet were grouped together into a single Ketogenic therapy (KT) group
+ 136 Longitudinal body composition data were analyzed using linear mixed effects models with the 138 intercept and slope for time since start of RT as random effects depending on the individual patient
+ 139 Time, intervention group (0=control/1=ketogenic), their interaction and the corresponding baseline 140 body composition measure were included into each model
+ In addition, the following covariates were 141 included based on their possible influence on body composition:  Age, gender, baseline BMI, 142 irradiated volume (planning target volume), and, for HNC patients, chemotherapy (0=no/1=yes) and 143 PEG use in the timeframe prior to a particular measurement
+ For HNC patients, a time  144 chemotherapy and time  PEG use interaction were included if Akaikes information criterion 145 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    indicated an improvement in model fit
+ To ease interpretability of the regression coefficients, prior to 146 model fitting, the covariates age and BMI were scaled to have mean zero and standard deviation 10 147 Differences between continuous and categorical variables were assessed using the Wilcoxon rank 149 sum and Fishers exact test, respectively
+ All analysis was carried out in R, version 
+ 
+1 with the 150 Patient characteristics at baseline are given in Table 
+ The KT and control groups were comparable 154 with respect to most variables except for significantly lower BMI in the rectal and HNC intervention 155 groups and higher fasting blood glucose levels in the rectal cancer control group
+ Minor deviations 156 from the study protocol were the inclusion of a 76 year old rectal cancer patient and three breast 157 baseline measurements after RT had already started, but all within the first week of RT
+ The median 159 study duration was 35 (KT) versus 37 (control) days (p=
+118) in breast cancer patients, 41 versus 43 160 days (p=
+9669) in HNC patients and 39 versus 34 days in rectal cancer patients (p=
+ )
+ 161 A total of 14 patients had undertaken a KD during RT: five rectal cancer, four HNC and five breast 164 cancer patients (Supplementary Table )
+ All of them exhibited nutritional ketosis with at least one 165 finger prick or laboratory BHB concentration measurement reading >
+5 mmol/l
+ Median BHB 166 concentrations during the KD were 
+6 (range 
+ -
+15) mmol/l, significantly higher than baseline 167 maintained compliance until the final measurement which marked the end of the study, except for 169 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    one patient (#4 in Supplementary Table 2) who interrupted the diet for a few days due to aversion 170 against fatty foods (especially the taste of coconut oil)
+ Most patients also received 10 g of the 171 essential amino acid supplement on radiation days which was tolerated by all but one who ingested 172 the amino acids dissolved in water via a PEG tube (patient #)
+ 173 So far, two patients maintained the maximum MCT dose during RT: Patient #7 revealed BHB 175 concentrations of 
+1 mmol/l one hour after ingesting 50 g MCT fat, and patient #35 had 
+7 mmol/l 176 ketosis 45 min after ingesting 45 g MCT fat
+ The lower maximum dose in the latter patient was due to 177 a new packaging of the betaquick drink which reduced the volume of one container from 250 ml to 178 225 ml
+ One head and neck cancer patient (#33) had to reduce the MCT dose after reaching the 179 maximum dose due to gastrointestinal problems and continued with about 20 g MCT fat per day 180 which he took at home since he preferred a calm environment
+ He continued the study protocol with 181 the amino acid supplement, added a ketogenic formula drink (KetoDrink, Tavarlin, Darmstadt, 182 Germany) and additionally fasted a minimum of 16 h prior to each chemotherapy cycle
+ His median 183 fasting BHB concentration during RT was 
+6 (
+ -
+82) mmol/l, and he accordingly was classified 184 into the KT group
+ Two patients (#6 and #34) showed poor compliance to the ketogenic breakfast 185 protocol in general and specifically complained about the taste of the amino acid supplement and 186 gastrointestinal problems after consuming the MCT drink; they dropped out of the study early and 187 On average, 7 BIA measurements were performed per patient (range -)
+ Figure 1 shows linear 190 regression lines for each patient stratified according to intervention group and tumor entity
+ Visually 191 it appears that linear regression against time gives an adequate fit to the data; indeed, including a 192 component into the body composition models did not yield better fits as judged by 193 the AIC
+ In fitting all the data for each tumor entity together, we found mixed effects models with 194 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    varying slope and intercept superior to varying intercept only or fixed effects models as judged by 195 both the AIC and maximum likelihood ratio test (results not shown)
+ The results are given in Tables 2-196 In rectal cancer patients, those in the KT group lost significantly more BW between the first and the 199 final measurement than those in the control group (BW=
+05 kg versus 
+4 kg, p=
+ )
+ There 200 was also a trend for a greater reduction in FM in the KT group (FM= 
+7 kg versus 
+6 kg, 201 p=
+ )
+ Changes in FFM, SSM and phase angle between first and final measurement were not 202 In linear regression analysis, KT was associated with a gradual loss of 
+2 kg BW and 
+3 kg FM per 204 week, the latter association being significant (p=
+ )
+ No further significant associations with 205 Most HNC patients tended to lose some BW over the course of RT
+ Average weight loss was 
+ 
+3 208 kg in all patients and significantly greater in patients having received concurrent chemotherapy 209 (
+ 
+9 kg versus 
+ 
+8 kg, p=
+ )
+ Among patients having received chemotherapy, those 210 in the KT group experienced significantly less weight loss than those in the control group (
+ 
+7 kg 211 versus 
+ 
+7 kg, p=
+ )
+ In linear regression modeling, the strongest predictor of weight loss 212 was chemotherapy (
+2 kg/week), while KT was significantly associated with a weight gain of 
+8 213 kg/per week (Table )
+ Chemotherapy was further strongly associated with gradual decreases in FFM, 214 FM, SMM and phase angle, while KT had the opposite effect
+ In particular, KT significantly predicted 215 for retention of FFM and SMM
+ Incorporation of a time  PEG use interaction did not improve the 216 model fits except for phase angle where it was, however, not a significant predictor
+  217 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    All breast cancer patients in the KT group lost adipose mass between the first and the final 219 measurement (median FM=
+0 kg, range 
+ -
+2 kg) while there was basically no change in the 220 control group control group (median FM=
+07 kg, range 
+ -
+4 kg, p=
+003108 compared to the 221 KT group)
+ There was also a trend for greater BW loss in the KT group (BW=
+1 kg versus 
+3 kg, 222 p=
+ )
+ Changes in FFM, SMM or phase angle between the first and final measurement were not 223 In linear regression analysis, KT was associated with significantly greater gradual BW (
+3 kg/week, 225 significant gradual decline in phase angle of 
+05/week in the KT group, KT itself was associated with 227 a 
+16 higher phase angle compared to the control group
+ The strongest predictor of phase angle 228 was baseline BMI which indicated a 
+3 higher phase angle for every 10 kg/mAmong the rectal cancer patients receiving neoadjuvant radio-chemotherapy (n=5 in the KT group, 231 19 in the control group), the median Dworak regression grade at the time of surgery was 3 (2-3) in 232 the KT group compared to 2 (1-4) in the control group (p=
+04483), possibly indicating a better tumor 233 response to RT
+ Patient #2 who was on a KD during RT refused surgery so that no Dworak grading 234 was performed; he continued with the KD after RT and was progression-free at the last follow-up at 235 In this interim analysis of the ongoing KETOCOMP study, we investigated the effect of a ketogenic 238 intervention  either a KD or a ketogenic breakfast containing highly bioavailable amino acids and 239 ketogenic MCT fat  on body composition changes during RT
+ The majority of patients consumed a 240 whole KD during the course of RT with no dropout
+ This is in stark contrast to some previous studies, 241 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    especially the KETOLUNG and KETOPAN studies in which 50% of patients did not tolerate a highly 242 artificial KD containing only 8% energy from protein during RT []
+ We think the fact that our 243 patients had early tumor stages, were intrinsically highly motivated and advised to eat a diet based 244 on natural foods could have contributed to the good compliance
+ Our preliminary results indicate 245 beneficial effects in terms of FFM and SMM retention in HNC patients and FM reduction in breast 246 and rectal cancer patients
+ For rectal cancer, there was an indication of better tumor response to RT 247 under the ketogenic intervention as assessed by the Dworak regression grade at surgery, although 248 this result should be seen as preliminary due to the small number of patients
+ 249 It is increasingly recognized that BW per se is a poor indicator of nutritional status and health
+ BIA 250 allows for an inexpensive, non-invasive tracking of body composition which has much more 251 prognostic value since it is able to predict FFM, SMM and hydration status
+ By directly measuring the 252 electrical properties of body tissues, BIA also provides additional clues about the nutritional status on 253 the cellular level
+ For example, De Luis et al showed that HNC patients were characterized by lower 254 reactance and phase angle than healthy control subjects despite normal weight and BMI and even 255 without prior  weight loss []
+ On the metabolic side, these signs of cellular malnutrition manifest 256 themselves as insulin resistance with increased lipid oxidation and impaired glucose tolerance [24257 ]
+ Hence, it has been argued that high fat diets with an appropriate supply of amino acids provide 258 the best metabolic support for the cancer patient while minimizing tumor growth promoting stimuli 259 BIA is further useful to detect sarcopenia and sarcopenic obesity which are not straightforward to 261 detect with standard anthropometric assessments, yet can have significant adverse consequences in 262 terms of treatment tolerability and overall survival []
+ HNC patients represent a particularly frail 263 population in this respect as they frequently develop sarcopenia during treatment which has been 264 associated with poor quality of life and low physical performance status [31] and occurs even under 265 recommended energy and protein intake []
+ FFM loss can account for 60-70% of total weight loss 266 in these patients and has been correlated to increased inflammatory cytokine and C-reactive protein 267 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    levels [,]
+ It is therefore encouraging that our KT regime was associated with a significant 268 retention of body weight, FFM and SMM during RT, directly opposing the effect of concurrent 269 chemotherapy
+ Among weight losing HNC patients in our cohort (irrespective of concurrent 270 chemotherapy) FFM accounted for 
+2% (
+ -
+1%) of body weight loss in the KT group and 
+7 271 (
+ -
+5%) in the control group (p=
+ )
+ If this gets confirmed with a larger number of patients 272 it would support the hypothesis that ketosis with adequate high quality protein intake would protect 273 In rats, ketosis has been shown to inhibit oxidation of the branched amino acids [34] and decrease 275 the release of the gluconeogenic amino acid alanine []
+ Consistently, Sherwin et al measured 276 decreased nitrogen excretion and hypoalaninemia in fasting men upon BHB infusion while most 277 other amino acid concentrations remained stable []
+ However, Phinney et al detected significantly 278 elevated branched chain amino acid levels in trained cyclists during a 4-week KD []
+ Thus, in theory, 279 nutritional ketosis could attenuate muscle protein catabolism while maintaining the availability of all 280 amino acid precursors for muscle protein synthesis, leading to a net gain or at least maintenance of 281 SMM despite lower insulin levels
+ Since it is availability of all essential amino acids that primarily 282 drives muscle protein synthesis [38], the additional consumption of 10 g essential amino acids on 283 radiation days could theoretically have further contributed to the attenuation of SMM loss in the 284 In rectal and breast cancer patients, FFM and SMM appeared to be maintained irrespective of the 286 treatment group, although there was a significant association of KT with a gradual increase of FFM in 287 breast cancer patients (Table )
+ However, there was a significant correlation of KT with a gradual 288 decline of FM in both patient populations and pronounced in breast cancer patients
+ This implies that 289 KT would have increased the FFM-to-FM ratio in our patients, similar to our previous findings []
+ 290 These findings are consistent with studies conducted in exercising individuals where short-term KDs 291 resulted in FM loss while maintaining lean mass and performance []
+ Since most of our subjects 292 did not exercise, a contribution of exercise-stimulated muscle protein synthesis can be ruled out as 293 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    an explanation for the observed maintenance of SMM, and again the anti-catabolic effects of ketosis 294 and/or anabolic effects of the supplemented essential amino acids may have contributed to the 295 maintenance of SMM despite lower insulin levels and weight loss
+  296 The reduction of FM can be rated as beneficial since adipose tissue has a putative role in promoting 297 growth and survival of colorectal and breast cancer cells [44,45] and, accordingly, obesity has been 298 found to be correlated with worse clinical outcomes in these patients []
+ Unfortunately, most 299 breast cancer patients experience weight gain during therapy [49,50], and low carbohydrate diets 300 have been proposed as an optimal countermeasure since they reduce insulin und blood glucose 301 spikes, decrease adipose tissue, increase HDL cholesterol and decrease triglycerides and 302 Further benefits of ketogenic diets have been found in preclinical studies in terms of direct anti-304 tumor effects that selectively sensitize tumor cells to radio- and chemotherapy [,]
+ While our 305 data do not allow us to assess the putative anti-tumor effects of KT in terms of progression-free and 306 overall survival, it is interesting that the rectal cancer patients undergoing KT had a significantly 307 higher grade of tumor regression at the time of surgery than the control patients
+ However, because 308 only five patients in the KT group received surgery, we interpret this result with caution until more 309 data become available as the study proceeds
+ Nevertheless, our data would be consistent with anti-310 tumor effects of MCT-rich KDs in colon cancer animal models [5254] while providing evidence 311 against the hypothesis that ketone bodies could fuel rectal tumor growth as appears to be the case 312 in a limited number of other animal studies [,]
+ Quite generally, the majority of animal studies 313 thus far supports the hypothesis of anti-tumor effects of a KD []
+ Data supporting an anti-tumor 314 action of KDs in patients with cancer of the colon or rectum are also emerging, including a case 315 report of a rectal cancer patient on a paleolithic KD with 24 months follow-up [55] and a controlled 316 clinical trial from Japan involving ten stage IV colon cancer patients treated with concurrent 317 chemotherapy and a MCT-based KD for one year []
+  It is also interesting that Kato et al [57] 318 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    associated a KD-like eating pattern (defined as >40% energy from fat and <100 g/day glycemic load) 319 with a reduced cancer-specific death risk of rectal cancer patients treated with RT
+ 320 The small number of patients under a ketogenic regime for each tumor entity poses one of the 321 largest limitations of our results presented herein
+ However, with a median of 7 BIA measurements 322 per patient we have collected enough data points for building mixed effects linear regression models 323 with incorporation of several covariates with a putative influence on body composition
+ In the final 324 analysis it is planned to separately evaluate patients in the ketogenic breakfast group and those 325 Combining fully KD patients with those eating just a ketogenic breakfast into a single group poses 327 another limitation of this analysis
+ Besides increasing the sample size, we justify this approach based 328 on important similarities among both intervention groups including (i) the fact that at least a few 329 hours after RT, both patient groups would have been in nutritional ketosis, (ii) that most patients 330 from both groups took the same amount of the amino acid supplement, and (iii) that some of the 331 HNC patients receiving the ketogenic breakfast also received additional ketogenic drinks for 332 consumption at home
+ Unfortunately, it is not possible to separate the contributions of the amino 333 acid supplement and ketosis to the observed beneficial effects on body composition
+ Nevertheless, 334 we conceive the addition of crystalline essential amino acids to a KD regime as a good strategy to 335 increase muscle protein synthesis without the need to increase the amount of food proteins which 336 Finally, the validity of BIA for estimating body composition is limited by assumptions relating to body 338 shape
+ Comparing the estimates of our BIA device to those derived from Dual-energy X-ray 339 Absorptiometry and MRI, Bosy-Westphal et al calculated the coefficients of determination (Rthe FFM and SMM prediction equations as 
+98 and 
+97, respectively, and the root mean square 341 errors as only 
+9 kg and 
+2 kg, respectively [,]
+ Since we were mainly interested in changes of 342 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    body composition and not their exact absolute values, our conclusions are robust against any 343 systematic deviations from the true body composition values within individual patients
+ 344 In this preliminary analysis we observed beneficial effects of a ketogenic intervention during RT on 346 body composition: Rectal and especially breast cancer patients lost adipose tissue while preserving 347 lean body mass and HNC patients lost significantly less BW, FFM and SMM compared to the control 348 group
+ In addition, in five rectal cancer patients who combined KT and RT tumors had regressed more 349 at the time of surgery than in control patients, a finding that reached statistical significance despite 350 the small number of patients in the KT group
+ If the final data from the ongoing KETOCOMP study 351 confirm these early results, it would provide a justification for using KT alongside RT for patients who 352 Figure 1: Changes in body weight and fat free mass during radiotherapy, stratified according to tumor 355 We thank Sabine Chwola for helping with coordinating the patients measurement appointments
+ 358 RJK and RAS designed the study and collected the data
+ RJK analyzed the data and wrote the initial 360 manuscript draft
+ GS helped with conducting the dietary intervention
+ All authors read, edited and 361 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    RJK has received an honorarium from the company vitaflo for giving a talk about the objectives and 364 preliminary results of the KETOCOMP study
+ The other authors declare that there are no potential 365 conflicts of interest relating to this analysis
+ The products used in this study were kindly provided by 366 the manufacturing companies; however, these companies had no influence on the design, data 367 collection and analysis of this study
+ The study was funded solely by our clinic
+ 368 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    [1] Seyfried TN, Yu G, Maroon JC, DAgostino DP
+ Press-pulse: a novel therapeutic strategy for the 373 [2] Winter SF, Loebel F, Dietrich J
+ Role of ketogenic metabolic therapy in malignant glioma: A 376 [3] Klement RJ
+ The influence of ketogenic therapy on the 5 Rs of radiobiology
+ Int J Radiat Biol 379 [4] Miller VJ, Villamena FA, Volek JS
+ Nutritional Ketosis and Mitohormesis`: Potential 381 Implications for Mitochondrial Function and Human Health
+ J Nutr Metab 382 [5] Martin-McGill KJ, Marson AG, Smith CT, Jenkinson MD
+ The Modified Ketogenic Diet in Adults 384 with Glioblastoma: An Evaluation of Feasibility and Deliverability within the National Health 385 Service The Modi fi ed Ketogenic Diet in Adults with Glioblastoma`: An Evaluation
+ Nutr 386 [6] Lv M, Zhu X, Wang H, Wang F, Guan W
+ Roles of Caloric Restriction, Ketogenic Diet and 388 Intermittent Fasting during Initiation, Progression and Metastasis of Cancer in Animal Models: 389 [7] Klement RJ, Champ CE, Otto C, Kmmerer U
+ Anti-Tumor Effects of Ketogenic Diets in Mice: A 392 [8] Klement RJ
+ Beneficial effects of ketogenic diets for cancer patients: a realist review with 394 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    [9] Weber DD, Aminazdeh-Gohari S, Kofler B
+ Ketogenic diet in cancer therapy
+ Aging (Albany NY) 397 [10] Bonuccelli G, Tsirigos A, Whitaker-Menezes D, Pavlides S, Pestell RG, Chiavarina B, et al 399 Ketones and lactate fuel tumor growth and metastasis: evidence that epithelial cancer cells 400 [11] Xia S, Lin R, Jin L, Zhao L, Kang H-B, Pan Y, et al Prevention of Dietary-Fat-Fueled Ketogenesis 403 [12] Zhang J, Jia P-P, Liu Q-L, Cong M-H, Gao Y, Shi H-P, et al Low ketolytic enzyme levels in tumors 406 predict ketogenic diet responses in cancer cell lines in vitro and in vivo
+ J Lipid Res 407 [13] Klement RJ, Champ CE
+ Calories, carbohydrates, and cancer therapy with radiation: Exploiting 409 the five Rs through dietary manipulation
+ Cancer Metastasis Rev ;:
+ 410 [14] Allen BG, Bhatia SK, Anderson CM, Eichenberger-Gilmore JM, Sibenaller ZA, Mapuskar KA, et 412 al Ketogenic diets as an adjuvant cancer therapy: History and potential mechanism
+ Redox 413 [15] Klement RJ
+ Fasting, Fats, and Physics: Combining Ketogenic and Radiation Therapy against 415 [16] Klement RJ, Sweeney RA
+ Impact of a ketogenic diet intervention during radiotherapy on body 417 composition: I
+ Initial clinical experience with six prospectively studied patients
+ BMC Res 418 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    [17] Klement RJ, Sweeney RA
+ Impact of a ketogenic diet intervention during radiotherapy on body 420 composition: II
+ Protocol of a randomised phase I study (KETOCOMP)
+ Clin Nutr ESPEN 421 [18] Bosy-Westphal A, Schautz B, Later W, Kehaylas J, Gallagher D, Mller M
+ What makes a BIA 423 equation unique? Validity of eight-electrode multifrequency BIA to estimate body 424 composition in a healthy adult population
+ Eur J Clin Nutr ;:S
+ 425 [19] Bosy-Westphal A, Jensen B, Braun W, Pourhassan M, Gallagher D, Mller MJ
+ Quantification of 426 whole-body and segmental skeletal muscle mass using phase-sensitive 8-electrode medical 427 [20] Dworak O, Keilholz L, Hoffmann A
+ Pathological features of rectal cancer after preoperative 429 [21] Kmmerer U, Schlatterer C, Knoll G
+ Krebszellen lieben Zucker - Patienten brauchen Fett
+ 1st 431 [22] Zahra A, Fath MA, Opat E, Mapuskar KA, Bhatia SK, Ma DC, et al Consuming a Ketogenic Diet 433 while Receiving Radiation and Chemotherapy for Locally Advanced Lung Cancer and 434 Pancreatic Cancer: The University of Iowa Experience of Two Phase 1 Clinical Trials
+ Radiat Res 435 [23] De Luis DA, Aller R, O I, Terroba M, Cabezas G, Cuellar L
+ Tissue electric properties in head and 437 [24] Muck BR, Trotnow S, Egger H, Hommel G
+ Altered Carbohydrate Metabolism in Breast Cancer 439 [25] Hansell DT, Davies JWL, Burns HJG, Shenkin A
+ The Oxidation of Body Fuel in Cancer Patients
+ 441 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    [26] Krber J, Pricelius S, Heidrich M, Mller MJ
+ Increased lipid utilization in weight losing and 443 weight stable cancer patients with normal body weight
+ Eur J Clin Nutr ;:
+ 444 [27] Klement RJ, Kmmerer U
+ Is there a role for carbohydrate restriction in the treatment and 445 [28] Holm E, Kmmerer U
+ Lipids and Carbohydrates in Nutritional Concepts for Tumor Patients
+ 447 [29] Bozzetti F, Zupec-Kania B
+ Toward a cancer-specific diet
+ Clin Nutr ;:
+ 449 [30] Prado CM, Cushen SJ, Orsso CE, Ryan AM
+ Sarcopenia and cachexia in the era of obesity: 451 [31] Silver HJ, Dietrich MS, Murphy BA
+ Changes in Body Mass, Energy Balance, Physical Function, 454 and Inflammatory State in Patients with Locally Advanced Head and Neck Cancer Treated with 455 [32] Jager-Wittenaar H, Dijkstra PU, Vissink A, Langendijk JA, van derLaan BFAM, Pruim J, et al 458 Changes in Nutritional Status and Dietary Intake During and After Head And Neck Cancer 459 [33] Klement RJ
+ Restricting carbohydrates to fight head and neck canceris this realistic? Cancer 461 [34] Buse MG, Biggers JF, Friderici KH, Buse JF
+ Oxidation of branched chain amino acids by 463 isolated hearts and diaphragms of the rat
+ The effect of fatty acids, glucose, and pyruvate 464 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    [35] Palaiologos G, Felig P
+ Effects of ketone bodies on amino acid metabolism in isolated rat 466 [36] Sherwin RS, Hendler RG, Felig P
+ Effect of ketone infusions on amino acid and nitrogen 468 [37] Phinney SD, Bistrian BR, Evans WJ, Gervino E, Blackburn GL
+ The human metabolic response to 470 chronic ketosis without caloric restriction: preservation of submaximal exercise capability with 471 [38] Volpi E, Kobayashi H, Sheffield-Moore M, Mittendorfer B, Wolfe RR
+ Essential amino acids are 473 primarily responsible for the amino acid stimulation of muscle protein anabolism in healthy 474 [39] Paoli A, Grimaldi K, DAgostino D, Cenci L, Moro T, Bianco A, et al Ketogenic diet does not 476 affect strength performance in elite artistic gymnasts
+ J Int Soc Sport Nutr ;:
+ 477 [40] Zajac A, Poprzecki S, Maszczyk A, Czuba M, Michalczyk M, Zydek G
+ The effects of a ketogenic 479 diet on exercise metabolism and physical performance in off-road cyclists
+ Nutrients 480 [41] Zinn C, Wood M, Williden M, Chatterton S, Maunder E
+ Ketogenic diet benefits body 482 composition and well-being but not performance in a pilot case study of New Zealand 483 [42] Wilson JM, Lowery RP, Roberts MD, Sharp MH, Joy JM, Shields KA, et al The Effects of 485 Ketogenic Dieting on Body Composition, Strength, Power, and Hormonal Profiles in Resistance 486 [43] Kephart W, Pledge C, Roberson P, Mumford P, Romero M, Mobley C, et al The Three-Month 488 Effects of a Ketogenic Diet on Body Composition, Blood Parameters, and Performance Metrics 489 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    [44] Schwartz B, Yehuda-Shnaidman E
+ Putative role of adipose tissue in growth and metabolism of 491 [45] Picon-Ruiz M, Pan C, Drews-Elger K, Jang K, Besser AH, Zhao D, et al Interactions between 493 adipocytes and breast cancer cells stimulate cytokine production and drive Src/Sox2/miR-494 [46] Sinicrope FA, Foster NR, Yothers G, Benson A, Seitz JF, Labianca R, et al Body mass index at 497 diagnosis and survival among colon cancer patients enrolled in clinical trials of adjuvant 498 [47] Robinson PJ, Bell RJ, Davis SR
+ Obesity is associated with a poorer prognosis in women with 500 [48] Azrad M, Demark-Wahnefried W
+ The association between adiposity and breast cancer 503 recurrence and survival: A review of the recent literature
+ Curr Nutr Rep ;:
+ 504 [49] Demark-Wahnefried BW, Winer EP, Rimer BK
+ Why women gain weight with adjuvant 505 [50] Genton L, Kyle UG, Balmer Majno S, Pichard C
+ Body composition changes in breast cancer 507 patients during curative radiation therapy
+ E Spen Eur E J Clin Nutr Metab ;:
+ 508 [51] Champ CE, Volek JS, Siglin J, Jin L, Simone NL
+ Weight Gain, Metabolic Syndrome, and Breast 510 Cancer Recurrence: Are Dietary Recommendations Supported by the Data? Int J Breast Cancer 511 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    [52] Tisdale MJ, Brennan R a, Fearon KC
+ Reduction of weight loss and tumour size in a cachexia 513 model by a high fat diet
+ Br J Cancer ;:
+ doi:
+ /bjc
+ 
+ 
+ 514 [53] Tisdale MJ, Brennan RA
+ A comparison of long-chain triglycerides and medium-chain 515 triglycerides on weight loss and tumour size in a cachexia model
+ Br J Cancer ;:
+ 516 [54] Nakamura K, Tonouchi H, Sasayama A, Ashida K
+ A ketogenic formula prevents tumor 518 progression and cancer cachexia by attenuating systemic inflammation in colon 26 tumor-519 [55] Tth C, Clemens Z
+ Treatment of Rectal Cancer with the Paleolithic Ketogenic Diet: A 24-521 [56] Furukawa K, Shigematus K, Iwase Y, Mikami W, Hoshi H, Nishiyama T, et al Clinical effects of 523 one year of chemotherapy with a modified medium-chain triglyceride ketogenic diet on the 524 [57] Kato I, Dyson G, Kim H, Severson K
+ Differential effects of patient-related factors on the 526 outcome of radiation therapy for rectal cancer
+ J Radiat Oncol ;:
+ 527 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    Age [years] 59 (38-74) 65 (43-76) 
+3141 63 (58-68) 64 (55-75) 
+8037 50 (42-72) 58 (41-68) 
+826 92 (84-99) 100 (66-265) 
+01363 107 (98-154) 107 (83-188) 
+9671 91 (82-114) 94 (81-113) 
+7336 Continuous and categorical variables were compared using the Wilcoxon rank sum and Fishers exact test, respectively
+ Table 2: Regression coefficients for body composition changes in rectal cancer patients  Body weight Fat free mass Fat mass Skeletal muscle mass 50 kHz phase angle Covariate Coefficient p-value Coefficient p-value Coefficient p-value Coefficient p-value Coefficient p-value KT: yes 
+9 kg 
+08779 
+7 kg 
+5365 
+06 kg 
+9517 
+4 kg 
+5271 
+08 
+5190 Gender: female 
+1 kg 
+9182 -
+7 kg 
+1233 
+5 kg 
+6709 
+6 kg 
+1093 
+06 
+5794 Table 3: Regression coefficients for body composition changes in head and neck cancer patients  Body weight Fat free mass Fat mass Skeletal muscle mass 50 kHz phase angle Covariate Coefficient p-value Coefficient p-value Coefficient p-value Coefficient p-value Coefficient p-value KT: yes 
+3 kg 
+6338 
+5 kg 
+3553 
+8 kg 
+01466 
+04 kg 
+8884 
+29 
+1431 Gender: female 
+0 kg 
+1603 
+1 kg 
+8950 -
+02 kg 
+9695 
+6 kg 
+2369 
+03 
+8999 PEG use: yes 
+1 kg 
+6849 -
+4 kg 
+4279 
+1 kg  
+6849 
+1 kg 
+5675 
+22 
+07496 
+7 kg 
+2594 
+0 kg 
+9950 
+01 kg 
+9810 
+3 kg 
+2210 
+26 
+2026 Time  KT 
+8 kg/week 
+000148 
+6 kg/week 
+0004163 
+3 
+1058 
+3 kg/week 
+Time  PEG use         
+02/week 
+5081 Table 4: Regression coefficients for body composition changes in breast cancer patients  Body weight Fat free mass Fat mass Skeletal muscle mass 50 kHz phase angle Covariate Coefficient p-value Coefficient p-value Coefficient p-value Coefficient p-value Coefficient p-value KT: yes 
+2 kg 
+002837 -
+0 kg 
+0297 
+2 kg 
+4827 
+4 kg 
+2707 
+16 
+00538 Time  KT 
+3 kg/week 
+03348 
+2 kg/week 
+04166 
+5 kg/week 
+certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 17, 
+ ;    

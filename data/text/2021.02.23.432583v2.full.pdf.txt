@@ -1,0 +1,438 @@
+Christopher Ha Heng Xuan1, Lee Nung Kion2, Taufiq Rahman3, Hwang Siaw San1, The Human Immunodeficiency Virus (HIV) infection is a global pandemic that has claimed 33 million lives to date
+ One of the most efficacious treatment for nave or pre-treated HIV patients is with the HIV integrase strand transfer inhibitors (INSTIs)
+ However, given that HIV treatment is life-long, the emergence of HIV-1 strains resistant to INSTIs is an imminent challenge
+ In this work, we showed two best regression QSAR models that were constructed using a boosted Random Forest algorithm (r2 = 
+998, qCV2  = 
+754) and a boosted K* algorithm (r2 = 
+987, qCV
+758) to predict the pIC50 values of INSTIs
+ Subsequently, the regression QSAR models were deployed against the Drugbank database for drug repositioning
+ The top ranked compounds were further evaluated for their target engagement activity using molecular docking studies and their potential as INSTIs evaluated from our literature search
+ Our study offers the first example of a large-scale regression QSAR modelling effort for The Human Immunodeficiency Virus (HIV) infection is a global epidemic that have claimed 33 million lives to date
+ As of 2019, the World Health Organization estimated that 38 million people around the world is living with HIV
+ HIV infection was one of the leading causes of death in the United States until the development of the Highly Active Anti-retroviral Therapy (HAART)
+1 HAART is a combination treatment consisting of several (INSTIs)
+ The latter is a class of anti-retroviral drug that targets the HIV integrase (IN)
+ IN is the key enzyme involved in incorporating viral DNA into the host CD4 cells through two distinct steps: (a) 3-processing of the viral DNA to form 3-OH recessed ends and (b) stabilizing the IN-DNA complex (intasome) for the 3-OH of the viral DNA to attack the dolutegravir and bictegravir; Figure 1) whilst another agent (cabotegravir; Figure 1) was (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    recently approved by FDA in Jan 
+ Developing INSTIs is an attractive strategy against HIV infection because these drugs have shown high efficacy, exhibit fewer drug-drug interactions and have minimal off-target effects in the human cells
+4,5,6 However, the long-term use of HIV drugs and the error-prone replication of HIV have given rise to like dolutegravir have higher genetic barrier to resistance, the emergence of resistant HIV strains to other INSTIs is not a question of if, but when
+8 Therefore, there is a pressing against a therapeutic target
+ However, the low hit-rate (
+ -
+1%) and the cost associated with screening millions of compounds renders HTS a very expensive and time-consuming endeavour
+9 An alternative to conventional HTS can be the experimental screening of compounds that are pre-selected through QSAR-based virtual screening
+ In developing a QSAR model, molecular descriptors (termed as features) are calculated for a set of known inhibitors
+ These features are then correlated with the biological activity of these inhibitors, often with the use of machine learning techniques
+9 Indeed, several regression QSAR models for HIV-1 INSTIs have been reported based on techniques such models are specific to particular classes of HIV-1 INSTIs such as carboxylic acid pyridinone (trained on 53 compounds)15, -diketo-acids (trained on 37 on compounds)16 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    and napthyridine (trained on 50 compounds)
+ As far as we are concerned, our study is the first large-scale QSAR study (trained on 1417 compounds) that covers a broad The aim of this study is to establish key compound features that are important for designing next-generation INSTIs
+ To do this, we constructed two INSTIs regression QSAR models built using the boosted Random Forest18 and K* algorithm
+ The two QSAR models were evaluated using 10-fold cross-validation, external test set and y-randomization test
+ As part of our drug repositioning effort, these two models were then experimental and investigational drugs to shortlist known drugs that could potentially be (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    In this section, we present the results of our regression QSAR models using the workflow shown in Figure 
+ First, we downloaded the compound dataset (CHEMB2366505) that against IN
+ After filtering for duplicates, FDA-approved INSTIs and compounds with molecular weight > 680 Da, we were left with 2028 compounds
+ The bioactivity of these compounds were converted to pIC50  the negative logarithmic value of the concentration required to inhibit 50% strand transfer activity in bioassays
+ Next, these compounds were then split into training and test sets with a 70:30 split
+ This resulted in a training set and test set containing 1417 and 611 compounds, respectively
+ To show that the training and test sets are congruent in terms of chemical similarity, we mapped out the coverage of the chemical space of the compounds in both sets using Principal Component Analysis (PCA)
+ The features used for PCA analysis were the molecular weight, octanol-water partition coefficient (LogP), number of rotatable bonds, total polar surface area (TPSA), number of H-bond donors and number of H-bond acceptors
+ Using these features, the Principal Components (PCs) 1 and 2 were able to capture 70% of the chemical structure variance
+ The results are shown in Supplementary Figure S1 and S
+  Figure 
+ Graphical scheme of the workflow for constructing regression QSAR (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    Next, the compounds in both training and test sets were featurised using 206 D-molecular descriptors
+ To reduce model complexity and prevent data overfit, we used the method evaluates a subset of molecular descriptors by considering their correlation to the pIC50 along with the degree of redundancy between the molecular descriptors
+21 Using this evaluator, 12 molecular descriptors were selected for further regression modelling
+ The explanation of the molecular descriptors and their correlation to pIC50 are shown in Table 
+ To avoid multi-collinearity, we plotted a correlation matrix for the molecular To understand how these descriptors could inform about drug design for INSTIs, we attempted to correlate some of these descriptors with their biological significance
+ First, the descriptor PEOE_RPC+ is related to the relative partial positive charge of the inhibitors
+ This term is negatively correlated with pIC
+ This is unsurprising given that potential INSTIs are expected to bind and interact with the positively-charged magnesium ions
+ Besides, the number of fluorine and nitrogen atoms were selected as positive determinants of pIC
+ Indeed, the very electronegative fluorine and nitrogen atoms are known to alter the physicochemical properties of inhibitors and enhance protein-binding to the solubility of the inhibitors
+ Next, a negatively correlated h_pKb term indicates that stronger bases are more likely to be INTIs
+ The descriptors PEOE_VSA+0 is a term related to Van der Waals surface area based on electronic properties
+ The positive correlation of this term indicates that the pIC50 of HIV-1 INSTIs is enhanced by their lipophilicity
+ This is in agreement with experimental SAR studies where increasing lipophilicity of the ring system of HIV-1 INSTIs leads to higher inhibitory activity
+24,25 Lastly, the descriptors SlogP_VSA5 and SLogP_VSA4 are related to the Van der Waals surface area that contributes to a particular range of LogP values while h_pstrain concerns the (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    Table 
+ Explanation and correlation of the molecular descriptors to the We applied four base learners, namely Support Vector Machine (SVM), Random Forest (RF), k-Nearest Neighbour (kNN) and K* algorithms to predict the pIC50 of the inhibitors in the training set
+ Additionally, we also boosted these four base learners using Additive Regression modelling
+ Additive Regression (AR) modelling is the WEKAs equivalent to Gradient Boosting for enhancing the performance of regression modelling algorithms
+ To prevent over-fitting, we evaluated all algorithms using 10-fold cross validation (CV) too
+ From our study, we obtained a highly predictive AR model with RF as the base learner
+ Besides, another comparable regression model was constructed using AR model with the K* algorithm
+ Of note, while k-NN as a base learner (with or without AR) performed well when evaluated on the training set, its performance dropped when tested using the -fold CV
+ Hence, k-NN was discarded from further study
+ The performance of these base learners (with or without boosting) is summarized in Supplementary Table ST
+  Subsequently, we search for the hyperparameter for both the AR-RF and AR-K* algorithms to improve their performance in regression modelling
+ The tuned AR-RF and AR-K* were then re-evaluated using 10-CV and the previously constructed external test set
+ The performance for the tuned AR-RF and AR-K* is summarized in Supplementary Table ST
+ The scatter plots for the experimentally obtained pIC50 and predicted pIC50 as well as the plots of the pIC50 residuals for both AR-RF and AR-K* are shown in Figure 3a-c and Figure 4a-c, respectively
+ To study (a) the occurrence of chance correlation and (b) responsiveness of pIC50 to the selected features, we conducted y-randomization test
+ In this test, the pIC50 of the compounds in the training sets were randomly shuffled and (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    new QSAR models were created
+ In each of our 20 randomization runs for both AR-RF and AR-K*, we observed that the r2 of regression models built using y-randomized training sets were above 
+ 
+ This indicated that our machine learning algorithms were prone to overfitting the data and this phenomenon was similarly observed by Darnag et al26 However, none of the random regression QSAR models had any predictability power when evaluated using the external test set (Figure 3d and d)
+  algorithm
+ (A) Graph plot of predicted pIC50 against experimental pIC50 of training set (1417 compounds)
+ (B) Graph plot of predicted pIC50 against experimental pIC50 of test set (611 compounds)
+ (C) Residual plot of the predicted pIC50 and the experimental pIC50 values of the compounds in the test set
+ (D) Y-randomization plot for the regression model (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    algorithm
+ (A) Graph plot of predicted pIC50 against experimental pIC50 of training set (1417 compounds)
+ (B) Graph plot of predicted pIC50 against experimental pIC50 of test set (611 compounds)
+ (C) Residual plot of the predicted pIC50 and the experimental pIC50 values of the compounds in the test set
+ (D) Y-randomization plot for the regression model In general, statistical values of r2 > 
+6 and q2 > 
+5 between the predicted and experimental value indicated good predictability for the QSAR models
+ Judging from this, we have decided to deploy both AR-RF and AR-K* models to predict potential HIV-1 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    We deployed both AR-RF and AR-K* on the Drugbank database, which contains FDA-for screening because we were intrigued with the idea of repositioning known or experimental drugs to target HIV IN
+ Drug repositioning could speed up drug development as repositioned drugs have gone through extensive pharmacokinetic studies and are less likely to fail in clinical trials due to toxicity effects
+ From our screening, it is interesting to note that known INSTIs such as the experimental drug GSK364735, Dolutegravir, Bictegravir and Cabotegravir were ranked among the top five chemicals predicted to be HIV-1 INSTIs by AR-RF
+ We showed the chemicals predicted to be HIV-1 INSTIs in Figure 5 and Table 
+ After screening, we pooled the predicted pIC50 of the chemicals by AR-RF and AR-K* for consensus ranking
+ For chemicals to be considered as potential HIV-1 INSTIs, their predicted pIC50 must fall above the top 75% quartile in both regression model
+ The full list of chemicals predicted to be HIV-1 INSTIs based on our criterion are Figure 
+ Chemical structures of top compounds predicted to be INSTIs
+  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    Table 
+ The predicted pIC50 of the top-scoring compounds as ranked by the AR-To further solidify our confidence in the predicted compounds, we looked into the literature if any of the chemicals in the list were reported to have anti-HIV-1 activity
+  activity for treatment against acute graft-versus-host disease
+27 Although itacitinib was not reported to have anti-HIV-1 activity, it is interesting to note that two structurally similar JAK1/2 inhibitors  Ruxolitinb and Tofacitinib  are reported to demonstrate sub-micromolar inhibition of infection of HIV-1, HIV-2 and a chimeric simian-human Rosuvastatin is an FDA-approved HMG-CoA reductase inhibitor (also known as statins) that lowers cholestrol levels
+29 Aside from their lipid-lowering activity, in vitro studies have shown that statins could also exhibit anti-HIV activity
+ The anti-HIV activity of statins are suggested to stem from down-modulation of lipid rafts necessary for HIV infection in host cell30,31, down-regulating Rho activity32 or by blocking the integrin intercellular adhesion molecule 1 (ICAM) on the host cell surface to prevent viral entry
+ Given the range of pleitropic effects that statins exhibit, it is also plausible that statins could exhibit anti-HIV effects through inhibition of HIV IN
+ Additionally, the chemical structure of rosuvastatin dioxygenase (IDO1) with anti-neoplastic activity
+ Although both drugs were not reported directly to have HIV-1 activity, the N-phenylpicolinamide moiety of verubecestat and the 1,2,5-oxadiazole moiety of epacadostat were reported to carry inhibitory activity against (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    Following on, we selected the top three compounds  itacitinib, rosuvastatin and verubecestat  for molecular docking studies to explore the binding interactions of these compounds with HIV-1 IN
+ As there is no full-length HIV-1 IN crystallized to-date, we chose to conduct our molecular docking studies using the Prototype Foamy Virus (PFV) IN as a proxy (PDB ID: OYA)
+ We chose PFV IN as the model on the basis that the regions near the active sites of the PFV and HIV IN are highly conserved due to similar residues involved in substrate binding and catalysis
+38 These residues involve in the PFV In catalytic triads are Glu211, Asp128 and Asp
+ The corresponding residues in HIV-1 in are Glu152, Asp64 and Asp
+ Indeed, the high degree of similarity between the PFV and HIV-1 IN has prompted another study to conclude that the PFV IN was a more accurate model for virtual screening studies for INTIs compared to HIV-1 IN homology models
+39 Additionally, the co-crystallized viral DNA and raltegravir in the PFV intasome First, we conducted cognate docking study by re-docking raltegravir into the PFV IN
+ The purpose of cognate docking is to validate pose prediction quality of the GOLD molecular docking software
+ In the cognate docking study, GOLD was largely able to reproduce the co-crystallized pose of raltegravir (pose root mean square deviation = 
+285) with the exception of the 1,3,4-oxadiazole ring
+ The result of the cognate docking study is in Supplementary Figure S
+ Next, we docked itacitinib, rosuvastatin and verubcestat into the PFV IN
+ The predicted binding poses of these compounds are illustrated in Figure 
+ In all three cases, the inhibitors were predicted to coordinate to the catalytic magnesium ions in the active site of the IN enzyme
+ The coordinating distances of itacitinib, rosuvastatin and verubcestat to the magnesium ions were between 
+ -
+3 as measured using PyMOL
+ This is an important observation as several studies have alluded to the interacted with the PFV IN catalytic triad in a similar manner to raltegravir
+ For example, all three inhibitors exhibited magnesium ion-mediated bonding with Asp
+ With the exception of itacitinib, both rosuvastatin and verubecestat were involved in another metal-mediated bonding with Asp
+  Other noteworthy interactions include the interaction with Tyr212 (Tyr143 in HIV-1 IN) by itacitinib and rosuvastatin and the interaction with Pro214 (Pro145 in HIV-1 IN) by all three inhibitors
+ These two interactions are important for the stabilization of raltegravir in the active site
+43 The protein-inhibitor interaction diagrams (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    Figure 
+ Binding interactions of the PFV IN active site with the top ranked compounds
+ The docked pose of (A) itacitinib, (B) rosuvastatin and (C) verubecetat are shown interacting with the catalytic magnesium ions
+ Conserved residues found in both HFV and HIV-1 IN active sites are highlighted with red asterisks
+ The residues of the active site shown as grey lines
+ The viral DNA shown as light orange lines
+ Magnesium (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    HIV-1 IN is an attractive therapeutic target because of their high efficacy and lack of structural orthologs in humans
+ HIV-1 strains that are resistant towards current INSTIs necessitates putting more potential INSTIs in the drug discovery pipeline
+ To this end, we constructed two regression QSAR models using the RF and K* algorithms that were boosted by AD modelling
+ Next, we subsequently deployed our regression models for drug repositioning using the Drugbank compound dataset
+ We selected three top scoring compounds  itacitinib, rosuvastatin and verubecestat  for molecular docking to study the protein-inhibitor interaction
+ We further suggest that these three compounds have metal-chelating functional groups that could inhibit HIV-1 IN strand transfer activity
+ As far as we are concerned, this is the first large-scale QSAR study capable of predicting the pIC50 of potential INSTIs
+ Although our study was geared on discovering potential INSTIs through drug repositioning, we believe this approach can be generalized and applied to other biological targets
+ This would reduce the time taken in the drug discovery process Compounds with half maximal inhibitory concentration (IC50) were chosen for this study
+ The IC50 was converted to pIC50 using a negative logarithmic transformation
+ After dataset, compounds with molecular weight more than 680 Da were removed from the dataset
+ After processing, a total of 2028 compounds remained
+ These compounds were 
+10 package using the default settings
+ The compounds were then featurized by the 2-dimensional (2D) molecular descriptors by MOE
+ Next, these compounds were then split by a 70:30 ratio into a training set and a test set for QSAR modelling using machine learning
+ To ensure that the structures in the training and test sets are similar, the chemical space of the compounds in both datasets were visualized by means of Principal WEKA is a suite containing different machine learning algorithms
+20 First, important BestFirst as the selection method
+ The selected features were then checked for multi-collinearity using a correlation matrix
+ Subsequently, the datasets containing the selected features were used as input for the machine algorithms Sequential Minimal Optimization Regression (SMOreg), Random Forest (RF) , k-Nearest Neighbour (kNN) and the  K* algorithm (with or without boosting from Additive Regression)
+ Boosted RF and K* algorithms were selected as the best performing and their hyperparameters were fine-(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    tuned
+ The performance of these two algorithms were evaluated using a 10-fold CV and an external test set
+ The metrics used were q2 and RMSE
+ Y-randomization tests were conducted to evaluate the risk of chance correlation and to quantify the sensitivity of the compound pIC50 values to the selected features
+ The tests were conducted by randomizing the pIC50 values without modifying the values of the molecular descriptors
+ Finally, the models were deployed against the Drugbank dataset version 
+ 
+ 
+45  The crystal structure of the Prototype Foamy Virus (PFV) integrase complexed with viral DNA (PDB ID: 3OYA) was obtained from the RCSB Protein Data Bank
+ Hydrogens were added to the intasome complex and energy minimized using the AMBER10:EHT forcefield from the MOE package
+ The viral DNA was kept inside the intasome as inhibitors of integrase are expected to form - interaction with the base of the viral DNA
+ The chemical structure of raltegravir, itacitinib, rosuvastatin and verubecestat were drawn using MarvinSketch version 
+1 and energy-minimized using the MOE package
+ The compounds were docked to the PFV integrase by using the Genetic Optimization for Data Centre (CCDC)
+ The binding site was defined as 10 radius sphere centred around the raltegravir
+ All four inhibitors were docked with 50 Genetic Algorithm runs while keeping all other settings to their default
+ The ChemPLP was used as the scoring function
+ The protein-ligand interactions of the top-scoring sdocked poses for these compounds (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    
+ Delaney, M
+ History of HAART  the true story of how effective multi-drug therapy was developed for treatment of HIV disease
+ Retrovirology 3, S6 ()
+ 
+ Delelis, O
+, Carayon, K
+, Sab, A
+, Deprez, E
+ & Mouscadet, J
+ F
+ Integrase and 
+ Miri, L
+ et al Stabilization of the integrase-DNA complex by Mg2+ ions and prediction of key residues for binding HIV-1 integrase inhibitors
+ Proteins Struct
+ 
+ Brooks, K
+ M
+ et al Integrase inhibitors: after 10 years of experience, is the best yet to come? Pharmacother
+ J
+ Hum
+ Pharmacol
+ Drug Ther
+ 39, 576598 ()
+ 
+ Trivedi, J
+ et al Recent advances in the development of integrase inhibitors for 
+ Jacobson, K
+ & Ogbuagu, O
+ Integrase inhibitor-based regimens result in more 
+ Anstett, K
+, Brenner, B
+, Mesplede, T
+ & Wainberg, M
+ A
+ HIV drug resistance 
+ Underwood, M
+ R
+ et al The activity of the integrase inhibitor dolutegravir against 
+ Neves, B
+ J
+ et al QSAR-based virtual screening: advances and applications in 
+ Meng, X
+ -Y
+, Zhang, H
+ -X
+, Mezei, M
+ & Cui, M
+ Molecular docking: a powerful 
+ Rathi, L
+ G
+, Kashaw, S
+ K
+, Agrawal, R
+ K
+ & Mishra, P
+ Comparative Molecular Field Analysis (CoMFA): a modern approach towards drug design
+ Indian J
+ 
+ Klebe, G
+, Abraham, U
+ & Mietzner, T
+ Molecular similarity indices in a comparative analysis (CoMSIA) of drug molecules to correlate and predict their 
+ Cheng, Z
+, Zhang, Y
+ & Fu, W
+ QSAR study of carboxylic acid derivatives as HIV-
+ Gupta, P
+, Garg, P
+ & Roy, N
+ Identification of novel HIV-1 integrase inhibitors 
+ Barzegar, A
+ & Hamidi, H
+ Quantitative structure-activity relationships study of (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    
+ Ko, G
+ M
+ et al Differential evolution-binary particle swarm optimization algorithm for the analysis of aryl -diketo acids for HIV-1 integrase inhibition
+ in 2012 IEEE 
+ Zakariazadeh, M
+, Barzegar, A
+, Soltani, S
+ & Aryapour, H
+ Developing 2D-QSAR 
+ Svetnik, V
+ et al Random Forest: a classification and regression tool for compound classification and QSAR modeling
+ J
+ Chem
+ Inf
+ Comput
+ Sci
+ 43, 
+ Aljazzar, H
+ & Leue, S
+ K*: A heuristic search algorithm for finding the k shortest 
+ Hall, M
+ et al The WEKA data mining software
+ ACM SIGKDD Explor
+ Newsl
+ 11, 
+ Yan, A
+, Xuan, S
+ & Hu, X
+ Classification of active and weakly active ST inhibitors of HIV-1 integrase using a Support Vector Machine
+ Comb
+ Chem
+ High 
+ Pennington, L
+ D
+ & Moustakas, D
+ T
+ The necessary Nitrogen atom: a versatile 
+ Hajimahdi, Z
+ & Zarghi, A
+ Progress in HIV-1 integrase inhibitors: a review of their 
+ Ingale, K
+ B
+ & Bhatia, M
+ S
+ HIV-1 integrase inhibitors: a review of their chemical 
+ Darnag, R
+, Minaoui, B
+ & Fakir, M
+ Pattern recognition system based on Support 
+ Schroeder, M
+ A
+ et al A phase 1 trial of itacitinib, a selective JAK1 inhibitor, in 
+ Gavegnano, C
+ et al Ruxolitinib and tofacitinib are potent and selective inhibitors of HIV-1 replication and virus reactivation in vitro
+ Antimicrob
+ Agents Chemother
+ 
+ Carswell, C
+ I
+, Plosker, G
+ L
+ & Jarvis, B
+ Rosuvastatin
+ Drugs 62, 20752085 
+ Carter, G
+ C
+ et al HIV entry in macrophages is dependent on intact lipid rafts
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    
+ Ono, A
+ & Freed, E
+ O
+ Plasma membrane rafts play a critical role in HIV-1 assembly and release
+ Proc
+ Natl
+ Acad
+ Sci
+ U
+ S
+ A
+ 98, 1392513930 ()
+ 
+ Del Real, G
+ et al Statins inhibit HIV-1 infection by down-regulating Rho activity
+ 
+ Gigure, J
+ -F
+ & Tremblay, M
+ J
+ Statin compounds reduce Human 
+ Egan, M
+ F
+ et al Randomized Trial of Verubecestat for Prodromal Alzheimers 
+ Li, X
+ & Vince, R
+ Synthesis and biological evaluation of purine derivatives 
+ Andrake, M
+, Skalka, A
+ & Merkel, G
+ Inhibitors of HIV-1 integrase multimerization
+ 
+ Johns, B
+ A
+, Weatherhead, J
+ G
+, Hakogi, T
+ & Aoyama, Y
+ Chemical compounds 
+ Passos, D
+ O
+ et al Structural basis for strand-transfer inhibitor binding to HIV 
+ Quevedo, M
+ A
+, Ribone, S
+ R
+, Brin, M
+ C
+ & Dehaen, W
+ Development of a receptor model for efficient in silico screening of HIV-1 integrase inhibitors
+ J
+ Mol
+ 
+ Agrawal, A
+ et al Probing chelation motifs in HIV integrase inhibitors
+ Proc
+ Natl
+ 
+ Bacchi, A
+ et al Investigating the role of metal chelation in HIV-1 integrase strand 
+ Neamati, N
+ et al Metal-dependent inhibition of HIV-1 integrase
+ J
+ Med
+ Chem
+ 
+ Hare, S
+, Gupta, S
+ S
+, Valkov, E
+, Engelman, A
+ & Cherepanov, P
+ Retroviral intasome assembly and inhibition of DNA strand transfer
+ Nature 464, 232236 
+ Gonzlez-Medina, M
+ & Medina-Franco, J
+ L
+ Platform for Unified Molecular 
+ Wishart, D
+ S
+ et al DrugBank 
+0: A major update to the DrugBank database for (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    This work is kindly supported by the Swinburne Strategy Grant (SSRG2-5624) by X
+ C
+ and L
+ N
+ K
+ conceived the study, guided the experimental design and drafted the molecular docking studies
+ H
+ S
+ S
+ and Y
+ W
+ K
+ provided input on data analysis
+ All authors helped by providing suggestions and ideas for improving the study, and reviewed and (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    

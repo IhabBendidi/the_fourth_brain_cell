@@ -1,0 +1,449 @@
+The putative causal effect of type 2 diabetes in risk of cataract: a Mendelian randomization study in East AsianThe putative causal effect of type 2 diabetes in risk of cataract: a Mendelian randomization Haoyang Zhanga,b, Xuehao Xiub, Angli Xuec, Yuedong Yanga,*, Yuanhao Yangc,d,*, Huiying a School of Data and Computer Science, Sun Yat-sen University, Guangzhou, China b Department of Medical Research Center, Sun Yat-sen Memorial Hospital; Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene Regulation; Guangzhou, c Institute for Molecular Bioscience, The University of Queensland, Brisbane, QLD, Australia Department of Medical Research Center, Sun Yat-Sen Memorial Hospital, 107 Yan (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    Mater Research, Translational Research Institute & Institute for Molecular Bioscience, The School of Data and Computer Science, Sun Yat-sen University, Guangzhou, China 
+  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    The epidemiological association between type 2 diabetes and cataract has been well-established
+ However, it remains unclear whether the two diseases share a genetic basis, and if so, whether Ncontrol=187,831) to comprehensively investigate the shared genetics between the two diseases
+ We performed 
+ linkage disequilibrium score regression (LDSC) and heritability estimation from summary statistics (-HESS) to estimate the genetic correlation and local genetic correlation between type 2 diabetes and cataract; 
+ multiple Mendelian randomization (MR) analyses to infer the putative causality between type 2 diabetes and cataract; and 
+ and cataract
+ Both -HESS and multiple MR methods consistently showed a putative causal effect of type 2 diabetes on cataract, with estimated liability-scale MR odds ratios (ORs) at around 
+10 (95% confidence interval [CI] ranging from 
+06 to 
+ )
+ In contrast, no evidence (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    supports a causal effect of cataract on type 2 diabetes
+ SMR analysis identified two novel genes whose expression levels were likely involved in the putative causality of type 2 diabetes on Our results provided robust evidence supporting a causal effect of type 2 diabetes on the risk of cataract in East Asians, and posed new paths on guiding prevention and early-stage diagnosis  We utilized genome-wide association studies of type 2 diabetes and cataract in a large Japanese population-based cohort and find a strong genetic overlap underlying the two putative causal effect of type 2 diabetes on the development of cataract
+  We revealed two candidate genes MIR4453HG and KCNK17 whose expression levelss are likely relevant to the causality between type 2 diabetes and cataract
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;     Our study provided theoretical fundament at the genetic level for improving early diagnosis, prevention and treatment of cataract in type 2 diabetes patients in clinical practice (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    Type 2 diabetes is one of the most prevalent chronic diseases in East Asians1, and cataract is a major cause of vision impairment among patients with type 2 diabetes
+ Previous studies2, 3 have revealed a strong phenotypic association between type 2 diabetes and cataract for East Asians
+ For instance, Foster et al conducted a cross-sectional study of 1,206 Singapore Chinese and found patients with diabetes had higher risks for obtaining cortical cataract
+ Another Asian population-based study recruited 10,033 participants and identified diabetes as a significant risk The phenotypic association between type 2 diabetes and cataract could be partially explained by their shared genetics4, 
+ As pieces of evidence for disclosing their shared genetics, Lee et al4 analyzed a Hong Kong Chinese cohort and found cataract is common in patients with type 2 et al5 identified multiple candidate genes that had significantly different expression levels in the type 2 diabetes patients with higher Lens Opacities Classification System (LOCS) score (i
+ e
+, a system used to grade age-related cataract6), comparing to the patients with zero or minor LOCS score
+ However, the magnitude of the genetic association between type 2 diabetes and cataract remains unclear, as does the problem of whether their genetic association Traditional methods estimate the shared genetics by comparing the concordance between monozygotic and dizygotic twins7, and establish causal conclusions using the randomized (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    controlled trials (RCTs)8, a widely accepted gold standard for causal inference
+ However, these methods are occasionally limited or impracticable due to their own methodological weakness, such as the laborious data collection process and unethical study design
+ With the development of genome-wide association studies (GWAS) during past decades, some alternatively feasible statistical methods have been proposed to estimate the shared genetics between focal traits directly using the GWAS summary data
+ For instance, Bulik-Sullivan et al10 developed a technique named linkage disequilibrium score regression (LDSC) to estimate the contributions of polygenic genetic effects for a focal trait (i
+ e
+, single-trait heritability) and the magnitude of shared genetic overlap underlying two traits (i
+ e
+, cross-trait genetic correlation)
+ Shi et al11 extended LDSC and proposed heritability estimation from summary statistics (-HESS), a method to quantify the local single-trait heritability and cross-trait genetic correlation from approximately LD-independent genomic regions
+ For pair of traits with significant genetic correlation, Mendelian randomization (MR)12 methods are capable of inferring the potential genetic causal relationship between traits using single nucleotide polymorphisms (SNPs) as instruments
+ To further investigate any putative functional genes underlying the susceptibility to a trait, Zhu et al13 proposed summary data-based Mendelian randomization (SMR), which is an approach to identify gene expressions in an association with a target trait, by integrating GWAS summary data with expression quantitative trait loci (eQTL) summary data
+ In this study, we leveraged the large East Asian population-based GWAS summary statistics of type 2 diabetes and cataract from BioBank Japan Project (BBJ)14 to comprehensively investigate the shared genetics between the two diseases
+ We applied LDSC, -HESS, and (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    seven MR or MR-equivalent approaches to estimate the genetic correlation, local genetic correlation, and potential genetic causality between type 2 diabetes and cataract, respectively
+ We also conducted SMR to the single-trait GWAS (i
+ e
+, type 2 diabetes, cataract) and cross-trait GWAS meta-analyses of type 2 diabetes and cataract to explore candidate genes involved in the causality between two diseases
+ A brief overview of our study is summarized in Fig
+ 
+ We downloaded the GWAS summary statistics of type 2 diabetes15 and cataract16 from the BBJ and genotype data from ~200,000 Japanese individuals (
+10% male; average baseline age at 
+70 for men and 
+50 for women)
+ Both type 2 diabetes and cataract were diagnosed by physicians
+ The GWAS of type 2 diabetes was generated using a fixed-effect inverse-variance meta-analysis via METAL17, comprising 36,614 cases and 155,150 controls of four Japanese ancestry-based cohorts
+ The GWAS of cataract was generated from 24,622 cases and 187,831 controls using a linear mixed model via SAIGE18, adjusted by age, sex, and top five principal We applied LDSC10, 19 to estimate the liability-scale heritability (h2) of type 2 diabetes and cataract as well as their genetic correlation (rg)
+ GWAS summary statistics were filtered according to the HapMap3 reference
+ SNPs were excluded if they were strand-ambiguous, (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    had minor allele frequency <
+01, or located within the major histocompatibility complex (MHC) region (chromosome 6: 28,477,79733,448,354) due to the complicated LD structure in this region
+ The LD scores were pre-computed based on the 481 East Asians in 1000 performed to estimate the liability-scale h2 of type 2 diabetes and cataract, assuming the population and sample prevalence at 
+50%15 and 
+10%15 for type 2 diabetes, and 
+09%22 and 
+59%16 for cataract, respectively
+ Bivariate LDSC was utilized to estimate the genetic correlation (i
+ e
+, rg) between type 2 diabetes and cataract with and without a constrained intercept, which is designed to reduce the bias from population stratification
+ A significant rg To explore whether type 2 diabetes had significant genetic overlap with cataract in some specific independent genomic regions, we performed -HESS11 to estimate the local genetic correlations between type 2 diabetes and cataract according to the hg19-based 1000 Genomes East Asian reference
+ A total of 1,439 approximately LD-independent genomic regions (with the exclusion of the MHC region)23 were utilized in our analysis
+ The regions were excluded if the estimated local single-trait heritability was negative because of the insufficient study power
+ The estimated local genetic correlations were divided into four regional types: 
+ the regions harboring significant type 2 diabetes-specific SNPs (i
+ e
+, type 2 diabetes-specific); 
+ the harboring shared SNPs significantly associated with both type 2 diabetes and cataract (i
+ e
+, (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    intersection); and 
+ other regions (i
+ e
+, neither)
+ Three GWAS p-value thresholds, 510-8, 110-5, and 110-3, were used to define the significant SNPs
+ For these four regional types occupied by more than 10 regions, we calculated the mean and standard error of local genetic correlations within each type
+ A potential causal effect of type 2 diabetes on cataract is suggested if the average local genetic correlation at type 2 diabetes-specific regions and respectively
+ The opposite is true for inferring potential causal effect of cataract on type 2 diabetes
+ Besides, the existence of pleiotropic effect may be implicated if there is a non-zero The causal relationship between type 2 diabetes and cataract was evaluated by six MR weighted mode model28, and the causal analysis using summary effect estimates [CAUSE]29) and one MR-equivalent latent causal variable (LCV) model
+ Multiple methods were employed because they have different assumptions on horizontal pleiotropy, a term defined as the instrumental SNPs with effects on both exposure and outcome through non-causal pathways
+ Horizontal pleiotropy is a potential confounding factor for inferring causality and can be divided into uncorrelated pleiotropy if the instrumental SNPs influence exposure and outcome via independent mechanisms, and correlated pleiotropy if the instrumental SNPs affect exposure and outcome through shared factors
+ The consistent results of multiple MR (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    methods are expected to effectively minimize the impact of horizontal pleiotropy31 from Among the seven methods, IVW measures the causal effect by integrating ratios of variant effects (ratio estimates) between exposure and outcome, assuming a balanced uncorrelated pleiotropy (with mean zero) and no correlated pleiotropy
+ MR-Egger assumes no correlated pleiotropy and a non-zero uncorrelated pleiotropy, which adds an extra intercept compared to IVW to represent the magnitude of uncorrelated pleiotropy
+ GSMR assumes the presence of uncorrelated pleiotropy and excludes such effect by outlier removal using heterogeneity in dependent instrument (HEIDI) approach
+ The weighted median model assumes the proportion of pleiotropic (both uncorrelated and correlated) instrumental SNPs is less than half, and calculates the causal effect using the weighted median of the SNP ratio
+ The weighted mode model greatly loosens the assumptions on uncorrelated and correlated pleiotropy and measures the causal effect only from the most frequent (the mode) SNP set with consistent effect
+ At least 10 independent instrumental SNPs are required for maintaining study power using these five genome-wide significant (GWAS p-value<510-8) SNPs that are also merged with outcome GWAS, and then clumped by LD r<
+05 within 1,000 kb window using PLINK version 
+932 according to the reference genome of 1000 Genomes East Asian
+ If the number of independent instrumental SNPs was less than 10, we selected the proxy instrumental SNPs by relaxing the exposure GWAS p-value threshold to 110-5 to maintain study power
+ The LCV model30 is a MR-equivalent method that assumes the genetic correlation between two traits is (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    mediated by a latent variable, and distinguishes causality from uncorrelated and correlated pleiotropy by measuring the genetic causality proportion (GCP) using all genetic variants
+ CAUSE29 is a method that is more powerful and sensitive to identify the causality from uncorrelated and correlated pleiotropy compared to other models
+ CAUSE increases MR detection power by recruiting more approximately independent instrumental SNPs with GWAS p-value <110-3 and pruned by LD r2 <
+ 
+ CAUSE also provides an expected log pointwise posterior density (ELPD) test to compare the overall fitness among a causal model (i
+ e
+, instrumental SNPs act on exposure and outcome through a causal pathway and shared factors), a sharing model (i
+ e
+, instrumental SNPs act on exposure and outcome only through shared factors), and a null model (i
+ e
+, no causal pathway or shared factors underlying exposure and We performed these models using R packages cause (version: 
+ 
+0), LCV, gsmr (version: 
+ 
+9) and TwoSampleMR (version: 
+ 
+ )
+ Any instrumental SNPs located within the MHC region were excluded
+ A significant causal relationship was determined if the causal effect estimates were consistent and significant at the Bonferroni-corrected level (with causal effects (i
+ e
+, ) were converted from logit-scale to liability-scale using the method where  and  are the population prevalence of exposure and outcome, and 	 and 	 are the height of standard normal distribution at such prevalence
+ We assumed the population (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    prevalence for type 2 diabetes and cataract are 
+5%15 and 
+09%22 that are same as the population prevalence used in estimating the liability heritability
+ The liability  was then When a causal relationship between type 2 diabetes and cataract is established, we applied SMR13 to identify candidate risk genes underling the causality between the two diseases
+ SMR leverages GWAS and eQTL summary statistics to explore the association between gene expression and a target disease or trait using a MR equivalent analysis
+ SMR further utilizes HEIDI-outlier test to check if the significant association between gene expression and the target trait/disease is due to the causality (i
+ e
+, causal SNPs drive disease by regulating gene expression levels) or pleiotropy (i
+ e
+, causal SNPs influences both disease and gene expression via shared effects) rather than linkage (i
+ e
+, different causal SNPs in LD influences disease and In our study, we performed SMR using cis-eQTLgen summary data (19,250 expression probes in blood; URL:  to the single-trait GWAS (i
+ e
+, type 2 diabetes, cataract) and cross-trait GWAS of type 2 diabetes and cataract generated by causality or pleiotropy were determined if with a study-wise Bonferroni-corrected SMR p-value <
+05/19,250/3  
+6610-7 and a HEIDI-outlier p-value >
+05 calculated from minimum 10 SNPs
+ To identify any candidate risk genes possibly involved in the causality (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    between type 2 diabetes and cataract, we focused on the gene expressions that were significantly associated with cross-trait meta-analysis of type 2 diabetes and cataract, but not with the original single-trait disease (i
+ e
+, type 2 diabetes or cataract)
+ As shown in Table 1, the estimated SNP-based liability-scale h2 for type 2 diabetes and cataract constrained LDSC intercept, suggesting the mild inflations in both diseases GWAS
+ We then performed the bivariate LDSC with and without constrained intercept, and identified the significant genetic correlation rg between type 2 diabetes and cataract at 
+28 (SE=
+05, We conducted -HESS to estimate the local heritability of type 2 diabetes and cataract (detailed results in Table S1 and Fig
+ A)
+ We also estimated the local genetic covariance and correlation between type 2 diabetes and cataract in 824 regions (detailed in Table S1) after excluding the regions with negative local heritability
+ As shown in Table 2, we identified six (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    genomic regions at a nominal significance level (p-value<
+05) from different chromosomes, We further investigated the distribution of local genetic correlations in four regional types
+ As shown in Fig
+ 2B, regions harboring type 2 diabetes-specific SNPs were identified with average local rg significantly higher than zero
+ In reverse, regions harboring cataract-specific SNPs showed a non-significant average local rg close to zero
+ Therefore, the distribution of local rg revealed by -HESS suggested a potential putative causal relationship of type 2 diabetes on cataract
+ Besides, the average local rg from the intersection regions harboring shared significant SNPs with GWAS p-value<110-3 was estimated at 
+22 (SE=
+03, variants may be underlying type 2 diabetes and cataract, while we cannot further distinguish the causality of type 2 diabetes on cataract from such pleiotropy here using -HESS
+ Application of seven MR or MR-equivalent methods consistently detected a causal effect of detailed in Table S
+ In reverse, there was no or modest evidence for a causal effect of cataract on type 2 diabetes
+ As shown in Fig
+ 3, six MR methods provided consistent evidence for a causal effect of type 2 diabetes on cataract with estimated liability-scale ORs ranging from 
+07 to 
+13, under the assumption of the population prevalence at 
+50% of type 2 diabetes and 
+09% of cataract, respectively
+ These results indicated that individuals with type 2 diabetes had (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    approximately 
+06 to 
+17 times of risks for developing cataract compared to healthy individuals
+ Besides, LCV provided a GCP at 
+87 (p-value=
+5410-9), suggesting that the strong genetic correlation between type 2 diabetes and cataract can be largely explained by the causality of type 2 diabetes on cataract
+ Remarkably, our putative causality of type 2 diabetes on cataract was less likely to be influenced by the horizontal pleiotropy because of the close-to-zero MR-Egger intercept (-
+002, p-value =
+47) and the better model fitness of causal model (with non-significant effects of correlated pleiotropy [=-
+02, 95% CI=-
+53 to 
+30] and uncorrelated pleiotropy [q=
+04, 95% CI=0 to 
+25]) compared to the sharing model Two candidate genes likely involved in the causality of type 2 diabetes on cataract  As shown in Table S3, we performed a cross-trait meta-analysis of type 2 diabetes and cataract using METAL, and identified 9 independent novel SNPs that were associated with cross-trait of type 2 diabetes and cataract but not with the original GWAS of type 2 diabetes or cataract
+ Next, we applied SMR to the single-trait GWAS and the cross-trait meta-analysis GWAS of type 2 diabetes and cataract, and identified two candidate risk genes (Table 3), MIR4453HG expression levels were negatively associated (i
+ e
+, lower gene expression level increases the disease risk) with the susceptibility to co-morbid type 2 diabetes and cataract but not with the (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    single-traits
+ These genes likely play crucial roles in the casual effects of type 2 diabetes on To our knowledge, this is the first study to quantify the genetic correlation and explore the potential causality between type 2 diabetes and cataract specifically using East Asian population-based GWAS summary statistics
+ Our results have highly enriched our current knowledge on the shared genetic architecture between type 2 diabetes and cataract
+ Previously, researchers preferred to define co-occurrence of cataract and diabetes as a single outcome (i
+ e
+, diabetic cataract) and explored its genetics straightforwardly
+ For example, Lin et al5 performed a GWAS using 758 Chinese cases with type 2 diabetic cataract and 649 healthy controls and identified 15 independent genome-wide significant SNPs, which are associated with blood sugar regulation and cataract development
+ Another study37 recruited 2,501 Scottish cases and 3,032 controls and found a significant role of rs2283290 in triggering diabetic cataract
+ Instead of using a single GWAS dataset with a small number of diabetic cataract patients, we leveraged large population-based GWAS summary statistics of type 2 diabetes and cataract, which is more powerful and provided robust evidence supporting the Using -HESS, we identified six genomic regions with a significant local genetic correlation between type 2 diabetes and cataract
+ Assuming these regions might contribute to the causal (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    effect of type 2 diabetes on cataract, any SNPs or genes that are located within such regions and associated with type 2 diabetes and/or cataract risks are of great interest to understand the mechanisms underlying the regions
+ Therefore, we collected information from a total of 254 SNPs in ClinVar39 and genes in Malacards (supported by trustworthy sources or Cochrane based reviews40) for further analyses (Table S)
+ We identified gene HNF1B (hepatocyte nuclear factor 1; Chromosome: 17: 36,046,43436,105,096) and two SNPs (i
+ e
+, rs121918673 within gene HNF1B) that located within the significant genomic region on chromosome 17: 34,395,06136,495,389 and reported to be associated with type 2 diabetes41, 
+ In contrast, no SNPs or genes located in the -HESS estimated significant genomic regions were found to be associated with cataract risk
+ Additionally, this result revealed a large proportion of shared genetics between type 2 diabetes and cataract were from the type 2 diabetes-specific regions
+ These findings provided further evidence that the strong genetic correlation between type 2 diabetes and cataract is due to the type 2 diabetes-specific variants
+ Application of seven MR and MR-equivalent methods provided consistent results for a causal effect of type 2 diabetes on cataract
+ Our findings raise an important clinical concern in prevention and early-diagnosis of cataract in patients with type 2 diabetes
+ We provided theoretical basis at genetic level for suggesting that assessing the development and severity of type 2 diabetes is likely yielding new targets for early-diagnosis of cataract, while further studies are required to pinpoint the potential aetiology underlying type 2 diabetes and cataract
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    We also tried to replicate our findings in the European cohort using the European indicated a non-significant genetic correlation between the two diseases according to either European or East Asian reference (see Table S)
+ This result suggests the shared genetic variance between type 2 diabetes and cataract in East Asians may have strong genetic heterogeneity compared to Europeans
+ Future investigations are required for a better To identify any blood-based biomarkers that may contribute to the causal effect of type 2 diabetes, we performed the multi-trait-based conditional & joint analysis (mtCOJO)44 to adjust both type 2 diabetes and cataract GWAS on each blood-based biomarker and then conducted post-mtCOJO MR analysis on adjusted type 2 diabetes and cataract GWAS (see Supplementary note, Table S7-9, and Fig
+ S-)
+ We found that HbA1c (i
+ e
+, Hemoglobin A1c) may be involved in the causality of type 2 diabetes on cataract, standing in line with previous RCTs showing the impact of glycemic control on the prevention of ocular complications-
+ However, this result was possibly caused by the high genetic correlation between HbA1c and type 2 diabetes (rg=
+57 and 
+84 with and without constrained intercept) which may greatly decrease the heritability of type 2 diabetes and thus reduced the genetic correlation and putative causal relationship between type 2 diabetes and cataract
+ Future investigations should focus on this finding with the recruitment of a larger sample size
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    We identified two candidate functional genes MIR4453HG and KCNK17 that are likely relevant to the genetic causality between type 2 diabetes and cataract
+ Interestingly, both genes described a significant association with single-trait type 2 diabetes due to linkage (i
+ e
+, not passed HEIDI-outlier test), and then showed a more significant association with cross-trait type 2 diabetes and cataract due to causality or pleiotropy, further suggesting that cataract is likely an outcome triggered by the genetic mutations of type 2 diabetes
+ MIR4453HG is an IncRNA gene and located nearby some risk genes that have been reported to be associated with blood protein level (gene ARFIP148) and lipoprotein cholesterol levels (gene TRIM)
+ Both traits are highly relevant to the risk for type 2 diabetes50,51 and cataract52,53 
+ KCNK17 encoded a protein in the family of potassium channel
+ The mutation of KCNK17 may cause the abnormal opening of potassium channels and is associated with cardiovascular diseases (e
+ g
+, ischemic stroke and cerebral hemorrhage)54, which are known to be involved in the susceptibility to both type 2 diabetes55 and cataract
+ These results provided novel insights on the genetic mechanisms underlying the causality between type 2 diabetes and cataract
+ Further wet-lab experiments were required to approve the roles of these two genes in increasing cataract risks in Our study has several limitations
+ First, the heritability of cataract was tiny with an estimate less than 2%, which may bias the estimate of genetic correlation between type 2 diabetes and cataract
+ Nevertheless, this effect should be negligible as the heritability of cataract is significantly different from zero
+ Secondly, the number of instrumental SNPs using cataract (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    as exposure is less than 
+ Instead, we selected the proxy instrumental SNPs with p-value <110-5, which may violate assumptions of some MR methods (e
+ g
+, GSMR)
+ However, the MR effects of these MR methods are highly consistent with CAUSE, suggesting the feasible application of using the proxy instrumental SNPs
+ Thirdly, due to the limitation of our statistical models, we did not investigate the genetic contributions of the MHC region on the susceptibility to co-morbid type 2 diabetes and cataract, which possibly underestimated the In summary, we provide robust evidence for a strong genetic association between type 2 diabetes and cataract, and a putative causal effect of type 2 diabetes on cataract particularly in East Asians
+ Lower expression of two novel candidate genes MIR4453HG and KCNK17 were identified to be possibly involved in the causality between type 2 diabetes and cataract
+ Our results provided theoretical fundament at the genetic level for improving early diagnosis, prevention and treatment of cataract in type 2 diabetes patients in clinical practice
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    The work was funded by the Natural Science Foundation of China (81801132, and 81971190; HY
+Zhao, Sun Yat-sen Memorial Hospital; 61772566, 62041209, and U1611261; YD
+Y, Sun YH
+Y and H
+Zhao designed the study
+ H
+Zhang and X
+X conducted analyses, with assistance from YH
+Y, H
+Zhao and A
+ X
+ H
+Zhang, YH
+Y, and H
+Zhao wrote the manuscript
+ YD
+Y, YH
+Y, and H
+Zhao supervised the study
+ All authors contributed to the final revision of the (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    
+ Charvat H, Goto A, Goto M, et al Impact of population aging on trends in diabetes prevalence: A metaregression analysis of 160,000 Japanese adults
+ Journal of Diabetes 
+ Tan AG, Kifley A, Tham YC, et al Six-Year Incidence of and Risk Factors for Cataract Surgery in a Multi-ethnic Asian Population: The Singapore Epidemiology of Eye Diseases 
+ Foster PJ, Wong TY, Machin D, Johnson GJ, Seah SKL
+ Risk factors for nuclear, cortical and posterior subcapsular cataracts in the Chinese population of Singapore: the Tanjong Pagar 
+ Lee SC, Wang Y, Ko GTC, Ma RCW, Chan JCN
+ Risk factors for cataract in Chinese patients with type 2 diabetes: evidence for the influence of the aldose reductase gene
+ Clinical 
+ Lin HJ, Huang YC, Lin JM, et al Novel susceptibility genes associated with diabetic 
+ Chylack LT, Jr
+, Wolfe JK, Singer DM, et al The Lens Opacities Classification System III
+ The Longitudinal Study of Cataract Study Group
+ Arch Ophthalmol 1993; 111: -
+ 
+ Boomsma D, Busjahn A, Peltonen L
+ Classical twin studies and beyond
+ Nature reviews 
+ Cartwright N
+ What are randomised controlled trials good for? Philosophical Studies 
+ Pingault J-B, OReilly PF, Schoeler T, Ploubidis GB, Rijsdijk F, Dudbridge F
+ Using genetic data to strengthen causal inference in observational research
+ Nature Reviews Genetics 
+ Bulik-Sullivan BK, Loh P-R, Finucane HK, et al LD Score regression distinguishes confounding from polygenicity in genome-wide association studies
+ Nature Genetics 2015; 47: 
+ Shi H, Mancuso N, Spendlove S, Pasaniuc B
+ Local Genetic Correlation Gives Insights into the Shared Genetic Architecture of Complex Traits
+ The American Journal of Human 
+ Davies NM, Holmes MV, Davey Smith G
+ Reading Mendelian randomisation studies: a 
+ Zhu Z, Zhang F, Hu H, et al Integration of summary data from GWAS and eQTL studies 
+ Nagai A, Hirata M, Kamatani Y, et al Overview of the BioBank Japan Project: Study 
+ Suzuki K, Akiyama M, Ishigaki K, et al Identification of 28 new susceptibility loci for type 2 diabetes in the Japanese population
+ Nat Genet 2019; 51: -
+ 
+ Ishigaki K, Akiyama M, Kanai M, Takahashi A, Kamatani Y
+ Large-scale genome-wide association study in a Japanese population identifies novel susceptibility loci across different 
+ Willer CJ, Li Y, Abecasis GR
+ METAL: fast and efficient meta-analysis of genomewide (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    
+ Zhou W, Nielsen JB, Fritsche LG, et al Efficiently controlling for case-control imbalance and sample relatedness in large-scale genetic association studies
+ Nature genetics 2018; 50: 
+ Bulik-Sullivan B, Finucane HK, Anttila V, et al An atlas of genetic correlations across 
+ International HapMap C, Altshuler DM, Gibbs RA, et al Integrating common and rare 
+ da Silva JS, Wowk PF, Poerner F, Santos PS, Bicalho Mda G
+ Absence of strong linkage 
+ Yamada M, Hiratsuka Y, Roberts CB, et al Prevalence of visual impairment in the adult Japanese population by cause and severity and future projections
+ Ophthalmic Epidemiol 2010; 
+ Berisa T, Pickrell JK
+ Approximately independent linkage disequilibrium blocks in 
+ Burgess S, Dudbridge F, Thompson SG
+ Combining information on multiple instrumental variables in Mendelian randomization: comparison of allele score and summarized data 
+ Bowden J, Davey Smith G, Burgess S
+ Mendelian randomization with invalid instruments: effect estimation and bias detection through Egger regression
+ International journal of 
+ Zhu Z, Zheng Z, Zhang F, et al Causal associations between risk factors and common diseases inferred from GWAS summary data
+ Nature Communications 2018; 9: 
+ 
+ Bowden J, Davey Smith G, Haycock PC, Burgess S
+ Consistent Estimation in Mendelian Randomization with Some Invalid Instruments Using a Weighted Median Estimator
+ Genet 
+ Hartwig FP, Davey Smith G, Bowden J
+ Robust inference in summary data Mendelian 
+ Morrison J, Knoblauch N, Marcus JH, Stephens M, He X
+ Mendelian randomization 
+ OConnor LJ, Price AL
+ Distinguishing genetic correlation from causation across 52 
+ Burgess S, Davey Smith G, Davies NM, et al Guidelines for performing Mendelian 
+ Purcell S, Neale B, Todd-Brown K, et al PLINK: a tool set for whole-genome association and population-based linkage analyses
+ Am J Hum Genet 2007; 81: -
+ 
+ Auton A, Abecasis GR, Altshuler DM, et al A global reference for human genetic 
+ Byrne EM, Zhu Z, Qi T, et al Conditional GWAS analysis to identify disorder-specific 
+ Vsa U, Claringbould A, Westra H-J, et al Unraveling the polygenic architecture of (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    
+ Willer CJ, Li Y, Abecasis GR
+ METAL: fast and efficient meta-analysis of genomewide 
+ Chang C, Zhang K, Veluchamy A, et al A Genome-Wide Association Study Provides New Evidence That CACNA1C Gene is Associated With Diabetic Cataract
+ Investigative 
+ Lin HJ, Huang YC, Lin JM, Wu JY, Tsai FJ
+ Single-nucleotide polymorphisms in chromosome p
+1- p
+2 are associated with susceptibility of Type 2 diabetes with 
+ Landrum MJ, Lee JM, Benson M, et al ClinVar: improving access to variant 
+ Rappaport N, Nativ N, Stelzer G, et al MalaCards: an integrated compendium for diseases and their annotation
+ Database : the journal of biological databases and curation 
+ Huang T, Wang L, Bai M, et al Influence of IGF2BP2, HMG20A, and HNF1B genetic polymorphisms on the susceptibility to Type 2 diabetes mellitus in Chinese Han population
+ 
+ El-Khairi R, Vallier L
+ The role of hepatocyte nuclear factor 1 in disease and 
+ Xue A, Wu Y, Zhu Z, et al Genome-wide association analyses identify 143 risk variants and putative regulatory mechanisms for type 2 diabetes
+ Nat Commun 2018; 9: 
+ 
+ Zhu Z, Zheng Z, Zhang F, et al Causal associations between risk factors and common diseases inferred from GWAS summary data
+ Nature communications 2018; 9: -
+ 
+ Ismail-Beigi F, Craven T, Banerji MA, et al Effect of intensive treatment of hyperglycaemia on microvascular outcomes in type 2 diabetes: an analysis of the ACCORD 
+ Patel A, MacMahon S, Chalmers J, et al Intensive blood glucose control and vascular outcomes in patients with type 2 diabetes
+ The New England journal of medicine 2008; 358: 
+ Shichiri M, Kishikawa H, Ohkubo Y, Wake N
+ Long-term results of the Kumamoto Study on optimal diabetes control in type 2 diabetic patients
+ Diabetes care 2000; 23 Suppl 2: 
+ Sun BB, Maranville JC, Peters JE, et al Genomic atlas of the human plasma proteome
+ 
+ Klarin D, Damrauer SM, Cho K, et al Genetics of blood lipids among ~300,000 multi-ethnic participants of the Million Veteran Program
+ Nat Genet 2018; 50: -
+ 
+ Gannon MC, Nuttall FQ, Saeed A, Jordan K, Hoover H
+ An increase in dietary protein improves the blood glucose response in persons with type 2 diabetes
+ The American journal of 
+ Krauss RM
+ Lipids and lipoproteins in patients with type 2 diabetes
+ Diabetes care 2004; 
+ Delcourt C, Dupuy AM, Carriere I, Lacroux A, Cristol JP
+ Albumin and transthyretin as risk factors for cataract: the POLA study
+ Archives of ophthalmology (Chicago, Ill : 1960) 
+ Betzler BK, Rim TH, Sabanayagam C, Cheung CMG, Cheng CY
+ High-Density (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    
+ He L, Ma Q, Wang Y, et al Association of variants in KCNK17 gene with ischemic stroke and cerebral hemorrhage in a Chinese population
+ Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association 2014; 23: 
+ Martn-Timn I, Sevillano-Collantes C, Segura-Galindo A, Del Caizo-Gmez FJ
+ Type 2 diabetes and cardiovascular disease: Have all risk factors the same strength? World journal of 
+ Nemet AY, Vinker S, Levartovsky S, Kaiserman I
+ Is cataract associated with (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 10, 
+ ;    Table 
+ Heritability of type 2 diabetes and cataract and their genetic correlation estimated by LDSC Table 
+ Local heritability of type 2 diabetes and cataract and their genetic covariance/correlation estimated by -HESS *The estimates of local genetic correlation may be less than -1 or greater than 1 due to the insufficient study power
+ -HESS caps these estimates Table 
+ SMR identified two candidate genes involving in the causality between type 2 diabetes and cataract   Figure 
+ Outline of statistical analysis performed in our study, including four sections: 
+ top left, measuring the genetic correlation between type 2 diabetes and cataract using LDSC; 
+ top right, measuring the local genetic correlation between type 2 diabetes and cataract using -HESS; 
+ bottom right, investigating the potential causal relationship between type 2 diabetes and cataract using seven MR or MR-equivalent approaches
+ 
+ bottom left, identifying candidate risk genes underlying the causality between type 2 diabetes and cataract
+ LDSC: linkage disequilibrium score regression; -HESS: Heritability Estimation from Summary Statistics; MR: Mendelian randomization
+ SMR: summary data-based Mendelian Figure 
+ A
+ The local heritability of type 2 diabetes and cataract as well as their genetic covariances and genetic correlations from approximately LD-independent genomic regions estimated by -HESS
+ For plots of local heritability, the blue or red bars represent the genomic regions on odds or even chromosome
+ For the plots of local genetic correlation and local genetic covariance, the blue or red bars represent the genomic regions on odds or even chromosome showing nominal significant (p-value <
+05) local genetic correlation/covariance between type 2 diabetes and cataract
+ B
+ The average local genetic correlation between type 2 diabetes and cataract in four regional types (i
+ e
+, type 2 diabetes-specific, cataract-specific, intersection, and neither) harboring risk SNPs with GWAS p-value <110-3 (colored in red;  <110-5 (colored in green; Nregion=232, 29, 5, and 1171) and <respectively
+ Error bars represent the 95% confidence intervals (CIs) of the estimates
+ -HESS: Heritability Estimation from Summary Statistics
+ *The average local rg were not calculated for regional types occupied <10 regions
+ Figure 
+ The bi-directional causal effect (in liability-scale odds ratio [OR]) between type 2 diabetes and cataract estimated by six MR methods
+ Error bars represent the 95% confidence intervals (CIs) of the estimates
+ Blue: type 2 diabetes as exposure and cataract as outcome, i
+ e
+, Type 2 diabetes to Cataract; Red: cataract as exposure and type 2 diabetes as outcome, i
+ e
+, Cataract to Type 2 diabetes
+ CAUSE: causal analysis using summary effect estimates; GSMR: generalized summary-data-based Mendelian randomization; IVW: inverse variance weighted
+ *CAUSE recruited independent instrumental SNPs with GWAS p-value <-
+ IVW, MR-Egger, GSMR, weighted median, and weighted 

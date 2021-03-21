@@ -1,0 +1,400 @@
+Effects of Attentional Bias Modification on Residual Symptoms in depression
+ A Randomized Controlled TrialRune Jonassen, Catherine J
+ Harmer, Eva Hilland, Luigi A
+ Maglanoc, Brage Kraft, Michael Browning, Tore C
+ Stiles, Vegard 
+ Haaland , Torkil Berge & Nils Inge Landr Rune Jonassen, Ph
+D, Cand
+Psychol, Clinical Neuroscience Research Group, Department of Psychology, Catherine J
+ Harmer, DPhil, Psychopharmacology and Emotional Research Lab (PERL), University Department of Psychiatry, University of Oxford, UK
+ Clinical Neuroscience Research Group, Department Eva Hilland, M
+Sc, Diakonhjemmet Hospital, Division of Psychiatry, Oslo, Norway
+ Email: Luigi A
+ Maglanoc, M
+Sc, Clinical Neuroscience Research Group, Department of Psychology, Oslo, Norway
+ NORMENT, KG Jebsen Centre for Psychosis Research, Division of Mental Health and Addiction, Oslo University Hospital & Institute of Clinical Medicine, University of Oslo, Norway
+ Email: Brage Kraft, Cand
+Psychol, Clinical Neuroscience Research Group, Department of Psychology, Oslo, Tore C
+ Stiles, DPhil, Cand
+ Psychol
+, Department of Psychology, Norwegian University of Science and Vegard 
+ Haaland, Ph
+D, Cand
+Psychol, Srlandet Hospital, Department of Psychiatry, Kristiansand, Norway
+ Clinical Neuroscience Research Group, Department of Psychology, Oslo, Norway
+ Email: Torkil Berge, Cand
+Psychol, Diakonhjemmet Hospital, Division of Psychiatry, Oslo, Norway
+ Email: Nils Inge Landr, DPhil, Cand
+Psychol, Clinical Neuroscience Research Group, Department of Psychology, Oslo, Norway
+ Diakonhjemmet Hospital, Division of Psychiatry, Oslo, Norway
+ Email: Forskningsveien 3A, 0373 Oslo & Nils Inge Landr, Clinical Neuroscience Research Group, Department of Psychology, Oslo, Norway
+ Diakonhjemmet Hospital, Division of Psychiatry, Oslo, Norway, certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 22, 
+ ;    symptoms
+ However, large randomised controlled trials (RCT) in this population are lacking
+ When Attention bias modification training (ABM) leads to more positive emotional biases, associated changes in clinical symptoms have been reported
+ A broader and more transparent picture of the true advantage of ABM based on larger and more Aims: To evaluate the early effect of two weeks ABM training on blinded clinician-rated Method: A total of 321 patients with a history of depression were included in a emotional ABM paradigm over fourteen days or a closely matched control condition
+ Symptoms based on the Hamilton Rating Scale for Depression (HRSD) and Beck Depression Inventory II (BDI-II) were obtained at baseline and after ABM training
+  Results: ABM training led to significantly greater decrease in clinician-rated symptoms of depression as compared to the control condition
+ No differences between ABM and placebo were found for self-reported symptoms
+ ABM induced a change of AB towards Conclusion: The current study demonstrates that ABM produces early changes in both AB and blinded clinician-rated depressive symptoms
+ ABM may have practical potential certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 22, 
+ ;    A wide range of treatments are available for depression
+ However, systematic reviews point to limited efficacy in terms of remission, response rates and long-term effects for both pharmacological (1) and psychological treatments ()
+ Forty percent of patients do not, or only partially, respond to treatment, and less than one third are completely recovered after treatment ()
+ Residual symptoms following treatment are associated with decreased return to function, reduced quality of life and increased risk of recurrence Depression is associated with an increased focus on negative interpretations of events and negative biases in attention and memory
+  Previous studies have reported that clinically depressed subjects orient their attention toward negative faces rather than neutral or positive faces ()
+ Biases towards negative faces have also been reported in previously depressed, currently euthymic subjects (6), and in never-depressed individuals with a family history of depression ()
+ In a seminal experimental study a causal role for negative attention biases in the expression of depressive and anxious symptoms was demonstrated ()
+ They found higher levels of anxiety and depression related mood ratings in undergraduates, as a reaction to a stressor, after being trained to preferentially attend to negative versus neutral stimuli
+ Together these results indicate that negative rather than simple markers of lowered mood
+ This suggests that interventions designed to reduce AB may act to reduce symptoms in patients treated for depression
+ biases towards more positive and less negative stimuli
+ ABM is low on resource requirements and easy to disseminate and might therefore be widely used by patients with residual symptoms or while waiting for more resource intensive interventions like psychotherapy
+ While some studies have reported an effect of ABM in depression a number of meta-analyses have suggested a small effect size, although definitive conclusions have been limited by small sample sizes and poor trial methodology employed in many studies (-)
+ In addition, some potential techniques for altering AB have failed to modify AB as part of the treatment programme, which limits their ability to The main objective of our study was to test the early efficacy of ABM in a large group of previously depressed patients, but with residual symptoms using a preregistered trial design
+ We hypothesized that two weeks of ABM training would reduce clinician- and self-reported residual symptoms of depression, as compared to a matched control condition
+ Given the clear mechanistic role for altered bias in the clinical effects of ABM, we predicted a change towards more positive biases in the ABM group and that this certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 22, 
+ ;    Patients who had previously been identified as suffering from depression were randomised to receive two weeks of either ABM- or placebo training
+ Participants completed two sessions of ABM daily using laptops provided by the research team
+ A detailed calendar was used to specify the scheduling of the training sessions for each participant
+ Symptoms of depression and AB were assessed at baseline and immediately The main recruitment base was an outpatient clinic in the Department of Psychiatry, Diakonhjemmet Hospital in Oslo
+ Participants were also recruited from other clinical sites, by local advertisements, and via social media
+ Candidates were pre-screened by phone for exclusion criteria before in person formal clinical evaluation and enrollment
+ spectrum disorders, substance use disorders, attention deficit disorder, and head trauma A total of 377 participants between 18-65 years old were recruited for clinical evaluation
+  Participants had experienced more than one previous episode of depression as defined using the Mini International Neuropsychiatric Interview, version 
+ 
+ 
+ (MINI)
+ A total of 56 subjects were excluded following the clinical evaluation
+ The period of recruitment and follow-up was January 2015 to October 2016 and was first posted in A total of 321 participants with a history of Major Depressive Episodes (MDE) were randomised to receive ABM or placebo
+ Thirty-seven participants who fulfilled the MINI criteria for current MDE were enrolled onto the study in error (current MDE was described as exclusion criteria in the pre-registered protocol)
+ Inclusion of data from The ABM task was a computerized visual dot-probe procedure adopted from ()
+ Paired images of faces (the stimuli), were presented followed by one or two dots (a probe), which appeared behind one of the stimuli
+ Participants were required to press one of two buttons as quickly as possible to indicate the number of dots in the probe
+ The types of stimuli used during the ABM task were pictures of emotional faces of three valences; positive (happy), neutral, or negative (angry and fearful)
+ A single session of the task involved 96 trials with equal numbers of the three stimulus pair types
+ In addition, there were equal numbers of trials in which the stimuli were randomly presented for 500- or 1000 ms before the probe was displayed
+ In each trial of the task, stimuli from two valences were displayed, in one of the following pairing types: positive-neutral, positive-negative, and negative-neutral In the ABM condition, probes were located behind positive (valid trials) stimuli in 87 % of the trials, as opposed to 13% with probes located behind the more negative stimuli (invalid trials)
+ Thus, when completing the ABM, certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 22, 
+ ;    participants should learn to deploy their attention toward the relatively more positive stimuli, and in this way develop a more positive AB
+ The neutral ABM control (placebo) condition was identical in every respect, other than the location of the probe, which was located behind the positive (valid trials) stimuli in only 50% of the trials
+ Participants completed two sessions of ABM daily during the course of fourteen days (28 sessions in total) on identical notebook computers that were set up and used exclusively for ABM-AB was measured at baseline and after two weeks of ABM using a standard visual probe procedure consisting of 96 trials, with the same trial types as used in the ABM procedure
+ Novel facial stimuli were used in the assessment tasks
+ AB was calculated as the difference in reaction between trials in which the probe replaced the relatively more negative face vs
+ the more positive face ([(SUM(positive up- probe down, positive down, probe up) - SUM(positive up- probe up, positive down- probe down)]/
+ )
+ Thus a more positive score reflects a greater bias towards the more positive stimuli
+  An independent lab technician (not involved in the day to day collection of data) prepared training computers to deliver either ABM or placebo treatment according to a randomization list in a 1:1 ratio ensuring that allocation was concealed from all intervention is stored in the ABM raw data file that was opened and merged with screening data for statistical analyses first after the data collection period was finished in October 
+ Outcome assessors and participants were therefore blind to allocation The primary outcome measures were The Hamilton Rating Scale for Depression (HRSD) (15) and Beck Depression Inventory (BDI-II) (16) administered to assess both clinician - and self evaluations of symptoms
+ Secondary outcome was AB measured by a single session of the placebo-training task at baseline and after two weeks follow-up
+ Comorbid anxiety symptomatology was screened by the use of The Beck Anxiety Inventory (BAI-All data were analysed using PASW 
+0 (IBM)
+ The primary outcomes for the Intention to treat (ITT) sample was analysed by using repeated measures ANOVA with intervention (ABM versus placebo) as a fixed factor
+ Symptom at baseline and at two weeks follow-up (HRSD or BDI-II) was entered as within subject variable (time)
+ To test the interaction between changes in symptoms and changes in AB, statistically significant symptom changes between ABM and placebo were followed up by repeated measures ANOVA by adding AB (two weeks follow-up minus baseline across valences and stimulus durations) as a second time factor in the model
+ Thereafter, the individual distribution of symptom change and AB was explored within groups with linear certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 22, 
+ ;    A requirement of the national ethical committee was that study participants could elect to have all data stored on them during the study erased (i
+ e
+ including randomisation information) which precludes imputation of missing data
+ Of the 20 participants who did not complete the study following randomisation, 10 elected to have their data erased and thus data was imputed only for the remaining 10 remaining allocated to intervention
+ Thus, Thus the ITT analyses included 311 participants while participant with full data sets included 301 participants (see supplementary Figure 
+ )
+ A detailed description of procedures for data reduction, imputation and a post hoc analysis of the potential impact of noncompliance, stimulus valence- and duration, and sensitivity analysis are provided Table 1 Demographic and sample characteristics per protocol
+ MDE=Major Depressive Episodes according to M
+ I
+ N
+ I
+ SSRI= any current usage of an antidepressant belonging to the Selective Serotonin Reuptake Inhibitors
+  ISCED= International Standard Classification of Education
+ P-values from Pearson There was a statistically significant difference (time) between ABM and the control condition in blinded clinician-rated symptoms as measured by the HRSD [F (,)=
+78, = 
+02, p< 
+ ]
+ Means and standard deviations at baseline were 
+2 (
+9) for ABM and 
+3 (
+0) for placebo and changed to 
+3 (
+9) and 
+8 (
+7) at two weeks follow-up
+ Together the results show a positive change after ABM as compared to certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 22, 
+ ;    Although not statistically significant, there was a mean HRSD difference at baseline (Table 
+ )
+ A post hoc sensitivity test was therefore conduced by excluding potential outliers in the high end of HRSD scores (HRSD > 17 = cut-off for moderate depression)
+ The post hoc test showed statistically significant differences in HRSD between ABM (n=135) and placebo (n=)
+ Means and standard deviations at baseline were 
+5 (
+9) for ABM and 
+2 (
+9) for placebo and changed to 
+3 (
+1) and 
+1 (
+4) at two weeks follow-up [F (,)=
+48, = 
+02, p= 
+03] indicating that the observed changes in There was no statistically significant difference in self-reported depression as measured by the BDI-II between the ABM and the control condition [F (,)=
+07, p= 
+ ]
+ Both ABM and placebo showed statistically significant (time) improvement based on the BDI-II [F (,)=
+77, = 
+18, p < 
+ ]
+ Means and standard deviations at baseline were 
+9 (
+5) for ABM and 
+8 (
+7) for placebo and were 
+5 (
+4) and 
+4 (
+8) Figure	 1	 The mean symptom change in at baseline and after two weeks of ABM training for HRSD
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 22, 
+ ;    Figure	 2	 The mean symptom change in at baseline and after two weeks of ABM training for BDI-II
+ interaction between changes in AB (time) and changes in HRSD (time) meaning that an association between relatively more positive biases was associated with symptom change in both groups [F (,)=
+793, = 
+01, p= 
+ ]
+ A post hoc linear regression model showed that there was a statistically significant association between changes HRSD and changes and AB within the ABM group (Beta= 
+22, p < 
+00, R^2 = 
+05) but not within the certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 22, 
+ ;    Figure	 3	 Relationship between changes in HRSD (two weeks follow-up minus baseline) and changes in AB (two weeks follow-up minus baseline)
+ Positive values = changes towards more positive biases
+  No statistically significant differences (time) were found for self-reported anxiety as measured by the BAI-II [F (,)=
+648, p= 
+ ]
+ As found for self-reported depression (BDI-II) general symptom improvement was found in both ABM and in the A repeated measure ANOVA with depression status (current MDD) and intervention as fixed factors revealed a statistically significant interaction between HRSD (time) and depression status [F (,)=
+222, = 
+02, p= 
+ ]
+ Means and standard deviations at baseline were 
+5 (
+1) for current MDD and 
+7 (
+5) for no current MDD and changed to 
+7 (
+3) and 
+6 (
+5) at two weeks follow-up
+ The interaction between HRSD and the intervention remained statistically significant [F (,)=
+313, = 
+03, p< 
+ ]
+ The three-way interaction between depression status, intervention and HRSD was not statistically significant [F (,)=
+657, p= 
+ ]
+ The results show that blinded rated symptoms was higher in current depression and decrease relative to placebo after ABM Two weeks of ABM training significantly reduced blinded clinician-rated symptoms as compared to a control condition in a group of patients previously treated for depression and with various degrees of residual symptoms
+ Relatively more positive change in AB certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 22, 
+ ;    emotional disorders, the degree of symptom improvement increased with degree of relatively more positive bias within the ABM group
+ A larger intervention independent effect was also found for self-reported depression and self-reported anxiety
+ Symptom improvement was dot driven by, but was more pronounced in participants who also fulfilled the formal diagnostic criteria for current depression
+ Post hoc exclusion of participants with high HRSD scores had no impact on the ABM effect, and per protocol analyses showed that the results are robust against imputations and compliance rates
+  In addition to being among the strongest predictors for recurrence in depressive disorder (4) residual symptoms also cause significant functional impairments, manifested in a variety of domains, including work and leisure activities ()
+ The latter is important because one aim of depression treatment is to restore the patients previous level of functioning
+ However, residual symptoms in depression have traditionally not been the target of treatment trials
+  Given the recurrent nature of the illness, we suggest that this should change and that our study provides an example of how this may be done
+   It is not clear why ABM versus placebo did not differ as measured by the BDI-II self-report scale, but instead showed a relatively large improvement in both the ABM- and placebo
+ In another recent study, fifty-two participants in a major depressive episode (MDE) was recruited for ABM training and a similar significant change in BDI-II in both the ABM- and placebo was found ()
+ The lack of association between ABM and self-reported symptoms was not expected from the pre-registered hypothesis and interpreting the source of this lack of evidence is speculative
+ However, self-report may be more influenced by placebo or expectation effects
+ A general effect of the intervention may also be linked to cognitive training effects present in both training conditions
+ An assessment only group will help in distinguishing placebo- from ABM in future studies
+ clinician-rated symptoms represent strength in the current study and the results clearly Participants completed the training in their homes, which is an advantage as it makes it more feasible as a treatment
+ Furthermore, compliance was high (see supplemental results) which is important and contrary to the conclusion in a recent review of meta-analyses ()
+ These authors conclude that ABM paradigms are most effective when delivered in the laboratory rather than at home
+ Specifying the scheduling of the training sessions individually might have increased motivation to do and focus on the task
+ The results suggest that ABM does indeed exert an effect on blinded clinician-rated symptoms
+ The finding would be considered clinically non significant in treatment trials
+ However, it is not clear how to interpret clinical relevance of small HRSD score changes in this group
+ The HRSD and BDI-II is only moderately correlated and may partly reflect different depression constructs ()
+ It is unclear whether the effect of ABM would continued for longer
+ Although residual symptoms are predictive of risk of relapse, it will certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 22, 
+ ;    be important to test in longer-term prevention studies whether the observed beneficial effect of ABM could translate into clinical relevance like reduction of relapse
+  There is a pressing need to improve treatment and thus clinical trials should focus not only on efficacy, but also on identification of the underlying mechanisms through which treatments operate ()
+ We observed a number of people with large changes in AB that go along with symptoms improvement, but also with no change in HRSD or even worsening of HRSD scores
+ Identification of this individual variability may be useful in evaluations of treatment efficacy and in personalized treatment
+ The current study reports the pre-registered primary outcome, but stratification based on degree of AB, changes in dispersion and/or distribution of AB, or paradigms sensitive to the temporal expression of AB may help advance basic knowledge on the conditional benefit of ABM ()
+  The study has several limitations that should be mentioned
+ Sparse research on this population impede calculations of sample sizes from prior studies but would further increase the stringency of the study design in accordance with CONSORT guidelines ()
+ Inclusion of 37 patients that also fulfilled the formal criteria for current depression depression did not explain the results and increases the generalizability of the reported findings
+ Residual depression is widely defined as the study did not assess symptom change during former treatment and classify all symptoms as residual independent of Previous studies have reported a mixture of positive and negative findings (14, 24-26) leading to a degree of scepticism about the impact of ABM on symptoms of depression ()
+ Our study is by far the largest randomized controlled clinical trial of ABM in a depressed population and gives a broader and more transparent picture of the true advantage of the intervention in this population
+ The results verify the proof of principle by showing that changes in AB is linked to changes in symptoms and suggest that ABM Ethics approval and consent to participate: Written informed consent was obtained before enrollment
+ The study was approved by The Regional Ethical Committee for Medical and Health Research for Southern Norway (2014/217/REK Sr-st D)
+ The authors assert that all procedures contributing to this work comply with the ethical standards of the relevant national and institutional committees on human experimentation and with the Helsinki Declaration of 1975, as revised in 
+  Availability of data and materials: The datasets used and/or analysed during the current certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 22, 
+ ;    Competing interests: CJH has received consultancy fees form Johnson and Johnson Inc, P1 vital an Lundbeck
+ MB is employed part time by P1 vital Ltd and owns shares in P1 vital products Ltd
+ He has received travel expenses from Lundbeck for attending conferences
+ NIL has received consultancy fees and travel expenses from Lundbeck
+  Funding: This work was supported by grants from the Research Council of Norway (project number 229135) and The South East Norway Health Authority Research Funding (project number )
+ The Department of Psychology, University of Oslo has also supported the project
+ MB is supported by a Clinician Scientist Fellowship from Authors contributions: NIL is PI in RCN, project number 247372 and in SEH, project number 2015052 and received funding for the projects
+ CJH is Co-PI in both projects
+ Both NIL and CJH were central in the study design, writing, and in revisions of the manuscript
+ VH contributed in the planning of the project and the study design, and in revisions of the manuscript
+ EH, BK and LAM equally contributed in data collection, analysis, interpretation, writing and revisions
+ MB was central in data analysis, interpretations writing and revisions of the manuscript
+ TS and TB contributed in planning the study design, patient recruitment and diagnostics
+ RJ was post doctor and project manager for this study and was also responsible and directly involved in the data Acknowledgements: We want to thank the following research assistants: Inger Marie Andreassen, Adrian Dahl Askelund, Dani Beck, Sandra Aakjr Bruun, Jenny Tveit Kojan, Nils Eivind Holth Landr, Elise Solbu Kleven and Julie Wasmuth
+ Further, we thank Kari Agnes Myhre and Senior Consultant, Research leader; MD, Phd Erlend Ben at Diakonhjemmet Hospital, Division of Psychiatry, for help and support during the recruiting period
+ We also thank our external recruitment sites, Unicare, Coperiosenteret Bias scores were calculated based on median reaction times
+ We choose to clean data for reaction times below 200- and 2000ms in accordance with recent literature that have aimed to grasp temporal stability in AB ()
+ The mean total trials included after applying the filter was 
+25% (,04%) in the placebo group and 
+23% (
+02%) in the ABM group and did not differ between the groups [F (,)=
+003,  p= 
+ ]
+ A second filter was used to exclude incorrect responses
+ The filter affected the placebo group by leaving 
+45% (
+007%) and also 
+45% (
+008%) in ABM group for further analyse and did not differ between ABM and placebo [F (,)=
+002, p= 
+ ]
+ A total of 13 participants lacked either pre- or post ABM data that form the basis for the calculation of bias scores
+ The series mean was used as imputation method for missing data
+  certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 22, 
+ ;    Optimal ABM compliance was ensured using a calendar system describing the ABM training that was scheduled individually before the intervention
+ Compliance rates for the Compliance rates (percentage of max 2688 trials) did not differ between ABM (M=
+5 (
+8)) and placebo (M=
+0 (
+2)) [F (,)=
+731, p= 
+ ]
+ A post hoc analysis restricted to participants with compliance above 50% (ABM n=147, placebo n=133) did not affect the association between HRSD change and ABM (M=
+4 (
+5)) versus There was a statistically significant interaction between HRSD change x face pairs (positive versus neutral, negative versus neutral, positive versus negative) x intervention (ABM versus placebo) that showed ABM more modification towards positive versus neutral stimuli as compared to the two other valence categories [F (,)=
+278, p= 
+ ]
+ Stimulus duration (500- or 1000 ms) did not interact with HRSD change and As in the ITT analyses, a repeated ANOVA showed a main effect of ABM as compared to placebo in HRSD scores when the 10 imputed ITT participants were excluded from the certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 22, 
+ ;    Supplemental Figure 
+ Flow diagram for enrolment, allocation to active placebo or ABM, follow-up after two weeks, and analyses in accordance with CONSORT ()
+ Not meeting inclusion criteria= no MDE according to M
+ I
+ N
+ I
+ Other reasons (n=42)= current or former mania and/or hypomania according to M
+ I
+ N
+ I
+ Ten participants (5 in each group) elected to have their data erased
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 22, 
+ ;    
+	  Turner	 EH,	 Matthews	 AM,	 Linardatos	 E,	 Tell	 RA,	 Rosenthal	 R
+	 Selective	 publication	 of	 antidepressant	 trials	 and	 its	 influence	 on	 apparent	 efficacy
+	 N	 Engl	 J	 
+	  Cuijpers	 P,	 van	 Straten	 A,	 Bohlmeijer	 E,	 Hollon	 SD,	 Andersson	 G
+	 The	 effects	 of	 psychotherapy	 for	 adult	 depression	 are	 overestimated:	 a	 meta-analysis	 of	 study	 
+	  Andrews	 G,	 Issakidis	 C,	 Sanderson	 K,	 Corry	 J,	 Lapsley	 H
+	 Utilising	 survey	 data	 to	 inform	 public	 policy:	 comparison	 of	 the	 cost-effectiveness	 of	 treatment	 of	 ten	 
+	  Paykel	 ES
+	 Partial	 remission,	 residual	 symptoms,	 and	 relapse	 in	 depression
+	 
+	  Peckham	 AD,	 McHugh	 RK,	 Otto	 MW
+	 A	 meta-analysis	 of	 the	 magnitude	 of	 
+	  Joormann	 J,	 Gotlib	 IH
+	 Selective	 attention	 to	 emotional	 faces	 following	 
+	  Joormann	 J,	 Talbot	 L,	 Gotlib	 IH
+	 Biased	 processing	 of	 emotional	 information	 
+	  MacLeod	 C,	 Rutherford	 E,	 Campbell	 L,	 Ebsworthy	 G,	 Holker	 L
+	 Selective	 attention	 and	 emotional	 vulnerability:	 assessing	 the	 causal	 basis	 of	 their	 association	 
+	  Cristea	 IA,	 Kok	 RN,	 Cuijpers	 P
+	 Efficacy	 of	 cognitive	 bias	 modification	 
+	  Hallion	 LS,	 Ruscio	 AM
+	 A	 Meta-Analysis	 of	 the	 Effect	 of	 Cognitive	 Bias	 
+	  Jones	 EB,	 Sharpe	 L
+	 Cognitive	 bias	 modification:	 A	 review	 of	 meta-analyses
+	 J	 
+	  Grafton	 B,	 MacLeod	 C,	 Rudaizky	 D,	 Holmes	 EA,	 Salemink	 E,	 Fox	 E,	 et	 al	 Confusing	 procedures	 with	 process	 when	 appraising	 the	 impact	 of	 cognitive	 bias	 
+	  Clarke	 PJ,	 Notebaert	 L,	 MacLeod	 C
+	 Absence	 of	 evidence	 or	 evidence	 of	 
+	  Browning	 M,	 Holmes	 EA,	 Charles	 M,	 Cowen	 PJ,	 Harmer	 CJ
+	 Using	 Attentional	 
+	  Snaith	 RP
+	 Hamilton	 rating	 scale	 for	 depression
+	 The	 British	 journal	 of	 
+	  Beck	 AT
+	 Manual	 for	 the	 Beck	 Depression	 Inventory-II
+	 San	 Antonio,	 TX:	 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 22, 
+ ;    
+	  Beck	 AT,	 Steer	 RA
+	 Beck	 Anxiety	 Inventory	 Manual	 San	 Antonio,	 TX:	 
+	  Israel	 JA
+	 Remission	 in	 depression:	 definition	 and	 initial	 treatment	 
+	  Beevers	 CG,	 Clasen	 PC,	 Enock	 PM,	 Schnyer	 DM
+	 Attention	 bias	 modification	 for	 major	 depressive	 disorder:	 Effects	 on	 attention	 bias,	 resting	 state	 connectivity,	 
+	  Cameron	 IM,	 Cardy	 A,	 Crawford	 JR,	 du	 Toit	 SW,	 Hay	 S,	 Lawton	 K,	 et	 al	 
+	  Holmes	 EA,	 Ghaderi	 A,	 Harmer	 CJ,	 Ramchandani	 PG,	 Cuijpers	 P,	 Morrison	 AP,	 et	 al	 The	 Lancet	 Psychiatry	 Commission	 on	 psychological	 treatments	 research	 in	 
+	  Zvielli	 A,	 Bernstein	 A,	 Koster	 EHW
+	 Temporal	 dynamics	 of	 attentional	 bias
+	 
+	  Wells	 TT,	 Beevers	 CG
+	 Biased	 attention	 and	 dysphoria:	 Manipulating	 selective	 
+	  Yang	 W,	 Ding	 Z,	 Dai	 T,	 Peng	 F,	 Zhang	 JX
+	 Attention	 bias	 modification	 training	 in	 individuals	 with	 depressive	 symptoms:	 A	 randomized	 controlled	 trial	 J	 Behav	 
+	  Baert	 S,	 De	 Raedt	 R,	 Schacht	 R,	 Koster	 EH
+	 Attentional	 bias	 training	 in	 depression:	 therapeutic	 effects	 depend	 on	 depression	 severity
+	 J	 Behav	 Ther	 Exp	 
+	  Heeren	 A,	 Philippot	 P,	 Koster	 EHW,	 Id,	 Heeren	 AOhoo,	 Koster	 EHWOhooX
+	 Impact	 of	 the	 temporal	 stability	 of	 preexistent	 attentional	 bias	 for	 threat	 on	 its	 alteration	 through	 attention	 bias	 modification
+	 J	 Behav	 Ther	 Exp	 Psy
+	 ;
+49(Part	 
+	  Bradley	 BP,	 Mogg	 K,	 Lee	 SC
+	 Attentional	 biases	 for	 negative	 information	 in	 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 22, 
+ ;    

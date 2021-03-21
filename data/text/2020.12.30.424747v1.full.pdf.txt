@@ -1,0 +1,450 @@
+DE NOVO GERMLINE MUTATION IN THE DUAL SPECIFICITY PHOSPHATASE 10 GENE Dumas5, Peipei Hu1,2, Pre Santamaria6, Stephen Lyon3, Lindsay Scott3, Chun Hui Bu3, Tao Wang3,7, Darui Xu3, Eva Marie Y
+ Moresco3, Claudio Scazzocchio8, Jean-Franois Bach1,2, 3 Center for the Genetics of Host Defense, University of Texas Southwestern Medical Center, 5 CNRS UMR7242, Biotechnology and Cell Signaling, University of Strasbourg, 67412, 6 Julia McFarlane Diabetes Research Centre (JMDRC) and Department of Microbiology, Immunology and Infectious Diseases, Snyder Institute for Chronic Diseases and Hotchkiss Brain Institute, Cumming School of Medicine, University of Calgary, Alberta, Canada 7 Quantitative Biomedical Research Center, Department of Population and Data Sciences, 8 Department of Microbiology, Imperial College London, London SW7 2AZ, United Kingdom (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    Here we report the isolation by selective breeding of two sublines of Non-Obese Diabetic (NOD) mice exhibiting a significant difference in the incidence of autoimmune type 1 diabetes (TD)
+ Whole genome sequencing of the NOD/NckH (high T1D incidence) and NOD/NckL (low T1D incidence) revealed the presence of a limited number of variants specific to each subline
+ Treating the age of T1D onset as a quantitative trait and using automated meiotic mapping (AMM), enhanced susceptibility in the NOD/NckH subline was unambiguously attributed to a recessive allele of Dusp10 which encodes a dual specificity phosphatase
+ The causative effect of the mutation was verified with a high level of confidence by targeting Dusp10 with CRISPR/Cas9 in NOD/NckL mice: in these animals a higher incidence of diabetes was observed
+ Expression of wild-type Dusp10 correlated with higher levels of surface PD-L1 in (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    Type one diabetes (T1D) is an autoimmune disease caused by T lymphocytes reactive with the insulin-producing -cells of the islets of Langerhans ()
+ The etiology is only partially understood though compelling data point to the involvement of both genetic and environmental factors (-)
+ The disease occurs spontaneously in Non-Obese Diabetic (NOD) mice
+ The inbred strain NOD/Shi was first established in Japan in 1980 (5), and from it different colonies were established over the world, including our own in Paris, hosted at the Hpital Necker since 1986 (NOD/Nck)
+  Rupture of self-tolerance in NOD mice is evident at 3 weeks of age
+  Progressive infiltration of the islets of Langerhans by mononuclear cells (i
+ e
+ insulitis) begins at this time, eventually causing the selective destruction of -cells that precedes the advent of hyperglycemia, by 3 months of age
+  By this time approximately 70% of the insulin-secreting -cell mass has been destroyed ()
+ The incidence of T1D, as assessed by the advent of glycosuria and hyperglycemia, varies among the different colonies of NOD mice a feature considered to be largely but not exclusively due to differences in the breeding environment and In this study, we took advantage of a restart of our NOD/Nck colony from a single pair of mice
+ In breeding the colony, we noted as we had in the past that disease incidence widely differed between litters; an observation easy to monitor because the number of pups in NOD litters often ranges from -
+ The difference was more apparent in male mice whose disease incidence rarely exceeds 50% at 40 weeks of age than in females that show a higher disease incidence (-%)
+ We decided to explore whether this phenotypic variation could be maintained in sublines of NOD/Nck mice generated through brother-sister breeding from litters presenting high or low T1D incidence
+ We initially established 5 distinct sublines which we followed for 3 consecutive generations (Fig
+ 1a-b, Supp Fig a)
+ We subsequently concentrated on two of these sublines showing the most significant difference in T1D incidence
+ These we named NOD/NckH (for High incidence) and NOD/NckL (for Low incidence) (Figure )
+ The phenotypic variation was stably maintained for over 30 generations in these 2 sublines raised in a specific pathogen free (SPF) environment, as assessed by regularly comparing T1D incidence and age of T1D onset at equivalent generations (Figure a)
+  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    Furthermore, we confirmed that the difference in T1D incidence in a group of NOD/NckH and NOD/NckL mice re-derived from embryos frozen at generation 7 was comparable to that of the autoimmune process in the NOD mouse showed a clear time-shifted difference in the kinetics of events that occurred earlier in NOD/NckH as compared to NOD/NckL mice
+ This was the case for the progression of insulitis (Figure 3a) and also the enumeration of diabetogenic lymphocytes in spleen, pancreatic lymph nodes and peripheral blood assessed by interferon gamma (IFN) ELIspot and tetramer staining respectively (Figure b,c,d)
+ Of note, the class I MHC tetramer complexed with the NRP mimotope (NRP-V7) that detects circulating pathogenic CD8+ T cells specific for IGRP confirmed its value as a sensitive marker to predict T1D advent in individual mice (Figure 3e) ()
+ However, no intrinsic abnormality in the in vivo functional capacity of diabetogenic T lymphocytes or regulatory CD4+FoxP3+ T lymphocytes was observed using adoptive transfer (data not shown)
+ Similar timing of islet antigen presentation was observed in NOD/NckH and NOD/NckL mice as assessed by a well-established method:  an identical capacity of diabetogenic cells expressing the transgenic BDC
+5 T cell receptor (TCR; specific for an insulin-chromogranin A fusion peptide) to migrate Genetic drift is one major factor explaining phenotypic differences within inbred strains; data has been reported in C57BL/6, C3H/HeJ, BALB/c and 129/sV mice (-)
+ At generation 7 we sequenced the whole genome of four individuals of each subline to search for specific and apparently fixed genetic variation that might contribute to the phenotypic differences in T1D Sequencing data were generated to an average mapped read depth of 
+4X per individual and variants were then called from the alignment against the mm10 reference genome (C57BL/6J; GRCm)
+ After filtering, a total of 925 putative variants including 745 single nucleotide variants (SNVs), 146 small indels, and 34 structural variants (SVs), were identified
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    Only two variants were present in insulin-dependent diabetes (Idd) genetic regions, a non-coding SNV in Paqr8 and a non-synonymous missense SNV in H-Q
+ Of the above-mentioned putative variants, 205 were selected for validation, 117 and 88 from the NOD/NckH and NOD/NckL sublines, respectively, affecting both coding and non-coding regions
+ This validation set included 147 SNVs, 21 small indels, and 34 SVs
+ 118 mutations were validated in 10-15 additional individuals by Ion Torrent sequencing and used for mapping the early T1D onset phenotype observed in the NOD/NckH subline (Supplementary Table )
+ Of the 118 validated variants, 31 were predicted to change coding sense, including 16 non-synonymous missense SNVs
+ The remaining 15 coding variants were nonsense, stop/start loss, critical splice site mutations, large deletions or duplications, and small indel variants causing a frameshift
+ Of 14 SVs that validated via Ion Torrent sequencing, only one was found to be unique to the NOD/Nck sublines, as the rest were also present in the NOD/ShiLtJ genome
+ It was also the only SV to exist in a gene coding region
+ Transcriptome analysis followed by qPCR validated the 
+4 kb deletion on chromosome 9 overlapping with the coding region of the Rp9 gene
+ Interestingly, we found that the validated coding mutations were private to either NOD/NckH or NOD/NckL sublines since they were not found in the NOD/ShiLtJ bred To identify causative mutations, we mapped the autoimmune T1D phenotype as a quantitative trait, age of T1D onset, in a large cohort of F2 hybrid mice made by crossing NOD/NckH and NOD/NckL parents and intercrossing their progeny (Figure )
+ We combined this traditional breeding approach for quantitative trait locus (QTL) analysis with a validated method for variant genotyping (Ion Torrent sequencing using barcoded libraries) and software tool (Linkage Analyzer) to identify causative mutations present in the germline of mice concurrent with recognition of variant phenotypes ()
+ The program tests the probability of single locus transmission models ()
+ For this particular study, a second mode of analysis was developed in which epistatic effects of mutations at all loci were tested to identify modifications of (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    Importantly T1D incidence in F1 hybrids at 40 weeks was intermediate to that of parental F0 NOD/NckH and NOD/NckL mice (Figure a,b)
+ Also, T1D incidence in F1 hybrids was similar whether the dam was from one or the other subline indicating that there was no subline-specific parental origin effect on the phenotype transmission (Figure a)
+ The F2 progeny were generated from intercrosses of F1 NOD/NckH and NOD/NckL parents of the 24th generation, and included 294 males and 316 females that showed an incidence and age of onset of T1D similar to that of F1 hybrids at 40 weeks (Figure b)
+  When single locus linkage analysis was performed using Linkage Analyzer the early age of T1D onset in the NOD/NckH line was mapped to a recessive missense mutation of NOD/NckH origin in Dusp10, encoding the dual specificity phosphatase 10 (DUSP10), also known as mitogen-activated protein kinase (MAPK) phosphatase 5 (MKP5) (Figure )
+  Subsequently, an epistatic effect was detected indicating a dominant inhibitory effect of a non-coding polymorphism of NOD/NckL origin in progestin and adipoQ receptor family member VIII (Paqr8) on the Dusp10 variant allele (Figure )
+ Importantly, cumulative T1D incidence curves in F2 mice homozygous for both variants strictly reflected the disease incidence curves in parental This Dusp10 mutation is classified as probably damaging with a Polyphen-2 score of 
+998 (Figure a)
+ The Dusp10 nonsynonymous single-nucleotide variant (SNV) changes G to T at missense mutation at position 73 in the protein DUSP10 (Figure b)
+  MAP kinase phosphatases (MKP), a family of dual-specificity (phospho-Ser/Thr and phospho-Tyr) phosphatases, are essential regulators in immune responses whose function is evolutionarily conserved
+ These enzymes include three domains
+  The structures of two of these are known, namely the C-terminal catalytic domain (Residues 330-462 in the M
+ musculus sequence PF
+20), and the central MAPK binding domain (BD, residues -280 in the M
+ musculus sequence, also called Rhodanese-like domain PF00581) is involved in recognizing the target MAP kinase (16, )
+ The variant we describe here is localized in an intrinsically disordered N-terminal domain (from residue 1 to 143, as predicted by Spot-(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    Disorder, alternation of ordered and disordered regions from residue 1 to predicted 140 by We searched and found highly conserved orthologues of Dusp10 in representatives of all vertebrate classes, including the lamprey Petromyzon marinus
+ The intrinsically disordered N-terminal domain is less conserved than the central and catalytic domains; nevertheless, a stretch of residues including Cys73 (of the M
+ musculus sequence) is completely conserved Zhang et al established C57BL/6 mice homozygous for a robust knockout allele of Dusp10 ()
+ Dusp10-deficient cells showed increased innate immune responses; i
+ e
+ production of greatly enhanced levels of pro-inflammatory cytokines by macrophages upon TLR2, TLR3 and TLR4 stimulation ()
+ Dusp10-deficient CD4+ and CD8+ effector T cells produced significantly increased levels of cytokines, which led to much more robust and rapidly fatal immune To generate a second mutant allele of Dusp10 on the NOD/NckL background we used the NOD/NckL males were microinjected to target Dusp
+ We focused our attention on male CR#13 carrying modification Dusp10Y86X resulting from the random deletion of a single nucleotide generating a premature STOP codon and potentially leading to a truncated protein with loss of the kinase interaction motif and the phosphatase active site (Figure )
+ To reduce the risk of potential off targets effects when generating the CR#13 subline by repeated intercrosses, we first backcrossed the founder to a particular NOD/NckL subline in which the Paqr8 polymorphism, which had never become fixed in the homozygous state by inbreeding, was wild-type
+  This eliminated the dominant inhibitory effect of the Paqr8 polymorphism on the NOD/NckH Dusp10 variant allele (Figure )
+ CR#13 mice carrying the homozygous putative null Dusp10Y86X mutation showed a T1D incidence similar to that of NOD/NckH and (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    significantly higher than those homozygous or heterozygous for the wild-type allele whose A fundamental issue was to address whether the difference in T1D incidence driven by the identified Dusp10 mutation resulted from an impact on the immune system, or on the target of disease (namely the pancreatic islets)
+ To approach this question, we used a strategy described in our laboratory relying on the adoptive transfer of pathogenic T lymphocytes from diabetic animals into newborn syngeneic recipients within the first 3 days of life ()
+ Spleen T lymphocytes from overtly diabetic NOD/NckH or NOD/NcKL were transferred into the reciprocal newborn recipients
+ Results showed that NOD/NcKL recipients were less sensitive to T1D transfer than NOD/NckH recipients arguing for an impact of the Dusp10 mutation on the islets We performed a comparative transcriptome analysis of several tissues isolated from NOD/NckH and NOD/NcKL mice (Figure a,b)
+ Importantly, pancreatic islets of Langerhans from NOD/NckH mice isolated at 3 weeks of age, before onset of insulitis, displayed downregulation of 27 genes compared to those in NOD/NcKL islets, including type 1 interferons (Ifnb), and various interferon signature genes (Irgm1, Irgm2, Ifi47, Ifit1, Ifit2, Ifi202b) and also Cd274 (Figure b)
+ The case of Cd274, encoding Programmed Death Ligand 1 (PD-L1) is particularly interesting
+ The PD-1/PD-L1 axis is an important checkpoint in autoimmune diabetes as assessed by the acceleration of T1D observed in NOD mice upon injection of antibodies to PD-1 ()
+ This result was validated by qPCR on islets isolated from NOD/NckH and NOD/NcKL (Figure c)
+ Immunohistochemical studies in progress show that insulitis, which appears earlier in NOD/NckH mice, is only observed at early stages in islets expressing low levels of PD-L
+ This is in contrast with the high PD-L1 expression observed in insulitis-Our results have three major implications
+ First, we identified a single non-synonymous nucleotide change in the DUSP10 encoding gene and provide evidence that it directly affects the phenotype of a complex autoimmune disease
+ Second, our data illustrate the rapidity of appearance and fixation of de novo germline mutations that can alter a complex phenotype (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    such as T1D, either exacerbating it or accelerating it
+ This suggests that the T1D phenotype has a large genomic footprint
+  Finally, these findings suggest a new, rapid, and far more precise approach to identifying the missing heritability of T1D and other complex autoimmune diseases, which could be achieved through a forward genetic strategy employing random This study was carried out in strict accordance with the recommendations of European protocols were approved by the Ethical Committee of Paris Descartes University and the French Ministry of Education and Research (PROJET N 2019092612242506  V3 Mice
+ NOD/Nck mice were bred and housed under specific pathogen-free conditions at the Hpital Necker-Enfants Malades animal facility (agreement: C)
+ Animals were fed ad libitum with an irradiated VRF1 diet (Special Diets Services) with fresh autoclaved water
+  Diabetes monitoring
+ Mice were monitored for diabetes weekly by testing for glycosuria using was confirmed by testing for fasting glycemia >250 mg
+dL-1 (Accu-Check; Roche)
+  Insulitis scoring
+ Pancreata were collected, fixed in 4% formaldehyde and paraffin-embedded
+ Serial 5-m sections cut at 60 m intervals were hematoxylin and eosin stained and at least 80 islets per pancreas and/or 200 islets per group of mice were scored
+ Mononuclear cell infiltration of the islets was graded as follows: 0, no insulitis (intact islet); I, periinsulitis (infiltration remaining confined to the periphery of the islet); II, invasive insulitis (infiltration <50% of the islet surface); III, destructive insulitis (infiltration totally disrupting the IFN producing autoreactive CD8+ T cells detection
+ For IFN ELISpot assay, 96-well PVDF plates (Millipore) and an anti-IFN capture and detection antibody pair (U-CyTech Biosciences) were used
+ Cells were cultured in the presence of IL-2 at 
+ 
+105 per well in the (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    case of splenocytes or, in the case of lymph node cells, at 
+ 
+105 per well together with 
+ 
+105 irradiated (35 Gy, X-Ray source) splenocytes
+ Peptides used were InsB15-23 and IGRP206-214 (7 M) and as a positive control was used CD3 antibody (clone 2C11; 1 mg
+ mL-)
+ After a 20-hour culture, IFN was detected using biotinylated anti-IFN capture antibody were read, and spots counted using an AID reader (Autoimmun Diagnostika)
+ Data were means of triplicate wells minus the average number of spots in negative control wells (cells cultured without peptides) and were expressed as spot-forming cells per 106 cells
+  Tetramer staining
+ Peripheral blood collected from the retro-orbital sinus using heparinized capillary tubes was incubated with H-2Kd tetramers bearing the peptide NRP-V7 or an irrelevant peptide (TUM) for 1 hour on ice
+ Tetramers were provided by P
+ Santamaria (Calgary University, Canada)
+ After a washing step, surface staining was performed at 4C in staining buffer (PBS 1X-FCS 1%-Sodium azide 
+1%) using anti-CD8-APC (clone -
+7) and anti-CD45R-PerCP (clone RA3-6B2), (both purchased from BD Biosciences)
+ Red blood cells were lysed at room temperature using FACS Lysing Solution (BD Biosciences) before cell suspensions were washed prior to acquisition
+ Data were acquired on a FACSCanto II flow cytometer (BD Biosciences) and analyzed using FlowJo software (Tree Star)
+ NRP-V7 tetramer-positive cells were expressed as percentage of B220-CD8+ cells minus the In vivo tracking of nave CD4+ T cell activation
+ Nave CD4+ T cells were isolated from spleens and lymph nodes of BDC-
+5 transgenic NOD mice using the Mouse CD4 Nave T Cell Isolation Kit (BioLegend)
+ Nave T cells were further selected positively by treatment with and sorted using MACS technology (Miltenyi Biotec)
+ After CFSE-labelling (5 M), 106 cells were injected intravenously into 25-day-old recipients
+ On day 3, pancreatic, mesenteric and axillary lymph nodes were collected and cells were stained for flow cytometry analysis
+  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    Adoptive transfer of diabetes into neonates
+  Within 24-48 hr after birth neonates subjected to hypothermic anesthesia (4min at -20C) were injected via the periorbital superficial vein under microscopical control with 
+05ml cell suspension at the appropriate concentration (20 x 106 B cell-depleted splenocytes from diabetic donors)
+ Groups of experimental and control recipients (NOD/NckH and NOD/NckL newborns sham injected with saline) were equally distributed within the litters used
+ Here, to ask if the mutation in recipients islet of Langerhans cells can impact T1D, NOD/NckH and NOD/NckL neonates were injected with 20 x 106 B cell-Isolation of pancreatic islet cells
+ Pancreata were perfused with a solution of collagenase P (
+6 mg
+mL-1; Roche), dissected free from surrounding tissues and then digested at 37C for 13 minutes
+ After extensive washes, islets were purified by handipicking before being Flow cytometry
+ Single-cell suspensions were prepared from lymphoid organs by and from different tissues
+ Prior to staining, cells were incubated with a Fixable Viability Dye (eBioscience) and then with 
+4G2 antibody for FcRII/III blocking (BD Pharmingen)
+ Surface staining was performed at 4C in staining buffer (PBS 1X-FCS 2%-EDTA mM)
+ Intracellular staining of cytokines was performed using Fixation Buffer (BioLegend) and Intracellular Staining Perm Wash Buffer (BioLegend)
+ Transcription factors were stained using the Foxp3 TF Staining Buffer Set (eBioscience)
+ See the list of antibodies at the end of the Materials and Methods section
+ Data were acquired on a FACSFortessa flow cytometer (BD Biosciences) DNA was prepared from the liver of 4 animals of each NOD/Nck subline
+ Whole-genome sequencing was performed using an Illumina HiSeq 2500 (Illumina, San Diego, USA)
+ Sequencing data were mapped using BWA (v 
+ 
+10) to align against the mm10 reference genome (C57BL/6J; GRCm)
+ Using the Genome Analysis Toolkit (GATK) and SAMtools we found an average of 
+3 million single nucleotide variants (SNV) and small insertions-deletions (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    (indels) differentiating the NOD/Nck and the C57BL/6J strains using single-sample variant calling
+ For purposes of filtering, joint variant calling using the four samples of each subline was performed
+ Using this jointly called data, variants from each subline were compared
+ They were then filtered for those variants unique to each subline and heterozygous calls excluded (allelic ratio > 
+ )
+ A quality score of 80 was used as a filtering threshold for jointly called variants
+ Additionally, 34 SVs differentiating the NOD/Nck and C57BL/6J strains were identified using speedSeq SV (v 
+ 
+ )
+ In addition to the SVs, 168 SNVs and small indels were chosen for validation via Ion Torrent sequencing to give genomic linkage using 20Mb as a cutoff
+ In parallel, alignment of sequencing data to mouse reference genome (GRCm38, mm10), variant calling, and automated filtering were performed by collaborators (M
+ Dumas and B
+ Jost, Plateforme biopuces et squenage, IGBMC, Strasbourg, France) with particular attention to variants in non-coding regions
+ Manual checking was performed using an IGV
+3 viewer (Broad Institute)
+ A total of 118 variants were validated in 10-15 additional mice and used for AMM
+ 
+3% of the mouse genome was in linkage with at least one of the 118 sequence Automated meiotic mapping (AMM)
+ A panel of 118 validated variant loci distinguishing NOD/NckH and Nod/NckL sublines was used to map the high diabetes incidence phenotype in F2 mice
+ The F2 animals generated by two-generation intercrosses were monitored for overt diabetes for 40 weeks to determine the age of diabetes onset
+ Genomic DNA was extracted from tail snips and used as a template for multiplexed targeted amplification of the 118 loci using custom Ampliseq primers
+ Amplification products were barcoded to correspond to individual mice prior to sequencing using an Ion PGM (Life Technologies)
+ Following phenotypic screening, AMM using recessive, additive, and dominant models of inheritance was performed for each variant using the Linkage Analyzer program as previously described ()
+ Kaplan-Meier plots of phenotypic data and Manhattan plots of linkage data were generated using the Linkage Explorer program ()
+ The P values of association between genotype and phenotype were calculated based on Kaplan-Meier analysis of time of onset of T1D, as related to zygosity for each of the mutations using a likelihood ratio test from a (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    generalized linear model or generalized linear mixed effect model and Bonferroni correction were superovulated by administration of PMSG at day 0 (5U) and hGC at day 2 with a 44 hour-interval (5U), before being mated with NOD males
+ Because NOD females were found to give more eggs at 8 weeks of age than at 4 weeks of age (data from Fabrice Valette), --week-old mice were used as zygote donors
+ Zygote collection, fertilized egg microinjection, and transfer in the oviduct of pseudogestant foster mothers were performed by collaborators (Plateforme de Transgnse, F
+ Langa-Vives, Institut Pasteur, Paris)
+ The design of the single-guide RNA for the knock-in and knock-out experiments, and the selection of the HDR donor template for the knock-in experiment, were performed in collaboration with the laboratory of B
+ Beutler (UT Southwestern, Dallas, USA)
+ All the reagents were from Integrated DNA Technologies (IDT): crRNA (IDT Alt-R CRISPR-Cas9 crRNA), tracrRNA (IDT Alt-R CRISPR-Cas9 tracrRNA), HDR donor template (IDT Ultramer DNA oligo), and Cas9 (IDT Alt-R S
+ p
+ HiFi Cas9 Nuclease NLS)
+ For genotyping of pups, DNA was extracted from tail snips using Genomic DNA purification kit (Qiagen) and proteinase K (Roche)
+ PCR was performed by using the forward Xf and reverse Xr primers and Accuprime Pfx DNA polymerase (Invitrogen) and the PCR products, after purification using the QIAquick PCR purification kit (Qiagen), were 8x60K Microarrays (Agilent Technologies, Santa Clara, CA, USA) were used for microarray experiments on purified CD4+CD25-CD62L- spleen lymphocytes, colon, ileon and islets of Langerhans from NOD/NckH and NOD/NckL mice
+ Five replicas were prepared for the various cell/tissue preparations
+  Cell and islet pellets and tissues were lysed using SuperAmpTMlysis buffer (Miltenyi Biotech, Waldbronn, Germany) and stored at -80C until all samples were collected
+ Preparation of RNA, amplification of RNA, sample hydridization (Agilent whole mouse genome oligo microarrays), scanning and data acquisition were performed by Miltenyi Biotech
+ RNA quality and purity were assessed on the Agilent Bioanalyzer 2100 (Agilent (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    Extraction (AFE) image analysis software were converted to expression values using Antibodies for staining
+ Biotin or fluorochrome-labeled antibodies to murine CD11c (HL3), B220 (RA3-6B2), CD8 (-
+7), CD103 (2E7), CD80 (19-10A1), CD86 (GL1), CD40 (3/23), I-Ak (-
+6; crossing with the MHC class II from NOD mice, I-Ag7), CD11b (M1/70), ICAM-1 (3E2), OX40L (RM134L), CCR7 (4B12), CCR9 (9B1), TCR (H57-597), CD4 (GK
+5), CD19 (1D3), CD25 (PC61), DX5 and streptavidin-pacific blue were obtained from PharMingen BD
+ Statistical analyses
+ All statistics were performed using GraphPad Prism version 6 software
+ method
+ Incidence curves were compared using the log-rank (Mantel-Cox) test
+ Comparison between means was performed using the non-parametric Mann-Whitney test for other experiments, unless otherwise specified in the figure legend
+ Data are presented as means  S
+ E
+ M
+ A P value <
+05 was considered statistically significant; *P <
+05, **P <
+01, This work was supported by National Institutes of Health grants R01 AI125581 and U19 AI100627 (to B
+ B
+), and by an Advanced grant from the European Research Council (ERC, Hygiene N: 250290) (to J-F
+ B
+), and by Institut National de la Sant et de la Recherche Scientifique (INSERM), Fondation Day Solvay, and the Lyda Hill Foundation
+ The authors are indebted to Dr
+ Sylvaine You, Dr
+ Alicia Prez-Arroyo, Mrs
+ Laurne Magne, Mme
+ Cline Keime, and Mr
+ Bernard Jost for their support of this work
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    C
+ S
+, J-F
+ B
+, B
+ B
+, L
+ C
+ designed research; A-P
+ F
+, S
+ C
+, C
+ M
+, F
+ V
+, C
+ P
+, S
+Lemoine, P
+ H
+, F
+ L-V
+, L
+ S
+ performed research; P
+ S
+, S
+Lyon, C
+ H
+ B
+, T
+ W
+, D
+ X
+ contributed new reagents/analytic tools ; A-P
+ F
+, S
+ C
+, M
+ D
+, S
+ H
+, S
+Lemoine, C
+ H
+ B
+, C
+ S
+, L
+ C
+ analyzed data ; A-P
+ F
+, S
+ C
+, C
+ S
+, J-F
+ B
+, B
+ B
+, L
+ C
+ wrote the paper; E
+ M
+ Y
+ M
+, J-F
+ B
+, B
+ B
+, L
+ C
+ revised 
+ J
+ F
+ Bach, Insulin-dependent diabetes mellitus as an autoimmune disease
+ Endocrine 
+ W
+ M
+ Ridgway et al, Gene-gene interactions in the NOD mouse model of type 1 
+ J
+ F
+ Bach, The effect of infections on susceptibility to autoimmune and allergic 
+ P
+ Concannon et al, Genome-wide scan for linkage to type 1 diabetes in 2,496 multiplex families from the Type 1 Diabetes Genetics Consortium
+ Diabetes 58, -
+ S
+ Makino et al, Breeding of a non-obese, diabetic strain of mice
+ Exp
+ Anim
+ 29, 1-13 
+ P
+ Simecek et al, Genetic Analysis of Substrain Divergence in Non-Obese Diabetic 
+ L
+ Yurkovetskiy et al, Gender bias in autoimmunity is influenced by microbiota
+ 
+ J
+ D
+ Trudeau et al, Prediction of spontaneous autoimmune diabetes in NOD mice by quantification of autoreactive T cells in peripheral blood
+ The Journal of clinical 
+ V
+ Kumar et al, C57BL/6N mutation in cytoplasmic FMRP interacting protein 2 
+ A
+ Poltorak et al, Defective LPS signaling in C3H/HeJ and C57BL/10ScCr mice: mutations in Tlr4 gene
+ Science (New York, N
+ Y
+) 282, 2085-2088 ()
+ 
+ M
+ M
+ Simon et al, A comparative phenotypic and genomic analysis of C57BL/6J and 
+ E
+ Zurita et al, Genetic polymorphisms among C57BL/6 mouse inbred strains
+ 
+ L
+ J
+ Sittig et al, Phenotypic instability between the near isogenic substrains BALB/cJ and BALB/cByJ
+ Mammalian genome : official journal of the International Mammalian 
+ T
+ M
+ Keane et al, Mouse genomic variation and its effect on phenotypes and gene 
+ T
+ Wang et al, Real-time resolution of point mutations that cause phenovariance in mice
+ Proc Natl Acad Sci U S A 112, E440-449 ()
+ 
+ X
+ Tao, L
+ Tong, Crystal structure of the MAP kinase binding domain and the catalytic 
+ Y
+ Y
+ Zhang, J
+ W
+ Wu, Z
+ X
+ Wang, A distinct interaction mode revealed by the crystal structure of the kinase p38 with the MAPK binding domain of the phosphatase MKP
+ 
+ Y
+ Zhang et al, Regulation of innate and adaptive immune responses by MAP kinase (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    
+ L
+ Cong et al, Multiplex genome engineering using CRISPR/Cas systems
+ Science 
+ A
+ Bendelac, C
+ Carnaud, C
+ Boitard, J
+ F
+ Bach, Syngeneic transfer of autoimmune diabetes from diabetic NOD mice to healthy neonates
+ Requirement for both L3T4+ and Lyt-2+ T cells
+ The Journal of experimental medicine 166, 823-832 ()
+ 
+ M
+ J
+ Ansari et al, The programmed death-1 (PD-1) pathway regulates autoimmune diabetes in nonobese diabetic (NOD) mice
+ The Journal of experimental medicine 198, (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    Five distinct sublines (A to E) were established from the NOD/Nck strain by brother-sister mating of mice within individual litters expressing variable T1D incidence
+ The five sublines were followed for three consecutive generations
+ For further studies we concentrated on two of these sublines: Sublines A and B which we named NOD/NckL (for low incidence) and (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    a) Incidence of T1D in NOD/NckH and NOD/NckL male mice followed from generation 3 up to generation 
+ b) Incidence of T1D in NOD/NckH and NOD/NckL male mice derived from (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    Figure 3: Immunological parameters characteristic of the autoimmune process in NOD a) Insulitis in NOD/NckL and NOD/NckH mice at 12 weeks of age (n=8 in each group analyzed; a total of 60 to 80 islets were scored per mouse)
+ The scoring system used is indicated in the (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    lymphocytes specific for the proinsulin peptide 15-23 in spleen and pancreatic lymph nodes protein (IGRP) peptide 206-214 in spleen and pLN
+ d) IGRP-specific CD8+ peripheral blood T cells assessed by staining with the class I MHC tetramer complexed with the NRP mimotope (NRP-V7); e) proportion of circulating pathogenic CD8+ T cells specific for IGRP using the class I MHC tetramer complexed with the NRP mimotope (NRP-V7) correlated with the advent (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    Figure 4: Similar timing of islet antigen presentation in NOD/NckH and NOD/NckL mice
+ a) Proliferation of CFSE-labelled transgenic BDC-
+5 CD4+ T cells in pancreatic draining lymph nodes (PanLNs) and in non-draining mesenteric (MesLn) and axillary (AxiLN) lymph nodes of recipient NOD/Nck mice
+ b) Percentage of proliferating cells in 4-week-old NOD mice of the two sublines 96 hours after injection of 106 CFSE-labelled nave BDC-
+5 CD4+ T cells
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    Figure 5: Incidence of T1D in F1 and F2 hybrids of NOD/NckL and NOD/NckH mice
+ a) F1 hybrids obtained by crossing NOD/NckH and NOD/NckL at generation 
+ Incidence of T1D in F1 hybrids is presented with that of the parental lines b) Incidence of T1D in F1 hybrids obtained by crossing NOD/NckH and NOD/NckL at generation 24, and in F2 hybrids obtained by intercross of F1 hybrids is shown
+ Data from F2 hybrid mice were used for AMM
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    Figure 6: Association of early T1D onset in NOD/NckH mice wtih a recessive Dusp10 a) For sake of clarity here we describe the nomenclature used in b) which designates as indicated by the arrows the allelic forms of Dusp10 above the fraction bar, and the allelic forms of Paqr8 below the fraction bar
+ REF: homozygous wild-type, VAR: variant homozygous, HET: variant heterozygous
+ b) Kaplan-Meier analysis of glycosuria onset in F2 mice with the indicated Dusp10 and Paqr8 genotypes
+ As compared to wild-type F2 individuals expressing control alleles for Dusp10 and Paqr8 (indicated as REF/REF, the blue line), F2 mice expressing the Dusp10 mutation in the homozygous state (indicated as VAR/REF, the dark green line) heterozygosity for the Paqr8 mutation (indicated as VAR/HET, the light green line) abolishes the recessive Dusp10 effect, rescuing mice from early onset T1D (dominant effect of Paqr8 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    Figure 7: Dusp10 encodes a Dual Specificity Phosphatase also termed MKP
+ a) The Dusp10 mutation we describe is classified as probably damaging with a PolyPhen-2 score of 
+ /
+ b) The Dusp10 nonsynonymous single-nucleotide variant (SNV) produces a cysteine-to-phenylalanine missense mutation at position 73 in the protein DUSP10 within an (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    Figure 8: Alignment of putative orthologues of the murine (Mm) and human (Hs) Dusp10 class chelonia); Gg:Gallus gallus  Aves; Xt: Xenopus tropicalis, amphibia; Rt: Rhincodon typus  Chondrichthyes (cartilaginous fishes) Whale shark; Dr: Danio rerio, Actinopterygii (sub-The red symbol indicates the Cys to Phe mutation of the mouse Dusp10 protein discussed in the text
+ Alignment carried out with MAFFT G-INS-i with default parameters and visualised with  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    This diagram shows the part of the first Dusp10 domain containing the nonsynonymous G to T transversion resulting in the cysteine-to-phenylalanine missense mutation at position 73 in the protein DUSP10 (black square) in NOD/NckH mice
+ The mutation in CR#13 mice is also shown, here the deletion of a single nucleotide generates a premature STOP codon at position 86 of the protein (red square)
+ Amino acid numbers are shown above
+  72   73   74    75   76    77    78   79    80   81   82    83   84   85    86   87    88 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    Figure 10: Incidence of T1D in CR#13 subline generated by targeting Dusp10 with Incidence of T1D in male NOD/NckH and NOD/NckL mice of generation 34 concurrent to (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    Figure 11: Adoptive transfer of diabetogenic lymphocytes into female NOD/NckH and Within 24-48 hrs after birth neonates subjected to hypothermic anesthesia (4 min at -20C) were injected via the periorbital superficial vein under microscopical control with 20 x 106 B cell-depleted splenocytes from diabetic donors
+ Groups of experimental and control (sham injected) recipients were equally distributed within the litters used
+ NOD/NcKL recipients were less sensitive to T1D transfer than NOD/NckH recipients arguing for an impact of the Dusp10 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    Figure 12: Comparative transcriptome analysis of different tissues from NOD/NckH and a) Gene expression in NOD/NckH versus NOD/NckL tissues was measured by transcriptome analysis
+ b) Identification of 27 downregulated genes and 4 upregulated genes in purified pancreatic islets from 3-week-old NOD/NckH mice relative to NOD/NckL mice
+ c) Increased expression of PD-L1 (CD274) mRNA in NOD/NckL pancreatic islets was confirmed by qPCR
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted January 4, 
+ ;    

@@ -1,0 +1,1195 @@
+Blood clot fracture properties are dependent on red blood cell and fibrin contentBehrooz Fereidoonnezhad 1, Anushree Dwivedi 2, Sarah Johnson 2, Ray McCarthy 2, Patrick McGarry ,*thrombectomy, leads to downstream emboli, resulting in poor clinical outcomes
+ Clinical studies suggest that fragmentation risk is dependent on clot composition
+ This current study presents the first experimental characterization of the fracture properties of blood clots, in addition to the development of a predictive model for blood clot fragmentation
+ A bespoke experimental test-rig and compact tension specimen fabrication has been developed to measure fracture toughness of thrombus material Fracture tests are performed on three physiologically relevant clot compositions: a high fibrin 5% H clot, a medium fibrin 20% H clot, a low-fibrin 40% H clot
+ Fracture toughness is observed to significantly increase with increasing fibrin content, i
+ e
+ red blood cell-rich clots are more prone to tear during loading compared to the fibrin-rich clots
+ Results also reveal that the mechanical behaviour of clot analogues is significantly different in compression and tension
+ Finite element cohesive zone modelling of clot fracture experiments show that fibrin fibres become highly aligned in the direction perpendicular to crack propagation, providing a significant toughening mechanism
+ The results presented in this study provide the first characterization of the fracture behaviour of blood clots and are of key importance for development of next-generation (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    Acute Ischemic Stroke (AIS), due to embolic occlusion of a cerebral artery, results in over 
+5 million deaths each year []
+ Intra-arterial Mechanical Thrombectomy (MT) is a minimally invasive procedure for treatment of AIS in which the obstructing thrombus is removed using a stent-retriever and/or an aspiration catheter
+ Based on the recent clinical studies [2,3,1216,411] the proportion of patients experiencing successful procedural revascularization (TICI >=2b) ranged from 76% [17] to 
+4% [18] after all procedures
+ Although complete revascularization (TICI =3) is achieved in less than 61% of cases [19], and it often takes multiple attempts to remove the complete thrombus
+ Many investigators attempt to improve interaction between thrombectomy devices and thrombus thrombectomy devices, distal embolism due to clot fragmentation remains a significant challenge for MT procedures
+ In general, all endovascular MT techniques and devices carry a significant risk of thrombus fragmentation and subsequent distal emboli with associated adverse clinical outcomes Clinical data suggest that thrombus fragmentation and consequent distal emboli are related to thrombus composition
+ From histological analysis of thrombi retrieved from 85 AIS patients, Kaesmacher et al  [20] found a higher fraction of RBC in patients with multiple embolizations resulting from periprocedural thrombus fragmentation
+ Gengfan et al [24] found that higher thrombus density in nonenhanced computed tomography, associated with higher fraction of RBC, is an independent predictor for secondary embolism
+ In contrast, Sporns et al concluded that secondary embolism is more probable for clot with lower RBC content []
+ Moreover, per-pass analysis of AIS thrombi show that the composition of thrombus fragments retrieved with each pass of a device during MT are different, further supporting the dependence of clot fragmentation on Previous studies have investigated clot hyperelastic and viscoelastic behaviour using compression testing [2730] and tensile testing [,]
+ However, no study to date has investigated the fracture properties of blood clots
+ The characterisation of fracture toughness of blood clots has the potential to guide the design of improved next-generation MT devices and to inform clinical strategies
+ Such fracture mechanics investigation for a range of clot compositions may provide insight into the reported clinical link between RBC content and risk of distal emboli generation (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    The objective of the current study is to provide the first characterization of composition-dependent fracture behaviour of blood clot
+ A bespoke experimental procedure for fabrication and fracture testing of compact tension blood clot specimens is developed
+ Based on histological studies of the composition of clots removed from stroke patients by MT [3539], tests are performed on three different clot analogue fracture specimen compositions, ranging from high red blood cell (RBC)/low-fibrin clots to low RBC/high-fibrin clots
+ In addition to experimental fracture testing of blood clots, finite element cohesive zone fracture models are developed to simulate experimental tests and determine fracture strength and fracture toughness as a function of clot composition
+ Furthermore, alignment of the network of fibrin fibres provides a toughening mechanism in blood clots
+ This provides a mechanistic explanation for the observed dependence of clot fracture toughness on Developing a reliable test method that is suitable to test the broad range of clot types and compositions can be challenging due to the fragile nature of the clot material The issue is even more critical when the sample is under loading modes that lead to material stretching, such as fracture testing
+ Such tests, in contrast to standard compression tests, require gripping of a fragile and slippery material Another issue for fracture testing of blood clots arises from the high ratio of toughness to strength of clot, resulting in the significant deformation prior to fracture initiation
+ Finally, consistent fracture testing requires samples that have dimensions far larger than the dimensions of excised AIS clots
+ Therefore, careful design considerations are required for test specimen fabrication and test-rig design
+ In this section we outline the development of a novel and Thrombus material from human sources cannot be readily fabricated into a repeatable specimen geometry for mechanical and fracture testing
+ Therefore, techniques have been developed to fabricate clinically relevant thrombus analogues in vivo []
+ Clot analogue samples produced from ovine blood have been found to be histologically similar to human clots []
+ Such analogue materials have been shown to exhibit mechanical behaviour that is similar to excised human clots (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    of a similar composition [41], and are commonly used for pre-clinical testing of thrombectomy The current study uses an established method to fabricate clot analogues using fresh ovine blood [,]
+ Citrated  whole blood was used to form platelet-contracted blood clots within 5 hours of blood collection from the donor animals
+ Three different clot analogues types were fabricated from blood mixtures with 5%, 20% and 40% haematocrit (H)
+ After separation of platelet rich plasma and red blood cell fractions, blood clot mixtures of the desired haematocrit were created
+ These mixtures were placed in a cylindrical container where the  blood mixtures were clotted by adding calcium chloride to reverse the citrate
+  Finally, the clots were allowed to mature overnight to create flat, disc-shaped clots with a diameter of between 40 and 90mm and thickness of 6 to mm
+ It has previously been established that a decrease in the RBC content of blood clots results in an increase Test samples were prepared the day after formation by cutting the clots into a rectangular shape with two holes for the purpose of gripping using bespoke stainless-steel punches, (Figure a)
+ Firstly, a rectangular sharp punch was used to cut 25x24 mm specimens from the discs of clot (step )
+ Another punch was used for making two holes in the rectangle specimen (step )
+ A specific design was used for this punch such that it can be fitted on top of the rectangle punch,  thereby allowing the precise positioning of the two holes
+ A bespoke constraining fixture was designed to fit on top of the clot sample, and to allow making notch of the exact size in the desired location in a repeatable way (step )
+ A sharp razor blade of 250 m thickness is used to make a sharp crack in the specimen
+ Notched specimen with the crack length of  as well as the unnotched specimens were prepared (n A bespoke test-rig was developed to perform fracture testing of the prepared samples
+ A schematic of the designed fracture test rig and each component is shown in Figure c
+ A specific design has been considered for top grip and the pin which connected the clot samples to the grip to minimize the variation of the hydrostatic force and surface tension force during the test
+ This is a key consideration for this test and any other test which is performed in a fluid medium, especially for the material with relatively low level of force such as clot material and soft biological tissues
+ The profile area of the top grip was minimised in order to reduce hydrostatic forces that result from submerging the component in a water bath
+ A hollow bar was designed for the top pin, rather than a solid bar, to minimize the variation of the hydrostatic force during the test
+ Preliminary validation (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    checks reveal that changes in hydrostatic forces due to upwards movement of the top-gripping fixture are approximately two orders of magnitude lower than the force required to cause fracture  (Figure e)
+ A finite element rig-design analysis is also performed to ensure that the strength of the top pin provides sufficient mechanical strength during the fracture test
+ The results as shown in (Figure 1f) reveal that the maximum von-Mises stress in the pin (
+187 MPa) is much lower than the yield strength of the pin (~210 MPa)
+ A locking fixture is designed to facilitate insertion of the sample into the test rig without inducing pre-test sample damage (Figure c)
+ Two locking plates were connected to the top and bottom grips, through the fabricated pins on the grips and prevented any relative movement of grips before test
+ This design feature is crucial for successful testing of fragile blood clot compositions
+ Moreover, a slider mechanism is designed for ease of attachment/detachment of the lower grip to the bottom of the water bath without damage to the test specimen
+ Both bottom grip and its mate component were fabricated from polylactic acid (PLA) A schematic of the steps for putting the prepared test specimen into the designed test rig is shown in Figure g
+ Stainless steel bars were placed through the holes of the sample and attached to top and bottom gripping components (step )
+ Next, a locking fixture, including two steel locking plates and the pins fabricated on the griping components, was used to prevent the relative movement of the gripping components (step )
+ This locking fixture allows confident handling and putting the prepared clot specimen into the test rig without tearing the clot before the test
+ The prepared samples were then put into a customized experimental setup and fracture tests were performed to determine the mechanical and fracture behaviour of the clot analogue samples
+ The bottom gripping component slides into an engineered mate component which is glued to the bottom of the water bath (step )
+ The top gripping fixture is attached to the mechanical uniaxial Zwick test machine (Zwick Z
+5, Ulm Germany) (step )
+ The locking plates are then detached from the gripping components (step 5) and the top grip is moved upwards at a velocity of 10 mm/min and the resultant reaction force is measured throughout the fracture test using a 10 N Zwick load cell (step )
+ All tests are carried out in fully hydrated conditions by fully submerging the test specimen and test-rig in a water bath filled with phosphate- buffered saline solution at room temperature (~20 oC)
+  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    Figure 1: Test method developed for fracture test of blood clot analogues
+ (a) Notched and un-notched clot specimens were prepared from a large circular clot sample using the bespoke punches
+ (b) Dimensions of the prepared clot specimens
+ (c) Designed fracture test rig
+  (d) Notched and unnotched specimen during the test
+ (e) The force-displacement curve shows that the hydrostatic force is negligible compared to a representative fracture test result for the developed test rig design
+ (f) Stress contour for top pin during the fracture test of a 5% H clot for an applied displacement of u=40 mm
+ (g) Schematic representation of steps for putting the prepared test specimens into the The choice of specimen dimensions for fracture testing is constrained by the requirement that the initial crack length must be sufficiently large to ensure that crack propagation occurs before the tensile strength is reached in the material []
+ Moreover, the length of the remaining ligament (=W- a) has to be large enough to avoid excessive inelastic deformation in the ligament
+ There is also a size limit on the thickness of the specimen (t) in relation to the establishment of plane strain or plane stress conditions
+ More discussion on the specimen thickness is provided in Appendix A
+  Consequently, large specimens are required for materials with high toughness to strength ratios
+ This presents a considerable challenge for fracture testing of biological material/soft tissue specimens, where high toughness occurs due to the fibrous nature of the material, yet fabrication of suitably large specimens may not be possible due to the geometric constraints inherent in the natural anatomy of the material In the current study, we overcome this challenge by using clot analogue materials (rather than excised clots) fabricate large clot analogue samples in order to ensure compliance with the requirements of fracture testing []
+ The so-called critical distance 2 ), has been used for estimation of the crack length, where  is fracture toughness,  is material stiffness, and  is ultimate strength []
+ The crack length  should be in the same order of magnitude as  (a larger value of crack length is preferred) to make sure that the crack reaches to the propagation condition before the stress in the specimen reach to the ultimate Other dimensions of the clot specimen have been chosen based on the length of crack as shown in Figure b
+ It should be noted that the fracture toughness () of blood clots has not been reported previously
+ Therefore we approximate the value of  for blood clot before the test, based on the value of fracture toughness for soft tissues []
+ We have checked the validity of this initial guess (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    after finishing fracture tests and we found the crack length to be large enough for all three compositions used in this study
+ Moreover, the clot shows non-linear material behaviour with non-constant stiffness [,]
+ Therefore an approximate values of  = 140,130, 100 , which are the values of clot stiffness at 75% strain in unconfined compression test, have been used for 5% H, 20% H, and 40% H clots, respectively
+ In addition, the value of  = 
+2  has been taken from Furthermore, we performed a second validity check for the measured fracture toughness
+ The condition  Fmax/FQ < 
+1 should be maintained for a valid fracture test, where Fmax is the ratio of the maximum load that the specimen was able to sustain during the test []
+ A summary of the validity checks we have done for our fracture test are presented in Table 1 for each clot composition
+ Table 1: Validity checks for the fracture test of 5% H, 20% H, and 40% H platelet-contracted clot Given the aforementioned size limitations the chosen dimensions for the clot specimen are presented in Table 2 to make sure that the sample is as large as required but also as small as possible
+ It should be noted that the same dimensions are used for all three compositions, with the exception the specimen thickness dimension, t
+ However, for all cases, the thickness is large enough to ensure plain strain condition behind the crack tip
+ More details on the effect of specimen thickness are Table 2: Dimensions of the compact tension clot specimen for fracture test (Figure d)
+ All (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    Fracture toughness which describes the ability of a material to resist the propagation of pre-existing cracks is defined by a parameter   which is the energy needed for crack propagation
+ The critical strain energy release rate at fracture initiation point,  , is calculated form experimental data of fracture test based on the established method for fracture toughness calculation of materials []
+ The method requires determination of the energy derived from integration of the load versus load-point displacement curve in fracture test, while making a correction for the energy which does not contribute to the creation of new surfaces, such as friction losses  due to the relative motion of pins and clot
+ This correction is performed by performing test with an unnotched specimen of the same clot type and subtracting the corresponding energy from that of the notched specimen test (Figure )
+ First, the value of a force FQ is found using the 5% secant method as demonstrated in Figure a
+ The area under force-displacement curve up to the point of FQ is then calculated which is the energy 
+ Corrected energy U is then calculated as  = 1 2, where 2 is the area under force-displacement curve of the unnotched specimen test up to the point with force FQ
+ The value of   where the energy-calibration factor  is a geometry function depends on the crack length to width ratio (a/w)
+ A value of   = 
+199 is used for a/w=
+5 in this study which is obtained from []
+  Figure 2: Method for fracture toughness calculation of blood clot
+ (a) A representative force-displacement curve for fracture test and (b) un-notched compact tension test of blood clot are shown, indicating the work until crack propagation U2 and the corresponding energy in unnotched test U2 as well as the force FQ and load-point displacement uQ at the start of crack propagation which (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    In order to further characterise the non-fracture biomechanical behaviour of the clot analogue materials, unconfined compression testing is performed using a protocol recently developed by Johnson et al []
+ In summary, test specimens were prepared by cutting the clots into cylindrical-shaped samples with an approximate diameter of 10 mm, and an approximate height of 5 mm
+ The testing was performed using a Zwick uniaxial tensile machine (Zwick Z
+5, Ulm Germany) with a customised aluminium compression platen
+ The clot specimens were loaded to a compressive nominal strain of 80% at a constant axial strain-rate magnitude of 10% per second
+ In order to obtain detailed insights from the fracture tests described above, finite element simulations are performed in which crack initiation and propagation are predicted using a cohesive zone model
+ The clot material is modelled as an anisotropic hyperplastic fibrous soft tissue using the a recently proposed formulation [49]  This formulation has been shown to accurately predict the isochoric and volumetric behaviour of blood clots over a wide range of clot compositions while facilitating control of unphysical auxetic behaviour []
+ The isochoric strain energy density function 1m(  ln   1) |  1|   2 + ln ) + (  ln ) +  ln  +01 1 < |  1| < 2 + 2 + ) ln  +02 |  1|  where 1 , 2 , 1 , and 2  are material parameters,   ( = 1,2,3) are the isochoric principal stretches,  =123 is the jacobian, and 01  and 02  are two constants which ensure the continuity of strain energy
+ Moreover  , , and  are not independent parameters; in order to maintain C0 and C1 continuity the following relations must be enforced: ,     = 1  21 ,    = (1  )1  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    1(J  ln J  1) |J  1|   2 + ln J) + (J  ln J) +  ln J + 01 1 < |J  1| < 2 + 2 + ) ln J + 02 |J  1|  in which 1 and 2 are the initial small-strain and large-strain bulk modulus, respectively, the parameters 1 and 2 control the transition volumetric strains, and  ,  , and  are obtained in a similar manner as equation (2) by using the corresponding volumetric parameters
+ For further discussion on the volumetric strain energy density function the reader is referred to the recent The anisotropic strain energy density function corresponding to the contribution of fibrin fibres in + ) + 01 1 <   1 < 2 +   2f(1 + 2f)) + 02   1  where, and ,  , and  are obtained in a similar manner as equation (2) by using the corresponding volumetric parameters
+ The total strain energy density of the clot material is given as  = () + (1, 2, 3) + ()
+ Stress-strain relationships are readily derived from The constitutive parameters for each clot composition are obtained using an inverse finite element parameter identification scheme and least-square optimization algorithm based on the fracture and compression test data
+ These calibrated material parameters are used for all computational In 1968, Rice introduced an energetically motivated generalized crack driving force referred to as the  J-integral []
+ The crack will grow upon reaching the J-integral to a critical value JC
+ Here, J-integrals for each of the three tested clot compositions are calculated by using the virtual crack extension method in Abaqus (2018, Dassault Syst`emes Simulia Corp
+ )
+ The computed value of J-integral during the fracture test is then compared to the critical value of the strain energy release rate (GIC=Jc) obtained from the fracture experiment
+ This provide a good basis for the assessment of (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    the composition-specific fragmentation risk of the clot during clinical procedures such as mechanical The cohesive zone fracture model developed by Fitzgibbon and McGarry [52,53], is used to simulate the crack propagation in the fracture test
+ In this CZM formulation the magnitude of the interface  ,                      < where  is the interface stiffness,  is the magnitude of the interface displacement vector, and   is the maximum separation prior to the initiation of damage
+ Interface damage, , increases monotonically from 0, at the onset of damage, to 1, at the point of ultimate failure, such that:    is the maximum displacement;  governs the rate at which damage increases with increasing interface displacement
+ Moreover, the CZM fracture energy   is introduced as the area under The finite element analysis has been performed by using the C3D8 elements in Abaqus/standard
+ A mesh convergence study was carried out based on the value of force at fracture initiation point and a mesh with 36084 elements was found sufficiently accurate and was used for the calibration of interface strength () and CZM fracture energy ()
+ The pins were modelled as rigid surfaces and a frictionless contact between the pins and the clot specimen has been considered
+  The results of fracture and compression tests for 5%H, 20%H, and 40%H platelet-contracted clot analogues are presented in Figure 
+ In general, it is observed that the clot with higher fibrin content are stiffer than the clot with lower fibrin content, both in compression and compact tension test of un-notched specimens
+ The force-displacement curves of the compact tension fracture test (Figure 3c) exhibit an initial non-linear stiffening followed by stable crack propagation with an approximately constant force
+ The steady-state force is significantly higher with increasing fibrin content (decreasing haematocrit)
+ The 5% H clot has the greatest peak force at steady-state crack (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    propagation zone, followed by the 20% H clot, with the 40% H clot having the lowest peak force in the crack propagation zone (Figure h)
+ The 40% H clot has the lowest initial stiffness, compared to the 20% H and 5% H clots (Figure e,f)
+ It is also observed that the crack propagation starts at a higher value of applied deformation (u) for the fibrin-rich clots compared to the RBC-rich clots (Figure g)
+ The applied displacement at the final fracture point () is also higher for 5% H clots compared to the 20% H and 40% H clots
+ However, the difference in  for 20% H and 40% H clots is not statistically significant (Figure 3i), whereas a statistically significant difference is observed between all clot compositions in terms of the force at fracture initiation ((/))
+ Figure 3: Mechanical and fracture behaviour of clot are significantly dependant on clot composition
+ Compression, compact tension un-notched test, and compact tension fracture test results for 40% H, 20% H, and 5% H clot analogues
+ (a) Nominal stress (P) vs
+ nominal strain () for unconfined compression tests; (b) Force per thickness of the specimen (F/t) vs
+ applied displacement (u) in compact tension un-notched tests
+ (c) Force per thickness of the specimen (F/t) vs
+ the load-(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    point displacement (u) in compact tension fracture test; (d) Tangent stiffness at 20%, 60%, and 80% strain in compression test; (e) Tangent stiffness at u=2, 5, 10 mm in compact tension un-notched test; (f) Tangent stiffness at u=2, 5, 10 mm in fracture test; Composition-specific difference in: (g) applied displacement at initiation of fracture (ufi), (h) The stable crack propagation force per thickness ((F/t)fi), (i) applied displacement at final fracture point (uff)
+ Results are presented as boxplots, where boxes represent upper and lower quartiles and lines inside the boxes define the median, while + represent outliers, and whiskers 1090 percentiles
+ Significant differences are The critical strain energy release rates at crack growth initiation point   for each clot composition are calculated from fracture test results (Figure b,c)
+ Figure 4 demonstrates a significant decrease in critical strain energy release rate (fracture toughness) of clot analogous with increasing haematocrit (RBC content); i
+ e
+ an increase in fracture toughness with increasing fibrin content
+ This suggests that fibrin content is a key determinant of the fracture resistance of blood clots
+  Figure 4: Dependence of fracture resistance on clot composition
+ The critical strain energy release rate GIC (fracture toughness) at onset of crack propagation for 40% H, 20% H, and 5% H platelet-(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    tension test data and the best-fit parameters are presented in Table 
+ The ability of the calibrated constitutive law to predict the mechanical behaviour of different clot types is also demonstrated in Figure 5 where a good agreement between experimental data and model predictions is observed for all clot types
+ Importantly, if the clot is modelled as an isotropic hyperelastic material a reasonable fit can be obtained for unconfined compression experiments but not for compact tension experiments
+ However, when an anisotropic component (equation (5)) is incorporated to represent the fibrin network, a reasonable fit can be computed for both unconfined compression experiments and compact tension experiments
+ This highlights the significant contribution of fibrin alignment and stretching when blood clots are subjected to tensile loading
+ The anisotropic fibrin component is included in all subsequent simulations in this paper
+ Furthermore, in appendix B, we have shown that an Ogden hyperelastic model with asymmetric behaviour is not able to capture the experimental results of the unconfined compression test and compact tension test at the same time
+  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    Figure 5: Computational simulation of unconfined compression experiments and compact tension experiments
+ (a) unconfined compression test; (b) unnotched compact tension test are compared with the experimental data for 5%, 20%, and 40% H platelet-contracted clot analogues; (c) Contour plot of the von-mises stress distribution in a 20% H clot analogue for an unnotched compact tension test simulation at an applied displacement of u=10 mm, and for an unconfined compression test at Table 3: Best-fit hyperelastic parameters of the constitutive model for 5% H, 20% H and 40% H Computed J-integrals are shown as a function of applied displacement (Figure a)
+ The 5% H clot has the greatest fracture initiation displacement (ufi), followed by the 20% H clot, with the 40% H clot This computational prediction is in agreement with the experimental observations in Figure g
+ More detailed analysis of the computational simulations reveals fibre alignment perpendicular to the crack direction ahead of the crack (Figure 6b, c)
+ Moreover, the peak value of the fibre stretch (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    (,peak) is higher behind the crack-tip compared to points farther from the crack (Figure d)
+ The results in Figure 6 can explain the toughness enhancement in blood clots
+ It is noted that the fibres are isotropically distributed at the undeformed reference configuration, and they become aligned as the material deforms and stretches in front of the crack tip
+ For further investigation on the contribution of fibrin fibres into the fracture resistance of blood clot, we consider two different models: an anisotropic constitutive model which incorporate the contribution of fibrin fibres (model I) and a non-fibrous isotropic model (model II)
+ The hyperelastic parameters of Table 3 are used for model I and the parameters of model II are identified such that both models have the same stress-strain behaviour in uniaxial tension (Figure e)
+ The results as demonstrated in Figure 6e reveal the key role of fibrin fibres in  fracture resistance of blood clots
+ Notably, much more deformation is required to reach GIC when the contribution of the fibres are considered (mode I), compared to the model II which does not incorporate the contribution of the fibres
+ Also, the difference between model I and model II are higher for the 5% H clot with high amount of fibrin compared to the 40%  H clot with lower fibrin content
+  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    Figure 6: Role of fibrin fibres on the tear resistance of clot
+ (a) Composition-specific J-Integral calculations for fracture path in the crack direction as a function of the applied displacement (u) in a fracture test
+ (b) The evolution of fibre alignment behind the crack-tip is shown for a 5% H clot at a point near the crack tip (point A) and a point far from the crack tip (point B)
+ At point A the fibres are highly aligned in the direction perpendicular to the crack propagation direction at maximum load (u=40 mm)
+ (c) Degree of fibre alignment in clot is quantified by the probability density function (PDF) of the fibres as a function of the angle w
+ r
+t the crack direction (), for reference (undeformed) state and for the maximum load state and points A and B
+ (d) The corresponding peak fibre stretch at the notch along the direction of crack (x-direction) is computed
+ (e) The key role of fibrin fibres in fracture resistance of blood clot is demonstrated by using an anisotropic model which incorporating the influence of fibrin fibres (Model I) and a isotropic model without the fibrin fibres (Model II)
+ Both (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    FE simulations of the fracture test with notched specimen are performed by using the calibrated constitutive law and CZM model
+ The results as shown in Figure 7 reveal a good agreement between computational predictions and experimental measurements, in terms of the initial hyperelastic deformation, and in terms of crack initiation and propagation
+ The interface strength () of 480 kPa, 250 kPa, and 100 kPa and the fracture energy () of 
+152 kN/mm, 
+3645 kN/mm, and 
+045 kN/mm are found for 5% H, 20% H, and 40% H clots, respectively
+ Similar to the fracture toughness (GIC), both interface strength and CZM fracture energy increase by increasing the fibrin content in Figure 7: Finite element cohesive zone model predictions of fracture initiation and propagation for 5% H, 20% H, and 40% H platelet-contracted clot analogues
+ Anisotropic hyperelastic material (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    This study provides the first characterization of the fracture toughness (tear resistance) of blood clot analogues
+ The results of which are highly relevant for assessment of clot fragmentation in thrombectomy, a major risk during endovascular treatment of AIS
+ A bespoke experimental test-rig and compact tension specimen fabrication has been developed to measure fracture toughness of thrombus material Fracture tests have been performed on three physiologically relevant clot compositions: a high fibrin 5% H clot, a medium fibrin 20% H clot, a low-fibrin 40% H clot
+ Fracture toughness is observed to significantly increase with increasing fibrin content, i
+ e
+ RBC-rich clots are more prone to tear during loading compared to the fibrin-rich clots
+ This observation is consistent with the published clinical data which report high RBC-content clots in patients with multiple  Finite element cohesive zone simulations of fracture tests are performed to further investigate the toughening mechanism associated with the clots fibrin network
+ Simulations reveal that, with increasing applied displacement, fibrin fibres behind the crack tip reoriented toward the tension direction, becoming highly aligned perpendicular to the crack direction
+ This significantly increases the computed J-integral at the point-of fracture initiation
+ Furthermore, our investigation reveals that the anisotropic hyperelastic contribution of the fibrin network must be incorporated into a computational model in order to accurately simulate experimental behaviour in both tension and compression
+ In contrast, an isotropic hyperelastic formulation does not capture both compressive and tensile behaviour
+ This insight into the material model is an advance on our previous isotropic models [27,28], which were proposed based on only considering compression experiments
+ Also, the CZM modelling and J-integral analysis have only been used for a limited number of studies of biological soft tissues [52,53], and have not been used for blood clots before
+ The developed computational model provides a suitable basis for pre-clinical assessment of the stent-retriever In the current study, we have investigated the influence of clot composition (fibrin and RBC) on the fracture toughness of platelet-contracted clot analogues for three compositions
+ There are many other compositions/contractility levels that should be considered in future studies
+ Moreover, the influence of recombinant tissue plasminogen activator (rtPA) on fracture toughness of clot should be considered in future experiments
+ Using rtPA as an early reperfusion therapy for AIS is recommended by American Heart Association and American Stroke Association (AHA/ASA) to reduce or prevent brain infarction
+ The experimental-computational approach that we have (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    developed in this study could uncover the influence of rtPA on fracture toughness and This work has been funded by a European Union Horizon 2020 Research and Innovation Program, The raw/processed data required to reproduce these findings cannot be shared at this time as the [1] (WHO) World Health Organisation, Global Health Observatory (GHO) data, 
+ [2] S
+ Johnson, J
+ Chueh, M
+ J
+ Gounis, R
+ McCarthy, J
+ P
+ McGarry, P
+ E
+ McHugh, M
+ Gilvarry, Mechanical behavior of in vitro blood clots and the implications for acute ischemic stroke [3] J
+ L
+ Saver, M
+ Goyal, A
+ Bonafe, H
+ C
+ Diener, E
+ I
+ Levy, V
+ M
+ Pereira, G
+ W
+ Albers, C
+ Cognard, D
+ J
+ Cohen, W
+ Hacke, O
+ Jansen, T
+ G
+ Jovin, H
+ P
+ Mattle, R
+ G
+ Nogueira, A
+ H
+ Siddiqui, D
+ R
+ Yavagal, B
+ W
+ Baxter, T
+ G
+ Devlin, D
+ K
+ Lopes, V
+ K
+ Reddy, R
+ D
+ M
+ De Rochemont, O
+ C
+ Singer, R
+ Jahan, Stent-retriever thrombectomy after intravenous t-PA vs
+ t-PA alone in stroke, N
+ [4] R
+ G
+ Nogueira, A
+ P
+ Jadhav, D
+ C
+ Haussen, A
+ Bonafe, R
+ F
+ Budzik, P
+ Bhuva, D
+ R
+ Yavagal, M
+ Ribo, C
+ Cognard, R
+ A
+ Hanel, C
+ A
+ Sila, A
+ E
+ Hassan, M
+ Millan, E
+ I
+ Levy, P
+ Mitchell, M
+ Chen, J
+ D
+ English, Q
+ A
+ Shah, F
+ L
+ Silver, V
+ M
+ Pereira, B
+ P
+ Mehta, B
+ W
+ Baxter, M
+ G
+ Abraham, P
+ Cardona, E
+ Veznedaroglu, F
+ R
+ Hellinger, L
+ Feng, J
+ F
+ Kirmani, D
+ K
+ Lopes, B
+ T
+ Jankowitz, M
+ R
+ Frankel, V
+ Costalat, N
+ A
+ Vora, A
+ J
+ Yoo, A
+ M
+ Malik, A
+ J
+ Furlan, M
+ Rubiera, A
+ Aghaebrahim, J
+ M
+ Olivot, W
+ G
+ Tekle, R
+ Shields, T
+ Graves, R
+ J
+ Lewis, W
+ S
+ Smith, D
+ S
+ Liebeskind, J
+ L
+ Saver, T
+ G
+ Jovin, Thrombectomy 6 to 24 hours after stroke with a mismatch between deficit and [5] J
+ L
+ Saver, R
+ Jahan, E
+ I
+ Levy, T
+ G
+ Jovin, B
+ Baxter, R
+ G
+ Nogueira, W
+ Clark, R
+ Budzik, O
+ O
+ Zaidat, Solitaire flow restoration device versus the Merci Retriever in patients with acute (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    [6] K
+ W
+ Muir, G
+ A
+ Ford, C
+ M
+ Messow, I
+ Ford, A
+ Murray, A
+ Clifton, M
+ M
+ Brown, J
+ Madigan, R
+ Lenthall, F
+ Robertson, A
+ Dixit, G
+ C
+ Cloud, J
+ Wardlaw, J
+ Freeman, P
+ White, H
+ Markus, K
+ Lees, A
+ Molyneux, S
+ Lewis, T
+ Robinson, J
+ Norrie, R
+ Perry, C
+ Roffe, S
+ Nayak, K
+ Lobotesis, C
+ Smith, A
+ Herwadkar, N
+ Kandasamy, T
+ Goddard, J
+ Bamford, G
+ Subramanian, E
+ Littleton, S
+ Lamin, K
+ Storey, R
+ Ghatala, A
+ Banaras, J
+ Aeron-Thomas, B
+ Hazel, H
+ Maguire, E
+ Veraque, L
+ Harrison, R
+ Keshvara, J
+ Cunningham, Endovascular therapy for acute ischaemic stroke: [7] G
+ W
+ Albers, M
+ P
+ Marks, S
+ Kemp, S
+ Christensen, J
+ P
+ Tsai, S
+ Ortega-Gutierrez, R
+ A
+ McTaggart, M
+ T
+ Torbey, M
+ Kim-Tenser, T
+ Leslie-Mazwi, A
+ Sarraj, S
+ E
+ Kasner, S
+ A
+ Ansari, S
+ D
+ Yeatts, S
+ Hamilton, M
+ Mlynash, J
+ J
+ Heit, G
+ Zaharchuk, S
+ Kim, J
+ Carrozzella, Y
+ Y
+ Palesch, A
+ M
+ Demchuk, R
+ Bammer, P
+ W
+ Lavori, J
+ P
+ Broderick, M
+ G
+ Lansberg, Thrombectomy for stroke at 6 to 16 hours with selection by perfusion imaging, N
+ Engl
+ J
+ Med
+ 378 (2018) [8] S
+ Bracard, X
+ Ducrocq, J
+ L
+ Mas, M
+ Soudant, C
+ Oppenheim, T
+ Moulin, F
+ Guillemin, [9] M
+ Goyal, B
+ K
+ Menon, W
+ H
+ Van Zwam, D
+ W
+ J
+ Dippel, P
+ J
+ Mitchell, A
+ M
+ Demchuk, A
+ Dvalos, C
+ B
+ L
+ M
+ Majoie, A
+ Van Der Lugt, M
+ A
+ De Miquel, G
+ A
+ Donnan, Y
+ B
+ W
+ E
+ M
+ Roos, A
+ Bonafe, R
+ Jahan, H
+ C
+ Diener, L
+ A
+ Van Den Berg, E
+ I
+ Levy, O
+ A
+ Berkhemer, V
+ M
+ Pereira, J
+ Rempel, M
+ Milln, S
+ M
+ Davis, D
+ Roy, J
+ Thornton, L
+ S
+ Romn, M
+ Rib, D
+ Beumer, B
+ Stouch, S
+ Brown, B
+ C
+ V
+ Campbell, R
+ J
+ Van Oostenbrugge, J
+ L
+ Saver, M
+ D
+ Hill, T
+ G
+ Jovin, individual patient data from five randomised trials, Lancet
+ 387 (2016) 
+ [10] C
+ A
+ Molina, A
+ Chamorro, 
+ Rovira, A
+ de Miquel, J
+ Serena, L
+ S
+ Roman, T
+ G
+ Jovin, A
+ Davalos, E
+ Cobo, REVASCAT: A randomized trial of revascularization with SOLITAIRE FR device vs
+ best medical therapy in the treatment of acute stroke due to anterior circulation large vessel occlusion presenting within eight-hours of symptom onset, Int
+ J
+ Stroke
+ 10 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    [11] B
+ Lapergue, R
+ Blanc, B
+ Gory, J
+ Labreuche, A
+ Duhamel, G
+ Marnat, S
+ Saleme, V
+ Costalat, S
+ Bracard, H
+ Desal, M
+ Mazighi, A
+ Consoli, M
+ Piotin, Effect of endovascular contact aspiration vs stent retriever on revascularization in patients with acute ischemic stroke and large vessel occlusion: The ASTER randomized clinical trial, JAMA - J
+ Am
+ Med
+ Assoc
+ 318 (2017) [12] R
+ G
+ Nogueira, H
+ L
+ Lutsep, R
+ Gupta, T
+ G
+ Jovin, G
+ W
+ Albers, G
+ A
+ Walker, D
+ S
+ Liebeskind, W
+ S
+ Smith, Trevo versus Merci retrievers for thrombectomy revascularisation of large vessel occlusions in acute ischaemic stroke (TREVO 2): A randomised trial, Lancet
+ 380 (2012) [13] N
+ Mendona, A
+ Flores, J
+ Pagola, M
+ Rubiera, D
+ Rodrguez-Luna, M
+ A
+ De Miquel, P
+ Cardona, H
+ Quesada, P
+ Mora, J
+ Alvarez-Sabn, C
+ Molina, M
+ Rib, Trevo System: Single-Center Experience with a Novel Mechanical Thrombectomy Device, J
+ Neuroimaging
+ 23 (2013) [14] B
+ C
+ V
+ Campbell, P
+ J
+ Mitchell, T
+ J
+ Kleinig, H
+ M
+ Dewey, L
+ Churilov, N
+ Yassi, B
+ Yan, R
+ J
+  Dowling, M
+ W
+ Parsons, T
+ J
+ Oxley, T
+ Y
+ Wu, M
+ Brooks, M
+ A
+ Simpson, F
+ Miteff, C
+ R
+ Levi, M
+ Krause, T
+ J
+ Harrington, K
+ C
+ Faulder, B
+ S
+ Steinfort, M
+ Priglinger, T
+ Ang, R
+ Scroop, P
+ A
+ Barber, B
+ McGuinness, T
+ Wijeratne, T
+ G
+ Phan, W
+ Chong, R
+ V
+ Chandra, C
+ F
+ Bladin, M
+ Badve, H
+ Rice, L
+ De Villiers, H
+ Ma, P
+ M
+ Desmond, G
+ A
+ Donnan, S
+ M
+ Davis, Endovascular therapy for ischemic stroke with perfusion-imaging selection, N
+ Engl
+ J
+ Med
+ 372 (2015) [15] R
+ Nogueira, D
+ Frei, J
+ Kirmani,  O
+ Z
+ -J
+,  undefined 2018, Safety and efficacy of a -[16] O
+ A
+ Berkhemer, P
+ S
+ S
+ Fransen, D
+ Beumer, L
+ A
+ van den Berg, H
+ F
+ Lingsma, A
+ J
+ Yoo, W
+ J
+ Schonewille, J
+ A
+ Vos, P
+ J
+ Nederkoorn, M
+ J
+ H
+ Wermer, M
+ A
+ A
+ van Walderveen, J
+ Staals, J
+ Hofmeijer, J
+ A
+ van Oostayen, G
+ J
+ Lycklama  Nijeholt, J
+ Boiten, P
+ A
+ Brouwer, B
+ J
+ Emmer, S
+ F
+ de Bruijn, L
+ C
+ van Dijk, L
+ J
+ Kappelle, R
+ H
+ Lo, E
+ J
+ van Dijk, J
+ de Vries, P
+ L
+ M
+ de Kort, W
+ J
+ J
+ van Rooij, J
+ S
+ P
+ van den Berg, B
+ A
+ A
+ M
+ van Hasselt, L
+ A
+ M
+ Aerden, R
+ J
+ Dallinga, M
+ C
+ Visser, J
+ C
+ J
+ Bot, P
+ C
+ Vroomen, O
+ Eshghi, T
+ H
+ C
+ M
+ L
+ Schreuder, R
+ J
+ J
+ Heijboer, K
+ Keizer, A
+ V
+ Tielbeek, H
+ M
+ den Hertog, D
+ G
+ Gerrits, R
+ M
+ van den Berg-Vos, G
+ B
+ Karas, E
+ W
+ Steyerberg, (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    H
+ Z
+ Flach, H
+ A
+ Marquering, M
+ E
+ S
+ Sprengers, S
+ F
+ M
+ Jenniskens, L
+ F
+ M
+ Beenen, R
+ van den Berg, P
+ J
+ Koudstaal, W
+ H
+ van Zwam, Y
+ B
+ W
+ E
+ M
+ Roos, A
+ van der Lugt, R
+ J
+ van Oostenbrugge, C
+ B
+ L
+ M
+ Majoie, D
+ W
+ J
+ Dippel, A Randomized Trial of Intraarterial Treatment for Acute Ischemic Stroke, N
+ Engl
+ J
+ Med
+ 372 (2015) 
+ [17] V
+ Maus, D
+ Behme, C
+ Kabbasch, J
+ Borggrefe, I
+ Tsogkas, O
+ Nikoubashman, M
+ Wiesmann, M
+ Knauth, A
+ Mpotsaris, M
+ N
+ Psychogios, Maximizing First-Pass Complete Reperfusion with [18] J
+ Y
+ Chueh, A
+ K
+ Wakhloo, G
+ H
+ Hendricks, C
+ F
+ Silva, J
+ P
+ Weaver, M
+ J
+ Gounis, Mechanical characterization of thromboemboli in acute ischemic stroke and laboratory embolus analogs, [19] A
+ J
+ Yoo, T
+ Andersson, Thrombectomy in acute ischemic stroke: Challenges to procedural [20] X
+ J
+ Kaesmacher, X
+ T
+ Boeckh-Behrens, X
+ S
+ Simon, X
+ C
+ Maegerlein, X
+ J
+ F
+ Kleine, X
+ C
+ Zimmer, X
+ L
+ Schirmer, X
+ H
+ Poppert, X
+ T
+ Huber, Risk of Thrombus Fragmentation during Endovascular [21] S
+ Po Sit, The penumbra pivotal stroke trial: Safety and effectiveness of a new generation of mechanical devices for clot removal in intracranial large vessel occlusive disease, Stroke
+ 40 [22] J
+ Gralla, G
+ Schroth, L
+ Remonda, A
+ Fleischmann, J
+ Fandino, J
+ Slotboom, C
+ Brekenfeld, A dedicated animal model for mechanical thrombectomy in acute stroke, Am
+ J
+ Neuroradiol
+ [23] J
+ Gralla, G
+ Schroth, L
+ Remonda, K
+ Nedeltchev, J
+ Slotboom, C
+ Brekenfeld, Mechanical [24] G
+ Ye, R
+ Cao, J
+ Lu, P
+ Qi, J
+ Chen, D
+ Wang, CT-based Higher Thrombus Density is associated [25] P
+ B
+ Sporns, U
+ Hanning, W
+ Schwindt, A
+ Velasco, B
+ Buerke, C
+ Cnyrim, J
+ Minnerup, W
+ and Pre-Interventional CT Attenuation Are Associated with Intervention Time and Rate of (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    [26] S
+ Duffy, R
+ McCarthy, M
+ Farrell, S
+ Thomas, P
+ Brennan, S
+ Power, A
+ OHare, L
+ Morris, E
+ Rainsford, E
+ MacCarthy, J
+ Thornton, M
+ Gilvarry, Per-Pass Analysis of Thrombus Composition in Patients With Acute Ischemic Stroke Undergoing Mechanical Thrombectomy
+, Stroke
+ 50 [27] S
+ Johnson, Ray McCarthy, Peter McHugh, P
+ Mcgarry, R
+ McCarthy, M
+ Gilvarry, P
+ E
+ McHugh, J
+ P
+ McGarry, Investigating the Mechanical Behaviour of Clot Analogues through Experimental [28] B
+ Fereidoonnezhad, K
+ M
+ Moerman, S
+ Johnson, R
+ McCarthy, P
+ J
+ Mcgarry, A new compressible hyperelastic model for the multi-axial deformation of blood clots occlusion in [29] F
+ Malone, E
+ McCarthy, P
+ Delassus, P
+ Fahy, J
+ Kennedy, A
+ J
+ Fagan, L
+ Morris, The Mechanical [30] J
+ H
+ Ashton, J
+ P
+ Vande Geest, B
+ R
+ Simon, D
+ G
+ Haskett, Compressive mechanical properties of the intraluminal thrombus in abdominal aortic aneurysms and fibrin-based thrombus [31] T
+ C
+ Gasser, G
+ Grgl, M
+ Folkesson, J
+ Swedenborg, Failure properties of intraluminal thrombus in abdominal aortic aneurysm under static and pulsating mechanical loads, J
+ Vasc
+ [32] E
+ Saldvar, J
+ N
+ Orje, Z
+ M
+ Ruggeri, Tensile destruction test as an estimation of partial [33] J
+ P
+ Vande Geest, M
+ S
+ Sacks, D
+ A
+ Vorp, A planar biaxial constitutive relation for the luminal layer of intra-luminal thrombus in abdominal aortic aneurysms, J
+ Biomech
+ 39 (2006) [34] E
+ Di Martino, S
+ Mantero, F
+ Inzoli, G
+ Melissano, D
+ Astore, R
+ Chiesa, R
+ Fumero, Biomechanics of abdominal aortic aneurysm in the! presence of endoluminal thrombus: [35] D
+ S
+ Liebeskind, N
+ Sanossian, W
+ H
+ Yong, S
+ Starkman, M
+ P
+ Tsang, A
+ L
+ Moya, D
+ D
+ Zheng, A
+ M
+ Abolian, D
+ Kim, L
+ K
+ Ali, S
+ H
+ Shah, A
+ Towfighi, B
+ Ovbiagele, C
+ S
+ Kidwell, S
+ Tateshima, (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    R
+ Jahan, G
+ R
+ Duckwiler, F
+ Viuela, N
+ Salamon, J
+ P
+ Villablanca, H
+ V
+ Vinters, V
+ J
+ Marder, J
+ L
+ Saver, CT and MRI early vessel signs reflect clot composition in acute stroke, Stroke
+ 42 [36] V
+ J
+ Marder, D
+ J
+ Chute, S
+ Starkman, A
+ M
+ Abolian, C
+ Kidwell, D
+ Liebeskind, B
+ Ovbiagele, F
+ Vinuela, G
+ Duckwiler, R
+ Jahan, P
+ M
+ Vespa, S
+ Selco, V
+ Rajajee, D
+ Kim, N
+ Sanossian, J
+ L
+ Saver, Analysis of thrombi retrieved from cerebral arteries of patients with acute ischemic [37] S
+ K
+ Kim, W
+ Yoon, T
+ S
+ Kim, H
+ S
+ Kim, T
+ W
+ Heo, M
+ S
+ Park, Histologic analysis of retrieved clots in acute ischemic stroke: Correlation with stroke etiology and gradient-echo MRI, Am
+ J
+ [38] J
+ M
+ Niesten, I
+ C
+ van der Schaaf, L
+ van Dam, A
+ Vink, J
+ A
+ Vos, W
+ J
+ Schonewille, P
+ C
+ de Bruin, W
+ P
+ T
+ M
+ Mali, B
+ K
+ Velthuis, Histopathologic Composition of Cerebral Thrombi of Acute Stroke Patients Is Correlated with Stroke Subtype and Thrombus Attenuation, PLoS One
+ 9 [39] N
+ Simons, P
+ Mitchell, R
+ Dowling, M
+ Gonzales, B
+ Yan, Thrombus composition in acute ischemic stroke: A histopathological study of thrombus extracted by endovascular retrieval, [40] S
+ Duffy, M
+ Farrell, K
+ Mcardle, J
+ Thornton, D
+ Vale, E
+ Rainsford, L
+ Morris, D
+ S
+ Liebeskind, E
+ Maccarthy, M
+ Gilvarry, Novel methodology to replicate clot analogs with diverse [41] J
+ Y
+ Chueh, A
+ K
+ Wakhloo, G
+ H
+ Hendricks, C
+ F
+ Silva, J
+ P
+ Weaver, M
+ J
+ Gounis, Mechanical characterization of thromboemboli in acute ischemic stroke and laboratory embolus analogs, [42] S
+ Johnson, R
+ McCarthy, B
+ Fahy, O
+ Madalina Mereuta, S
+ Fitzgerald, J
+ Gaudirc, J
+ -P
+ Remadi, E
+ Shotar, N
+ Sourour, K
+ Doyle, M
+ Gilvarry, P
+ Mcgarry, P
+ Mchugh, F
+ Clarenon, Development of an in vitro model of calcified cerebral emboli in acute ischemic stroke for [43] D
+ Taylor, Measuring fracture toughness in biological materials, J
+ Mech
+ Behav
+ Biomed
+ [44] X
+ K
+ Zhu, J
+ A
+ Joyce, Review of fracture toughness (G, K, J, CTOD, CTOA) testing and (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    [45] D
+ Taylor, N
+ OMara, E
+ Ryan, M
+ Takaza, C
+ Simms, The fracture toughness of soft tissues, J
+ [46] S
+ Johnson, B
+ Fahy, P
+ McGarry, R
+ McCarthy, P
+ E
+ McHugh, A
+ Consoli, Investigating Clot Behaviour and Occlusion Dynamics over the Relevant Timeline for Acute Ischemic Stroke, [47] N
+ Krasokha, W
+ Theisen, S
+ Reese, P
+ Mordasini, C
+ Brekenfeld, J
+ Gralla, J
+ Slotboom, G
+ Schrott, H
+ Monstadt, Mechanical properties of blood clots - a new test method, Materwiss
+ [48] ASTM International, (ASTM D 5054) - Standard Test Methods for Plane-Strain Fracture Toughness and Strain Energy Release Rate of Plastic Materials, ASTM B
+ Stand
+ 99 (2013) [49] B
+ Fereidoonnezhad, C
+ OConnor, P
+ McGarry, A new anisotropic soft tissue model for [50] K
+ M
+ Moerman, B
+ Fereidoonnezhad, J
+ P
+ McGarry, Novel hyperelastic models for large [51] J
+ R
+ Rice, A path independent integral and the approximate analysis of strain concentration by notches and cracks, J
+ Appl
+ Mech
+ Trans
+ ASME
+ 35 (1964) 
+ [52] B
+ FitzGibbon, P
+ McGarry, Development of a novel test method to investigate mode II [53] B
+ FitzGibbon, B
+ Fereidoonnezhad, J
+ Concannon, N
+ Hynes, S
+ Sultan, K
+ M
+ Moerman, P
+ McGarry, A numerical investigation of the initiation of aortic dissection, (n
+ d
+ )
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    The critical strain energy release rate (GIC) of an specimen depends on the thickness of the specimen []
+ What is referred to as the fracture toughness is the value of the critical strain energy release rate for the specimen which is thick enough to ensure the establishment of plane strain condition at the crack tip
+ To investigate the influence of specimen thickness on the fracture test results, we performed a series of CZM simulations for clot of different thickness
+ The results, as shown in Figure A1, reveal  that the thickness of the tested samples (Table 2) are high enough for a valid fracture Figure A1: Influence of specimen thickness on the fracture test results for a 5% H clot analogues
+  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    Appendix B: Role of fibrin fibres in tension-compression asymmetry of clot In this appendix we show that the traditional Ogden hyperelastic model with asymmetric tension-compression behaviour is not able to capture both the tension and compression test results, further highlighting the key contribution of the re-alignment of fibrin fibres in tensile loadings
+   Figure B1: The prediction of Ogden model in unnotched compact tension specimen test (left) and unconfined compression test (right) for 5% H clot analogues
+ Two representative sets of parameters (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted October 5, 
+ ;    

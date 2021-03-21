@@ -1,0 +1,1116 @@
+Integrated meditation and exercise therapy: A randomized controlled trial of a combined non-pharmacological intervention reduces disability and pain in patients with chronic low back painTitle: Integrated meditation and exercise therapy: A randomized controlled trial of a combined 1 non-pharmacological intervention reduces disability and pain in patients with chronic low back 2 
+ Anna M
+ Polaski, Department of Biological Sciences, Chronic Pain Research Consortium, 6 
+ Amy L
+ Phelps, Palumbo Donahue School of Business - Statistics, Chronic Pain Research 8 
+ Thomas J
+ Smith, Counseling and Wellbeing Center, Duquesne University, Pittsburgh, PA
+ 10 
+ Eric R
+ Helm, Department of Physical Medicine and Rehabilitation, University of Pittsburgh 11 
+ Natalia E
+ Morone, Section of General Internal Medicine, Boston University School of 13 
+ Kimberly A
+ Szucs, Department of Occupational Therapy, Chronic Pain Research 15 
+ Matthew C
+ Kostek, Department of Physical Therapy, Chronic Pain Research Consortium, 17 
+ Benedict J
+ Kolber, Department of Biological Sciences, Chronic Pain Research Consortium, 19 Benedict Kolber, Duquesne University, 600 Forbes Ave, Pittsburgh, PA 15219; 24 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    treating both the physiological and psychological symptoms of chronic pain conditions but the 28 potential of many combined therapies is unknown
+ This study examined the effects of a 29 combined intervention of mindfulness meditation followed by aerobic walking exercise in chronic 30 low back pain (cLBP) patients
+ We hypothesized that meditation before exercise would reduce 31 disability and pain by increasing mindfulness prior to physical activity
+ Thirty-eight adults 32 completed either meditation and exercise treatment (MedExT) (n=18) or an audiobook control 33 condition (n=)
+ Over a 4-week period, participants in the MedExT group performed 12-17 34 minutes of guided meditation followed by 30 minutes of moderate intensity walking exercise 5 35 days per week
+ Measures of disability, pain, mindfulness and anxiety were taken at baseline 36 and post-intervention
+ Ratings of pain were also assessed by participant self-report, before and 37 after each intervention session
+ Following MedExT, participants showed significant improvement 38 in our primary outcome of disability compared to the control group (p<
+ )
+ From pre to post-39 intervention, MedExT also increased mindfulness (p<
+05), but had no significant effect on 40 quantitative sensory testing on the low back
+ Mean ratings of low back pain intensity and 41 unpleasantness significantly improved with MedExT from before the study to during 42 participation, respectively (intensity p<
+05; unpleasantness p<
+ )
+ Overall, four weeks of 43 MedExT produced substantive changes in disability, mindfulness and measures of pain intensity 44 Keywords: exercise, mindfulness meditation, QST, chronic low back pain, integrative health 47 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;     Low back pain is the most common reported type of pain [16] and the second leading 49 cause of physician visits and disability among U
+ S
+ adults []
+ Globally, 25% of adults report 50 having low back pain over any one month []
+ Often due to non-specific causes and 51 complicated by comorbid symptoms [19], low back pain remains difficult to treat
+ Current 52 treatments include NSAIDS, muscle relaxants, opioids, psychological therapy, physical therapy 53 chiropractic manipulation, injections and surgery [1, ]
+ Chronic low back pain is further made 54 complex by the potential for comorbid anxiety disorders []
+ In particular, musculoskeletal pain 55 is often associated with fear avoidance anxiety behavior and kinesiophobia []
+ This 56 kinesiophobia or fear of movement can further exacerbate pain and subsequent disability
+ 57 Kinesiophobia may also reduce the potential benefit of physical treatments in patients by 58 increasing state anxiety before and during therapy
+ In treating chronic pain, a major gap exists 59 in not only treating the physiological condition, but also addressing the interplay with 60 Due to the risk of adverse side effects, addiction and misuse, many pharmacological 62 approaches to treating low back pain, including opioid therapeutics, have not been found to be 63 superior to complementary treatment methods []
+ There has been a significant push in the last 64 20 years to identify and understand complementary and integrative therapies to supplement 65 acupuncture, spinal manipulation and massage with many of these showing significant positive 69 effects []
+ There has been considerable interest in programs that combine elements of 70 multiple therapies to treat chronic pain
+ One of most well-established integrative programs that 71 involves elements of stress reduction, exercise, and meditation is the 8-week MBSR system, 72 which has been found to improve pain, depression and quality of life []
+ However, this 73 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    program requires extensive training and may not be easily accessible to some persons with 74 cLBP
+ In the current study, we examined a more feasible pilot program of introductory 75 mindfulness meditation that novice meditators could easily put into practice prior to aerobic 76 walking exercise
+ Both meditation and exercise have been independently investigated in the 77 Exercise interventions have proven to have beneficial outcomes on pain severity, 79 physical disability, psychological function and health-related quality of life across various chronic 80 pain conditions []
+ Mechanistically, aerobic exercise at a level of at least 70% of the maximum 81 aerobic capacity generates the production of endorphins and elicits other pain inhibitory 82 mechanisms driven by the central nervous system [6, ]
+ In addition, aerobic exercise has 83 been shown to reduce fatigue and improve peak oxygen uptake, and physical fitness [17, ]
+  84 Similar to exercise, studies incorporating mindfulness meditation have largely shown to 85 improve pain and depression symptoms, quality of life, well-being and increase mobility and 86 functioning [26, ]
+ Mechanistically, meditation with mindfulness has been associated with 87 decreased levels of cortisol [28], increased signaling connections in the brain [49], improved 88 pain processing and emotional control [31], and altered amygdalar response to emotional stimuli 89 []
+ As these therapies (exercise and meditation) independently improve disability and pain, the 90 Meditation and Exercise to Treat chronic low back trial (MedExT) tested the effects of a 4-week 91 intervention of a guided mindfulness meditation program combined with moderate intensity 92 walking exercise performed 5 days per week in chronic low back pain (cLBP) patients
+ We 93 hypothesized that this intervention would improve disability (primary outcome), pain, anxiety and 94 increase mindfulness compared to control participants
+ This specific therapy combination has 95 not been previously examined in chronic pain patients
+   96 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Participants were 52 adults (age 18-60) with chronic low back pain (>6 months) with no 99 evidence of neuropathic pain, radicular pain (i
+ e
+ sciatica), or referred somatic pain
+ Participants 100 were recruited using in-clinic recruitment to the University of Pittsburgh Department of Physical 101 Medicine and Rehabilitation Research Registry (PMR3) and the University of Pittsburgh Clinical 102 and Translational Science Institute (CTSI) patient registry, Pitt+Me
+ Initial pre-screening was 103 completed during recruitment to the Pitt+Me database with phone follow-up by A
+ M
+ P
+ Full 104 inclusion criteria included 1) a BMI within the normal to overweight range (
+ -
+9), 2) a 105 resting heart rate between 60 and 100 bpm, 3) resting blood pressure less than or equal to 106 140/90mmHg, and 4) the ability to independently ambulate community distances without 107 external support (i
+ e
+ walker, cane)
+ Exclusion criteria included 1) cardiovascular or respiratory 108 disease, 2) neurological disease, unrelated to low back pain, 3) diabetes mellitus, Types 1 and 109 2, 4) diagnosis of chronic pain condition unrelated to low back pain, 5) acute pain, 6) regular 110 participation in high intensity athletic/sporting activities, 7) sedentary lifestyle, 8) currently 111 pregnant individuals, 9) current cigarette smokers, 10) individuals with on-going litigation 112 associated with back pain, 11) regular participation in meditation techniques or training in 113  This study was designed as a randomized single-blinded (for QST testing) controlled trial 116 with repeated measures testing the effect of a combined treatment of mindfulness meditation 117 and aerobic walking exercise (MedExT) compared to a control intervention
+ The trial was 118 randomized between the two groups using a random sequence generator
+ M
+ K
+ was responsible 119 for generating random allocation sequence and A
+ M
+ P
+ was responsible for enrolling and 120 assigning participants to interventions
+ QST outcome assessor (B
+ J
+ K
+) remained blinded to 121 treatment assignment
+ A power analysis indicated that a minimum of 21 subjects/group to be 122 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    sufficient to detect statistical differences in our primary dependent variable, disability measured 123 with the Roland Morris Disability Questionnaire (RMDQ) (alpha=
+05, effect size=
+8, 124 power=
+80) using the G-power calculator based on previously published work using MBSR and 125 low-back pain
+ All procedures were approved by the Duquesne University Institutional Review 126 Board (Protocol #2017-05-12) and written consent was obtained from each participant prior to 127 testing
+ All methods were performed in accordance with the relevant international and local 128 guidelines and regulations for human research
+ This study is registered with ClinialTrials
+gov 129 under ID: NCT03324659 (//)
+ Participants were compensated for participation
+  130 Laboratory over the course of the 4-week intervention period between January 2018 to April 133 
+ For participants meeting phone screening criteria, informed consent was obtained and 134 participants were enrolled in the study
+ An initial clinical screening exam was performed by three 135 clinicians (E
+ H
+ or two trained Physician Assistants)
+ During this screening (~15 minutes), 136 patients were evaluated for strength, lumbar range of motion, reflexes and sensation in relation 137 to their low back pain
+ This screening was done to verify back pain inclusion (e
+ g
+ exclude 138 radicular patients) and to determine safety of participation in the exercise portion of the 139 intervention
+ Of 55 patients recruited, no patients were excluded during this screening
+ 140 Following clinical screening patients were scheduled to start the actual intervention
+ The 141 average time between consent and start of trial was 26 days
+ At the start of the full trial (after 142 clinical screen), participants came in for an intake session during which they completed a 143 battery of questionnaires (see Instruments below) and were oriented to the general study 144 protocol
+ The intake session consisted of a sequence of quantitative sensory tests and baseline 145 assessments of pain (see QST section below)
+ B
+ J
+ K
+ performed all QST blinded to the 146 treatment group of the participants and remained blinded to treatment until after the final pain 147 assessments were completed
+ Participants were blinded to treatment assignments for baseline 148 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    intake testing
+ Following baseline testing, treatment assignments were disclosed to the 149 Within one week of performing baseline pain assessments (average time between 151 baseline and first intervention session = 5 days), participants completed their first in-clinic 152 intervention session
+ At the start of this session, patients received approximately 35-45 minutes 153 of meditation or stress training by a clinical psychologist (T
+ S
+ )
+ These sessions discussed either 154 the potential of and use of mindfulness and meditation (MedExT group) or general stress 155 management and wellbeing for chronic pain (control group)
+ Sessions were standardized by 156 using a script developed by T
+ S
+ (see document, Supplemental Digital Content )
+ Following 157 this session, subjects completed their first intervention session, either combined meditation and 158 exercise (MedExT) or the control condition
+ Participants had the option to complete intervention 159 sessions at-home or in-clinic
+ Interventions were performed 5 days per week for 4 weeks
+ In-160 clinic intervention sessions were typically attended once per week
+ During these sessions two 161 experimenters were present and did a check-in with the participants to ensure that they were 162 not experiencing any difficulty completing the assigned intervention
+ 48 hours after the end of 163 the 4-week period, participants attended the exit session, where they again completed surveys 164 For subjects in the MedExT experimental group, guided meditation recordings with a 167 focus on mindfulness by meditation teacher and psychologist Dr
+ Tara Brach were used [9, ]
+ 168 A selection of five different recordings were utilized; each recording was listened to one time per 169 week and lasted between 12-17 minutes (see Supplemental Digital Content 2 for URLs to 170 recordings)
+ Recordings were selected by T
+ S
+ along with clinical psychologist Ian C
+ Edwards 171 for their focus on mindfulness and overall length
+ Participants were given an mp3 player 172 (SanDisk) loaded with each of the five meditation recordings to borrow
+ During the weekly in-173 clinic session, subjects practiced the meditation portion of the intervention session in our 174 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    interdisciplinary meditation room which was a quiet space with low lighting and comfortable 175 seating options
+ For at-home intervention sessions, subjects were encouraged to perform 176 intensity walking exercise on a treadmill
+ Prior to the first exercise session, resting heart rate 179 and age was used to calculate a heart rate that corresponded to 50% heart rate reserve (HRR) 180 for each participant []
+ We used the 50% HRR estimate as the target heart rate for moderately 181 intense exercise with a range of 40-60% HRR calculated for each participant
+ Heart rate 182 monitors (Polar H1) were worn for each in-clinic exercise session to monitor exertion levels
+ 183 During the first in-clinic exercise session, trial coordinator A
+ M
+P would manipulate the speed 184 and grade of the treadmill in order to achieve the calculated heart rate for an individual 185 participant
+ Average grade was 
+4% and speed range was 
+ -
+8 mph
+ Once reached, this 186 speed and grade combination was used as the walking prescription for subsequent exercise 187 sessions for that particular participant
+ Prior to and following exercise, each MedExT 188 experimental intervention participant rated their perceived exertion levels using the Borg RPE 189 scale []
+ Each exercise session began with a 2-minute warm-up at 
+5 mph and concluded with 190 a 2-minute cool-down (total time 30 minutes on treadmill)
+  191  Participants in the control group listened to an audiobook for 12-17 minutes followed by 193 a 30-minute rest period 5 times per week for 4 weeks
+ Each session was time-matched to the 194 experimental intervention group
+ Subjects were given an mp3 player with 20 (one for each day) 195 recordings of The Natural History and Antiquities of Selborne [54], which has been previously 196 used and validated as a neutral comparison for guided relaxation interventions [14, ]
+ During 197 the resting period, participants were free to read, watch television, listen to music or other 198 activity that was less than moderate physical effort and not stressful
+  199 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;     All surveys were administered using Qualtrics XM Research Core software [45] either 201 via a tablet for in-clinic sessions or via email for at-home sessions
+ All subjects completed the 202 following questionnaires at baseline and exit: the Roland Morris Disability Questionnaire 203 (RMDQ) [46], the State-Trait Anxiety Inventory (STAI form Y) [48], and the Fear-Avoidance 204 Beliefs Questionnaire (FABQ) []
+ The AHA/ACSM Pre-participation Screening Form [3] and 205 the International Physical Activity Questionnaire (IPAQ-short) [7] were also completed at 206 baseline to assess eligibility for enrollment
+ The Freiburg Mindfulness Inventory (FMI) [53] was 207 administered prior to the mindfulness training session and again at the exit session for MedExT 208 Pain was assessed using quantitative sensory testing methods (described below), as 210 well as self-report measures of pain using a visual analog scale (VAS) consisting of a 10cm line 211 with the numbers 0 and 10 at either end for intensity and unpleasantness ratings
+ On each day 212 of the assigned intervention, participants received reminder emails with a URL link to the daily 213 VAS survey, on which subjects would rate pre and post-intervention VAS pain intensity and 214 unpleasantness
+ This survey was able to capture time stamps of survey progress, allowing for 215 Throughout the 4-week trial period, participants in both groups wore ActiGraph GT9X 217 Link devices in order to monitor physical activity (steps per day)
+ During the exit session, 218 participants were also given an exit survey that was used to identify likelihood of continued 219 adherence (for MedExT group) and any barriers to this intervention
+ This survey was 220 Quantitative sensory testing was done on the bare skin of the participants low back and 223 forearms at specific testing sites
+ These assays assessed each participants cutaneous 224 mechanical sensitivity (threshold for mechanical detection to 
+008g, 
+02g, 
+04g, 
+07g, 
+16g, 225 
+4g, 
+6g and 
+0g Touch Test filaments in 3 of 5 trials for filament), cutaneous mechanical 226 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    pain (threshold for mechanical detection up to 300g Touch Test filaments), constant heat pain 227 (45C 3cm x 5cm heating block applied for 3 seconds followed by 10cm Visual Analog Scale 228 (VAS) for intensity and unpleasantness of pain), pressure pain threshold (1cm round probe 229 applied at constant ramping pressure until participant defined cutoff in kg at pain threshold; 230 Wagner Instruments, Greenwich, CT, USA) and constant pressure pain sensitivity (2 second 231 pressure stimulus at participant defined threshold followed by VAS for intensity of pain and 232 unpleasantness of pain) as previously described []
+ 10cm VAS scales were numbered at 0 233 and 
+ Score was measured to the nearest mm
+  Intensity scale ranged from 0=No pain to 234 10=The worst pain imaginable
+ Unpleasantness scale ranged from 0=Not unpleasant to 235 10=Most unpleasant sensation imaginable
+ Testing was performed at baseline and post-236 intervention to measure the overall change in sensitivity across the entire study
+  237 Prior to analysis, an a priori statistical plan was developed (ClinialTrials
+gov under ID: 239 NCT)
+ Descriptive statistics were calculated using the IBM SPSS Version 25 and 240 graphed with either SPSS or GraphPad Prism (Version 
+ )
+ Normality of the data was 241 assessed
+ Nonparametric inferential statistics were used for data that were not normally 242 distributed
+ For analysis of primary and secondary outcomes, we were interested in looking at 243 mean change, however the raw data values can be found as a table (see Supplementary 244 Digital Content )
+ A priori, we determined that participants had to complete 80% of the weekly 245 sessions (> 4 of 5 sessions per week) for inclusion in data analysis
+  246 The primary outcome was defined as the comparison of post-intervention RMDQ scores 248 between the MedExT and the control groups
+ A two-sample t-test was used to identify a 249 significant difference between groups using p<
+ 
+ This questionnaire was chosen as the 250 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    primary outcome measure because it was recently used in both a pilot study and large-scale 251 assessment of MBSR in chronic low back pain patients [38, ]
+ 252 Five groups of secondary outcomes were measured and analyzed
+ P values were 254 adjusted for each group of analyses based on the number of tests in that group
+ The first 255 analysis tested whether the MedExT group would significantly increase mean scores on the 256 Freiburg Mindfulness Inventory as determined by a two-sample t-test (p<
+ )
+ The second 257 explored whether the MedExT treatment would significantly influence a mean change in 258 responses on three psychological inventories administered: 1) the Fear-Avoidance Beliefs 259 Questionnaire, 2) the STAI state anxiety inventory and 3) the STAI state trait anxiety inventory
+ 260 These were analyzed using two-sample t-tests where p<
+02 was considered significant
+ The 261 third group of secondary outcomes measured mean response changes in the series of 14 QST 262 taken at baseline and at the completion of the 4-week intervention period on the low back and 263 non-dominant forearm
+ Analyses were grouped separately for tested body site
+ Significant mean 264 Rank-sum tests were used for mechanical sensitivity and mechanical pain at each site
+ Given 266 the number of statistical tests (n=7 per body site) required for the QST secondary outcome 267 measurements, a corrected p<
+005 was utilized for each body site to determine statistical 268 Fourth, we assessed current back pain using VAS during each day of the trial These 270 VAS measurements were repeatedly made throughout the study taken at baseline and on each 271 intervention day, pre and post-session
+ These measures were the VAS pain intensity score and 272 the VAS pain unpleasantness score
+ In our original stats plan, a repeated measures MANOVA 273 was to be utilized to determine if the vector of timed responses was significantly different 274 between the two study groups
+ Due to missing data from some days, the MANOVA statistical 275 plan was modified to using a mixed error-component model during analysis of data
+ JMP was 276 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    used to perform this analysis
+ Participants were instructed to evaluate their on-going back pain 277 at the time of the measurement
+ We looked at this in two ways: (1) the overall effect of the 4-278 week intervention on intensity and unpleasantness ratings (each days pre-intervention 279 measurement minus baseline) and (2) the acute effect of each days session on VAS ratings 280 Fifth, a final secondary outcome assessed the average pain that a participant 282 experienced using intensity and unpleasantness VAS scales
+ During the exit session, 283 participants evaluated VAS ratings of average low back pain intensity and unpleasantness that 284 they remembered experiencing before the start of the study and after the 4 weeks of the 285 intervention period
+ Significant mean response differences between groups were identified using 286 two-sample t-tests
+ To correct for the number of comparisons, p<
+025 was considered a 287 The following demographic variables were collected and compared between groups to 290 further check against potential bias: age, sex, handedness, body mass index (BMI), baseline 291 heart rate (HR), baseline blood pressure (BP), baseline IPAQ-short, and mean number of steps 292 taken per day over the 4-week intervention period
+ This was done using two-sample t-tests
+  293 Difference in the proportion of sex and handedness was tested using the Fishers Exact test 294 where p<
+05 was considered significant
+ All other continuous variables were tested using two-295 sample t-tests for significant differences between the two study groups (p<
+ )
+  296 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Fifty-two adult volunteers with chronic low back pain were enrolled in this trial and thirty-300 eight participated in its entirety
+14 participants dropped out of the study after enrollment
+ This 301 included 10 due to scheduling conflicts, 3 due to newly discovered ineligibility (e
+ g
+ neurological 302 disorder), and 1 due to inability to complete minimum required 80% sessions per week
+ See 303 Figure 1 for flow-chart diagram
+ Recruitment of participants began in January 2018 and ended 304 February 
+ Demographic characteristics of subjects are presented in Table 
+ Two-sample 305 t-tests revealed no significant group differences for any of the demographic variables
+ A Fishers 306 exact test found no significant relationships comparing treatment group to sex and also to 307 handedness (p>
+ )
+ Using ActiGraph watch data, we compared the average number of steps 308 taken per day for participants in both groups
+ After subtracting steps taken by the MedExT 309 group during their 30-minute exercise session, we found no statistically significant difference 310  Our primary outcome was the effect of treatment on post-intervention scores of disability 313 as measured by the RMDQ
+ A two-sample t-test indicated a significant improvement in disability 314 scores for the MedExT group compared to control (p=
+0123) (Fig
+ )
+ 315  The FMI was administered to determine if there were any changes in mindfulness that 317 developed during the trial A two-sample t-test revealed a significant increase in mindfulness for 318 the MedExT group from pre to post-intervention (p=
+0141) (Fig
+ A)
+ For the psychological 319 inventories, we tested whether the MedExT treatment would influence a mean change in 320 response from pre to post-intervention
+ Two-sample t-tests showed no significant differences 321 between pre and post measures for the MedExT group for the FABQ (p>
+02), STAI state 322 anxiety (p>
+02), or STAI trait anxiety (p>
+02) (Fig
+ B-D)
+  323 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;     For quantitative measures of pain (QST), we analyzed mean response changes from pre 324 to post-intervention on the participants low back and non-dominant forearm to determine any 325 significant differences between groups
+ Body site specific data for each test are shown in Table 326 
+ For the low back and forearm, two-sample t-tests found no significant effects of treatment for 327 constant heat pain intensity, constant heat pain unpleasantness, pressure pain threshold, 328 constant pressure pain intensity or constant pressure pain unpleasantness (p>
+ )
+ 329 Additionally, Mann-Whitney tests showed no significant differences between treatment for 330 mechanical sensitivity or mechanical pain for either the low back or forearms (p>
+ )
+  331  For VAS repeated measures of on-going back pain, we found analgesic effects of the 332 intervention that appear to accumulate over time (Fig
+ )
+ A mixed-effects model revealed a 333 significant effect of time (p=
+0008) and time x treatment (p=
+0012) for intensity ratings on 334 each day before undergoing the intervention session (Fig
+ A)
+ For unpleasantness ratings pre-335 intervention, a mixed-effects model showed significant effects of treatment (p=
+0330), time 336 (p=
+0022) and time x treatment (p<
+0001) (Fig
+ B)
+ Analysis of acute day to day effects of 337 intervention indicated no significant effects for intensity (Fig
+ 4C), but a significant effect of 338 treatment (p=
+0049) for unpleasantness post  pre measures (Fig
+ D)
+ That is, the intensity 339 VAS measured immediately after the ~45-minute session was not significantly different from the 340 VAS measured immediately before that days session
+ The lack of an effect here illustrates the 341 potential cumulative effect of the intervention on pain rather than an acute exercise-induced 342  An additional measure of low back pain was assessed at the exit session
+ Patients were 344 asked to recall their average pain intensity and unpleasantness before the study (i
+ e
+ at 345 baseline) and also across the last month of being in the trial (i
+ e
+ at exit session)
+ Two-sample t-346 tests revealed significant mean change differences between study groups for both intensity 347 ratings (p=
+0167; Fig
+ 5A) and unpleasantness ratings of low back pain (p=
+0144; Fig
+ 5B) 348 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    with the MedExT group showing significant improvement in their subjective evaluation of the 349  A priori, we determined that we would evaluate all participants that completed 80% of 352 each weeks sessions
+ This value was determined by whether participants completed the daily 353 Qualtrics survey before/after their session
+ However, we reasoned that there may have been 354 individuals in the MedExT experimental group that completed the survey, but did not actually 355 complete the intervention
+ To potentially account for this non-compliance, we re-evaluated the 356 ActiGraph GT9X watch data
+ We were able to monitor activity of all subjects in-clinic, as well as 357 outside of the clinic to estimate compliance with the exercise protocol
+ Using walking step data 358 from in-clinic sessions as comparison, in addition to Qualtrics survey daily log input from 359 participants (time start and finish completed intervention), we were able to estimate participation 360 in the walking exercise portion of the intervention for at-home sessions
+ We used this data to 361 run a sub-analysis on the data
+ We re-ran the full data analysis on our primary and secondary 362 outcomes for subjects that were deemed fully compliant (n=)
+ A list of all results is shown in 363  For the primary outcome, a two-sample t-test revealed a statistically significant 365 improvement in RMDQ scores between the MedExT and the control group (p=
+ )
+ FMI 366 scores for the MedExT group significantly increased from pre to post as measured by a two-367 sample t-test (p=
+ )
+ For the psychological inventories, two-sample t-tests revealed no 368 significant differences from pre to post for the MedExT group for FABQ (p>
+02), STAI state 369 (p>
+02) or STAI trait (p>
+ )
+ Similar to our full data set, no significant differences were found 370 between groups for QST for the low back or non-dominant forearm (p>
+ )
+ Two-sample t-371 test indicate no significant differences between groups for average change in low back pain 372 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    At the exit session, all patients were asked to complete a continued patient compliance 375 survey that we developed
+ The results of these outcomes are shown in Fig
+ 
+ This survey 376 sought to identify the need for pain treatments during the study (Fig
+ 6A), the likelihood of 377 continued compliance post-study (Fig
+ 6A), any barriers to continuing the combined treatment 378 (Fig
+ 6B) and the most beneficial aspect of the intervention between meditation, exercise, or the 379 combination (Fig
+ C)
+ We found qualitatively that MedExT participants reported a greater 380 decrease in pain medication use and seemed fairly likely to continue the intervention
+ 381 Importantly, when MedExT experimental participants were asked to identify the most beneficial 382 aspects of the intervention (i
+ e
+ meditation, exercise or both) a majority of participants stated 383 that Both components of the intervention were the most important
+   384 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;     In the current study, we assessed the effect of a combined intervention of mindfulness 386 meditation followed by aerobic walking exercise in chronic low back pain
+ The main findings of 387 this study indicate that meditation and exercise together were able to reduce disability, increase 388 mindfulness and decrease self-reported ratings of low back pain
+ To our knowledge, this specific 389 therapy combination has not yet been tested in chronic low back pain patients
+  390 While the present study took a unique approach to combined mindfulness and aerobic 391 exercise, there is a robust literature suggesting that such an approach could work
+ First and 392 foremost, previous studies have tested MBSR [4, 12, 20, 38, 39, 47] and mindfulness meditation 393 [58] alone, as well as aerobic walking exercise programs [5, 10, 18, 24, 30, 32, 40, 50] in low 394 back pain patients
+ Overall, these studies found improved disability, sleep quality, psychological 395 function, depression, affective pain perception, fitness, pain severity, and reduced need for pain 396 medications
+ One important aspect of the mindfulness used in the present study was the 397 accessibility of the mindfulness
+ Beyond the introductory 45-minute session with a clinical 398 psychologist, our participants were nave meditators
+ Nonetheless, using only five short 399 recordings repeatedly, their mindfulness increased as assessed by the FMI
+ Gains seen in this 400 study via the FMI compare to more intensive training exercises []
+ Although the recordings 401 used here were curated for their emphasis on mindfulness, they were not specifically recorded 402 for this intervention
+ We would hypothesize that the development of a mindfulness recording 403 that specifically prepared participants for the subsequent exercise could be even more 404 beneficial The benefits seen here with a brief meditation program are consistent with more 405 recent data showing that only 4 days of mindfulness-based mental training can reduce pain [55-406 ]
+ Importantly, these previous studies were done in healthy participants with models of acute 407 nociception, while here we are showing gains in mindfulness in a chronic patient population
+  408  In our previous work, we have elucidated that increasing the frequency component of 409 exercise dose to be the most likely to have a positive effect on chronic pain patients []
+ We 410 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    tested these predictions in a trial with multiple doses of moderate intensity treadmill walking 411 exercise in healthy subjects
+ Treadmill walking exercise was chosen because it was easy to 412 implement, required little to no training and had more precision in controlling dosage
+ In this 413 study, we found that the moderate dose, or 5x of 30 minutes/day of this exercise regimen in one 414 week proved to be the most optimal for reducing cutaneous pressure pain ratings []
+ We 415 reasoned that this aerobic exercise intervention was a good starting dose for reducing pain 416 outcomes
+ In addition, this prescription aligns with that of ACSMs recommendation for physical 417 activity for healthy individuals which is 150 MET minutes per week []
+  418 Surprisingly, while MedExT participants rated lower disability along with lower on-going 419 pain and lower average pain compared to the start of trial, they failed to show any changes in 420 fear avoidance behavior or anxiety
+ This result is in contrast to data generated from a similar 421 study that implemented combined mindfulness and exercise in the context of major depression 422 []
+ That study found 8 weeks of 60-minute twice a week mental and physical training 423 significantly reduced depressive symptoms and ruminative thoughts
+ It is possible that the lack 424 of a significant effect on fear and anxiety in the present study was driven by the lower starting 425 anxiety and fear levels in our cohort of participants
+ We anticipate that the anxiolytic effects of 426 the combined intervention may only present itself in the context of higher baseline anxiety and 427 fear avoidance behavior or with longer duration studies (i
+ e
+ 8 vs 4 weeks)
+     428  During the trial, participants rated pain before and after each session
+ Thus, we were 429 able to track their on-going pain before each intervention compared to baseline and evaluate the 430 potential for acute analgesic effects of the intervention itself
+ Analysis of day to day pre-431 intervention ratings of on-going low back pain revealed significant effects of time and time x 432 respectively
+ Acutely however, there were no significant changes comparing pre-intervention to 434 post-intervention on single days
+ Taken together, these data are indicative of a time dependent 435 effect of the intervention with beneficial outcomes resulting from cumulative repeated treatment 436 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    sessions
+ Interestingly, the data do not begin to show separation across time between the 437 groups until about day eight for pain intensity ratings and day ten for pain unpleasantness 438 ratings
+ This suggests that for this specific intervention, sustained analgesic benefit can only be 439 achieved after 8-10 sessions or about two weeks of effort
+   440 Our data show significant differences in qualitative ratings of low back pain, but no 441 significant effects with QST
+ Interestingly, we do see trends for decreased ratings of pain 442 unpleasantness (p=
+0338) in response to a noxious constant pressure stimulus applied to the 443 low back
+ Although, subjects pressure pain threshold was unchanged from baseline, their 444 perception of that same pain declined
+ These paradoxical effects are consistent with that of a 445 previous study that tested aerobic treadmill walking exercise on painful QST in healthy 446 participants []
+ Similar effects have also been shown in sustained aerobic exercise, where 447 training induced increases in pain tolerance, but unaltered pressure pain threshold []
+ 448 Using daily Qualtrics survey monitoring and wrist-worn activity trackers, we were able to 449 estimate compliance from participants beyond self-report
+ Results from a sub-analysis for fully 450 compliant patients only (MedExT; n=13, Control; n=20) shows significant improvements in 451 disability and an increase in mindfulness for MedExT subjects, which is consistent with our 452 analysis of the full data set (MedExT; n=18, Control; n=)
+ Even the individuals who were 453 estimated to be noncompliant (n=5) still exercised at least 7 days
+ Overall, this analysis 454 suggests that compliance was not a major confound of the reported results
+   455 Results of our continued compliance survey given during the exit session shows 456 favorable outcomes for the combined meditation and exercise intervention
+ In particular, the 457 finding that a majority of MedExT group participants found the most beneficial component of the 458 intervention was the combination of the exercise and meditation suggests the potential for 459 synergistic effects in this study
+ The need for pharmacological pain treatments trended to 460 decrease for the MedExT group compared to control subjects, which suggests analgesic benefit 461 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    of a solely nonpharmacological source
+ MedExT participants also indicated that they would be 462 likely to continue the combined intervention on their own to manage their back-pain symptoms
+  463  Notable strengths to this study included a low risk of detection bias through blinding of 465 the outcome assessor for QST, and a lack of confounding demographic variables
+ The average 466 age of study participants was 
+6 years, which accurately represents the range of our inclusion 467 criteria (-)
+ Additionally, after subtracting intervention walking steps, there was no statistical 468 difference in average steps per day between control and MedExT subjects
+ The most significant 469 limitation to this study is the lack of all possible study arms
+ Without exercise-only and 470 meditation-only groups, the hypothesis of synergy between the individual therapies cannot be 471 specifically tested
+ This study had a higher risk of performance bias, due to lack of blinding of 472 participants, which is very difficult due to the nature of the interventions
+ Also, the order of QST 473 assessment was not randomized, which could contribute to additional outcome bias
+ These 474 tests were performed from least invasive to most invasive, to avoid increased sensitization
+ 475 Patients in this trial were mostly female (n=25) compared to male (n=13), however chronic low 476 back pain is reported to be more prevalent among women []
+ According to our continued 477 compliance survey, the most prominently identified barriers to continuing this treatment after 478 conclusion of the trial included time and motivation to complete both interventions
+ Notably, no 479 patients reported increased pain with both meditation and exercise
+ Thus, while we cannot state 480 conclusively that there was synergy between the treatments, we can be confident that the 481 therapies are not overtly antagonist
+ Other reported barriers included lack of access to a 482 treadmill or guided meditations
+ Although, it is worth noting that access to additional meditations 483 were provided to interested patients following their completion of the trial  484  The results of this study demonstrate that a combined therapy approach of mindfulness 486 meditation followed by moderate intensity treadmill walking provides a significant benefit to 487 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    disability, mindfulness and perception of low back pain
+ Patients in this treatment group also 488 report less need for pain medications, and favorability for the combined approach as opposed to 489 meditation or exercise therapy alone
+ This is the first study testing this treatment combination in 490 chronic low back pain patients
+ Because synergistic benefits could not be definitely determined 491 from this trial, future studies must be done to conclude the most efficacious combination of this 492 treatment regimen
+  Nonetheless, we feel the potential for this combined approach to improve 493 outcomes in chronic low back pain is high
+ As exercise and meditation (as practiced in this 494 study) are low cost, easy to implement, and carry few negative side-effects, we are optimistic 495 about the use of this or similar integrative therapy in the clinic
+  496 The authors would like to thank the participants who volunteered for this research
+ We would 502 like to thank Allison Morgan, PAc and Kristin DAcunto, PAc for assistance in performing back 503 pain evaluations for eligibility screening
+ We would also like to thank Dana Farrel for research 504 facilitation, Kerri Jackson for Pitt+Me coordination, Sadie Riskus for Qualtrics survey compilation 505 and optimization and Dr
+ Ian Edwards for mindfulness meditation consultation
+ Funding for this 506 work was supported by the National Institutes of Health through Grant Number UL1TR001857 507 and through a Pain Research Challenge Grant supported by the Clinical and Translational 508 Science Institute at the University of Pittsburgh and the Virginia Kaufmann Foundation
+  509 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    [1]  Abraham, P
+, Rennert, R
+ C
+, Martin, J
+ R
+, Ciacci, J
+, Taylor, W
+, Resnick, D
+, Kasper, E
+, and 511 Chen, C
+ C
+, The role of surgery for treatment of low back pain: insights from the randomized 512 controlled Spine Patient Outcomes Research Trials
+ Surg Neurol Int, 
+ 7: p
+ 
+ 513 [2]  Alderman, B
+ L
+, Olson, R
+ L
+, Brush, C
+ J
+, and Shors, T
+ J
+, MAP training: combining 514 meditation and aerobic exercise reduces depression and rumination while enhancing 515 [3]  Balady, G
+ J
+, Chaitman, B
+, Driscoll, D
+, Foster, C
+, Froelicher, E
+, Gordon, N
+, Pate, R
+, 517 Rippe, J
+, and Bazzarre, T
+, Recommendations for cardiovascular screening, staffing, and 518 emergency policies at health/fitness facilities
+ Circulation, 
+ 97(22): p
+ -
+ 519 [4]  Banth, S
+ and Ardebil, M
+ D
+, Effectiveness of mindfulness meditation on pain and quality of 520 life of patients with chronic low back pain
+ Int J Yoga, 
+ 8(2): p
+ -
+ 521 [5]  Barker, K
+ L
+, Dawes, H
+, Hansford, P
+, and Shamley, D
+, Perceived and measured levels of 522 exertion of patients with chronic back pain exercising in a hydrotherapy pool
+ Arch Phys Med 523 [6]  Bender, T
+, Nagy, G
+, Barna, I
+, Tefner, I
+, Kadas, E
+, and Geher, P
+, The effect of physical 525 therapy on beta-endorphin levels
+ Eur J Appl Physiol, 
+ 100(4): p
+ -
+ 526 [7]  Booth, M
+, Assessment of physical activity: an international perspective
+ Res Q Exerc Sport, 527 [8]  Borg, G
+ A
+, Psychophysical bases of perceived exertion
+ Med Sci Sports Exerc, 
+ 14(5): 529 [10]  Chan, C
+ W
+, Mok, N
+ W
+, and Yeung, E
+ W
+, Aerobic exercise training in addition to 532 conventional physiotherapy for chronic low back pain: a randomized controlled trial Arch Phys 533 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    [11]  Chandran, S
+, Raman, R
+, Kishor, M
+, and Nandeesh, H
+ P
+, The effectiveness of 535 mindfulness meditation in relief of symptoms of depression and quality of life in patients with 536 gastroesophageal reflux disease
+ Indian J Gastroenterol, 
+ 38(1): p
+ -
+ 537 [12]  Cherkin, D
+ C
+, Sherman, K
+ J
+, Balderson, B
+ H
+, Cook, A
+ J
+, Anderson, M
+ L
+, Hawkes, R
+ J
+, 538 Hansen, K
+ E
+, and Turner, J
+ A
+, Effect of Mindfulness-Based Stress Reduction vs Cognitive 539 Behavioral Therapy or Usual Care on Back Pain and Functional Limitations in Adults With 540 Chronic Low Back Pain: A Randomized Clinical Trial JAMA, 
+ 315(12): p
+ -
+ 541 [13]  Chou, R
+, Deyo, R
+, Friedly, J
+, Skelly, A
+, Hashimoto, R
+, Weimer, M
+, Fu, R
+, Dana, T
+, 542 Kraegel, P
+, Griffin, J
+, Grusing, S
+, and Brodt, E
+ D
+, Nonpharmacologic Therapies for Low Back 543 Pain: A Systematic Review for an American College of Physicians Clinical Practice Guideline
+ 544 [14]  Cropley, M
+, Ussher, M
+, and Charitou, E
+, Acute effects of a guided relaxation routine 546 (body scan) on tobacco withdrawal symptoms and cravings in abstinent smokers
+ Addiction, 547 [15]  Desbordes, G
+, Negi, L
+ T
+, Pace, T
+ W
+, Wallace, B
+ A
+, Raison, C
+ L
+, and Schwartz, E
+ L
+, 549 Effects of mindful-attention and compassion meditation training on amygdala response to 550 emotional stimuli in an ordinary, non-meditative state
+ Front Hum Neurosci, 
+ 6: p
+ 
+ 551 [16]  Deyo, R
+ A
+, Mirza, S
+ K
+, and Martin, B
+ I
+, Back pain prevalence and visit rates: estimates 552 from U
+ S
+ national surveys, 
+ Spine (Phila Pa 1976), 
+ 31(23): p
+ -
+ 553 [17]  Dinler, M
+, Diracoglu, D
+, Kasikcioglu, E
+, Sayli, O
+, Akin, A
+, Aksoy, C
+, Oncel, A
+, and 554 Berker, E
+, Effect of aerobic exercise training on oxygen uptake and kinetics in patients with 555 [18]  Eadie, J
+, van de Water, A
+ T
+, Lonsdale, C
+, Tully, M
+ A
+, van Mechelen, W
+, Boreham, C
+ A
+, 557 Daly, L
+, McDonough, S
+ M
+, and Hurley, D
+ A
+, Physiotherapy for sleep disturbance in people 558 with chronic low back pain: results of a feasibility randomized controlled trial Arch Phys Med 559 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    [19]  Ehrlich, G
+ E
+, Low back pain
+ Bull World Health Organ, 
+ 81(9): p
+ -
+ 561 [20]  Esmer, G
+, Blum, J
+, Rulf, J
+, and Pier, J
+, Mindfulness-based stress reduction for failed 562 back surgery syndrome: a randomized controlled trial J Am Osteopath Assoc, 
+ 110(11): p
+ 563 [21]  Garber, C
+ E
+, Blissmer, B
+, Deschenes, M
+ R
+, Franklin, B
+ A
+, Lamonte, M
+ J
+, Lee, I
+ M
+, 565 Nieman, D
+ C
+, Swain, D
+ P
+, and American College of Sports, M
+, American College of Sports 566 Medicine position stand
+ Quantity and quality of exercise for developing and maintaining 567 guidance for prescribing exercise
+ Med Sci Sports Exerc, 
+ 43(7): p
+ -
+ 569 [22]  Gelles, D
+ How to Meditate
+ The New York Times, 
+ 570 [23]  Geneen, L
+ J
+, Moore, R
+ A
+, Clarke, C
+, Martin, D
+, Colvin, L
+ A
+, and Smith, B
+ H
+, Physical 571 activity and exercise for chronic pain in adults: an overview of Cochrane Reviews
+ Cochrane 572 [24]  Hartvigsen, J
+, Morso, L
+, Bendix, T
+, and Manniche, C
+, Supervised and non-supervised 574 Nordic walking in the treatment of chronic low back pain: a single blind randomized clinical trial 575 [25]  Hauser, W
+, Klose, P
+, Langhorst, J
+, Moradi, B
+, Steinbach, M
+, Schiltenwolf, M
+, and 577 Busch, A
+, Efficacy of different types of aerobic exercise in fibromyalgia syndrome: a systematic 578 review and meta-analysis of randomised controlled trials
+ Arthritis Res Ther, 
+ 12(3): p
+ 579 [26]  Hilton, L
+, Hempel, S
+, Ewing, B
+ A
+, Apaydin, E
+, Xenakis, L
+, Newberry, S
+, Colaiaco, B
+, 581 Maher, A
+ R
+, Shanman, R
+ M
+, Sorbero, M
+ E
+, and Maglione, M
+ A
+, Mindfulness Meditation for 582 Chronic Pain: Systematic Review and Meta-analysis
+ Ann Behav Med, 
+ 51(2): p
+ -
+ 583 [27]  Hoy, D
+, Bain, C
+, Williams, G
+, March, L
+, Brooks, P
+, Blyth, F
+, Woolf, A
+, Vos, T
+, and 584 Buchbinder, R
+, A systematic review of the global prevalence of low back pain
+ Arthritis Rheum, 585 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    [28]  Jacobs, T
+ L
+, Shaver, P
+ R
+, Epel, E
+ S
+, Zanesco, A
+ P
+, Aichele, S
+ R
+, Bridwell, D
+ A
+, 587 Rosenberg, E
+ L
+, King, B
+ G
+, Maclean, K
+ A
+, Sahdra, B
+ K
+, Kemeny, M
+ E
+, Ferrer, E
+, Wallace, 588 B
+ A
+, and Saron, C
+ D
+, Self-reported mindfulness and cortisol during a Shamatha meditation 589 [29]  Jones, M
+ D
+, Booth, J
+, Taylor, J
+ L
+, and Barry, B
+ K
+, Aerobic training increases pain 591 tolerance in healthy individuals
+ Med Sci Sports Exerc, 
+ 46(8): p
+ -
+ 592 [30]  Kell, R
+ T
+ and Asmundson, G
+ J
+, A comparison of two forms of periodized exercise 593 rehabilitation programs in the management of chronic nonspecific low-back pain
+ J Strength 594 [31]  Kerr, C
+ E
+, Sacchet, M
+ D
+, Lazar, S
+ W
+, Moore, C
+ I
+, and Jones, S
+ R
+, Mindfulness starts 596 with the body: somatosensory attention and top-down modulation of cortical alpha rhythms in 597 [32]  Koldas Dogan, S
+, Sonel Tur, B
+, Kurtais, Y
+, and Atay, M
+ B
+, Comparison of three different 599 approaches in the treatment of chronic low back pain
+ Clin Rheumatol, 
+ 27(7): p
+ -
+ 600 [33]  Kostek, M
+, Polaski, A
+, Kolber, B
+, Ramsey, A
+, Kranjec, A
+, and Szucs, K
+, A protocol of 601 manual tests to measure sensation and pain in humans
+ J Vis Exp, ()
+ 602 [34]  Kroenke, K
+, Outcalt, S
+, Krebs, E
+, Bair, M
+ J
+, Wu, J
+, Chumbler, N
+, and Yu, Z
+, 603 Association between anxiety, health-related quality of life and functional impairment in primary 604 care patients with chronic pain
+ Gen Hosp Psychiatry, 
+ 35(4): p
+ -
+ 605 [35]  Lundberg, M
+, Grimby-Ekman, A
+, Verbunt, J
+, and Simmonds, M
+ J
+, Pain-related fear: a 606 critical review of the related measures
+ Pain Res Treat, 
+ 2011: p
+ 
+ 607 [36]  Majeed, M
+ H
+, Ali, A
+ A
+, and Sudak, D
+ M
+, Mindfulness-based interventions for chronic 608 pain: Evidence and applications
+ Asian J Psychiatr, 
+ 32: p
+ -
+ 609 [37]  Millan, M
+ J
+, Descending control of pain
+ Prog Neurobiol, 
+ 66(6): p
+ -
+ 610 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    [38]  Morone, N
+ E
+, Greco, C
+ M
+, Moore, C
+ G
+, and et al, A mind-body program for older adults 611 with chronic low back pain: A randomized clinical trial JAMA Internal Medicine, 
+ 176(3): p
+ 612 [39]  Morone, N
+ E
+, Rollman, B
+ L
+, Moore, C
+ G
+, Li, Q
+, and Weiner, D
+ K
+, A mind-body program 614 for older adults with chronic low back pain: results of a pilot study
+ Pain Med, 
+ 10(8): p
+ 615 [40]  Murtezani, A
+, Hundozi, H
+, Orovcanec, N
+, Sllamniku, S
+, and Osmani, T
+, A comparison of 617 high intensity aerobic exercise and passive modalities for the treatment of workers with chronic 618 low back pain: a randomized, controlled trial Eur J Phys Rehabil Med, 
+ 47(3): p
+ -
+ 619 [41]  Pedersen, L
+ and Fredheim, O
+, Opioids for chronic noncancer pain: still no evidence for 620 superiority of sustained-release opioids
+ Clin Pharmacol Ther, 
+ 97(2): p
+ -
+ 621 [42]  Polaski A
+ M
+, Phelps A
+ L
+, Kostek M
+ C
+, Szucs K
+ A
+, Kolber B
+ K
+  Dose-related effects of 622 moderate intensity walking exercise on sensitivity to pain in healthy humans in American 623 [43]  Polaski, A
+ M
+, Phelps, A
+ L
+, Kostek, M
+ C
+, Szucs, K
+ A
+, and Kolber, B
+ J
+, Exercise-induced 625 hypoalgesia: A meta-analysis of exercise dosing for the treatment of chronic pain
+ PLoS One, 626 [44]  Pollock, M
+ L
+, Gaesser G
+ A
+, Butcher J
+ D
+, Despres, J
+ P
+, Dishman, R
+ K
+, Franklin, B
+ A
+, 628 Garber, C
+ E
+, American College of Sports Medicine Position Stand
+ The recommended quantity 629 and quality of exercise for developing and maintaining cardiorespiratory and muscular fitness, 630 and flexibility in healthy adults
+ Med Sci Sports Exerc, 
+ 30(6): p
+ -
+ 631 [46]  Roland, M
+ and Morris, R
+, A study of the natural history of back pain
+ Part I: development 633 of a reliable and sensitive measure of disability in low-back pain
+ Spine (Phila Pa 1976), 
+ 634 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    [47]  Schmidt, S
+, Gmeiner, S
+, Schultz, C
+, Lower, M
+, Kuhn, K
+, Naranjo, J
+ R
+, Brenneisen, C
+, 636 and Hinterberger, T
+, Mindfulness-based Stress Reduction (MBSR) as Treatment for Chronic 637 Back Pain - an Observational Study with Assessment of Thalamocortical Dysrhythmia
+ Forsch 638 [48]  Speilberger, C
+ D
+, & Sydeman, S
+ J
+, State-Trait Anxiety Inventory and State-Trait Anger 640 Expression Inventory
+ The Use of Psychological Testing for Treatment Planning and Outcome 641 [49]  Tang, Y
+ Y
+, Lu, Q
+, Fan, M
+, Yang, Y
+, and Posner, M
+ I
+, Mechanisms of white matter 643 changes induced by meditation
+ Proc Natl Acad Sci U S A, 
+ 109(26): p
+ -
+ 644 [50]  Turner, J
+ A
+, Clancy, S
+, McQuade, K
+ J
+, and Cardenas, D
+ D
+, Effectiveness of behavioral 645 therapy for chronic low back pain: a component analysis
+ J Consult Clin Psychol, 
+ 58(5): p
+ 646 [51]  Ussher, M
+, Cropley, M
+, Playle, S
+, Mohidin, R
+, and West, R
+, Effect of isometric exercise 648 and body scanning on cigarette cravings and withdrawal symptoms
+ Addiction, 
+ 104(7): p
+ 649 [52]  Waddell, G
+, Newton, M
+, Henderson, I
+, Somerville, D
+, and Main, C
+ J
+, A Fear-Avoidance 651 Beliefs Questionnaire (FABQ) and the role of fear-avoidance beliefs in chronic low back pain 652 [53]  Walach, H
+, Buchheld, N
+, Buttenmuller, V
+, Kleinknecht, N
+, Schmidt, S
+, Measuring 654 Mindfulness  The Freiburg Mindfulness Inventory (FMI)
+ Personality and Individual 655 [54]  White, G
+, Natural History and Antiquities of Selborne
+ 1908, Cassell: London
+ 657 [55]  Zeidan, F
+, Adler-Neal, A
+ L
+, Wells, R
+ E
+, Stagnaro, E
+, May, L
+ M
+, Eisenach, J
+ C
+, 658 McHaffie, J
+ G
+, and Coghill, R
+ C
+, Mindfulness-Meditation-Based Pain Relief Is Not Mediated by 659 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    [56]  Zeidan, F
+, Emerson, N
+ M
+, Farris, S
+ R
+, Ray, J
+ N
+, Jung, Y
+, McHaffie, J
+ G
+, and Coghill, 661 R
+ C
+, Mindfulness Meditation-Based Pain Relief Employs Different Neural Mechanisms Than 662 Placebo and Sham Mindfulness Meditation-Induced Analgesia
+ J Neurosci, 
+ 35(46): p
+ 663 [57]  Zeidan, F
+ and Vago, D
+ R
+, Mindfulness meditation-based pain relief: a mechanistic 665 account
+ Ann N Y Acad Sci, 
+ 1373(1): p
+ -
+ 666 [58]  Zgierska, A
+ E
+, Burzinski, C
+ A
+, Cox, J
+, Kloke, J
+, Stegner, A
+, Cook, D
+ B
+, Singles, J
+, 667 Mirgain, S
+, Coe, C
+ L
+, and Backonja, M
+, Mindfulness Meditation and Cognitive Behavioral 668 Therapy Intervention Reduces Pain Severity and Sensitivity in Opioid-Treated Chronic Low 669 Back Pain: Pilot Findings from a Randomized Controlled Trial Pain Med, 
+ 17(10): p
+ 1865-670 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Table 
+ Participant characteristics
+ Data are mean (SD)
+ Abbreviations: BMI, body mass index; 674 BPs, systolic blood pressure; BPd, diastolic blood pressure; IPAQ, International Physical Activity 675 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Figure 
+ Post-intervention effect of MedExT vs
+ control treatment on primary outcome: 678 disability as measured by the Roland Morris Disability Questionnaire (RMDQ)
+ MedExT 679 participants show statistically significantly lower disability levels compared to control 680 participants
+ Data shown as mean +/- SEM
+ RMDQ min score=0, max score=
+ *p<
+ 
+  681 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Figure 
+ Pre to post-intervention effect of MedExT on secondary outcomes: (A) MedExT 682 compared to baseline values
+ No significant changes were observed for (B) fear avoidance 684 behavior (FABQ) and (C) state and (D) trait anxiety (STAI)
+ FMI score range=14-56, FABQ=0-685 96, STAI=-
+ Data shown as mean +/- SEM
+ For psychological inventories (FABQ, STAI), 686 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Table 
+ Intervention effects on QST pain measures for MedExT and control groups
+ For all 688 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Figure 
+ Intervention and acute effects of MedExT intervention compared to control
+ Data shown as mean +/- SEM with analgesic 691 responses being values lower than 0 on y-axes
+ Intervention effects are shown in A-B comparing VAS measurement taken 692 immediately prior to each days session versus the baseline VAS measurement taken on intake day
+ Statistically significant analgesic 693 effects were seen in the MedExT group for (A) VAS intensity (Time (***p=
+0008), time x treatment (**p=
+0012)) and (B) VAS 694 unpleasantness (Treatment (*p=
+0330), time (**p=
+0022), time x treatment (****p<
+ ))
+ Acute intervention effects shown in C-D 695 comparing VAS taken after each days intervention to the VAS taken immediately before the intervention
+ No significant differences 696 were found for  (C) VAS intensity (n
+ s
+) while (D) a small effect of Treatment (**p=
+0049) was found for VAS unpleasantness
+  697 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 Figure 
+ Average pain ratings for MedExT vs
+ control
+ Statistically significant decreases in 699 reported (A) VAS intensity and (B) VAS unpleasantness were found comparing MedExT versus 700 control participants
+ Scores represent a change from before the start of the intervention to after 701 participation
+ Data shown as mean +/- SEM; negative values indicate a reduction in VAS pain 702 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Table 
+ Sub-analysis of participants that completed 80% or more sessions per week
+  705 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Figure 
+ Continued patient compliance data
+ Shown below are the qualitative results of each 707 outcome
+ (A) Box plots are shown to represent data
+ Box represents IQR (bottom line=Q1, 708 middle=median, top=Q
+ Whiskers represent range of data (min and max)
+ (A) [Median=Q1 for 709 MedExT and Control for question ]
+ (B) Self-reported barriers to continued treatment are shown 710 for the MedExT participants
+ (C) MedExT participants identified what the most beneficial aspect 711 of the intervention was between three choices: Meditation only, Exercise only, or Both 712 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    

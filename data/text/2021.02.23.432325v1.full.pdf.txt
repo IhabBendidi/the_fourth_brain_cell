@@ -1,0 +1,991 @@
+Xian Wu1, Tang Tang1, Yushuang Wei1, Katherine A
+ Cummins2, David K
+ Wood2, Hong-Bo 2 Department of Biomedical Engineering, University of Minnesota, Minneapolis, MN, USA In order to exert their therapeutic effects, nanoparticles (NPs) often need to travel into the tissues composed of multilayered cells
+ Accumulative evidence has revealed the central role of transcellular transport route (entry into one cell, exocytosis, and re-entry into another) in this process
+ While NP endocytosis and subcellular transport have been intensively characterized, the exocytosis and re-entry steps are poorly understood, which becomes a barrier to improve NP delivery into complex tissues
+ Here, we termed the exocytosis and re-entry steps together as intercellular exchange
+ We developed a novel collagen-based 3D cellular assay to specifically monitor and quantify the intercellular exchange events of NPs and distinguish the contributions of several potential mechanisms
+ Our results showed that NPs can be exocytosed freely or enclosed inside extracellular vesicles (EVs) for re-entry, while direct cell-cell contact is hardly involved
+ EVs account for a significant fraction of NP intercellular exchange, and its importance in NP delivery was demonstrated in vitro and in vivo
+ Intriguingly, while freely released NPs engage with the same cellular receptors for re-entry, EV-enclosed ones bypass this dependence
+ These studies provide an easy and precise system to investigate the intercellular exchange stage of NP delivery, and shed the first light in the importance of EVs in NP transport (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    Due to the tunable physicochemical characteristics and versatile cargo loading properties, nanoparticles (NPs) have great potential to improve the diagnosis and treatment of human diseases
+ One prerequisite for many in vivo applications of NPs is to travel efficiently in the tissue of multilayered cells, and eventually into target cells
+ Therefore, understanding the cell biology, especially the transport pathways, is of particular significance to the success of nanomedicine
+ Over the years, numerous efforts have been devoted to elucidate how NPs of various types enter the cell and travel inside
+ However, fewer studies have focused on another fundamental question: how will these internalized NPs be released from one cell, and transferred to another?  Besides being a fundamental cellular process, this question is also of great relevance to NP translation into the clinics
+ Since the first NP-formulated drug (Doxil) was approved in 19959, the rate of NP clinical translation has been limited
+ A major challenge has been the poor delivery efficiency into solid organs or tissues composed of multilayered cells
+ This problem is best exemplified in solid tumors in which studies have shown that only ~
+7% (median) of systemically injected dosage of NPs eventually accumulate in the tumor tissue
+ Traditionally, the central paradigm of NP transport into tumors was the enhanced permeability and retention (EPR) effect, which considered passive diffusion through intercellular gaps as the primary route for extravasation
+ Recently, a series of studies showed that the majority of NPs rather extravasate through an active transcellular transport pathway
+ Using transmission electron microscopy (TEM), Sindhwani et al found that tumor endothelium is largely intact without gaps, and NPs mainly reside inside endothelial cells during extravasation
+ Using a fixation-based method, the authors also inactivated the active transport process prior to NP administration and observed that this treatment eliminates the majority of NP extravasation and tumor accumulation
+ Another line of evidence arises from the studies on a tumor-penetrating peptide, iRGD
+ This peptide can actively penetrate across tumor vessels and deeply into the extravascular regions when covalently coupled to various cargo types, ranging from small molecules to NPs
+ This process is also energy dependent, and the penetration distance is far beyond the capability of passive diffusion
+ It was later shown that iRGD-coupled NPs also reside inside endothelial cells during extravasation
+ Together, these results indicate that NPs need to first enter endothelial cells, and then be exported for entering subsequent cells
+ This highlights the central role of the active (energy dependent) transcellular route in NP delivery and in vivo applications
+ Theoretically, transcellular transport consists of four steps: entry into one cell, intracellular transport, cargo export or exocytosis, and the re-entry of released cargo into a second cell
+ While the first two steps of NP transport have been well characterized, the latter two remain largely understudied,
+ Here, we term the last two stages (cargo export and re-entry) as intercellular exchange
+ Traditional studies on NP transcytosis cover exocytosis but not re-entry7, and so far, there is no assay specifically quantifying this process
+ Therefore, there (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    was a need for assays that monitor and quantify the intercellular exchange events of NPs independent of interference from the first two steps of transcellular transport
+ We previously developed one such assay, integrating cell-penetrating peptides (CPPs) with a novel class of etchable NPs
+ Our results showed that a significant number of NPs are transferred from one cell (donor) to another (recipient) in membrane-enclosed structures, which we hypothesized to be either secreted extracellular vesicles (EVs) or through direct cell-cell contact
+ Here, we adapted this assay into a collagen-based format in three dimensions (3D) to further elucidate the underlying mechanism
+ The current format is easy to set up, better mimics the cell growth environment in vivo, and is capable of distinguishing several possible routes for intercellular exchange
+ Our results here demonstrated that EVs, but not direct cell-cell contact, serve as the membrane-enclosed conduit for intercellular exchange of NPs
+ The EV route accounted for a significant and varying fraction of intercellular exchange, and its importance was proven in vitro and in vivo
+ Our study also unveiled differences for freely The intercellular exchange assay was established as below
+ First, donor cells were incubated with CPP-functionalized NPs for internalization
+ The primary donor cell types included human umbilical vein endothelial cells (HUVECs) and PC-3 (human prostate cancer cell line), as we aim to understand the cargo transfer from endothelium to other cell types, as well as the material exchange between cells beyond the vasculature
+ The key to the success of our assay is etchable silver-based NPs (AgNPs)
+ In etching, a chemical and nontoxic solution, etchant, is used to rapidly dissolve AgNPs and thus eliminate their fluorescence signals,
+ Importantly, etchant cannot permeate lipid membranes, such as cell membranes
+ Therefore, etching can remove extracellular and cell surface bound AgNPs, but those internalized remain intact
+ By eliminating these noise signals caused by extracellular NPs, etching is particularly useful in improving the quality of cellular and in vivo imaging 
+ To facilitate their entry into donor cells, we functionalized AgNPs with two CPPs
+ Transactivating transcriptional activator (TAT) is the first and one of the most widely used CPPs to deliver NPs and macromolecules into cells
+ RPARPAR is the prototype of a novel class of CPPs, CendR peptides, whose cellular receptor is neuropilin-1 (NRP1) 
+ iRGD is a tumor-specific CendR peptide, and NRP1 binding is the basis for its vascular and tumor penetration property ,
+ We previously showed that these peptides, while engaging with different cellular receptors, invoke a similar macropinocytosis-like process for cell entry,
+ Besides assisting the NP uptake, these CPPs were also used to lead NPs from one cell to another16,27, and may help elucidate the function of ligand-receptor interactions during intercellular exchange
+  After CPP-AgNP internalization, donor cells were etched to ensure that AgNPs reside only inside the cells
+ Then, these cells were lifted up and mixed with another group of cells, termed recipient cells
+ Recipient cells (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    are labeled in a different fluorescence color, so that we can distinguish these two cell types
+ After incubation, the cell mixture was dissociated into single cells, and AgNPs in donor and recipient cells were detected and quantified by flow cytometry
+ Due to etching, AgNPs in recipient cells can only arise from the exocytosis from donor and then re-entry into recipient cells, thus the intercellular exchange
+ In all our studies, donor cells were incubated with CPP-AgNPs and etched in bulk, and then evenly aliquoted into different experimental groups
+ This way, we ensure that the entry and subcellular transport status of AgNPs in donor cells are all the same, thus decoupling these two steps from the quantification of intercellular exchange
+ Plus, this allows us to simplify the analysis, and directly define the intercellular exchange efficiency as the total AgNPs that can reach The first version of our assay simply cultured the donor/recipient cell mixture in ultra-low binding plates, which is vastly different from the physiological conditions of cell growth
+ Here, we adapted it to a 3D format
+ Our first approach was utilizing collagen microtissues28, in which we observed little NP transfer (Fig
+ S1), and requires sophisticated fabrication procedures to generate
+ Then, we encapsulated recipient cells in a collagen matrix on the bottom of the wells in the plate, and seeded CPP-NP-containing donor cells on top of the recipient-collagen layer (Fig
+ A)
+ PC-3 and PC3-GFP cells were first used as donor and recipient cells, respectively, and TAT-coated AgNPs (T-AgNPs) and RPARPAR-coated AgNPs (R-AgNPs) as the model CPP-NPs for assay optimization
+ We observed ~9 % of recipient cells becoming positive for both T-AgNPs and R-AgNPs (Fig
+ 1B), and the intercellular exchange efficiency was defined accordingly (see Methods)
+ Several parameters were further optimized to maximize the intercellular exchange, such as cell number, donor/recipient ratio, and incubation time (Fig
+ S)
+ The optimal condition is described in the Methods, and used throughout this study
+ Interestingly, we observed little difference in the intercellular exchange efficiency when plating donor cells on top either as monolayer or when encapsulated in a separate collagen layer (Fig
+ 1C and D)
+ For simplicity, we used the monolayer format for donor cells in the following experiments
+  Extracellular vesicles, but not direct cell-cell contact, mediate the NP exchange between cells  Besides better mimicking the native growth environment, the 3D assay is of unique advantage to distinguish several possible routes for intercellular exchange
+ We speculate three possible routes of intercellular exchange: CPP-NPs are exported as free agents (direct release), or are exocytosed into EVs, or are exchanged via direct contact between donor and recipient cells
+ For the first route, CPP-NPs are directly exposed to surrounding environment, and will recognize and bind to recipient cells in the same way as donor cells
+ Alternatively, CPP-NPs will be protected from etching by lipid membranes in the latter two routes
+ Thus, constant etching of donor/recipient mixtures can distinguish the direct release from the other two routes, while it failed to distinguish between EV release and direct cell-cell contact (Fig
+ A)
+ To solve this problem, an extra collagen gap (no cells) was added between donor and recipient cells to prevent cell-cell contact
+ We performed (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    immune-histochemical and immunofluorescence staining on the 3D collagen matrix (Fig
+ S3), and confirmed that no cells or cellular structures were seen in the gap region, thus no direct cell-cell contact
+ Using etchant and this gap together, we were able to distinguish the contributions from all three routes for intercellular We first quantified the intercellular exchange efficiency of T-AgNPs and R-AgNPs in multiple donor/recipient pairs (Fig
+ 2 A-D and Fig
+ S)
+ Constant etching caused a significant reduction of both CPP-AgNPs that can travel from donor to recipient cells, while the reduction range depends on CPP and donor/recipient cell types
+ This result suggests that a significant part of CPP-NPs is exported freely by donor cells
+ The collagen gap between donor and recipient cells, however, exhibited little effect on the intercellular exchange of NPs, regardless of constant etching
+ We made the same observation regardless of the type of CPPs and donor/recipient cells used
+ This result indicates that direct cell-cell contact is not required for the etching-resistant intercellular exchange
+ Therefore, EVs are the etching-resistant carriers of CPP-NPs from donor to recipient cells
+ Based on our results, EVs account for ~30-50% of the total intercellular exchange for CPP-NPs
+ We also changed the concentration of collagen in the gap, which showed little effect on the intercellular exchange (Fig
+ E)
+ AgNPs of different sizes were also used, which revealed a size dependence of intercellular exchange efficiency for T-AgNPs (Fig
+ 2F) but not for R-AgNPs (Fig
+ S)
+  EVs are a heterogenous group of secreted vesicles including exosomes and microvesicles 
+ EVs have long been recognized as the conduit for intercellular communication and material exchange (e
+ g
+ nucleic acids, proteins),
+ Here, we performed additional experiments to verify the notion that EVs mediate the intercellular exchange of NPs
+ First, GW4869 is a compound that blocks ceramide-mediated inward budding of multivesicular bodies and thus prevents the release of EVs, especially exosomes
+ After confirming that GW4689 induced no or little cytotoxicity (Fig
+ S6), we used it to investigate the effect of inhibiting EV biogenesis on the intercellular exchange
+ GW4869 treatment significantly lowered the intercellular exchange of T-AgNPs and R-AgNPs in a concentration dependent manner, and this result was observed with multiple donor/recipient pairs (Fig
+ 3A, 3B and Fig
+ S)
+ Besides silver nanoparticles, we found that the intercellular exchange of TAT-conjugated gold nanoparticles (T-AuNPs), which is not etchable, could also be decreased by Second, we isolated EVs secreted by donor cells after CPP-NP internalization and etching
+ NP-carrying and NP-free EVs were separated by density gradient ultracentrifugation as previously described
+ The AgNP content in these two EV populations was detected based on their fluorescence signal We confirmed that this method can distinguish NP-carrying and NP-free EVs (Fig
+ C)
+ Next, we set out to investigate whether these AgNPs are inside the EVs
+ NP-carrying EVs were treated with etchant and Triton X-100 (TX100), individually (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    or collectively, followed by centrifugation in spin column 10,000 MWCO spin column
+ The fluorescence signal of AgNPs was only seen in the top chamber for all conditions except those treated with both etchant and TX100 (Fig
+ D)
+ This result suggests that etchant alone cannot dissolve the AgNPs protected inside EVs, while TX100 alone, although removing lipids, cannot dissemble the NPs
+ Only when treated with both reagents, AgNPs can be exposed to etchant and dissolved, which frees the coupled fluorescence dyes to flow through the column membrane to the bottom chamber
+ Overall, these results support the notion that CPP-To confirm the molecular nature of vesicles carrying NPs, we performed western blotting to detect known EV markers
+ CD63 and CD9, two common EV markers, were detected in NPs-carrying EVs on the similar level to that in NP-free EVs (Fig
+ E)
+ Last, we treated CPP-NP-containing donor cells with GW4869, and collected the EVs
+ This result showed that GW4869 treatment indeed lowered the amount of total EVs (Fig
+ 3F) and the fraction of NP-carrying vesicles (Fig
+ G)
+ On the other hand, we found that the amount of freely released CPP-AgNPs was not affected by GW4869 treatment, indicating that GW4869 effect is specific to EV route (Fig
+ H)
+  Next, we evaluated the EV-mediated entry efficiency into recipient cells
+ EVs from a variety of donor cell types were isolated and labeled with a lipophilic dye
+ After normalization based on the protein content, they were incubated with recipient cells in both NP-free and NP-carrying forms
+ Our results showed that loaded with NP or not, EVs enter the cells with similar efficiency (Fig
+ A)
+ We also isolated NP-free EVs from different types of parent cells and tested their cell entry efficiency in a variety of cell types
+ The cell entry efficiency of EVs varied, which depends on both parent and recipient cell types (Fig
+ B-D)
+ Second, we verified the transport rate of EVs in the collagen matrix
+ Both NP-free and NP-carrying EVs seemed to rapidly diffuse through the collagen and colocalized with PC3-GFP cells at the bottom of collagen within 30 minutes (Fig
+ E)
+ This result indicates that collagen gap and matrix allow efficient transport and exchange of EVs
+  Lastly, the endocytosis of T-AgNPs and R-AgNPs into cells are mediated by the interaction with their receptors, heparin sulfate (HS) proteoglycans and neuropilin-1 (NRP1), respectively
+ Here, we set out to test whether freely released CPP-NPs and NP-carrying EVs enter the recipient cells in the same manner
+ Using soluble HS and NRP1-blocking antibody, we were able to reduce the intercellular exchange of T-AgNPs and R-AgNPs, respectively
+ This was performed without etching, and the levels of reduction were very similar to that of etching treatment
+ In the presence of constant etching, these cell entry inhibitors exhibited little effect (Fig
+ 4F and G)
+ These results demonstrate that these inhibitors can effectively block the re-entry of freely released CPP-NPs into recipient cells, while NP-carrying EVs are resistant to them
+ These data support the notion that while freely released CPP-NPs still rely on the same ligand-receptor interaction for cell entry, NP-carrying EVs (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    EV biogenesis is important for NP delivery into solid tumors in vivo Last, we set out to validate the importance of EV biogenesis in NP delivery in vivo
+ Here, we used iRGD to functionalize AgNPs, as it was shown that iRGD can induce the vascular and tumor penetration of a variety of NPs, including AgNPs, in vivo,,
+ To inhibit EV biogenesis, we intratumorally injected GW4869 into mice bearing 4T1 breast tumor
+ The homing study by intravenous injection of iRGD-AgNPs showed that compared to control group, GW4869 treatment exhibited inhibitory effect on the accumulation of iRGD-AgNPs in the whole tumor tissue (Fig
+ A)
+ We quantified the amount of iRGD-AgNPs in peripheral and center regions of the tumor tissue (Fig
+ 5B and 5C), which showed that this inhibitory effect was more obvious in the center area of the tumor, which is poorly vascularized, than in highly vascularized peripheral area12 (Fig
+ S)
+ We also quantified the penetration distance of iRGD-AgNPs from the nearest blood vessel in the poorly vascularized region (Fig
+ S10), and found that GW4869 treatment significantly decreased the penetration distance of iRGD-We also validated this observation with an orthotopic pancreatic ductal adenocarcinoma tumor model (Fig
+ 5E-5G and Fig
+ S)
+ Notably, GW4869 was injected intravenously in this study, to verify whether its effect remains after systemic administration
+ A significant reduction of iRGD-AgNP accumulation was also seen in peripheral and center regions of the tumor tissue after GW4869 treatment, as well as the penetration distance from tumor vessels
+ Together, these data suggest that EV biogenesis is important for extravasation, and more importantly, the deeper penetration of NPs into the extravascular regions through the transcellular route
+  Here we provide a 3D assay to study a very important and yet poorly characterized part of transcellular transport for NPs, intercellular exchange
+ Aided by CPPs and etching technology, this assay is easy to establish, better mimics the physiological environment for cells, and is able to distinguish different intercellular exchange routes
+ Our results prove that a significant fraction of NPs are exported inside EVs, which carry NPs into recipient cells independent of the original cell-penetrating ligands on them
+ Our study unveils a novel role Despite its importance, transcellular transport process is poorly characterized for NPs and other types of macromolecule payloads
+ It consists of multiple interconnected steps, which is too complicated to investigate under in vivo conditions
+ In vitro, the endocytic machineries in general, and the cell entry and intracellular transport of NPs, are much better understood than exocytosis and intercellular material exchange,,
+ Therefore, there is great need to study the intercellular exchange, not only for NP applications but also for a better understanding of exocytosis and intercellular communication in general Years of studies on transcytosis have generated useful cellular assays, such as the transwell assay, to study this process
+ However, (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    transcytosis concerns only one layer of cells, which is not the same with intercellular exchange
+ Transwell assays may add an additional layer of cells as recipient, but this format measures the entire process from the entry into the first cell layer to re-entry into recipient cells
+ And this type of assays is difficult to ensure no leakage in the intercellular gaps for NPs of various sizes and shapes
+ To solely focus on the intercellular The key to our intercellular exchange 3D assay is etching
+ After CPP-AgNP internalization, etching ensures that no extracellular or cell surface bound AgNPs exist
+ In this way, all AgNPs in recipient cells can only come from the export from donor cells
+ The etchant is a small molecule compound that can easily access all extracellular spaces, acts very rapidly (~seconds in vitro) and effectively, and is nontoxic to cells
+ Therefore, constant etching can dissolve any freely released AgNPs from donor cells before they can reach the recipient
+ Together, etching can help us ensure that we are observing the intercellular exchange events and help distinguish the direct release route from others
+ Besides etching, our assay has other advantages
+ Bulk processing of donor cell uptake helps eliminate the interference from the cell entry into donor cells and their subcellular transport status
+ The collagen gap, meanwhile, is an easy and effective way to prevent direct cell-cell contact
+ Together, these properties ensure that we are exclusively and precisely monitor and quantify the intercellular exchange events and enable us to differentiate different transfer routes
+ Our results demonstrated that CPP-NPs are exported either freely or enclosed inside EVs, but not exchanged via direct cell-cell contact
+ It is very difficult, if not possible, to distinguish these routes in vivo or with existing cellular assays
+ Besides AgNPs, we also demonstrated that EVs are important for intercellular exchange of nonetchable NP type The use of CPPs, besides aiding in the cell entry of NPs, help elicit the impact of ligand-receptor interactions on intercellular exchange
+ AgNPs are versatile in changing their physicochemical characteristics (e
+ g
+ sizes, shapes, surface charges), and have been shown to be coupled with a wide variety of cell-penetrating ligands beyond CPPs
+ Our results showed that the intercellular exchange efficiency varies with CPP types and AgNP sizes
+ Further investigations in this regard will elucidate the impact of various NP properties and formulations on their intercellular exchange efficiency
+ This assay format can also be adapted into different matrix compositions and environmental conditions, which may better simulate the path-physiological situations of interest or quantify the impact of these factors on the intercellular exchange
+ Finally, the procedure of this 3D assay is simple enough that we can envision to adapt it for high throughput screening
+ Such screens may quickly identify genetic factors or chemical compounds that can up- or down-regulate the We have set up this assay to answer a fundamental cell biology question: how NPs are exported from one cell and transferred into another
+ In the meantime, we tried to simulate the in vivo scenario
+ NP extravasation has been the central focus for its delivery into solid tumors and likely other solid tissues
+ Therefore, we used (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    HUVEC, a widely used endothelial cell line, as the donor cells
+ Plus, extravasation is only the first step for NP delivery, and it is of great scientific and therapeutic significance to understand the intercellular material exchange beyond the vasculatures
+ Thus, a wide variety of cell types were also tested here, including tumor cells (PC-3 and 4T1), fibroblasts (3T3) and immune cells (THP-)
+ A variation of intercellular exchange efficiency was seen with different cell types in our results, agreeing with previous reports that EV biogenesis and cell uptake are highly cell type specific
+ More thorough investigations are needed to elicit the EVs have long been recognized as an important pathway for intercellular communications by exchanging various types of payloads between cells,,,
+ Recently, EVs such as exosomes are actively being developed as the carriers for drug delivery
+ However, its role in NP transport has received little attention, if any
+ Here, our major conclusion is that EVs mediate a significant part of intercellular exchange of CPP-NPs
+ We proved that CPP-NPs can be exported inside EVs, and EVs can deliver themselves and the enclosed NPs into another cell
+ Using GW4869, we demonstrated that EV biogenesis is important for NP intercellular exchange in vitro, and tissue penetration in vivo
+ The in vivo result is particularly intriguing
+ To our best knowledge, this is the first evidence in live animals showcasing the importance of EVs in the NP delivery into solid tissues (e
+ g
+ tumors), and particularly the NP penetration beyond the vasculatures
+ The accessibility to the extravascular and/or poorly vascularized regions is of much more significance to improve the therapeutic Lastly, we found that EV-enclosed NPs do not require coupled CPPs for cell entry after the initial uptake by donor cells
+ It is reasonable to speculate that as NPs (as well as other cargo) are fully encapsulated and thus their specificity towards recipient cells likely depends on EVs themselves
+ The cell uptake specificity of EVs mainly relies on their surface proteins and their interactions with the receptors on recipient cells, which are again highly variable and depend on the donor and recipient cell types, respectively,
+ Our study supports this notion in that the cell entry efficiency of EVs varies with parent and recipient cell types, and NP-carrying EVs show no or little difference from NP-free ones
+ Overall, our results call for more careful design of ligand-functionalized NPs when aiming at solid organs/tissues like tumors, and highlights the importance of EV biology (surface proteomics, transport dynamics and cell uptake specificity) in improving the tissue penetration (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    Human prostate cancer cell line PC-3, human monocyte cell line THP-1 and mouse breast cancer cell line 4T1 were purchased from American Type Culture Collection (ATCC CRL-1435, VA, USA)
+ PC3-GFP and KPC cells was a gift of Dr
+ Erkki Ruoslahtis lab
+ Primary Human Umbilical Vein Endothelial Cells (HUVECs) and mCherry-labeled mouse fibroblast cell line NIH-3T3 were gifts from Dr
+ David K
+ Wood, University of Minnesota
+ PC-3, 4T1, PC3-GFP KPC and NIH-3T3 cells were cultured in Dulbeccos modified Eagles medium (DMEM, cat
+ no
+ 16777-129, VWR international, LLC
+) supplemented with 10% fetal bovine serum (FBS, cat
+ no
+ 35-011-CV, Corning), and 1% penicillinstreptomycin (10000 U/mL) (cat
+ no
+ SV30010, Thermo Fisher Scientific Inc
+ )
+ HUVECs were cultured in Endothelial Cell Growth Medium-2 BulletKit (EGM-2, cat
+ no
+ CC-3162, Lonza Inc
+, ME, USA)
+ THP-1 cells were cultured in RPMI-1640 medium
+ All cells were maintained in a 37 C humidified incubator with 5% CO
+ For extracellular vesicle (EV) isolation, cells were cultured in DMEM Detailed preparation method of nanoparticles used in this study can be found in supplementary information
+ Reagent A: Tripotassium hexacyanoferrate (III) (K3Fe(CN)6, Sigma, CAS# 13746-66-2) was typically dissolved in DPBS (Hyclone, cat
+ no
+ SH
+02) at 
+20 M and stored in the dark
+ Reagent B: Sodium thiosulfate pentahydrate (Na2S2O3 : 5H2O, Sigma, CAS# 10102-17-7) was typically These stocks were stored at room temperature in 50 mL polypropylene tubes in the dark for at least a month without issue
+ When used for in vitro study, Reagent A and B were freshly mixed at 1:1 (V/V) and diluted 20 Donor cells were cultured in 10 cm dishes or 6-well plates
+ When cells reached 70-80% confluency,  the culture medium was replaced with nanoparticle-contained medium and incubated at 37 C for 4 h
+ After incubation with nanoparticles, 20 L of etchant was added into each well and was rocked gently for 30 s
+ Then the etchant was removed and the cells were washed 3 times with PBS
+ Cells were trypsinized with 
+05% (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    Trypsin-EDTA (cat
+ no
+ 17-161E, Thermo Fisher Scientific Inc
+ )
+ Cells were counted and resuspended with Recipient cells were trypsinized with 
+05% Trypsin-EDTA when cells reached 70-80% confluency
+ Cells were Preparation of intercellular exchange assay (All operations were carried out on ice):  The detailed optimization process for conditions of intercellular exchange assay is provided in the supplementary information
+ The optimal condition of the intercellular exchange assay is listed below, if not otherwise indicated: Type I collagen (Collagen Type I, Rat tail high concentration, 
+91 mg/mL, ref
+ no
+ 354249, Corning) was mixed with sterile 10 PBS, 1N NaOH, H2O and 9104 recipient cells in 200 L cell culture medium, making the final concentration of collagen to 2 mg/mL and pH around 
+ 
+ Then 30 L of recipient cell-collagen mixture was firstly added into each well in a 96-well plate
+ The plate was then placed into the cell incubator (37 C) for 15 min to allow for collagen polymerization
+ An acellular collagen gap mixture was prepared using the procedure above without the addition of cell suspension
+ After the recipient layer polymerized, 30 L of 2 mg/mL collagen gap mixture was added into each well and incubated at 37 C for another 15 min
+ Then, 
+8 105 donor cells in 200 L medium with etchant was added on top of collagen gap and the plate was moved into the incubator for 24 h
+ After the intercellular exchange was completed, 100 L of medium in each well was removed from the top and 100 L of 1% collagenase (Sigma, cat
+ no
+ C9263-1G) in FBS free medium was added into the well and incubated at 37 C for 20 min
+ The mixture was then transferred into Eppendorf tubes and centrifuged at 300 RCF at 4 C for 10 min
+ Finally, the cell pellet was fixed with 4% formalin (Sigma, cat
+ no
+ HT501128-4L) and stored at 4 C
+ The intercellular exchange efficacy between donor and recipient cells was measured by flow cytometry using a BD FACS Calibur flow cytometer (BD Biosciences, where 456789:;<=<>? stands for percentage of AgNP-positive recipient cells and 456789:;<=<>?		stands for To prepare donor cells in collagen format, the same procedure was applied as preparing recipient-collagen mixture except replacing recipient cells with donor cells
+ After recipient layer and gap layer were polymerized, 30 L of donor layer mixture was added on top of the collagen gap and incubated at 37 C for 15 min to (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    polymerize
+ Then 200 L of medium was added into each well
+ Other conditions were the same as described To perform intercellular exchange assay with different gap concentrations, the final collagen concentration was adjusted with sterile 10 PBS, 1N NaOH and H2O to make the final concentration of collagen to 2, 4 and 8 mg/mL and a pH of approximately 
+ 
+ Other conditions were the same as described above
+  For groups without gap or etchant, after the recipient layer was polymerized, 200 L of donor cells suspension was seeded directly onto the recipient cell-collagen layer and incubated for 24 h
+ Other conditions were the To study the effects of GW4689 (Sigma, cat
+ no
+ D1692-5mg) on intercellular exchange, 10, 20 and 40 M of GW4689 was added into the medium under constant etching, respectively
+ After 24 h of incubation, cells were collected using the same method described above and analyzed by flow cytometry
+ Conditioned medium was collected from donor cell cultures after 48 h of incubation in FBS-free medium
+ EVs were isolated using Total Exosome Isolation Kit (Thermo Fisher Scientific Inc
+, cat
+ no
+ )
+ Briefly, conditioned medium was harvested and centrifuged at 4 C, 2000 g for 30 min to remove cells and debris
+ Then, the supernatant was transferred to a new tube and 
+5 volumes of the Total Exosome Isolation Reagent was added into the cell-free medium
+ Mix the Reagent and medium by vortexing until there was a homogenous mixture
+ The mixture was incubated at 4 C overnight
+ After incubation, the samples were centrifuged at 10,000  g for 1 hour at 4 C
+ The supernatant was discarded and EVs in the pellet were collected
+ The pellet was then resuspended in 500 L of 1 PBS for further analysis
+  Density gradient ultracentrifugation were carried out as described previously
+ Briefly, a series of gradient solution (40 % (w/v), 20 % (w/v), 10 % (w/v) and 5 % (w/v) solutions of iodixanol) were prepared by diluting a stock solution of OptiPrep (60 % (w/v) Sigma, cat
+ no
+ D1556-250ML) with 
+25 M sucrose, 10 mM TrisHCl, pH 
+5 solution
+ The isolated EVs were suspended in 
+5 mL of 5% gradient and then layered on top of a gradient consisting of 10%, 20%, and 40% OptiPrep (3 mL for each gradient)
+ Gradients were centrifuged at 100000g for 8 h at 4 C
+ 7 mL from top (NP-free EVs) and 3 mL from bottom (NP-carrying EVs) were carefully collected, respectively
+ Then both fractions were diluted in PBS (1:25) and centrifuged at 100000g for 90 min at 4 C
+ The pellets were resuspended in PBS and were stored at -20 C for further use
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    All EVs were labeled with Dil (Thermo Fisher Scientific Inc
+, cat
+ no
+ D)
+ Briefly, 2 L of Dil working solution (2 mg/mL) was added into 100 L of EVs solution
+ The mixture was mixed well with pipet and incubated at 37C for 30 min
+ After incubation, the mixture was centrifuged at 3000g for 10 min
+ The supernatant was collected and EVs were normalized to the same protein amount for further use
+ For studying re-entry of EVs into cells, EVs from PC-3, 4T1 and HUVEC cells were collected and labeled as described above and normalized to the same protein amount
+ PC-3, 4T1 and HUVEC cells were cultured in -well plate and incubated with labeled EVs from different origins for 4 h
+ After washing with PBS for 3 times, cells were incubated with Hoechst 33342 (Thermo Fisher Scientific Inc
+, cat
+ no
+ 62249) for 15 min and washed with PBS
+ Fluorescence images were taken using EVOS M5000 (Thermo Fisher Scientific) microscope and the To study the penetration of EVs in collagen matrix, a single layer of PC3-GFP cells were seeded in 8 Chamber Polystyrene Vessel Tissue Culture Treated Glass Slide (Falcon, cat
+ no
+ 354108) and cultured overnight
+ After cells attached to the slides, medium in chambers was discarded and the collagen mixture prepared as described above was added on top of cells and incubated at 37 C for 15 min to polymerize
+ Then Dil labeled NP-free EVs and NP-carrying EVs were added into the chamber with 300 L medium (with EV-free FBS) and incubated at 37C for 30 min
+ Medium was removed and the chamber was washed with PBS
+ Cells were fixed with 300 L 10% formalin for 4 h at room temperature
+ Formalin was removed and 800 L O
+ C
+ T
+ compound (Tissue-Tek, SAKURA, cat
+ no
+ 4583) was added into the chamber
+ Then the whole chamber was transferred into -80 C overnight
+ The next day, the frozen bulk gel was taken out of the chamber and frozen sections of bulk gel was prepared according to standard cryo-section protocol
+ Fluorescence images were taken using EVs isolated from donor cell culture medium were washed with PBS and calibrated to the same amount of protein for different groups
+ Then samples were aliquoted into 4 	50 L 
+ The four aliquots were treated with 50 L of PBS, 50 L of etchant, 50 L of 
+2% Triton X-100 and 50 L etchant with 
+2% Triton X-100 (1:1), respectively
+ The 4 mixtures were then transferred into 10K Amicon centrifugal filters (Thermo Fisher Scientific Inc
+, cat
+ no
+ UFC501096) and centrifuged at 7800g and 4C for 5 min
+ Then 50 L of PBS was added into each top chamber to resuspend residual materials
+ All solutions from both top and bottom chambers were transferred to black 96-well plate
+ The fluorescence intensity of CF647 was measured within 10 min using a (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    EV samples were lysed with lysis buffer (Cell Signaling Technology, Danvers, MA) supplemented with phenylmethylsulfonyl fluoride protease inhibitor on an ice bath for 30 min
+ Following centrifugation of the lysates at 14000g and 4C for 20 min, the supernatant was collected for Western blot (30 g of total protein/lane)
+ Protein concentration was measured using the Pierce BCA Protein Assay Kits (Thermo Fisher Scientific Inc
+, cat
+ no
+ )
+ CD63 antibody (1:500 Thermo Fisher Scientific Inc
+, cat
+ no
+ 10628D), CD9 antibody (1:500 Thermo Fisher Scientific Inc
+, cat
+ no
+ 10626D) and -actin antibody (1:8000 Thermo When PC-3 cells reached 80% confluency in 15 cm culture dish, the culture medium was replaced with nanoparticle-containing medium and incubated for 4 h
+ After incubation with nanoparticles, cells were washed with etchant and PBS and then cultured in DMEM with 40 M of GW4869 for 48 h
+ Total EVs, NP-free EVs and NP-carrying EVs were then isolated as described above
+ Medium was collected for analysis of the exocytosis of T-AgNPs and the amount of different EVs were quantified by protein amount using the Pierce BCA Protein Assay Kits (Thermo Fisher Scientific Inc
+, cat
+ no
+ )
+ For analysis of exocytosis of T-AgNPs, collected medium was concentrated with centrifugal filter tube with 10,000 MWCO into mL
+ Then Bioworld Heparin-Coated Plate (Thermo Fisher Scientific Inc
+, cat
+ no
+ 50197531) was used to capture released T-AgNPs in the concentrated medium
+ After washing with PBS for 3 times, 150 L of PBS was added into each well and the fluorescence intensity of CF647 was measured using a SpectraMax M2 plate reader (Molecular All animal studies were carried out in compliance with the National Institutes of Health guidelines and an approved protocol from University of Minnesota Animal Care and Use Committee
+ The animals were housed in a specific pathogen-free facility with free access to food and water at the Research Animal Resources (RAR) To establish 4T1 orthotopic tumor model, 100 L of 1107 cells/mL 4T1 cells suspended in PBS were injected into the mammary fat pad of female Balb/c mice
+ Once the average tumor volume reached 80 mm3, mice in the control group were intratumorally injected with 20 L of 10% DMSO in PBS daily for 5 days
+ Mice in GW4869 group were intratumorally injected with 20 L of GW4869 (40 uM final conc
+) daily for 5 days
+ The orthotopic pancreatic ductal adenocarcinoma tumor model was established according to a reported protocol
+ Briefly, surgery procedure was performed to expose the entire pancreatic body together with spleen to the outside of the peritoneal cavity
+ 100 L of 1107 cells/mL KPC cell-Matrigel (ref
+ no
+ 354234, Corning) mixture was injected into the tail of the pancreas
+ For orthotopic pancreatic ductal adenocarcinoma tumor, 14 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    days post-surgery, mice in control group were intraperitoneally injected with 200 L of 10% DMSO in PBS every other day for 5 times
+ Mice in GW4869 group were intraperitoneally injected with 200 L of GW4869 (
+5 24 h after the last GW4869 injection, 50 L of iRGD-AgNPs (O
+D 40) was intravenously injected and circulated for 4 h
+ Animals were then anesthetized with Avertin and underwent heart perfusion before tumor tissue To stain blood vessels for quantifying penetration distance, after rehydrating with PBS, tissue section was covered with 200 L of PBS containing 1% BSA and 
+1% Triton X-100 (blocking solution) incubated at room temperature for 1 h
+ The sections were washed three times with PBS and then incubated with primary antibody anti-CD31 (Rat Anti-Mouse, Thermo Fisher Scientific Inc
+, cat
+ no
+ MA1-40074) with a 1:200 dilution in blocking buffer at 4 C overnight, followed by secondary antibody (Peroxidase-AffiniPure F(ab')2 Fragment Goat Anti-Rat IgG (H+L), Thermo Fisher Scientific Inc
+, cat
+ no
+ NC9810135) diluted (1:200) in blocking buffer at RT for 1 h
+ AEC Substrate Kit (Thermo Fisher Scientific Inc
+, cat
+ no
+ NC9821752) was then used to stain blood vessels iRGD-AgNPs in tumor tissue were stained with LI Molecular Probes Silver Enhancement kit (Thermo Fisher Scientific Inc
+, cat
+ no
+ 24919) as previously described
+ Briefly, collected tumor tissue was washed in PBS and snap frozen in liquid nitrogen
+ Cryosections of 7 m thick were prepared and fixed in 4% PFA
+ After washing in PBS, the sections were incubated with etchant for 10 s
+ Then slides were washed in PBS twice followed by two washes in water
+ Tissues was blocked for 20 min with a blocking solution of glycine 50 mM pH 
+8, 
+04% sodium azide, 
+4% Triton-X 100 and 2% citrate sodium
+ The LI Molecular Probes Silver Enhancement kit was applied to stain silver for 30 min with fresh solution added every 10 min
+ After that, samples were washed in water for 3 times and coverslips were applied with cytoseal mount media
+  The whole tumor scan images were taken using Huron TissueScope LE (Huron Technologies International Inc
+ )
+ Other images were taken using EVOS M5000 (Thermo Fisher Scientific) microscope
+ The integrated density of Ag signal and penetration distance were analyzed by ImageJ
+ All quantified data are presented as mean  S
+ E
+ M
+ (standard error of the mean)
+ All statistical analyses were performed using the GraphPad Prism software
+ Statistical significance was considered at P values lower than 
+ 
+ P values are shown as *P  
+05, **P  
+01, ***P  
+001, and ****P  
+ 
+ No outliers were excluded in this study
+ The methods of statistical analyses have been indicated in figure legends
+ All comparisons between two experimental groups were performed by unpaired two-tailed Students t test
+  (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    H-B
+ P
+ designed the project
+ T
+ T
+, K
+ A
+ C
+ and D
+ K
+W carried out collagen microtissue synthesis and experiment
+ X
+ W
+ and Y
+ W
+ carried out the rest of the study
+ X
+ W
+ and H-B
+ P
+ wrote the manuscript
+  Research reported in this publication was supported by grants from the from the National Institute of Health (R01CA214550, R01GM133885, R21EB022652) and the State of Minnesota (MNP#
+ )
+ The content is solely the responsibility of the authors and does not necessarily represent the official views of the National (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    
+ Peer, D
+ et al Nanocarriers as an emerging platform for cancer therapy
+ Nature Nanotechnology vol
+ 2 
+ Brigger, I
+, Dubernet, C
+ & Couvreur, P
+ Nanoparticles in cancer therapy and diagnosis
+ Advanced Drug 
+ Shi, J
+, Kantoff, P
+ W
+, Wooster, R
+ & Farokhzad, O
+ C
+ Cancer nanomedicine: progress, challenges and 
+ Bobo, D
+, Robinson, K
+ J
+, Islam, J
+, Thurecht, K
+ J
+ & Corrie, S
+ R
+ Nanoparticle-Based Medicines: A Review of FDA-Approved Materials and Clinical Trials to Date
+ Pharm
+ Res
+ 33, 23732387 ()
+ 
+ Poon, W
+, Kingston, B
+ R
+, Ouyang, B
+, Ngo, W
+ & Chan, W
+ C
+ W
+ A framework for designing delivery 
+ Albanese, A
+, Tang, P
+ S
+ & Chan, W
+ C
+ W
+ The effect of nanoparticle size, shape, and surface chemistry on biological systems
+ Annual Review of Biomedical Engineering vol
+ 14 116 ()
+ 
+ Oh, N
+ & Park, J
+ H
+ Endocytosis and exocytosis of nanoparticles in mammalian cells
+ International 
+ Nel, A
+ E
+ et al Understanding biophysicochemical interactions at the nano-bio interface
+ Nature 
+ Barenholz, Y
+ Doxil - The first FDA-approved nano-drug: Lessons learned
+ Journal of Controlled 
+ Minchinton, A
+ I
+ & Tannock, I
+ F
+ Drug penetration in solid tumours
+ Nat
+ Rev
+ Cancer 6, 583592 
+ Heldin, C
+ H
+, Rubin, K
+, Pietras, K
+ & stman, A
+ High interstitial fluid pressure - An obstacle in cancer 
+ Tredan, O
+, Galmarini, C
+ M
+, Patel, K
+ & Tannock, I
+ F
+ Drug resistance and the solid tumor 
+ Wilhelm, S
+ et al Analysis of nanoparticle delivery to tumours
+ Nat
+ Rev
+ Mater
+ 1, ()
+ 
+ Sindhwani, S
+ et al The entry of nanoparticles into solid tumours
+ Nat
+ Mater
+ (2020) 
+ Sugahara, K
+ N
+ et al Tissue-Penetrating Delivery of Compounds and Nanoparticles into Tumors
+ 
+ Liu, X
+ et al Tumor-penetrating peptide enhances transcytosis of silicasome-based chemotherapy for 
+ Patel, S
+ et al Brief update on endocytosis of nanomedicines
+ Advanced Drug Delivery Reviews vol
+ 144 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    
+ Zhao, F
+ et al Cellular uptake, intracellular trafficking, and cytotoxicity of nanomaterials
+ Small 7, 
+ Pang, H
+ B
+ et al An endocytosis pathway initiated through neuropilin-1 and regulated by nutrient 
+ Braun, G
+ B
+ et al Etchable plasmonic nanoparticle probes to image and quantify cellular internalization
+ 
+ Jin, E
+ et al Acid-active cell-penetrating peptides for in vivo tumor-targeted drug delivery
+ J
+ Am
+ Chem
+ 
+ Pan, L
+ et al Nuclear-targeted drug delivery of tat peptide-conjugated monodisperse mesoporous silica 
+ Yuan, H
+, Fales, A
+ M
+ & Vo-Dinh, T
+ TAT peptide-functionalized gold nanostars: Enhanced intracellular delivery and efficient NIR photothermal therapy using ultralow irradiance
+ J
+ Am
+ Chem
+ Soc
+ 134, 
+ Teesalu, T
+, Sugahara, K
+ N
+, Kotamraju, V
+ R
+ & Ruoslahti, E
+ C-end rule peptides mediate neuropilin--dependent cell, vascular, and tissue penetration
+ Proc
+ Natl
+ Acad
+ Sci
+ U
+ S
+ A
+ 106, 1615716162 
+ Ruoslahti, E
+ Tumor penetrating peptides for improved drug delivery
+ Adv
+ Drug Deliv
+ Rev
+ 110, 312 
+ Pang, H
+ B
+, Braun, G
+ B
+ & Ruoslahti, E
+ Neuropilin-1 and heparan sulfate proteoglycans cooperate in cellular uptake of nanoparticles functionalized by cationic cell-penetrating peptides
+ Sci
+ Adv
+ 1, ()
+ 
+ Tan, X
+ et al Cell-penetrating peptide together with PEG-modified mesostructured silica nanoparticles promotes mucous permeation and oral delivery of therapeutic proteins and peptides
+ Biomater
+ Sci
+ 7, 
+ Crampton, A
+ L
+, Cummins, K
+ A
+ & Wood, D
+ K
+ A High-Throughput Workflow to Study Remodeling of Extracellular Matrix-Based Microtissues
+ Tissue Eng
+ Part C Methods 25, 2536 ()
+ 
+ Yez-M, M
+ et al Biological properties of extracellular vesicles and their physiological functions
+ J
+ 
+ Colombo, M
+, Raposo, G
+ & Thry, C
+ Biogenesis, Secretion, and Intercellular Interactions of Exosomes and Other Extracellular Vesicles
+ Annu
+ Rev
+ Cell Dev
+ Biol
+ 30, 255289 ()
+ 
+ Raposo, G
+ & Stoorvogel, W
+ Extracellular vesicles: Exosomes, microvesicles, and friends
+ J
+ Cell Biol
+ 
+ Kalluri, R
+ & LeBleu, V
+ S
+ The biology, function, and biomedical applications of exosomes
+ Science (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    
+ Tkach, M
+ & Thry, C
+ Communication by Extracellular Vesicles: Where We Are and Where We Need to 
+ Trajkovic, K
+ Ceramide triggers budding of exosome vesicles into multivesicular endosomes (Science 
+ Greening, D
+ W
+, Xu, R
+, Ji, H
+, Tauro, B
+ J
+ & Simpson, R
+ J
+ A protocol for exosome isolation and capture methods
+ in Methods in Molecular Biology vol
+ 1295 179209 (Humana Press Inc
+, )
+ 
+ Liu, X
+ et al Tumor-penetrating peptide enhances transcytosis of silicasome-based chemotherapy for 
+ Hu, C
+ et al Coadministration of iRGD with Multistage Responsive Nanoparticles Enhanced Tumor Targeting and Penetration Abilities for Breast Cancer Therapy
+ ACS Appl
+ Mater
+ Interfaces 10, 
+ Duncan, R
+ & Richardson, S
+ C
+ W
+ Endocytosis and Intracellular Trafficking as Gateways for 
+ Morad, G
+ et al Tumor-Derived Extracellular Vesicles Breach the Intact BloodBrain Barrier via 
+ Duraipandy, N
+, Lakra, R
+, Korrapati, P
+ S
+, Sudhakaran, P
+ R
+ & Kiran, M
+ S
+ Targeting Pyruvate Kinase M2,  Catenin Signaling by Juglone Silver Nano Framework for Selective Cancer Cell Death
+ 
+ Rajabnia, T
+ & Meshkini, A
+ Fabrication of adenosine 5-triphosphate-capped silver nanoparticles: Enhanced cytotoxicity efficacy and targeting effect against tumor cells
+ Process Biochem
+ 65, 186196 
+ Boca-Farcau, S
+ et al Folic acid-conjugated, SERS-labeled silver nanotriangles for multimodal detection and targeted photothermal treatment on human ovarian cancer cells
+ Mol
+ Pharm
+ 11, 391399 ()
+ 
+ Jadli, A
+ S
+, Ballasy, N
+, Edalat, P
+ & Patel, V
+ B
+ Inside(sight) of tiny communicator: exosome biogenesis, secretion, and uptake
+ Molecular and Cellular Biochemistry vol
+ 467 7794 ()
+ 
+ Mathieu, M
+, Martin-Jaular, L
+, Lavieu, G
+ & Thry, C
+ Specificities of secretion and uptake of exosomes and other extracellular vesicles for cell-to-cell communication
+ Nature Cell Biology vol
+ 21 917 ()
+ 
+ Stranford, D
+ M
+, Hung, M
+ E
+, Gargus, E
+ S
+, Shah, R
+ N
+ & Leonard, J
+ N
+ A Systematic Evaluation of Factors Affecting Extracellular Vesicle Uptake by Breast Cancer Cells
+ Tissue Eng
+ - Part A 23, 
+ Mathieu, M
+, Martin-Jaular, L
+, Lavieu, G
+ & Thry, C
+ Specificities of secretion and uptake of exosomes and other extracellular vesicles for cell-to-cell communication
+ Nat
+ Cell Biol
+ 21, 917 ()
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    
+ Paolicelli, R
+ C
+, Bergamini, G
+ & Rajendran, L
+ Cell-to-cell Communication by Extracellular Vesicles: 
+ Vader, P
+, Mol, E
+ A
+, Pasterkamp, G
+ & Schiffelers, R
+ M
+ Extracellular vesicles for drug delivery
+ 
+ Gangadaran, P
+ & Ahn, B
+ C
+ Extracellular vesicle-and extracellular vesicle mimetics-based drug delivery systems: New perspectives, challenges, and clinical developments
+ Pharmaceutics 12, ()
+ 
+ Yong, T
+ et al Tumor exosome-based nanoparticles are efficient drug carriers for chemotherapy
+ Nat
+ 
+ Qiu, W
+ & Su, G
+ H
+ Development of orthotopic pancreatic tumor mouse models
+ Methods Mol
+ Biol
+ 980, (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    Fig
+ 
+ Schematic illustration and optimization of the 3D intercellular exchange assay
+ (A) Schematic illustration of the 3D intercellular exchange assay used throughout this study
+ (B) Percentage of CPP-AgNPs positive recipient cells in the intercellular exchange assay
+ Intercellular exchange assay of T-AgNPs and R-AgNPs from PC-3 to PC3-GFP cells was carried out as described in Methods, respectively
+ The percentage of CPP-AgNPs positive recipient cells was quantified by flow cytometry analysis (y axis)
+ (C and D) Intercellular exchange efficacy with different format of donor cells for T-AgNPs and R-AgNPs
+ Intercellular exchange efficacy of T-AgNPs (C) and R-AgNPs (D) from PC3 to PC3-GFP cells was quantified as described in Methods and normalized to that of monolayer condition (y-axis)
+ Error bars indicate S
+ E
+ M
+ (standard error of the mean), n=
+ NS, no significance (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    (A-D) The 3D intercellular exchange assays with different pairs of donor/recipient cells
+ After 24 h incubation under the indicated conditions (x axis), intercellular exchange efficacy of T-AgNPs (A) and R-AgNPs (B) from PC-3 to PC3-GFP cells was quantified as described in Methods and normalized to that of under constant etching with collagen gap (y axis)
+ Intercellular exchange efficacy of T-AgNPs (C) and R-AgNPs (D) from HUVEC to PC3-GFP cells was quantified as described in Methods and normalized to that of under constant etching with collagen gap (y axis)
+  (E) Intercellular exchange efficacy of T-AgNPs from PC-3 to PC3-GFP cells with gaps of different collagen concentration (x axis) under constant etching
+ The average intercellular exchange efficacy was normalized to the group with 2 mg/mL collagen gap (y-axis)
+ (F) Intercellular exchange efficacy of 30 nm and 70 nm T-AgNPs from PC-3 to PC3-GFP cells was quantified as described in Methods and the result was normalized to that of 30 nm T-AgNPs (y axis)
+ Error bars indicate S
+ E
+ M
+, n=
+ *P<
+05, **P<
+01, ***P<
+001 and NS, no significance (Students t-test)
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    (A and B) Exosome secretion inhibitor, GW4869, decreased intercellular exchange of CPP-AgNPs in a concentration dependent manner
+ Intercellular exchange efficacy of T-AgNPs (A) and R-AgNPs (B) from PC-3 to PC3-GFP cells with indicated GW4869 concentrations (x axis) was quantified as described in Methods and normalized to that of without GW4869 treatment (y axis)
+ (C-E) T-AgNPs were exocytosed by EVs
+ NP-free EVs and NP-carrying EVs from PC-3 cells were collected and separated by density gradient ultracentrifugation as described in Methods and normalized to the same protein amount
+ (C) Fluorescence intensity of T-AgNPs in NP-free EVs and NP-carrying EVs was detected and normalized to that of in NP-carrying EVs (y axis)
+ (D) Fluorescence intensity of T-AgNPs in NP-carrying EVs isolated from PC-3 cells with indicated treatments (x axis) followed by centrifugation in the spin column of 10,000 MWCO, and the result was normalized to that of without any treatment (y axis)
+ Top/bottom chamber indicated that the fluorescence existed in the top/bottom chamber of the centrifugal filter tube
+ (E) Western blotting of EV markers, CD63 and CD9 from NP-free EVs and NP-carrying EVs
+ NP-free EVs and NP-carrying EVs were isolated from PC-3 cells pre-incubated with T-AgNPs by density gradient ultracentrifugation as described in Methods, followed by western blot to detect expression of CD63 and CD9 in both NP-free EVs and NP-carrying EVs
+ (F-H) GW4869 decreased secretion of total EVs and NP-carrying EVs but not the release of free T-AgNPs
+ After feeding with T-AgNPs and washed with etchant, PC-3 cells were cultured in DMEM (with EV free FBS) with 40 M GW4869 for 48 h
+ After collected total EVs, NP-carrying EVs and released free T-AgNPs as described in Methods, the protein amount of total EVs (F) and NP-carrying EVs (G) was quantified by BCA assay and normalized to that of control group (y axis)
+ (H) The fluorescence intensity of released free T-AgNPs was measured as described in Methods and normalized to that of control group (y axis)
+ Error bars indicate S
+ E
+ M
+, n=
+ *P<
+05, **P<
+01, **** P<
+0001 and NS, no significance (Students t-test)
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    (A) Similar cell entry efficiency of NP-free and NP-carrying EVs in recipient cells
+ NP-free EVs and NP-carrying EVs were isolated from T-AgNPs engulfed PC-3 cells and labeled with Dil
+ After incubating with PC-3 recipient cells for 2 h, the fluorescence signal of EVs inside the cells was detected by confocal microscopy, quantified by Image J, and normalized to that of NP-free EVs (y axis)
+ (B-D) Cell entry efficiency of EVs depends on both parent and recipient cell types
+ EVs were isolated from the indicated cell types
+ After DiI labeling and normalization by protein content, EVs were incubated with the indicated recipient cells for 2 h before washing and imaging (x-axis)
+ The intracellular EVs were quantified as described in Methods and normalized to that of PC-3 cells (y-axis)
+ (E) Penetration of NP-free and NP-carrying EVs through collagen matrix
+ NP-free and NP-carrying EVs were isolated from T-AgNPs engulfed PC-3 cells, labeled with Dil (red) and added to the top of a collagen matrix (2 mg/mL collagen concentration) with a layer of PC3-GFP cells (green) underneath to mark the bottom
+ Both NP-free EVs (left panel) and NP-carrying (right panel) showed co-localization with PC3-GFP cells after 30 min incubation at 37 C
+ At least three independent experiments were performed and representative images are shown here
+ Scale bar, 100 m
+ (F and G) Re-entry of EV-carrying CPP-AgNPs did not rely on ligand-receptor interaction
+ (F) Intercellular exchange efficacy of T-AgNPs from PC-3 to PC3-GFP with indicated treatments (x axis) was quantified as described in Methods and normalized to that of HS treated only group (y axis)
+ (G) Intercellular exchange efficacy of R-AgNPs from PC-3 to PC3-GFP with indicated treatments (x axis) was quantified as described in Methods and normalized to that of -NRP1 treated only group (y axis)
+ Error bars indicate S
+ E
+ M
+, n=
+ *P<
+05, **P<
+01, *** P<
+001 and NS, no significance (Students t-test)
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    Fig
+ 
+ In vivo demonstration of EV importance in NP delivery into solid tumors
+ GW4869 decreased the penetration of iRGD-AgNPs in 4T1 and orthotopic pancreatic ductal adenocarcinoma tumor model (indicated as KPC in the figure) in vivo
+ 4T1 tumor bearing mice received 20 L of GW4869 (40 M) via intratumoral injection each day for 5 days
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    Orthotopic pancreatic ductal adenocarcinoma tumor bearing mice received GW4869 at a dosage of 
+5 g/kg body weight via intraperitoneal injection every other day for 5 injections
+ 24 h after the last injection, 50 L of iRGD-AgNPs (O
+D 40) was intravenously injected and circulated for 4 h
+ Tumor was excised and sectioned for AgNP and blood vessel detection as described in Methods
+ (A) Representative whole tissue scan images and zoomed areas (red squares) of 4T1 tumor
+ Scale bar, 1000 m; insets, 200 m
+ (B and C) Semi-quantitative analysis of Ag signal intensity in peripheral area (B) and center area (C) of 4T1 tumor tissue by ImageJ, and normalized to that of control group (y axis)
+ (D) Quantitative analysis of distance of AgNPs to the nearest blood vessel in hypovascular area in 4T1 tumor by ImageJ
+ (E and F) Semi-quantitative analysis of Ag signal intensity in peripheral area (E) and center area (F) of orthotopic pancreatic ductal adenocarcinoma tumor tissue by ImageJ, and normalized to that of control group (y axis)
+ (G) Quantitative analysis of distance of AgNPs to the nearest blood vessel in hypovascular area in orthotopic pancreatic ductal adenocarcinoma tumor by ImageJ
+ The in vivo experiment was performed in 3 mice per group
+ 5 images from each tumor tissue were used to analyze Ag signal intensity in each group
+ 40 sliver signal from each tumor tissue were applied to analyze the penetration distance
+ Error bars (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted February 24, 
+ ;    

@@ -1,0 +1,244 @@
+Aleksandra Petrovic Fabijan1,2+, Ruby CY Lin1-4+, Josephine Ho1,2, Susan Maddocks1-3 Jonathan R Iredell1-3* on behalf of the Westmead Bacteriophage Therapy Team (WBTT) and AmpliPhi 
+ Centre for Infectious Diseases and Microbiology, Westmead Institute for Medical Research 
+ Westmead Hospital, Western Sydney Local Health District (WSLHD), Sydney, Australia 
+ School of Medicine, Sydney Medical School, University of Sydney, Australia 
+ School of Medical Sciences, University of New South Wales, Australia Westmead Bacteriophage Therapy Team: Nouri L Ben Zakour1,3, Ali Khalid1,3, Carola certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted April 26, 
+ ;    Carrie-Lynn Langlais Furr7, Francisco Rosas7, Susan Lehman7, Igor Bilinsky7, Paul Grint7 Findings: Thirteen patients with severe S
+ aureus infections received AB-SA01, a bacteriophage product prepared according to Good Manufacturing Practices (GMP), as adjunctive therapy to antibiotics
+ AB-SA01 was well-tolerated with no adverse events identified
+  Bacterial burden and inflammatory responses were reduced and no phage-resistant staphylococci were isolated during Meaning: Our results will inform future randomised controlled trials assessing the antibacterial and anti-inflammatory potential of bacteriophages in the treatment of severe S
+ aureus infection
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted April 26, 
+ ;    Importance: The effect of IV administration of a bacteriophage cocktail produced under GMP conditions on patients with severe S
+ aureus infection, including complicated bacteraemia, Objective: To assess safety and tolerability of adjunctive bacteriophage therapy in patients with patients admitted to a tertiary-referral hospital with S
+ aureus bacteraemia (including infective endocarditis, n=6)  were assessed by the treating clinician and two consulting infectious diseases physicians to independently verify that routine medical and surgical therapy was optimal and that a poor outcome remained likely
+ Compassionate access to therapy was approved by both US and Australian regulators and by the Westmead Hospital Human Research Ethics Committee
+  specific activity against S
+ aureus (AB-SA01), was administered intravenously in conjunction infection, bacterial and bacteriophage kinetics in blood, development of resistance to certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted April 26, 
+ ;    bacteriophages, and mortality at 28 (D28) and 90 (D90) days were measured
+ Main outcomes Results: Bacteriophage therapy was initiated 4-10 days after antibiotic commencement, at 109 plaque-forming units (PFU) twice daily
+ Infecting staphylococci were typical of common local subtypes
+ Initial input ratio of phages to bacteria in the bloodstream (MOIinput) was >
+ Five of the thirteen patients died by D28 and a sixth patient suffered sudden cardiac death on D
+ Bacteriophage therapy coincided with a marked reduction in staphylococcal bacterial DNA in the blood and in sepsis-associated inflammatory responses in almost all cases
+ No bacteriophage-attributable adverse events were identified
+ Development of bacteriophage resistance was not observed
+ Population analysis revealed no significant effect of bacteriophage therapy on the gut Conclusions and Relevance: Adjunctive bacteriophage therapy appears to be safe and well-tolerated in critically ill patients with severe S
+ aureus infection
+ Two weeks of twice daily intravenous administration may be a suitable protocol
+ Controlled trials are needed
+ Trial Registration: Westmead Hospital Human Research Ethics Committee approval July 11, certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted April 26, 
+ ;    S
+ aureus bacteraemia is associated with a 30-day mortality of ~%y
+ This nearly doubles in the setting of infective endocarditis (IE), of which it is the leading cause1, and attributable mortality Bacteriophages (phages) are natural viral predators of bacteria that have been used therapeutically for over a century, including for S
+ aureus sepsis
+ Long overshadowed by antibiotics, phage therapy is now experiencing a renaissance as adjunctive therapy to antibiotics and for severe antibiotic-resistant infections
+ AB-SA01 (AmpliPhi Biosciences) is a GMP-quality preparation of three Myoviridae bacteriophages (109 PFU of each) with broad activity against S
+ aureus, the safety of which was recently demonstrated for intranasal therapy of chronic rhinosinusitis
+ Here, we describe a single-centre experience with thirteen cases of intravenous AB-SA01 therapy for severe S
+ aureus infections including prosthetic valve endocarditis (PVE) An open-label protocol was approved by our institutions Ethics Committee for adjunctive therapy with AB-SA
+  Informed consent was sought from patients with two or more consecutive daily blood cultures positive for S
+ aureus if the treating clinician and two independent infectious diseases specialists agreed that treatment was already optimal, significant risk of poor outcome remained and imminent demise (<48hours) was not expected (Figure )
+ AB-SA01 was administered intravenously twice daily for 14 days in 50-100 mL of 
+9% sodium chloride over 10-30 minutes
+ An echocardiogram was performed and the presence of IE certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted April 26, 
+ ;    determined according to modified Duke criteria
+ Vital signs were monitored during and immediately after phage administration for up to 4 hours after the first dose and clinical, haematological and blood biochemical parameters were monitored out to 90 days in a standardised protocol (Table )
+ Charlson comorbidity indices (CCI, a guide to one-year mortality on the basis of pre-existing comorbidities)6, Acute Physiology and Chronic Health Evaluation (APACHE) II scores (a predictor of in-hospital mortality for intensive care cohorts)7 and IE mortality risk scores (a 6-month mortality predictor for IE)8 were calculated
+ S
+ aureus isolates were tested for susceptibility to antibiotics (BD Phoenix, USA) and to AB-SA01 and Quantitative PCR targeting nuc and femA of S
+ aureus and the primase gene of Myoviridae (5- 3 reverse) was performed on DNA extracted from whole blood (S
+ aureus) and serum (phage) respectively (Figure )
+ Viable phages were quantified in serum by diluting onto lawns of a sequence type 239, which yielded clear plaques by a standard method9 at ten-fold dilutions of the AB-SA
+ Phage efficiency of plating (EOP, an indirect in vitro measure of lysis efficiency) was determined for each isolate in triplicate
+ RNA was extracted from whole blood10 for transcriptomic analysis (Figure C)
+ Bacterial population diversity was assessed by 16S rRNA Thirteen patients with severe complicated S
+ aureus bacteraemia received AB-SA01 from August 2017 to September 2018, inclusive (Figure 1 & Table )
+ No fever, rash, hypotension or any certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted April 26, 
+ ;    other adverse events were reported during or after AB-SA01 infusion
+ All received flucloxacillin (n=10), cefazolin (n=2) or vancomycin (n=1) as primary therapy for six weeks or until active therapy was ceased, often with additional ciprofloxacin and/or rifampicin (Table 1), with infectious diseases specialist supervision throughout
+ Phage therapy began within 4-10 days of Three died in the first week (WMP003, WMP006 and WMP011), two after withdrawal of therapy due to expected poor outcomes and one (WMP003) during attempted surgical source control after only 48 hours of phage therapy following 8 days of unremitting bacteraemic shock on high-dose antibiotics (Table )
+ All blood cultures and intraoperative specimens from WMP003 grew AB-SA01-susceptible S
+ aureus (a leukocidin lukGH-positive ST340 strain)
+ All others showed improvement by day 
+ In all, six deaths occurred in the 90 day follow-up, of which five (38%) were within 28 days of starting phage therapy, with an additional sudden death In all, two patients had possible IE and six patients had definite IE, of whom four had PVE (Table )
+ Two PVE cases (WMP001 and WMP010) and WMP014 (possible IE) were complicated by clinically significant cerebral emboli
+ WMP010 received a second two-week course beginning on the day of prosthetic aortic valve replacement (for incompetence) after three weeks of high-dose antibiotics: resected paravalvar tissues were culture-negative but S
+ aureus and Myoviridae DNA was detected
+  WMP009 had metallic aortic and mitral valves replaced more than a month after finishing phage therapy when well and afebrile (on D58 of antibiotics; all resected tissues were culture negative) and WMP001 avoided valve surgery altogether
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted April 26, 
+ ;    S
+ aureus isolates were mostly (12/13) methicillin-susceptible and of common sequence types, including a single methicillin-resistant (MRSA) strain (Table )
+ S
+ aureus isolates from WMP011 were not lysed at all by AB-SA01 phages in vitro and EOP was reduced in two others (WMP006 and WMP013) (Table )
+ Patients infected with staphylococci in which AB-SA01 produced clear plaques at >10-6 dilutions in vitro (10/13), with a predicted 6 months mortality score ~40%5, suffered an early mortality of 20% (2/10 at 28 days) and total mortality of 30% Bacteriophage susceptibility in vitro did not change in any case during or after infection
+ Two unrelated bacteraemic strains of S
+ aureus (an AB-SA01-susceptible ST15 strain and a non-susceptible ST398 strain) were identified in one patient (WMP008) who was lost to follow-up before D
+ She was readmitted two months later with sepsis after ongoing recreational self-injection and AB-SA01-susceptible S
+ aureus (ST672) was repeatedly cultured from blood with Bacterial DNA load in blood was as expected for severe sepsis12 and higher in those with definite endocarditis (Figure 2A1) but decreased within days of commencing phage treatment
+ The calculated multiplicity of infection in blood (phages infused per bacterial genome detected) detected up to 12 hours after administration and viable phages were recoverable from blood up to an hour after administration, as in previous reports14, for up to five days after starting therapy in our cohort (data not shown)
+ In one patient (WMP0011), identical numbers of viable phage were retrieved from both sides of the oxygenator in an extra-corporeal membrane oxygenation certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted April 26, 
+ ;    (ECMO) circuit and no viable phages were detected in effluent collected 15 minutes after AB-Clinical inflammatory markers (white cell count and C-reactive protein) declined in most patients during or soon after phage therapy commenced (Table )
+ Inflammatory gene signatures in whole blood transcriptomes of definite IE patients (n=4) declined significantly within 72 hours of commencing bacteriophage therapy (Figure C)
+ Analysis of gut microflora using 16S rRNA amplicon sequencing before and after bacteriophage therapy revealed no obvious effect on population diversity overall nor evident depletion of Firmicutes (data not shown)
+ Propensity-based/ case-matching analyses were rejected as unfeasible due to the large number of variables and the small size of our cohort and because the study was designed for an endpoint of safety rather than mortality
+ Nevertheless, our experience indicates that controlled trials of bacteriophage therapy are warranted to answer some of the many questions that remain, and the relatively standardised nature of antimicrobial therapy for S
+ aureus infection makes this a good model
+ Phage-based products have previously received U
+ S
+ FDA licensure for food safety applications and a recent study showed reduction of bacterial burden in superficial burns
+ Here we show for the first time that that IV-administered investigational phage therapy produced The reticuloendothelial system is the most important factor in initial clearance of phage from the bloodstream13 and many successful animal studies use a single dose of phage but a few of our patients had bacteriophage detectable in blood up to 12 hours after dosing and we detected traces certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted April 26, 
+ ;    of phage (and bacterial) DNA in valve tissues resected after 14 days (WMP)
+ Most of our cohort, however, had cleared bacterial and phage DNA from blood within a week of starting in vitro synergy between phages and antibiotics4 but the benefit of adding bacteriophages to optimal antibiotic therapy remains uncertain
+  The observed decline in inflammatory responses shortly after bacteriophage administration is consistent with previous animal data16 and may be important in suppressing destructive disease processes but may simply reflect 4-10 days of preceding antibiotics
+  Robust controlled trials are needed to determine the contribution of This study is the first of its kind where an investigational GMP-quality phage product was administered intravenously to treat severe S
+ aureus infections
+ Administration of AB-SA01 was followed by significant reduction in bacterial burdens and inflammatory profiles and by no adverse events
+ Development of resistance to AB-SA01 was not detected
+ Our data indicate that AB-SA01 is suitable as adjunctive therapy for severe S
+ aureus infections using the dosing strategy described, and that controlled clinical trials are an important next step
+  ABPH provided the investigational product AB-SA01 and financial support for treatment of patients, and analysis of samples
+ SMo, IB, PG, SB, ZK, CLF, FR and SL are employees of AmpliPhi Biosciences Corporation
+ JI and CV are supported by grants (1104232 & 1107322) from the Australian National Health and Medical Research Council
+ No shares or other funding certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted April 26, 
+ ;    We would like to thank Joey Lai and Li Ma at WIMR and the staff of the Pathogen Genomics Unit at Westmead Hospital and Ramaciotti Centre (UNSW) for technical advice and sequencing support, Angela Netluch and Patricia Fa for pharmacy support, Stephanie Chan, Katherine Garnham, Sonya Natasha Hutabarat, Cecilia Li, Chris Robson, Andrew Ginn, Belinda Roychoudry, Neela Joshi Rai and the staff of the NSW Pathology Microbiology laboratory at Westmead Hospital for help with data and sample collection and Bethany Bowring for lab JI conceived the project and devised the treatment protocol
+ SMa, RCYL and JH were involved in amendment of the protocol v
+0 and v
+ 
+ SMa and JH created the case report forms
+ JH screened patients
+ JI, SMa, TG, IS consulted on suitability of patients
+ RC was consulted for all IE patients
+ JI, RCYL, APF designed the experiments
+ JI, APF, RCYL, JH and SMa wrote the paper
+ AFP, RCYL, JH collected and processed samples, and analysed data
+ JH collected retrospective patient data
+ APF conducted and analysed phage-susceptibility
+ APF, RCYL and JI analysed bacteria and phage kinetics data
+ NLBZ analysed isolate WGS data
+ CV analysed faecal amplicon sequencing data
+ RCYL and APF analysed transcriptome data
+ WBTT participated in case finding and therapeutic management
+ AmpliPhi Biosciences collaborated in design of the protocol and prepared essential supportive documents (including the Pharmacy Manual and AB-SA01 Product Information and certificates of analysis), critically reviewed individual patient certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted April 26, 
+ ;    Predicted % mortality                   Antibiotics and phage therapy IE (A, M) 340 23 40 (25) 68 FLU (5) 5 009  69yF PVE (A, M) 45 79 40 (25) 45 IE (A) 188 47 8 (6) 40 CEF, FLU (4) 28 * AB-SA01 EOP reduced by >
+0 log10 in vitro compared to SA-5863 APACHE II: Acute Physiology and Chronic Health Evaluation (% in-hospital mortality), certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted April 26, 
+ ;    b (days prior): days of effective antistaphylococcal antibiotic therapy prior to starting certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted April 26, 
+ ;    Figure 
+ Study outline from consent through to D90 follow-up
+ Individuals with severe S
+ aureus infections accessed AB-SA01 through TGAs compassionate use Special Access Scheme (SAS)
+ Patient consented after 23rd of July 2018 were under TGAs Clinical Trial Notification (CTN) scheme
+ All cases were notified to the US FDA and the Australian TGA
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted April 26, 
+ ;    Figure 
+ S
+ aureus DNA burden in the blood: A) endocarditis patients and B) bacteremia patients, and their corresponding blood culture positivity before and during phage therapy for endocarditis 2A1 and bacteriemia, B
+ DNA was extracted from EDTA, Heparin (Patient 1-5) and PAXgene blood tubes (Patient 6-13) using Qiagen Blood DNA Mini kit according to polymerase chain reaction with the AusDiagnostics STAPHYLOCOCCUS + VRE (8-WELL) kit according to manufacturers instructions
+ Standard curves were generated with 1 mL of blood obtained from healthy individual and spiked with normal saline (
+9% NaCl) containing log-phase S
+ aureus in 10-fold serial dilutions
+ C) Transcriptome analysis of whole blood from endocarditis patients (WMP008, 9 and 10) using NanoString PanCancer Immune Profiling Panel (NanoString Technologies, Seattle, WA)
+ Normalisation to housekeeping genes and QC checks were performed in nSolver (NanoString, v
+0) and then log 2 transformed (Partek Genome Suite v
+ )
+ One-way ANOVA (p<
+05 unadjusted) indicates down-regulation of the innate immune response within 72h of phage therapy, with hierarchical clustering analysis revealing nineteen significantly differentially expressed genes, identified in Fig
+ 2C according to their certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted April 26, 
+ ;    
+ Asgeirsson H, Thalme A, Weiland O
+ Staphylococcus aureus bacteraemia and endocarditis - epidemiology 
+ Grubitzsch H, Christ T, Melzer C, Kastrup M, Treskatsch S, Konertz W
+ Surgery for prosthetic valve endocarditis: associations between morbidity, mortality and costs
+ Interact Cardiov Th
+ ;():-
+ Watts G
+ Phage therapy: revival of the bygone antimicrobial Lancet
+ ;():-
+ 
+ Drilling AJ, Ooi ML, Miljkovic D, et al Long-Term Safety of Topical Bacteriophage Application to the Frontal 
+ Durack DT, Lukes AS, Bright DK, et al New Criteria for Diagnosis of Infective Endocarditis - Utilization of 
+ Quan H, Li B, Couris CM, et al Updating and validating the Charlson comorbidity index and score for risk adjustment in hospital discharge abstracts using data from 6 countries
+ Am J Epidemiol
+ ;():-
+ Capuzzo M, Valpondi V, Sgarbi A, et al Validation of severity scoring systems SAPS II and APACHE II in a 
+ Park LP, Chu VH, Peterson G, et al Validated Risk Score for Predicting 6-Month Mortality in Infective 
+ Petrovic A, Kostanjsek R, Rakhely G, Knezevic P
+ The First Siphoviridae Family Bacteriophages Infecting 
+ Lin RCY, Weeks KL, Gao XM, et al PI3K(p110 alpha) Protects Against Myocardial Infarction-Induced Heart Failure Identification of PI3K-Regulated miRNA and mRNA
+ Arterioscl Throm Vas
+ ;():-
+ 
+ Venturini C, Ginn AN, Wilson BE, et al Ecological effects of cefepime use during antibiotic cycling on the Gram-negative enteric flora of ICU patients
+ Intens Care Med Exp
+ ;
+ 
+ Ginn AN, Hazelton B, Shoma S, Cullen M, Solano T, Iredell JR
+ Quantitative multiplexed-tandem PCR for 
+ Abedon S
+ Phage therapy pharmacology: calculating phage dosing
+ Adv Appl Microbiol
+ ;:-
+ 
+ Schooley RT, Biswas B, Gill JJ, et al Development and Use of Personalized Bacteriophage-Based Therapeutic Cocktails To Treat a Patient with a Disseminated Resistant Acinetobacter baumannii Infection
+ 
+ Jault P, Leclerc T, Jennes S, et al Efficacy and tolerability of a cocktail of bacteriophages to treat burn wounds infected by Pseudomonas aeruginosa (PhagoBurn): a randomised, controlled, double-blind phase 
+ Gorski A, Dabrowska K, Miedzybrodzki R, et al Phages and immunomodulation
+ Future Microbiol
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted April 26, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted April 26, 
+ ;    1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18 22 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18 22 28 1 2 3 4 5 6 7 8 9 10 11 12 13 14 20 28 1 2 3 4 5 6 7 8 9 10 11 12 13 14 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted April 26, 
+ ;    

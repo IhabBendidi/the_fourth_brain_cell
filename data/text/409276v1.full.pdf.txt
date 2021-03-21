@@ -1,0 +1,330 @@
+Infection Prevention and Hospital Epidemiology, Medical Center  University of Freiburg, Epidemiology, Medical Center  University of Freiburg, Faculty of Medicine, University of Depression Scale; CI, confidence interval; DRKS, German Clinical Trial Register; HAM-D, 17-item Hamilton Scale for Depression; HTB, hyperthermic baths; ITT, intention-to-protocol; PSQI, Pittsburgh Sleep Quality Index; SD, standard deviation; WBH, whole Background: Evaluation of efficacy, safety and feasibility of hyperthermic baths (HTB; head-out-of-water-immersion in 40C), twice a week, compared to a physical exercise program (PEP; moderate intensity aerobic exercises) in moderate to severe depression
+ at an university outpatient clinic as part of usual depression care
+ Medically stable outpatients with depressive disorder (ICD-10: F32/F33) as determined by the 17-item Hamilton Depression Rating Scale (HAM-D) score 18 and a score 2 on item 1 (Depressed Mood) were randomly assigned to receive either two sessions of HTB or PEP per week (40-45 min) provided by two trained doctoral students
+ An independent outcome measure was the change in HAM-D total score from baseline (T0) to the -week time point (T)
+ Linear regression analyses, adjusted for baseline values, were Findings: 45 patients (HTB n = 22; PEP n = 23) were randomized and analyzed according to ITT (mean age = 
+4 years, SD = 
+3, mean HAM-D score = 
+7, SD = 
+ )
+ Baseline-adjusted mean difference was 
+3 points in the HAM-D score in favor of HTB (p<
+ )
+ This improvement was achieved after two weeks
+ Compliance with the intervention and follow-up was far better in the HTB group (2 vs 13 dropouts)
+ There were no treatment-related serious adverse events
+ Main limitation: the number of dropouts in the PEP group (13 of 23) was far higher than in other trials investigating Conclusions: HTB seems to be a fast-acting, safe and easy accessible method leading to clinically relevant improvement in depressive disorder after two weeks; it is also Trial registration: German Clinical Trials Register (DRKS) with the registration number Depression contributes to significant economic burden and is associated with comorbid diseases (i
+ e
+ cardiovascular disease), and impaired health-related quality of life and functioning ()
+ Despite advances in the treatment of depression, one-third of system and commonly used antidepressants have a delayed onset of action, further highlighting the need for faster acting, easy available and more effective treatments with Fever, respectively hyperthermia, has been used as a medical treatment since ancient times, and beneficial effects of fever on mental illness were already described in antiquity ()
+ Based on recent findings, there is growing scientific evidence that hyperthermic baths (HTB) and whole body hyperthermia (WBH) might be efficacious for treatment of depressive disorders ()
+ The results of a non-controlled HTB study with 20 depressive patients showed an improvement in the 21-item Hamilton Depression Rating Scale (15) after five baths ()
+ HTB (especially before bedtime) improved sleep in healthy subjects (1619), insomniac people (20,21) and elderly patients with vascular dementia ()
+ In a further non-controlled study using a radiant system to induce WBH, a single session showed a significant reduction in the Centers for Epidemiologic Studies Depression Scale (CES-D) (23) in 16 depressive patients ()
+ In a randomized, sham-controlled study from the same group this favorable result of a single WBH session could be corroborated ()
+ Our results of a randomized placebo-controlled pilot study using HTB compared with a sham light treatment were also promising; after four interventions, the intention-to-treat analysis showed a significant (p = 
+037) difference in the 17-item Hamilton Depression Rating Scale (HAM-D) total score of 
+14 points in favor of the HTB group ()
+ These results suggest that HTB and other forms of WBH can have antidepressant effects
+ They seem to be mediated through changes in circadian rhythm, temperature physiology and sleep, which are disturbed in depressive patients ()
+ Body core temperature in depressed patients is elevated during the night, while sleep quality is best when the core body temperature decreases; thus, change of body temperature might improve sleep quality
+ Findings from experimental studies show that manipulation of core and skin temperatures can improve or disrupt sleep, and it is well-known that sleep disruption negatively influences quality of life depression (,)
+ In addition, a novel hypothesis describes that an evolutionarily ancient thermoafferent pathway, signaling from serotonergic sensory cells in the skin circuits in the brain, is dysfunctional in depressive patients, might explain the After we found HTB to be superior to a sham light therapy (13), our primary objective was to compare the efficacy of HTB with a non-pharmacological physical exercise program (PEP), a proven effective standard intervention, according to guidelines for treatment discontinuation and adverse events (AE)) and feasibility of HTB applied in a vs PEP for patients with a diagnosis of depression according to ICD-10 (F32/F33) of at least four weeks duration
+ Patients were recruited from the Medical Center - University of Freiburg
+ The study was registered in the German Clinical Trials Register (DRKS) with the study
+ The study was conducted in accordance with the Declaration of Helsinki and local laws and regulations
+ All the participants filled in a written informed consent form Eligible participants were to meet the following criteria: (1) Medically stable outpatients with a diagnosis of depressive disorder (ICD-10: F32/F33; criteria for single or recurrent depression without psychotic features) confirmed by a physician or psychotherapist; (2) men and women between18 and 65 years of age; (3) a moderate level of depressive symptoms assessed with the 17-item Hamilton Depression Rating Scale (HAM-D) total score 18 and a score 2 on item 1 (Depressed Mood) at screening and at baseline; (4) on a consistent antidepressant regimen or off antidepressant therapy for at least four weeks prior to baseline; (5) no changes in antidepressant treatment to be expected dissociative personality disorder, suicidal thoughts, abuse of alcohol or other drugs within the last six months, use of -blockers or corticosteroids, open wounds, heat urticaria, pregnancy, lactation, aversion to hot baths and participation in clinical trials in the eight weeks preceding the study
+ We excluded patients over age 65 because HTB Patients subjective perception of depression severity was assessed with the self-report Beck Depression Inventory II (BDI-II) ()
+ Sleep quality was assessed with the self-report Pittsburgh Sleep Quality Index (PSQI) ()
+ Demographic and other clinical data were also collected as part of the baseline assessment, such as gender, age, duration of depression, use of antidepressant drugs, history of depression treatment including past All eligible patients who consented to participate were allocated to HTB or PEP after baseline assessment in a 1:1 ratio by simple randomization without blocking or biometric center
+ Allocation was performed with opaque sealed envelopes that were randomly chosen by the participants
+ Enrolment (RH) was done directly after informed consent was obtained from the patients
+ Both therapies could not be blinded
+ Outcome assessment (IK, LD) was unblinded
+ Data management and analyses were performed Patients were randomly assigned to receive either HTB or PEP for eight weeks with two interventions per week (Table S)
+ Patients were told that two promising treatments HTB were applied as head-out-of-water-immersion in a 40 C pool at a spa center near Freiburg, Germany
+ All the baths were taken in the afternoon (::)
+ Five patients could sit in the pool at a time
+ The baths were taken until the patients noticed discomfort, the target being 20 min
+ Directly after the bath, the patients were accompanied to a nearby resting room, where they lay down on a resting lounger wrapped in warm blankets with two conventional 
+7 l hot water bottles (abdomen, thighs) filled with boiling water (ca
+ 70 C) for at least another 20 min to keep the body temperature elevated
+ After 20 min in a pool with a water temperature of 40 C, a raise in core body temperature of 
+7 C is to be expected ()
+ After four sessions under supervision (IK, LD), the remaining 12 sessions were performed by the patients themselves in the home-setting or at the spa center
+ At home, the baths were taken in a similar way, each bath with a duration and temperature that caused no discomfort or orthostatic reaction as tested with the first four baths
+ The supervisors documented the first four baths; the remaining 12 baths were documented Patients in the PEP group took part in a structured physical exercise program of strengthening elements for about 45-50 min, conducted outside in small groups of five patients each (for details see Table S)
+ The first four sessions took place under supervision (IK, LD; trained in exercise therapy)
+ The following 12 sessions were performed by the patients themselves in groups or alone
+ Training duration and the Type: 6021, Braun GmbH)
+ In the HTB group, the core body temperature was measured directly before and after the bath and after resting; in the PEP group directly before and Unblinded assessments (IK, LD received prior training and were supervised by RH) were performed at the following three time points (for details see Table S1): before start of HTB treatment (T0), immediately on completion of the two-week treatment interval (T1; after four treatments), according to results that effects are supposed to appear early (24) and at the end of treatment (T2; after 16 treatments)
+  The primary outcome was determined to be the change in HAM-D total score at T1 relative to T
+ Further prespecified clinical secondary outcomes were: Severity and change in scores of subjective depression symptoms as measured by the BDI-II; sleep quality as assessed with the self-report PSQI after two and eight weeks
+  After four treatments (T1) and after end of treatment (T2), patients were asked to rate the efficacy and tolerability of the intervention on a 5-point scale (1 = very good; 2 = To estimate the safety of HTB, the incidence of treatment discontinuation and the occurrence of AE were evaluated
+ To answer the feasibility question, information regarding compliance and experiences of the patients were evaluated
+ In order to improve adherence to intervention procedures contact was made by phone after four All AE reported spontaneously by patients or observed by the assistants were recorded before and after each treatment
+ If a serious adverse event (SAE) occurred, the principal investigator took all the necessary and appropriate measures to ensure the safety of the No data on effect size of HTB in comparison to PEP were available; however, from the results of our previous study, we expected a moderate to large effect size for HTB
+ An effect size of d = 
+91 and 1- = 
+80 power was chosen for the study, which required 40 patients (n = 20 per arm) to reach significance with  = 
+ 
+ This estimation was based on the primary outcome of depression symptoms as measured by the HAM-D total score Treatment comparison of the primary endpoint (HAM-D change from baseline to T1) was performed within a generalized linear regression model adjusted for baseline values
+ BDI-II and PSQI were analyzed in the same way
+ Analyses were done on the intention-to-treat (ITT) population, defined as all allocated patients, applying the last-observation-compared using 2-sided t tests for continuous data and 2 statistics
+ The per-protocol (PP) population was defined as all patients who had a complete dataset for the primary outcome and had participated in at least 75 % of the treatments, meaning at least 3 of 4 treatments for T1, and at least 12 of 16 treatments for T
+ We report p-values with the significance level set at p<
+ 
+ The study followed a protocol (Protocol S1-S3) and analyses were not adjusted for multiple comparisons and should therefore be regarded A data manager (CS), blind to treatment allocation, reviewed and evaluated data, in order to detect errors during data collection, and conducted a quality review of the database, with double data entry by two independent persons for 20 % of the values
+ The HTB study began recruiting patients in September 2016 and closed recruitment in January 
+ 69 adults agreed to participate and were assessed for eligibility
+ Of that with more females (p = 
+047), a higher BMI (p = 
+135) and longer duration of depressive disorder in the PEP-group (p = 
+035), (Table )
+ The mean depression severity score based on the HAM-D was 21 (HTB), respectively 22 (PEP), consistent depression assessed by the BDI-II was 29 (HTB), respectively 31 (PEP), consistent with the lowest possible score for severe depression
+ Most patients had depression for several years; the shortest duration of depression was two months, the longest more than 20 years
+ Sleep quality, as measured by the PSQI total score (ranging from 0-21; score 5 associated with good sleep quality; score >5 associated with poor sleep quality), was poor with a total score of 10 (HTB), respectively 11 (PEP)
+ Prescription rates of antidepressants were high at baseline (HTB, 68 %; PEP, 48 %), as well as for Primary outcome data (HAM-D total score after two weeks) were available for 32 patients, representing a loss to follow-up of 29 % (5 % in the HTB group and 52% in the PEP group)
+ Eight patients (HTB n = 1; PEP n = 7) discontinued treatment without receiving their allocated intervention
+ A further five patients (PEP group) withdrew from trial before T1; another two after T1 (HTB n = 1; PEP n = )
+  Use of psychopharmaca, n (%) 26 (58%) 15 (68%) 11 (48%) BMI, Body Mass Index; HAM-D, 17-item Hamilton Depression Rating Scale; BDI-II, Beck  Where not otherwise indicated, data are shown as mean and standard deviation (SD)
+ A bath taken for up to 30 min at a water temperature of 40 C resulted in a rise of core body temperature from 
+7 C before the bath to 
+6 C directly after the bath (mean change 
+96, standard deviation [SD] 
+5, and in it being maintained at 
+4 C (mean change 
+7, SD = 
+5) after rest
+ In the PEP group, there was no difference in core body temperature before or after physical exercise (
+48 C, SD = 
+46, respectively 
+50 The ITT analysis showed a significant adjusted mean difference between the groups of 
+3 points (95% CI 
+16 to 
+42) in the HAM-D score after two weeks in favor of HTB (p<
+001, Table )
+ In PP analyses (75% adherence), this difference was only found as Abbreviations: HAM-D, 17-Item Hamilton Depression Rating Scale; BDI-II, Becks Depression Inventar II; PSQI, * HTB n = 19; PEP n = 9; ** HTB n = 15; PEP n = 7 Abbreviations: HAM-D, 17-Item Hamilton Depression Rating Scale; BDI-II, Becks Depression Inventar II; PSQI, Looking at the mean differences compared to baseline, the HAM-D results show a stable improvement in the HTB group of 
+4 points after two weeks and of 
+9 points after eight weeks, whereas in the PEP group we see an improvement of 
+4 points after two weeks A similar pattern can be seen in the results of the BDI-II, with a mean difference compared to baseline in the HTB group of 
+7 points after two weeks and of 
+5 points after eight weeks
+ The PEP group showed an improvement of 
+0 points after two weeks and of 
+3 points after eight weeks (Figure B)
+ Results of the PSQI show a mean difference compared to baseline of 
+5 points after two weeks and of 
+9 points after eight weeks in the HTB group, and a deterioration of 
+1 points after two weeks and an improvement of 
+7 points after eight weeks in the PEP group (Figure C)
+  greater depression; 0-8 no depression; 9-16 light; 17-24 moderate; 25 severe)
+ PSQI; Pittsburgh Sleep Quality Index (higher scores indicate bad sleep, cutoff  treatment effect in quartiles 3 and 
+ We found a difference of 
+9 (SD = 
+7) for HAM-D 21 at baseline in the HTB group (n = 10) and of 
+4 (SD = 
+1) in the PEP group (n = 5) and a difference of 
+5 (SD = 
+7) for HAM-D 24 at baseline in the HTB group (n = 4) and of 
+0 (SD = 0) in the PEP group (n = )
+ The global judgment by the patients showed no significant differences between the groups, with good to moderate efficacy (HTB 
+6 (SD = 
+2); PEP 
+4 (SD = 
+4); p2-tailed = 
+76) and tolerability (HTB 
+1 (SD = 
+0); PEP 
+6 (SD = 
+7); p2-tailed = 
+16) after four interventions and good to moderate efficacy (HTB 
+1 (SD = 
+0); PEP 
+3 (SD = 
+1); p2-tailed = 
+53) and tolerability (HTB 
+8 (SD = 
+8); PEP 
+7 (SD = 
+7); p2-tailed = 
+66) at Adverse events possibly related to the therapy were reported by 25 patients, of which 18/21 were assigned to the HTB group and 7/11 to the PEP group (Table S)
+ No SAE were reported by either group
+ There was no significant difference between the groups (p2-tailed = 
+ )
+ Typical AE in the HTB group were discomfort during the baths such as dizziness, fatigue, palpitations and thus mainly attributable to the cardiovascular system and indicating that the HTB were applied at a therapeutic limit
+ Additionally, patients worsening of depression and irritability
+ Typical AE in the exercise group were muscle soreness, pain in joints, the lower back or tendons; one patient reported cough and Adverse events that were not related to the treatment but which led to dropout included one patient in the HTB group who was hospitalized before the start of the treatment and six in the PEP group, three of which withdrew because of physical illness and three because of psychiatric hospitalization; three of these before the start of the treatment and the other three during the first two weeks of treatment
+ Treatment related AE resulted in three dropouts in the PEP group (muscle pain); there were no treatment-related dropouts in the HTB group
+ Compliance was good with a medium number of treatments of 
+3 (95% CI 
+6 to 
+9) in the HTB group and of After four sessions under supervision, the remaining 12 sessions were performed without supervision, either in the home-setting or at the spa center as before
+ The results show that HTB can be performed without supervision
+ However, only seven patients attempted to take the baths at home, and their main complaint was that it was difficult to reach the target water temperature of 40 C; thus, they returned to the spa center
+ To our knowledge, this is the first randomized controlled parallel group study to assess the efficacy of HTB compared with PEP in adults with depressive disorder
+ The main finding from this preliminary study is that HTB significantly reduced the HAM-D score compared with PEP
+ It should be emphasized that the onset of treatment response occurred within the first two weeks
+ Commonly used antidepressants, the standard treatment for depression, have a delayed onset of action
+ It requires weeks of treatment before the core symptoms of depression are ameliorated ()
+ In SSRIs (selective induced acute neurochemical effects and clinical effectiveness adds up to four weeks in 75% of responders ()
+ Consequently, HTB could offer a concomitant treatment option to close this gap
+ Exercise as a treatment for depression took six to eight weeks to show an effect (Figure )
+ The between-group difference after two weeks, adjusted for baseline values, was 
+3 HAM-D points (p<
+001), which is a clinically relevant difference
+ As established by the National Institute for Clinical Excellence (NICE) the threshold for clinical relevance is a difference of 3 points on the HAM-D ()
+ As in pharmacological studies, the magnitude of the difference in HAM-D scores between the HTB and the PEP group increased with increasing baseline depression severity
+ These results are supported by the outcomes of the BDI-II, which also showed a significant and clinically relevant improvement with an adjusted mean difference of 
+5 points (p = 
+002), representing a decrease of 30% between the groups in favor of the HTB group after two weeks; however, after eight weeks, the difference was no longer significant (p = 
+ )
+ According to the NICE-guidelines a difference of 3 points in the BDI-II, respectively a decrease of 
+5 % compared to baseline is regarded as clinically relevant ()
+ Whether the improvement in sleep in the HTB group after two weeks as seen in the PSQI is the cause or the consequence of the improvement in depression HAM-D total score was also lower at eight weeks in the HTB group, but high attrition rates reduce confidence in this result
+ The PP analysis showed a trend towards better results in the PEP group at eight weeks
+ This however, may be due to a selection bias as patients with severe depression were hospitalized
+ The patients overall global judgment of efficacy showed no difference between the groups
+ This is similar to the results from Button et al (39), respectively the TREAD trial ()
+ The global rating of change was better only with a corresponding mean change of -
+9 in the BDI-II, whereas a mean change of -
+4 was still regarded as no improvement
+  There were fewer females in the HTB group (59 %) than in the PEP group (87 %); however, in a recent review gender did not modify the antidepressant effect of exercise ()
+ In members of the PEP group, symptoms of depression had lingered for a longer period (eight years) than in those of the HBT group (four years)
+ Because longer duration of depression negatively affects treatment outcome the difference may have Safety concerns existing prior to the study, especially regarding orthostatic dysregulation after HTB in the unsupervised part of the study, were not confirmed
+ Patients in both groups were able to adapt the intensity or duration of the therapy
+ We found a high rate of minor AE in both groups, but there were no SAE
+ In conclusion, HTB performed at a spa center can be regarded as safe and feasible without external supervision, provided that the patients are informed concerning the potential risks, especially regarding orthostatic dysregulation
+ Whether HTB is feasible in the home-setting cannot be answered conclusively, because only a few patients bathed there
+ Although not under investigation, the high attrition rate in the PEP group indicates that physical exercises are not suitable for everyone
+ Our finding of significant efficacy of the HTB intervention The strengths of our study are the randomized, controlled design, the use of standardized baths, the good control of body temperature and the use of established discussed
+ First, the number of dropouts in the PEP group (13 of 23) was far higher than in other trials investigating exercise in depression (
+1 % dropouts) or even in major depression (
+2 %), but with higher baseline depressive symptoms predicting greater dropout ()
+ This might have been due to the fact that dropout rates are likely to be higher in the outpatient than in the inpatient setting ()
+ On the other hand, it indicates that this study population was difficult to motivate to active treatment and that HTB may be an even better accepted form of treatment than exercise
+ Second, because of the small sample size, the study has limited power to detect clinically significant differences between the treatment conditions, especially in subgroup analyses
+ Third, the absence of blinding of treatment conditions, which is inherent and inevitable; due to unblinded outcome assessment a risk for performance bias exists
+ Fourth, it is a well-known fact that the HAM-D total score has pitfalls; however, for better comparability with other studies, we did not use the GRID-HAM-D, e
+ g
+, with better reliability and validity (,)
+ Fifth, the LOCF method for missing values may have led to an overestimation of the Although external validity may be restricted due to the population selected to participate in clinical studies, the population studied here can be regarded as representative of ()
+ Contraindications to HTB are still not well defined
+ Severe concomitant diseases, i
+ e
+ cardiovascular, or orthostatic dysregulation should be omitted, especially in the HTB seems to be a fast-acting and safe method leading to clinically relevant improvement in depressive symptoms after just two weeks
+ Patients can apply the method at their own responsibility and it can also be practiced by patients with problems Replication of the results in a large, confirmative trial would clearly have important implications for public health in that the emotional and financial tolls of moderate to severe depression could be mitigated with a low-cost and easily accessible intervention The authors are grateful to all the participants of the study
+ We thank Tania Lty for The article processing charge was funded by the German Research Foundation (DFG) and the University of Freiburg in the funding programme Open Access The funders had no role in study design, data collection and analysis, decision to 
+  Colton CW, Manderscheid RW
+ Congruencies in increased mortality rates, years of potential life lost, and causes of death among public mental health clients in eight states
+ Prev 
+  Lett HS, Blumenthal JA, Babyak MA, Sherwood A, Strauman T, Robins C, et al Depression as a risk factor for coronary artery disease: evidence, mechanisms, and treatment
+ 
+  Rudisch B, Nemeroff CB
+ Epidemiology of comorbid coronary artery disease and 
+  Sheehan DV, Nakagome K, Asami Y, Pappadopulos EA, Boucher M
+ Restoring function in major depressive disorder: A systematic review
+ J Affect Disord
+ 2017 Jun;:
+  
+  Rush AJ, Trivedi MH, Wisniewski SR, Nierenberg AA, Stewart JW, Warden D, et al Acute and longer-term outcomes in depressed outpatients requiring one or several treatment 
+  Hale MW, Raison CL, Lowry CA
+ Integrative physiology of depression and antidepressant drug action: Implications for serotonergic mechanisms of action and novel 
+  Nierenberg AA, Farabaugh AH, Alpert JE, Gordon J, Worthington JJ, Rosenbaum JF, et al Timing of onset of antidepressant response with fluoxetine treatment
+ Am J Psychiatry
+ 2000 
+  Rantamki T, Yalcin I
+ Antidepressant drug action--From rapid changes on network function to network rewiring
+ Prog Neuropsychopharmacol Biol Psychiatry
+ 2016 Jan ;:
+  Hanusch K, Janssen C
+ Die passive Ganzkrperhyperthermie in der Psychiatrie - Eine Patienten mit depressiven Strungen: Effekte auf die Produktion von Interleukin-6 sowie auf die 
+  Janssen CW, Lowry CA, Mehl MR, Allen JJB, Kelly KL, Gartner DE, et al Whole-Body Hyperthermia for the Treatment of Major Depressive Disorder: A Randomized Clinical Trial 
+  Naumann J, Grebe J, Kaifel S, Weinert T, Sadaghiani C, Huber R
+ Effects of hyperthermic baths on depression, sleep and heart rate variability in patients with depressive disorder: a randomized clinical pilot trial BMC Complement Altern Med [Internet]
+ 2017 [cited 
+  Hanusch K-U, Janssen CH, Billheimer D, Jenkins I, Spurgeon E, Lowry CA, et al 
+  Hamilton M
+ Development of a Rating Scale for Primary Depressive Illness
+ Br J Soc Clin 
+  Bunnell DE, Agnew JA, Horvath SM, Jopson L, Wills M
+ Passive body heating and sleep: 
+  Horne JA, Reid AJ
+ Night-time sleep EEG changes following body heating in a warm 
+  Horne JA, Shackell BS
+ Slow wave sleep elevations after body heating: proximity to sleep 
+  Sung EJ, Tochihara Y
+ Effects of bathing and hot footbath on sleep in winter
+ J Physiol 
+  Dorsey CM, Teicher MH, Cohen-Zion M, Stefanovic L, Satlin A, Tartarini W, et al Core body temperature and sleep of older female insomniacs before and after passive body heating
+ 
+  Dorsey CM, Lukas SE, Teicher MH, Harper D, Winkelman JW, Cunningham SL, et al Effects of passive body heating on the sleep of older female insomniacs
+ J Geriatr Psychiatry 
+  Mishima Y, Hozumi S, Shimizu T, Hishikawa Y, Mishima K
+ Passive body heating ameliorates sleep disturbances in patients with vascular dementia without circadian phase-shifting
+ Am J Geriatr Psychiatry Off J Am Assoc Geriatr Psychiatry
+ 2005 May;():
+  
+  Orme JG, Reis J, Herz EJ
+ Factorial and discriminant validity of the Center for 
+  Gdl R
+ Vernderungen der autonomen Regulation durch berwrmungsbadtherapie bei 
+  Bunney JN, Potkin SG
+ Circadian abnormalities, molecular clock genes and 
+  Bauer J, Hohagen F, Gimmel E, Bruns F, Lis S, Krieger S, et al Induction of cytokine synthesis and fever suppresses REM sleep and improves mood in patients with major depression
+ 
+  Souetre E, Salvati E, Wehr TA, Sack DA, Krebs B, Darcourt G
+ Twenty-four-hour profiles of body temperature and plasma TSH in bipolar patients during depression and during remission and in normal control subjects
+ Am J Psychiatry
+ 1988 Sep;():
+  
+  Avery DH, Wildschidtz G, Rafaelsen OJ
+ Nocturnal temperature in affective disorder
+ J 
+  Harvey AG
+ Sleep and circadian functioning: critical mechanisms in the mood disorders? 
+  Paunio T, Korhonen T, Hublin C, Partinen M, Koskenvuo K, Koskenvuo M, et al Poor sleep predicts symptoms of depression and disability retirement due to depression
+ J Affect 
+  National Collaborating Centre for Mental Health
+ Depression in adults: recognition and management | Guidance and guidelines | NICE [Internet]
+ [cited 2018 Jan ]
+ Available from: 
+  DGPPN, BK, KBV, AWMF (Hrsg
+) fr die Leitliniengruppe Unipolare Depression*
+ 
+  Beck AT, Ward CH, Mendelson M, Mock J, Erbaugh J
+ An Inventory for Measuring 
+  Buysse DJ, Reynolds III CF, Monk TH, Berman SR, Kupfer DJ
+ The Pittsburgh sleep quality index: A new instrument for psychiatric practice and research
+ Psychiatry Res
+ 1989 
+  Hertzog MA
+ Considerations in determining sample size for pilot studies
+ Res Nurs 
+  Boutron I, Moher D, Altman DG, Schulz KF, Ravaud P
+ Extending the CONSORT 
+  Zimmerman M, Martinez JH, Young D, Chelminski I, Dalrymple K
+ Severity classification on the Hamilton depression rating scale
+ J Affect Disord
+ 2013 Sep ;():
+  
+  Button KS, Kounali D, Thomas L, Wiles NJ, Peters TJ, Welton NJ, et al Minimal clinically important difference on the Beck Depression Inventory - II according to the patients 
+  Chalder M, Wiles NJ, Campbell J, Hollinghurst SP, Searle A, Haase AM, et al A pragmatic randomised controlled trial to evaluate the cost-effectiveness of a physical activity intervention as a treatment for depression: the treating depression with physical activity 
+  Schuch FB, Dunn AL, Kanitz AC, Delevatti RS, Fleck MP
+ Moderators of response in exercise treatment for depression: A systematic review
+ J Affect Disord
+ 2016 May ;:
+  
+  Blom MBJ, Spinhoven P, Hoffman T, Jonker K, Hoencamp E, Haffmans PMJ, et al Severity and duration of depression, not personality factors, predict short term outcome in the 
+  Stubbs B, Vancampfort D, Rosenbaum S, Ward PB, Richards J, Soundy A, et al Dropout from exercise randomized controlled trials among people with depression: A meta-analysis and 
+  Williams JBW, Kobak KA, Bech P, Engelhardt N, Evans K, Lipsitz J, et al The GRID-HAMD: standardization of the Hamilton Depression Rating Scale
+ Int Clin Psychopharmacol
+ 
+  Bech P
+ Rating scales in depression: limitations and pitfalls
+ Dialogues Clin Neurosci
+ 
+  McCambridge J, Witton J, Elbourne DR
+ Systematic review of the Hawthorne effect: new concepts are needed to study research participation effects
+ J Clin Epidemiol
+ 2014 Text S1 (DOC): CONSORT extension for pilot and feasibility trials checklist 

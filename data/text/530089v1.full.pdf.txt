@@ -1,0 +1,1148 @@
+Rice bran supplementation modulates growth, microbiome and metabolome in weaning infants: a clinical trial in Nicaragua and MaliRice bran supplementation modulates growth, microbiome and metabolome in weaning 2 Luis E
+ Zambrana1,2, Starin McKeen1, Hend Ibrahim1,3, Iman Zarei1, Erica C
+ Borresen1, 5 Lassina Doumbia4, Abdoulaye Bore4, Alima Cissoko4, Seydou Douyon4, Karim Kone4, 6 Johann Perez2, Claudia Perez2, Ann Hess5, Zaid Abdo6, Lansana Sangare4, Ababacar 7 Maiga4, Sylvia Becker-Dreps7, Lijuan Yuan8, Ousmane Koita4*, Samuel Vilchez2*, & 8 2Center of Infectious Diseases, Department of Microbiology and Parasitology, Faculty of 12 3Department of Medical Biochemistry, Faculty of Medicine, Zagazig University, Zagazig, 15 4Laboratoire de Biologie Molculaire Applique, Campus de Badalabougou, Universit des 17 Sciences, des Techniques et des Technologies de Bamako, BP: 1805, Bamako, Mali 18 5Department of Statistics, Colorado State University, Fort Collins, CO 80523, USA
+ 20 6Department of Microbiology, Immunology and Pathology, Colorado State University, Fort 21 7Departments of Family Medicine and Epidemiology, University of North Carolina at 23 Veterinary Medicine, Virginia Polytechnic Institute and State University, Blacksburg, VA, 26 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    Dietary rice bran supplementation during infant weaning from 6-12 months of age 53 The authors declare no competing financial or non financial interests to disclose as defined 57 by Nature Research
+  There are also no other interests that might be perceived to influence 58 Correspondence and requests for materials should be addressed to Dr
+ Elizabeth Ryan 61 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    Rice bran supplementation provides nutrients, prebiotics and phytochemicals that enhance 80 gut immunity, reduce enteric pathogens in mice and diarrhea in neonatal pigs, and 81 warranted attention for improvement of environmental enteric dysfunction (EED) in 82 children at risk
+ EED is a condition that drives childhood stunting via intestinal dysbiosis 83 and impaired nutrient metabolism
+ This study investigated effects of rice bran 84 supplementation on growth, EED biomarkers, gut microbiome and metabolome in weaning 85 infants from 6 to 12 months old in Nicaragua and Mali
+ Healthy infants were randomized to 86 a control group or rice bran group that received daily supplementation at increasing doses 87 each month
+ Stool microbiomes were characterized using 16S rDNA amplicon sequencing
+ 88 tandem mass-spectrometry
+ Statistical comparisons were completed at 6, 8, and 12 months 90 of age
+ Daily consumption of rice bran was safe and feasible for infant growth, decreasing 91 alpha-1 antitrypsin levels, and modulating gut microbiome and metabolome when 92 compared to control
+ Rice bran merits investigation as a practical intervention strategy that 93 could decrease EED prevalence and risk for children from low- and middle-income 94 countries where rice is grown as a staple food, and bran is used as animal feed or wasted
+ 95 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    The prevalence of malnutrition in low and middle-income countries (LMIC) has 102 negative consequences on growth of children during the first five years of life and has 103 lifelong health consequences ,
+ There is an increased risk of death among children under 5 104 years of age due to underweight, stunting, or wasting conditions ,
+ Risk factors for 105 undernutrition may include, but are not limited to: low birth weight, inadequate 106 diseases are also some of the primary causes of undernutrition in children under five years 108 Environmental enteric dysfunction (EED) is an acquired subclinical condition of the 110 small intestine among LMIC children -
+ Chronic exposure to enteric pathogens early in 111 life is one likely contributor to EED 
+ The altered gastrointestinal functions in EED 112 include intestinal nutrient malabsorption and increased intestinal permeability that leads to 113 protein loss ,
+ Infant weaning has been identified as a critical window for intervention 
+ 114 Previous intervention efforts in young children have targeted micronutrient deficiencies, 115 such as Vitamin A, Zn and Fe 13-16, oral rehydration salts for treating diarrhea 17, 116 antimicrobial use 18,19, and community hygiene improvements 
+    117 Rice bran is a nutrient dense food with bioactive phytochemicals shown to prevent 118 enteric pathogens and diarrheal disease in mice and pigs 21-24, and favorably promotes gut 119 health in adults ,
+ The effect of rice bran supplementation on host resistance to enteric 120 infections and enhanced gut mucosal immunity was demonstrated for Salmonella enterica 121 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    Typhimurium 23,24, rotavirus 27-29, and norovirus 
+ Rice bran merits attention because it is 122 widely available for consumption globally 30, and particularly in LMIC regions where EED 123 Stool EED biomarkers, gut microbiome 32 and metabolome analysis 15,33 became 125 important surrogate markers for analysis as intestinal tissue from infants is not easily 126 accessible to evaluate
+  Stool myeloperoxidase (MPO) 34, calprotectin (CAL) 35, and 127 neopterin (NEO) 36 are indicators of inflammation; and alpha-1-antitrypsin (AAT) 34 is an 128 indicator of barrier lumen disruption
+ Chronic, elevated concentrations of all four 129 biomarkers have been associated with poor linear growth in infants up to 24 months old 130 10,34-36, and as the gut microbiome is maturing over the first 3 years of life ,
+ Gut 131 microbiome composition and metabolism is influenced by delivery mode, environment, and 132 nutrition ,
+ Recent studies have demonstrated that malnutrition and immature 133 microbiomes of infants are only partially, and temporarily improved by some nutritional 134 interventions ,
+ The nutritional composition and metabolic profile of rice bran, which 135 comprises a large suite of bioactive molecules, showed benefits in animal studies that 136 provided important rationale for investigation of dietary feasibility in weaning infants and 137 The major objective of this study was to investigate effects of dietary rice bran 139 supplementation during infant weaning on growth, EED biomarkers, gut microbiome and 140 metabolome from six to twelve months of age in Nicaragua and Mali
+ The findings support 141 that daily consumption of rice bran for six months is tolerable, safe and feasible for children 142 during weaning and was associated with improved growth and decreased gut permeability 143 via favorable modulation of the gut microbiome and metabolome
+  144 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    Rice bran supplementation is safe and feasible for weaning infants 147 Daily rice bran consumption was completed in a randomized controlled trial with 148 infants from 6 to 12 months of age
+ To study the effect of daily rice bran supplementation 149 on the gut, monthly stool samples from 47 Nicaraguan and 48 Malian children were 150 collected (average of 7 samples per child, total of 567 samples)
+ The flow and number of 151 infants from study recruitment to study completion is shown in Fig
+ 
+ Baseline participant 152 characteristics for Nicaragua and Mali are shown in Table 
+ We collected information on 153 demographic factors and infants household characteristics
+  In Nicaragua, 
+2% of infants 154 were born via caesarean section in the control group and 
+4% in the rice bran group
+ All 155 participants from Mali were delivered vaginally
+ For breastfeeding status, 96% of the 156 control group and 83% in the rice bran group were consuming breast milk at six months old 157 in Nicaragua and all children in the Mali group were consuming breast milk at the 158 beginning and throughout the study
+ Of the 95 infants enrolled, 52 received antibiotics with 159 87 total antibiotic courses in the six-month period
+ Most courses consisted of systemic 160 antibiotics given orally, with some delivered by injection for respiratory, skin, ear or 161 Dietary compliance to rice bran was averaged per month during the 6-month 163 intervention with no adverse events related to rice bran intake at the increasing doses over 164 time
+ Compliance to the rice bran intervention in Nicaragua was 90% and in Mali was > 165 %
+ The feasibility and tolerability for infants to consume rice bran at increasing doses (1-166 5g/day) over the six month study period was demonstrated when mothers fed rice bran 167 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    powder alone or reported consumption with drinking water, staple grain porridges (i
+ e
+ 168 millet, sorghum, and white rice), soups, milk, fruits, juices, eggs, and fish when available
+ 169  Anthropometric data was collected using standardized procedures across study sites 171 at 6, 8, and 12 months of age for each child and included length-for-age Z-score (LAZ), 172 weight-for-age Z-score (WAZ) and weight-for-length Z-score (WLZ)
+ Table 2 reports the 173 z-scores analyzed by repeated measures and adjusted by treatment (rice bran) and age (6-8 174 months and 8-12 months) by country
+ Significant differences were observed for 175 anthropometric measures between treatment, and ages in both cohorts
+ In Nicaraguan 176 infants consuming rice bran, LAZ was significant over time (
+18 at 6-8 months, p-value= 177 
+0000; 
+35 at 8-12 months, p-value= 
+0002) and for WLZ at 6-8 months (p-value= 178 
+0000), with no changes detected in WAZ
+  Malian infants consuming rice bran had 179 significant growth results for WAZ (6-8 months, p-value= 
+0001, 8-12 months, p-value= 180 
+0175) and WLZ (6-8 months, p-value= 
+0141, 8-12 months, p-value= 
+ )
+ Fig
+ 2 181 displays LAZ, WAZ and WLZ over time and by country
+ The significant increase in LAZ 182 at 8 months and 12 months in Nicaraguan infants that consumed rice bran was compared to 183 control group (Fig
+ 2A, p<
+ )
+ No significant differences were observed for WAZ and 184 WLZ with this control group comparison (Fig
+ 2B and C)
+  185 Four EED stool biomarkers were selected for analysis at 6, 8 and 12 months of age 187 using ELISA (see materials and methods)
+ A significant decrease in AAT was observed at 188 12 months of age (p=
+0368) in Nicaragua infants that consumed rice bran compared to 189 control (Table )
+ No significant differences were detected in NEO, MPO and CAL 190 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    between treatment groups, however a slight decrease in median concentrations of all stool 191 EED biomarkers were observed in the rice bran group compared to control in both 192 countries that can be applied for future study sample size and power calculations
+    193 Rice bran modulates gut microbial communities in Nicaraguan and Malian infants 194 The microbiome was characterized and compared for 48 Malian and 47 Nicaraguan 195 infants at 8 and 12 months of age in the rice bran and control study groups
+ DNA was 196 isolated from stool samples and the V4 hypervariable region of the 16S rRNA gene was 197 sequenced utilizing the Earth Microbiome Project protocol -
+ Sequences were 198 preprocessed for quality assurance and classified into operational taxonomic units (OTUs) 199 (see materials and methods), and the results were integrated to construct family and genus-200 level composition profiles for all 192 samples from both countries
+ No major differences 201 were detected in alpha diversity indices (Observed, Shannon, InvSimpson and Richness) 202 calculated for rice bran group and control group at 8 and 12 months (Table S)
+ Beta 203 diversity analysis, depicted in the Nonmetric Multidimensional Scaling (NMDS) plot based 204 on the Bray-Curtis distance measure, indicated complete country-level separation in the 205 overall gut microbial community composition (Fig
+ A)
+ This provided rationale for 206 separating analyses for the microbiome and metabolite profiles by country
+ 207 Fig
+ 3B shows the NMDS plot separated by country
+ This figure highlights 208 differences in the microbiome between two time periods, 8 and 12 months, which is more 209 pronounced in the Malian samples
+ These figures show overlap of microbiomes within each 210 time period indicating putative similarity between the microbial community structures 211 during growth periods
+ This overlap was observed to a greater level at 8 months of age as 212 compared to 12 months that may illustrate microbial adaptation to new exposures 
+  213 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    Fig
+ 4 illustrates the taxa (on the OTU level) with at least 2 log-fold change between 214 the rice bran and control groups per country and per age group
+ These taxa were ordered 215 based on significance, measured by the FDR-adjusted p-value, from bottom (most 216 significant) to top (details are provided in Table S2 for Nicaragua and Table S3 for Mali)
+  217 Given the measurable differences in growth between groups by 8 months of age, the effect 218 of daily dietary supplementation of rice bran on the infant microbiome was compared to the 219 In Nicaragua, we identified 145 OTUs that were significantly different between 221 control and rice bran across the samples (Table S2), 74 of which showed greater than or 222 equal to 2 log fold differences between rice bran and control groups at 8 or 12 months (Fig
+ 223 4A, adjusted p-value <
+ )
+ Seven of these 74 OTUs overlapped between the ages 8 and 224 12 months
+ In Mali, 42 bacterial OTUs were identified to significantly differ between 225 control and rice bran across samples, and 19 showed more than 2 log fold changes between 226 rice bran and control at 8 or 12 months (Fig
+ 4B, adjusted p-value < 
+05) with only three 227 overlapping between the two age groups
+  Next we explored the country specific changes in 228 genus level taxa that were responsive to rice bran intake
+ For Nicaraguan infants (Table 229 S2), the notable rice bran responsive taxa which increased at 8 months of age compared to 230 Veillonella (11different OTUs, log-FC > 
+0, adjusted p-value < 
+05), and Bacteroides 234 (log-FC > 
+0, adjusted p-value < 
+ )
+  The fold difference for genus level taxa that were 235 lower in relative percent abundance for rice bran group were Bacteroides-Otu0192 (log-FC 236 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    (log-FC -
+49, adjusted p-value 
+0029) and Ruminococcaceae_2 (log-FC -
+69, adjusted p-240 In Mali infants, (Table S3), there were 2-fold increased differences observed for 242 rice bran fed infants in Lactobacillus-Out0356 (log-FC 
+2, adjusted p-value  
+35E-09) and 243 There were also distinctions among taxa between the infant gut microbiomes that was 245 observed by age and country with respect to rice bran intake
+  At 12 months of age, the 246 Nicaragua rice bran group had increased Paraprevotella (log-FC 
+2, adjusted p-value 247 (log-FC 
+35, adjusted p-value  
+30E-07) and Bifidobacterium (log-FC 
+6, adjusted p-249 value 
+ E-)
+ Lower abundant taxa in rice bran infants at 12 months from Nicaragua 250 Alisonella (log-FC -
+0, adjusted p-value 
+ E-)
+ Malian rice bran fed infants at 12 252 months of age showed increased Lactobacillus_Otu0053 (log-FC 
+7, adjusted p-value 253 
+0098) and Alloprevotella (log-FC 
+6, adjusted p-value 
+ )
+ The significantly 254 decreased fold difference in taxa of Malian infants between rice bran and control groups at 255 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    There were 12 OTUs identified as rice bran responsive from this microbial 259 community analysis that showed changes in both Mali and Nicaragua at either 8 or 12 260 months of age when compared to control
+ The highest area of overlap occurred for both 261 taxa that overlapped between countries with respect to rice bran intake included three 263 Metabolomics identified rice bran and microbial digested rice bran small molecules in 265 A total of 309 stool samples were collected from this 6-month prospective study to 267 evaluate effects of rice bran supplementation compared to control infants from Nicaragua 268 and Mali
+ ANOVA contrasts and Welchs two-sample t-test were used to identify 269 biochemicals that differed significantly between experimental groups at the 8-month time 270 point
+ Stool metabolite analysis of children at 8 months of age in Nicaraguan and Malian 271 infants resulted in the detection of 1449 biochemicals, of which 1016 metabolites had 272 confirmed names and 433 compounds were of unknown structural identity (see Table S)
+ 273 Table 4 lists the fold differences calculated from the relative abundances of each stool 274 metabolite between study diet groups at 8 months of age, whereby infants had been 275 consuming rice bran daily for 2 months
+  There are 39 (Nicaragua) and 44 (Mali) stool 276 metabolites with significant fold differences between children consuming rice bran 277 compared to control
+ There were also 33 and 31 significantly different metabolites between 278 groups that were classified as unknown for Nicaraguan and Malian infants respectively, 279 (data shown in Table S)
+ Significant fold differences occurred for 15 amino acids, 2 280 peptides, 3 carbohydrates, 9 lipids, 1 cofactor and vitamin, and 9 xenobiotics (six of these 281 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    considered as food components/plant-derived) in children consuming rice bran compared to 282 control in Nicaragua
+  In Mali at 8 months of age, there were 6 amino acids, 1 energy, 14 283 lipids, 6 cofactor and vitamins, 5 nucleotides and 12 xenobiotics (7 classified as food 284 components/ plant-derived) that showed significant differences in children consuming rice 285 There were 62 stool metabolites from the Nicaraguan cohort at 8 months that 287 showed significantly lower relative abundances (comparing fold differences between rice 288 bran compared to control), and there were 10 significant stool metabolites with increased 289 fold differences in abundance between groups
+ The stool metabolites of food and nutritional 290 importance to highlight that resulted from increasing rice bran intake come from the 291 In contrast to Nicaragua, there were 54 distinct stool metabolites from the Mali 294 cohort that had increased abundance and significant fold differences at 8 months between 295 rice bran and control infants
+ Selected stool metabolites for gut health and nutrition 296 relevance, as well as for originating from rice bran food metabolites, included Alpha-297 tocotrienol (vitamin E component), Pyridoxine (vitamin B6), Ferulic acid 4-sulfate, tyrosol, 298 and N-acetyl sphingosine (Table )
+  An estimated false discovery rate (q-value) was 299 calculated to account for the multiple comparisons across metabolites that are typical of 300 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    This study demonstrated that rice bran supplementation was feasible, well tolerated, 304 and safe for weaning infants with strong compliance to daily dietary intake in both LMIC 305 countries
+ Rice bran supplementation in the diet supported growth of Nicaraguan and 306 Malian infants with differences detected between groups by 8 months of age and improved 307 gut permeability at 12 months
+ Nicaraguan infants fed rice bran had increased LAZ 308 compared to the control, and in Mali, there was increased WAZ
+  Based on documented 309 country-wide averages using the WHO scoring index 12, the 95 healthy infants enrolled in 310 this study had slightly higher WAZ, LAZ and WLZ scores
+    311 There is a growing body of scientific evidence for a strong relationship between 312 EED and growth deficits in children ,,
+ EED biomarkers were selected in this study 313 because high concentrations of stool AAT and MPO were associated with decreased growth 314 in children 47, and Naylor et al found that elevated AAT levels were associated with 315 decreased oral rotavirus vaccine response 
+ Rice bran was shown to reduce AAT in 316 neonatal pigs challenged with human Rotavirus infection 22 and is of translational 317 importance herein as rice bran intake improved AAT levels in Nicaraguan infants (Table 318 )
+ The lack of significant differences in levels of EED biomarkers for Mali may be due to 319 the higher number of overall diarrheal episodes, the level of variability within individuals, 320 and breastfeeding over time and across groups, yet these findings did concur with 321 concentrations reported in the MAL-ED cohort 
+ EED biomarkers merit continuous 322 review for relevance with growth outcomes due to extensive global variability in 323 A study limitation and possible confounder of rice bran modulation to infant gut 325 measures was that the percentage of exclusively breastfed infants was lower and delivery 326 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    mode varied in the Nicaragua cohort (<50%) between groups, which was in contrast to the 327 Mali site that had 100% of children that were breastfed and had vaginal delivery
+ These are 328 key considerations to evaluating microbiomes of children with EED that have been 329 characterized as less mature 52, and with varied structure by geographical location 53, diet 330 deficiencies 54-58, environmental exposures 53,59,60 and host factors ,
+ Thus, we did expect 331 changes in both the stool microbiome and metabolome that occurred over time with growth, 332 and notably the microbial taxa and metabolites associated with the improved growth in rice 333 bran groups also differed at 8 months in both countries
+   334 Given that dietary rice bran intake has been previously shown to promote beneficial 335 stool microbial communities, such as native gut probiotics in mice 23,62, pigs 21,22,29 and 336 adults 25,63,64, we first evaluated significant genus level taxa differences between rice bran 337 and control fed infants at 8 months and 12 months of age from both countries
+ In 338 Veillonella were identified as responsive following rice bran consumption compared to an 340 age and control matched group
+ These taxa have recognized saccharolytic mechanisms of 341 action 65-67, are known to produce and promote crossfeeding of short chain fatty acids 68,69, 342 as well as provide competitive inhibition of pathogen colonization ,
+  The microbial 343 enrichment of these communities as associated with infant growth outcomes has 344 implications for assessing how gut microbes metabolize rice bran components
+ In Mali, the 345 increased relative abundance of Lactobacillus in rice bran fed infants is also highly 346 consistent with prior studies in young animals, and should be considered alongside 347 evidence that human milk oligosaccharides also promote Lactobacillus in breastfed infants 348 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    Stool metabolites from infants fed rice bran showed significant fold differences 350 amongst several essential amino acids, cofactors and vitamins, lipids, phytochemicals, and 351 in energy metabolism pathways compared to the control groups
+ Stool metabolites 352 originating from rice bran were identified in both Nicaragua and Malian infants, providing 353 additional confirmation of compliance to the dietary intervention 
+  As predicted, we 354 observed and reported exceptionally distinct profiles for both the stool microbiome and 355 metabolome composition of infants between Mali and Nicaragua at all ages 40,53,74 and 356 therefore separately discussed the response to rice bran supplementation by region
+  For 357 example, the nearly 5-fold increased stool detection of indolepropionate in rice bran infants 358 compared to control from Nicaragua represents a tryptophan metabolite produced by the 359 gut microbiota that may influence the developing immune system and intestinal 360 equal to L-methionine) and N-formylmethionine in Malian infants also represented rice 362 bran derived amino acids required for normal growth and development 
+  There are several 363 cofactors and vitamins from rice bran supplementation, such as alpha and gamma-364 tocotrienol and pyridoxine (vitamin B6) that merit attention for demonstrating multiple 365 health benefits such as synthesis of amino acids and neurotransmitter precursors, as well as 366 preventing anemia and skin problems ,,
+ Additional microbial digested food 367 components in the stool metabolome that come from rice bran were ferulic acid 4-sulfate, 368 indoleacetylaspartate, and Tyrosol
+  A study limitation is that we had only supplemented for 369 a 6 month window and according to WHO, growth assessment should be standardized and 370 compared globally over the first two years of life 80,81 
+ We put forth that rice bran 371 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    metabolism by host and gut microbes between 12-36 months of age should be captured for 372 the continuous assessment and influence on growth velocity during childhood 
+ 373 Furthermore, the increased separation noted between 8 and 12 months in this study 374 showed modifications in gut microbial communities and metabolites by rice bran intake, 375 and suggests there will be long-term impact on the overall microbiome composition as it 376 continues to develop and mature 
+ The overall dietary pattern differences between mothers 377 and infants weaning practices in each country were also considered a major source of 378 variation as dietary diversity of gut microbe-food interactions were clearly observed in the 379 stool metabolite profiling (see Table S)
+ Nevertheless, rice bran consumption was well 380 tolerated at increasing dose supplementation amounts during the first 6 months of weaning 381 This was the first randomized controlled trial of rice bran supplementation in LMIC 383 infants and provides compelling rationale for continued follow-up investigation of rice bran 384 supplementation for reducing risk of malnutrition, as well as for eliciting changes during 385 child growth that protect against enteric pathogens and diarrhea
+ The dose and feasibility 386 outcomes from this study support development of rice bran based complementary weaning 387 foods
+ Our findings also suggest that double blinded-controlled trial study designs with 388 larger infant cohorts are warranted for long-term outcomes to be assessed until five years of 389 age
+ Incorporating rice bran from local rice production and processing facilities should be a 390 priority in subsequent trial designs, and with the goal of supporting the development of 391 sustainable and affordable food products for weaning infants, particularly those residing in 392 in LMIC where food and nutritional security remain
+    393 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    was conducted in a cohort of weaning infants residing in Len, Nicaragua and in the 398 community of Dioro, Mali, West Africa
+ Nicaraguan infants were recruited from public 399 health rosters provided by the local Health Ministry from Perla Maria and Sutiava health 400 sectors, and Malian infants were recruited from the Dioro Community Health Center
+ To be 401 eligible, infants were screened between 4-5 months of age for health status, and then 402 followed weekly for diarrhea episodes
+ Participants were excluded if they had experienced 403 diarrhea or received antibiotic treatment within the previous month; had known allergies, or 404 been hospitalized; and/or enrolled in a malnutrition treatment program
+ In Nicaragua, all 406 eligible participants received 3 doses of the rotavirus vaccine per regular administration 407 through the Immunization Program 
+ Rotavirus vaccination was not yet administrated to 408 the Mali cohort
+ All Malian participants received vitamin A supplementation upon 409 enrollment
+ Dietary intervention with rice bran started when infants were 6 months of age 410 because WHO guidelines promote exclusive breastfeeding for the first six months of life 411 The required ethical board reviews and approvals were completed for Mali and 413 Nicaragua as provided by the Internal Review Board (IRB) of the Colorado State 414 University Research Integrity and the Compliance Review office
+ In Mali, the Institut 415 National de Recherche en Sant Publique (National Institute of Research in Public Health, 416 FWA 00000892) approved the intervention, which occurred between October 2015 and 417 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    May of 2016 and registered at clinicaltrialgov as (NCT02557373) on 23 September 
+ 418 Ethical review and approvals for the Nicaraguan intervention that occurred between March 419 2015 and October 2015 were provided by the IRBs of the Universidad Nacional Autnoma 420 de Nicaragua  Len, University of North Carolina at Chapel Hill, and Virginia Polytechnic 421 Institute and State University and registered at clinicaltrialgov on 26 November 2105 as 422 (NCT)
+ Written informed consent was obtained from the infants parent or 423 responsible guardian prior to any data collection
+ Infant participants that met the eligibility 424 criteria were randomized within each health sector, and sex (Nicaragua) and geographic 425 location of household and sex (Mali) to either rice bran or control group (see Fig
+ S1 for 426 enrollment details)
+   Randomization was completed using sequential enrollment for each 427 site independently
+  Participants were randomized by CSU, enrolled and assigned to groups 428 by study coordinators in each country
+  Complete study protocol is available online 429 (USDA-ARS) Dale Bumpers National Rice Research Center provided rice bran that was 435 polished from the U
+ S
+ variety, Calrose
+  Rice bran is prone to fat oxidation and heat-436 stabilization was performed to increase shelf-life by heating the bran at 100 degrees Celsius 437 for five minutes to inactivate the lipase/lipoxygenase enzymes that cause rancidity 
+ The 438 rice bran was sifted to remove any debris (rice husk, rice grain)
+ Packaging of the rice bran 439 was completed by Western Innovations, Inc
+ (Denver, CO) where 22 kg of rice bran was 440 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    weighed into 1g increments, separated into water-proof sachets, and heat-sealed to ensure 441 the rice bran would be administered with accurate doses to infants
+ 442 Fourteen sachets (1g/sachet) were filled into a 4 x 3 x 2 box that was labeled for 443 study participants and included nutrient information
+  These boxes were stored in a cool, 444 dark, dry place until they were provided to study participants
+ 445  The study team (doctor, nurse and study coordinator) in Nicaragua and the 447 community health workers (CHWs) in Mali provided a 2-week supply of rice bran at each 448 routine home visit and instructed the participants parent or guardian to add the daily 449 amount of rice bran to the participants food
+  At 6-7 months of age, participants in the rice 450 bran group consumed 1g of rice bran/day (1 sachet)
+  Between the ages of 7-8 months, 451 participants consumed 2g of rice bran/day (2 sachets)
+  At 8-10 months of age, participants 452 consumed 3g of rice bran/day (3 sachets)
+ The amount increased to 4g of rice bran/day (4 453 sachets) from 10-11 months, and 5g of rice bran/day (5 sachets) from 11-12 months of age, 454 respectively
+ The rice bran was added to appropriate weaning foods, such as rice cereal, 455 yogurt, fruit and natural juices, vegetables, and soups
+  At the beginning of the intervention 456 (six months of age), infants parents or guardians were instructed and monitored daily for 457 one week by study personnel to ensure that guardians knew how to administer and record 458 the amount of rice bran consumed
+ Compliance to the rice bran intervention was calculated 459 from records that had the dose/amount of rice bran consumed circled in daily increments of 460 none (0%), half (50%), or all (%)
+  The study team also collected any unused boxes or 461 sachets during these visits
+  Participants in the control group did not receive any rice bran 462 and there were no reports of brown rice intake during the 6-month study duration
+  463 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;     In Nicaragua, study personnel visited all infants weekly
+  In Mali, the CHWs visited 464 each participants household daily for the duration of the 6-month study to assess 465 compliance and diarrhea episodes
+ If a participant had a diarrhea episode, the study team 466 would collect a stool sample, and collect information that included the diarrhea onset date, 467 how long the episode lasted, numbers of bowel movements within 24 hours, any associated 468 signs and symptoms (e
+ g
+ nausea, vomiting, fever), if any other family members had 469 diarrhea, and if any treatment was provided (e
+ g
+ antibiotics, rehydration)
+  470 The study team in Nicaragua collected data for control group participants at 6, 8, 471 and 12 months old, and rice bran group every month
+  The anthropometric measures 472 (weight and length) were collected via a portable stadiometer and weighing balance
+  Mali 473 participants visited the Community Health Clinic every month
+ Length was measured in 474 supine position using a reclining length-board
+ Length was collected to the nearest 475 centimeter and weight to the nearest 
+1 kg
+  Anthropometric measures were calculated for 476 LAZ, WAZ, and WLZ scores following the World Health Organizations (WHO) child 477 growth standards using the WHO Anthro software (version 
+ 
+2) 
+ 478  Diapers were provided to all study participants
+ Stool was collected directly from 479 soiled diapers
+  Freshly collected stool was diluted 20-fold and homogenized in a sterile 480 pre-reduced anaerobic saline - 
+1 M potassium phosphate buffer (pH 
+2) containing 20% 481 glycerol (vol/vol)
+ Four aliquot suspensions were prepared in 15 mL falcon tubes, 482 transported on dry ice to the UNAN-Len-Center of Infectious Diseases Laboratories (and 483 liquid nitrogen in Bamako ,Mali), immediately transferred to a -80C freezer, shipped in a 484 liquid nitrogen chilled dry shipping dewar to Colorado State University, where they were 485 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;     A study questionnaire was completed by the participants caretaker (e
+ g
+ mother, 487 father, or grandparent) to assess for duration of breastfeeding, types of and timing of 488 introductions to complementary foods, as well as antibiotic use
+  The breastfeeding 489 questions included whether or not the child was receiving breast milk, and/or had the child 490 been receiving received formula
+  The complementary feeding history included a list of 491 common Nicaraguan and Malian foods that are normally introduced to infants during 492 weaning
+  Infants parents or guardians recorded how often the infant consumed each of the 493 eleven foods
+  The questionnaire also recorded if a participant had received treatment with 494 antibiotics since the last visit, the reason for taking the antibiotic, the name of the antibiotic, 495 as well as the length of time the participant had been taking the antibiotic
+  A household 496 survey was also completed at the beginning of the trial to collect mothers education level, 497 drinking water source, household flooring type, and animals present in the household
+ 498 Analysis of breastfeeding and formula feeding patterns, complementary feeding practices, 499 and associations with nutritional status at 6-months old (i
+ e
+ baseline) were previously 500 reported for Nicaragua 
+ Monthly visits to the Mali community health clinic provided 501 monitoring for malnutrition and severe adverse events; no adverse events were reported in 502 the rice bran intervention group
+ There was one participant death reported in the control 503 group (respiratory infection) and another withdrew to receive malnutrition treatment in the 504 second month of the study
+ Diarrheal episodes were recorded, and a sample was collected 505  Stool biomarkers were selected to report gut inflammation and epithelial integrity as 508 indicators of EED
+  These included neopterin (NEO), myeloperoxidase (MPO), 509 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    calprotectin, (CAL) and alpha-1 antitrypsin (AAT) 
+ Suspended stool samples from 6, 8, 510 and 12-month collections were centrifuged at 3,000 RPM to remove debris, following 511 protocols included in commercial kits were followed
+ Concentrations of CAL were 514 determined at a 1:360 final dilution factor (Eagle Biosciences- Nashua, NH
+ Ref: CAL35-515 K)
+ Samples were diluted to 1:100 for determination of NEO concentrations (GenWay 516 Biotech Inc- San Diego, CA, USA)
+ MPO concentrations were determined at a 1:500 517 dilution factor (Immundiagnostik AG- Bensheim, Germany)
+ Samples were diluted to 518 Germany), and dilution factors accounted for stool suspension ratios (-fold)
+ Final 520 concentrations were determined from averages of replicate assays and duplicate optical 521 density readings, and interpolated using Graphpad 
+0 according to standards measured on 522 The infant stool was collected at 6, 8 and 12 months of age from diapers and placed 525 in a 1:19 ratio with Phosphate Buffered Saline + Glycerol solution
+ Diarrhea samples were 526 collected using the same protocol
+ Suspended stool samples were vortexed before 527 centrifuging at 3000 RPM to separate the stool debris
+ The remaining supernatant was used 528 whereas; DNA was extracted for 16S microbial analysis from the stool pellet
+ DNA 530 extraction was conducted using MoBio PowerSoil Kit (Reference number 12888, MoBio 531 Laboratories Inc
+, Solana Beach, CA)
+ PCR amplification of 390 bp amplicons was done in 532 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    50 l reaction using Fischer Hot Start Master Mix and EMP standard protocols  -
+  SPRI 533 magnetic beads were used to purify DNA, and flourimetric quantification of Sybr Green 534 tags was used to confirm adequate concentration of DNA
+ The pooled library was created 535 with 50 ng DNA per sample and quantified using Kapa Kit (Kapa Biosystems)
+ The pooled 536 library was run on Illumina-MiSeq with 15% PhiX mock library to reduce discrepancies in 537 read clustering, using the Illumina V2 500 cycle kit (2 x 250/250 paired-end reads)
+  538 Sequence data were processed using mothur 89 version 
+ 
+5 and using a custom 540 pipeline that provides an adjustment on the developers standard operating procedure (SOP) 541 for OTU calling and taxonomic classification of MiSeq data first presented in Kozich, et 542 al, 2013 
+ For alignment and classification within this SOP we used the SILVA database 543 91 version 
+ Clustering, for OTU identification, was performed using VSEARCH using 544 the distance based greedy clustering (DGC) option as implanted in mothur and utilizing 545 
+97 sequence similarity cutoff
+ We also used a cutoff of one read that was subtracted from 546 all OTU read counts to guard against overestimation of sample richness
+ Rarefaction curves 547 were generated using the package vegan 92 as implemented in R version 
+ 
+4 93 to assess 548 diversity and suitability of depth of coverage per sample
+ The resulting OTU table was 549 Exploring the data: Bar-graphs for relative abundance data based on the resulting 551 OTU table were generated using the ggplot2 94 package in R
+ These plots were generated 552 for the data at the genus and the family levels and meant to describe the microbial 553 community structure per sampled infant and per time point under each of the treatment 554 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    Data were normalized using cumulative sum scaling (CSS) 95 prior to beta diversity 557 and log-fold change analyses
+ Nonmetric Multidimensional Scaling (NMDS) 96 was used on 558 the OTU level to assess possible trends and clustering in the microbial community structure 559 comparing the two countries, the treatment conditions and the two time points, using the 560 vegan package and utilizing Bray-Curtis dissimilarity 
+ Data were separated per country 561 and the metagenomeSeq 97 package in R 93 was used to fit a zero inflated normal (ZIN) 562 model to test for log-fold change differences between the rice bran treatment and control 563 per age group
+ Benjamini and Hochbergs 98 false discovery rate (FDR) method was used to 564 correct for multiple testing and compute the adjusted p-values used to determine 565 significance of differences in the log-fold change of OTU abundance 
+  566 Stool samples were sent to Metabolon Inc
+ (Durham, NC, USA) for non-targeted 569 spectrometry (UPLC-MS/MS)
+ All samples were accessioned into the Metabolon Library 571 Information Management Systems (LIMS) and prepared using the automated MicroLab 572 Star system (Hamilton Company, Switzerland)
+ Eight to ten recovery standards were 573 added prior to the first step in the extraction process for quality control purposes
+ Extraction 574 was performed using 80% ice-cold methanol under vigorous shaking for 2 min (Glen Mills 575 GenoGrinder 2000) followed by centrifugation to remove protein, dissociate small 576 molecules bound to protein or trapped in the precipitated protein matrix
+ Each stool extract 577 was divided into five fractions: two for analysis by two separate reverse phase UPLC-578 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    MS/MS methods with positive ion mode electrospray ionization, 1 for analysis by reverse 579 phase UPLC-MS/MS methods with negative ion mode electrospray ionization, 1 for 580 electrospray ionization, and 1 sample for backup
+  All samples were placed briefly on 582 and a Thermo Scientific Q-Exactive high resolution/accurate mass spectrometer interfaced 585 with a heated electrospray ionization (HESI-II) source and Orbitrap mass analyzer operated 586 at 35,000 mass resolution
+  Raw data was extracted, peak-identified and processed for 587 Statistical analyses for anthropometric measures (length, weight, LAZ, WAZ, and WLZ) 590 and stool EED biomarkers were completed using SAS 
+4 (Cary, NC, USA)
+ The sample 591 size was calculated for achieving greater than 85% power and based on expected changes in 592 selected stool metabolites following dietary rice bran consumption for one month
+ 593 Normality was evaluated by visual inspection
+  For anthropometric variables, two-sample t-594 tests were used to compare means for the 2 treatment groups (rice bran and control) 595 separately at birth and 6 months (prior to start of treatment)
+ A repeated measures analysis 596 was performed for each response variable separately using SAS Proc Mixed
+ Specifically, 597 treatment (rice bran or control) and age (6, 8 or 12 months), and treatment-age interaction 598 were included in the model as fixed effects
+ The participant was included as a random 599 effect to account for repeated measures
+  At each age, treatment groups were compared 600 using contrasts of the model
+ A similar repeated measures analysis was used EED 601 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    biomarkers, but log transformation was used to satisfy model assumptions
+  For stool 602 metabolites, Welchs two-sample t-test was used to analyze statistical significance between 603 groups stool metabolites, after participating in the 6-month dietary trial  A p-value of 604 
+05 was used for statistical significance
+  An estimated false discovery rate (q-value) was 605 calculated to account for the multiple comparisons across metabolites that are typical of 606 2 Black, R
+ E
+ et al Maternal and child undernutrition: global and regional exposures 612 3 Bhutta, Z
+ A
+ & Salam, R
+ A
+ Global nutrition epidemiology and trends
+ Ann Nutr 615 4 Joseph, S
+ A
+ et al Risk Factors Associated with Malnutrition in One-Year-Old 617 Children Living in the Peruvian Amazon
+ PLOS Neglected Tropical Diseases 8, 618 5 Keusch, G
+ T
+ et al Implications of acquired environmental enteric dysfunction for 620 growth and stunting in infants and children living in low- and middle-income 621 6 Keusch, G
+ T
+ et al Environmental Enteric Dysfunction: Pathogenesis, Diagnosis, 623 and Clinical Consequences
+ Clinical Infectious Diseases: An Official Publication of 624 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    7 Syed S, A
+ A
+, and Duggan C
+ Environmental Enteric Dysfunction in Children: A 627 8 Lunn P G, N
+ -C
+ C
+ A
+, Downes R M
+ Intestinal permeability, mucosal injury, and 629 growth faltering in Gambian infants
+ The Lancet 338, 4 ()
+ 630 9 Campbell D I, E
+ M
+ a
+ L
+ P
+ G
+ Growth Faltering in Rural Gambian Infants Is 631 10 Kosek, M
+ et al Fecal markers of intestinal inflammation and permeability 634 associated with the subsequent acquisition of linear growth deficits in infants
+ The 635 11 Korpe, P
+ S
+ & Petri, W
+ A
+, Jr
+ Environmental enteropathy: critical implications of 638 12 Victora, C
+ G
+, de Onis, M
+, Hallal, P
+ C
+, Blossner, M
+ & Shrimpton, R
+ Worldwide 641 timing of growth faltering: revisiting implications for interventions
+ Pediatrics 125, 642 13 Caulfield E L, H
+ L
+ S
+, and Piwoz G E
+ Interventions to improve intake of 644 complementary foods by infants 6 to 12 months of age in developing countries: 645 Impact on growth and on the prevalence of malnutrition and potential contribution 646 to child survival Food and Nutrition Bulletin 20, 18 ()
+ 647 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    14 Dewey, K
+ G
+, Cohen, R
+ J
+, Brown, K
+ H
+ & Rivera, L
+ L
+ Age of introduction of 648 complementary foods and growth of term, low-birth-weight, breast-fed infants: a 649 randomized intervention study in Honduras
+ Am J Clin Nutr 69, 679-686 ()
+ 650 15 Smith, H
+ E
+ et al Multiple micronutrient supplementation transiently ameliorates 651 environmental enteropathy in Malawian children aged 12-35 months in a 652 16 Wang, A
+ Z
+ et al A Combined Intervention of Zinc, Multiple Micronutrients, and 655 in Rural Malawian Children in a Double-Blind Randomized Controlled Trial J Nutr 657 17 Madhi, S
+ A
+ et al Effect of human rotavirus vaccine on severe diarrhea in African 659 18 Jones, K
+ D
+, Thitiri, J
+, Ngari, M
+ & Berkley, J
+ A
+ Childhood malnutrition: toward 662 an understanding of infections, inflammation, and antimicrobials
+ Food Nutr Bull 663 19 Keenan, J
+ D
+ et al Azithromycin to Reduce Childhood Mortality in Sub-Saharan 665 20 Pickering, A
+ J
+, Djebbari, H
+, Lopez, C
+, Coulibaly, M
+ & Alzua, M
+ L
+ Effect of a 668 community-led sanitation intervention on child diarrhoea and child growth in rural 669 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    Mali: a cluster-randomised controlled trial Lancet Glob Health 3, e701-711, 670 21 Lei, S
+ et al High Protective Efficacy of Probiotics and Rice Bran against Human 672 Norovirus Infection and Diarrhea in Gnotobiotic Pigs
+ Frontiers in microbiology 7, 673 22 Yang, X
+ et al High protective efficacy of rice bran against human rotavirus 675 diarrhea via enhancing probiotic growth, gut barrier function, and innate immunity
+ 676 23 Kumar, A
+ et al Dietary rice bran promotes resistance to Salmonella enterica 678 24 Goodyear, A
+ et al Dietary rice bran supplementation prevents Salmonella 681 25 Sheflin, A
+ M
+ et al Pilot dietary intervention with heat-stabilized rice bran 685 modulates stool microbiota and metabolites in healthy adults
+ Nutrients 7, 1282-686 26 Zarei, I
+, Brown, D
+ G
+, Nealon, N
+ J
+ & Ryan, E
+ P
+ Rice Bran Metabolome 688 Contains Amino Acids, Vitamins & Cofactors, and Phytochemicals with Medicinal 689 27 Twitchell, E
+ L
+ et al Modeling human enteric dysbiosis and rotavirus immunity in 691 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    28 Yang, X
+ et al Dietary rice bran protects against rotavirus diarrhea and promotes 693 Th1-type immune responses to human rotavirus vaccine in gnotobiotic pigs
+ 694 29 Nealon, N
+ J
+, Yuan, L
+, Yang, X
+ & Ryan, E
+ P
+ Rice Bran and Probiotics Alter the 697 Porcine Large Intestine and Serum Metabolomes for Protection against Human 698 30 Muthayya, S
+, Sugimoto, J
+ D
+, Montgomery, S
+ & Maberly, G
+ F
+ An overview of 701 global rice production, supply, trade, and consumption
+ Annals of the New York 702 31 Bokulich, N
+ A
+ et al Antibiotics, birth mode, and diet shape microbiome 704 32 Ordiz, M
+ I
+ et al Environmental Enteric Dysfunction and the Fecal Microbiota in 707 Malawian Children
+ The American journal of tropical medicine and hygiene 96, 708 33 Semba, R
+ D
+ et al Environmental Enteric Dysfunction is Associated with Carnitine 710 34 McCormick, B
+ J
+ et al Dynamics and Trends in Fecal Biomarkers of Gut Function 713 in Children from 1-24 Months in the MAL-ED Study
+ The American journal of 714 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    35 Becker-Dreps, S
+ et al The Association Between Fecal Biomarkers of 716 36 Campbell, D
+ I
+, McPhail, G
+, Lunn, P
+ G
+, Elia, M
+ & Jeffries, D
+ J
+ Intestinal 720 inflammation measured by fecal neopterin in Gambian children with enteropathy: 721 association with growth failure, Giardia lamblia, and intestinal permeability
+ J 722 37 Yatsunenko, T
+ et al Human gut microbiome viewed across age and geography
+ 724 38 Koenig, J
+ E
+ et al Succession of microbial consortia in the developing infant gut 726 microbiome
+ Proceedings of the National Academy of Sciences of the United States 727 39 Dominguez-Bello, M
+ G
+ et al Delivery mode shapes the acquisition and structure 729 of the initial microbiota across multiple body habitats in newborns
+ Proceedings of 730 the National Academy of Sciences of the United States of America 107, 11971-731 40 Backhed, F
+ et al Dynamics and Stabilization of the Human Gut Microbiome 733 during the First Year of Life
+ Cell host & microbe 17, 852, 734 41 Subramanian, S
+ et al Persistent gut microbiota immaturity in malnourished 736 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    42 Apprill, A
+, McNally, S
+, Parsons, R
+ & Weber, L
+ Minor revision to V4 region SSU 738 rRNA 806R gene primer greatly increases detection of SAR11 bacterioplankton
+ 739 43 Caporaso, J
+ G
+ et al Ultra-high-throughput microbial community analysis on the 741 Illumina HiSeq and MiSeq platforms
+ The ISME journal 6, 1621, 742 44 Caporaso, J
+ G
+ et al Global patterns of 16S rRNA diversity at a depth of millions 745 of sequences per sample
+ Proceedings of the National Academy of Sciences 108, 746 45 Parada, A
+ E
+, Needham, D
+ M
+ & Fuhrman, J
+ A
+ Every base matters: assessing 748 small subunit rRNA primers for marine microbiomes with mock communities, time 749 46 Walters, W
+ et al Improved Bacterial 16S rRNA Gene (V4 and V4-5) and Fungal 752 47 Richard L
+ Guerrant , A
+ M
+ L
+, Relana Pinkerton, Pedro H
+ Q
+ S
+ Medeiros, Paloma 755 Gewirtz, Jonathan C
+ Kagan, Anna E
+ Gauthier, Jonathan Swann, Jordi Mayneris-757 Perxachs, David T
+ Bolick, Elizabeth A
+ Maier, Marjorie M
+ Guedes, Sean R
+ 758 Moore, William A
+ Petri, Alexandre Havt, Ila F
+ Lima, Mara de Moura Gondim 759 Prata, Josyf C
+ Michaleckyj, Rebecca J
+ Scharf, Craig Sturgeon, Alessio Fasano, 760 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    48 Naylor, C
+ et al Environmental Enteropathy, Oral Vaccine Failure and Growth 764 49 Harper, K
+ M
+, Mutasa, M
+, Prendergast, A
+ J
+, Humphrey, J
+ & Manges, A
+ R
+ 767 50 Yu, J
+ et al Environmental Enteric Dysfunction Includes a Broad Spectrum of 771 51 Petri, W
+ A
+, Jr
+, Naylor, C
+ & Haque, R
+ Environmental enteropathy and 774 malnutrition: do we know enough to intervene? BMC Med 12, 187, 775 52 Brown, E
+ M
+ et al Diet and specific microbial exposure trigger features of 777 environmental enteropathy in a novel murine model
+ Nature communications 6, 778 53 Ayeni, F
+ A
+ et al Infant and Adult Gut Microbiome and Metabolome in Rural 780 Bassa and Urban Settlers from Nigeria
+ Cell reports 23, 3056-3067, 781 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    54 Mayneris-Perxachs, J
+ et al Protein- and zinc-deficient diets modulate the murine 783 microbiome and metabolic phenotype
+ Am J Clin Nutr 104, 1253-1262, 784 55 Ma, N
+, Tian, Y
+, Wu, Y
+ & Ma, X
+ Contributions of the Interaction Between 786 Dietary Protein and Gut Microbiota to Intestinal Health
+ Current protein & peptide 787 56 Lin, H
+, An, Y
+, Hao, F
+, Wang, Y
+ & Tang, H
+ Correlations of Fecal Metabonomic 789 and Microbiomic Changes Induced by High-fat Diet in the Pre-Obesity State
+ 790 57 Parra-Llorca, A
+ et al Preterm Gut Microbiome Depending on Feeding Type: 792 Significance of Donor Human Milk
+ Frontiers in microbiology 9, 1376, 793 58 Kau, A
+ L
+, Ahern, P
+ P
+, Griffin, N
+ W
+, Goodman, A
+ L
+ & Gordon, J
+ I
+ Human 795 nutrition, the gut microbiome and the immune system
+ Nature 474, 327-336, 796 59 Velly, H
+, Britton, R
+ A
+ & Preidis, G
+ A
+ Mechanisms of cross-talk between the 798 diet, the intestinal microbiome, and the undernourished host
+ Gut microbes 8, 98-799 60 Merrifield, C
+ A
+ et al Neonatal environment exerts a sustained influence on the 801 development of the intestinal microbiota and metabolic phenotype
+ The ISME 802 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    61 Blekhman, R
+ et al Host genetic variation impacts microbiome composition across 804 62 Henderson, A
+ J
+, Kumar, A
+, Barnett, B
+, Dow, S
+ W
+ & Ryan, E
+ P
+ Consumption 807 of rice bran increases mucosal immunoglobulin A concentrations and numbers of 808 63 Brown, D
+ G
+, Borresen, E
+ C
+, Brown, R
+ J
+ & Ryan, E
+ P
+ Heat-stabilised rice bran 811 consumption by colorectal cancer survivors modulates stool metabolite profiles and 812 metabolic networks: a randomised controlled trial British Journal of Nutrition 117, 813 64 So, W
+ K
+ W
+, Law, B
+ M
+ H
+, Law, P
+ T
+ W
+, Chan, C
+ W
+ H
+ & Chair, S
+ Y
+ 815 Current Hypothesis for the Relationship between Dietary Rice Bran Intake, the 816 65 Hamer, H
+ M
+, Preter, V
+ D
+, Windey, K
+ & Verbeke, K
+ Functional analysis of 819 66 Newton, D
+ F
+, Macfarlane, S
+ & Macfarlane, G
+ T
+ Effects of Antibiotics on 823 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    67 Pessione, E
+ Lactic acid bacteria contribution to gut microbiota complexity: lights 827 68 Leone, V
+ et al Effects of Diurnal Variation of Gut Microbes and High-Fat Feeding 830 on Host Circadian Clock Function and Metabolism
+ Cell host & microbe 17, 681-831 69 Tahara, Y
+ et al Gut Microbiota-Derived Short Chain Fatty Acids Induce Circadian 833 Clock Entrainment in Mouse Peripheral Tissue
+ Scientific Reports 8, 1395, 834 70 Pickard, J
+ M
+, Zeng, M
+ Y
+, Caruso, R
+ & Nez, G
+ Gut microbiota: Role in 836 71 Ubeda, C
+, Djukovic, A
+ & Isaac, S
+ Roles of the intestinal microbiota in pathogen 839 72 Davis, J
+ C
+ C
+ et al Growth and Morbidity of Gambian Infants are Influenced by 842 Maternal Milk Oligosaccharides and Infant Gut Microbiota
+ Scientific Reports 7, 843 73 Li, K
+ J
+, Borresen, E
+ C
+, Jenkins-Puccetti, N
+, Luckasen, G
+ & Ryan, E
+ P
+ Navy 846 Bean and Rice Bran Intake Alters the Plasma Metabolome of Children at Risk for 847 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    74 Gupta, V
+ K
+, Paul, S
+ & Dutta, C
+ Geography, Ethnicity or Subsistence-Specific 850 75 Alexeev, E
+ E
+ et al Microbiota-Derived Indole Metabolites Promote Human and 853 76 Gao, J
+ et al Impact of the Gut Microbiota on Intestinal Immunity Mediated by 857 77 McBreairty, L
+ E
+ & Bertolo, R
+ F
+ The dynamics of methionine supply and demand 860 78 Baj, T
+ & Sieniawska, E
+ in Pharmacognosy   (eds Simone Badal & Rupika 863 79 Borresen, E
+ C
+ et al A Pilot Randomized Controlled Clinical Trial to Assess 865 Tolerance and Efficacy of Navy Bean and Rice Bran Supplementation for Lowering 866 80 WHO
+ Training course on child growth assessment
+ (WHO, Geneva, )
+ 869 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    82 Putignani, L
+ et al Gut Microbiota Dysbiosis as Risk and Premorbid Factors of IBD 871 83 MINSA
+   Normativa 121 (ed Programa Ampliado de Inmunizaciones) 246 874 84 WHO
+ Global Database on Child Growth and Malnutrition
+ 74 (WHO, Geneva, 876 85 Lakkakula, N
+ R
+, Lima, M
+ & Walker, T
+ Rice bran stabilization and rice bran oil 878 87 Borresen EC, G
+ M
+, Zambrana LE, Perez J, Perez C, Stallones L, Becker-Dreps S, 882 Yuan L, Vilchez S, Ryan EP
+ 
+ Association between Infant Feeding Practices and 883 Nutritional Status in Healthy Nicaraguan Infants
+ J Food Nutri Diete 1, 6, 884 88 George, C
+ M
+ et al Geophagy is associated with environmental enteropathy and 886 stunting in children in rural Bangladesh
+ The American journal of tropical medicine 887 89 Schloss, P
+ D
+ et al Introducing mothur: open-source, platform-independent, 889 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    90 Kozich, J
+ J
+, Westcott, S
+ L
+, Baxter, N
+ T
+, Highlander, S
+ K
+ & Schloss, P
+ D
+ 893 Development of a dual-index sequencing strategy and curation pipeline for 894 analyzing amplicon sequence data on the MiSeq Illumina sequencing platform
+ 895 91 Quast, C
+ et al The SILVA ribosomal RNA gene database project: improved data 898 92 Oksanen J , B
+ F
+ G
+, Kindt R , Legendre P , Minchin P R , OHara R B , Simpson G 901 L , Solymos P , Stevens M H H , Wagner H
+ vegan: Community Ecology Package
+  902 93 R Core Team
+ R: A language and environment for statistical computing
+  ()
+ 904 94 Wickham, H
+ ggplot2: Elegant graphics for data analysis
+ Springer 905 95 Paulson, J
+ N
+, Stine, O
+ C
+, Bravo, H
+ C
+ & Pop, M
+ Differential abundance analysis 907 96 Legendre, P
+ L
+, L, 
+ Numerical Ecology
+ Elsevier B
+V 20 ()
+ 911 97 Paulson, J
+ N
+ metagenomeSeq: Statistical analysis for sparse high-throughput 912 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    98 Benjamini, Y
+ & Hochberg, Y
+ Controlling the False Discovery Rate: A Practical 914 and Powerful Approach to Multiple Testing
+ Journal of the Royal Statistical 915 The authors thank the study participants, community health workers, and local 919 clinical staff for their assistance in the conduct of the clinical trials
+ Funding: This study 920 was supported by the Grand Challenges Explorations in Global Health award from the Bill 921 and Melinda Gates Foundation (OPP1043255) and the Fulbright Faculty Development 922 Author contributions:  For Nicaragua trial: SV, SBD, LY and EPR designed the 924 research trial and maintained study oversight
+  ECB, SV, JP, CP and LZ conducted research 925 in field (including sample collection and processing), and IZ, SM, JP, HI and CP analyzed 926 stool samples in the lab
+  For Mali trial: EPR, OK, and AM designed the approved research 927 protocols for the rice bran intervention with assistance from AB, AC, ECB, and LS
+ AB 928 and AC coordinated the study in the community, and LS oversaw sample collection and 929 field laboratory operations
+ LD, SD, and KK provided community and participant 930 engagement, collected samples and data, and carried out laboratory analyses
+ SM, LZ, IZ, 931 ECB, HI, ZA and LZ carried out further laboratory and data analyses in the USA
+ AH, ZA, 932 HI and LZ compiled the growth, biomarkers, microbial communities and metabolomics 933 datasets and performed integrated statistical data analysis for both Mali and Nicaragua 934 sites
+ LZ, ECB, SM, HI, SV, OK, and EPR collectively interpreted data, carried out the 935 literature search, constructed tables and figures, and contributed to manuscript preparation
+  936 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    LZ, ECB, SM, HI, ZA and EPR wrote the paper
+  EPR had primary responsibility for the 937 final product
+ All authors read and approved the final manuscript
+ The authors declare that 938 they have no competing interests
+ Data and materials availability: 16S sequence data 939 were submitted to the National Center for Biotechnology Information SRA under accession 940 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    Indoor municipal 24 (100) 23 (100) -- 0 (0) 0 (0) -- Untreated ground water 0 (0) 0 (0) -- 24 (100) 24 (100) -- 6 months  23 (
+8) 19 (
+6) 
+1415 24 (100) 24 (100) -- # Infants antibiotic use  14 (
+3) 11 (
+8) -- 14 (
+3) 13 (
+2) -- Antibiotic courses  21 (
+3) 15 (
+6) -- 26 (
+0) 25 (
+0) -- 
+4091 Livestock (
+3) (
+7) 21(88) 17(71) Domesticated pets (
+8) (
+6) 5(21) 1(4) Weight 6 months (kg) 
+09 
+10 
+93 
+89 
+5833 
+ 
+88 
+ 
+99 
+4832 Length 6 months (cm) 
+38 
+10 
+26 
+90 
+8787 
+ 
+56 
+ 
+12 
+2960 1More than one category may be represented per household
+  2Mean  standard deviation
+ 3p-value:Chi-squared test
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    Table 
+ Anthropometric measures adjusted by treatment and age in Nicaraguan and Malian 
+0098 
+0002 
+1609 
+6229 12 -
+73 (
+18) 
+35 (
+21) -
+58 (
+22) 
+01 (
+22) 6 
+33 (
+22) 
+5648 
+27 (
+20) 
+3335 -
+65 (
+26) 
+4575 -
+64 (
+22) 
+0001 
+0558 
+9919 
+0001 
+0175 12 -
+03 (
+20) 
+11 (
+18) -
+10 (
+24) -
+44 (
+21) 6 
+53 (
+26) 
+8997 
+41 (
+20) 
+0000 -
+51 (
+19) 
+8419 -
+58 (
+21) 
+0141 
+9892 
+0569 
+0000 
+0134 12 
+41 (
+22) -
+06 (
+18) -
+18 (
+24) -
+59 (
+22) 1Mean (SEM) 2Ajusted p-value by repeated measures for each treatment and time point (6-8 and 8-12 months) LAZ: Length for Age Z-score, WAZ: Weight for Age Z-score, WLZ: Weight for Length Z-score
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    Table 
+ Environmental enteric dysfunction (EED) biomarkers in stool at 6, 8, and 12 6 
+8 (
+2) 
+6 (
+7) 
+7220 
+2 (
+0) 
+6 (
+0) 
+5929 8 
+3 (
+1) 
+8 (
+9) 
+5771 
+2 (
+6) 
+9 (
+5) 
+4314 12 
+5 (
+2) 
+4 (
+4) 
+8727 
+0 (
+0) 
+0 (
+6) 
+9880 6 
+0 (
+5) 
+5 (
+5) 
+0847 
+6 (
+6) 
+9 (
+8) 
+6139 8 
+1 (
+3) 
+3 (
+4) 
+8454 
+7 (
+9) 
+0 (
+7) 
+3763 12 
+0 (
+8) 
+5 (
+7) 
+3345 
+4 (
+9) 
+9 (
+2) 
+5437 6 
+2 (
+7) 
+0 (
+1) 
+2394 
+7 (
+2) 
+3 (
+4) 
+7136 8 
+7 (
+5) 
+2 (
+2) 
+8023 
+0 (
+7) 
+7 (
+8) 
+0639 12 
+0 (
+4) 
+5 (
+9) 
+2629 
+0 (
+2) 
+9 (
+0) 
+2103 6 
+1 (
+7) 
+5 (
+4) 
+7199 
+5 (
+6) 
+1 (
+8) 
+0999 8 
+0 (
+4) 
+5 (
+4) 
+1221 
+2 (
+0) 
+9 (
+9) 
+2237 12 
+9 (
+8) 
+8 (
+8) 
+0368 
+7 (
+5) 
+2 (
+5) 
+4796 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    compared to control for Nicaragua & Mali infants at 8 months of age
+  certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    1Table displays metabolites with statistically significant differences between rice bran and control group in stool
+ Bold metabolites are present in the rice bran (Calrose) that the children consumed
+   3Fold differences (Fold Diff) between study groups was calculated by dividing the scaled relative abundance of rice bran vs certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    Fig
+ 
+ Study recruitment and participation based on CONSORT statement guidelines 989 for clinical trials conducted in Nicaragua and Mali (NCT02615886, NCT)
+ 990 95 infants from Len, Nicaragua and Dioro, Mali enrolled after meeting eligibility criteria, 991 randomized by sex and location to one of two study arms
+ The number of diarrhea episodes 992 and reasons for withdrawal were reported for each child
+    993 Fig
+ 
+  Anthropometric Z-scores for Nicaraguan and Malian infants in rice bran and 995 control groups at 6, 8 and 12 months
+ A)
+ Significant LAZ (p<
+05) at 8 and 12 months 996 in the rice bran group compared to control for Nicaraguan infants
+ B)
+ No WAZ significant 997 changes between rice bran and control group in Nicaraguan and Malian infants
+ C)
+ WLZ at 998 8 months was significantly lower for the rice bran group compared to control in Nicaragua
+    999 Fig
+ 
+ Rice bran and control infant stool microbiome at 8 and 12 months of age in 1001 Nicaragua and Mali
+ Nonmetric Multidimensional Scaling (NMDS) for A)
+ Nicaragua and 1002 Mali all samples B)
+ Control groups and rice bran groups at 8 and 12 months
+ NMDS was 1003 used on the OTU level to assess possible trends and clustering in the microbial community 1004 structure per treatment and time point
+ C)
+ Bacterial taxa at phylum and family level in 1005 Nicaragua (top) and Mali (bottom)
+ Bar-graphs show phylum and family relative abundance 1006 based on the resulting OTU table generated using the ggplot2 package in R
+ These plots 1007 were generated for the data at the phylum and the family levels and meant to describe the 1008 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    microbial community structure per sampled group and per time point (8 months and 12 1009 months) under each of the treatment levels (control and rice bran)
+ 1010 Fig
+ 
+  Microbiome differences between Nicaragua and Mali at 8 and 12 months 1012 between rice bran and control groups
+ Fold differences in relative percentage of OTUs 1013 different between control and rice bran groups at 8 months and 12 months
+ A) Nicaragua, 1014 and B) Mali
+ OTUs with fold difference more than 2 are shown for infants at 8 months 1015 (left) and 12 months (right)
+  Fold difference for OTUs with FDR less than 
+05 is shown 1016 with the most significant OTUs on the bottom of each graph
+   1017 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;     Not meeting study criteria (n=5): (>6months old before study officially started) certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 26, 
+ ;    

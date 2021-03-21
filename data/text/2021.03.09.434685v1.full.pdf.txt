@@ -1,0 +1,1086 @@
+Trophic transfer of microplastics enhances tissue accumulation of chemical additives in fishTakaaki Hasegawaa, Kaoruko Mizukawab, Yeo Bee Geokb, Tomonori Sekiokac, Hideshige 3 bLaboratory of Organic Geochemistry, Tokyo University of Agriculture and Technology, 3-5-7 dField Science Center for Northern Biosphere, Hokkaido University, 1 Aikappu, Akkeshi-cho, 10 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    A variety of chemical additives are incorporated into plastics during their production 16 process to give desirable properties
+ Although studies have suggested that microplastic 17 ingestion can lead to accumulation of these chemicals in marine organisms, none provided the 18 direct evidence in fish species
+ Here, we demonstrated the tissue accumulation of chemical 19 additives in fish following microplastic ingestion
+ We exposed fish (Myoxocephalus brandti) 20 to polyethylene microplastics compounded with brominated flame retardants (BFRs; BDE209, 21 DBDPE) and ultraviolet stabilizers (UVs; UV-234, UV-327, BP-12) suspended in the water 22 column, or to mysids (Neomysis spp
+) pre-exposed to the same microplastics
+ Our results 23 showed a maximum of 345-fold higher concentrations of additives in fish exposed to 24 microplastics than the ambient sample
+ Also, fish fed plastic-exposed mysids accumulated 25 significantly greater concentrations of BFRs in muscle than fish exposed to microplastics 26 suspended in the water column (p < 
+ )
+ This indicates that trophic transfer of microplastics 27 has greater contribution to tissue accumulation of BFRs in fish than the waterborne ingestion
+ 28 In contrast, no significant difference in the accumulation of UVs was found between the 29 treatments, except for UV-327 in liver
+ These results suggests that the relative contribution 30 between direct ingestion of microplastics from the water column and indirect ingestion via 31 trophic transfer on tissue accumulation of additives in fish varies among compounds
+ 32 Compounds with high molecular weight and high hydrophobicity like BDE209 and DBDPE 33 were considered difficult to leach out from plastics, however, our study showed that trophic 34 transfer of microplastics can facilitate the accumulation of such compounds from plastics to 35 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;     As plastic production has been increasing over the years, plastic debris have become 43 ubiquitous pollutants found throughout marine environments (Auta et al, 2017; Burns and 44 Boxall, 2018; Desforges et al, 2014; Duis and Coors, )
+ Especially, plastic particles 45 smaller than 5 mm called microplastics are concerned as an emerging pollutant in marine 46 ecosystems (NOAA, )
+ Their small size allows a variety of organisms to ingest such as 47 whales, seabirds, fish, and invertebrates (Auta et al, 2017; Cole et al, 2013; Rummel et al, 48 2016; Zhang et al, )
+ Many studies have shown that ingesting microplastics can cause 49 negative physical impacts on organisms such as blockage and laceration of the digestive tract 50 (Derraik, 2002; Khosrovyan et al, 2012; Wright et al, )
+ In most cases, however, these 51 negative effects were observed with unrealistically high exposure concentration in laboratory 52 experiments (Cunningham and Sigwart, 2019; Lenz et al, 2016), and the current monitored 53 concentration in the ocean is considered to have negligible impacts on organisms because 54 microplastics can be egested from the body without long-term accumulation (Beiras and 55  Aside from their physical effects, microplastics also have chemical effects on 57 organisms
+ Plastics contain an array of chemicals that are either adsorbed to the polymer 58 surface from the surrounding water or incorporated during the manufacturing process, the latter 59 called plastic additives (Andrady, 2011; Cole et al, 2011; Ziccardi et al, )
+ These 60 chemicals have been shown to transfer to biological tissues following the ingestion of 61 microplastics and are concerned about their impacts on ecosystems because some of them have 62 persistent and toxic natures (Hermabessiere et al, 2017a; Wardrop et al, 2016; Ziccardi et al, 63 )
+ However, some model studies suggested that plastics are not important for the 64 accumulation of these pollutants in organisms because their concentrations in plastics would 65 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    be at equilibrium with those in organisms and the chemical diffusion from plastics to organisms 66 would not occur (Gouin et al, 2011; Koelmans et al, )
+ In contrast, microplastics may 67 play a more relevant role in the transfer of chemical additives as they are added to plastic 68 polymers at high concentrations (~80% by weight (Gangi, 1999)), whereas the information 69 about the tissue accumulation of additives compounded in plastics is still far limited 70 compared to that of adsorbed pollutants
+ A recent study by Tanaka et al (2020) demonstrated 71 that the ingestion of plastics resulted in the tissue accumulation of chemical additives in seabird
+ 72 While no study has so far provided the direct evidence that microplastic ingestion can lead to 73 the tissue accumulation of chemicals additives in fish species, Coffin et al (2019) demonstrated 74 that in vivo fish gut simulated condition using the digestive enzyme enhanced the leaching of 75 additives from plastics, which suggests that tissue accumulation in fish species is plausible
+ 76 Studies using fish species are especially important considering the food web structure of marine 77 ecosystems and the potential impact on human health through direct consumption (Campanale 78  There are two possible pathways for predatory fish to ingest microplastics, either from 80 the water column or their prey (Walkinshaw et al, )
+ Most microplastic exposure studies 81 focus either on waterborne or dietary exposure, but none of them compared their relative 82 contribution to the total ingestion
+ Our prior work compared the waterborne ingestion of 83 microplastics and the trophic transfer using fish and mysids, and revealed that the trophic 84 transfer is more important than the waterborne ingestion (Hasegawa and Nakaoka, )
+ If 85 microplastic ingestion by fish leads to tissue transfer of plastic-derived chemicals, fish may 86 receive more impacts on the exposure of those chemicals via trophic transfer of microplastics 87  The present study aims to examine the tissue accumulation of chemical additives in 89 fish following microplastic exposure and the relative contribution of the waterborne and trophic 90 transfer exposure on the accumulation
+ We used a crustacean mysid (Neomysis spp
+) and a 91 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    benthic fish (Myoxocephalus brandti) as a model prey-predator system that was also used in 92 our prior work (Hasegawa and Nakaoka, )
+ We conducted the exposure experiments using 93 BDE209, DBDPE) and three ultraviolet stabilizers (UVs; UV-234, UV327, BP-)
+ To 95 examine the relative importance of the two exposure pathways, we exposed the fish to 96 polyethylene microplastics suspended in the water column or to mysids pre-exposed to 97 polyethylene microplastics, and analyzed the concentration of each additive in fish muscle and 98 liver
+ We hypothesized that the fish would accumulate the additives following microplastic 99 ingestion and that trophic transfer of microplastics would yield the greater accumulation of the 100  We collected organisms for the experiment on September 7, 2020 at a seagrass bed in 105 Akkeshi-ko estuary (4302 N, 14452 E), which is located in eastern Hokkaido, northern 106 Japan
+ Mysids (Neomysis spp
+, body length: 
+70  
+53 mm standard deviation, wet weight: 107 
+20  
+59 mg standard deviation) and juvenile M
+ brandti (body length: 
+40  
+52 cm 108 standard deviation, wet weight: 
+35  
+81 g standard deviation) were collected using an 109 epibenthic sled
+ For the measurement of contaminant concentrations in the ambient 110 environment, 90 mysids and three fish were immediately frozen and stored until the later 111 chemical analysis, and the other fresh animals were brought to the laboratory for the 112 experiments
+ Mysids were acclimated in 30-L aquaria overnight with flow-through seawater 113 that were filtered by fine sand to allow them clear possible microplastics from their guts
+ Ten 114 glass aquaria (245165160 mm) were prepared and one randomly selected fish was assigned 115 to each aquarium, and then acclimated for 7 days prior to the start of the experiment
+ During 116 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    the acclimation, we daily fed the mysids microalgae (Shellfish diet 1800; Reed Mariculture) 117 and the fish fresh mysids
+ Each aquarium contained approximately 100 mysids or 20 fish
+ 118  We used cylindrical low-density polyethylene pellets (diameter 5 mm, length 5 mm; 121 DJK Corporation, Chiba, Japan) compounded with five plastic additives
+ Polyethylene is one 122 of the most produced plastic polymers and is commonly found in marine environments 123 (Andrady, 2011; Beiras et al, 2018; Burns and Boxall, )
+ Following five additives were 124 widely used in plastic products and electrical appliances as flame retardants and are suspected 131 to be non-readily degradable and have long-term toxicity (Hermabessiere et al, 2017b; NITE, 132 )
+ UV-234, UV-324 and BP-12 are also commonly added to plastic products as UV-133 stabilizers, which have the potential for bioaccumulation and toxicity on organisms (Kim et al, 134 2011; Nakata et al, )
+ These compounds were selected as previous studies reported their 135 frequent occurrences in plastic debris collected in natural environments and marine organisms 136 (Rani et al, 2015; Rochman et al, 2014; Tanaka et al, )
+ The concentration of each 137 additive in the pellets was set below 
+04 % by weight, which is of the same order of magnitude 138 as those observed in these studies
+ Polyethylene powder (Flo-Thene, FG701N, Sumitomo Seika 139 Chemicals Co
+, Ltd
+, Osaka, Japan) and authentic standards of the additives in powder form 140 (Wako Pure Chemical Industries, Ltd
+, Osaka, Japan) were mixed well and molded into pellets 141 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    in a co-rotating twin-screw kneading extruder (HK-25D; Parker Corporation, Inc
+, Tokyo, 142 Japan)
+ The pellets were then melted and re-extruded twice to obtain a uniform distribution of 143 the constituents
+ The pellets were further grinded into powders by a plastic cutting mill (PLC-144 2M, Osaka Chemical Co
+, Ltd
+, Osaka, Japan) and the powders were sieved over a 63 m and 145 32 m mesh
+ Particles left on the 32 m sieve were collected and used for the experiments
+  146  For measurement of the particle size, the quantification method with nile red was 147 adapted from Erni-Cassola et al (2017) using a nylon mesh filter with 8 m pore size
+ Particle 148 area was measured, and the square root was calculated as particle size
+ The targeted 149 polyethylene microplastics had an average size of 
+90  
+40 m and their size distribution 150 is shown in Fig
+ 
+ The concentrations of five additives in polyethylene microplastics were 151 quantified (Table 1) and the composition of each additive is shown in Fig
+ 
+ 152  To prepare the microplastic-suspended solution, a glass beaker was filled with 100 mL 153 of distilled water and boiled in a microwave
+ Ten microliters of surfactant (Tween 80; 154 polyethylene sorbitol ester, Cospheric LLC) were added and stirred with a glass rod for 30 s
+ 155 Next, 5 mL of the solution was transferred to another grass beaker filled with 95 mL of boiled 156 distilled water to make 
+004 % surfactant solution
+ The solution was left at room temperature 157 for 1 h
+ Before starting the exposure experiment, 8 mg of polyethylene microplastics were 158 added to a plastic tube containing 8 mL of 
+004 % surfactant solution
+ The tube was vortexed 159 and left at room temperature for 1 h to immerse into the solution
+ The suspension solution was 160 prepared each time for the experiments to minimize the leaching of the chemicals from 161  To determine the amount of chemicals leaching from microplastics to seawater, three 165 beakers filled with 1-L filtered seawater (< 1 m) were prepared
+ 250 L of suspension solution 166 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    (corresponds to 500-g microplastics) was added to each beaker and left for 24 h
+ We 167 constantly circulated the seawater by aeration during the test
+ After 24 h, the seawater was 168 transferred to a 1-L stainless container and stored in the freezer until the chemical analysis
+ 169  Thirty 1-L glass beakers were prepared and divided into the following two groups; 172 fifteen bottles filled with 1-L filtered seawater (< 1 m) containing 500-g/L microplastics, 173 and 15 bottles filled with 1-L leachate seawater
+ The microplastic concentration was chosen as 174 an environmentally relevant concentration as it is within the same order of magnitude of the 175 microplastic concentration reported in the North Pacific Subtropical Gyre, which is among the 176 most heavily contaminated area around the world (Goldstein et al, )
+ Leachate seawater 177 was prepared by filtering 1-L filtered seawater (< 1 m) containing 500-g/L microplastics to 178 determine the uptake of the chemicals leaching from microplastics during the experiment by 179 mysids
+ We randomly selected mysids from the acclimation aquaria and placed three in each 180 bottle
+ We then fed the mysids 2 mg (dry weight) of microalgae
+ We constantly circulated the 181 seawater by aeration to ensure that the microplastics were evenly distributed in the bottles
+ 182 After 24 h of microplastic exposure, the mysids were flushed gently with filtered seawater to 183 remove beads from the exoskeleton and their body length and wet weight were measured
+ Then, 184 the mysids were frozen at - 30 and stored until the later analysis
+ The same procedure was 185 repeated 4 days to collect 150 mysids in total from each group except that only 15 mysids in 186  After the acclimation for fish, ten fish aquaria were divided into the following two 190 groups: Five aquaria contained 2-L filtered seawater (< 1 m) with a 500-g/L microplastic 191 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    suspension and nine plastic-free mysids each, so that the fish would ingest polyethylene 192 microplastics only from the water column
+ Five other aquaria each contained nine mysids that 193 had been pre-exposed to 500-g/L microplastics
+ The five aquaria containing pre-exposed 194 mysids were filled with 2-L filtered seawater (1 m) without a microplastic suspension so that 195 uptake of polyethylene microplastics would be solely from the food source
+ The number of 196 mysids was determined from a preliminary experiment to ensure that all mysids were consumed 197 by the fish within 24 h
+ Pre-exposure of the mysids followed the protocol for the first 198 experiment
+ We carried out the exposure for 10 days and exchanged the seawater once a day
+ 199 We constantly circulated the seawater by aeration throughout the experiment to ensure that 200 microplastics were evenly distributed in the aquaria
+ We did not observe any microplastics on 201 the bottom of the tanks throughout the experiment
+ After 10 days of exposure, the fish were 202 gently flushed with filtered seawater to remove beads from the body surface
+ Following 203 measurement of their body length and wet weight, the fish were frozen at - 30 and stored 204 acetic anhydride, hydrochloric acid, anhydrous sodium sulfate, Wakogel Q-22 (75 m, 200 210 mesh) and Wakogel Q-23 (75-150 m, 100200 mesh) were purchased from Wako Pure 211 Chemical Ltd
+ (Osaka, Japan)
+ Dichloromethane (DCM) were purchased from Kanto Chemical 212 Co
+, Inc
+ (Tokyo, Japan)
+ Analytical standards for BDE209 and DBDPE were purchased from 213 Wellington Laboratories Inc
+ (Guelph, Ontario, Canada)
+ Hexa-nona BDE individual congeners 214 were obtained from Wellington Laboratories Inc
+ (BDE179, 183, 188 and 202), Cambridge 215 Isotope Laboratories Inc
+ (BDE207; Tewksbury, MA, US) and Accustandard Inc
+ (BDE155, 216 184, 196, 197, 203, 206 and 208; New Haven, CT, US) respectively
+ UV327 and BP12 were 217 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    also obtained from Accustandard Inc
+ Analytical surrogates were used the followings; f-218 (Trondheim, Norway) for BFRs, UV327-d20 were from Toronto Research Chemicals, Inc
+ 220 (North York, ON Canada) for UV327 and UV234 and BP12-d17 were from Hayashi Pure 221 Chemical Ind
+, Ltd
+ (Osaka, Japan) for BP
+ As internal injection standard (IIS), chrysene-222 d12 was purchased from SigmaAldrich (St
+ Louis, MO, USA)
+ All glassware was rinsed with 223 methanol, acetone, and distilled n-hexane three times respectively or pre-baked at 550  for 4 224  For chemical analysis, the liver and whole-body (mainly muscle tissues, excluding the 228 intestines, head and fins) were used
+ Each freeze-dried sample was extracted by accelerated 229 solvent extractor (ASE200; Dionex, Sunnyvale, CA, USA) with acetone/DCM (1:3, v/v)
+ The 230 samples were extracted in 11 mL stainless steel cells under the following conditions: preheat 231 time, 0 min; heat time, 5 min; static time, 5 min; flush%, 100%; purge, 60 s; 2 cycles; pressure, 232  To determine lipid contents of whole-body sample from the weight of the dried 234 extracts, aliquot of the extract was taken into another weighed-4 mL vial After injection the 235 surrogates (f-BDE208, UV327-d20 and BP12-d17) into another aliquot, it was concentrated 236 just to dryness in a rotary evaporator and transferred into a 10 mL centrifugation tube
+ After 237 reducing the solvent less than 100 mL by gentle nitrogen stream, we added 50 mL each of 238 pyridine and acetic anhydride into each tube
+ After holding at room temperature for >8 h, the 239 reaction was stopped with the addition of 200 mL 4 M HCl
+ Acetylates were extracted with n-240 hexane 5 times
+ The n-hexane extract was passed through anhydrous sodium sulfate for 241 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;     After a solvent substitution from n-hexane to DCM, the acetylated sample was purified 243 by gel permeation chromatography (GPC)
+ About 2 mL of sample was subjected to GPC (2 cm 244 i
+ d
+ 30 cm, CLNpak EV-2000; Showa-denko, Tokyo, Japan) to separate target compounds 245 from biolipids in DCM at an eluent at flow rate of 4 mL/min
+ The fraction with a retention time 246 of 12 to 25 min was collected for further purification
+  247  The GPC eluent was concentrated just to dryness in a rotary evaporator and placed in 248 a 10% H2O-deactivated silica gel column (Wakogel Q-22, 1 cm i
+ d
+  9 cm)
+ The first fraction 249 including BFRs was eluted with 35 mL n-hexane/DCM (3:1, v/v)
+ The second and third fraction 250 including UVs were eluted with 15 mL MeOH/DCM (1:99, v/v) and 20 mL (1% 251 MeOH/DCM)/Acetone (1:4, v/v) respectively
+ The second and third fraction were combined 252 and evaporated the solvents and transferred into a 1 mL amber ampoule for instrumental 253  The first eluent containing BFRs was concentrated just to dryness in a rotary 255 evaporator and placed in a fully activated silica gel column (Wakogel Q-23, 
+47 cm i
+ d
+ 18 256 cm)
+ The first fraction, containing aliphatic hydrocarbons, was eluted with 5 mL n-hexane
+ The 257 second fraction, containing BFRs was eluted with 15 mL n-hexane/DCM (85:15, v/v) or 10 mL 258 n-hexane/DCM (3:1, v/v)
+ The BFR fraction was concentrated and transferred into a 1 mL 259  To analyze the water samples from the leaching experiment, the water was filtered 263 through a glass fiber filter (GF/F), and f-BDE208, UV327-d20, and BP12-d17 dissolved in 264 acetone were added to the filtrate as surrogates
+ Then, liquid-liquid extraction was carried out 265 with dichloromethane (DCM) at 10% of the volume of the water sample, and the organic phase 266 was collected while dehydrating with anhydrous sodium sulfate
+ This process was repeated 267 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    three times
+ The extracts were concentrated using a rotary evaporator and fractionated and 268 purified using acetylation and 10 % water-inactivated silica gel column chromatography 269  For analysis of BFRs, the solvent was evaporated just to dryness under a nitrogen 273 stream, and the residue was redissolved in 100 mL iso-octane
+ 274  UVs were analyzed on a 5977 quadrupole mass spectrometer fitted with a 7890 gas 275 chromatograph (GCMS; Agilent technologies, Inc
+, Santa Clara, CA, US)
+ An Agilent HP-276 5MS 30-m fused silica capillary column (
+25 mm i
+ d
+, 
+25 mm film thickness) was used with 277 helium as the carrier gas at 100 kPa
+ GCMS operating conditions were set at 70 eV ionization 278 potential with the source at 240  and the electron multiplier voltage at ~2000 eV
+ The 279 injection port was maintained at 300 , and the sample was injected in splitless mode, then 280 purged 2 min after injection
+ The column temperature was held at 100  for 1 min, rose at 281 30 /min to 160 , at 10 /min to 310  and was then held for 10 min
+ After a solvent 282 delay of 4 min, selected ion monitoring mode was used
+ We monitored UV327 at m/z = 342 283 UV234 at 432, BP-12 at 
+ Surrogate standards and IIS were monitored at m/z = 359 284 (UV327-d20), m/z = 343 (BP12-d17), at m/z = 240 (chrysene-d12) respectively
+ These were 285 quantified by comparing the integrated peak area of the quantification ion with that of the IIS 286 as derived from calibration lines drawn for individual UVs
+  287  BFRs were determined by a micro electron capture detector fitted with a HP 7890 gas 288 chromatograph (GC-mECD, Agilent Technologies Inc
+ )
+ An Agilent DB-5 15-m fused silica 289 capillary column (
+25 mm i
+ d
+, 
+25 mm film thickness) was used with helium as the carrier 290 gas
+ To separate BDE208 and f-BDE208 clearly and gain higher peaks of BDE209 and DBDPE, 291 we used ramped pressure mode for the analysis
+ The column pressure was held at 
+19 psi for 292 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    31 min, rose at 15 psi/min to 35 psi, and was then held for 6 min
+ The injection port was 293 maintained at 250 , and the sample was injected in splitless mode, then purged 
+75 min after 294 injection
+ The column temperature was held at 80 for 2 min, rose at 30 /min to 240 , at 295 3 /min to 300  and was then held for 15 min
+ BFRs were identified and quantified against 296  A procedural blank was run in every set analyzed
+ Analytical values less than three 300 times of the corresponding blank are expressed as below the limit of quantification, <LOQ
+ 301 To certificate analytical quality control and quality assurance, quadruplicate mussel samples 302 which were spiked the standard solution of target compounds were analyzed
+ The relative 303 standard deviations of the concentrations of BDE209, DBDPE, UV327, UV234 and BP12 were 304 2%, 2%, 2%, 10% and 12% respectively
+ The averaged recoveries of BDE209, DBDPE, 305 UV327, UV234, and BP12 were 90%, 114%, 92%, 100%, and 83% respectively
+  306  All analysis were conducted in R (R Core Team, )
+ To compare the differences in 309 additive accumulation by mysids, fish muscle, and fish liver among treatments, we used 310 generalized linear models (GLMs) with log link functions
+ A gamma distribution was assumed 311 to account for the positive continuous values because the Shapiro-Wilk normality tests showed 312 that the response variable had a non-normal distribution
+ We used log-transformed sample dry 313 weight as an offset in the models
+ To test the effect of treatment, we performed a likelihood 314 ratio test using the Anova function in the car package (Fox and Weisberg, )
+ For pairwise 315 comparisons, we used Tukeys HSD test as post-hoc analysis
+  316 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;     Overall, 
+33% of the amount of additives were leached out from polyethylene 320 microplastics for 24 h
+ The leaching rate varied among different additives (Table 2) with the 321 mean of 
+16 %
+ BP-12 showed the higher leaching rate (
+79 %) than other additives (<3 %)
+ 322  Concentration of five additives accumulated in mysids significantly differed among 325 treatments (Table )
+ Mysids contained approximately 4-2450 times higher concentrations of 326 additives by ingesting microplastics than those from the ambient environment (Fig
+ )
+ Mysids 327 treated with the leachate seawater also showed slightly elevated concentrations of additives 328 than those from the ambient environment
+ For BP-12, the concentration in mysids treated with 329 the leachate seawater was not significantly different from those exposed to microplastics
+  330  Concentration of the five additives in fish varied significantly among treatments 333 (Table 5) although the patterns of variation greatly differed among additives and between body 334 For BFRs, the treatment had significant effects on their concentrations both in muscle 336 and liver
+ In muscle, fish fed plastic-exposed mysids showed the higher concentrations than 337 those exposed to microplastics suspended in the water column
+ The mean effect was greater in 338 BDE209 (71-fold on dry weight basis, 161-fold on lipid weight basis) than DBDPE (22-fold 339 on dry weight basis, 52-fold on lipid weight basis)
+ Although the lipid weight basis analysis 340 showed the significantly higher concentration in the water treatment than the ambient control, 341 no significant differences were observed between them on dry weight basis
+ Notably, the 342 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    within-treatment variation in the mysid treatment was also greater than the other two treatments
+ 343 In contrast, liver showed no significant difference in the concentration of BDE209 between the 344 mysid and water treatments although they were more than 3 fold greater than the ambient 345 control
+ The same patterns of significant variation was also found for DBDPE except that the 346 concentration in liver in the mysid treatment was not different from the ambient controls
+ Liver 347 showed different accumulation patterns of BFRs between the treatments
+ In the water treatment, 348 the mean concentrations were higher in liver (BDE209: 
+83 ng/g-dry, DBDPE: 
+79 ng/g-dry) 349 than muscle (BDE209: 
+47 ng/g-dry, DBDPE: 
+60 ng/g-dry) while the mysid treatment 350 showed the lower concentrations in liver (BDE209: 
+99 ng/g-dry, DBDPE: 
+52 ng/g-dry) than 351   For UVs, the treatment had significant effects on their concentration except for UV-353 234 in muscle where no treatment effect was observed
+ In muscle, UV-327 and BP-12 showed 354 3-5 fold higher concentrations in the treatment groups than the ambient control (7-12 fold on 355 lipid weight basis)
+ Unlike BDE209 and DBDPE, however, no significant differences were 356 found between the mysid and water treatments
+ In liver, UV-234 and UV-327 respectively 357 showed 9-13 fold and 35-89 fold higher concentration in the treatment groups than the ambient 358 controls, and also the concentration of UV-327 in the mysid treatment was significantly higher 359 than that in the water treatment
+ While BP-12 showed 3-fold higher concentration in the mysid 360 treatment than the ambient control, the concentration in the water treatment was not 361 significantly different from both the mysid treatment and the ambient control
+ In general, liver 362 showed the higher concentrations of UVs in liver than muscle in both treatments, whereas the 363 accumulation tendency between the tissues greatly differed among the chemicals
+ For example, 364 UV-234 showed the greatest increase in liver compared to muscle among UVs (Water: 29-fold, 365 Mysid: 53-fold), whereas BP-12 only showed 7-fold increase in the water treatment and 13-366 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    This study provides the first evidence that microplastic ingestion leads to the tissue 370 accumulation of chemical additives in fish
+ We also revealed that trophic transfer of 371 microplastics enhanced the accumulation of BFRs in fish muscle compared to the waterborne 372 ingestion
+ However, as we observed the equal contribution to the accumulation of UVs between 373 direct ingestion of microplastics from the water column and indirect ingestion via trophic 374 Previous studies showed that microplastics can act as a vector for the transfer of 376 plastic-associated chemicals to marine organisms, but mostly targeted at the environmental 377 contaminants adsorbed onto plastics, such as PCBs and PAHs (Besseling et al, 2013; Rochman 378 et al, )
+ However, some model prediction studies pointed out that microplastics would not 379 increase the body burden of these contaminants in organisms because other input sources like 380 water and food would play a more important role in their accumulation (Bakir et al, 2016; 381 Gouin et al, 2011; Koelmans et al, )
+ In contrast, plastic additives are different from 382 pollutants adsorbed to plastics with respect that they are not attached to the polymer surface, 383 but incorporated into plastics at high concentrations (Gangi, )
+ Several field observation 384 studies found a positive relationship between plastic ingestion and chemical additives detected 385 from marine fish and seabirds (Gassel et al, 2013; Tanaka et al, 2013), suggesting the potential 386 occurrence of the tissue transfer of plastic-derived additives in natural environments
+ Our 387 results support these evidence along with the previous finding by Tanaka et al (2020) where 388 they demonstrated that plastic ingestion led to the tissue accumulation of additives in seabird 389 (Calonectris leucomelas) by the laboratory experiment
+ Gut fluid in both seabird and fish have 390 been shown to play a key role in the leaching of chemicals from plastics (Coffin et al, 2019; 391 Tanaka et al, 2015), which explains the tissue accumulation of chemical additives following 392 plastic ingestion
+ Given the generality of plastic ingestion in fish and detection of additives in 393 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    plastics found in natural environments (Granek et al, 2020; Wang et al, 2020), our study raises 394 a concern about the exposure of these additives to fish
+ 395 We found that trophic transfer of microplastics has greater effects on the accumulation 396 of BDE209 and DBDPE in fish than waterborne ingestion
+ There are three possible 397 explanations for this result which are not exclusive
+ First, fish was exposed to more chemical 398 additives by ingesting microplastics via trophic transfer
+ Our previous study demonstrated that 399 fish ingested greater amount of microplastics via trophic transfer than the waterborne ingestion 400 (Hasegawa and Nakaoka, )
+ Higher ingestion rate of microplastics via trophic transfer 401 should have resulted in the greater exposure intensity of chemical additives in fish stomach
+ 402 Secondly, greater secretion of gut fluid may have elevated the leaching rate of additives from 403 plastics in stomach
+ Gut fluid plays a key role in leaching hydrophobic chemicals from ingested 404 plastics (Coffin et al, 2019; Tanaka et al, )
+ Digesting plastic-contaminated prey could 405 facilitated the secretion of gut fluid in stomach, which may have enhanced the leaching of 406 chemicals from plastics
+ Thirdly, mysids fragmented microplastics into smaller particles and 407 helped the release of chemicals from plastics
+ Some crustacean species can fragment plastics 408 into smaller particles, including mysids (A
+ L
+ Dawson et al, 2018; Hasegawa and Nakaoka, 409 2021; Mateos-Crdenas et al, )
+ Generally, smaller plastics can release chemicals more 410 easily due to their larger surface-to-volume ratio (Wright and Kelly, )
+ Ingesting 411 microplastics from mysids, therefore, changed the size composition of plastics in fish stomach, 412 and may have enhanced the leaching of chemicals
+ Compounds with high molecular weight 413 and high hydrophobicity such as BDE209 and DBDPE (Table 1) were considered difficult to 414 leach out from plastics and to transfer into biological tissues (Braekevelt et al, 2003; Cheng et 415 al, 2020; Sun et al, )
+ However, we demonstrated the elevated accumulation of these 416 compounds in the fish by ingesting microplastics from mysids
+ Thus, our study highlights the 417 importance of indirect exposure via trophic transfer in chemical effects of microplastics on 418 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    Although we observed the greater accumulation of BDE209 and DBDPE via trophic 420 transfer of microplastics, the waterborne exposure equally contributed the accumulation of UV-421 327, UV-234 and BP-
+ This suggests that the trend in accumulation of chemical additives 422 vary depending both on the properties of the chemicals and on exposure pathway
+ Given the 423 ingestion of microplastics from the water column in fish are much lower than the trophic 424 transfer (Hasegawa and Nakaoka, 2021), there could be other accumulation routes in the 425 waterborne exposure of chemical additives
+ In marine fish, there are three possible routes for 426 chemical uptake from the environment: gill uptake, dermal absorption and gut absorption by 427 drinking water (Qiao et al, )
+ Although microplastic ingestion is assumed to only 428 contribute to gut absorption, gill uptake could also be important because microplastics can also 429 accumulate in gill
+ Water flux in the gill of marine benthic fish Oligocottus maculosus, which 430 shares the same family of our target fish M
+ brandti, by ventilation is 300-fold higher than that 431 in stomach by drinking water (Somo et al, 2020; Webb et al, )
+ Also, UV-234, UV-324 432 and BP-12 are likely to leach out from plastics more easily than BDE209 and DBDPE due to 433 their lower molecular weight and less hydrophobic nature (Table )
+ Considering the more 434 frequent contact with microplastics and the lower hydrophobic nature, gill may have also 435 played a role in the transfer of the UVs into fish body
+ Given that mysids accumulated additives 436 leached out from plastics to the water column, fish was also likely to accumulate the additives 437 from the water column in the same manner, especially for BP-12 that showed the higher 438 leaching rate (10%) and the higher accumulation in mysids
+ Although we need further 439 investigation on the mechanism that differentiates the behavior of additives depending on each 440 exposure pathway, both waterborne exposure and trophic transfer of microplastics are 441 Overall, we observed the preferential accumulation of the chemicals in liver over 443 muscle, which is consistent with the previous findings targeted at the same class of compounds 444 (Nakata et al 2009; Tanaka et al )
+ However, the effect size was much smaller in BFRs 445 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    (
+4-16 fold) than UVs (7-53 fold)
+ Tanaka et al (2020) observed the totally opposite trend in 446 seabird that showed the considerably high level of accumulation for BDE209, but less for UV-447 327 and BP-12 in the liver
+ This indicates the species-specific accumulation patterns even in 448 the same compounds
+ Tanaka et al (2020) explained the lower accumulation of BP-12 by the 449 degradation in liver due to the susceptible nature of BP-12 to the metabolization
+ In contrast, 450 BDE209 is known to be resilient to biodegradation because of their high molecular weight
+ As 451 several studies showed that BDE209 and DBDPE can be readily metabolized to lower 452 brominated congeners in fish species (Chen et al, 2012; X
+ Wang et al, 2019), lower 453 accumulation level for these two compounds could be explained by the metabolization
+ Still, 454 we cannot fully exclude this possibility without conducting a depuration experiment to examine 455 in vivo kinetics of these chemicals
+ Future studies should investigate the temporal variation of 456 chemical concentrations in different tissues to understand the fate of plastic additives in 457 Studies have demonstrated that both BFRs and UVs have negative impacts on 459 organisms (Kim et al, 2011; Morohoshi et al, 2005; X
+ Wang et al, )
+ Especially, 460 extensive research have been conducted for BDE209 and have shown that the compound can 461 act as an endocrine disrupter and cause neurotoxicity on fish (Sun et al, 2020; X
+ Wang et al, 462 2019; Y
+ Wang et al, )
+ BDE209 is also concerned for the accumulation in a human body 463 because of the potential adverse health effects (Darnerud, )
+ As global seafood 464 consumption has been increasing over the years, humans may be more frequently exposed to 465 such additives through seafood consumption
+ A simple risk assessment of plastic additives on 466 humans through consumptions of fish can be made as follows
+ First, BDE209 accumulation in 467 fish, dairy intake of BDE209 through seafood consumption was estimated based on the result 468 of BDE209 concentration in fish muscle
+ Assuming annual seafood consumption of 
+6 kg 469 year-1 and the average body weight of 60 kg for adult Japanese (Ministry of Agriculture, 2016; 470 Ministry of Health, 2018) and using our observed data on the mean BDE209 concentration of 471 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    
+70 ng/g
+wet weight in fish muscle considering the both microplastic exposure pathways, dairy 472 intake of BDE209 can be estimated as 
+46 ng/kg/day
+ According to the report from National 473 Institute of Technology and Evaluation, lowest observed adverse effects levels (LOAEL) of 474 BDE209 is estimated as 50 ng/kg/day to induce chronic toxicity for a human (NITE, 2017), 475 which is approximately 110-fold higher than the estimated dairy intake value through seafood 476 consumption
+ As our study used the environmentally relevant concentration of additives, 477 accumulation of plastic additives in fish through microplastic exposure should be negligible 478 for a human body in the current plastic pollution level of the worlds ocean
+ However, current 479 study only shows the marginal results with 10-day microplastic exposure to fish
+ Considering 480 a long-term exposure of microplastics to fish throughout the life, fish would accumulate far 481 more plastic-derived additives
+ A study predicted the abundance of plastics in the ocean would 482 increase 50-fold by 2100 from the present condition (Everaert et al, 2018), suggesting that 483 plastic exposure through seafood consumption would provide a relevant pathway for BDE209 484 to have adverse health effects on a human in the future scenario
+ We are also being exposed to 485 these additives from the daily use of plastic products
+ The risk assessment study estimated a 486 daily exposure amount of BDE209 to humans from different exposure routes such as inhalation 487 of inside dusts or elution from plastic products, but did not include the exposure through 488 seafood consumption (NITE, )
+ This study clearly showed the chemical accumulation in 489 fish following microplastic exposure
+ Thus, these risk assessment studies should consider 490 seafood consumption as a factor for the exposure of plastic-derived chemicals to a human body
+ 491  This study is the first to demonstrate that microplastic ingestion can lead to tissue 494 accumulation of chemical additives in fish
+ We also revealed that indirect exposure of 495 microplastics via trophic transfer can enhance the accumulation of BDE209 and DBDPE that 496 were assumed difficult to accumulate in organisms because of their low leachability from 497 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    plastics
+ Some studies have suggested that microplastics themselves do not accumulate in the 498 body and have negligible effects on organisms because they can be excreted from the body
+ 499 Whereas, our findings indicate that microplastics play an important role in chemical 500 bioaccumulation
+ As many chemical additives are potentially toxic, this study raises the 501 concern about their negative impacts on marine ecosystems
+ To better understand the fates and 502 the effects of chemical additives accumulated in organisms, further research should examine 503 Andrady, A
+ L
+, 
+ Microplastics in the marine environment
+ Mar
+ Pollut
+ Bull
+ 62, 1596507 Auta, H
+ S
+, Emenike, C
+ U
+, Fauziah, S
+ H
+, 
+ Distribution and importance of microplastics 509 in the marine environment: A review of the sources, fate, effects, and potential solutions
+ 510 Bakir, A
+, OConnor, I
+ A
+, Rowland, S
+ J
+, Hendriks, A
+ J
+, Thompson, R
+ C
+, 
+ Relative 512 importance of microplastics as a pathway for the transfer of hydrophobic organic 513 Beiras, R
+, Bellas, J
+, Cachot, J
+, Cormier, B
+, Cousin, X
+, Engwall, M
+, Gambardella, C
+, 516 Garaventa, F
+, Keiter, S
+, Le Bihanic, F
+, Lpez-Ibez, S
+, Piazza, V
+, Rial, D
+, Tato, T
+, 517 Vidal-Lin, L
+, 
+ Ingestion and contact with polyethylene microplastics does not 518 cause acute toxicity on marine zooplankton
+ J
+ Hazard
+ Mater
+ 360, 
+ 519 Beiras, R
+, Schnemann, A
+ M
+, 
+ Currently monitored microplastics pose negligible 521 ecological risk to the global ocean
+ Sci
+ Rep
+ 10, 
+  (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    Besseling, E
+, Wegner, A
+, Foekema, E
+ M
+, Van Den Heuvel-Greve, M
+ J
+, Koelmans, A
+ A
+, 524 
+ Effects of microplastic on fitness and PCB bioaccumulation by the lugworm 525 Braekevelt, E
+, Tittlemier, S
+ A
+, Tomy, G
+ T
+, 
+ Direct measurement of octanol-water 528 Burns, E
+ E
+, Boxall, A
+ B
+ A
+, 
+ Microplastics in the aquatic environment: Evidence for or 531 against adverse impacts and major knowledge gaps
+ Environ
+ Toxicol
+ Chem
+ 37, 2776532 Campanale, C
+, Massarelli, C
+, Savino, I
+, Locaputo, V
+, 
+ A detailed review study on 534 potential effects of microplastics and additives of concern on human health
+ 535 Chen, Q
+, Yu, L
+, Yang, L
+, Zhou, B
+, 
+ Bioconcentration and metabolism of 536 decabromodiphenyl ether ( BDE-209 ) result in thyroid endocrine disruption in zebrafish 537 Cheng, H
+, Luo, H
+, Hu, Y
+, Tao, S
+, 
+ Release kinetics as a key linkage between the 540 occurrence of flame retardants in microplastics and their risk to the environment and 541 Coffin, S
+, Huang, G
+ Y
+, Lee, I
+, Schlenk, D
+, 
+ Fish and seabird gut conditions enhance 544 desorption of estrogenic chemicals from commonly-ingested plastic items
+ Environ
+ Sci
+ 545 Cole, M
+, Lindeque, P
+, Fileman, E
+, Halsband, C
+, Goodhead, R
+, Moger, J
+, Galloway, T
+ S
+, 547 
+ Microplastic ingestion by zooplankton
+ Environ
+ Sci
+ Technol
+ 47, 
+ 548 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    Cole, M
+, Lindeque, P
+, Halsband, C
+, Galloway, T
+ S
+, 
+ Microplastics as contaminants in 550 the marine environment: A review
+ Mar
+ Pollut
+ Bull
+ 62, 
+ 551 Cunningham, E
+ M
+, Sigwart, J
+ D
+, 
+ Environmentally accurate microplastic levels and 553 their absence from exposure studies
+ Integr
+ Comp
+ Biol
+ 59, 
+ 554 Darnerud, P
+ O
+, 
+ Brominated flame retardants as possible endocrine disrupters 
+ 556 Dawson, A
+, Huston, W
+, Kawaguchi, S
+, King, C
+, Cropp, R
+, Wild, S
+, Eisenmann, P
+, 558 Townsend, K
+, Bengtson Nash, S
+ M
+, 
+ Uptake and depuration kinetics influence 559 Dawson, A
+ L
+, Kawaguchi, S
+, King, C
+ K
+, Townsend, K
+ A
+, King, R
+, Huston, W
+ M
+, 562 Bengtson Nash, S
+ M
+, 
+ Turning microplastics into nanoplastics through digestive 563 Derraik, J
+ G
+ B
+, 
+ The pollution of the marine environment by plastic debris: A review
+ 566 Desforges, J
+ P
+ W
+, Galbraith, M
+, Dangerfield, N
+, Ross, P
+ S
+, 
+ Widespread distribution 568 of microplastics in subsurface seawater in the NE Pacific Ocean
+ Mar
+ Pollut
+ Bull
+ 79, 569 Duis, K
+, Coors, A
+, 
+ Microplastics in the aquatic and terrestrial environment: sources 571 (with a specific focus on personal care products), fate and effects
+ Environ
+ Sci
+ Eur
+ 28, 572 Erni-Cassola, G
+, Gibson, M
+ I
+, Thompson, R
+ C
+, Christie-Oleza, J
+ A
+, 
+ Lost, but found 574 with nile red: A novel method for detecting and quantifying small microplastics (1 mm 575 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    to 20 m) in environmental samples
+ Environ
+ Sci
+ Technol
+ 51, 
+ 576 Everaert, G
+, Van Cauwenberghe, L
+, De Rijcke, M
+, Koelmans, A
+ A
+, Mees, J
+, 578 Vandegehuchte, M
+, Janssen, C
+ R
+, 
+ Risk assessment of microplastics in the ocean: 579 Fox, J
+, Weisberg, S
+, 
+ An {R} Companion to Applied Regression, Third
+ ed
+ Sage, 582 Gangi, J
+ Di, 
+ Phthalates in PVC medical products from 12 countries
+ Greenpeacee, 584 Gassel, M
+, Harwani, S
+, Park, J
+, Jahn, A
+, 
+ Detection of nonylphenol and persistent 586 organic pollutants in fish from the North Pacific Central Gyre
+ Mar
+ Pollut
+ Bull
+ 73, 587 Gouin, T
+, Roche, N
+, Lohmann, R
+, Hodges, G
+, 
+ A thermodynamic approach for 589 assessing the environmental exposure of chemicals absorbed to microplastic
+ Environ
+ 590 Granek, E
+ F
+, Brander, S
+ M
+, Holland, E
+ B
+, 
+ Microplastics in aquatic organisms: 592 Improving understanding and identifying research directions for the next decade
+ 593 Hasegawa, T
+, Nakaoka, M
+, 
+ Trophic transfer of microplastics from mysids to fish 595 greatly exceeds direct ingestion from the water column
+ Environ
+ Pollut
+ 273, 
+ 596 Hermabessiere, L
+, Dehaut, A
+, Paul-Pont, I
+, Lacroix, C
+, Jezequel, R
+, Soudant, P
+, Duflos, 598 G
+, a
+ Occurrence and effects of plastic additives on marine environments and 599 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    Hermabessiere, L
+, Dehaut, A
+, Paul-Pont, I
+, Lacroix, C
+, Jezequel, R
+, Soudant, P
+, Duflos, 602 G
+, b
+ Occurrence and effects of plastic additives on marine environments and 603 Huang, W
+, Song, B
+, Liang, J
+, Niu, Q
+, Zeng, G
+, 
+ Microplastics and associated 606 contaminants in the aquatic environment: A review on their ecotoxicological effects , 607 trophic transfer , and potential impacts to human health
+ J
+ Hazard
+ Mater
+ 
+ 608 Khosrovyan, A
+ 
+, Marin, M
+ J
+ S
+ 
+, Peret, A
+ M
+ 
+, De Almeida, D
+ F
+ 
+, Angel DelValls, T
+ 
+, Riba, 610 I
+ 
+, 
+ Weight-of-evidence-based assessment of sediment quality of the So Francisco 611 River (Brazil) with the help of software tool SQA
+ iEMSs 2012 - Manag
+ Resour
+ a Ltd
+ 612 Planet Proc
+ 6th Bienn
+ Meet
+ Int
+ Environ
+ Model
+ Softw
+ Soc
+ 
+ 613 Kim, J
+ W
+, Chang, K
+ H
+, Isobe, T
+, Tanabe, S
+, 
+ Acute toxicity of benzotriazole 614 ultraviolet stabilizers on freshwater crustacean (Daphnia pulex)
+ J
+ Toxicol
+ Sci
+ 36, 615 Koelmans, A
+ A
+, Bakir, A
+, Burton, G
+ A
+, Janssen, C
+ R
+, 
+ Microplastic as a vector for 617 Lenz, R
+, Enders, K
+, Nielsen, T
+ G
+, 
+ Microplastic exposure studies should be 620 Mateos-Crdenas, A
+, OHalloran, J
+, van Pelt, F
+ N
+ A
+ M
+, Jansen, M
+ A
+ K
+, 
+ Rapid 623 fragmentation of microplastics by the freshwater amphipod Gammarus duebeni (Lillj
+ )
+ 624 Ministry of Agriculture, F
+ and F
+, 
+ Status of seafood consumption in Japan [WWW 626 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    Ministry of Health, L
+ and W
+, 
+ Average height and weight of Japanse by age and sex 629 Morohoshi, K
+, Yamamoto, H
+, Kamata, R
+, Shiraishi, F
+, Koda, T
+, Morita, M
+, 
+ 632 Estrogenic activity of 37 components of commercial sunscreen lotions evaluated by in 633 Nakata, H
+, Murata, S
+, Filatreau, J
+, 
+ Occurrence and concentrations of benzotriazole 635 UV stabilizers in marine organisms and sediments from the Ariake Sea, Japan
+ Environ
+ 636 NITE, 
+ Risk assessment for chemical substances contained in products: 638 Qiao, P
+, Gobas, F
+ A
+ P
+ C
+, Farrell, A
+ P
+, 
+ Relative contributions of aqueous and dietary 642 uptake of hydrophobic chemicals to the body burden in juvenile rainbow trout
+ Arch
+ 643 R Core Team, 
+ R: A Language and Environment for Statistical Computing
+ 645 Rani, M
+, Shim, W
+ J
+, Han, G
+ M
+, Jang, M
+, Al-Odaini, N
+ A
+, Song, Y
+ K
+, Hong, S
+ H
+, 
+ 646 Qualitative Analysis of Additives in Plastic Marine Debris and Its New Products
+ Arch
+ 647 Rochman, C
+ M
+, Hoh, E
+, Kurobe, T
+, Teh, S
+ J
+, 
+ Ingested plastic transfers hazardous 649 chemicals to fish and induces hepatic stress
+ Sci
+ Rep
+ 3, 
+ 650 Rochman, C
+ M
+, Lewison, R
+ L
+, Eriksen, M
+, Allen, H
+, Cook, A
+ M
+, Teh, S
+ J
+, 
+ 652 Polybrominated diphenyl ethers (PBDEs) in fish tissue may be an indicator of plastic 653 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    Rummel, C
+ D
+, Lder, M
+ G
+ J
+, Fricke, N
+ F
+, Lang, T
+, Griebeler, E
+, Janke, M
+, Gerdts, G
+, 656 
+ Plastic ingestion by pelagic and demersal fish from the North Sea and Baltic Sea
+ 657 Somo, D
+ A
+, Onukwufor, J
+ O
+, Wood, C
+ M
+, Richards, J
+ G
+, 
+ Interactive effects of 659 temperature and hypoxia on diffusive water flux and oxygen uptake rate in the tidepool 660 sculpin, Oligocottus maculosus
+ Comp
+ Biochem
+ Physiol
+ -Part A  Mol
+ Integr
+ 661 Sun, B
+, Hu, Y
+, Cheng, H
+, Tao, S
+, 
+ Releases of brominated flame retardants (BFRs) 663 from microplastics in aqueous medium: Kinetics and molecular-size dependence of 664 Sun, Y
+, Wang, Y
+, Liang, B
+, Chen, T
+, Zheng, D
+, Zhao, X
+, Jing, L
+, Zhou, X
+, Sun, Z
+, Shi, 666 Z
+, 
+ Hepatotoxicity of decabromodiphenyl ethane ( DBDPE ) and 667 decabromodiphenyl ether ( BDE-209 ) in 28-day exposed Sprague- Dawley rats
+ Sci
+ 668 Tanaka, K
+, Takada, H
+, Yamashita, R
+, Mizukawa, K
+, Fukuwaka, M
+ aki, Watanuki, Y
+, 670 
+ Accumulation of plastic-derived chemicals in tissues of seabirds ingesting marine 671 Tanaka, K
+, Takada, H
+, Yamashita, R
+, Mizukawa, K
+, Fukuwaka, M
+ A
+, Watanuki, Y
+, 
+ 673 Facilitated leaching of additive-derived PBDEs from plastic by seabirds stomach oil 674 Tanaka, K
+, van Franeker, J
+ A
+, Deguchi, T
+, Takada, H
+, 
+ Piece-by-piece analysis of 677 additives and manufacturing byproducts in plastics ingested by seabirds: Implication for 678 risk of exposure to seabirds
+ Mar
+ Pollut
+ Bull
+ 145, 
+ 679 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    Tanaka, K
+, Watanuki, Y
+, Takada, H
+, Ishizuka, M
+, Yamashita, R
+, Kazama, M
+, Hiki, N
+, 681 Kashiwada, F
+, Mizukawa, K
+, Mizukawa, H
+, Hyrenbach, D
+, Hester, M
+, Ikenaka, Y
+, 682 Nakayama, S
+ M
+ M
+, 
+ In vivo accumulation of plastic-derived chemicals into 683 Walkinshaw, C
+, Lindeque, P
+ K
+, Thompson, R
+, Tolhurst, T
+, Cole, M
+, 
+ Microplastics 685 and seafood: lower trophic organisms at highest risk of contamination
+ Ecotoxicol
+ 686 Wang, W
+, Ge, J
+, Yu, X
+, 
+ Bioavailability and toxicity of microplastics to fish species: 688 Wang, X
+, Ling, S
+, Guan, K
+, Luo, X
+, Chen, L
+, Han, J
+, Zhang, W
+, Mai, B
+, Zhou, B
+, 
+ 691 decabromodiphenyl ethane (DBDPE), a novel brominated flame retardant, in zebrafish 693 Wang, Y
+, Chen, T
+, Sun, Y
+, Zhao, X
+, Zheng, D
+, Jing, L
+, Zhou, X
+, Sun, Z
+, Shi, Z
+, 
+ 695 A comparison of the thyroid disruption induced by decabrominated diphenyl ethers 696 (BDE-209) and decabromodiphenyl ethane (DBDPE) in rats
+ Ecotoxicol
+ Environ
+ Saf
+ 697 Wardrop, P
+, Shimeta, J
+, Nugegoda, D
+, Morrison, P
+ D
+, Miranda, A
+, Tang, M
+, Clarke, 699 B
+ O
+, 
+ Chemical pollutants sorbed to ingested microbeads from personal care 700 Webb, N
+ A
+, Shaw, J
+ R
+, Morgan, J
+, Hogstrand, C
+, Wood, C
+ M
+, 
+ Acute and chronic 703 physiological effects of silver exposure in three marine teleosts
+ Aquat
+ Toxicol
+ 54, 704 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    Wright, S
+ L
+, Kelly, F
+ J
+, 
+ Plastic and human health: A micro issue? Environ
+ Sci
+ 706 Wright, S
+ L
+, Thompson, R
+ C
+, Galloway, T
+ S
+, 
+ The physical impacts of microplastics 708 Zhang, F
+, Wang, X
+, Xu, J
+, Zhu, L
+, Peng, G
+, Xu, P
+, Li, D
+, 
+ Food-web transfer of 711 microplastics between wild caught fish and crustaceans in East China Sea
+ Mar
+ Pollut
+ 712 Ziccardi, L
+ M
+, Edgington, A
+, Hentz, K
+, Kulacki, K
+ J
+, Kane Driscoll, S
+, 
+ 714 Microplastics as vectors for bioaccumulation of hydrophobic organic chemicals in the 715 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    Table 1 Profile of additives compounded in the plastics used for the experiment
+ Octanol-water 721 partition coefficient (Kow) is represented as a hydrophobicity parameter of each chemical 722 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    Table 2 Result of the leaching experiment with 2 mg of microplastics exposed to 1-L seawater 724 for 24 h
+ SE represents standard error
+ Grey colored cells represent values under the limit of 725 quantifications (LOQ)
+ All DBDPE values are technically lower than LOQ because the blank 726 BDE 209 
+127  713  60951  
+27  
+27  
+86% 
+72% DBDPE 
+0  148  21930  
+13  
+53  
+61% 
+20% UV 327 
+208  722  66262  
+12  
+34  
+70% 
+18% UV 234 
+327  794  9662  
+2  
+94  
+83% 
+71% BP 12 
+83 246  12082  
+8  
+14  
+79% 
+07% (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    Table 3 Results of likelihood ratio test on the generalized linear model for the concentrations 730 of additives in mysid as functions of treatment (ambient control, leachate treatment, and 731 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    Table 4 Results of likelihood ratio test on the generalized linear model for the concentrations 735 of additives in fish muscle and liver as functions of treatment (ambient control, water treatment, 736 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    Fig
+ 
+ Size distribution of polyethylene microplastics used for the experiment
+ Red line 742 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    Fig
+ 
+ Composition of additives in polyethylene microplastics used for the experiment
+ 745 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    Fig
+ 3 Concentration of the five additives in mysids per individual, collected from the ambient 748 environment (ABT), treated with the leachate seawater (LCT), and exposed to microplastics 749 (MPs)
+ Results are shown as box and whisker plots with median (solid horizontal line), 750 interquartile range (25th and 75th percentiles; box), and the 10th and 90th percentiles 751 (whiskers)
+ Different letters denote significant differences by post-hoc comparison (p < 
+05 752 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    Fig
+ 
+ Concentration of the five additives in fish body and liver, collected from the ambient 756 environment (ABT), exposed to microplastics suspended in the water column (Water), and fed 757 plastic-exposed mysid (Mysid)
+ Both dry weight and lipid weight base concentrations are 758 shown for body, but only the dry weight base concentration is shown for liver because the 759 available sample volume was limited
+ Results are shown as box and whisker plots with median 760 (solid horizontal line), interquartile range (25th and 75th percentiles; box), and the 10th and 761 90th percentiles (whiskers)
+ Different letters denote significant differences by post-hoc 762 comparison (p < 
+05 GLM with post-hoc Tukeys HSD)
+  763 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 10, 
+ ;    

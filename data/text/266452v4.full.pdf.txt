@@ -1,0 +1,213 @@
+FDAAA TrialsTracker: A live informatics tool to monitor compliance with FDA requirements to report clinical trial resultsA live informatics tool to monitor compliance with FDA requirements to reportIntroduction: Non-publication of clinical trials results is an ongoing issue
+ In 2016 the USgovernment updated the results reporting requirements to ClinicalTrials
+gov for trials coveredunder the FDA Amendments Act 
+ We set out to develop and deliver an online tool whichpublicly monitors compliance with these reporting requirements, facilitates open public audit, andMethods: We conducted a review of the relevant legislation to extract the requirementson reporting results
+ Specific areas of the statutes were operationalized in code based on the resultsof our policy review, publicly available data from ClinicalTrials
+gov, and communications withClinicalTrials
+gov staff
+ We developed methods to identify trials required to report results, usingpublicly available registry data; to incorporate additional relevant information such as key datesand trial sponsors; and to determine when each trial became due
+ This data was then used toResults: There were a number of administrative and technical hurdles to successful oper-ationalization of our tracker
+ Decisions and assumptions related to overcoming these issues aredetailed along with clarifications directly from ClinicalTrials
+ gov
+ The FDAAA TrialsTracker wassuccessfully launched in February 2018 and provides users with an overview of results reportingDiscussion: Clinical trials continue to go unreported despite numerous guidelines, com-mitments, and legal frameworks intended to address this issue
+ In the absence of formal sanctionsfrom the FDA and others, we argue tools such as ours - providing live data on trial reporting -can improve accountability and performance
+ In addition, our service helps sponsors identifytheir own individual trials that have not yet reported results: we therefore offer positive practicalsupport for sponsors who wish to ensure that all their completed trials have reported
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    On or after January 2008, if Primary Completion Date not specifiedStudy Start Date On or after January 18, 2017 Before January 18, certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    a For all date values, when only a Month/Year were given, dates were defaulted to the last day of the given monthb "Completion Date" field was used when "Primary Completion Date" was not available
+c "US Territories" include American Samoa, Guam, Northern Mariana Island, Puerto Rico and the U
+ S
+ Virgind "Is FDA Regulated" field available via archived ClinicalTrials
+gov record from January 5, 
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    Trial does not have a disposition to delay results OR it hasa For all date values, when only a Month/Year were given, dates were defaulted to the last day of the givenb "Completion Date" field was used when "Primary Completion Date" was not available
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    Figure 1: Ranked Sponsor Page (Data as of 1 Oct )Figure 2: Single Trials Page (Data as of 1 Oct )certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    of data; in the writing of the report; and in theResults http : / / www 
+ who 
+ int / ictrp /certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    
+ Miller, J
+ E
+, Korn, D
+ & Ross, J
+ S
+ Clinicalcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    
+ Zarin, D
+ A
+, Tse, T
+, Williams, R
+ J
+ & Carr,tion en
+  : / / www 
+ fda 
+ gov /
+ Prayle, A
+ P
+, Hurley, M
+ N
+ & Smyth, A
+ R
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    I am interested in assessing some characteristics of applicable clinical trials (ACT) per 42 CFRChecklist
+pdf) but a number of the data elements used to determine whether any given recordUsing the advanced search, I created a full XML record of all phase 2-4 interventional studiesposted from January 18, 2017 until the end of October 
+ This covered 5,640 records in totalNone of the publicly available XML contained the following data fields referenced in the above"U
+ S
+ Food and Drug Administration IND or IDE Number" "Product Manufactured in andExported from the U
+ S
+" "Studies a U
+ S
+ FDA-regulated Device Product" "Studies a U
+ S
+I was also unable to locate any specific flag or field that would note if a given record meetsthe criteria of an ACT
+ Are there plans to create such a flag, or make the required elementsnecessary to determine an ACT public, so trials can be easily identified for analysis? It appearsthat it is currently impossible for a member of the public to definitively identify an ACT inYes, you are correct, we do not have some of the data fields available
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    Per my previous question (Ticket #28045-279395) I would like to follow-up
+Our goal is to determine whether a certain trial is an applicable clinical trial (ACT) as thisinformation is important for ascertaining whether researchers are meeting their statutory
+ Do you know internally whether a given trial is an ACT? If so, is this obtained by utiliz-
+ To confirm, based on the information available to the public on ClinicalTrials
+gov there iscurrently no definitive way to establish whether a given trial is an ACT?
+ Would we be able to apply or petition for an ACT flag, or the appropriate underlying data
+ All trials internally are marked ACT, PACT or NON ACT
+ We do this by using the check list
+The administrator at your organization have this information and we supply reports to them
+ 
+ I will pass this on to our systems team, however in some case if we did this, proprietarycertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    I was curious as what the delay is for posting results to clinical trials
+gov after they are receivedfrom the responsible party? Is this defined in law? What would be a safe amount of time to addto the 1 year statuary requirement as an administrative buffer for results to be posted?certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    Pursuant to my previous ticket #28045-292644, I would like to request further clarificationconcerning posting results information beyond what is available in the FAQ
+My team will shortly be launching a tool which tracks and identifies trials that appear tohave breached the FDAAA2007 requirement to post results to clinicaltrials
+gov within months of trial completion as described in 42 CFR Part 
+ We have read the FAQ as well asthe relevant sections of the FDAAA 2007 final rule (specifically those pertaining to section 
+ 
+ )
+To confirm, if an Applicable Clinical Trial with no Certificate of Delay (or other noted dispensation)and no results posted publicly on ClinicalTrials
+gov after 12 months plus 30 calendar days after itsprimary completion date, is it reasonable to assume it has breached the FDAAA requirement topost results? Or could there be further delays before a trials results appear on clinicaltrials
+govPlease note, they could have submitted the data to us, however because the of the review process,certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    My prior inquiries #28045-293891 and #28045-292644 are related to the timeline for posting resultson ClincialTrials
+gov following their submission be the responsible parties
+ The last response"They [the responsible party] could have submitted the data to us, however because the of theHowever the FDAAA Final Rule strongly states that the results information will be posted onlinewithin 30 days of the due date, with no further delays for quality control, and indeed discussesthe benefits and hazards of posting results before they have had a more lengthy review
+ I haveposted the relevant sections of the Rule below
+ Can you please tell me if there is some additionalcause for delay that we are unaware of, that is not covered by this aspect of the Final Rule? Or, ifsomething has been changed, could you tell us what the new deadline is, and where we can readmore about how this aspect of the Final Rule has been revised?
+52 - By when will the NIH Director post submitted clinical trial results information? Overviewof Statutory Provisions and Proposal According to section 402(j)(3)(G) of the PHS Act, forapplicable clinical trials, the Director of NIH is required to post results information "publicly inthe registry and results database not later than 30 days after such submission
+"Commenters expressed concern about the potential to misinform those using the public recordand suggested only posting sections that have fulfilled quality control criteria
+ Some commenterssuggested that the harm of posting information before the quality control review process hasconcluded is greater than the benefit of posting the information in a timely manner
+ While weunderstand these concerns, we interpret the statutory posting deadline to be a clearly delineatedtimeline between submission and posting
+ In addition, in the event that a study record is postedin accordance with the statutory posting deadline and the quality control review process has notconcluded, the clinical trial record will contain information that will be visible to those viewingthe record on ClinicalTrials
+gov to make it clear that the quality control review process has notcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    I have previously been in touch concerning details related to the new results reportingThe last of these (#28045-295627) has not yet been replied to however I understand that thismay have gotten lost in the bustle of the holidays
+ I have repeated this question along with two
+ The last response to one of my inquiries regarding the timeline for reporting results"They [the responsible party] could have submitted the data to us, however because the of theHowever the FDAAA Final Rule strongly states that the results information will be posted onlinewithin 30 days of the due date, with no further delays for quality control, and indeed discussesthe benefits and hazards of posting results before they have had a more lengthy review
+ 
+52 of the Final Rule states that: "The Director will post publicly on ClinicalTrials
+gov theclinical trial registration information, except for certain administrative data, for an applicabledrug clinical trial not later than 30 calendar days after the responsible party has submitted suchEarlier in the same document, the rationale and interpretation of this requirement is described at"Commenters expressed concern about the potential to misinform those using the public recordand suggested only posting sections that have fulfilled quality control criteria
+ Some commenterssuggested that the harm of posting information before the quality control review process hasconcluded is greater than the benefit of posting the information in a timely manner
+ While weunderstand these concerns, we interpret the statutory posting deadline to be a clearly delineatedtimeline between submission and posting
+ In addition, in the event that a study record is postedin accordance with the statutory posting deadline and the quality control review process has notconcluded, the clinical trial record will contain information that will be visible to those viewingthe record on ClinicalTrials
+gov to make it clear that the quality control review process has notCan you please tell me if there is some additional cause for delay that we are unaware of, that isnot covered by this aspect of the Final Rule? We noticed the recent posting about new featuresenhanced
+html) included a section on the new "Results Submitted" tab
+ This would appear tocontradict the Final Rule and allow for quality control to delay the posting of results longer thancertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    
+ Regarding the new "Results Submitted" feature, we noticed that this does not appear tocurrently be represented in the XML of study records
+ Specifically, XML records for studies thatinclude this new tab say "No Results Available" for the <study_results> section with no otherindication in the record that results have been submitted but are currently undergoing qualityIs this correct? Are there any plans to add notation to the XML describing the informationcurrently represented on the "Results Submitted" tab? If so when would that be expected?pdf) can you confirm that when responsible parties are inputting trial data to ClinicalTrials
+gov,they must have at least one aspect of criteria 2 checked (facility in US, IND/IDE, manufac-tured/exported from US) in order to be able to provide an affirmative response to criteria 
+ The 30-day posting requirement has not yet been implemented
+ Please see the PRS Info Page April 18, 2017: Study record review comments provided by the National Library of Medicine(NLM) as part of the QC review process are labeled as either Major or Advisory commentswhen returned to the responsible party
+ While each major issue identified in the commentsmust be corrected or addressed, advisory issues are suggestions to help improve the clarity of December 18, 2017: Study records with results submitted but not yet posted on ClinicalTri-als
+gov include a Results Submitted tab (in place of the No Results Posted tab) to help userstrack the submission and QC review status of results information
+ The tab displays a table ofdates showing when results information was submitted and, if applicable, returned to theresponsible party with QC review comments identifying at least one major issue
+ In addition,the following dates are summarized on the Key Record Dates page for each record: More information on the remaining steps to implement fully the quality control review criteriaand process, including posting of clinical trial information that has not yet met QC criteria,certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    
+ Required and optional data elements are described in the ClinicalTrials
+gov Proto-The "Product Manufactured in and Exported from the U
+ S
+" is required if U
+ S
+ FDA-regulatedDrug and/or U
+ S
+ FDA-regulated Device is "Yes," U
+ S
+ FDA IND or IDE is "No", and FacilityPlease see the FDAAA 801 Problems section of the PRS Users Guide (at: planation on the data elements used to identify probable applicable clinical trials (pACTs) andcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    can you confirm that when responsible parties are inputting trial data to ClinicalTrials
+gov,they must have at least one aspect of criteria 2 checked (facility in US, IND/IDE, manufac-tured/exported from US) in order to be able to provide an affirmative response to criteria "Required and optional data elements are described in the ClinicalTrials
+gov Protocol Reg-The "Product Manufactured in and Exported from the U
+ S
+" is required if U
+ S
+ FDA-regulated Drug and/orU
+ S
+ FDA-regulated Device is "Yes," U
+ S
+ FDA IND or IDE is "No", and Facility Information does notPlease see the FDAAA 801 Problems section of the PRS Users Guide (at: elements used to identify probable applicable clinical trials (pACTs) and applicable clinical trials (ACTs) inWe had previously reviewed the "Protocol Registration Data Element Definitions" and understandwhat is and is not required by the responsible parties entering data
+ However, this response doesTo clarify, we would like to know if, functionally, when a responsible party is entering informationinto the ClinicalTrials
+gov website, would they be able to enter information into the "FDA-regulatedDrug and/or Device" field without first meeting one of the conditions of criteria 2 (facility in US,We ask because we are interested in being able to identify ACTs using the public data, howeversince "U
+ S
+ FDA IND or IDE" data element is not public, it would not be possible to definitivelyidentify an ACT
+ However, in discussions with colleagues, we have heard that the criteria inquestion 2, while required, may be redundant to criteria 3 for publicly determining ACT statussince criteria 3 cannot be entered without first meeting one of the requirements outlined in crite-ria 
+ We would like confirmation of this fact as it would be helpful our ACT identification protocol
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    If you enter no US locations, and answered NO to the question Product Exported from U
+S andyou answered YES to either U
+ S
+ FDA-regulated Drug or U
+ S
+ FDA-regulated Device, then youERROR: U
+ S
+ FDA-regulated Drug cannot be Yes unless this study is an IND study, has one ormore U
+ S
+ Locations, or is a study of a drug that is exported from the U
+ S
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    Are responsible parties required to add a date to their Primary Completion Date field on aClinicalTrials
+gov registry entry once that date has been reached or is it allowable to remain inFor instance, if a trial had a primary completion date of "January 2017" are they technicallyviolating their responsibility to maintain their record if they have not yet specified which dayin January 2017 or updated their entry with additional information concerning a new primaryIf responsible parties are not required to provide a "Day" in this field, how are the variousThe following is listed in the protocol registration data elements
+ Once the clinical study has reached the primary completion date, the responsible party mustupdate the Primary Completion Date to reflect the actual primary completion date
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    Per my previous ticket #28045-324772, can you please confirm that a specific date is requiredto be entered for the "primary completion date" and "completion date" fields by sponsors onHowever, this is not explicit that an "Actual Primary Completion Date" is expected to include thecertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    I have previously written and was informed that, per ACT criteria, a trial that selects yes to the"FDA Regulated Drug Product/Device" field would necessarily mean that one of the "exportedfrom the US," "part of an IND/IDE," or "study site in the US" criteria would be true
+ If a trial thatmeets pACT criteria updates to include the new "FDA Regulated Drug/Device" fields, does itmake more sense to switch the assessment of these trials to use the ACT criteria than the pACTcriteria, assuming the above assumption holds true? It seems to me that when these new fields areavailable and updated by the sponsor, that would mean the ACT criteria can be applied even forHi there, It is only an ACT if it started on or after //
+Yes, I understand this per my original message
+ My question is, since certain information (specifi-cally IND/IDE status) is not available to the public, can we rely on the newly added fields (i
+ e
+ FDARegulated Drug/Device) when they are added to a pre-Jan 18, 2017 trial, in order to determine if atrial that meets all the other pACT criteria, but say, has no US location, to determine whether thattrial is a pACT (or more clearly, whether that trial is required to report results under the Final Rule)
+Back to your original email, the "pACT" and "ACT" labels are just naming conventions used onlyin the PRS to assist responsible parties in identifying trials subject to section 402(j) of the PHS Act(pACT) and the newer requirements in 42 CFR Part 11 (ACT)
+"Beyond their primary purpose, the ACT Checklist and Elaboration may also be useful to assist inevaluating whether a clinical trial or study that was initiated before January 18, 2017, and which isnot subject to the final rule requirements, is an ACT under section 402(j) of the Public Healthcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    We note that Responsible Parties or other users of the ACT Checklist and Elaboration areresponsible for using accurate data about a clinical trial or study and for properly evaluatingwhether the trial or study must be registered and, if so, which results must be submitted
+"certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 18, 
+ ;    

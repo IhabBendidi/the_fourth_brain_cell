@@ -1,0 +1,1279 @@
+Predictive Modelling of The Dynamic Patterns of Thinking in Attention-Deficit/Hyperactivity Disorder: Diagnostic Accuracy of Spatiotemporal Fractal Measures[5] Victoria University of Wellington, School of Mathematics, Statistics and Operations[6] Victoria University of Wellington, School of Biological Sciences
+ New Zealand
+[7] Victoria University of Wellington, School of Engineering and Computer Science
+ Newwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    ive, clinically useful, diagnostic marker is available to date
+ Objectives: Using acustomized definition of EF and a new clinical paradigm, we performed a prospectivediagnostic accuracy trial to assess the diagnostic value of several fractal measures fromthe thinking processes or inferences in a cohort of ADHD children and typically devel-oping controls
+ Method: We included children from age five to twelve diagnosed witha reference standard based on case history, physical and neurological examination,Conners 3rd Edition, and DSM-VTM
+ The index test consisted of a computer-basedinference task with a set of eight different instances of the Battleships game to besolved
+ A consecutive series of 18 cases and 18 controls (n = 36) recruited at theprimary paediatrics service from the Nelson Marlborough Health in New Zealand un-derwent the reference standard and the index test
+ Several fractal measures wereobtained from the inference task to produce supervised classification models
+ Res-eight games played by each children yielded a 100% classification accuracy, sensitivityand specificity in both a training and an independent testing/validating cohort
+ Con-clusions: From a translational vantage point the expeditious method and the robustresults make this technique a promising candidate to develop a screening, diagnosticand monitoring system for ADHD, and may serve to assess other EF disturbances
+ 
+ Combined presentation: when six or more symptoms of both inattentionwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    
+ Predominantly inattentive presentation: if six or more symptoms of inat-that the overall pooled prevalence rate of ADHD is around 
+2% (CI 95%: 
+to 
+8) (Thomas et al, )
+ The exact aetiology of ADHD remains unknownis complicated and of a limited success (Armstrong and Lezak, )
+ Nonethe-(Hamza et al, 2017; Bhat et al, )
+ ADHD is a major diagnostic challengefor clinicians; no useful bio-markers or gold standard diagnostic tests are avail-able to date (Scassellati et al, 2012; Thome et al, 2012; Rothenberger et al,The current diagnosis of ADHD is performed in a subjective manner bywithstanding, it has been estimated that around 20% of those diagnoses couldbe mistaken (Elder, 2010; Merten et al, 2017), and hence in recent decades alarge amount of translational research in medicine has been carried out tryingto devise an objective technology for ADHD diagnosis
+ Many of the most sali-ent and promising efforts to identify cognitive biomarkers for ADHD rest on theassessment of a controversial construct that has been labelled executive functionThe main reason for targeting EF as a potential source of knowledge to betranslated into a diagnostic tool, is that children with ADHD have revealeda pattern of cognitive deficits consistent with pre-frontal EF deficits, namelyivity), restlessness or hyperactivity, or in some cases apathy (Inagaki, )
+Despite the controversy and the more than 30 definitions of the concept of EF(Goldstein and Naglieri, 2013), the currently accepted view refers to a wideset of more or less independent higher order cognitive processes and abilities
+ting goals, planning and decision-making, the ability to sustain attention anding, cognitive flexibility and the ability to deal with novelty(Chan et al, ;Zelazo et al, 1997; Zelazo, P
+ D
+, Carlson, S
+ M
+, & Kesek, A
+, n
+ d
+) 
+was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    The poorly defined boundaries and the lack of a unified and integrativedefinition of the concept of EF makes initial translational steps very hard tocedures to assess this construct in experimental and clinical settings (Goldsteinand Naglieri, )
+ Most of the outcomes from these procedures and tech-niques have been deficient and of limited success (Hall et al, 2016; Lange et al,)
+ It seems that the dual issues of (i) a lack of a proper definition and (ii)operationalization of the EF concept present a challenge to the use of measuresof EF for the ADHD diagnosis at the individual level that is unsurmontable(Faraone et al, )
+ For example, none of the existing theoretical constructsand their associated procedures to evaluate EF could account for the heterogen-eity of ADHD clinical presentation
+ As a consequence they have never producedacceptable levels of sensitivity and specificity in any ADHD diagnostic accuracyThe concept of EF, although not the term itself, originated in the formerThis notion was born rooted in Anokhins theory of Functional Systems (An-in the brain (Luria, 1966, 1976, )
+ This conceptual synthesis was usedby Luria to analyse the disturbances of higher cortical functions produced bylocal brain lesions
+ Lurias work on frontal lobe and dysexecutive syndromewas crucial to differentiate EF from other aspects of cognitive processes (Luria,1976, )
+ During the 80s the cognitive revolution took over this construct,As a result of this translation the concept was fragmented and detached from itsbeen the dominant perspective that frames most of the EF views (cf
+ Shalliceet al,)
+ Moreover this frame is the official doctrine that determines howthis construct is currently understood and assessed for ADHD diagnosis
+ Con-sequently, most of the practical methods for assessing EF for an ADHD diagnosisunder the cognitive paradigm rest on measures of performance or achievement(Goldstein and Naglieri, 2013; Griffin et al, 2015; Hoskyn et al, 2017) of theindividuals from different particular cognitive domains and are based in openloop tasks (Marken, 1988, )
+ To the best of our knowledge no integrat-ive measures have been produced that could account for the mechanisms andthe regulatory aspect of EF across the different cognitive domains and using awas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    When looking for a common feature that could subserve all the diverse ele-ments, behaviours or cognitive operations that has been put under the umbrellaof the EF concept, the first point to notice, is that all of them are manifestationsof goal-directed behaviours
+ The second is that all these goal-directed activitiesare powered and driven by inferential processes (in a wide sense, i
+ e
+, at present-from the very basic sensorimotor levels, as in unconscious innate reflex actions;right up to the highest goal-directed conscious cognitive activities (Peirce, ;Piaget et al, 2013; Labra-Sprhnle, a)
+ The fundamental role of the inferen-of any goal directed behaviour is paramount in the theory of functional systems(Anokhin, 1974) and in the theory of inferences from Peirce (1998), and Piaget()
+ The convergence of these theories inspired one of us to develop in detailof this definition for the current work are that EF can be viewed as a cycleof inferential processes that are central to behaviour and cognition
+ Besides,differences in EF between individuals, including EF disorders, could be revealedlection and decision making (Matthies et al, 2012a; Schepman et al, a,b),impaired in in ADHD individuals (Guevara and Stein, )
+ In spite of the factthat inferential processes are at the core of EF, represented in decision makingChevalier et al, 2017; Blair and Ursache, 2011; Sella et al, 2012; Mowinckelet al, 2015), those processes have not previously been directly targeted for EFWe suggest here that there is a gap in knowledge at the nexus of EF, infer-ential processes, and ADHD, caused by the lack of a theoretical synthesis thatcould integrate different domains of knowledge and the clinical facts associatedto these concepts
+ This circumstance has led to a two-fold methodological defi-ciency: firstly the absence of an empirical model of human inferential processes,and secondly the absence of an experimental paradigm to assess them
+ From atranslational point of view, these limitations has been hindering the conversionof basic knowledge into a clinical technology for the diagnosis and managementwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    To overcome this situation, a new approach is advocated herein to tackle EFassessment and the diagnosis of ADHD
+ The core of this proposal rests in a newThe guiding hypotheses contended here is that the dynamic patterns of think-ing or inferences of children with ADHD elicited by a solving problem task(computer version of a popular board game known as Battleship) are differentwhen compared with their typically developing controls and that there are spa-between individuals with ADHD from those without it
+ Moreover it was con-jectured that these measures could be used as potential biomarkers for ADHD,and serve in the future to implement a diagnostic, screening and monitoringi
+ The mean of the fractal measures from the ADHD group will be differentfrom the typically developing control group when compared with a Mann-ii
+ Using a set of fractal measures, in a supervised classification model, aimedto identify ADHD from non-ADHD cases, the area under the receiverThe main objective of this clinical trial is aimed to answer the following phaseI and phase II questions, which are directly linked to the working hypotheses
+Phase I question: Do patients with ADHD have different results, for thePhase II question: Among patients in whom the presence or absence ofADHD is clinically known, does a classifier based on a set of fractal measures,
+ The dynamic patterns of thinking of patients with ADHD and their con-trols were recorded using a novel and straightforward clinical testing paradigm
+was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    
+ Geometrical representations of the dynamic patterns of thinking of pa-
+ The mean values of the fractal measures results among patients known tohave ADHD and patients known not to have it were compared
+ 
+ Several supervised classification models were built using the above fractal
+ The diagnostic accuracy of each of the classification models were estimatedby evaluating their sensitivity, specificity and the (ROC) curve area (AUC)The research protocols and procedures for this research were fully reviewed andapproved by the Central Health and Disability Ethics Committee (HDEC) fromNew Zealand
+ This decision was made through the HDEC-Full Review Path-Children and parents participating in this study, were presented with a de-tailed description and aims of this research
+ Informed assent was obtained fromchildren and informed consent from parent(s) or guardian(s)
+ A clause concern-ing consent to publication of the results of the participant was included in bothThis study is a prospective, exploratory, phase I and phase II diagnostic accur-acy study with a case-control sampling design (Knottnerus and Buntinx, ;Larner, )
+ In clinical research this kind of trials are meant to be the firstwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    line of testing of a new technology, before to advance to more costly and clin-ically oriented designs
+ The main objective of these studies is to determine if anew technology has any diagnostic value, it is the first step during the valida-for choosing the participants sample is that if the new technology cannot dis-tinguish the sickest from the wellest individuals, then there is no need tocontinue with the new technology assessment (Zhou et al, )
+ For the pur-poses of this trial and according to the Diagnostic and Statistical Manual ofbe considered as the sickest presentation of the syndrome
+ Complementary tothis distinction, typically developing children could be labelled as the wellestDespite that the treatment and analysis of the data gathered for this re-search is strongly guided by a machine learning approach to predictive mod-et al, 2018), this research consider statistic control(Miller and Chapman, )for the potential confounding factors, age and gender including them as inputfeatures (co-variates) in the predictive models
+ This choice is supported by em-pirical facts that shows that including them as features eventually could producebetter classification models, and no extra effort is required to collect this dataduring the clinical interview (Rao et al, 2015, )
+ Measures of intelligencelike IQ scores were not included, due to the fact that strong logical, statisticaland methodological arguments have been raised against this practise in studiesof neurodevelopmental disorders, particularly in ADHD (Dennis et al, 2009; Ba-yard et al, )
+ Besides, the marginal predictive power that IQ scores couldbring to the classification models does not justify their inclusion, due to the clin-ical cost in terms of time and the extra work required to collect this measures
+From a translational point of view, this additional cost could become a strongdeterrent to the future clinical inception of this kind of diagnostic procedures
+(STARD) 2015 initiative (Cohen et al, 2016), it is important to report thatthe data collection for this research was planned before that the index test andThe participants for this clinical trial were recruited from the Nelson Marlbor-District Health Board in New Zealand
+ The recruitment process was carriedout from May 2014 through September 
+ A sample of 18 children (was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    years old) with ADHD combined presentation, along with their typically devel-oping controls were recruited in a consecutive series, (N=)
+ The age class wasin the brain that suggest substantial developmental changes before the age of12 and after (Sowell et al, 2004, 2003; Giedd et al, )
+ The total samplewas split in two independent groups, i
+ e
+ training (the data coming from thisgroup was exclusively used to build, tune and validate the predictive model ina machine-learning scenario) and testing (the data from this group was ex-clusively used to test the performance of the model)
+ From the total sample of(36), 26 subjects were randomly assigned to the training group (13 cases and13 controls) and 10 subjects (5 cases and 5 controls) to the testing group
+ Thestandard deviations above age -and sex- specific means for the parents and ADHD patients totally naive of any psychoactive drug nor received any Any evidence of medical or neurological disorders, or any other Axis Iard deviation above age- and sex-specific means in the parents or thedeviation above age- and sex-specific means in the parents and the teacherwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;     Any evidence of medical or neurological disorders, or any other Axis IThe recruitment process, was performed by the paediatricians (N=8), from theare referred by the local community general practitioners to the paediatricsdepartment with behaviour concerns or with the specific question of whetherADHD is present or not
+ If from the referral ADHD appears to be a possib-ility, the paediatricians reviewing the referrals will send out a set of standardquestionnaires, these include the Conners 3rd edition for parents and teachers
+When the child was seen for the first time by the paediatricians, the Conners3rd edition questionnaires for parents and teachers were available to be used aspart of the standard diagnostic interview, which included: the full review of theclinical history plus a physical and neurological examination
+ If the diagnosisof ADHD was confirmed, strategies to help with ADHD were offered and usu-ally medication was started
+ The study was explained to families (parents orguardians and children) at this clinic appointment, after the diagnosis of ADHDcombined presentation had been made
+ If they wished to be involved, they wereasked not to start medication immediately, and written information was givenabout the study and the computer game (index test)
+ The families were allowedThe paediatricians contacted the family to book a time for a second interviewin a maximum of two weeks following diagnosis, but preferably within a fewdays to not delay the medication too long
+ If after reading the information andhaving a chance to discuss this with the researchers at the end of the first or inthe second interview, the family did not wish to participate, standard care wasstarted
+ If they consented, then the child was invited to play the game in thissession
+ Following the game, standard care was initiated with the child startingand leaflets were printed and distributed between staff members from the Nel-son Health Board (NHB) inviting their children Age (5-13) to participate inthe study as controls
+ This group went throughout the same clinical assess-ment performed to cases group, including Conners 3rd edition for parents andwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Participants confidentiality was maintained at all times using a coding systemand the data was password encrypted with GnuPG 
+ 
+13 (GNU Privacy guardtool for secure communication and data storage), archived in TAR format andstored in a USB hard-drive
+ The USB hard-drive was securely stored at theresearch site; backup copies were stored in a password-protected computer dataserver
+ The database was updated and its integrity checked every time new dataThe reference standard used to establish the presence of the target conditionin this study was a combination of a clinical interview and behavioural lists,i
+ e
+, clinical interview, which included: the full review of the clinical historyplus a physical and neurological examination, Conners 3rd editionTM for par-ents and teachers (Kollins et al, 2011) and DSM-V-TM diagnosis of ADHDcurrent clinical protocols used in the Paediatrics Outpatient Clinics from theNelson hospital for the diagnosis of ADHD
+ The rationale for choosing this setof procedures rests on the efficiency for clinical and research purposes and itsricians assessing the reference standard were blinded to the index test results
+In the second interview, after receiving a comprehensive description of the study,The child was presented with an inference problem-solving task, i
+ e
+, the Battle-was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Fig
+ 
+1  Computer Screenshot of the Battleship Game
+ The goal of this gamewas to sink all the piratess battleships that were hidden on the boardusing the least possible shots, irrespective of time used
+ The parti-cipants were instructed to use the pointer of the computer (mouse)to select the square that he/she wanted to fire at and then to pressthe Fire button
+ If no part of any of the ships was underneath thesquare selected, an empty square displayed and the sound of a watersplash was heard
+ If any portion of a ship was hit, a green buttonon the grid was displayed and the sound of an explosion was heard
+The right part of the screen showed a window with the number ofshots taken, the time passed in seconds, and the amount of targetssquares left
+ The bottom right part of the screen shows the silhouetteof the hidden ships and the number of squared occupied by each oneBattleship is a popular worldwide guessing game for two players
+ The ori-ginal objective of the game is to find and sink all of the other players hiddenships before they sink all of your ships
+ This requires the players to devise theirown battleship positions while guessing that of the other players
+ Our versionof the game has been designed to be played by only one player at a time
+ In ourcase, the objective of the game is to find and sink four ships of different lengths(hidden in a board divided by a 10  10 grid) using the least possible shots,was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    The computer version of the battleship game was developed for this researchusing Lazarus IDE 
+02 for the open source Pascal compiler, Free Pascal (FPC)
+ 
+0, and executed under Linux Slackware 
+ 
+ The full task includes eightindividual games, each one defined by a standard template with the position ofand prior to beginning each trial the interviewer initialised the computer gamesession with a case identification number and the current date for each parti-cipant
+ Afterwards the interviewer read a standardised version of the instruc-tions (see appendix) and demonstrated to the children how to play the game inThe child was requested to find the position of four hidden ships by clickingthe mouse pointer, giving a best guess regarding the position of the ships inthe board
+ The tasks were preceded by a short practise trial with some generalexamples
+ During the task completion, the child received visual and soundfeedback (in the computer screen and its speakers) about the number of shotstargets left)
+ At the end of each game the child was asked if he or she wouldlike to play another game
+ The total testing duration was approximately -min; including one break after the fourth game
+ After finishing each game, aCSV file was created containing three columns of data: the number of shotsperformed, the time between shots and the (x,y) coordinated of each shot
+A Fortran code developed for this research was used to calculate Euclideanand kinematic measures from the raw CSV tabular data (distance between [x,y]coordinates, cumulative time and distance, instant speed and average final speedby shot
+ A second Fortran code was used to process the raw CSV tabular data torepresent the time intervals between shots in a (x,y) bi-dimensional data array
+The procedure consisted in interpolate a certain number of points in proportionto the amount of time used by the subject to get to the next (x,y) coordinatesfrom the precedent shot
+ This procedure was iterated for the whole series ofwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    9: yi = ya+ (y  ya)/((t/f) + 1)  iFig
+ 
+3  Pseudo-code for data interpolation used to build image representationThe final result is a new CSV file containing two columns of interpolatedUsing this former interpolated CSV file as input, an image representing theinferential dynamics was built by plotting the (x,y) coordinates
+ For this pur-pose, a Gnuplot (Version 
+4 patchlevel 3) script was used to create a standardgraphic file in PNG format
+ The resulting PNG file is simply a binary image of(2048 x 2048) pixels, without borders
+This can be shown see examples in Fig 
+)as a black background with the pixels of interest (representing the interpolatedwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Fig
+ 
+4  B&W color inverted example of images representing the inferentialdynamics
+ This figure displays the 8 games played by two participants
+The images from the top row correspond to subject N1 and the bottomrow to subject N
+ Each column represents a game ranging from theThe intended sample size for this research, was obtained after performing a cal-culation based on a 2-tailed test with type (I) error rate (, Significance) = 
+and type (II) error (, 1-power) = 
+20 and considering the conjecture that thearea under the ROC curve AUC   
+80, [conjecture based on ADHD artificialtio of normal to abnormal cases ()=1 (Hanley and McNeil, 1982; Pepe, )
+After this calculation, 13 participants (513 years) with ADHD along with controls, (thus N=26); were recruited from the community
+ Additionally, to ful-fil machine learning requirements in order to predict the unbiased error of thefinal results and the performance of the classification models on any new data(Williams, 2011), 5 more ADHD participant and their controls were added as atesting dataset, (N=)
+ The size of the testing dataset follows the commonlyaccepted rule of thumb employed in machine learning studies, that is to useapproximately 1/3 of the size of the training dataset (Lewis, )
+ The totalFractal analysis has become a popular kind of pattern analysis that has beensuccessfully used to investigate phenomena relevant to neuroscience (John et al,)
+ This kind of analysis is well suited to assess complex patterns across arange of different temporal and spatial scales of observation, i
+ e
+, their multiscalestructure
+ In particular, fractal theory and its associated analytical tools havebeen used to describe the static and dynamics of complex spatio-temporal pat-ance of this topic we can not provide here a full account of it
+ For the interestedwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    reader a good introductory text is The Fractal Geometry of the Brain by LevaBriefly, fractal or multiscale measures are measures that quantifies the com-plexity of a given spatial or temporal pattern
+ Loosely speaking, they gives usa measure of the form (the geometric signature) of the pattern, allowing thecapabilities, we trialled the diagnostic potential of the following measures in thisThe multifractal measures used in this research were calculated from the graphicphology) (Kainz et al, )
+ These measures consisted of a Renyi spectrum ofMultifractal analysis is a generalisation of fractal analysis and was first ap-plied to problems of turbulence (Sreenivasan, )
+ This is a fractal methoddimension and require a full spectrum of dimensions (Seuront, )
+ Thisspectrum of dimensions, generally represented either as a Dq versus q plot (themoment order q is any number in the range - to  (Feder, 1988) ), or as theequivalent f() -  spectrum
+ The dimensions Dq have been called the general-To estimate Dq the method of moments based on the box-counting algorithmcould be used (Halsey et al, )
+ In this method an image to be analysed iscovered with a grid, which divided it into N() squares of side length , allowingcalculation of the mass mi() in each of them
+ After this step the partitionThe operation is performed for different values of  and q, within a prede-The termDq is calculated as the slope of the log(Zq) versus log(); this is donefor different q
+ Using a range of q that includes negative and positive numbersproduces a graph of Dq in terms of q, the so called spectrum of generalisedwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Several algorithms have been developed to obtain the spectrum of general-ised dimension or Renyi spectrum (Seuront, )
+ In this research, the rasterbox algorithm was used due to its simplicity and accurate performance for theestimation of the positive side of the spectrum (Mach et al, 1995; Saa et al,The Renyi dimensions were calculated using IQM running in a Linux Slackware-
+ # eps = []
+ This number corresponds to the 12 different side lengths of the boxes used in the raster box algorithm
+ The values of length  inpixels are: 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 
+ 
+ Regression: Start = [6]; End = []
+ This values indicate the box sizesselected for the estimation of each Dq (by computing the slope of thelog(Zq) versus log() in the linear regression) that is, from boxes sized The lacunarity measures were also calculated from the graphic PNG files, alreadyused in the multifractal analysis
+ Lacunarity analysis is a fractal technique fordescribing patterns of temporal and spatial dispersion
+ This method is widelyapplicable to many data set used in the human and natural sciences
+ Althoughoriginally developed for mono-fractal objects, the method in its general form, canbe used to describe multifractal patterns
+ (Plotnick et al, )
+ This methodcan be applied to data of any dimensionality and from multiples sources
+ Itallows the description of scale dependent changes in spatial and temporal struc-tures, by these means it can give insights of the dynamic of underlying processes
+The technique has been implemented in several packages for image and signalThe gliding-box procedure for lacunarity estimation can be describes as fol-lows: a box of length r is placed at the origin of one of the images
+ The numberof occupied sites within the box (box mass = s) is established
+ The box isdisplaced one space along the image and the box mass is again estimated
+ Thisprocess is repeated over the entire image, producing a frequency distribution ofwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    the box masses n(s,r)
+ This frequency distribution is converted into a probabil-ity distribution Q(s,r) by dividing by the total number of boxes N(r) of size r
+Then the first and second moments of this distribution are estimated:This calculation is repeated over a range of box sizes from r = 1 to 
+ Alog-log plot of the lacunarity versus the size of the gliding box is then producedThe lacunarity measures, from Lac1 to Lac10 were also calculated with IQM
+ Maximum epsilon = [10] This correspond to the maximum size (r) of the
+ Regression: Start = [1]; End = []
+ This correspond to the range oflog-log plot of the lacunarity versus the 10 different sizes of the glidingThe MSSI measures were obtained from the CSV tabular data file using anOctave m-script, developed for this research and executed in Octave, versionThe MSSI analysis is a multiscale method aimed to assess the straightnessof a spatiotemporal trajectory multiple times, over a range of selected scales ofdescription of a range of displacements of a natural or artificial moving object
+The MSSI is computed by iterative sub-sampling the trajectory data at allof a moving object comprising trajectories be given by triplets (xj, yj, tj), forwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    ,
+ 
+ 
+, N-1 where N is the total number of position fixes in the track
+ The point(xj, yj) is the location of the moving object at time tj, and let t0 = 
+ Also wesuppose that the time interval between fixes is a constant, s
+ That is tj+1- tj =The granularity, g, is defined as the interval at which the trajectory data isobserved, and the window, w, is the length of time over which MSSI is computed
+Generally, both g and w are integer multiples of s, and w is an integer multipleof g, but other values of g and w are possible by interpolating between fixes if isneeded
+ The track spacing s, granularity g and window w are defined in unitsin which z can be either the granularity, g, or the window, w
+ Thus theThe first argument of S gives the time at which the MSSI is defined, thesecond argument is the granularity, and the third is the windows size
+ Thenumerator of the fraction is the beeline distance between two location estimates;separated by a time interval of w, and the denominator is the total distancetravelled between the same two locations observing the track at a time intervalequal to g
+ Summing up, to compute S, first the track data is re-sampled at aninterval equal to g, then the beeline distance is calculated between the positionof the moving object at time tj, and the position at time tj+ w, where w is thewindow, S is the ratio of this distance to the total distance travelled by themobile over this time window, using the re-sampled track data at a granularityg
+ A value of S close to 1 indicates travel in a straight line
+ A small value of SThe following parameter were used in the Octave m-script to obtain thewas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    
+ Range of windows = [2] starting window size; [2] increment in size of theUsing this script, 30 different MSSI measures were obtained according to thedifferent range of windows size used, i
+ e
+, ( 2, 4, 6, 
+ 
+ 
+, )
+Kinematic analysis was performed using a Fortran code developed for this re-search and compiled with GFortran under Linux Slackware-64, 
+0 This routinewas used to calculate Euclidean and dynamics measures from the CSV tabularWilk test was used to determine normality, and Levenes test was performed toassess the equality of variances for the variables obtained from the ADHD andnon-ADHD groups
+ The significance level for both test was set at 
+05 and theirAfter summarising the metric variables: age, time, distance, number of shotsand the set of multiscale measures from the eight games played by the parti-cipants in this research, Mann-Whitney U test at 
+05 significance level wascarried out to compare their means; this statistic was estimated using the Rpackage
+ Statistics of effect size for the MannWhitney test were calculated toprovide standardised measures of how much difference exist between the twogroups by using the Pearsons r statistics
+ This measures an their confidenceintervals were obtained with the BootES package and executed in R (KirbyCanoe and the Caret package were used to build supervised machine learningpredictive models, using a multivariate set of multifractal, lacunarity, MSSI andkinematic measures
+ The R packages Rattle and RWeka were used to buildand their ability to distinguish ADHD subjects from controls was determinedDespite that neural networks, support vector machine and decision trees wereused during the first steps in determining the best classification models, thesewas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    machine learning techniques are not reviewed here, this task exceeds the limitsand the scope of this paper
+ Moreover excellent texts exist where the interestedto their simplicity and efficiency when the response is categorical and the mainario (Cleophas and Zwinderman, )
+ Models based on logistic regression areaimed at predicting the probability of an event in subjects at risk
+ Nonetheless,the method requires the user to identify an effective pool of predictors (featureselection) that yield its best performance
+ The task of producing logistic regres-sion models was performed using the R package caret implemented by KuhnFeatures selection Using the full set of variables, the selection of predictorsfor the models was performed using the R package fscaret (Automated FeatureSelection from caret (Szlk, 2016)) and the models were further tuned manu-ally using a forward selection strategy (the departing model always includedvariables age and sex) to get the highest values of AUC (ROC) in the trainingControl for the confounding variables age and sex To prevent residual con-founding, due to the unknown type of association (linear or non linear) betweenthe confounding variables (age and sex) and the outcome from the classificationmodels, control for both confounding were performed
+ The adjustment for thecontinuous confounding variable age, was done by means of stratification in five(Groenwold et al, 2013; Cochran, )
+ The categories of age in years rangedwas included as a co-variate factor in the predictive models
+ The main reasonfor controlling for age using stratification in categories is due to the fact that theunderlying processes of cognitive development are not continuous and they canrise or decline at different ages (Werner, )
+ For the confounding variablesex, a dichotomous category was used and also included as a co-variate factoracy, sensitivity, specificity and the ROC AUC (Swets, )
+ These tasks werewas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    performed using the Caret and pROC R packages (Kuhn, 2008; Robin et al,at a significance level of 
+05 were calculated for ROC AUC, sensitivity and spe-cificity using a bootstrapping technique implemented in the pROC R package(Swets, )
+ Calculations of CI and p-values at a significance level of 
+for the accuracy were performed using an in-house, bootstrapping R script pro-in Table 
+ A total of 36 participants were recruited, of whom 18 were ADHDcases and 18 non-ADHD controls
+ The age range of the overall sample was -years (average age in months = 
+50 and standard deviation = 
+ )
+ Thetotal sample consisted of 14 females and 22 males
+ The total sample was split in2 datasets, the training dataset (n= 26) and the testing dataset (n=)
+ Bothdatasets were balanced having the same amount of ADHD cases and controls
+was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    The flow of participants was initiated by the community general practitionerand it is thoroughly detailed in two flow diagrams contained in figs 
+1 and 
+ 
+As the STARD diagramm shows, 24 participants drop out of the study duringthe performance of the index test
+ From these, 20 participant belonging to thecontrol group and 4 to the cases group
+ The cause for this drop out in the controlgroup happens because the participant were performing the test during lunchtime break, with a restrictive amount of time to fulfill the whole task composedby 8 games
+ In the cases group, two drop outs were due to malfunction of therecording software, and two by the negative of the child to finish the full task
+was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    No adverse events from performing the index test or the reference standardhappened during the trial The results are presented following the primaryobjective of this clinical diagnostic research and that aimed to answer the phasewas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    A
+ Cases group The application of the reference standard to the cases groupproduced very homogeneous results in all the instances, confirming the presenceof the ADHD combined presentation according to the full review of the clinicalB
+ Control group The application of the reference standard to the controlgroup confirmed the absence of ADHD in any of its clinical presentations, butproduced more heterogeneous results than the cases group
+ In one case, hy-peractivity was detected by the Conners 3rd editionTM for teachers but not forination and DSM-V-TM ruled out the presence of ADHD in this group
+The visual inspection of the histograms with the distribution of age, time, dis-tance and the multiscale measures shows conspicuous differences for ADHD andFrom the histograms is also apparent a non-normal distribution of the vari-ables which is compatible with the results of the Shapiro-Wilk test (see TablesResults from the Mann-Whitney U test, at significance level 
+05, shows thatthe variables, age (months) (Time) in millisec and number of shots (Nshots) dis-display non-significant differences
+ Most of the means of the fractal measuresfrom the ADHD and the control group are different
+ The (MSSI) measuresIn contrast with this findings, most of the multifractal measures (Dq) displaydiverse strength as is shows by the effect sizes estimated with the Pearson cor-
+ The Large (r  
+5) and significant effect size for the variables: (Age),(NShots), (Time), (Lac3), (Lac4), (Lac5), (Lac10), and all the MSSI es-was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    
+ A Medium significant effect size (r = 
+3  < 
+5) for the variables,
+ A Small non-significant effect size (r = 
+1  < 
+3) for the variables:was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Tab
+ 2  Answering the Phase I question
+ Comparing the means of age (months),group with the Mann-Whitney U test and the effect size statistics Pear-sons r
+ Shapiro-Wilk test (W), and Levenes test values (F) and theirrespective p-values are reported to assess normality and the equality ofEffect sizes: Small (
+10  < 
+30), Medium (
+30  < 
+50), Large ( 
+ )
+was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Tab
+ 3  Answering the Phase I question
+ Comparing the means of MultiscaleU test and the effect size statistics (r)
+ Shapiro-Wilk test (W) andLevenes test values (F) and their p-values are reported to assess nor-mality and the equality of variances between ADHD and control groups
+Effect sizes: Small (
+10  < 
+30), Medium (
+30  < 
+50), Large ( 
+ )
+Several supervised machine learning models, based on a set of fractal measuresused as predictors, were built to classify the subjects, including: logistic regres-despite an improved classification accuracy being achieved by all the machinelearning models, only results for the linear logistic regression model are reportedin this section
+ This decision was taken due to the limited number of samplesavailable in the training dataset
+ The models not reported were excluded be-cause they are prone to over-fit the training data and give overly optimistictionally, these models are difficult to interpret because of their black-box naturewas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    The logistic regression model was built in the training dataset using 11 pre-[Lac1], [Lac2], [Lac3], [Lac10] ), and 2 confounding variables: (age and sex)
+ Fig
+ 
+5  (ROC) curve area (AUC) for the naive logistic regression classifierrunning in the training dataset [95% CI for ROC curve (shaded ingreen) and optimum cut-off value included in the plot]
+ ROC AUCand its 95% CI for the testing dataset are also reported in this plot
+(AUC) for the logistic regression model are presented in the figure 
+5 andtables 4 and 
+ The logistic regression classification (risk) probabilities (forthe training and testing datasets) and its mean by individuals are presented inwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Tab
+ 4  Answering the Phase II question in the training dataset
+ Among pa-tients in whom the presence or absence of ADHD is clinically known,does a classifier based on a set of fractal measures, distinguish thosewith and without ADHD? The results display the performance, at thelevel of separates games (instances), of a classifier using a naive lo-validation was used to produce an appropriate estimate of the modelTab
+ 5  Answering the Phase II question in a independent testing dataset
+ Theresults display the performance, at the level of separates games (in-in the testing dataset
+ The 95% confidence intervals for the accuracywas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    To rightly situate the results of this research in the context of other existing ob-two dimensions to make comparisons; the qualitative, which point to the means(the methods, tools and their related constructs) by which the diagnostics wereachieved, and the quantitative, which is referred to the measures of diagnosticIn regards to the qualitative dimension, the comparisons were assisted bya review of meta-analyses of the neurocognitive profile of ADHD (Pievskyand McGrath, 2017), and by a systematic review of the physiological sub-strates of executive functioning (Munro et al, )
+ From the first review,twelve cognitive domains could be identified, these domains corresponds to themain constructs abstracted from the diverse tools and methods employed toand working memory
+ The second review presented and analysed works in-tended to functionally map the former domains onto different brain structures
+These two reviews are exemplar in presenting the main tenets of the mainstreamvoted to investigate ADHD and EF
+ In this paradigm, organised behaviour isand its functioning is operated by computational mechanism with a more or lessFor what follows it is worth commenting that the concept of EF was born un-and migrated from there, but in a ill-defined manner, to the Anglo-Saxon cognit-Welsh & Pennington (1988), whom in a series of very influential papers, mainlycontribute to this conceptual shift
+ In those papers, they candidly but uncrit-ically suggested that the EF concept, taken from Luria (1980) can be radicallying framework (Newell and Simon, )
+ In this regard, particularly influentialwas the work of Welsh & Pennington whom using terminology from cognitivescience, equated the EF concept to Posners notion (1986) of a limited-capacitycentral processing system, and also to other functions ascribed to the frontalwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    lobes, e
+ g
+, cognitive control (Welsh and Pennington, )
+ In this manner thestage was set for the coming years of the EF conceptual controversies (morethan thirty definitions have been produce since then) and the vibrant, diversebut puzzling EF research performed by the mainstream cognitive scientist
+ Un-der the cognitivist paradigm, the notion of EF was disconnected from its originaltransplanted to a modular and computational view of cognition (Fodor, ;Carruthers, )
+ In this framework, EF was fragmented in diverse separatebrain networks in which one is the seat of a central control (Uttal, 2003; Perler,the concept of EF, with poor or null operational character without reaching con-sensus (Barkley, )
+ As a consequence the methodological aspect and theexperimental expression of EF models were downgraded in their validity andand despite its revolutionary conceptual shift, the practitioners of the newparadigm kept attached to the same old style and tools of experimental testing,i
+ e
+, the open-loop causal model of behaviour and mental functioning (Marken,For an informed reader it comes as no surprise that most of the objectivemethods found in the current literature, aimed to help in the ADHD diagnosisand EF assessment, and that were reviewed for this research, are based or in-models oriented to get performance measures (Griffin et al, 2015; Hoskynet al, )
+ In contrast, and this is the main difference in the qualitative di-mension of comparison, the theoretical constructs and the method presented inIn general, in this alternative paradigm, the variety of human behaviourexpression of this condition could be accounted in a close-loop experimentalparadigm (Marken, 2009; Marken and Mansell, 2013) aimed to get morpholo-gical measures (Labra-Sprhnle, 2015), and without resorting to a faculties or1In this respect, Galens opinion that, so long as we are ignorant of the true essence ofthe cause which is operating, we call it a faculty, expresses very much what is contended herewas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    elements from the medium in which the agent acts purposefully
+ Besides, itet al, 2013), and that methodologically, this parallel activity can be expressedIn particular, the theoretical views regarding EF follows the definition providedby Labra-Sprhnle (2016a), i
+ e
+, executive functions are any of those specificmechanisms of the functional system which provide for the universal physiolo-gical architecture of the behavioral act
+ For the purposes of this discussion,
+ This definition postulate that those specific mechanism in a functional
+ It emphasises the ubiquitous character (i
+ e
+, the universal presence) of the
+ It acknowledges the cyclic or close-loop structure of the inferentialis deemed central (as the engine) in the functioning of any behaviour and
+ Human EF is formed and chronologically modulated by biological devel-
+ The emergence and localisation of EF is assumed as a synchronised activity
+ EF disorders could be manifested as deviations from the spatio-temporalBased on these former tenets and the aforementioned definition of EF, themethod (and the experimental paradigm) presented here is the first one devisedwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    to objectively and metrically asses the regulative (control) character of humaninferential dynamics using a closed-loop task, and also it is the first of its kindThe testing strategy implemented in the method is in line with and sup-ported by new evidence confirming that inferential processes is a feature ofmental activity greatly affected in children with ADHD (Brunamonti et al,ical views, that shows that EF dynamics could be adequately modelled by spati-et al, )
+ Moreover, the increasing attention to dynamics measures such asreaction time variability in ADHD during EF task, is also an illustrative exampleof another convergent trends in ADHD research (Kofler et al, 2013, )to avoid misunderstandings, the ratio cognoscendi  shall not be confused withthe ratio essendi  of the phenomena described and analysed by using multiscal-ing techniques, including those advocated in this work (Piaget, )
+ It isimportant to bear in mind what Labra-Sprhnle (2017) and Gigerenzer ()comparisons between tests may be the optimal procedure; only indirect, curs-ory comparisons were possible at this stage
+ The selected comparing metricsbetween tests were their accuracy, sensitive and specificity
+ The global task ofmaking indirect comparison in the quantitative dimension, was assisted by arecent systematic review produced to evaluate The clinical utility of the con-tinuous performance test and objective measures of activity for diagnosing andmonitoring ADHD in children (Hall et al, )
+ This review identified andfor aiding the diagnosis of ADHD, and two measures for objectively assessingactivity in ADHD
+ The CPTs studied were the: Test of Variables of Atten-Test (IVA + CPT); Quotient ADHD system (or McLean Motion and Atten-tion Test; MMAT) and the QbTest
+ The measures investigated for assessinginertial measurement units (IMUs) ) and infra-red motion analysis (MMAT andQbTest)
+ From what is reported in this review, and can be considered compar-able under similar conditions of testing, prima facie, the results obtained withthe method advocated here, seems to be an improvement in accuracy, sensitivityand specificity over any of the objective tests scrutinised in the aforementionedwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Moreover to complement and partially update the former review, an ad-hocin house scoping review was conducted
+ This review included other exist-ing methods proposed to diagnose ADHD, that were not covered in the formersystematic review
+ To make the indirect comparison possible, this in-house scop-ing review included only diagnostic accuracy studies that reported the chosenrelated potentials (Marcano et al, 2017; Loo et al, 2016; Snyder et al, ;Mohammadi et al, 2016; Gloss et al, 2016; Biederman et al, 2017; Gammaand Kara, 2016; Marcano et al, 2018; Manouilenko et al, 2017), structuraland functional neuroimaging (Iannaccone et al, 2015; Rangarajan et al, ;de Celis Alonso et al, 2017; Qureshi et al, 2017; Serrallach et al, 2016; Hasaneenet al, 2017; Tan et al, 2017b; Uddin et al, 2017), simulated virtual reality andcomputer games (Negut et al, 2017, 2016; Berger et al, 2017; Faraone et al,2016), and peripheral biochemical markers (Faraone et al, 2014; Scassellati andBonvicini, 2015; Scassellati et al, 2012; Thome et al, )
+ According withseems to outperforms all the diagnostic accuracy metrics reported in the trialsTo conclude the discussion of this point, it is worthwhile to mention thatthis is the first study, which is based on objective measures that report a perfectdiagnostic classification accuracy in a training and in an independent testingFrom a different vantage point, the method advocated by this researchpresents certain kind of advantages (over other alternative tests) that are re-lated with its simplicity and appealing character (being a computer board gameis straightforward and does not present major difficulties for children as littleas five years old, to be handled, or requires any complex training of the tester
+All these features are highly desirable for a test in a clinic situation
+An additional strength of the present study is its adherence to the STARDguidelines in reporting the classification performance of the models trialled (Bos-In general terms, in a phase I and II of a diagnostic accuracy study, the lim-itations are directly related with the scope of the questions posed, and theadequacy of the methods employed to answer them (Knottnerus and Buntinx,)
+ Both, questions and methods set the boundaries to interpret the results
+was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    In this regard, special care must be taken when attempting to go beyond thoseboundaries; most of the time, trespassing beyond them, leads to spurious gener-nature of these studies and that they meant to be a first approximation to anew technologys diagnostic value (Zhou et al, 2011; Larner, 2015; Dennis et al,)
+ After these former digressions, it is worthwhile to identify some of theThe most relevant limitation is that the index test procedure was not per-formed in subjects with diverse manifestation and severity of ADHD or altern-ative similar diagnosis and comorbidities
+ The testing was restricted to childrenAnother limitation of this study is that in a few cases, the determinationof the reference standard (due its inherent subjective nature) presented uncer-tainties in identifying the true state (ADHD or non-ADHD) of the subject
+standard and the index test, no measures were taken to control for the use ofFurthermore, due to the limited sample of ADHD cases and typically de-veloping control children, the heterogeneity of behaviour in both groups wasrestricted
+ This lack of heterogeneity, despite that an independent testing data-set was used to evaluate the classification accuracy of the models, could haveDespite the encouraging results obtained in this research, it must be clearlystated that the method presented, in is actual form, is not ready to be used in astandard, integrated version of the computer game and the analysis proceduresshould be produced
+ The computer application needs to be user-friendly andversatile to serve different clinical and research scenarios
+ It must contain a mainmodule with the game and accessory modules to record, manage, perform datapreparation/analysis and report the results
+ For the advance of the translationalprocess it is highly recommendable that this research could be replicated by adifferent research team
+ After that phases III and IV diagnostic of accuracywas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    The outcomes of this clinical research trial strongly support the present line ofenquiry
+ There is a robust trend in the results, that provided direct evidencei
+ The mean of the multiscale-measures from the ADHD group are differentii
+ Using a set of fractal measures (multifractal, lacunarity and multiscale straight-ness index), in a classification model, aimed to identify ADHD from non-ditions of testing, in a diagnostic accuracy scenario, these results seem, primafacie, to be extremely encouraging, making a compelling case for further in-vestigation of the suitability of this novel approach when compared to currentclinical objective tests used to assist in the diagnosis of ADHD
+From a translational vantage point, the technology presented here makes ita promising candidate to further develop a screening, diagnostic and monitoringsystem for ADHD(Faraone et al, 2014; Thome et al, 2012), due to its straight-non-invasive nature
+ Another asset of this technology is that potentially couldbe easily adapted to assess other EF disorders
+ Nevertheless, before any clin-ical inception of the testing procedures advocated by this research; replicationstudies should be performed , and phases III and IV of diagnostic researchsSumming up, these results strongly support the hypotheses contended in thisresearch and show that targeting the dynamics of human inferential processesis a promising way to deal with EF disorders in a diagnosis scenario
+to all the staff from the Paediatrics Department at the Nelson MarlboroughDistrict Health Board and the Iwi Health board for supporting this clinicaltrial In addition, we wish to thank to all the children and families from thewas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    The authors declares that this research was conducted in the absence of anycommercial or financial relationships that could be construed as a potentialof Mental Disorders, 5th Edition: DSM-5, 5 edition edn, American Psychiat-Anastas, J
+ R
+, Kelty-Stephen, D
+ G
+ and Dixon, J
+ A
+: 2014, Executive FunctionAnokhin, P
+ K
+: 1974, Biology and neurophysiology of the conditioned reflex andArmstrong, C
+ L
+ and Lezak, M
+ D
+: 2012, Handbook of medical neuropsychology:Association, A
+ E
+ R
+, Association, A
+ P
+ and Education, N
+ C
+ o
+ M
+ i
+: ,Barkley, R
+ A
+: 2012, Executive Functions: What They Are, How They Work,and Why They Evolved, 1 edition edn, The Guilford Press, New York
+Bayard, F
+, Thunell, C
+ N
+, Ab, C
+, Almeida, R
+, Banaschewski, T
+, Barker, G
+,Bokde, A
+ L
+, Bromberg, U
+, Bchel, C
+ and Quinlan, E
+ B
+: 2018, Distinctbrain structure and behavior related to ADHD and conduct disorder traits,Berger, I
+, Slobodin, O
+ and Cassuto, H
+: 2017, Usefulness and Validity of Con-Bernstein, N
+ A
+: 1967, The Co-Ordination and Regulation of Movements, firstBhat, V
+, Joober, R
+ and Sengupta, S
+ M
+: 2017, How Environmental Factorsorder, Journal of the American Academy of Child & Adolescent Psychiatrywas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Biederman, J
+, Hammerness, P
+, Sadeh, B
+, Peremen, Z
+, Amit, A
+, Or-Ly, H
+,Stern, Y
+, Reches, A
+, Geva, A
+ and Faraone, S
+ V
+: 2017, Diagnostic utility ofBlair, C
+ and Ursache, A
+: 2011, A bidirectional model of executive functionsBlte, S
+, Mahdi, S
+, Coghill, D
+, Gau, S
+, Granlund, M
+, Holtmann, M
+,Karande, S
+, Levy, F
+, Rohde, L
+ and Segerer, W
+: 2018, Standardised assess-ment of functioning in ADHD: consensus on the ICF Core Sets for ADHD
+,Bossuyt, P
+ M
+, Reitsma, J
+ B
+, Bruns, D
+ E
+, Gatsonis, C
+ A
+, Glasziou, P
+ P
+,Irwig, L
+, Lijmer, J
+ G
+, Moher, D
+, Rennie, D
+, de Vet, H
+ C
+ W
+, Kressel,H
+ Y
+, Rifai, N
+, Golub, R
+ M
+, Altman, D
+ G
+, Hooft, L
+, Korevaar, D
+ A
+,Cohen, J
+ F
+ and STARD Group: 2015, STARD 2015: an updated list ofBrunamonti, E
+, Costanzo, F
+, Mamm, A
+, Rufini, C
+, Veneziani, D
+, Pani, P
+,Vicari, S
+, Ferraina, S
+ and Menghini, D
+: 2017, Evaluation of relational reas-Carruthers, P
+: 2006, The Architecture of the Mind: Massive Modularity andthe Flexibility of Thought, Oxford University Press, U
+ S
+ A
+, Oxford : OxfordChan, R
+ C
+, Shum, D
+, Toulopoulou, T
+ and Chen, E
+ Y
+: 2008, AssessmentChevalier, N
+: 2015, Executive Function Development Making Sense of the En-Chevalier, N
+, Dauvier, B
+ and Blaye, A
+: 2017, From prioritizing objects towas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Cleophas, T
+ J
+ and Zwinderman, A
+ H
+: 2013, Machine Learning in Medicine,Cochran, W
+ G
+: 1968, The effectiveness of adjustment by subclassification inCohen, J
+ F
+, Korevaar, D
+ A
+, Altman, D
+ G
+, Bruns, D
+ E
+, Gatsonis, C
+ A
+,Hooft, L
+, Irwig, L
+, Levine, D
+, Reitsma, J
+ B
+, Vet, H
+ C
+ W
+ d
+ and Bossuyt,P
+ M
+ M
+: 2016, STARD 2015 guidelines for reporting diagnostic accuracyde Celis Alonso, B
+, Lpez, J
+ M
+ H
+, Garca, J
+ G
+ S
+ and Barbosa, E
+ M
+:2017, A minireview on the use of wavelet analyses on physiological signals toDennis, M
+, Francis, D
+ J
+, Cirino, P
+ T
+, Schachar, R
+, Barnes, M
+ A
+ andFletcher, J
+ M
+: 2009, Why IQ is not a covariate in cognitive studies ofDuncan, J
+: 1986, Disorganisation of behaviour after frontal lobe damage, Cog-Elder, T
+ E
+: 2010, The importance of relative standards in ADHD diagnoses:evidence based on exact birth dates, Journal of health economics 29(5), Faraone, S
+ V
+, Bonvicini, C
+ and Scassellati, C
+: 2014, Biomarkers in the Dia-Faraone, S
+ V
+, Newcorn, J
+ H
+, Antshel, K
+ M
+, Adler, L
+, Roots, K
+ and Heller,M
+: 2016, The Groundskeeper Gaming Platform as a Diagnostic Tool forFodor, J
+ A
+: 1983, The Modularity of Mind: An Essay on Faculty Psychology,Galen: 1916, Galen: On the Natural Faculties, Harvard University Press, Cam-was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Giedd, J
+ N
+, Blumenthal, J
+, Jeffries, N
+ O
+, Castellanos, F
+ X
+, Liu, H
+, Zijden-bos, A
+, Paus, T
+, Evans, A
+ C
+ and Rapoport, J
+ L
+: 1999, Brain developmentGigerenzer, G
+ and Sturm, T
+: 2007, Tools= theories= data? On some circularGloss, D
+, Varma, J
+ K
+, Pringsheim, T
+ and Nuwer, M
+ R
+: 2016, Practice ad-visory: The utility of EEG theta/beta power ratio in ADHD diagnosis ReportGoldstein, S
+ and Naglieri, J
+ A
+: 2013, Handbook of Executive Functioning,Griffin, E
+ b
+ J
+ A
+, McCardle, P
+ and Freund, a
+ L
+: 2015, Executive FunctionGroenwold, R
+ H
+, Klungel, O
+ H
+, Altman, D
+ G
+, van der Graaf, Y
+, Hoes,A
+ W
+ and Moons, K
+ G
+: 2013, Adjustment for continuous confounders: anGuevara, J
+ P
+ and Stein, M
+ T
+: 2001, Attention deficit hyperactivity disorder,Hall, C
+ L
+, Valentine, A
+ Z
+, Groom, M
+ J
+, Walker, G
+ M
+, Sayal, K
+, Daley, D
+and Hollis, C
+: 2016, The clinical utility of the continuous performance testand objective measures of activity for diagnosing and monitoring ADHD inHalsey, T
+ C
+, Jensen, M
+ H
+, Kadanoff, L
+ P
+, Procaccia, I
+ and Shraiman, B
+ I
+:Hamza, M
+, Halayem, S
+, Bourgou, S
+, Daoud, M
+, Charfi, F
+ and Belhadj,A
+: 2017, Epigenetics and ADHD: Toward an Integrative Approach of thewas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Hanley, J
+ A
+ and McNeil, B
+ J
+: 1982, The meaning and use of the area underHasaneen, B
+ M
+, Sarhan, M
+, Samir, S
+, ELAssmy, M
+, Sakrana, A
+ A
+Hawkins, D
+ M
+, Garrett, J
+ A
+ and Stephenson, B
+: 2001, Some issues in res-olution of diagnostic tests using an imperfect gold standard, Statist
+ Med
+Hentschel, H
+ G
+ E
+ and Procaccia, I
+: 1983, The infinite number of generalizedHoskyn, M
+ J
+, Iarocci, G
+ and Young, A
+ R
+ (eds): 2017, Executive Functionsin Childrens Everyday Lives: A Handbook for Professionals in Applied Psy-Iannaccone, R
+, Hauser, T
+ U
+, Ball, J
+, Brandeis, D
+, Walitza, S
+ and Brem, S
+:based on functional and structural imaging, European child & adolescent psy-Ieva, A
+ D
+: 2016, The Fractal Geometry of the Brain, Springer
+ 
+Jaffee, S
+: 2018, Promises and pitfalls in the development of biomarkers thatcan promote early intervention in children at risk, Journal of Child PsychologyJohn, A
+ M
+, Elfanagely, O
+, Ayala, C
+ A
+, Cohen, M
+ and Prestigiacomo, C
+ J
+:2015, The utility of fractal analysis in clinical neuroscience, Reviews in thewas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Kabacoff, R
+: 2015, R in Action: Data Analysis and Graphics with R, 2 editionextensible and portable open source application for image and signal analysisKarperien, A
+, Ahammer, H
+ and Jelinek, H
+: 2013, Quantitating the subtletiesKirby, K
+ and Gerlanc, D
+: 2013, BootES: an R package for bootstrap confidenceKnottnerus, J
+ A
+ and Buntinx, F
+ (eds): 2008, The Evidence Base of ClinicalDiagnosis: Theory and Methods of Diagnostic Research, 2 edition edn, BMJKofler, M
+ J
+, Irwin, L
+ N
+, Soto, E
+ F
+, Groves, N
+ B
+, Harmon, S
+ L
+ andKofler, M
+ J
+, Rapport, M
+ D
+, Sarver, D
+ E
+, Raiker, J
+ S
+, Orban, S
+ A
+, Fried-man, L
+ M
+ and Kolomeyer, E
+ G
+: 2013, Reaction time variability in ADHD:a meta-analytic review of 319 studies, Clinical psychology review 33(6), Kollins, S
+ H
+, Sparrow, E
+ and Conners, C
+ K
+: 2011, Guide to AssessmentKuhn, M
+: 2008, Caret package, Journal of Statistical Software 28(5), 
+Kuhn, M
+ and Johnson, K
+: 2013, Applied Predictive Modeling, 2013 editionLabra-Sprhnle, F
+: 2015, The mind of a visionary: the morphology of cognitiveanalysis in an experimental diagrammatic model of thinking, in M
+ Nadinwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Labra-Sprhnle, F
+: 2016b, Restoring the integrative value to the notion ofoscience: An Essential Roadmapping Toolkit, in R
+ Poli (ed
+), Handbook ofAnticipation: Theoretical and Applied Aspects of the Use of Future in DecisionLange, K
+ W
+, Hauser, J
+, Lange, K
+ M
+, Makulska-Gertruda, E
+, Takano, T
+,Takeuchi, Y
+, Tucha, L
+ and Tucha, O
+: 2014, Utility of cognitive neuro-Larner, A
+ J
+: 2015, Diagnostic test accuracy studies in dementia: a pragmaticLewis, D
+ N
+ D
+: 2017, Machine Learning Made Easy with R: An IntuitiveLoo, S
+ K
+, Lenartowicz, A
+ and Makeig, S
+: 2016, Research review: Use of EEGLuria, A
+ R
+: 1966, Human Brain and Psychological Processes, first edition edn,Luria, A
+ R
+: 1976, The Working Brain: An Introduction To Neuropsychology,Luria, A
+ R
+: 1980, Higher Cortical Functions in Man, 2nd Edition, enlargedMach, J
+, Mas, F
+ and Sagus, F
+: 1995, Two representations in multifractalManouilenko, I
+, Humble, M
+ B
+, Georgieva, J
+ and Bejerot, S
+: 2017, Brain-Marcano, J
+ L
+, Bell, M
+ A
+ and Beex, A
+ L
+: 2018, Classification of ADHD andwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Marcano, J
+ L
+ L
+, Bell, M
+ A
+ and Beex, A
+ L
+: 2017, Classification of ADHDMarken, R
+ S
+: 1988, The nature of behavior: Control as fact and theory, Syst
+Marken, R
+ S
+: 2009, You say you had a revolution: Methodological foundationsMarken, R
+ S
+ and Mansell, W
+: 2013, Perceptual control as a unifying conceptMatthies, S
+, Philipsen, A
+ and Svaldi, J
+: 2012a, Risky decision making inMerten, E
+ C
+, Cwik, J
+ C
+, Margraf, J
+ and Schneider, S
+: 2017, Overdiagnosis ofMiller, G
+ A
+ and Chapman, J
+ P
+: 2001, Misunderstanding analysis of covari-Mohammadi, M
+ R
+, Khaleghi, A
+, Nasrabadi, A
+ M
+, Rafieivand, S
+, Begol, M
+and Zarafshan, H
+: 2016, EEG classification of ADHD and normal childrenMowinckel, A
+ M
+, Pedersen, M
+ L
+, Eilertsen, E
+ and Biele, G
+: 2015, A meta-analysis of decision-making and attention in adults with ADHD, Journal ofMunro, B
+ A
+, Weyandt, L
+ L
+, Hall, L
+ E
+, Oster, D
+ R
+, Gudmundsdottir, B
+ G
+and Kuhar, B
+ G
+: 2017, Physiological substrates of executive functioning: aNegut, A
+, Jurma, A
+ M
+ and David, D
+: 2017, Virtual-reality-based attentionNegut, A
+, Matu, S
+ -A
+, Sava, F
+ A
+ and David, D
+: 2016, Virtual reality meas-was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Newell, A
+ and Simon, H
+ A
+: 1971, Human Problem Solving, reprint editionPeirce, C
+ S
+: 1998, On the Logic of Drawing History from Ancient Documents,Especially from Testimonies, in N
+ Houser (ed
+), The Essential Peirce: Selec-Pepe, M
+ S
+: 2004, The Statistical Evaluation of Medical Tests for ClassificationPerler, D
+ (ed
+): 2015, The Faculties: A History, 1 edition edn, Oxford Univer-Pezzulo, G
+: 2008, Coordinating with the Future: The Anticipatory Nature ofin P
+ Fraisse and J
+ Piaget (eds), : Experimental Psychology: Its Scope andPiaget, J
+: 1974, Biology and Knowledge, University of Chicago Press, Chicago
+Piaget, J
+, Garcia, R
+ and Davidson, P
+: 2013, Toward A Logic of Meanings,Pievsky, M
+ A
+ and McGrath, R
+ E
+: 2017, The Neurocognitive ProfilePlotnick, R
+ E
+, Gardner, R
+ H
+, Hargrove, W
+ W
+, Prestegaard, K
+ and Per-lmutter, M
+: 1996, Lacunarity analysis: a general technique for the analysisPosner, M
+ I
+: 1986, Chronometric Explorations of Mind by Michael I
+ Posner,Postlethwaite, C
+ M
+, Brown, P
+ and Dennis, T
+ E
+: 2013, A new multi-scalewas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Powers, W
+ T
+: 2005, Behavior: The Control Of Perception, 2 rev exp editionQureshi, M
+ N
+ I
+, Oh, J
+, Min, B
+, Jo, H
+ J
+ and Lee, B
+: 2017, Multi-modal,Rangarajan, B
+, Suresh, S
+ and Mahanand, B
+ S
+: 2014, Identification of poten-tial biomarkers in the hippocampus region for the diagnosis of ADHD usingRao, A
+, Monteiro, J
+ M
+, Ashburner, J
+, Portugal, L
+, Fernandes, O
+, Oli-veira, L
+ D
+, Pereira, M
+ and Mouro-Miranda, J
+: 2015, A Comparison ofRao, A
+, Monteiro, J
+ M
+, Mourao-Miranda, J
+ and Initiative, A
+ D
+: ,Robin, X
+, Turck, N
+, Hainard, A
+, Tiberti, N
+, Lisacek, F
+, Sanchez, J
+ -C
+ andMller, M
+: 2011, pROC: an open-source package for R and S+ to analyzeRosenberg, M
+ D
+, Casey, B
+ J
+ and Holmes, A
+ J
+: 2018, Prediction complementsRothenberger, A
+, Rhode, L
+ A
+ and Rothenberger, L
+ G
+: 2015, Biomarkers inSaa, A
+, Gasc, G
+, Grau, J
+ B
+, Antn, J
+ M
+ and Tarquis, A
+ M
+: 2007, Com-parison of gliding box and box-counting methods in river network analysis,was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Saravia, L
+ A
+, Giorgi, A
+ and Momo, F
+: 2012, Multifractal growth inSayal, K
+, Prasad, V
+, Daley, D
+, Ford, T
+ and Coghill, D
+: 2018, ADHD inScassellati, C
+ and Bonvicini, C
+: 2015, Role of dopaminergic and noradrenergicsystems as potential biomarkers in adhd diagnosis and treatment, in J
+ M
+Norvilitis (ed
+), ADHD - New Directions in Diagnosis and Treatment, InTech,Scassellati, C
+, Bonvicini, C
+, Faraone, S
+ V
+ and Gennarelli, M
+: 2012, Bio-meta-analyses, Journal of the American Academy of Child & Adolescent Psy-Schepman, S
+, Weyandt, L
+, Schlect, S
+ D
+ and Swentosky, A
+: 2012a, TheSchepman, S
+, Weyandt, L
+, Schlect, S
+ D
+ and Swentosky, A
+: 2012b, TheSella, F
+, Re, A
+ M
+, Lucangeli, D
+, Cornoldi, C
+ and Lemaire, P
+: 2012, StrategySerrallach, B
+, Gro, C
+, Bernhofs, V
+, Engelmann, D
+, Benner, J
+, Gndert, N
+,Blatow, M
+, Wengenroth, M
+, Seitz, A
+, Brunner, M
+, Seither, S
+, Parncutt, R
+,ADHD, and ADD in the Auditory Cortex of Children, Front Neurosci 
+Seuront, L
+: 2010, Fractals and multifractals in ecology and aquatic science,of the Royal Society of London
+ Series B, Biological Sciences pp
+ 
+Shallice, T
+ and Cipolotti, L
+: 2018, The Prefrontal Cortex and Neurologicalwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Shmueli, G
+: 2010, To Explain or to Predict?, Statistical Science 25(3), Snyder, S
+ M
+, Rugino, T
+ A
+, Hornig, M
+ and Stein, M
+ A
+: 2015, Integra-tion of an EEG biomarker with a clinicians ADHD evaluation, Brain BehavSowell, E
+ R
+, Peterson, B
+ S
+, Thompson, P
+ M
+, Welcome, S
+ E
+, Henkenius,A
+ L
+ and Toga, A
+ W
+: 2003, Mapping cortical change across the human lifeSowell, E
+ R
+, Thompson, P
+ M
+ and Toga, A
+ W
+: 2004, Mapping changes in thehuman cortex throughout the span of life, The Neuroscientist 10(4), 
+Swets, J
+ A
+: 2014, Signal Detection Theory and ROC Analysis in PsychologySzlk, J
+: 2016, Automated feature selection using variety of models providedTan, L
+, Guo, X
+, Ren, S
+, Epstein, J
+ N
+ and Lu, L
+ J
+: 2017b, A Computationalorder Based on Functional Brain Volume, Front
+ Comput
+ Neurosci
+ 11, 
+Thomas, R
+, Sanders, S
+, Doust, J
+, Beller, E
+ and Glasziou, P
+: 2015, PrevalenceThome, J
+, Ehlis, A
+ -C
+, Fallgatter, A
+ J
+, Krauel, K
+, Lange, K
+ W
+, Riederer, P
+,Romanos, M
+, Taurines, R
+, Tucha, O
+ and Uzbekov, M
+: 2012, Biomarkersthe WFSBP task force on biological markers and the World Federation ofUddin, L
+ Q
+, Dajani, D
+ R
+, Voorhies, W
+, Bednarz, H
+ and Kana, R
+ K
+:2017, Progress and roadblocks in the search for brain-based biomarkers ofwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    Uttal, W
+ R
+: 2003, The New Phrenology: The Limits of Localizing CognitiveWelsh, M
+ C
+ and Pennington, B
+ F
+: 1988, Assessing frontal lobe functioningWerner, H
+: 1957, The concept of development from a comparative and organ-ismic point of view, in D
+ B
+ Harris (ed
+), The Concept of Development, ned- new edition edn, An Issue in the Study of Human Behavior, University ofWilliams, G
+: 2011, Data Mining with Rattle and R: The Art of ExcavatingZelazo, P
+ D
+, Carlson, S
+ M
+, & Kesek, A
+: n
+ d
+, The development of executivefunction in childhood, in C
+ A
+ Nelson, & M
+ Luciana (ed
+), Handbook ofZelazo, P
+ D
+, Carter, A
+, Reznick, J
+ S
+ and Frye, D
+: 1997, Early develop-Zhou, X
+ -H
+, Obuchowski, N
+ A
+ and McClish, D
+ K
+: 2011, Statistical Methodswas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 20, 
+ ;    

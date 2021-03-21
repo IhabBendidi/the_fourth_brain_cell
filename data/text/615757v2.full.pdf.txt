@@ -1,0 +1,679 @@
+4490 (3492 main body only) words; 2 tables/ 3 figures; 1 suppl
+ table/ 1 suppl
+ figure 3Nuffield Department of Primary Care Health Sciences, University of Oxford, Oxford, UK 4Atmospheric Chemistry Research Group, School of Chemistry, University of Bristol, Bristol, Disclosures
+ AR and AN report no conflicts of interest
+ MB has received travel expenses from Lundbeck for attending conferences and has acted as a consultant for J&J
+ CH has received Acknowledgements: This research was funded by a Medical Research Council Experimental Medicine grant awarded to CH and AR (MR/J011878/1) and by a John Fell Oxford University Press (OUP) research grant awarded to AR (123/807), and it was supported by the NIHR Oxford Health Biomedical Research Centre
+ AR is supported by a fellowship from MQ: Transforming Mental Health
+ MB is supported by a fellowship from the MRC
+ The funders had no role in the design of the study, data collection or interpretation of results
+  certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    Objective - Drugs targeting the N-Methyl-D-aspartic acid (NMDA) system and the ability to learn new associations have been proposed as potential adjunct treatments to boost the success of exposure therapy for anxiety disorders
+ However, the effects of the NMDA partial agonist d-cycloserine on psychological treatment have been mixed
+ We investigated potential exposure, to inform the optimal combination of this and similar agents with psychological Methods - Unmedicated patients with panic disorder were randomised to single-dose d-cycloserine (250mg; N=17) or matching placebo (N=16) 2hrs before one session of exposure therapy
+ Neurocognitive markers were assessed one day after treatment, including reaction-time based threat bias for fearful faces and amygdala response to threat
+ Clinical symptom severity was measured using self-report and clinician-rated scales the day before and after treatment, and at 1- and 6-months follow-up
+ Analysis was by intention-to-treat
+  Results - One day after treatment, threat bias for fearful faces and amygdala threat response were attenuated in the drug compared to the placebo group
+ Lower amygdala magnitude predicted greater clinical improvement during follow-up across groups
+ D-cycloserine led to greater clinical recovery at 1-month follow-up (d-cycloserine 71% versus placebo %)
+  threat response, and this effect predicts later clinical response
+ These findings highlight a neurocognitive mechanism by which d-cycloserine may exert its augmentative effects on psychological treatment and bring forward a marker that may help understand and facilitate future development of adjunct treatments with CBT for anxiety disorders
+ (D-cycloserine certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    There has been increasing interest in the combination of exposure-based cognitive-behaviour therapy (CBT) for anxiety disorders with drugs targeting synaptic plasticity, to improve has been shown to significantly facilitate clinical response to exposure under some conditions (1, 2), but the optimal methods for combination remain to be further identified and could be informed by characterisation of neurocognitive mechanisms underlying the clinical effects of We have recently developed a single-dose CBT testbed that allows the assessment of early effects of treatment on such neurocognitive markers and their contribution to clinical improvement ()
+ Administering a single session of exposure therapy for panic disorder led to no clinical changes on the day after treatment, but resulted in a substantial decrease in threat bias for fearful faces
+ At 1-month follow-up and without additional interim treatment, clinical improvement was apparent, with 1/3 of treated patients fulfilling criteria for recovery
+ Importantly, clinical improvement was driven by the magnitude of threat bias measured on the day after treatment, with lower bias predicting improved clinical outcome
+ These findings suggest that a reduction of threat bias may be a key mechanism of action in exposure therapy, and they bring forward a single-dose CBT methodology that may help ascertain the Such a focus on the mechanisms underpinning recovery with pharmacological exposure therapy can inform optimal combination of different treatment components, and it can provide This study aimed to characterise the effects of d-cycloserine with single-session CBT on neurocognitive markers important in panic disorder, including threat bias for fearful faces previously shown to mediate clinical effects of single-session CBT (3) and amygdala threat response previously shown to normalise after four sessions of exposure therapy in panic certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    disorder ()
+ We hypothesised that the d-cycloserine group compared to placebo would show reduced threat bias and amygdala threat response after single-session CBT, and that the magnitude of these markers would predict clinical symptom changes during follow-up
+  Thirty-three patients with a current panic disorder diagnosis and at least moderate agoraphobic avoidance were recruited from the community
+ Diagnosis was assessed using the Structured Clinical Interview for DSM-IV Axis I Disorders; avoidance was measured using the Structured Panic Assessment Interview (yes response to >2 situations listed under (2) Avoidance ) (5, )
+ Exclusion criteria were insufficient English skills, current or past psychotic or bipolar disorder, substance abuse/ dependence or epilepsy, current primary depressive disorder, CNS-active medication during the last 6 weeks, current medication with cycloserine, ethionamide or isoniazid, exposure-based CBT for panic during the last 3 months, pregnancy or lactation, and severe renal insufficiency or other serious medical conditions that may put the participant at risk
+ Occasional benzodiazepine or beta-blocker medication (15% of participants) was not an exclusion criterion but patients refrained from these drugs 48 hours before sessions
+ Participants with MRI contraindications (e
+ g
+ metal implant) were included but not enrolled in MRI
+ (Table 1, Supplementary Figure 1 for CONSORT diagram)
+  Figure 1 gives an overview of assessments
+ Participants were randomly allocated to a single oral dose of d-cycloserine (250 mg; King Pharmaceuticals) or placebo capsule (microcrystalline cellulose) (1:1 ratio), administered 2 h before single-session CBT
+ Previous work into the effects of d-cycloserine on CBT often used doses of 50mg, but different from our study these trials used longer CBT protocols, and healthy volunteer work indicates an certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    effect of d-cycloserine on single-session hippocampal learning at 250mg but not 50mg ()
+ Considering that we only offered one session, and based on work showing no significant differences in clinical effects of ultra-brief CBT together with d-cycloserine between 50mg All sessions took place in a university setting
+ After screening, participants returned for four study visits, with baseline assessment and intervention taking place on day 1, and outcome testing taking place 1 day, 1 month, and 6 months after intervention
+ During the screening, sociodemographic (age, gender, years of education, verbal intelligence) and basic clinical data (primary panic diagnosis, comorbidity, panic duration) were acquired ()
+ Clinical symptoms were assessed on all four visits
+ On the day after intervention, we also assessed emotional were carried out by a trained clinical psychologist researcher (AR)
+ All procedures were in accordance with the Declaration of Helsinki and approved by a research ethics committee
+ Participants gave written informed consent
+ Data were collected between November 2013 and Treatment was delivered by an experienced clinical psychologist
+ The intervention followed a previously published protocol and was a condensed version of routine clinical care (3, )
+ It involved one session of exposure-based CBT, based on the well-established cognitive-behavioural theory of panic ()
+ Session ingredients: (i) cognitive preparation: explanation of the role of safety strategies (~15min), (ii) exposure to a fear- provoking situation (e
+ g
+ being locked in walk-in closet) and bodily sensations while dropping all safety strategies, to test out certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    for each participant), (iii) cognitive debriefing, to discuss the patients experience in a fear Participants and the researcher responsible for treatment, data collection and outcome evaluation remained nave to drug group allocation until completion of data analysis
+ Placebo was encapsulated in lactose capsules identical to d-cycloserine
+ Generation of the randomisation sequence, treatment allocation and drug dispensing were executed by an external pharmacy not in direct contact with study participants, and the allocation list remained in pharmacy until all steps of data blind-analysis had been completed
+ The and was based on blocked randomization (blocks of four) while stratifying for gender and Primary Outcomes
+ Primary outcome measure was a faces dot probe task (FDOT)
+ Stimuli were coloured photographs of 20 individual faces with a neutral, fearful and happy facial expression each ()
+ In each of 192 trials, a neutral-neutral, neutral-happy, or neutral-fearful face pair was presented, with one stimulus appearing above and one below a central fixation position
+ Eight blocks of unmasked versus masked trials each were presented alternatingly
+ Faces pairs were presented for 100ms in the unmasked and 16ms (plus scrambled face pair for 84ms) in the masked condition, followed by a dot probe that participants categorised as horizontal or vertical using two buttons
+ Position of an emotional face, probe position and type were fully counterbalanced
+ This task design involved congruent trials (dot at the position of an emotional face) and incongruent trials (dot replaces neutral face while certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    emotional face is present)
+ An implicit association task (13), a second primary outcome, lead to no significant group effects and is therefore not described here
+ Secondary Outcomes
+ i) MRI
+ Patients performed an emotion regulation task on the day after treatment during 3T MRI ()
+ IAPS images showing negatively valenced panic-related scenes (e
+ g
+ funeral) were presented in 8 blocks of 5 images (5s each), alternating with grey fixation baseline blocks (30s) ()
+ For half of the blocks, participants were instructed to naturally experience the emotional state evoked by the images, without attempting to regulate it (Maintain blocks)
+ For Reappraisal blocks, they were instructed to down-regulate the provoked negative affect by using previously demonstrated strategies of cognitive reappraisal (e
+ g
+ reframing, rationalising)
+ Individual contrast images were calculated for Maintain blocks, Reappraisal blocks, Maintain versus Reappraisal and Reappraisal versus Maintain
+ Based on our previous work which identified the amygdala as hyperactive in Maintain but not Reappraisal blocks in patients with panic disorder, we ran region of interest analyses (ROI), including 10mm radius spherical masks around the peak voxel of a left amygdala region (-14/-6/-8) and its right-hemisphere counterpart, with Maintain BOLD % signal as the main outcome measure
+ We further explored group effects running a mixed-effects whole-brain ii) Clinical Symptom Measures
+ Before treatment, on the day after, and at 1-month and -month follow-up, anxiety and depression symptoms were monitored using established self-Inventory (BDI), iii) Body Sensations Questionnaire assessing fear of physical sensations assessing agoraphobic avoidance, and vi) Panic Attack Scale (PAS) assessing panic frequency (-)
+ The clinician-administered Panic Disorder Severity Scale (PDSS) was used at baseline and follow-up appointments ()
+ To establish in-vivo stress reactivity, anxiety was also measured during 5min exposure to an individually relevant agoraphobic situation, before certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    and after the day of treatment and at follow-ups (3, )
+ This involved being locked in an enclosed walk-in closet (17 CYC/14 PLAC), or a bus or car drive (0 CYC/2 PLAC)
+ Immediately after the test, participants rated their level of anxiety experienced during the test (before, after 1min, after 3min, end of test), using 0-100 visual analogue scales
+ Baseline To capture any acute changes, blood pressure and heart rate were measured before and 2hrs after drug administration (expected peak level), and participants completed visual analogue scales rating their mood and physiological symptoms
+ At the end of the intervention day, participants and experimenter also guessed whether the active capsule had been administered
+  Sample Size
+ We predicted that the placebo group would show next-day fear bias similar to that seen after single-session CBT (M=5, SD=25), and that the d-cycloserine group would show next-day fear bias similar to that seen in healthy volunteers (M=-15, SD=25) in our previous work ()
+ With an effect size of d=
+8 and an -level of 
+05, 16 participants per group would be needed to achieve 70% power
+ We originally aimed to recruit 50 patients for this study but this was adjusted to 32 based on the above
+ Overall Statistical Approach
+ Data analyses included all randomised subjects and were performed on the intention-to-treat basis (16 PLAC, 17 CYC), except for MRI measures which were analysed per protocol (14 PLAC, 13 CYC)
+ No data was excluded from analysis
+ To account for participants lost to follow-up (Supplementary Figure 1), missing data were imputed, assuming data missing at random, by means of multiple imputation by chained equations (incomplete cases: 1-month follow-up 6% PLAC/ 6% CYC, 6-months follow-up: 19% PLAC/ 18% CYC)
+ Twenty complete data sets were generated using the statistical certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    computing software R (R Core Team, 2018), with 20 iterations per imputation ()
+ Predictors clinical outcome measures; imputed variables were clinical outcomes at follow-ups
+ Statistical analyses were run in R using the packages nlme (for linear mixed effects models) and miceadds (additional statistics for multiple imputation)
+ Repeated measures from the same participant were accounted for by means of random effects
+ In all analyses, the stratification variables gender and primary diagnosis were used as covariates
+ Statistical tests were two-tailed and based on an alpha-level of significance of 
+ 
+ Treatment effect sizes are reported Cognitive Biomarker Measures
+ In the FDOT, reaction times (RT) below 200 ms and above 2000 ms, or above 2 SDs above the mean, were excluded (3, )
+ Bias scores were calculated by subtracting the median RT in congruent trials from the median RT in incongruent trials
+ Group differences were assessed using linear mixed-effects models, including the fixed factors group and condition (happy, fear)
+ MRI data were analysed using FSL FEAT 
+0 BOLD % signal changes were entered into linear mixed-effects models with the factors group Clinical Symptom Measures
+ Group differences on the validated clinical outcome measures and stress test ratings were assessed using linear mixed-effects models, including the factors group and time (next day, 1-month, 6-months) and their interaction, and controlling for pre-treatment scores
+ In line with recent work, recovery was defined as agoraphobia scores (MI) falling within the range reported for healthy subjects, as this measure most reliably reflects the impact of the disorder on daily functioning (3, )
+ Following established approaches, we also ran eight separate multiple linear regression analyses to predict whether i) BOLD % amygdala signal change (Maintain block) and ii) threat bias (FDOT) on the day after treatment predicted symptom changes at 1-month follow-up on the MI, BSQ, ACQ, or PDSS certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    (3, )
+ Next-day symptom severity (baseline for PDSS) on that measure was entered as predictor of no interest to control for its potential influence on the outcome at 1 month
+ Group, bias, and the group- bias interaction term were entered as predictors of interest
+  Next-day threat bias for fearful faces was significantly lower in the d-cycloserine compared to MRI
+ D-cycloserine versus placebo lead to a significant decrease of right amygdala activation in Maintain (p=
+023) but not Reappraisal blocks (mean difference 
+02, 95% CI 
+23 to 
+27; p=
+ )
+ These effects are in line with previous work showing increased threat response during Maintain but not Reappraisal blocks in patients compared to controls ()
+ No drug effects were found in the left amygdala (Maintain: p=
+54; Reappraisal: mean difference -
+08, 95% CI 
+47 to 
+30; p=
+66) (Table 2; Figure 2 C)
+ A whole-brain analysis identified significant group by task effects in the left frontal orbital (OFC; 499 voxels, MNI -28,12,-14, Z=
+40, p=
+003) and right dorsolateral prefrontal cortex (DLPFC; 379 voxels, MNI 36,36,30, Z=
+06, p=
+017), suggesting diminished activation in these regulatory areas in Maintain Clinical Symptom Measures
+ There were no significant group differences in fear of physical frequency (PAS) or panic severity (PDSS) on the day after treatment or at follow-ups (all p>
+095) (Table 2; Figure )
+ On the day after treatment, the d-cycloserine compared to placebo group reported lower state anxiety (STAIS; p=
+0041) and depression scores (BDI certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    p<
+0046); the BDI group difference reduced at 1-month follow-up due to the placebo group achieving additional gains (p=
+54) but reappeared at 6-month follow-up (p=
+035) due to the d-cycloserine group showing further response
+ Trait anxiety was significantly lower after d-cycloserine- versus placebo-supported CBT at 1- and 6-months follow-ups (both p<
+ )
+ In the stress test, the d-cycloserine group reported lower anxiety on the day after treatment and at 6-months follow-up (both p<
+0021), but the group difference failed to reach statistical Recovery rates were still low and similar between groups on the day after treatment (PLAC 4/16 (25%), CYC 5/17 (
+4%), RR 
+06, CI 
+ -
+61, p=
+ )
+ At 1-month follow-up, the d-cycloserine group showed significantly greater treatment response than the placebo group (PLAC 4/16 (
+0%), CYC 12/17 (
+1%), RR 
+55, CI 
+ -
+61, p=
+ )
+ At 6-months follow-up, the placebo group showed improved clinical gains, closer to those of the d-cycloserine group (PLAC 7/16 (
+ 
+0%), CYC 12/17 (
+6%), RR 
+91, CI 
+ -
+49, FDOT threat bias was not predictive of clinical change (all R<
+20, all p>
+ )
+ Amygdala responsivity on the day after treatment predicted 1-month follow-up changes in agoraphobia severity (MI) across groups (R=
+48; main effect bias: p=
+0070; other outcomes: all R<
+38, all p>
+11), with patients showing the lowest amygdala response achieving greater No serious adverse events were reported
+ D-cycloserine caused no acute differential changes in blood pressure, heart rate and mood (Supplementary Table )
+ Neither experimenter nor certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    experimenter PLAC 44%, CYC 41%, p=
+88; participant PLAC 25%, CYC 53% p=
+10), Threat bias for fearful faces (FDOT) and amygdala response to aversive images were significantly lower in the d-cycloserine compared to the placebo group on the day after treatment
+ Greater next-day reduction in amygdala threat response was associated with greater significantly greater clinical recovery at 1-month follow-up than placebo (71% vs 25%), but recovery rates were not statistically different at 6-months follow-up (71% vs %)
+ There were no group differences on clinical measures specific to panic disorder, but the drug improved response to an in-vivo stress test and outcome on more global measures of mental health, including state-trait anxiety and depression, with medium to large effects
+  These findings highlight a possible neuropsychological mechanism of action of exposure-based CBT that might also be a crucial interface for d-cycloserine action
+ Across participants, lower amygdala response on the day after treatment predicted lower symptom severity one month later, suggesting that this neural effect might be a key mechanism by which exposure therapy exerts its clinical effects
+ The amygdala is thought to be crucial in threat processing, and increased responsivity is characteristic of anxiety disorders ()
+ In contrast, a reduction in amygdala hypersensitivity is seen after exposure therapy, where threat stimuli lose their potential to automatically signal danger (25, )
+ Our results suggest that this change in amygdala function occurs very rapidly during CBT, after only one session
+ Over time and in interaction with everyday challenges, this reduced threat sensitivity presumably translates into more distinct symptom improvement
+ These findings add to our previous work showing that certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    Even though this study identified no specific neuropsychological mechanism of d-cycloserine action, the drug significantly reduced attention bias and amygdala threat responsivity within one day of treatment
+ These findings corroborate the idea that threat processing might be a landmark parameter for treatment enhancement with d-cycloserine
+ The drug is thought to enhance NMDA receptor functioning and neuroplasticity in the amygdala and hippocampus, areas relevant to fear extinction and threat processing ()
+ It is possible that d-cycloserine exerts its augmentative clinical effects by further amplifying changes in amygdala sensitivity taking place during exposure
+ As our results show, these changes occur early during treatment, providing a rationale as to why d-cycloserine has particularly beneficial effects on clinical Although our clinical results remain to be replicated in a large-scale clinical trial, this study also replicates earlier findings showing that 25% of patients reach recovery one month after single-session CBT ()
+ The present results add to this observation, indicating that these clinical effects are not only stable during a follow-up of 6 months, but that additional clinical gains may be achieved during this time-frame
+ This study also provides preliminary evidence that d-cycloserine may improve clinical response to single-session CBT
+ 71% of participants in the d-cycloserine group fulfilled criteria for recovery at 1- and 6-month follow-up, a rate comparable to standard longer-term CBT courses ()
+ These findings point to the possibility that if used in an optimal way, targeting very early therapeutic learning, d-cycloserine may While these results are promising for the development of more compact psychological-that FDOT threat bias one day after single-session CBT predicted clinical improvement, this observation was not replicated in this study
+ Recent work into the psychometric properties of the dot probe task suggests weak test-retest reliability, indicating that alternative measures of threat bias might be preferable ()
+ In line with this recommendation, we found that certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    amygdala threat response was more sensitive to brief treatment than the behavioural measures used, leading to large effect sizes of d>1 and predicting clinical recovery
+ However, MRI and threat bias measures were only applied after but not before treatment, limiting our ability to evaluate to what degree observed between-group differences on the day after treatment relate to within-subject change
+ Furthermore, this study was designed to detect neurocognitive rather than clinical effects of d-cycloserine, and even though our clinical observations indicate efficaciousness of single-session CBT with d-cycloserine, these findings need to be validated in a large-scale trial to reliably evaluate clinical efficacy of this combination intervention
+ While our participants are representative of those seen in routine clinical care regarding symptom severity and sociodemographic markers, they were recruited from the community rather than being treatment-seekers, and they were unmedicated ()
+ Future trials will have to investigate whether the facilitative effects of d-cycloserine on single-session CBT found here Taken together, this is the first study to identify a neurocognitive mechanism by which d-cycloserine may deploy its augmentative effects on clinical outcomes during exposure therapy for anxiety
+ The drug substantially amplifies changes in amygdala threat reactivity taking place early in psychological treatment, and the magnitude of these changes predicts clinical improvement across time
+ Our findings suggest that threat processing might be a landmark parameter for treatment enhancement with d-cycloserine, and they provide a possible explanation as to why d-cycloserine particularly affects clinical outcome when applied early certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    
+  Mataix-Cols D, de la Cruz LF, Monzani B, et al:
+ D-Cycloserine Augmentation of 
+  McGuire JF, Wu MS, Piacentini J, et al:
+ A Meta-Analysis of D-Cycloserine in Exposure-Based Treatment: Moderators of Treatment Efficacy, Response, and Diagnostic Remission
+ J 
+  Reinecke A, Waldenmaier L, Cooper MJ, et al: Changes in automatic threat processing 
+  Reinecke A, Thilo K, Croft A, et al: Early effects of exposure-based cognitive behavior therapy on the neural correlates of anxiety
+ Transl Psychiatry in press
+ 
+  First MB, Spitzer RL, Gibbon M, et al: Structured clinical interview for DSM-IV axis I 
+  Clark DM: Anxiety statespanic and generalized anxiety
+ in Cognitive Therapy for Psychiatric Problems: A Practical Guide
+ Edited by Hawton K, Salkovskis PM, Kirk J, Clark 
+  Onur OA, Schlaepfer TE, Kukolja J, et al: The N-Methyl-D-Aspartate Receptor Co-
+  Ressler KJ, Rothbaum BO, Tannenbaum L, et al: Cognitive enhancers as adjuncts to psychotherapy: use of D-cycloserine in phobic individuals to facilitate extinction of fear
+ Arch 
+  Nelson HE: National adult reading test (NART): Tets manual Windsor, NFER-Nelson; 
+  Salkovskis PM, Clark DM, Hackmann A, et al: An experimental investigation of the role of safety-seeking behaviours in the maintenance of panic disorder with agoraphobia
+ 
+  Clark DM, Salkovskis PM, Ost LG, et al: Misinterpretation of body sensations in panic 
+  Matsumoto D, Ekman P: Japanese and Caucasian Facial Expressions of Emotion 
+  Teachman BA, Marker CD, Smith-Janik SB
+ Automatic Associations and Panic Disorder: Trajectories of Change Over the Course of Treatment
+ J Consult Clin Psych ;:-
+  Reinecke A, Filippini N, Berna C, et al: Effective emotion regulation strategies improve fMRI and ECG markers of psychopathology in panic disorder: implications for psychological 
+  Lang PJ, Bradley MM, Cuthbert BN: International affective picture system (IAPS): Technical manual and affective ratings
+ Gainesville, FL, National Institute of Mental Health 
+  Chambless DL, Caputo GC, Jasin SE, et al: The Mobility Inventory for Agoraphobia
+ 
+  Spielberger CD, Gorsuch, R
+ L
+, Lushene, R
+, et al: Manual for State-Trait Anxiety 
+  Beck AT, Steer RA, Brown GK: Manual for the Beck Depression Inventory-II
+ San certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    
+  Chambless DL, Caputo GC, Bright P, et al Assessment of fear of fear in agoraphobics - the Body Sensations Questionnaire and the Agoraphobic Cognitions Questionnaire
+ J Consult 
+  Clark DM, Salkovskis PM, Hackmann A, et al: A comparison of cognitive therapy, applied relaxation and imipramine in the treatment of panic disorder
+ Br J Psychiatry 
+  Shear MK, Rucci P, Williams J, et al: Reliability and validity of the Panic Disorder 
+  van Buuren S, Groothuis-Oudshoorn K
+ mice: Multivariate Imputation by Chained 
+  Ratcliff R: Methods for dealing with reaction time outliers
+ Psychol Bull ;:-
+  Kraemer HC, Wilson GT, Fairburn CG, et al: Mediators and moderators of treatment 
+  Reinecke A, Harmer C: A cognitive-neuropsychological account of treatment action in 
+  Phelps EA, Delgado MR, Nearing KI, et al Extinction learning in humans: Role of the 
+  Thompson LT, Moskal JR, Disterhoft JF
+ Hippocampus-dependent learning facilitated by 
+  Barlow DH, Gorman JM, Shear MK, et al Cognitive-behavioral therapy, imipramine, or their combination for panic disorder: A randomized controlled trial JAMA ;:-
+  Chapman A, Devue C, Grimshaw GM
+ Fleeting reliability in the dot-probe task
+ Psych 
+  Grey N, Salkovskis P, Quigley A, et al: Dissemination of Cognitive Therapy for Panic certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    Figure 
+ Overview of study visits and assessments throughout the trial  Figure 
+ A
+ /B
+ Whole-brain analysis Group x Task interaction: Compared to placebo, d-cycloserine-augmented single-session CBT led to significantly stronger activation in areas of cognitive control during Reappraise versus Maintain on the day after treatment
+ C
+ Region-of-interest analysis Group x Task interaction: Compared to placebo, cycloserine lead to reduced activation of the right amygdala during Maintain block
+ D
+ The relationship between amygdala responsivity on the day after single-session CBT and symptom improvement at -month follow-up: lower amygdala responsivity on the day after treatment predicts stronger reduction in agoraphobia severity as measured using the self-report Mobility Inventory (MI) across groups
+ Images thresholded at Z>
+3, p<
+05, corrected
+ Note: Error bars show SEM
+ Figure 
+ Self-report and clinician-rated symptom scores for the two groups at baseline, on the day after treatment and at follow-ups, after multiple imputation of missing data (error bars show SEM)
+ D-cycloserine lead to stronger improvements in state and trait anxiety (STAIS, STAIT), depressivity (BDI) and agoraphobic cognitions (ACQ) on the day after treatment, with group differences remaining significant throughout follow-ups
+ Note: Error bars show certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    Table 
+ Demographic and Clinical Key Data in placebo versus d-cycloserine group
+  Sex                           - Female                              Note: NART = National adult reading test; PD = panic disorder without agoraphobia; PDA = certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    Table 
+ Primary and secondary outcomes at baseline, on the day after treatment, and at -FDOT (fear)         Next-Day 
+3 (
+8) 
+1 (
+2) -
+0 (
+3) -
+04 to 
+14; p=
+042; d=
+77 Right Amygdala  Next-Day 
+25 (
+27) -
+08 (
+35) -
+32 (
+14) -
+61 to -
+03; p=
+023; d=
+06 Left Amygdala     Next-Day 
+17 (
+33) 
+05 (
+68) -
+12 (
+19) -
+50 to 
+27; p=
+54; d=
+22 STAI-S (20-80)      Baseline 
+8 (
+3) 
+9 (
+5) 
+ 
+ 
+ 
+ Next-Day 
+9 (
+8) 
+6 (
+0) -
+67 (
+57) -
+83 to -
+51; p=
+0041; d=
+01 1-month 
+7 (
+2) 
+2 (
+9) -
+92 (
+71) -
+30 to -
+54; p=
+036; d=
+74 6-months 
+9 (
+8) 
+4 (
+7) -
+05 (
+95) -
+94 to -
+16; p=
+046; d=
+66 STAI-T (20-80)      Baseline 
+2 (
+7) 
+4 (
+4) 
+ 
+ 
+ 
+ Next-Day 
+8 (
+3) 
+1 (
+7) -
+53  (
+60) -
+74 to 
+68; p=
+33; d=
+39 1-month 
+3 (
+8) 
+2 (
+6) -
+99  (
+74) -
+44 to -
+54; p=
+036; d=
+66 6-months 
+4 (
+8) 
+2 (
+3) -
+20  (
+89) -
+96 to -
+44; p=
+021; d=
+79 BDI (0-63)              Baseline 
+8 (
+4) 
+3 (
+7) 
+ 
+ 
+ 
+ Next-Day 
+3 (
+1) 
+2 (
+0) -
+26 (
+46) -
+19 to -
+33; p=
+037; d=
+51 1-month 
+5 (
+0) 
+1 (
+4) -
+57 (
+56) -
+66 to 
+53; p=
+54; d=
+15 6-months 
+0 (
+1) 
+3 (
+6) -
+86 (
+72) -
+29 to -
+42; p=
+035; d=
+67 ACQ (
+ -
+0)        Baseline 
+5 (
+5) 
+4 (
+7) 
+ 
+ 
+ 
+ Next-Day 
+6 (
+5) 
+3 (
+6) -
+21 (
+19) -
+60 to 
+17; p=
+27; d=
+30 1-month 
+2 (
+7) 
+9 (
+7) -
+29 (
+20) -
+69 to 
+11; p=
+16; d=
+43 6-months 
+0 (
+7) 
+6 (
+6) -
+37 (
+22) -
+81 to 
+07; p=
+095; d=
+61 BSQ (
+ -
+0)         Baseline 
+2 (
+8) 
+2 (
+7) 
+ 
+ 
+ 
+ Next-Day 
+2 (
+8) 
+0 (
+8) -
+12 (
+27) -
+66 to 
+41; p=
+65; d=
+14 1-month 
+6 (
+8) 
+5 (
+8) -
+06 (
+27) -
+60 to 
+48; p=
+82; d=
+13 6-months 
+4 (
+0) 
+2 (
+0) -
+12 (
+29) -
+71 to 
+47; p=
+68; d=
+20 MI (
+ -
+0)           Baseline 
+3 (
+7) 
+1 (
+9) 
+ 
+ 
+ 
+ Next-Day 
+2 (
+5) 
+1 (
+8) -
+038 (
+16) -
+35 to 
+27; p=
+81; d=
+15 1-month 
+9 (
+6) 
+7 (
+8) -
+12 (
+16) -
+43 to 
+20; p=
+46; d=
+28 6-months 
+8 (
+5) 
+5 (
+6) -
+18 (
+18) -
+54 to 
+19; p=
+34; d=
+54 PAS (0-4)               Baseline 
+8 (
+1) 
+7 (
+2) 
+ 
+ 
+ 
+ Next-Day 
+8 (
+0) 
+5 (
+0) -
+26 (
+27) -
+79 to 
+27; p=
+33; d=
+30 1-month 
+7 (
+8) 
+5 (
+0) -
+22 (
+30) -
+81 to 
+37; p=
+46; d=
+22 6-months 
+5 (
+8) 
+3 (
+7) -
+19 (
+30) -
+79  to 
+40; p=
+52; d=
+27 PDSS (0-28)           Baseline 
+8 (
+0) 
+6 (
+6) 
+ 
+ 
+ 
+ 1-month 
+1 (
+4) 
+8 (
+3) -
+31 (
+39) -
+11 to 
+48, p=
+35, d=
+27 6-months 
+6 (
+8) 
+4 (
+8) -
+19 (
+45) -
+12 to 
+73, p=
+41; d=
+24 Stress (0-100)        Baseline 
+1 (
+9) 
+4 (
+7) 
+ 
+ 
+ 
+ Next-Day 
+2 (
+5) 
+8 (
+6) -
+09 (
+55) -
+0 to -
+1; p=
+0021; d=
+62 1-month 
+1 (
+3) 
+0 (
+2) -
+84 (
+63) -
+9 to 
+3; p=
+057; d=
+37 6-months 
+0 (
+0) 
+5 (
+6) -
+20 (
+67) -
+4 -
+0; p=
+017; d=
+45 Note: FDOT = Faces Dot Probe Task; IAT = Implicit Association Task; STAIS/ STAIT = state trait anxiety inventory; BDI = Beck Depression Inventory; ACQ = Agoraphobic Cognitions Questionnaire; BSQ = Body Sensations Questionnaire; MI = Mobility Inventory; PAS = Panic Attack Scale; PDSS = Panic Disorder certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 2, 
+ ;    

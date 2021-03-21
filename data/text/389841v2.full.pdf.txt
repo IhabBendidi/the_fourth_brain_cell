@@ -1,0 +1,611 @@
+Improvement in Patient-Reported Sleep in Type 2 Diabetes and Prediabetes Participants 1 Morgan J
+ Siegmann1,2,3, Shaminie J Athinarayanan4, Sarah J Hallberg4,5, Amy L
+ McKenzie4, 4 Nasir H
+ Bhanpuri4, Wayne W
+ Campbell6, James P
+ McCarter4,7, Stephen D
+ Phinney4, Jeff S
+ 5 1 Department of Anesthesia, Critical Care and Pain Medicine, Massachusetts General Hospital, 8 2 Division of Sleep Medicine, Harvard Medical School, Boston, MA, USA 10 3 Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, 11 4 Virta Health, 535 Mission Street, San Francisco, CA, USA 13 6 Department of Nutrition Science, Purdue University, West Lafayette, IN, USA 15 7 Department of Genetics, Washington University School of Medicine, St Louis, MO, USA 16 8 Department of Human Sciences, The Ohio State University, Columbus, OH, USA 17 Department of Anesthesia, Critical Care and Pain Medicine, Massachusetts General Hospital 24 Mailing address: MGH Building 149 Room 4140, 149 13th Street, Charlestown, MA 02129 26 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    Conflicts of Interest: SJA, SJH, ALM, NHB, JPM, and SDP are employed by Virta Health Corp 30 and were offered companys stock options
+ SDP and JSV are founders of Virta Health Corp
+ 31 CJV, MJS and WWC have no conflict of interest to declare
+  32 Author contributions: S
+ J
+A, M
+S, C
+ J
+V and J
+ P
+M drafted the manuscript
+ A
+ L
+M, N
+ H
+B, 36 S
+ J
+H and S
+ J
+A participated in data acquisition and compiling
+ M
+S and S
+ J
+A analyzed the 37 data
+ C
+ J
+V supervised this particular analysis, J
+ P
+M, A
+ L
+M, S
+ J
+H, N
+ H
+B, W
+ W
+C, S
+ D
+P and 38 J
+ S
+D edited the manuscript
+ W
+ W
+ C
+ proposed measuring subjective sleep quality as part of the 39 parent Continuous Care Intervention clinical trial All authors approved the final version of the 40 CCI, continuous care intervention; UC, usual care; T2D, type 2 diabetes; BMI, body mass idex; 44 PSQI, Pittsburgh Sleep Quality Index; OSA, obstructive sleep apnea; HbA1c, hemoglobin A1c; 45 CPAP, continuous positive airway pressure; AHI, apnea and hypopnea indices; KD, ketogenic 46 diet; REM, rapid eye movement; SWS, slow wave sleep; BHB, beta-hydroxybutryrate; HOMA-47 IR, homeostatic model assessment of insulin resistance; hsCRP, high-sensitivity C-reactive 48 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    Objective: Sleep disruption is frequently associated with type 2 diabetes (T2D) and 55 hyperglycemia
+ We recently reported the effectiveness of a continuous care intervention (CCI) 56 emphasizing nutritional ketosis for improving HbA1c, body weight and cardiovascular risk 57 factors in T2D patients
+ The present study assessed the effect of this CCI approach on sleep 58 Methods: A non-randomized, controlled longitudinal study; 262 T2D and 116 prediabetes 60 patients enrolled in the CCI and 87 separately recruited T2D patients continued usual care (UC) 61 treatment
+ Patients completed the Pittsburgh Sleep Quality Index (PSQI) questionnaire
+ A PSQI 62 score of >5 (scale 0 to 21) was used to identify poor sleepers
+ 63 Results: Global sleep quality improved in the CCI T2D (p<
+001) and prediabetes (p<
+001) 64 patients after one year of intervention
+ Subjective sleep quality (component 1), sleep 65 disturbance (component 5) and daytime dysfunction (component 7), also showed improvements 66 in the CCI T2D (p<
+01 for sleep quality and sleep disturbance; and p<
+001 for daytime 67 dysfunction) and prediabetes patients (p<
+001 for all three components); compared to the UC 68 T2D group after one year
+ The proportion of patients with poor sleep quality was significantly 69 reduced after one year of CCI (T2D; from 
+3% at baseline to 
+5% at one year, p=
+001 and 70 prediabetes; from 
+9% at baseline to 
+7% at one year, p<
+ )
+ 71 Conclusion: This study demonstrates improved sleep quality as assessed by PSQI in patients 72 with T2D and prediabetes undergoing CCI including nutritional ketosis but not in T2D patients 73 receiving UC
+ The dietary intervention benefited both sleep quality and the severity of T2D 74 symptoms suggesting that nutritional ketosis improves overall health via multiple mechanisms
+  75 Keywords: Type 2 diabetes, prediabetes, ketogenic diet, PSQI, nutritional ketosis 76 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    Sleep disruption is associated with obesity and type 2 diabetes (T2D), yet the 83 bidirectional relationship between sleep and glucose metabolism is not fully understood
+ It is 84 linked to increased diabetes prevalence in both experimental 1-4 and epidemiological studies -
+ 85 In addition, the severity of hyperglycemia in individuals with diabetes is associated with poor 86 sleep quality 8,9, 10, 11, short sleep duration 8,9, 12,13 and a greater tendency to develop sleep 87 disorders including obstructive sleep apnea (OSA) ,
+ Both the International Diabetes 88 Federation (IDF) and American Diabetes Association (ADA) recommend evaluating T2D 89 patients for sleep breathing problems especially OSA and strongly encourage treatment when 90  Weight loss is one of the most effective ways to improve sleep quality, quantity 92 [Yannakoulia, 2017 and Xanthpoulos 2018] and to treat OSA in obese patients
+ Lifestyle 93 intervention induced weight loss showed significant reduction in the apnea and hypopnea 94 indices (AHI) in conjunction with a decrease in hemoglobin A1c (HbA1c) levels in a randomized 95 controlled trial of obese OSA patients with comorbid diabetes 
+ Further, weight loss following 96 bariatric surgery is effective at improving glycemic control and improving AHI in OSA patients 
+ 97 Intervention studies specifically targeting sleep disruption in OSA patients without any effect on 98 weight, such as continuous positive airway pressure (CPAP) treatment, have shown 99 contradictory results for glycemic control
+ Most CPAP intervention studies in T2D reported no 100 glycemic benefit from the treatment 20,21, but one study demonstrated a slight reduction in 101 HbA1c 
+ In contrast, CPAP studies on prediabetic OSA patients showed improvements in 102 insulin sensitivity and glucose tolerance ,
+ It is not clear from these studies whether 103 improvement of glycemic control in conjunction with weight loss improves sleep quality or vice-104 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    A few studies have investigated the impact of dietary macronutrient composition on 106 sleep duration and quality
+ Two studies reported reduction of slow wave sleep (SWS) and 107 elevation of rapid eye movement (REM) sleep in individuals consuming higher carbohydrates 108 (600g carbohydrate or 80% energy from carbohydrate) ,
+ Another study reported the effect of 109 a high carbohydrate (56% energy from carbohydrate) diet in reducing sleep onset latency when 110 compared to a control diet 
+ Studies investigating low carbohydrate diets showed the opposite 111 effect; reduced REM 28, increased REM onset latency 29 and increased SWS 28, even after 4 112 hours of administering a very low carbohydrate meal 
+ Collectively, these findings signify 113 dietary carbohydrate content as an important factor in modulating sleep architecture, but 114 extrapolation from these studies is limited since they were conducted in experimentally 115 controlled conditions with small numbers of healthy individuals in a short time-span and with 116 Population and intervention-based studies on the overall impact of carbohydrate intake 118 on sleep indices or sleep quality are very limited
+ Katagiri et al showed reduced sleep quality in 119 individuals consuming more carbohydrates as measured by a subjective sleep measure, the 120 Pittsburgh Sleep Quality Index (PSQI) 
+ Studies investigating the effect of ketogenic diet (KD) 121 in children with sleep problems showed improvement in daytime sleepiness 31,32 as well as 122 positive changes in sleep architecture ,
+ However, in one of these studies, sleep 123 improvements were suggested to be due to weight loss rather than the KD 
+ Despite restricted 124 carbohydrate intake concurrent with sleep improvement in these children, SWS decreased 33 125 and REM increased 32,33 which contradicts studies on carbohydrate intake and sleep 126 architecture in adults ,,
+ Carbohydrate restriction and ketogenic diets are widely used in the 127 clinical management of obesity and diabetes, but studies assessing the effect of this diet on 128 sleep are currently limited
+ We recently demonstrated a continuous remote care treatment for 129 T2D including nutritional ketosis significantly improved glycemic control, weight, and 130 cardiovascular disease risk factors and reduced diabetes medication use at one year -
+  131 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    The purpose of this study was to assess the effect of the intervention by time-interval on the 132 global PSQI and its seven component scores as well as compared its changes with different 133 intervention and disease categories
+ We also assessed the relationship between changes in the 134 sleep parameters versus key biochemical parameters, and also investigated the correlation of 135 pain, circadian rhythm disruption and CPAP usage versus patient-perceived sleep status
+ We 136 hypothesized that the global sleep indexes would improve analogously, as improvement in other 137 This study is part of a clinical trial (Clinical trials
+gov identifier: NCT02519309) that was 141 approved by the Franciscan Health Lafayette Institutional Review Board
+ Patients between age 142 21 and 65 years with either a diagnosis of T2D and a BMI > 25 kg/m2 or prediabetes and a BMI 143 > 30 kg/m2 were included in this study
+ Detailed study design including the inclusion and 144 exclusion criteria were previously reported ,
+ Briefly, the trial was an open-label, non-145 randomized, controlled, longitudinal study with patients divided into three groups
+ The T2D and 146 pre-diabetes patients in the continuous care intervention (CCI) regimen self-selected either on-147 site (CCI-onsite) or web-based (CCI-web) education delivery
+ Educational content and medical 148 treatment was the same for both CCI-onsite and CCI-web
+ As there were no significant 149 differences in outcomes including PSQI scores, between educational groups, they are combined 150 for further analysis ,
+ Both T2D and prediabetes CCI patients had access to a mobile health 151 application (app) that enabled them to communicate and be continuously monitored by a team 152 of healthcare professionals including a personal health coach and physician or nurse 153 practitioner
+ Patients received individualized guidance in achieving nutritional ketosis, typically 154 including restriction of daily dietary carbohydrates to less than 30 grams
+ Patients were 155 encouraged to measure and input weight, blood glucose and blood beta-hydroxybutyrate (BHB) 156 concentrations daily in the app
+ These measurements were used by the health care team for 157 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    monitoring the patients condition (weight and glucose) and assessing carbohydrate restriction 158 Separately recruited usual care (UC) T2D patients were participants in a local diabetes 160 education program including care by their primary care physician or endocrinologist and 161 counseling by registered dietitians; no modification to their care was made for the study
+ This 162 group was observed at baseline and one year as reference for typical disease treatment and 163 progression within the same geography and health system
+ (UC patients were informed that the 164 trial had an intervention arm and could participate in that group if they chose to do so)
+ 165 Patient demographic and clinical data were collected at baseline, 70 days and one year
+ 167 Laboratory measures were assessed at a Clinical Laboratory Improvement (CLIA) certified 168 laboratory
+ These data were initially analyzed to evaluate the safety and effectiveness of the 169 CCI in improving diabetes status (glycemic control and medication use), weight and other 170 metabolic factors in T2D 34,35 and prediabetes patients 36(unpublished data, manuscript in 171 preparation)
+ Some of the clinical variables - weight, fasting blood glucose, HbA1c, homeostatic 172 model assessment of insulin resistance (HOMA-IR), BHB and high sensitivity C-reactive protein 173 (hsCRP) - were included for further analyses in this study
+ Usual care T2D patients were not 174 continuously monitored for weight, blood glucose, or BHB; clinical and laboratory measures 175 were obtained for this group only at baseline and one year
+  176  CCI patients were administered a set of questionnaires, including the PSQI, during visits 179 at baseline, 70 days and one year; UC participants completed questionnaires at baseline and 180 one year
+ The PSQI consists of 19 validated questions assessing sleep quality and efficiency 
+ 181 The global PSQI score is calculated from seven component scores on subjective sleep quality 182 (component 1), sleep latency (component 2), sleep duration (component 3), habitual sleep 183 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    efficiency (component 4), sleep disturbances (component 5), use of sleep medication 184 (component 6) and daytime dysfunction (component )
+ Each question within the component is 185 scored on a 4-point Likert scale of 0 to 3, with 3 indicating worse outcomes and the mean was 186 calculated for each component score
+ The sum of the component score means generates the 187 global PSQI score that ranges from 0 to 
+ Higher global PSQI scores indicate poorer sleep
+ A 188 patient with a global PSQI score < 5 is considered a good sleeper and > 5 is categorized as a 189 poor sleeper 
+ Change in the PSQI score over time was calculated using the formula below: 190  Patients were classified into pain and non-pain groups based on their response to 194 pain-related questions in both the PSQI (question 5i) and a separate questionnaire used to 195 calculate the knee injury and osteoarthritis outcome score (KOOS)
+ Overall KOOS results will be 196 reported in a separate publication
+ Classification of patients under circadian rhythm disrupted 197 and non-disrupted groups was based on the wake time and bedtime responses for PSQI 198 questions 1 and 3 for compilation of component 4 (sleep efficiency)
+ Patients were classified as 199 having a shifted wake-up time if they reported typically waking between 11am and 2am, while 200 those with bedtimes between 12am to 6pm were bedtime shifted
+ These arbitrary bedtime and 201 wake time cut-off ranges were selected based on evening and night shift workers schedule (2nd 202 shift - 3pm to 11pm and 3rd shift- 11pm to 7am); which causes these workers to have sleep 203 patterns that deviate from a normal chronotype
+ Patients were also surveyed regarding CPAP 204 usage and discontinuation, however detailed usage information such as CPAP pressure 205 settings and usage compliance were not obtained making it difficult to interpret the patients OSA 206 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    The questionnaires were administered by research personal and completed by patients 211 on paper
+ Paper questionnaires were scanned and responses were transcribed in duplicate by 212 an independent contract data entry firm
+ The patterns of missing data were assessed using 213 Littles MCAR test 39 and were found to be missing at random (MAR)
+ Missing data were 214 imputed by Multivariate Imputation by Chained Equations (MICE) 40, and Intent to treat (ITT) 215 analyses were performed
+ Normality of the global PSQI and component scores was evaluated 216 using Lilliefors test
+ Even after transformation, the data failed the normality test (i
+ e
+ there was a 217 skew toward lower PSQI scores and a long tail of higher scores) (Supplemental figures 1A-C); 218 therefore, nonparametric tests were used for analyses of PSQI scores
+ Results from continuous 219 variables were expressed as mean  standard deviation
+ Comparisons between groups were 220 performed using the Kruskal-Wallis test, and comparisons within groups were performed using 221 the Wilcoxon Sign Rank test
+ Tukeys honest significant difference test was used to analyze 222 pairwise differences among significant results from omnibus tests
+ McNemars test was used for 223 assessing statistical significance of transitioning between good and poor sleeper among the 224 Adjusted Pearsons and Spearman correlations were calculated between changes from 226 baseline in global PSQI and changes in metabolic-parameters
+ Adjusted correlations were 227 performed while controlling for age, gender and BMI at baseline
+ All participants in the CCI 228 group were stratified by sleep improvement status based on their baseline and one year global 229 PSQI scores
+ Patients that were initially considered poor sleepers with a baseline PSQI > 5 230 but whose score after one year decreased to at or below the threshold of 5 were classified as 231 improved
+ Those patients who were considered good sleepers at both baseline and one year 232 were classified as maintained
+ Finally, those patients whose 1 year PSQI score was >5 233 (regardless of their baseline score) were classified as not improved
+ Stepwise analyses of 234 covariance (ANCOVA) were performed between the three different CCI sleep status groups at 235 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    one year with the change of the glucose-related, ketone and inflammatory markers, while 236 controlling by age, gender and years living with diabetes
+ Statistical tests were performed with 237 MATLAB R2017b using the Statistics and Machine Learning Toolbox 41 and the R statistical 238 Details on the recruitment and extensive baseline characteristics of the CCI and UC T2D 244 patients were previously published ,
+ The demographic, glycemic, inflammatory and sleep 245 baseline characteristics of the participants that were included for assessments of sleep are 246 presented in Table 
+ One-hundred forty-three (
+6%) CCI T2D, 61(54%) CCI prediabetes, and 247 53 (
+3%) UC T2D patients completed the PSQI at all expected time points
+ The patients who 248 completed the trial at one year were slightly higher than those who completed the PSQI 249 questionnaires
+ Some of the patients completed the study period and laboratory analysis but 250 were unable to attend the clinic for their 70-days and one-year follow-up visits, where they are 251 required to complete their corresponding questionnaires
+ The proportion of missing PSQI data 252 were similar across the three groups with 
+61% of CCI T2D, 
+06% of CCI prediabetes and 253 
+24% of UC T2D completed the PSQI in all expected time points
+ There were no significant 254 differences between completers and non-completers on baseline characteristics for either group 255 at one year of the intervention (supplemental Table )
+ The global PSQI and component scores 256 did not differ significantly among the groups (CCI T2D, CCI prediabetes and UC T2D) at 257 baseline
+ The proportion of participants with overall poor sleep quality was higher in the CCI 258 prediabetes group (
+9%) compared to the CCI T2D (
+3%) and UC T2D (
+2%) groups
+   259 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    Overall sleep quality as assessed by the global PSQI score, improved in CCI T2D 262 (median change from 7 to 6; p<
+001) and prediabetes (median change from 7 to 5; p<
+001) 263 groups after one year of the intervention (Figure )
+ No significant change in the global PSQI 264 score was observed in UC T2D (median change from 7 to 8, p=
+ )
+ At one year, global PSQI 265 scores in the CCI T2D (p<
+001) and prediabetes (p<
+01) were significantly lower than in the 266 UC T2D, whereas no differences were observed at baseline (Figure A)
+ Among patients 267 characterized as poor sleepers at baseline (global PSQI >5), one year global PSQI score was 268 lower in the CCI T2D (p<
+001) and prediabetes (p<
+001) than in the UC T2D (Figure B)
+ 269 Greater reduction in the global PSQI score was observed in CCI T2D (median change of -1, 270 p<
+01) and CCI prediabetes groups (median change of -2, p<
+001) compared to the UC T2D 271 group (Figure )
+ Further assessment of the PSQI component scores revealed three of the 272 seven components showed significant change at one year for CCI T2D and prediabetes groups
+ 273 Subjective sleep quality (p<
+01 CCI T2D; p<
+001 CCI prediabetes), sleep disturbance (p<
+01 274 CCI T2D; p<
+001 CCI prediabetes) and daytime dysfunction (p<
+001 CCI T2D; p<
+001 CCI 275 prediabetes) score were lower in the CCI T2D and prediabetes patients compared to the UC 276 There were 179 (
+3%) T2D and 88 (
+9%) prediabetes patients categorized as poor 279 sleepers in the CCI at baseline
+ The proportions of poor sleepers in the CCI were reduced 280 after one year of the intervention, with 
+5% of T2D (p=
+001) and 
+7% (p<
+001) of 281 prediabetes patients categorized as poor sleepers at one year
+ In the UC cohort, the 282 proportion of patients categorized as poor sleepers did not change after one year (
+2% at 283 Association within the CCI group between changes in global PSQI with metabolic and 285 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;     Table 2 shows correlations between changes in the global PSQI score with changes in 287 glucose-related, ketone and inflammatory markers in the CCI
+ In the prediabetes group, 288 changes in fasting glucose (r= 
+23, p=
+02) and HOMA-IR (r= 
+32, p<
+001) were correlated 289 to changes in PSQI scores after controlling for baseline age, sex and weight
+ Increased ketone 290 concentrations in the prediabetes participants were also associated with reduction of global 291 PSQI scores (r= -
+242, p=
+ )
+ These correlations observed in the prediabetes group were 292 not present in the CCI T2D group and changes in the HbA1c and hsCRP did not correlate with 293 changes in global PSQI scores in either group
+ Change in mean weight (p=
+04) and HOMA-IR 294 (p=
+01) were the only variables independently and significantly associated between the three 295 different sleep status (improved, maintained and not improved sleep status) at one year of the 296 intervention
+ No statistically significant differences were found in weight loss changes between 297 patients with improved, maintained and not improved sleep status
+ Patients who maintained 298 sleep showed highest reductions of HOMA-IR (-
+94 + 
+86), with statistically significant 299 difference than those who did not improve sleep, after one year of the intervention (p = 
+ )
+ 300 Improvements in HOMA-IR among patients in the improved sleep (-
+17 + 
+86) and not 301 improved sleep status (-
+24 + 
+55) did not differ significantly
+    302  We further assessed the effect of pain on sleep improvement in the CCI by classifying 304 the patients pain status using response retrieved from questions specifically related to pain in 305 the sleep and knee (KOOS) questionnaires
+ As illustrated in supplementary figure 2, patients 306 with pain had higher global PSQI scores, indicating poorer sleep, compared to those 307 categorized under non-pain group at all three time points
+ Both patients in the non-pain 308 (Supplementary figure 3A, p<
+ )
+ and pain group (Supplementary figure 3B, p<
+01) had 309 reductions in their global PSQI score at 70 days and one year
+   310 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;     We also assessed the effect of shifted sleep chronotype on the global PSQI score 314 improvement
+ Patients were classified as having shifted sleep chronotype based on their self- 315 reported wake-up times and bedtimes as defined in the methods
+ There were 18, 27, and 96 316 patients in the CCI cohort classified as both wake-up time and bedtime shifted, wake-up time 317 shifted only or bedtime shifted only respectively
+ Patients with shifted bedtimes, had reduced 318 global PSQI scores (p<
+01), as did those with normal chronotype (p<
+001) (Supplementary 319 figures 4A and B)
+ However, those patients with shifted wake-up times (Supplementary figures 320 4C) did not show a change in their global PSQI score after one year of the intervention
+ Those 321 with both shifted wake-up times and bedtimes also did not show a change in their global PSQI 322  At baseline, there were a total of 140 participants in both CCI and UC treatment groups 325 with CPAP equipment prescribed for sleep
+ Among CPAP users, 91 were in the CCI T2D group, 326 31 in the CCI prediabetes and 18 in the UC T2D group
+ Fifteen (13 CCI T2D and 2 UC T2D) of 327 the 140 participants discontinued using CPAP at one year
+  Only 6 (46%) of the 13 CCI T2D 328 participants discontinued due to patient-reported improvement in sleep quality from the CCI and 329 reduction of weight; the remaining 7 reported dis-continuation due to discomfort or personal 330 choice
+ Global PSQI scores among the CPAP users at baseline and one year did not show a 331 significantly different distribution pattern than what was observed in the full cohort of 332 This study is one of the first designed to assess the effect of carbohydrate restriction and 335 nutritional ketosis on sleep quality in individuals with hyperglycemia and insulin resistance
+ 336 Improved patient-reported sleep quality as assessed by global PSQI suggests that CCI 337 including nutritional ketosis benefited sleep quality in both patients with T2D and prediabetes
+ 338 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    The proportion of patients categorized as poor sleepers at one year was significantly reduced 339 in the CCI groups but not in the UC group
+ Furthermore, these results demonstrate that the 340 sleep quality improvement observed in the whole intervention population was due in part to 17% 341 of baseline poor sleepers being reclassified as good sleepers at one year
+ Our results are 342 consistent with previous findings that showed improved overall sleep quality in children 343 Improvement in the global PSQI score of patients undergoing the CCI was mainly 345 due to significant changes in three PSQI components: subjective sleep quality, sleep 346 disturbance and daytime dysfunction
+ Both objective and subjective sleep quality impairment are 347 frequently reported in diabetes patients and positively associated with severity of hyperglycemia 348 -
+ Likewise, correlation between poor sleep quality and increased carbohydrate intake 30 is 349 also previously reported
+ These observed patterns of association between sleep quality with 350 hyperglycemia and carbohydrate intake may explain why this carbohydrate restriction 351 intervention improved subjective sleep quality
+ The sleep disturbance component of the global 352 PSQI score is associated with poor glycemic control among T2D patients 
+ One study reported 353 a significant correlation between sleep disturbance and HbA1c level 
+ Night time sleep 354 disturbance in T2D patients can be related to a wide range of conditions such as nocturnal 355 polyuria, pain, and breathing problems, especially in those with OSA
+ In our study, we also 356 showed that patients encountering persistent pain, including knee pain, had a higher median 357 global PSQI score, while one year of the intervention effectively improved global PSQI scores in 358 these patients despite the persistence of reported pain in some patients
+ It is possible that 359 improvement in the sleep disturbance of the CCI patients contributed to the glycemic control 360 improvement in these patients
+ The effectiveness of the intervention in improving sleep in those 361 with pain, further emphasizes its applicability in alleviating sleep disturbance
+ 362 Furthermore, there was a significant improvement in the daytime dysfunction component 363 of the global PSQI score in the CCI group
+ Excessive daytime sleepiness and dysfunction are 364 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    reported commonly in T2D 45,46, and weight loss through bariatric surgery has a positive 365 resolving effect on daytime dysfunction and sleepiness ,
+ In the present investigation, the 366 majority of CCI patients achieved weight loss of  10%, which could have contributed to the 367 significant improvement observed in daytime function
+ In addition, we also evaluated the effect 368 of the intervention on a subcohort of patients with a self-reported pattern of shifted non-standard 369 bedtimes and wake-up times that were not aligned to the light dark cycle, which likely affects 370 daytime functioning
+ Circadian rhythm disruption is frequently associated with metabolic 371 alterations, especially in an insulin resistant state ,
+ While patients with a normal sleep 372 chronotype benefited the most, the intervention also improved the sleep of patients with time 373 shifted bedtimes
+  A similar advantage of the intervention was not observed in patients with 374 shifted wake-up times, though this may be due to the limited number of patients in this subgroup 375  The improvement in the global PSQI score observed in CCI patients occurred 377 concurrently with weight reduction and glycemic control improvement ,
+ Martin et al 51 378 reported a direct correlation between degree of weight loss and global PSQI score improvement 379 in healthy nonobese adults receiving an energy restricted diet, while Chaput et al52 reported an 380 improvement in global PSQI score following the initial 5-kg weight loss, but no additional 381 improvement with subsequent weight loss
+ A study using a ketogenic diet in children alleviated 382 abnormal sleep architecture; however, weight loss was suggested as the main determinant of 383 improved sleep 
+ These studies collectively imply a direct association between weight loss and 384 improved PSQI score
+  Likewise, long-term maintenance of weight loss was associated with 385 better sleep quality and quantity (); while the degree of weight loss reduction is directly 386 correlated with OSA improvement()
+ However, some studies also demonstrate the efficacy of 387 anti-glycemic medications for improving PSQI score concurrent with improved glycemic control 388 
+  This study identified associations between HOMA-IR and weight reductions with stratification 389 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    of patients sleep status in the full CCI cohort even though there were no significant differences 390 in weight loss and insulin resistance reduction levels between those who had improved sleep 391 and those who did not
+ Patients with good sleep quality at the beginning of the intervention 392 benefited the most in reducing insulin resistance
+ Improvement in fasting glucose and HOMA-IR 393 were only positively associated with improved PSQI score in prediabetes patients
+  394 It is not clear if nutritional ketosis achieved by substantial carbohydrate restriction 395 augmented the effect of the intervention on sleep or if weight loss and/or improved glycemic 396 control generated from the intervention contributed to sleep quality improvements
+  We showed 397 a significant correlation between blood beta-hydroxybutryrate (BHB) levels and PSQI 398 improvement in the prediabetes cohort
+ While the effect of and mechanism of BHB in sleep are 399 not clear, a positive correlation between blood BHB levels and carbon dioxide (CO2) response 400 was previously reported in patients with obesity related hypoventilation syndrome that had 401 
+ A continuous state of ketosis through carbohydrate restriction and fat 402 intake also induces the postprandial release of a satiety hormone, cholecystokinin (CCK),,
+ 403 When administered in rats, CCK was shown to promote slow wave activity and NREM sleep 
+ 404 CCK was also shown to induce sleep when administered in diabetic rats 
+ Therefore, it is 405 possible that one mechanism of improved sleep with a ketogenic diet that increases BHB levels 406  There are several limitations of our study
+ The study was designed mainly to assess the 408 impact of the CCI on glycemic control, medication use, weight, and cardiovascular disease risk 409 factors
+ Patient-reported outcomes for quality of life measures including sleep were included as 410 secondary endpoints
+ It is difficult to determine the causality among the intervention, 411 improvement in primary outcomes and improvement in sleep from this study
+  A major limitation 412 of this study is the use of subjective sleep measures as self-reported sleep assessment is 413 subject to limited self-knowledge of sleep behavior and inconsistency in reporting
+ Therefore, 414 future studies that use randomized controlled trial designs and objective sleep measures are 415 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    needed to confirm our results
+ In addition, patients with an established diagnosis of a sleep 416 disorder such as OSA were not separated in the analysis since complete records of their CPAP 417 usage were not collected in the questionnaire
+ Patient compliance with CPAP usage is essential 418 for making interpretations about the status of their OSA treatment and its effect on sleep and 419 glycemic control
+ The study also lacked recruitment of prediabetes patients in the UC group for 420 direct comparison of the treatment effect between UC and CCI on sleep in these patients
+   421 In conclusion, these results demonstrate that overall sleep quality significantly improved 422 in T2D and prediabetes patients undergoing remote CCI including nutritional ketosis but not in 423 T2D patients in the UC group
+ The sleep improvement was concurrent with weight reduction 424 and glycemic control improvement
+ The PSQI components that improved were sleep quality, 425 sleep disturbance and daytime dysfunction
+ These results suggest that nutritional ketosis 426 benefits overall health through improved glycemic control as well as improved sleep quality
+ 427 
+ Kuhn E, Brodan V, Brodanova M, Rynasek K
+ Metabolic reflection of sleep deprivation
+ 431 
+ Spiegel K, Leproult R, Van Cauter E
+ Impact of sleep debt on metabolic and endocrine 433 
+ Spiegel K, Knutson K, Leproult R, et al Sleep loss: a novel risk factor for insulin 435 resistance and type-2 diabetes
+ J Appl Physiol 2005; 99: -
+ 436 
+ Nedeltcheva AV, Kessler L, Imperial J, Penev PD
+ Exposure to recurrent sleep 437 restriction in the setting of high caloric intake and physical inactivity results in increased 438 insulin resistance and reduced glucose tolerance
+ J Clin Endocrinol Metab 2009; 94: 439 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    
+ Ayas NT, White DP, Al-Delaimy WK, et al A prospective study of self-reported sleep 441 duration and incident diabetes in women
+ Diabetes Care 2003; 163: -
+ 442 
+ Nilsson PM, Roost M, Engstrom G, et al Incidence of diabetes in middle-aged men is 443 
+ Kawakami N, Takatsuka N, Shimizu H
+ Sleep disturbance and onset of type 2 diabetes
+ 445 
+ Lee SW, Ng KY, Chin WK
+ The impact of sleep amount and sleep quality on glycemic 447 control in type 2 diabetes: A systematic review and meta-analysis
+ Sleep Med Reviews 448 
+ Knutson KL, Ryden AM, Mander BA, Van Cauter E
+ Role of sleep duration and quality in 450 the risk and severity of type 2 diabetes mellitus
+ Arch Intern Med 2006; 166: -
+ 451 
+ Sakamota R, Yamakawa T, Takahashi K, et al Association of usual sleep quality and 452 glycemic control in type 2 diabetes in Japanese: A cross sectional study
+ Sleep and 453 
+ Tsai YW, Kann NH, Tung TH, et al Impact of subjective sleep quality on glycemic 456 control in type 2 diabetes mellitus
+ Family Prac 2012; 29: -
+ 457 
+ Trento M, Broglio F, Riganti F, et al Sleep abnormalities in type 2 diabetes may be 458 
+ Gozashti MH, Eslami N, Radfar MH, Pakmanesh H
+ Sleep pattern, duration and quality 460 in relation with glycemic control in people with type 2 diabetes mellitus
+ Iran J Med Sci 461 
+ Resnick HE, Redline S, Shafar E, et al Diabetes and sleep disturbances findings from 463 the Sleep Heart Health Study
+ Diabetes Care 2003; 26 (3): -
+ 464 
+ Foster GD, Sander MH, Millman R, et al Obstructive sleep apnea among obese patients 465 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    
+ American Diabetes Association
+ 
+ Comprehensive medical evaluation and assessment 467 of comorbidities: Standards of medical care in diabetes
+ Diabetes Care 2018; 41: S28-468 
+ The IDF Consensus statement on sleep apnoea and type 2 diabetes 
+ -
+ 470 
+ Foster GD, Borradaile KD, Sanders MH, et al A randomized study on the effect of 471 weight loss on obstructive sleep apnea among obese patients with type 2 diabetes: the 472 
+ Greenburg DL, Lettieri CJ, Eliasson AH
+ Effects of surgical weight loss on measures of 474 obstructive sleep apnea: a meta-analysis
+ Am J Med 2009; 122: -
+ 475 
+ Shaw JE, Punjabi NM, Naughton MT, et al The effect of treatment of obstructive sleep 476 apnea on glycemic control in type 2 diabetes
+ Am J Respir Crit Care Med 2016; 194: 477 
+ West SD, Nicoll DJ, Wallace TM, et al Effect of CPAP on insulin resistance and HbA1c 479 in men with obstructive sleep apnoea and type 2 diabetes
+ Thorax 2017; 62: -
+ 480 
+ Martinez-Ceron E, Barquiel B, Bezos AM, et al Effect of continuous positive airway 481 pressure on glycemic control in patients with obstructive sleep apnea and type 2 482 diabetes
+ A randomized clinical trial Am J Respir Crit Care Med 2016; 194: -
+ 483 
+ Pamidi S
+ Wroblewski K, Stephen M, et al Eight hours of nightly continuous positive 484 airway pressure treatment of obstructive sleep apnea improves glucose metabolism in 485 patients with prediabetes
+ A randomized controlled trial Am J Respir Crit Care Model 486 
+ Weinstock TG, Wang X, Rueschman M, et al A controlled trial of CPAP therapy on 488 metabolic control in individuals with impaired glucose tolerance and sleep apnea
+ Sleep 489 
+ Phillips F, Chen CN, Crisp AH, et al Isocaloric diet changes and 491 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    
+ Yajima K, Seya T, Iwayama H, et al Effects of nutrient composition of dinner on sleep 493 architecture and energy metabolism during sleep
+ J Nutr Sci Vitaminol 2014; 60:114-494 
+ Lindseth G, Lindseth P, Thompson M
+ Nutritional effects on sleep
+ West J Nurs Res 496 
+ Afaghi A, OConnor H, Chow CM
+ Acute effects of the very low carbohydrate diet on 498 
+ Kwan RM, Thomas S, Mir MA
+ Effects of a low carbohydrate isoenergetic diet on sleep 500 behavior and pulmonary functions in healthy female adult humans
+ J Nutr 1986; 116: 501 
+ Katagiri R, Asakura K, Kobayashi S, et al Low intake of vegetables, high intake of 503 confectionary, and unhealthy eating habits are associated with poor sleep quality among 504 middle-aged female Japanese workers
+ J Occup Health 2014; 56: -
+ 505 
+ Husain AM, Yancy Jr WS, Carwile ST, et al Diet therapy for narcolepsy
+ Neurology 506 
+ Hallbrook T, Lundgren J, Rosen I
+ Ketogenic diet improves sleep quality in children with 508 
+ Willi SM, Oexmann MJ, Wright NM, et al The effects of high-protein, low-fat, ketogenic 510 diet on adolescents with morbid obesity, body composition, blood chemistries and sleep 511 
+ Hallberg SJ, McKenzie AL, Williams PT, et al Effectiveness and safety of a novel care 513 model for the management of type 2 diabetes at 1 year: an open-label, non-randomized, 514 
+ Bhanpuri NH, Hallberg SJ, Williams PT, et al Cardiovascular disease risk factor 516 responses to a type 2 diabetes care model including nutritional ketosis induced by 517 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    sustained carbohydrate restriction at 1 year: an open label, non-randomized, controlled 518 
+ McKenzie AL, Hallberg SJ, Bhanpuri NH, et al Continuous remote care model utilizing 520 nutritional ketosis improves type 2 diabetes risk factors in patients with prediabetes
+ 521 
+ Buysse DJ, Reynolds CF, Monk TH, et al The Pittsburgh Sleep Quality Index (PSQI): A 524 new instrument for psychiatric research and practice
+ Psychiatrist Res 1989; 28: 193-525 
+ Smith MT, Wegener ST
+ Measures of sleep: The Insomnia severity index, Medical 527 outcomes study (MOS) sleep scale, Pittsburgh Sleep Diary (PSD), and Pittsburgh Sleep 528 
+ Alexander BA BaylorEdPsych: R Package for Baylor University Educational Psychology 530 
+ van Buuren S, Groothuis-Oudshoorn K
+ mice: Multivariate Imputation by Chained 533 Equations in R
+ Journal of Statistical Software 2011; 45: -
+  534 
+ MATLAB and Statistics Toolbox Release 2017b, The MathWorks, Inc
+, Natick, 535 
+  R Core Team
+ R: A language and environment for statistical computing
+ 537 
+ Song Y, Ye X, Ye L, et al Disturbed subjective sleep in chinese females with type 2 540 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    
+ Suarez EC
+ Self-reported symptoms of sleep disturbance and inflammation, coagulation, 543 insulin resistance and psychosocial distress: evidence for gender disparity
+ Brain Behav 544 
+ Chasens ER, Korytkowski M, Sereika SM, et al Effect of poor sleep quality and 546 excessive daytime sleepiness on factors associated with diabetes self management
+ 547 
+ Telford O, Diamantidis CJ, Bosworth HB, et al The relationship between Pittsburgh 549 Sleep Quality Index subscales and diabetes control
+ Chronic Illn 2018; doi: 550 
+ Mello M, Vasques ACJ, Pareja JC, et al Effect of biliopancreatic diversion on sleep 552 quality and daytime sleepiness in patients with obesity and type 2 diabetes
+ Arch 553 
+ Dilektasli E, Dilektasli AG
+ Laparoscopic sleeve gastrectomy improves excessive 555 daytime sleepiness and sleep quality 6 months following surgery: a prospective cohort 556 
+ Pan A, Schernhammer ES, Sun Q, et al Rotating night shift work and risk of type 2 558 diabetes: two prospective cohort studies in women
+ PLoS Med
+ ;:e
+ 559 
+ Reutrakul S, Hood MM, Crowley SJ, et al Chronotype is independently associated with 560 
+ Martin CK, Bhapkar M, Pittas AG, et al Effect of calorie restriction on mood, quality of 562 life, sleep and sexual function in healthy nonobese adults: The CALERIE 2 Randomized 563 
+ Chaput JP, Drapeau V, Hetherington M, et al Psychobiological impact of a progression 565 weight loss program in obese men
+ Physiol Behav 2005; 86: -
+ 566 
+ Sakamoto Y, Oyama J, Ikeda H, et al Effects of sitagliptin beyond glycemic control: 567 focus on quality of life
+ Cardiovasc Diabetol 2013; 12: 
+doi 
+ /---
+ 568 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    
+ Fried PI, McClean PA, Phillipson EA, et al Effect of ketosis on respiratory sensitivity to 569 carbon dioxide in obesity
+ N Engl J Med 1976; 294: -
+ 570 
+ Hayes MR, Miller CK, Ulbrecht JS, et al A carbohydrate-restricted diet alters gut 571 peptides and adiposity signals in men and women with metabolic syndrome
+ J Nutr 572 
+ Chearskul S, Delbridge E, Shulkes A, et al Effect of weight loss and ketosis on 574 postprandial cholecystokinin and free fatty acid concentrations
+ Am J Clin Nutr 2008; 87: 575 
+ Kaps L, Obal F Jr
+, Alfoldi P, et al Effects of nocturnal intraperitoneal administration of 577 cholecystokinin in rats: simultaneous increase in sleep, increase in EEG slow-wave 578 activity, reduction of motor activity, suppression of eating, and decrease in brain 579 
+  Kaps L, Obal F, Farkas I, et al Cholecystokinin promotes sleep and reduces food 581 intake in diabetic rats
+  Physiol Behav 1991; 50: 
+ 582 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    ure 
+ Distribution of global PSQI scores at baseline and 365 days in CCI T2D, CCI PreD and UC TD
+ Global PSQI scificantly reduced in the CCI T2D and CCI PreD groups but not in the UC T2D group after 365 days
+  ure 
+ Distribution of PSQI components subjective sleep quality, sleep disturbances and daytime dysfunction in CCI TD and UC T2D groups at three different timepoints (0, 70 and 365 days)
+ Subjective sleep quality (A), sleep disturbances (me dysfunction (C) were significantly lower in the CCI T2D and CCI PreD groups when compared to UC T2D group at plot descriptors (Figures 1-4) Horizontal line within the box indicates median; upper and lower boundaries of the box re 25th and 75th percentiles; whiskers of the box is the highest and lowest values and +++ signs represent outlier values
+  not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;     
+ Baseline characteristics of participants included in the study
+ Baseline data were calculated using intent-to-treat (ITTnt Cohorts CCI Type 2 Diabetes CCI Prediabetes UC Type 2 Diabeers, Completers, PSQI Available (n) 262, 218, 143 116, 113, 61 87, 78, 53 ng glucose (mg/dL) 
+78 ( 
+32) 
+58 ( 
+20) * 
+08 ( 
+48) 1c (%) 
+60 ( 
+50) 
+91 ( 
+24) * 
+67 ( 
+77) A-IR 
+8 ( 
+1) 
+1 ( 
+4) * 
+7 ( 
+8) sensitivity C-reactive protein (nmol/L) 
+31 ( 
+31) 
+46 ( 
+51) 
+34 ( 
+10) hydroxybutyrate (mmol/L) 
+17 ( 
+15) 
+14 ( 
+13) 
+15 ( 
+12) al PSQI Score 
+72 ( 
+72) 
+96( 
+43) 
+92 ( 
+85) ective sleep quality 
+18 ( 
+75) 
+22 ( 
+73) 
+25 ( 
+79) not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    ual sleep efficiency 
+68 ( 
+99) 
+61 ( 
+89) 
+71 ( 
+04) of sleep medication 
+69 ( 
+16) 
+66 ( 
+11) 
+85 ( 
+26) me dysfunction 
+22 ( 
+77) 
+21 ( 
+76) 
+17 ( 
+86) Subjective sleep quality, component 1; sleep latency, component 2; sleep duration, component 3; habitual sleep efficiency, compodisturbances, component 5; use of sleep medication, component 6, and daytime dysfunction, component 7 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;     
+ Correlation analyses between change in the global PSQI score and change in metabolic parameters after one year ofglucose (mg/dl)  
+032 
+60 
+008 
+90 
+240 
+01 
+226 
+018 adjusted Pearsons correlations
+ Adjustments while controlling for age, sex and baseline weight not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    

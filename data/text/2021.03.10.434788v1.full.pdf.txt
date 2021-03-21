@@ -1,0 +1,1004 @@
+In vitro profiling of orphan G protein coupled receptor (GPCR) 2 Department of Pharmacology and Physiology, University of Rochester Medical Center, 6 G proteincoupled receptor (GPCR); constitutive activity; cell signaling; molecular pharmacology
+ 24 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    Members of the G protein coupled receptor (GPCR) family are targeted by a significant fraction 27 of the available FDA-approved drugs
+ However, the physiological role and pharmacological 28 properties of many GPCRs remain unknown, representing untapped potential in drug design
+ Of 29 particular interest are ~100 less-studied GPCRs known as orphans because their endogenous 30 ligands are unknown
+ Intriguingly, disease-causing mutations identified in patients, together with 31 animal studies, have demonstrated that many orphan receptors play crucial physiological roles, 32 The majority of deorphanized GPCRs demonstrate coupling to Gi/o, however a limited number of 35 techniques allow the detection of intrinsically small constitutive activity associated with Gi/o protein 36 activation which represents a significant barrier in our ability to study orphan GPCR signaling
+ 37 Using luciferase reporter assays, we effectively detected constitutive Gs, Gq, and G12/13 protein 38 signaling by unliganded receptors, and introducing various G protein chimeras, we provide a 39 novel, highly-sensitive tool capable of identifying Gi/o coupling in unliganded orphan GPCRs
+ 40 Using this approach, we measured the constitutive activity of the entire class C GPCR family that 42 includes 8 orphan receptors, and a subset of 20 prototypical class A GPCR members, including 43 11 orphans
+ Excitingly, this approach illuminated the G protein coupling profile of 8 orphan GPCRs 44 (GPR22, GPR137b, GPR88, GPR156, GPR158, GPR179, GPRC5D, and GPRC6A) previously 45 We provide a new platform that could be utilized in ongoing studies in orphan receptor signaling 48 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;     A large group of understudied orphan GPCRs controls a variety of physiological process
+ 51  A new strategy to identify G protein signaling associated with orphan GPCRs
+ 53  Many orphan GPCRs are associated with pathological conditions and represent promising 56 The large family of G protein coupled receptors (GPCRs) constitutes the most exploited 60 drug target in the human genome (Hauser, Attwood, Rask-Andersen, Schioth, & Gloriam, 2017; 61 Sriram & Insel, )
+ This is the result of GPCR involvement in the regulation of key physiological 62 processes combined with accessibility at the plasma membrane
+ Nonetheless, the endogenous 63 ligands of many GPCRs have yet to be identified, which collectively are referred to as orphan 64 GPCRs (oGPCRs)
+ In spite of the lack of known endogenous ligands, experimental evidence from 65 both animal models and human studies suggest that many oGPCRs regulate important 66 physiological processes and therefore represent attractive therapeutic targets that remain to be 67 exploited (Audo et al, 2012; Peachey et al, 2012; Wang et al, 2019; Watkins & Orlandi, )
+ 68 The first critical step towards the deorphanization of an oGPCR involves identifying the 69 intracellular signaling pathways that it modulates, thereby providing an essential readout to build 70 screening platforms aimed at testing receptor activation by candidate endogenous/synthetic 71 ligands
+ However, the lack of known ligands significantly limits the experimental strategies that 72 can be applied to identify oGPCR-activated signaling pathways, thereby representing one of the 73 greatest difficulties in studying oGPCRs
+ Although not widely utilized, one way to address this 74 question involves measuring the GPCR constitutive activity (Bond & Ijzerman, 2006; Ngo, 75 Coleman, & Smith, )
+ Constitutive activity is observed when a GPCR produces spontaneous 76 G protein activation in the absence of agonist (Rosenbaum, Rasmussen, & Kobilka, 2009), a 77 property often observed when overexpressing GPCRs in heterologous systems and also detected 78 in vivo (Corder et al, 2013; Damian et al, 2012; Inoue et al, )
+ Given that current available 79 assays have been unsuccessful in illuminating G protein coupling profiles for many oGPCRs, in 80 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    particular in detecting those dominantly coupling to Gi/o proteins, we sought to develop a novel 81 We generated a library of GPCRs that comprises the entire class C GPCR family and a 83 subset of class A members including a total of 19 oGPCRs for testing with several luciferase 84 reporter systems activated in response to G proteins stimulation
+ Luciferase reporters are 85 characterized by high sensitivity and a wide dynamic range, allowing the detection of even minor 86 levels of G protein-initiated signaling pathways (Cheng et al, )
+ These systems encode either 87 firefly luciferase or nanoluc under the control of inducible promoters downstream of the main G 88 protein-promoted signaling cascades
+ G proteins are classified into four major families: Gs, Gq,  89 G12/13, and Gi/o
+ In detail, activation of Gs family members (Gs/olf) stimulates adenylate cyclase to 90 produce cAMP that triggers downstream signaling events which activate the cAMP response 91 element (CRE)
+ A primary effector of heterotrimeric Gq family members (Gq/11/14/15) is 92 phospholipase C (PLC) that catalyzes the formation of second messengers inositol 1,4,5-93 trisphosphate and diacylglycerol leading to the activation of the Nuclear Factor of Activated T-94 cells (NFAT) promoter
+ The canonical downstream target of the heterotrimeric G12/13 proteins is a 95 group of Rho guanine nucleotide exchange factors (RhoGEFs) that activate the Ras-family small 96 GTPase RhoA
+ G12/13 activation can be detected by luciferase reporters using promoters 97 comprising a serum response element (SRE), or serum response factor response element (SRF-98 RE), with the last one designed to respond to SRF-dependent and ternary complex factor (TCF)-99 independent pathways (Cheng et al, )
+ Conversely, detection of active G proteins belonging 100 to the Gi/o family (Gi1/i2/i3/o/z/t) is more complicated and elusive
+ In fact, the main effect of Gi/o 101 stimulation consists in the inhibition of adenylate cyclase, leading to a reduction of the cAMP 102 production
+ Changes in cAMP levels can be readily detected after agonist-stimulation of Gi/o-103 coupled GPCRs, however, determining the constitutive activity of such receptors has proven 104 challenging
+ Moreover, according to the GPCR database (Flock et al, 2017; Pandy-Szekeres et 105 (64%) can activate members of the Gi/o protein family, with half of them, 79 out of 247 (32%), 107 showing exclusive coupling to Gi/o
+ Considering the likely large number of Gi/o-coupled receptors 108 among oGPCRs, research in this field is in desperate need of innovative sensitive tools
+ 109 To overcome this issue, we took advantage of previously developed G protein chimeras 110 (Ballister, Rodgers, Martial, & Lucas, 2018; Conklin, Farfel, Lustig, Julius, & Bourne, 1993; Inoue 111 et al, 2019), and generated novel G protein chimeras to expand the GPCR toolkit
+ Swapping the 112 C-terminal strand of amino acids of any G protein with those of Gi/o family members enables 113 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    GPCRs that preferentially couple to Gi/o to trigger alternative downstream signaling events 114 (Ahmad, Wojciech, & Jockers, 2015; Ballister et al, 2018; Conklin et al, 1993; Coward, Chan, 115 Wada, Humphries, & Conklin, 1999; Inoue et al, )
+ Exploiting such property, we rerouted 116 pathways initiated by the constitutive activation of Gi/o-coupled receptors to different downstream 117 signaling outcomes which are more readily measurable
+ Herein, we tested 8 G protein chimeras 118 against a set of 8 well-characterized Gi/o-coupled receptors for a total of 64 combinations to 119 identify the most suitable ones for analysis of constitutive activity across our oGPCR library
+ 120 Applying this strategy we successfully identified 8 oGPCRs that show significant basal activation 121 of Gi/o proteins
+ We finally validated these results by measuring the inhibition of forskolin-induced 122 cAMP production by an oGPCR showing high Gi/o constitutive activity, GPR
+ 123 HEK293T/17 cells were cultured at 37C and 5% CO2 in Dulbeccos Modified Eagles Medium 127 (DMEM; Gibco, 10567-014) supplemented with 10% fetal bovine serum (FBS; Biowest, S1520), 128 Minimum Eagles Medium (MEM) non-essential amino acids (Gibco, 11140-050), and antibiotics 129 (100 units/ml penicillin and 100 g/ml streptomycin; Gibco, -)
+ HEK293 cells were 130 seeded in 6-well plates in medium without antibiotics at a density of 1  106 cells/well
+ After 4 131 hours, cells were transfected using linear 25 kDa polyethylenimine (PEI) (VWR; AAA43896) at a 132 1:3 ratio between total g of DNA plasmid (
+5 g) and l of PEI (
+5 l)
+ A pcDNA
+1 empty 133 vector was used to normalize the amount of transfected DNA
+ For western blot and BRET assays, 134 cells were collected 24 hours after transfection
+ For CRE and NFAT luciferase reporter assays, 135 cells were incubated overnight and then serum-starved in Opti-MEM Reduced Serum Media 136 (Gibco, 11058-021) for 4 hours before collection
+ For SRE and SRF-RE luciferase reporter 137 assays, cells were incubated overnight and then serum-starved in Opti-MEM for 24 hours before 138 Details about the DNA constructs used in this paper are listed in the Supplementary table 
+ 141 Plasmids encoding GPR158, GPR179, ADRA2A, LPAR2, CHRM1, GRM1, GRM2, GRM3, 142 GRM4, GRM6, GRM7, GRM8, GABBR1, GABBR2, masGRK3CT-Nluc, Gi1, Gi3, GoA, and Gz 143 were generous gifts from Dr
+ Kirill Martemyanov (The Scripps Research Institute, FL)
+ The 144 plasmid encoding the human GRM5a was a kind gift from Dr
+ Paul Kammermeier (University of 145 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    Rochester, NY)
+ G1-Venus156-239 and G2-Venus1-155 were generous gifts from Dr
+ Nevin 146 Lambert (Augusta University, GA) (Hollins, Kuravi, Digby, & Lambert, )
+ Plasmids encoding 147 the cAMP sensor (pGloSensor-22F) and the following luciferase reporters were purchased from 148 plasmid encoding for the renilla luciferase under control of the constitutively active thymidine 150 kinase promoter (pRL-tk) was a kind gift from Dr
+ Mark Ginsberg (University of California San 151 Diego, CA)
+ Plasmids encoding the following GPCRs were obtained from cDNA Resource Center 152 (www
+ cdna
+org): ADRB2, HTR1A, HTR2A, HTR4, and DRD
+ The following cDNA clones from 153 the Mammalian Gene Collection (MGC) encoding for full-length GPCR sequences required to 154 further subcloning were purchased from Horizon Discovery: GPR19, GPR37, GPR85, GPR137, 155 GPR137b, GPR162, GPR176, GPR180, CaSR, GPR156, GPRC5A, GPRC5B, GPRC5C, and 156 GPRCA
+ Codon optimized sequences for the following oGPCRs used to further subcloning were 157 a kind gift from Dr
+ Bryan Roth (University of North Carolina, NC) (Kroeze et al, 2015): GPR22 158 (Addgene plasmid #66346), GPR88 (Addgene plasmid #66380), GPR151 (Addgene plasmid 159 #)
+ The plasmids encoding the following Gq-derived chimeras were a kind gift from Dr
+ Bruce 160 Conklin (University of California San Francisco, CA) (Conklin et al, 1993): qo5 (Addgene plasmid 161 #24500), qi15 (Addgene plasmid #24501), qz5 (Addgene plasmid #)
+ The plasmids 162 encoding the following Gs-derived chimeras were a kind gift from Dr
+ Robert Lucas (University of 163 Manchester, UK) (Ballister et al, 2018): Gsz (Addgene plasmid #109355), Gso (Cys) (Addgene 164 plasmid #109375), Gsi (Cys) (Addgene plasmid #)
+ The plasmids encoding the following 165 GPCRs were a kind gift from Dr
+ Erik Procko (University of Illinois at Urbana, IL) (Park et al, 166 #113950), HA-Flag-natT1R2 (Addgene plasmid #)
+ The codon optimized sequence for 168 human GPRC5D expression in mammalian cells was synthetized by Integrated DNA 169 Technologies as a gene block and inserted into a pcDNA
+1 vector including a C-terminal HA-tag 170 using In-Fusion HD Cloning technology (Clontech)
+ The full-length sequences of all the orphan 171 GPCRs (except GPR158 and GPR179) were subcloned into a pcDNA
+1 vector for mammalian 172 expression and a C-terminal HA-tag (YPYDVPDYA) was add using In-Fusion HD Cloning 173 technology (Clontech)
+ A plasmid encoding the G protein chimera GqGi3 bearing the core of 174 human Gq and the last 4 amino acid of Gi3 was generated by primer mutagenesis and In-Fusion 175 HD Cloning (Clontech) in a pcDNA
+1 vector
+ All constructs were verified by Sanger sequencing
+ 176 For Western blotting analysis, transfected cells were harvested and lysed by sonication in ice-178 cold immunoprecipitation buffer (300 mM NaCl, 50 mM Tris-HCl, pH 
+4, 1% Triton X-100, and 179 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    complete protease inhibitor mixture)
+ Lysates were cleared by centrifugation at 14,000 rpm for 15 180 min, and the supernatants were diluted in SDS sample buffer (final concentrations: 50 mM Tris-181 HCl pH 
+8, 1% SDS, 10% glycerol, 143 mM 2-mercaptoethanol, and 
+08 mg/ml bromophenol 182 blue)
+ 10 l of each protein sample were loaded and analyzed by SDS-PAGE
+ Orphan GPCR 183 expression was detected using rat anti-HA tag (clone 3F10) antibodies (Sigma-Aldrich; 184 HEK293T/17 cells were plated at a density of 1  106 cells/well in 6-well plates in antibiotic-free 187 medium and transfected as described above
+ 
+5 g of total DNA plasmids were transfected 188 according to the following ratio: 
+97 g of pRL-tk plasmid expressing renilla luciferase under 189 control of the constitutive thymidine kinase promoter; 
+14 g of luciferase reporter (NFAT-Fluc, 190 CRE-Fluc, SRE-Fluc, and SRF-RE-Fluc for screening of Gq, Gs, and G12/13 activation; NFAT-Nluc 191 and CRE-Nluc for screening of Gi/o activation); 
+11 g of GPCR; and only in experiments 192 screening Gi/o activation, 
+28 g of G protein chimeras (GqGi1, GqGi1-9, GqGi3, GqGo, GqGz, GsGi1, 193 GsGo, or GsGz)
+ pcDNA
+1 was used to normalize the amount of transfected DNA
+ For CRE and 194 NFAT luciferase reporter assays, cells were incubated overnight and then serum-starved in Opti-195 MEM for 4 hours before collection
+ For SRE and SRF-RE luciferase reporter assays, cells were 196 incubated overnight and then serum-starved in Opti-MEM for 24 hours before collection
+ 197 Transfected cells were harvested, centrifuged for 5 minutes at 500g, and resuspended in 500 l 198 of PBS containing 
+5 mM MgCl2 and 
+1% glucose
+ 50 l of cells were incubated in 96-well flat-199 bottomed white microplates (Greiner Bio-One) with 50 l of luciferase substrate according to 200 (Nanolight; 355) for renilla luciferase, and luciferin (Promega BrightGlo; E2610) for firefly 202 luciferase
+ Luciferase levels were quantified using a POLARstar Omega microplate reader (BMG 203 Labtech)
+ Renilla luciferase expression was used to normalize the signal in order to compensate 204 for variability due to transfection efficiency and number of cells
+ 205 Measurements of ADRA2A activation by norepinephrine in live cells by measurement of BRET 207 between Venus-G12 and masGRK3CT-Nluc was performed as described previously (Masuho, 208 Martemyanov, & Lambert, )
+ 
+5 g of total DNA plasmids were transfected according to the 209 following ratio: 
+21 g of G1-Venus156-239; 
+21 g of G2-Venus1-155; 
+21 g of 210 masGRK3CT-Nluc; 
+42 g of Gi/o proteins or Gq-derived chimeras (Gi1, Gi3, Go, Gz, GqGi1, 211 GqGi1-9, GqGi3, GqGo, GqGz) or 
+25 g of Gs-derived chimeras (GsGi, GsGo, or GsGz); and 
+21 212 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    g of ADRAA
+ Empty vector pcDNA
+1 was used to normalize the amount of transfected DNA
+ 213 18 hours after transfection, HEK293T cells were washed once with phosphate-buffered saline 214 (PBS)
+ Cells were then mechanically harvested using a gentle stream of PBS, centrifuged at 500 215 g for 5 minutes, and resuspended in 500 l of PBS containing 
+5 mM MgCl2 and 
+1% glucose
+ 216 25 l of resuspend cells were distributed in 96-well flat-bottomed white microplates (Greiner Bio-217 One)
+ The nanoluc substrate furimazine (N1120) was purchased from Promega and used 218 according to the manufacturers instructions
+ BRET measurements were obtained using a 219 POLARstar Omega microplate reader (BMG Labtech) which permits detection of two emissions 220 simultaneously with the highest possible resolution of 20 ms per data point
+ All measurements 221 were performed at room temperature
+ The BRET signal was determined by calculating the ratio 222 of the light emitted by Venus-G12 (collected using the emission filter 535/30) to the light emitted 223 by masGRK3CT-Nluc (/)
+ The average baseline value (basal BRET ratio) recorded for 5 224 seconds before agonist application was subtracted from the BRET signal to obtain the BRET 225 HEK293T cells were transfected with an equal ratio of indicated GPCR plasmid and 228 pGloSensor-22F cAMP plasmid (Promega)
+ 18 hours post-transfection, cells were detached 229 with 1 ml of PBS, centrifuged at 500 g for 5 minutes, and resuspended in 300 l of PBS containing 230 
+5 mM MgCl2 and 
+1% glucose
+ 40 l of the cell suspension were transferred to each well of 96-231 well plates containing 10 l of 5X GloSensor cAMP Reagent (Promega) prepared according to 232 the manufacturers instruction
+ Cells were then incubated at 37C for 2 hours and let cool down 233 to room temperature for 10 minutes
+ Luminescence was monitored every 30 seconds using a 234 POLARstar Omega microplate reader (BMG Labtech) at room temperature
+ After 3 minutes, 235 forskolin (Tocris; 1099) was added to the cells at a final concentration of 
+5 M
+ 236 Analyses were performed using GraphPad Prism 9 software and number of biological and 238 technical replicates are described in the figure legends
+ Data in figure 4 were analyzed by 239 normalizing the nanoluc/renilla luciferase ratio by control cells not transfected with the G protein 240 chimeras
+ One-way ANOVA with Dunnett's multiple comparisons test was performed comparing 241 the signal obtained with each oGPCRs against control cells not expressing GPCRs
+ 242 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    
+1 Screening of GPCR constitutive activity using luciferase reporter assays
+ 245 Taking advantage of a plasmid cDNA library encoding the entire 22 class C GPCRs, including 8 246 oGPCRs, and a subset of 19 class A GPCRs, including 11 oGPCRs, we systematically tested 247 their constitutive activity using several luciferase reporter assays and setting an arbitrary threshold 248 of 3 fold-increase for positive signals (Figure )
+ We first screened the library for Gq activation by 249 co-transfecting HEK293T cells with each GPCR and a NFAT-RE luciferase reporter (Figure a)
+ 250 As expected, the positive controls serotonin 2A receptor (HTR2A), muscarinic receptor 1 251 (CHRM1), and the metabotropic glutamate receptors 1 and 5 (GRM1 and GRM5) showed the 252 highest signal compared to control cells expressing only the luciferase reporter
+ None of the 253 oGPCRs tested showed any constitutive activation of Gq-dependent signaling pathways (Figure 254 a)
+ Similarly, using a CRE reporter assay for Gs activation, we detected the constitutive activity 255 of 2 adrenergic receptor (ADRB2), serotonin receptor 4 (HTR4), and dopamine receptor D1 256 (DRD1) (Figure b)
+ Interestingly, some Gq-coupled receptors also triggered the expression of 257 luciferase activating the CRE reporter, while all the oGPCRs showed levels of activation 258 comparable to those of the control not expressing GPCRs (Figure b)
+ Using the same approach 259 with two additional luciferase reporters SRE and SRF-RE, we detected the constitutive activity of 260 the lysophosphatidic acid receptor 2 (LPAR2) downstream of G12/13 (Figure c-d)
+ Again, no 261 constitutive luciferase expression by oGPCRs was detected (Figure c-d)
+ Overall, these 262 experiments revealed that luciferase reporters are sensitive enough to detect GPCR activity in 263 the absence of ligand application for some GPCRs; however, none of the 19 oGPCRs tested 264 showed any constitutive activation of Gq, Gs, or G12/13 signaling pathways
+ 265 
+2 G protein chimeras are valuable tools to detect constitutive activity of Gi/o-coupled 266 After exploring our GPCR library for the activation of signaling pathways downstream of Gs, Gq, 268 and G12/13, we focused on Gi/o signaling
+ In principle, the CRE luciferase reporter could be used 269 to detect activation of Gi/o-coupled GPCRs as a reduction in cAMP levels, however its use is 270 limited by a low dynamic range
+ This especially applies to measurements of GPCR constitutive 271 activity, as they are intrinsically small
+ Therefore, to obtain a reliable quantification of constitutive 272 activation of Gi/o signaling, we tested several G protein chimeras based on Gq or Gs core protein 273 and bearing the C-terminus of either Gi1, Gi3, Go, or Gz (Figure a)
+ The last few amino acids in 274 the G protein C-terminus define most of the GPCR coupling selectivity (Ballister et al, 2018; 275 Conklin et al, 1993; Inoue et al, )
+ However, the coupling efficiency of G protein chimeras 276 is variable and depends on the GPCR analyzed (Ballister et al, 2018; Conklin et al, 1993; Inoue 277 et al, )
+ Thus, we tested 5 chimeras based on a Gq core and 3 chimeras based on a Gs core 278 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    for their ability to stimulate NFAT or CRE luciferase reporters, respectively
+ As a control, we first 279 quantified the amount of luciferase expressed in cells where each chimera was co-transfected 280 with the associated luciferase reporter but without GPCR overexpression
+ We reasoned that the 281 difference in luciferase expression obtained comparing cells expressing the reporter with or 282 without expression of the G protein chimeras could represent an index of reporter activation by 283 endogenously expressed Gi/o-coupled receptors
+ As a positive control, we co-transfected GRM2 284 because of its reported high constitutive activity (Doornbos et al, 2018) (Figure b-c)
+ We found 285 that expression of Gq-based chimeras only produced a negligible amount of NFAT reporter 286 induction (
+1-fold increase on average) (Figure 2b), while we observed an average of 83-fold 287 increase in CRE-induced luciferase expression using the Gs-based chimeras (Figure c)
+ As 288 expected, expression of GRM2 significantly induced the luciferase expression with all of the 289 chimeras tested (Figure b-c)
+ The fold-change observed normalizing the GRM2 constitutive 290 activity over the no-GPCR control, revealed comparable levels of activation between Gq and Gs 291 chimeras
+ Interestingly, the GqGi3 chimera showed a 
+3  
+5 fold-increase, being the highest 292 amplitude among all the chimeras, while both the GqGz and the GsGz chimeras showed only a 
+7 293  
+6 and 
+8  
+4 fold-increase (Figure b-c)
+ To explore the efficiency of activation of these G 294 protein chimeras, we then quantified the constitutive activity of eight GPCRs that are known to 295 primarily couple to Gi/o (Flock et al, 2017; Pandy-Szekeres et al, 2018): class C GRM2, GRM3, 296 GRM4, GRM6, GRM7, GRM8, and class A ADRA2A and HTR1A (Figure d)
+ Assuming an 297 arbitrary threshold of 3 fold-increase as a positive signal, our data show that some GPCR 298 constitutive activity can be detected with the majority of the chimeras (i
+ e
+ GRM2), while some 299 GPCRs show levels of activation above the threshold only if co-transfected with GsGi1 or GsGo 300 chimeras (i
+ e
+ GRM7 and GRM)
+ According to earlier reports, the signal amplitude is GPCR-301 dependent (Conklin et al, 1993), and here we show it is undetectable for a subset of GPCR (i
+ e
+ 302 ADRAA)
+ We next asked if the absence of signal for ADRA2A could be due to a lack of 303 constitutive activity or to the expression of a non-functional receptor
+ Using a Bioluminescence 304 Resonance Energy Transfer (BRET) assay we tested the ligand activation of the G protein 305 chimeras by ADRA2A (Figure a)
+ Here, we activated the ADRA2A receptor with the endogenous 306 agonist norepinephrine at a concentration of 1 M
+ We compared the BRET ratio obtained using 307 G protein chimeras with those obtained with wild type Gi1, Gi3, Go, and Gz proteins (Figure b-d)
+ 308 Although the amplitude of the BRET signal generated by the G protein chimeras was smaller 309 compared to the signal produced by wild type G protein, our data show that ADRA2A can indeed 310 activate every tested chimera
+ Overall, we provide evidence that ADRA2A lacks detectable levels 311 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    of constitutive activity
+ Likewise, we expect that the constitutive activity of some of the oGPCRs 312 Agonist-activation of a subset of Gi/o coupled receptors, M4R, D2R, 2AAR, and A1R, using G 315 protein chimeras was previously reported to be strongly dependent on both the Gi/o protein core 316 and the Gi/o C-terminus (Okashah et al, )
+ However, among the possible combinations of G 317 protein cores and C-termini, it was established that chimeras based on Gs could be triggered by 318 Gi/o coupled receptors more easily than chimeras bearing the core of Gq or G12/13 (Okashah et al, 319 )
+ Our data on 8 control GPCRs suggest similar preference pattern, with Gs chimeras being 320 more promiscuous than Gq chimeras (Figure d)
+ We thus screened our oGPCR library for 321 constitutive activation of GsGi1 and GsGo chimeras normalizing the luciferase signal to that 322 obtained in cells transfected only with the luciferase reporters but no G protein chimeras (Figure 323 a-b)
+ Excitingly, this optimized assay indicated that 8 of the 19 oGPCRs examined can indeed 324 activate Gi/o proteins
+ Specifically, we confirmed previously identified Gi/o coupling for the orphan 325 receptors GPR22 (Adams et al, 2008), GPR88 (Dzierba et al, 2015; Jin et al, 2014) and 326 GPRC6A (Pi, Parrill, & Quarles, 2010), even though some reports failed to reproduce Gi/o coupling 327 for GPRC6A (Jacobsen et al, )
+ Moreover, we revealed previously unreported robust and 328 significant constitutive activity for GPR156 (
+94  
+40 fold increase over control using the GsGi1 329 chimera), GPR137b (
+05  
+45), GPR158 (
+87  
+32), GPR179 (
+97  
+55), and GPRC5D 330 The lack of signal obtained transfecting several oGPCRs with any of the tested luciferase 332 reporters may be due to a variety of factors
+ For example, we demonstrated that ADRA2A receptor 333 was functional in activating wild type or chimeric G proteins (Figure 3b-d), but did not produce a 334 detectable basal G protein signaling (Figure 2d) pointing at a very low level of constitutive activity
+ 335 Alternatively, the absence of signal could depend on DNA constructs that do not express 336 adequate levels of GPCRs
+ To test this possibility, we analyzed the expression of our oGPCR 337 library at the protein level by western blot using antibodies directed against C-terminus HA-tag 338 (Figure 4c-d) or myc-tag (Figure e)
+ Immunoblots revealed that the expression levels of GPR85 339 and GPR137 were below detectable threshold, thus providing a possible explanation for their lack 340 Adenylate cyclase represents one of the main intracellular effectors for both Gs and Gi protein 343 signaling, with Gs stimulating cAMP production and Gi inhibiting it
+ To validate the results obtained 344 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    measuring Gi/o constitutive activation by oGPCRs shown in figure 4, we quantified the reduction 345 in cAMP levels induced by treatment with the adenylate cyclase stimulant forskolin in cells 346 overexpressing GPR156, GRM2 or GPRCB
+ Using a co-transfected cAMP sensor, we were able 347 to obtain real time measurements of cAMP changes (Figure a)
+ As expected, we found that 348 forskolin stimulation of cAMP levels was not affected by overexpression of GPRC5B (
+8  349 
+5% of CNT; p = 
+622); while overexpression of the positive control GRM2 (
+6  
+7% of CNT) 350 or the orphan receptor GPR156 (
+7  
+2% of CNT) significantly blunted the effect of forskolin 351 (Figure a-b)
+ These results confirmed the earlier identified Gi/o coupling and high constitutive 352 activity for GPR156, as well as the lack of Gi/o signaling for GPRCB
+ 353 The unique properties of each GPCR together with the plethora of signaling cascades 356 activated makes the development of tailor-made assays a prerequisite for future attempts at 357 profiling oGPCR signaling
+ Many efforts have been made to create a universal platform for high-358 throughput screening of GPCR signaling that is independent of G protein coupling (Inoue et al, 359 2012; Kroeze et al, )
+ For example, the use of quantitative techniques to measure -arrestin 360 recruitment as a general readout of GPCR activation led to the identification of a number of 361 compounds within a library of 446 molecules acting as agonists or antagonists for class A 362 oGPCRs (Kroeze et al, )
+ However, despite the ability of class C GPCR members to recruit 363 -arrestins (Iacovelli, Felicioni, Nistico, Nicoletti, & De Blasi, 2014; Mos, Jacobsen, Foster, & 364 Brauner-Osborne, 2019; Mundell, Matharu, Pula, Roberts, & Kelly, 2001; Stoppel et al, 2017), 365 attempts to use this approach to deorphanize this subfamily of oGPCRs were unsuccessful 366 (Kroeze et al, )
+ Similarly, the use of cell-based assays expressing G protein chimeras in G 367 protein knock out cell lines to measure ligand-activated GPCR signaling has recently found a 368 number of applications (Inoue et al, 2019; Okashah et al, )
+ Overall, we expect that a single 369 readout would never be sufficient to detect the activation of every oGPCR without possibly 370 omitting important ligand-receptor pairs
+ In fact, successful screening efforts will probably need to 371 include multiple alternative readouts
+ A systematic parallel analysis of GPCR constitutive activity 372 represents a powerful strategy to begin understanding the cell signaling pathways modulated by 373 oGPCRs
+ Using a novel approach combining luciferase reporter assays with G protein chimeras, 374 here we detected Gi/o protein activation by several oGPCRs in absence of ligand stimulation, 375 thereby providing the first evidence for G protein coupling-preference for multiple oGPCRs
+ This 376 information is crucial in the deorphanization process, as it provides a novel readout in designing 377 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    platforms to test the activation of oGPCRs allowing for the analysis of libraries of synthetic or 378 In the present study, we did not found evidence of Gs, Gq, or G12/13 coupling for any of the 380 19 oGPCRs analyzed, nevertheless, we confirmed Gi/o coupling for GPR22, GPR88, and 381 GPRCA
+ Strikingly, we observed previously unappreciated Gi/o constitutive activities for 382 GPR137b, GPR156, GPR158, GPR179, and GPRCD
+ GPR137b expression is restricted to 383 heart, liver, kidney and brain, and it is one of the few GPCRs enriched at lysosomal membranes 384 (Gan et al, 2019; Gao et al, )
+ Proteomics studies of lysosomal membranes also identified 385 several G protein signaling elements including Gi2, G1, and G2 (Callahan, Bagshaw, & 386 Mahuran, )
+ The functional consequences of activating Gi/o signaling responses at the 387 lysosomal membrane remain to be characterized
+ The group of Pangalos suggested that the class 388 C orphan GPR156 could possibly act as a third GABAB receptor subunit because of their 389 significant sequence homology (Calver et al, )
+ However, functional assays failed to reveal 390 any activation in response to treatments with GABAB receptor agonists in cells expressing 391 GPR156 alone or co-expressing GPR156 with GABAB1 or GABAB2 receptors (Calver et al, )
+ 392 Searching for alternative ligands, a calcium mobilization assay was used to screen a library of 393 2500 endogenous GPCR agonists without success (Calver et al, )
+ The extremely high 394 constitutive activity of GPR156 could result in a low dynamic range when performing functional 395 screens and therefore limit the chances to identify possible agonists
+ At the same time, a high 396 constitutive activity can be a useful tool for the identification of inverse agonists that represent 397 attractive compounds for multiple pharmacotherapies (Berg & Clarke, 2018; Bond & Ijzerman, 398 2006; Chen et al, )
+ Our screening also revealed Gi/o constitutive activation for both GPR158 399 and GPR179, highly homologous class C receptors
+ GPR158 is abundantly expressed in several 400 neuronal populations in the brain where it regulates stress-induced depression (Orlandi et al, 401 2012; Orlandi, Sutton, Muntean, Song, & Martemyanov, 2019; Sutton et al, )
+ While, 402 GPR179 is specifically expressed in the ON-bipolar neurons of the retina (Audo et al, 2012; 403 Orlandi et al, 2012; Peachey et al, )
+ Point mutations in GPR179 gene were identified in 404 patients with congenital stationary night blindness and further animal studies revealed its essential 405 role in night vision (Audo et al, 2012; Peachey et al, 2012; Ray et al, )
+ At the molecular 406 level, both GPR158 and GPR179 has been shown to interact and modulate the activity of a family 407 of R7 Regulator of G protein signaling (R7-RGS) proteins (Orlandi et al, )
+ At the same time 408 GPR179 acts as a scaffold for many components of the post-synaptic mGluR6-Go-TRPM1 409 signaling complex (Orlandi, Cao, & Martemyanov, )
+ Moreover, their long extracellular N-410 termini have been shown to interact with extracellular matrix components to form trans-synaptic 411 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    complexes (Condomitti et al, 2018; Dunn, Orlandi, & Martemyanov, 2019; Orlandi et al, )
+ 412 Our results here indicate that GPR158 and GPR179 can simultaneously activate G proteins of 413 the Gi/o family while scaffolding R7-RGS proteins, which act as GTPase activating proteins (GAP) 414 for a subset of Gi/o family members to terminate the G protein signal These complexes may be 415 required for the timely inactivation of G proteins in response to extracellular events thus limiting 416 the diffusion of activated G proteins to a restricted post-synaptic microenvironment
+ Alternatively, 417 this receptor complex configuration may limit the diversity of G proteins activated by GPR158 and 418 GPR179 to a subset of Gi/o family members that are not a suitable substrate for R7-RGS proteins 419 such as Gz
+ Further studies are needed to investigate the molecular implications of G protein 420 activation by GPR158 in the brain and GPR179 in the retina
+ The involvement of GPR158 in 421 stress-induced depression makes it an ideal target for development of a novel antidepressants, a 422 desperately needed class of pharmaceuticals
+ While GPR179 loss of function in congenital 423 stationary night blindness, a debilitating disease without current available treatments, makes it 424 also a relevant candidate for drug discovery ventures
+ Finally, we detected a previously 425 unreported Gi/o coupling for GPRC5D, the last identified member of the class C retinoic acid-426 inducible receptor family (Brauner-Osborne et al, )
+ GPRC5D is mostly expressed in 427 peripheral tissues and it has recently been associated with cancer (Atamaniuk et al, 2012; Smith 428 et al, )
+ Specifically, its expression was found to be elevated on the surface of malignant 429 cells involved in multiple myeloma, and it represents a viable target for chimeric antigen receptor 430 (CAR) T cell immunotherapy of multiple myeloma (Kodama et al, 2019; Smith et al, )
+ The 431 discovery of signaling pathways triggered by GPRC5D represents therefore an important step 432 forward in the development of therapeutic treatments for white blood plasma cell cancer
+ 433 In summary, here we provided a new sensitive strategy to profile constitutive Gi/o protein 434 coupling for understudied orphan GPCRs
+ This approach represents a fundamental advancement 435 in the deorphanization process and will likely accelerate the search for novel GPCR ligands
+ By 436 screening the entire class C GPCR family, we discovered or confirmed Gi/o coupling for 5 out of 437 the 8 orphan members, and, similarly, we revealed 3 Gi/o coupled receptors within a subset of 438 class A oGPCRs
+ Several of these oGPCRs are associated with debilitating neuropsychiatric 439 disorders or they are relevant for treatment of numerous cancers
+ Hence, improving our 440 understanding of the biology of such receptors has clinical relevance and it is essential in the drug 441 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    Acknowledgments: For providing essential cDNA constructs, we are sincerely grateful for Dr
+ 445 Kirill A
+ Martemyanov (The Scripps Research Institute, Jupiter, FL), Dr
+ Paul J
+ Kammermeier 446 (University of Rochester, NY), Dr
+ Nevin A
+ Lambert (Augusta University, GA), Dr
+ Mark H
+ 447 Ginsberg (University of California San Diego, CA), Dr
+ Bryan L
+ Roth (University of North Carolina, 448 NC), Dr
+ Bruce R
+ Conklin (University of California San Francisco, CA), Dr
+ Robert J
+ Lucas 449 (University of Manchester, UK), and Dr
+ Erik Procko (University of Illinois at Urbana, IL)
+ We also 450 would like to thank Dr
+ Henry A
+ Dunn (The Scripps Research Institute, Jupiter, FL) for comments 451 Author Contributions: Experimental investigation and data analysis, L
+ R
+ W
+ and C
+O; 453 Conceptualization, C
+ O
+; writing and editingoriginal draft preparation, C
+ O
+; All authors have 454 read and agreed to the published version of the manuscript
+ 455 Funding: This work was supported by start-up funding from the Department of Pharmacology 456 and Physiology, University of Rochester School of Medicine and Dentistry
+   457 Conflicts of Interest: The authors declare no conflict of interest
+ 458 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    Adams, J
+ W
+, Wang, J
+, Davis, J
+ R
+, Liaw, C
+, Gaidarov, I
+, Gatlin, J
+, 
+ 
+ 
+ Connolly, D
+ ()
+ 461 Myocardial expression, signaling, and function of GPR22: a protective role for an orphan 462 G protein-coupled receptor
+ Am J Physiol Heart Circ Physiol, 295(2), H-
+ 463 Ahmad, R
+, Wojciech, S
+, & Jockers, R
+ ()
+ Hunting for the function of orphan GPCRs - 465 beyond the search for the endogenous ligand
+ Br J Pharmacol, 172(13), -
+ 466 Atamaniuk, J
+, Gleiss, A
+, Porpaczy, E
+, Kainz, B
+, Grunt, T
+ W
+, Raderer, M
+, 
+ 
+ 
+ Gaiger, A
+ ()
+ 468 Overexpression of G protein-coupled receptor 5D in the bone marrow is associated with 469 poor prognosis in patients with multiple myeloma
+ Eur J Clin Invest, 42(9), -
+ 470 Audo, I
+, Bujakowska, K
+, Orhan, E
+, Poloschek, C
+ M
+, Defoort-Dhellemmes, S
+, Drumare, I
+, 
+ 
+ 
+ 472 Zeitz, C
+ ()
+ Whole-exome sequencing identifies mutations in GPR179 leading to 473 autosomal-recessive complete congenital stationary night blindness
+ Am J Hum Genet, 474 Ballister, E
+ R
+, Rodgers, J
+, Martial, F
+, & Lucas, R
+ J
+ ()
+ A live cell assay of GPCR coupling 476 allows identification of optogenetic tools for controlling Go and Gi signaling
+ BMC Biol, 477 Berg, K
+ A
+, & Clarke, W
+ P
+ ()
+ Making Sense of Pharmacology: Inverse Agonism and 479 Bond, R
+ A
+, & Ijzerman, A
+ P
+ ()
+ Recent developments in constitutive receptor activity and 482 inverse agonism, and their potential for GPCR drug discovery
+ Trends Pharmacol Sci, 483 Brauner-Osborne, H
+, Jensen, A
+ A
+, Sheppard, P
+ O
+, Brodin, B
+, Krogsgaard-Larsen, P
+, & 485 O'Hara, P
+ ()
+ Cloning and characterization of a human orphan family C G-protein 486 Callahan, J
+ W
+, Bagshaw, R
+ D
+, & Mahuran, D
+ J
+ ()
+ The integral membrane of lysosomes: 489 its proteins and their roles in disease
+ J Proteomics, 72(1), -
+ 490 Calver, A
+ R
+, Michalovich, D
+, Testa, T
+ T
+, Robbins, M
+ J
+, Jaillard, C
+, Hill, J
+, 
+ 
+ 
+ Pangalos, M
+ 492 N
+ ()
+ Molecular cloning and characterisation of a novel GABAB-related G-protein 493 Chen, Z
+, Chen, H
+, Zhang, Z
+, Ding, P
+, Yan, X
+, Li, Y
+, 
+ 
+ 
+ Xu, J
+ ()
+ Discovery of novel liver 496 X receptor inverse agonists as lipogenesis inhibitors
+ Eur J Med Chem, 206, 
+ 497 Cheng, Z
+, Garvin, D
+, Paguio, A
+, Stecha, P
+, Wood, K
+, & Fan, F
+ ()
+ Luciferase Reporter 499 Assay System for Deciphering GPCR Pathways
+ Curr Chem Genomics, 4, -
+ 500 Condomitti, G
+, Wierda, K
+ D
+, Schroeder, A
+, Rubio, S
+ E
+, Vennekens, K
+ M
+, Orlandi, C
+, 
+ 
+ 
+ de 502 Wit, J
+ ()
+ An Input-Specific Orphan Receptor GPR158-HSPG Interaction Organizes 503 Conklin, B
+ R
+, Farfel, Z
+, Lustig, K
+ D
+, Julius, D
+, & Bourne, H
+ R
+ ()
+ Substitution of three 506 amino acids switches receptor specificity of Gq alpha to that of Gi alpha
+ Nature, 507 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    Corder, G
+, Doolen, S
+, Donahue, R
+ R
+, Winter, M
+ K
+, Jutras, B
+ L
+, He, Y
+, 
+ 
+ 
+ Taylor, B
+ K
+ 509 ()
+ Constitutive mu-opioid receptor activity leads to long-term endogenous analgesia 510 Coward, P
+, Chan, S
+ D
+, Wada, H
+ G
+, Humphries, G
+ M
+, & Conklin, B
+ R
+ ()
+ Chimeric G 512 proteins allow a high-throughput signaling assay of Gi-coupled receptors
+ Anal Biochem, 513 Damian, M
+, Marie, J
+, Leyris, J
+ P
+, Fehrentz, J
+ A
+, Verdie, P
+, Martinez, J
+, 
+ 
+ 
+ Mary, S
+ ()
+ 515 High constitutive activity is an intrinsic feature of ghrelin receptor protein: a study with a 516 functional monomeric GHS-R1a receptor reconstituted in lipid discs
+ J Biol Chem, 287(6), 517 Doornbos, M
+ L
+ J
+, Van der Linden, I
+, Vereyken, L
+, Tresadern, G
+, AP, I
+ J
+, Lavreysen, H
+, & 519 Heitman, L
+ H
+ ()
+ Constitutive activity of the metabotropic glutamate receptor 2 520 explored with a whole-cell label-free biosensor
+ Biochem Pharmacol, 152, -
+ 521 Dunn, H
+ A
+, Orlandi, C
+, & Martemyanov, K
+ A
+ ()
+ Beyond the Ligand: Extracellular and 523 Dzierba, C
+ D
+, Bi, Y
+, Dasgupta, B
+, Hartz, R
+ A
+, Ahuja, V
+, Cianchetta, G
+, 
+ 
+ 
+ Macor, J
+ E
+ 526 ()
+ Design, synthesis, and evaluation of phenylglycinols and phenyl amines as 527 Flock, T
+, Hauser, A
+ S
+, Lund, N
+, Gloriam, D
+ E
+, Balaji, S
+, & Babu, M
+ M
+ ()
+ Selectivity 530 Gan, L
+, Seki, A
+, Shen, K
+, Iyer, H
+, Han, K
+, Hayer, A
+, 
+ 
+ 
+ Meyer, T
+ ()
+ The lysosomal 533 GPCR-like protein GPR137B regulates Rag and mTORC1 localization and activity
+ Nat 534 Gao, J
+, Xia, L
+, Lu, M
+, Zhang, B
+, Chen, Y
+, Xu, R
+, & Wang, L
+ ()
+ TM7SF1 (GPR137B): a 536 novel lysosome integral membrane protein
+ Mol Biol Rep, 39(9), -
+ 537 Hauser, A
+ S
+, Attwood, M
+ M
+, Rask-Andersen, M
+, Schioth, H
+ B
+, & Gloriam, D
+ E
+ ()
+ Trends 539 in GPCR drug discovery: new agents, targets and indications
+ Nat Rev Drug Discov, 540 Hollins, B
+, Kuravi, S
+, Digby, G
+ J
+, & Lambert, N
+ A
+ ()
+ The c-terminus of GRK3 indicates 542 rapid dissociation of G protein heterotrimers
+ Cell Signal, 21(6), -
+ 543 Iacovelli, L
+, Felicioni, M
+, Nistico, R
+, Nicoletti, F
+, & De Blasi, A
+ ()
+ Selective regulation of 545 Inoue, A
+, Ishiguro, J
+, Kitamura, H
+, Arima, N
+, Okutani, M
+, Shuto, A
+, 
+ 
+ 
+ Aoki, J
+ ()
+ 549 TGFalpha shedding assay: an accurate and versatile method for detecting GPCR 550 Inoue, A
+, Raimondi, F
+, Kadji, F
+ M
+ N
+, Singh, G
+, Kishi, T
+, Uwamizu, A
+, 
+ 
+ 
+ Russell, R
+ B
+ 552 Jacobsen, S
+ E
+, Norskov-Lauritsen, L
+, Thomsen, A
+ R
+, Smajilovic, S
+, Wellendorph, P
+, Larsson, 555 N
+ H
+, 
+ 
+ 
+ Brauner-Osborne, H
+ ()
+ Delineation of the GPRC6A receptor signaling 556 pathways using a mammalian cell line stably expressing the receptor
+ J Pharmacol Exp 557 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    Jin, C
+, Decker, A
+ M
+, Huang, X
+ P
+, Gilmour, B
+ P
+, Blough, B
+ E
+, Roth, B
+ L
+, 
+ 
+ 
+ Zhang, X
+ P
+ 559 studies of small molecular agonists for the orphan GPR88 receptor
+ ACS Chem Neurosci, 561 Kodama, T
+, Kochi, Y
+, Nakai, W
+, Mizuno, H
+, Baba, T
+, Habu, K
+, 
+ 
+ 
+ Akashi, K
+ ()
+ Anti-563 Kroeze, W
+ K
+, Sassano, M
+ F
+, Huang, X
+ P
+, Lansu, K
+, McCorvy, J
+ D
+, Giguere, P
+ M
+, 
+ 
+ 
+ Roth, 566 B
+ L
+ ()
+ PRESTO-Tango as an open-source resource for interrogation of the 567 druggable human GPCRome
+ Nat Struct Mol Biol, 22(5), -
+ doi:
+ /nsmb
+3014 568 Masuho, I
+, Martemyanov, K
+ A
+, & Lambert, N
+ A
+ ()
+ Monitoring G Protein Activation in Cells 569 Mos, I
+, Jacobsen, S
+ E
+, Foster, S
+ R
+, & Brauner-Osborne, H
+ ()
+ Calcium-Sensing Receptor 571 Mundell, S
+ J
+, Matharu, A
+ L
+, Pula, G
+, Roberts, P
+ J
+, & Kelly, E
+ ()
+ Agonist-induced 574 internalization of the metabotropic glutamate receptor 1a is arrestin- and dynamin-575 Ngo, T
+, Coleman, J
+ L
+, & Smith, N
+ J
+ ()
+ Using constitutive activity to define appropriate 577 high-throughput screening assays for orphan g protein-coupled receptors
+ Methods Mol 578 Okashah, N
+, Wan, Q
+, Ghosh, S
+, Sandhu, M
+, Inoue, A
+, Vaidehi, N
+, & Lambert, N
+ A
+ ()
+ 580 Variable G protein determinants of GPCR coupling selectivity
+ Proc Natl Acad Sci U S A, 581 Orlandi, C
+, Cao, Y
+, & Martemyanov, K
+ A
+ ()
+ Orphan receptor GPR179 forms 583 macromolecular complexes with components of metabotropic signaling cascade in retina 584 Orlandi, C
+, Omori, Y
+, Wang, Y
+, Cao, Y
+, Ueno, A
+, Roux, M
+ J
+, 
+ 
+ 
+ Martemyanov, K
+ A
+ ()
+ 587 Is Essential for the Synaptic Organization of Photoreceptors
+ Cell Rep, 25(1), 130-145 589 Orlandi, C
+, Posokhova, E
+, Masuho, I
+, Ray, T
+ A
+, Hasan, N
+, Gregg, R
+ G
+, & Martemyanov, K
+ 591 A
+ ()
+ GPR158/179 regulate G protein signaling by controlling localization and activity 592 of the RGS7 complexes
+ J Cell Biol, 197(6), -
+ doi:
+ /jcb
+201202123 593 Orlandi, C
+, Sutton, L
+ P
+, Muntean, B
+ S
+, Song, C
+, & Martemyanov, K
+ A
+ ()
+ Homeostatic 594 Pandy-Szekeres, G
+, Munk, C
+, Tsonkov, T
+ M
+, Mordalski, S
+, Harpsoe, K
+, Hauser, A
+ S
+, 
+ 
+ 
+ 597 Gloriam, D
+ E
+ ()
+ GPCRdb in 2018: adding GPCR structure models and ligands
+ 598 Park, J
+, Selvam, B
+, Sanematsu, K
+, Shigemura, N
+, Shukla, D
+, & Procko, E
+ ()
+ Structural 600 architecture of a dimeric class C GPCR based on co-trafficking of sweet taste receptor 601 Peachey, N
+ S
+, Ray, T
+ A
+, Florijn, R
+, Rowe, L
+ B
+, Sjoerdsma, T
+, Contreras-Alcantara, S
+, 
+ 
+ 
+ 603 Gregg, R
+ G
+ ()
+ GPR179 is required for depolarizing bipolar cell function and is 604 mutated in autosomal-recessive complete congenital stationary night blindness
+ Am J 605 Pi, M
+, Parrill, A
+ L
+, & Quarles, L
+ D
+ ()
+ GPRC6A mediates the non-genomic effects of 607 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    Ray, T
+ A
+, Heath, K
+ M
+, Hasan, N
+, Noel, J
+ M
+, Samuels, I
+ S
+, Martemyanov, K
+ A
+, 
+ 
+ 
+ Gregg, 609 R
+ G
+ ()
+ GPR179 is required for high sensitivity of the mGluR6 signaling cascade in 610 Rosenbaum, D
+ M
+, Rasmussen, S
+ G
+, & Kobilka, B
+ K
+ ()
+ The structure and function of G-613 Smith, E
+ L
+, Harrington, K
+, Staehr, M
+, Masakayan, R
+, Jones, J
+, Long, T
+ J
+, 
+ 
+ 
+ Brentjens, R
+ 615 J
+ ()
+ GPRC5D is a target for the immunotherapy of multiple myeloma with rationally 616 Sriram, K
+, & Insel, P
+ A
+ ()
+ G Protein-Coupled Receptors as Targets for Approved Drugs: 618 How Many Targets and How Many Drugs? Mol Pharmacol, 93(4), -
+ 619 Stoppel, L
+ J
+, Auerbach, B
+ D
+, Senter, R
+ K
+, Preza, A
+ R
+, Lefkowitz, R
+ J
+, & Bear, M
+ F
+ ()
+ 621 beta-Arrestin2 Couples Metabotropic Glutamate Receptor 5 to Neuronal Protein Synthesis 622 and Is a Potential Target to Treat Fragile X
+ Cell Rep, 18(12), -
+ 623 Sutton, L
+ P
+, Orlandi, C
+, Song, C
+, Oh, W
+ C
+, Muntean, B
+ S
+, Xie, K
+, 
+ 
+ 
+ Martemyanov, K
+ A
+ 625 Wang, D
+, Stoveken, H
+ M
+, Zucca, S
+, Dao, M
+, Orlandi, C
+, Song, C
+, 
+ 
+ 
+ Martemyanov, K
+ A
+ 628 ()
+ Genetic behavioral screen identifies an orphan anti-opioid system
+ Science, 629 Watkins, L
+ R
+, & Orlandi, C
+ ()
+ Orphan G Protein Coupled Receptors in Affective Disorders
+ 631 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    Figure 
+ Analysis of GPCR constitutive activity
+ 4 luciferase reporter assays were used tomeasure the constitutive activity of a library of 41 GPCRs that include 19 orphan GPCRs
+ Theamount of firefly luciferase accumulated in the cells was normalized on the levels of constitutivelyexpressed renilla luciferase
+ The effect of GPCR overexpression was compared to cellsexpressing only the reporters (control cells, dotted line) and reported as fold-change over control
+Colors are used to discriminate know G protein coupling: Gs (yellow), Gq (orange), G12/13 (blue),and Gi/o (green)
+ oGPCRs are in gray
+ (a) NFAT-RE-induced luciferase expression
+ (b) CRE-luciferase expression
+ The data shown represent the average of 3-6 independent experiments,(which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    Figure 
+ Use of G protein chimeras to detect constitutive Gi/o activation
+ (a) Sequencealignment of the last 14 amino acids of wild type G proteins (top), Gq-derived chimeras (middle),and Gs-derived chimeras (bottom)
+ Residues conserved among every G protein are highlighted ingray
+ Residues that were substituted in the G protein chimeras were highlighted and aligned withthe G protein C-terminal sequence of the core protein (Gq, middle; Gs, bottom)
+ (b) Constitutiveactivation of Gq chimeras by overexpression of GRM
+ Reported is the fold change over controlcells expressing only NFAT-Nluc reporter and renilla luciferase (dotted line)
+ (c) Constitutiveactivation of Gs chimeras activate by GRM2 and reported as fold change over control cellsexpressing only CRE-Nluc reporter and renilla luciferase (dotted line)
+ (d) Analysis of theconstitutive activity of the Gi/o-coupled metabotropic glutamate receptors GRM2, GRM3, GRM,GRM6, GRM7, and GRM8, the 2A-adrenergic receptor (ADRA2A), and the serotonin Areceptor (HTR1A) with each of the 8 Gq-and Gs-based chimeras
+ The data shown represent theaverage of 3 (panels b and c) or 3-6 (panel d) independent experiments, each performed in(which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    Figure 
+ G protein chimera activation by agonist-activated GPCRs using BRET assay
+ (a)Schematic representation of the BRET assay used to detect agonist-induced activation ofADRAA
+ Norepinephrine application triggers the GDP exchange with GTP on the G subunitand the subsequent dissociation of G-Venus
+ At the membrane, released G will interact withthe C-terminus of masGRK3 that is fused with Nanoluc
+ Using a BMG Omega plate reader wecan therefore detect the BRET signal generated
+ (b) Representative response profile showing theBRET signal after norepinephrine application at 5 seconds
+ The BRET ratio is calculated foreach of the wild type Gi1 and Gi3, or the chimeric G proteins bearing a Gi1 or Gi3 C-terminus
+ (c)Norepinephrine activation of wild type Go or G protein chimeras with a Go C-terminus
+ (d)Norepinephrine activation of wild type Gz or G protein chimeras with a Gz C-terminus
+ The data(which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    Figure 
+ Orphan GPCR screening for Gi/o coupling
+ Quantification of luciferase expression incells co-transfected with oGPCRs, Gs-based chimeras, CRE-Nluc, and renilla luciferase showedas fold change over control cells not overexpressing oGPCRs
+ (a) Analysis of constitutiveactivation of the GsGi1 chimera by class A and class C oGPCRs
+ (b) Constitutive activation of theGsGo chimera by class A and class C oGPCRs
+ (c) Bi-dimensional representation of oGPCR Gi/oconstitutive activity
+ Only oGPCRs showing statistically significant activity are labeled
+ The datashown represent the average of 4 (GsGi1) or 5 (GsGo) independent experiments, each performedin duplicate (one-way ANOVA with Dunnett's multiple comparisons test, *p<
+05, **p<
+ ***p<
+ )
+ Data are shown as means  SEM
+ (d-f) Western blot analysis of protein levelsdetected in cells transfected with oGPCRS or without (pcDNA
+1) as a negative control
+Antibodies raised against HA tag were used to detect class A oGPCRs (d), and some class CoGPCRs (e)
+ Antibodies against myc tag were used to detect class C GPR158 and GPR179 (f)
+(which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    Figure 
+ Gi/o coupling validation for GPR
+ (a) cAMP production induced by 
+5 M forskolintreatment at 3 minutes
+ (b) Quantification of the forskolin-induced amplitude reported in panel (a)
+Cells overexpressing GPR156 and GRM2 show a constitutive inhibition of cAMP production whilecells transfected with GPRC5B are not significantly different from control cells transfected withempty vector
+ Data are shown as means  SEM (n = 7 independent experiments; one-way(which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 11, 
+ ;    

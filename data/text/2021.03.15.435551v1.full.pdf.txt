@@ -1,0 +1,569 @@
+Discovery of SARS-CoV-2 papain-like protease inhibitors through a combination of high-throughput screening and FlipGFP-based reporter assayZilei Xia,1,# Michael Dominic Sacco,2,# Chunlong Ma,1,# Julia Alma Townsend,3 Naoya Kitamura,1 Yanmei Hu,1 Mandy Ba,1 Tommy Szeto,1 Xiujun Zhang,2 Xiangzhi Meng,4 Fushun Zhang,4 Yan 1Department of Pharmacology and Toxicology, College of Pharmacy, The University of 2Department of Molecular Medicine, Morsani College of Medicine, University of South 3Department of Chemistry and Biochemistry, The University of Arizona, Tucson, AZ, Health Science Center at San Antonio, San Antonio, TX, 78229, United States #X
+ Z
+, M
+ S
+, and C
+ M
+ contributed equally to this work
+  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    The papain-like protease (PLpro) of SARS-CoV-2 is a validated antiviral drug target
+ PLpro is involved in the cleavage of viral polyproteins and antagonizing host innate a high profile antiviral drug target
+ Through a FRET-based high-throughput screening, several hits were identified as PLpro inhibitors with IC50 values at the single-digit micromolar range
+ Subsequent lead optimization led to potent inhibitors with IC50 values ranging from 
+56 to 
+90 M
+ To help prioritize lead compounds for the cellular antiviral assay against SARS-CoV-2, we developed the cell-based FlipGFP assay that is suitable for quantifying the intracellular enzymatic inhibition potency of PLpro inhibitors in the BSL-2 setting
+ Two compounds selected from the FlipGFP-PLpro assay, Jun9-53-2 and Jun9-72-2, inhibited SARS-CoV-2 replication in Caco-2 hACE2 cells with EC50 values of 
+89 and 
+32 M, respectively, which were 3-fold more potent than GRL0617 showed that binding of GRL0617 to SARS-CoV-2 induced a conformational change in the BL2 loop to the more closed conformation
+ Overall, the PLpro inhibitors identified in this study represent promising starting points for further development as SARS-CoV-2 antivirals, and FlipGFP-PLpro assay might be a suitable surrogate for screening PLpro (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    The COVID-19 pandemic has led to 120,105,958 confirmed cases and 2,657,629 deaths as of March 15, 2021, rendering it the worst pandemic since the 1918 Spanish flu
+ The etiological agent of COVID-19 is SARS-CoV-2, a single-stranded positive sense RNA virus that belongs to the beta coronavirus family
+ Two additional coronaviruses within the same family, the SARS-CoV, and MERS-CoV, have caused epidemics in humans with mortality rates of 
+6% and 
+3%, respectively
+ Although SARS-CoV-2 has a lower mortality rate of 
+2% compared to SARS-CoV and MERS-CoV, it has led to far greater death tolls due to its higher transmission
+ SARS-CoV-2 differs from SARS-CoV and MERS-CoV in that it has a long incubation time after the initial infection (~ 2 weeks), and a large percentage of infected patients continue to shed the virus while Johnson have been approved by FDA in the United States
+ For small molecule antivirals, remdesivir received FDA approval on October 22, 
+ Although the polymerase of SARS-CoV-2 has proof-reading function, it continues to mutate at a rate about 10-6 per site per cycle
+1 Several mutant viruses have already emerged and widely circulated among humans since the beginning of the pandemic
+2 Therefore, there is a dire need of additional antivirals with a novel mechanism of action
+ Antivirals are not substituents of vaccines, but rather an important complement to help combat the pandemic
+ Among the viral proteins that have been actively pursued as SARS-CoV-2 antiviral drug targets, the main protease (Mpro) and papain-like protease (PLpro) are the most promising ones
+3,4 Both Mpro and PLpro are involved in the proteolytic digestion of the viral polyproteins (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    pp1a and pp1ab, yielding individual functional viral proteins for the replication complex formation
+ PLpro cleaves at three sites with the recognition sequence LXGGXX
+5 PLpro has been shown to play additional roles in dysregulating host immune response and impairing the host type I interferon antiviral effect through its deubiquitinating and PLpro cleaves ISG15 and polyubiquitin modifications from cellular proteins, and inhibition the ISGlyated proteins as substrates
+6-8 PLpro is part of a membrane anchored multi-domain protein named non-structural protein 3 (nsp-3), an essential component of the it a prominent antiviral drug target
+ A substantial morbidity and mortality associated with COVID-19 infection is caused by cytokine storm,10 and suppressing host immune response using dexamethasone and baricitinib has been shown to provide therapeutic inhibitors3,4,11-13 and the Pfizer compound PF-07304814 currently in phase 1 clinical trial14 In comparison, PLpro represents a more challenging drug target, and GRL0617 remains one of the most potent PLpro inhibitors reported to date despite several high-PLpro share a sequence identity of 83% and similarity of 90%, GRL0617 was also repurposed for SARS-CoV-2 PLpro and it was reported to inhibit SARS-CoV-2 PLpro with (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    IC50 values of around 2 M and the SARS-CoV-2 viral replication with EC50 values In this study, we report our progress in developing novel SARS-CoV-2 PLpro screening against the Enamine 50K diversity compound library and identified two hits Jun9-13-7 and Jun9-13-9 with single-digit micromolar IC50 values
+ Upon validating the hits using differential scanning fluorimetry (DSF) and native mass spectrometry binding assays, a focused library of structural analogs were designed and tested to dissect the inhibit SARS-CoV-2 PLpro with submicromolar potency
+ To prioritize lead compounds for the antiviral assay against SARS-CoV-2, we developed the FlipGFP assay that is suitable for quantifying the intracellular activity of PLpro inhibitors in the BSL2 setting
+ Two compounds selected from the FlipGFP PLpro assay, Jun9-53-2 and Jun9-72-2, showed 3-fold improvement than GRL0617 in the cellular antiviral assay against SARS-CoV-
+  X-ray crystal structures showed that binding of GRL0617 to the wild-type (WT) SARS-CoV-2 PLpro induced a conformational change in the BL2 loop to the more closed for further development as SARS-CoV-2 antivirals, and FlipGFP PLpro assay might be useful in testing the cellular activity of PLpro inhibitors in the BSL-2 setting
+  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    Two constructs of SARS-CoV-2 PLpro were expressed in E
+ Coli, one with Hig-tag (PLpro-His) and another without the tag (PLpro)
+ To profile the proteolytic activity of PLpro in cleaving the viral polyprotein, we developed a FRET based enzymatic assay with the S1), respectively, which were similar to previous reports,8,17 suggesting both constructs were enzymatically active
+ The SARS-CoV-2 PLpro was also reported to have and ISG-AMC substrates, respectively, in the enzymatic assay
+ It was found that the SARS-CoV-2 PLpro is more efficient in cleaving the ubiquitin (Ub) and ISG15 (ISG) modifications than the viral polyprotein, with kcat/Km values of 1,070 and 
+x(Table S2), respectively
+  This substrate preference is in agreement with results reported by Gal et al,17 and SARS-CoV PLpro was also reported to have similar substrate deubiquitinating activity, which is consistent with previous reports that the SARS-CoV-2 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    The HTS assay was optimized in 384-well plates using the FRET substrate, which gave a Z factor of 
+668 with a signal to noise ratio (S/B) of 
+2, indicating that this was a robust assay (Fig
+ )
+ We then performed the HTS against the enamine library, which consists of 50,240 structurally diverse compounds
+ GRL0617 was included as a Fig
+ 
+ 384-well high-throughput screening assay with SARS CoV-2 PLpro
+ In this representative control plate (column 1 to 20 with PLpro protein, column 21 to 24 with buffer only; 1 l DMSO was added to column 1 to 10 and 21 to 24; 1 l GRL0617 was added to column 11 to 20), the signal to base ratio (S/B) is 
+2, and the calculated Z Hits showing more than 50% inhibition were repurchased from Enamine and titrated in the FRET-based enzymatic assay to determine the IC50 values (Fig
+ 2A and Table S)
+ In parallel, differential scanning fluorimetry (DSF) assay was performed as a secondary assay to characterize the binding of the hits with SARS-CoV-2 PLpro (Fig
+ 2B (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    and Table S)
+ The most potent two hits Jun9-13-7 and Jun9-13-9 (Fig
+ 2C) had IC50 values of 
+29  
+03 and 
+67  
+05 M, respectively
+ Compounds Jun9-13-7 and Jun9-13-9 also increased the thermal stability of SARS-CoV-2 PLpro by 
+98  
+09 and 
+18  
+29 oC (Table S3), which is consistent with their enzymatic inhibition
+ In comparison, GRL0617 had an IC50 value of 
+05  
+12 M, and increased the protein stability by 
+52  
+27 oC in the DSF assay (Table S)
+ The potency of GRL0617 in inhibiting SARS-CoV-2 PLpro from our study is consistent with recent reports
+6-9 The rest of the hits had weak enzymatic inhibition (IC50 > 10 M) and showed marginal binding to PLpro, therefore they were not further pursued (Table S)
+ Both compound Jun9-13-7 and Jun9-13-9 also inhibit the deubiquitinating and deISGylating activities with IC50 values ranging from 
+93 to 
+5 M (Fig
+ 2D and Table S)
+ In contrast, neither of these two compounds inhibited the SARS-CoV-2 Mpro at up to 200 M (fig
+ S2), suggesting the inhibition of SARS-CoV-2 PLpro by these two compounds are specific
+ The binding of Jun9-13-7 and Jun9-13-9 to SARS-CoV-2 PLpro was further characterized using the native mass spectrometry (Fig
+ E)
+ It was shown that both stoichiometry of one drug per PLpro, similar to the positive control GRL
+  Enzymatic inhibitors with Ki values of 
+96 and 
+10 M, respectively (fig
+ S)
+ The Lineweaver-Burk plots yielded an intercept at the Y-axis, suggesting that both compounds are (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    Fig
+ 
+ HTS and hit validation of SARS-CoV-2 PLpro inhibitors
+ (A) IC50 values of the screening hits in the FRET-based enzymatic assay, the red line indicates the IC50 = 10 M
+ (B) Differential scanning fluorimetry assay of the screening hits in stabilizing the SARS-CoV-2 PLpro
+ (C) Chemical structures of GRL0617, Jun9-13-9 and Jun--
+ (D) Inhibitory activity of Jun9-13-7 and Jun9-13-9 against SARS-CoV-2 PLpro using Ub-AMC and ISG-AMC substrates
+ (E) Native MS binding assay of Jun9-13-9 and Jun9-13-7 to (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    To further optimize the enzymatic inhibition of Jun9-13-7 and Jun9-13-9, 13 structural analogs were purchased from Enamine (Fig
+ 3A) and 34 compounds were synthesized (Fig
+ 3B) to elucidate the structure-activity relationships (SAR)
+ It was found that the hydroxyl substation at the left phenyl ring is critical for the activity as methylation led to significant loss of enzymatic inhibition (Jun9-13-9 vs Jun--)
+ The methylene linker and the methyl substation on the link are both important for the substation on the right phenyl ring is critical for the activity (Jun9-13-7 vs Jun9-29-5; Jun9-13-7 vs Jun--)
+ Next, guided by this initial SAR results, 34 analogs were designed and synthesized (Fig
+ B)
+ Nine compounds had IC50 values less than 1 M including Jun9-75-4 (IC50 = 
+62 M), Jun9-85-1 (IC50 = 
+66 M), Jun9-84-3 (IC50 = 
+67 M), Jun9-87-1 (IC50 = 
+87 M), Jun9-72-2 (IC50 = 
+67 M), Jun9-87-2 (IC50 = 
+90 M), Jun9-87-3 (IC50 = 
+80 M), Jun9-75-5 (IC50 = 
+56 M), and Jun9-53-2 (IC50 = 
+89 M)
+ Among them, Jun9-75-4 was the most potent PLpro inhibitor with an IC50 of 
+62 M, a 10-fold increase compared to Jun9-13-9 (IC50 = 
+67 M)
+ Jun9-75-4 is also 3-fold more potent than GRL0617 (IC50 = 
+05  
+12 M), representing one of the most (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    Fig
+ 
+ SAR of SARS-CoV-2 PLpro inhibitors
+ (A) Analogs purchased from Enamine
+ (B) Synthetic compounds designed based on the SAR results
+ Potent compounds with Development of FlipGFP assay for testing the cellular activity of SARS-CoV-2 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    One of the challenges in SARS-CoV-2 antiviral drug discovery is that SARS-CoV-2 is a biosafety level 3 (BSL3) pathogen, which limits the number of drug candidates that can be screened
+ To help prioritize lead compounds for the antiviral assay with PLpro that is suitable for testing the intracellular activity of PLpro inhibitors in the BSL2 setting
+ The advantages of cell-based PLpro assay over the FRET-based enzymatic assay include but not limited to: 1) it can eliminate compounds that either cytotoxic or membrane impermeable; 2) In contrast to the standard FRET-based assay, PLpro cleaves the substrate in the cell cytoplasm in the FlipGFP assay, which is a close mimetic of the viral polyprotein cleavage by PLpro in virus-infected cell
+ It is known that cysteine proteases are susceptible to re-dox active compounds as well as non-specific alkylating chemicals such as ebselen
+19,20 The FlipGFP PLpro assay is expected to rule out such promiscuous compounds as the substrate is cleaved under the reducing In the assay design, the 10th and 11th -strands from the GFP protein were separated from the rest of the GFP -barrel (-strands 1-9) (Fig
+ A)
+21,22 The 10th and 11th -strands were linked through the PLpro cleavage site and a heterodimerized coiled coils E/K
+ In the absence of the PLpro, the 10th and 11th -strands are conformationally restrained and unable to associate with the GFP -barrel -
+ When the cleavage site is digested by the PLpro, the 11th -strand can then flip its orientation and associate with GFP -barrel 1-9 together with the 10th -strand, leading to restoration of the green fluorescence signal (Fig
+ A)
+ A red fluorescent protein mCherry was included within the construct via a self-cleaving 2A peptide to act as the transfection control (Fig
+ 4B), and (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    the normalized ratio of green fluorescence signal over red fluorescence signal is proportional to the enzymatic activity of PLpro
+ Cells transfected with FlipGFP-PLpro but without the PLpro showed no green fluorescence signal (Fig
+ 4C, 6th row), suggesting host proteases are unable to cleavage the PLpro substrate sequence, thereby eliminating the background signal interference
+ A strong green fluorescence signal was observed only when there was a match between the cleavage site and the corresponding protease (Fig
+ 4C, 2nd and 7th rows)
+ Specifically, little or no GFP signal was observed when the cells were transfected with SARS-CoV-2 PLpro and a construct containing either the TEV cleavage site (FlipGFP-TEV) (Fig
+ 4C, 4th row) or the Mpro cleavage site (FlipGFP-Mpro) (Fig
+ 4C, 3rd row)
+ Similarly, little or no GFP signal was observed when the cells were transfected with SARS-CoV-2 Mpro and a construct containing the PLpro cleavage site (FlipGFP-PLpro) (Fig
+ 4C, 5th row)
+ In contrast, strong green fluorescence signals were observed when the cells were transfected with PLpro and FlipGFP-PLpro (Fig
+ 4C, 7th row) or Mpro and FlipGFP-Mpro (Fig
+ 4C, 2nd row)
+  With the established assay condition, we then screened nine most potent PLpro inhibitors with IC50 values less than 1 M from the FRET-based enzymatic assay (Fig
+ )
+ GRL0617 and GC376 were included as positive and negative controls, respectively
+ The initial hit Jun9-13-9 was also included
+ Compounds were added 3 h post transfection, and GFP and mCherry fluorescence signals were measured at 48 h post transfection using the Cytation 5 imager reader
+ A dose dependent decrease of the GFP signal was observed with increasing concentrations of GRL0617 (Fig
+ 4D), and quantification of the normalized GFP/mCherry ratio gave an EC50 value of 
+29  
+45 M
+ In contrast, GC376 had no effect on the intensity of green fluorescence signal (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    (EC50 > 60 M) (Fig
+ 4E), suggesting the FlipGFP assay is suitable for the screening of PLpro inhibitors
+  Among the ten compounds tested in the cell-based FlipGFP assay, values less than 10 M, while compounds Jun9-84-3, Jun--
+ And Jun9-87-3 were less active and had EC50 values between 
+16 to 
+07 M
+ Compound Jun9-75-5 was not active (EC50 > 60 M), despite its potent activity in the FRET-based enzymatic (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    Fig
+ 
+ Development of cell-based FlipGFP assay for the quantification of the cellular activity of SARS-CoV-2 PLPro inhibitors
+ (A) Design principle for the cell-based FlipGFP assay
+ (B) Sequence of the flipped GFP 10-11 and cleavage site
+ (C) FlipGFP-PLPro assay development
+ 293T cells that were not transfected (), or transfected with FlipGFP-Mpro and SARS CoV-2 Mpro plasmids,  or FlipGFP-Mpro and SARS CoV-2 PLpro plasmids, or FlipGFP-TEV and SARS CoV-2 PLpro plasmids, or FlipGFP-PLpro and SARS CoV-2 Mpro plasmids, or FlipGFP-PLpro plasmid alone, or FlipGFP-PLpro and SARS CoV-2 PLpro plasmids (details were described in method GRL0617 (D) and the negative control GC376 (E)
+  (F) Dose-response inhibition PLpro in the FlipGFP assay by ten compounds selected from the FRET-based enzymatic assay
+ Based on the FlipGFP-PLpro assay results, we selected two compounds Jun9-53-2 and Jun9-72-2 and tested their cellular antiviral activity against the infectious SARS-CoV-2 in two cell lines, the Caco-2 hACE2, and the Vero E
+ The Caco-2 hACE2 cell rending it a physiological relevant cell line model that is close to the human airway epithelial cells
+ GRL0617 was included as a positive control
+ It was found that all three compounds had more potent inhibition in Caco-2 hACE2 cells than the Vero E6 cells (Fig
+ )
+ Consistent with the enzymatic inhibition results, Jun9-53-2 and Jun9-72-2 had more potent cellular antiviral activity than GRL0617 in the two cell lines tested
+  The (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    EC50 values of GRL0617, Jun9-53-2, and Jun9-44-3, in inhibiting SARS-CoV-2 in Caco-2 hACE2 cell were 
+14  
+58, 
+89  
+28, and 
+32  
+48 M, respectively
+  Fig
+ 
+ Cellular antiviral activity of Jun9-53-2 and Jun9-72-2 against SARS-CoV-2 in Caco-2 hACE2 and Vero E6 cells
+ (A) Antiviral activity of GRL
+ (B) Antiviral (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    The complex structure of SARS-CoV-2 PLpro with GRL0617 was determined at 
+50  resolution, providing insight to its mechanism of inhibition
+ There are two monomers per asymmetric unit in the P21 space group
+ Unambiguous electron density reveals GRL0617 binds to the S3-S4 subpockets of the PLpro active site in a noncovalent manner (Fig
+ A)
+ The naphthalene ring is positioned in the S4 site, where it forms hydrophobic interactions with Pro247 and Pro
+ Upon ligand binding, Tyr268 flips towards the central domain of GRL0617 (Fig
+ 6B) to -stack with the naphthalene and benzene rings
+ At the 1-napthalene position is a carbon stereocenter that is substituted with an (R) methyl group that sticks directly into the core of the S4 subpocket
+ This stereocenter and the methyl group are nearly superimposable with the  and 1 carbons of the P4 leucine for the ISG15 substrate in the previously determined complex structure (Fig
+ 6C), demonstrating the non-polar features of the S4 site as well as the complementarity of the methyl moiety with the core of this subpocket
+23 The carboxamide nitrogen of GRL0617 serves as a hydrogen bond acceptor for the sidechain of Asp164, while the oxygen accepts a hydrogen bond from the mainchain amide of Gln
+ The disubstituted benzene spans the central substrate channel, partially occupying the P5-P3 substrate mainchain binding site, where it forms -  interactions with the sidechains of Tyr268/Gln269, and the backbone amides of hydrophobic interactions with the S2 site, forcing Leu162 slightly outwards compared with the apo structure , while the meta-nitrogen orients towards the S5 site, causing Gln269 to swing inwards to accept a hydrogen bond
+ The conformational changes of (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    multiple active site residues upon GRL0617 binding highlights the flexibility of the substrate recognition sites, which corresponds to the broad substrate profile of SARS-Fig
+ 
+ Complex structure of SARS-CoV-2 PLpro with inhibitor GRL
+ The proteinand ligand of the SARS-CoV-2 complex are colored in light green and dark green respectively
+ C111* indicates the catalytic cysteine
+ (A) Binding mode of GRL0617 with unbiased Fo-Fc map, shown in grey, contoured at 
+ Hydrogen bonds are shown as red (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    GRL0617 binding
+  These movements are indicated with arrows
+ (C) Superimposition with the terminal 5 residues of the ubiquitin like protein ISG15 substrate (orange) from the complex with SARS-COV-2 PLpro (PDB ID 6XA9, showing only the ligand)
+ The atoms of the Leu side chain at the P4 position are labeled
+ (D) Superimposition with the catalytic mutant C111S in complex with GRL0617 (PDB ID 7JIR, light blue and dark blue)
+ OAc indicates an acetate molecule in the C111S mutant active site
+     One of the unique aspects of GRL0167 is that it does not interact with the catalytic core, but instead binds to a distal portion of the active site
+ Other research groups have determined complex structures of PLpro with GRL0617 with its catalytic cysteine, Cys 111, mutated to a serine, presumably to increase its propensity to crystallize (PDB IDs: 7JIR (
+1 ) and 7CJM (
+2 ))
+24,25 When the three structures are compared, the GRL0167 adopts a nearly identical pose
+ Minor differences in the side chain conformations of Glu167 and Gln269 are observed
+ However, there is a significant difference in the pose of Leu162 between the WT and the C111S mutants (Fig
+ D)
+ In our WT structure, Leu162 inserts into the core of the protein, where it maintains an interatomic distance of 
+4  with the catalytic cysteine
+ In contrast, Leu162 of both C111S structures flip outwards, towards the solvent
+ In the higher resolution structure (PDB ID 7JIR), an acetate from the crystallization condition is modelled in the active site
+ When superimposed with our WT structure, this acetate clashes with Cys111 (closest distance 
+5 ) and Leu162 (
+0 )
+ In the lower-resolution C111S mutant complexed (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    with GRL0617 (PDB ID 7CJM), no acetate is modelled, but Leu162 adopts the same inspection of the 2Fo-Fc map of 7JCM reveals there is unmodeled density corresponding to the acetate from PDB ID JIR
+ Interestingly, this experiment did not use acetate in their crystallization condition
+ Therefore, the density in the catalytic core of both C111S structures likely corresponds to a species of unknown identity that preferentially Given the devastating impact of the COVID-19 pandemic, the SARS-CoV outbreak in 2003 was a dire warning that was gravely overlooked in retrospect
+ Looking forward, it is imperative that therapeutics are developed that are not only effective against SARS-CoV-2, but against future strains of similar coronaviruses
+ PLpro is a high profile drug target, partly because it is highly conserved between SARS-CoV and SARS-CoV-2, effective against both viruses, with a Ki of 
+49 M and 
+57 M, against SARS-CoV PLpro and SARS-CoV-2 PLpro
+26 Likewise, all critical active site residues that interact with GRL0617 are conserved, consequently, the binding poses are nearly identical (fig
+ S)
+26  These similarities would indicate that PLpro inhibitors might retain their activity Previous attempts to discover SARS-CoV-2 PLpro inhibitors through HTS by others have failed to identify hits with improved enzymatic inhibition and cellular antiviral (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    however, none of them showed improved enzymatic inhibition
+15 Part of the reason for the difficulty in targeting SARS-CoV-2 PLpro is the lack of S1 and S2 pockets, which leaves only S3 and S4 pockets for inhibitor binding
+ Among the reported SARS-CoV or SARS-CoV-2 PLpro inhibitors, GRL0617 is one of the most potent compound
+ However, it had weak antiviral activity (EC50 > 20 M)
+ In this study, we attempted to identify more potent SARS-CoV-2 PLpro inhibitors through a HTS
+ Based on two promising hits Jun-13-7 and Jun9-13-9, a library of analogs was designed and synthesized, among which several compounds had submicromolar IC50 values in the FRET-based enzymatic assay
+ To alleviate the burden of relying on BSL-3 facility to test the antiviral activity of PLpro inhibitors, we developed the cell-based FlipGFP PLpro assay, which can be used to quantify the intracellular enzymatic inhibition of PLpro in a BSL-2 lab
+ The FlipGFP PLpro assay is a close mimetic of the virus-infected cell in which PLpro cleaves its substrate in the native intracellular reducing environment
+ The advantage of the FlipGFP PLpro assay overt the standard FRET-based enzymatic assay is that it can rule out compounds that are either cytotoxic or membrane impermeable or non-specifically modify the catalytic cysteine through oxidation or alkylation
+ GRL0617 showed an EC50 of 
+29 M in the FlipGFP PLpro assay, while the SARS-CoV-2 Mpro inhibitor GC376 was not active (EC50 > 60 M), suggesting this assay was suitable for testing PLpro inhibitors
+ Among the ten PLpro inhibitors tested in the FlipGFP PLpro assay, five compounds Jun9-53-2, Jun9-72-2, Jun9-75-4, Jun9-85-1, and Jun9-87-1 had EC50 values less than 10 M
+ Next, two prioritized hits Jun9-53-2 and Jun9-72-2 were advanced to the cellular antiviral assay (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    GRL0617 and the EC50 values were consistent between the FlipGFP PLWe also solved the X-ray crystal structure of the wild-type SARS-CoV-2 PLpro in complex with GRL
+ Binding of GRL0617 to SARS-CoV-2 induced a conformational change in the BL2 loop to the more closed conformation
+ In contrast, a larger inhibitor VIR251 stabilizes the BL2 loop in the open conformation
+5 The intrinsic flexibility of the BL2 loop implies that structurally diverse inhibitors might be able to fit in the S3-S4 In conclusion, the SARS-CoV-2 PLpro inhibitors developed in this study represent promising hits for further development as SARS-CoV-2 antivirals, and the FlipGFP PLpro assay is a suitable surrogate for testing the cellular activity of PLpro inhibitors in the BSL-Cell lines and viruses
+ VERO E6 cells (ATCC, CRL-1586) were cultured in Dulbeccos modified Eagles medium (DMEM), supplemented with 5% heat inactivated FBS in a Resources and propagated once on VERO E6 cells before it was used for this study
+ Studies involving the SARS-CoV-2 were performed at the UTHSCSA biosafety level-3 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    Detailed expression and purification of C-terminal His tagged SARS-CoV-2 PLPro (PLpro-with E
+ coli codon optimization in the pET28b(+) vector was ordered from GenScript
+ The pET28b(+) plasmid was transformed into BL21(DE3) cells, and protein expression was induced with 
+5 mM IPTG when OD600 was around 
+8 for 24 h at 18 C
+ Then cells were harvested and lysed, PLpro-His protein was purified with a single Ni-NTA resin column, eluted PLpro-His was dialyzed against 100-fold volume dialysis buffer (50 mM Tris [pH 
+5], 150 mM NaCl, 2 mM DTT) in a 10 000 kDa molecular weight cutoff The expression and purification of un-tagged SARS-CoV-2 PLpro (PLpro) was carried out as follows: the SARS-CoV-2 PLpro gene (ORF 1ab 15641876) was subcloned from Inc
+, Malvern, PA)
+ The forward primer with the Bsa I site is SUMO tagged protein was expressed and purified as PLpro-His protein
+ SUMO-tag was removed by incubation with SUMO protease 1 at 4C overnight, and the free SUMO tag was removed by application of another round of Ni-NTA resin
+ The purity of the protein (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    The expression and purification of SARS-CoV-2 Mpro with unmodified N- and C-termini iterative cycles of coupling and deprotection using the previously optimized procedure
+27  Ub-AMC and ISG15-AMC were purchased from Boston Biochem (catalog # U-550-050 The high-throughput screening was carried out in 384-well format
+ 1 l of 2 mM library compound was added to 50 l of 200 nM PLpro-His protein in PLpro reaction buffer (50 mM HEPES pH
+5, 5 mM DTT and 
+01% Triton X-100) and was incubated at 30 C for 1 h
+ the reaction was initiated by adding 1 l of 1 mM PLpro FRET substrate
+ The end point fluorescence signal was measured after 3 h incubation at 30 C with a Cytation 5 image reader with filters for excitation at 360/40 nm and emission at 460/40 nm
+ The final testing compound concentration is ~ 40 M and FRET substrate concentration is ~ 20 M; a control plate as in Fig
+1 was included in every batch of screening
+  The diversity compound library consisting of 50,240 compounds was purchased from (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    For the measurements of Km/Vmax: with Peptide-Edans as a substrate, the final PLprotein concentration is 200 nM, and substrate concentration ranges from 0 to 200 M; with Ub-AMC as a substrate, the final PLpro protein concentration is 50 nM, and Ub-AMC concentration ranges from 0 to 40 M; with ISG15-AMC as a substrate, the final PLpro protein concentration is 2 nM, and ISG15-AMC concentration ranges from 0 to 15 M
+  The reaction was monitored in a Cytation 5 image reader with filters for excitation at 360/40 nm and emission at 460/40 nm at 30 C for 1 hr
+  The initial velocity of the enzymatic reaction was calculated from initial 10 min enzymatic reaction and was plotted against with substrate concentrations in Prism 8 with a Michaelis-Menton For the IC50 measurement with FRET Peptide-Edans substrate: the reaction was carried out in 96-well format with 200 nM PLpro protein as described previously,
+ For the IC50 measurements with Ub-AMC or ISG15-AMC substrate, the reaction was carried out in 384-well format
+ The final PLpro protein concentration is 50 nM and substrate concentration is 
+5 M when Ub-AMC is applied; The final PLpro protein concentration is 2 nM and substrate concentration is 
+5 M when ISG15-AMC is applied
+  For the Lineweaver-Burk plots of GRL0617, Jun9-13-7 and Jun9-13-9, assay was carried as follows: 50 l of 400 nM PLpro protein was added to 50 l reaction buffer substrate to initiate the enzyme reaction
+ The initial velocity of the enzymatic reaction with and without testing compounds was calculated by linear regression for the first 10 min of the kinetic progress curve, the plotted against substrate concentrations in Prism 8 with Michaelis-Menten equation and linear regression of double reciprocal plot
+  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    The main protease (Mpro) enzymatic assays were carried out in Mpro reaction buffer containing 20 mM HEPES pH 
+5, 120 mM NaCl, 
+4 mM EDTA, 20% glycerol and 4 )
+ SARS CoV-2 PLpro cleavage site LRGGAPTK or SARS CoV-2 Mpro cleavage PCRs to generate a fragment with SacI and HindIII sites at the ends
+ SARS CoV-2 Mpro and PLpro expression plasmids pcDNA
+1 SARS2 Mpro and pcDNA
+1 SARS2 PLpro was For transfection, 96-well Greiner plate (Cat # 655090) was seeded with 293T cells to protease expression plasmid pcDNA
+1 were used each well in the presence of transfection reagent TransIT-293 (Mirus)
+ 3 hrs after transfection, 1 l testing compound was added to each well at 100-fold dilution
+ Images were acquired 2 days after transfection with Cytation 5 imaging reader (Biotek) GFP and mCherry channels; and were analyzed with Gen5 
+10 software (Biotek)
+ SARS CoV-2 PLpro protease activity was calculated by the ration of GFP signal sum intensity over mCherry signal sum intensity
+ FlipGFP-PLP assay IC50 value was calculated by plotting GFP/mCherry signal over the applied compound concentration with a 4 parameters dose-response function in prism 
+ The mCherry signal alone was utilized to determine the compound (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    The thermal shift binding assay (TSA) was carried out using a Thermal Fisher QuantStudioTM 5 Real-Time PCR System as described previously
+3,4,19,20 Briefly, 4 M SARS-CoV-2 PLpro protein (PLpro) in PLpro reaction buffer was incubated with 40 M of compounds at 30 C for 30 min
+ 1X SYPRO orange dye was added and fluorescence of the well was monitored under a temperature gradient range from 20 C to 90 C with 
+05 C/s incremental step
+ Measured Tm was plotted against compound concentration Before MS analysis, the protein was buffer exchanged using two Micro Bio-Spin columns (Bio-Rad) and diluted into 
+2M ammonium acetate to a concentration of 10 M
+ Each drug was diluted with 100% ethanol to concentrations of 100, 200, and 400 M
+ Imidazole, a charge reducing reagent, was added to each sample to stabilize the drug bound state at final concentration of 40 mM
+ For each sample, 
+5 l ligand was added and dried down in each tube prior to the addition of 
+5 L of 40 mM DTT, 
+5 l of 400 mM imidazole, and 4 l of protein for a final concentration of 4 mM DTT and 8 M protein
+ Final ligand concentrations were either 10, 20, or 40 M
+ Native mass spectrometry (MS) was performed using a Q-Exactive HF quadrupole-previously described
+4,28 Briefly, Vero E6 cells or Caca2-hACE2 cells in 96-well plates (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    (Corning) were infected with SARS-CoV-2 (USA-WA1/2020 isolate) at a MOI of 
+1 in DMEM supplemented with 1% FBS
+ Immediately before the viral inoculation, the tested compounds in a three-fold dilution concentration series were also added to the wells in triplicate
+ The infection proceeded for 24 h without the removal of the viruses or the compounds
+ The staining and quantification procedures are described in our previous SARS-CoV-2 PLpro-His (PLpro-His) protein was concentrated and loaded to a HiLoad 16/60 Superdex 75 size exclusion column (GE Healthcare) pre-equilibriated with 20 mM Tris pH 
+0 and 5 mM NaCl
+ Peak fractions were pooled and incubated with GRL0617 in a 1:1 molar ratio for 1 hour at room temperature, then concentrated to 8 mg/mL
+ PLpro crystals were grown in a hanging-drop, vapor-diffusion apparatus by mixing 
+75 l of 8 mg/mL PLpro-GRL0617 with 
+75 ul of well solution (30 % PEG 4,000, 
+2 M Li2SO4, and 
+1 M Tris pH 
+ )
+  Crystals were transferred to a cryoprotectant solution containing 30 % PEG 4,000, 
+2 M Li2SO4, 
+1 M Tris pH 
+5 and 15 % glycerol, before X-ray diffraction data for SARS-CoV-2 PLpro + GRL0617 was collected on the SBC -BM beamline at the Advanced Photon Source (APS) in Argonne, IL, and processed with the HKL2000 software suite
+29 The CCP4 versions of MOLREP was used for molecular replacement using a previously solved apo SARS-CoV-2 PLpro structure, PDB ID: 6WZU as a reference model
+30,31 Rigid and restrained refinements were performed using (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    REFMAC and model building was performed with COOT
+32,33 Protein structure figures GRL0617 was deposited in the Protein Data Bank with accession numbers of JRN
+  This research was partially supported by the National Institutes of Health (NIH) (Grants Investigator grant (ADHS18-198859) to J
+ W
+  J
+ A
+ T
+ and M
+ T
+ M
+ were funded by the National Institute of General Medical Sciences and National Institutes of Health (Grant R35 GM128624 to M
+ T
+ M
+ )
+ We thank Michael Kemp for assistance with crystallization and X-ray diffraction data collection
+ We also thank the staff members of the Advanced Photon Source of Argonne National Laboratory, particularly those at the Structural Biology Center (SBC), with X-ray diffraction data collection
+ SBC-CAT is operated by UChicago Argonne, LLC, for the U
+ S
+ Department of Energy, Office of Biological and experiments were supported by a COVID-19 pilot grant from UTHSCSA and NIH grant was deposited by the Centers for Disease Control and Prevention and obtained through (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    J
+ W
+ and C
+ M
+ conceived and designed the study; Z
+ X
+ and N
+ K
+ designed and synthesized the PLpro inhibitors; C
+ M
+ expressed the PLpro with the assistance of T
+ S
+; C
+ M
+ performed the HTS, IC50 determination, thermal shift-binding assay, and enzymatic kinetic studies with the assistance of M
+ B
+; C
+ M
+ developed the FlipGFP PLpro assay
+ M
+ S
+ carried out Mpro crystallization and structure determination with the assistance of X
+ Z, and analyzed the data with Y
+ C
+; J
+ T
+ performed the native mass spectrometry experiments with the guidance from M
+ M
+; Y
+ H
+ performed the cytotoxicity assay; X
+ M
+ and F
+ Z
+ performed the SARS-CoV-2 immunofluorescence assay under the guidance of Y
+ X
+; J
+ W
+ and Y
+ C
+ secured funding and supervised the study; J
+ W
+, Y
+ C
+, and M
+ S
+ wrote the manuscript with the input from others
+  A patent was filed to claim the compounds described herein as potential SARS-CoV-2 1 Bar-On, Y
+ M
+, Flamholz, A
+, Phillips, R
+ & Milo, R
+ SARS-CoV-2 (COVID-19) by (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    2 Lauring, A
+ S
+ & Hodcroft, E
+ B
+ Genetic Variants of SARS-CoV-2What Do 3 Ma, C
+ et al Boceprevir, GC-376, and calpain inhibitors II, XII inhibit SARS-CoV-2 viral replication by targeting the viral main protease
+ Cell Res 30, 678-692, 4 Sacco, M
+ D
+ et al Structure and inhibition of the SARS-CoV-2 main protease reveal strategy for developing dual inhibitors against M(pro) and cathepsin L
+ Sci 5 Rut, W
+ et al Activity profiling and crystal structures of inhibitor-bound SARS-6 Freitas, B
+ T
+ et al Characterization and Noncovalent Inhibition of the 7 Shin, D
+ et al Papain-like protease regulates SARS-CoV-2 viral spread and 8 Klemm, T
+ et al Mechanism and inhibition of the papain-like protease, PLpro, of 9 Fu, Z
+ et al The complex structure of GRL0617 and SARS-CoV-2 PLpro reveals a hot spot for antiviral drug discovery
+ Nat Commun 12, 488, (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    10 Berlin, D
+ A
+, Gulick, R
+ M
+ & Martinez, F
+ J
+ Severe Covid-
+ New England 11 Qiao, J
+ et al SARS-CoV-2 Mpro inhibitors with antiviral activity in a transgenic 12 Zhang, L
+ L
+ et al Crystal structure of SARS-CoV-2 main protease provides a 13 Dai, W
+ et al Structure-based design of antiviral drug candidates targeting the 14 Boras, B
+ et al Discovery of a Novel Inhibitor of Coronavirus 3CL Protease as a 15 Osipiuk, J
+ et al Structure of papain-like protease from SARS-CoV-2 and its 16 Ratia, K
+ et al A noncovalent class of papain-like protease/deubiquitinase inhibitors blocks SARS virus replication
+ Proc
+ Natl
+ Acad
+ Sci
+ U
+ S
+ A
+ 105, 17 Gao, X
+ et al Crystal structure of SARS-CoV-2 papain-like protease
+ Acta (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    18 Barretto, N
+ et al The Papain-Like Protease of Severe Acute Respiratory 19 Ma, C
+ et al Ebselen, Disulfiram, Carmofur, PX-12, Tideglusib, and Shikonin Are 20 Ma, C
+ & Wang, J
+ Dipyridamole, chloroquine, montelukast sodium, candesartan, 21 Froggatt, H
+ M
+, Heaton, B
+ E
+ & Heaton, N
+ S
+ Development of a Fluorescence-22 Li, X
+ et al Ethacridine inhibits SARS-CoV-2 by inactivating viral particles in 23 Klemm, T
+ SARS CoV-2 PLpro in complex with ISG15 C-terminal domain 24 Osipiuk, J
+, Tesar, C
+, Endres, M
+, Lisnyak, V
+, Maki, S
+, Taylor, C
+, Zhang, Y
+, Zhou, Z
+, Azizi, S
+ A
+, Jones, K
+, Kathayat, R
+, Snyder, S
+ A
+, Dickinson, B
+ C
+, The crystal structure of Papain-Like Protease of SARS CoV-2 , C111S mutant, in (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    25 Fu, Z
+, Huang, H
+ SARS CoV-2 PLpro in complex with -thioguanine
+ 26 Ratia, K
+ et al A noncovalent class of papain-like protease/deubiquitinase 27 Cady, S
+ D
+, Wang, J
+, Wu, Y
+, DeGrado, W
+ F
+ & Hong, M
+ Specific binding of adamantane drugs and direction of their polar amines in the pore of the influenza 28 Hu, Y
+, Meng, X
+, Zhang, F
+, Xiang, Y
+ & Wang, J
+ The in vitro antiviral activity of 29 Otwinowski, Z
+ & Minor, W
+ Processing of X-ray diffraction data collected in 30 Vagin, A
+ & Teplyakov, A
+ Molecular replacement with MOLREP
+ Acta Crystallogr 31 Osipiuk, J
+, Tesar, C
+, Endres, M
+, Jedrzejczak, R
+, Joachimiak, A
+, Center for (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    32 Murshudov, G
+ N
+ et al REFMAC5 for the refinement of macromolecular crystal 33 Emsley, P
+ & Cowtan, K
+ Coot: model-building tools for molecular graphics
+ Acta (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 16, 
+ ;    

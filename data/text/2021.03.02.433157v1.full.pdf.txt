@@ -1,0 +1,1326 @@
+Phil Pickford1, Maria Lucey1, Roxana-Maria Rujan2, Emma Rose McGlone1, Stavroula Bitsi3, Fiona Ashford4,5, Ivan R Corra Jr6, David J Hodson4,5, Alejandra Tomas3, Giuseppe Deganutti2, Christopher A Reynolds2,7, Bryn M Owen1, Tricia M Tan1, James Minnion1, Ben Jones1, #, Stephen R 1 Section of Endocrinology and Investigative Medicine, Department of Metabolism, Digestion and 2 Centre for Sport, Exercise and Life Sciences, Faculty of Health and Life Sciences, Coventry 3 Section of Cell Biology and Functional Genomics, Department of Metabolism, Digestion and 4 Institute of Metabolism and Systems Research (IMSR), and Centre of Membrane Proteins and 5 Centre for Endocrinology, Diabetes and Metabolism, Birmingham Health Partners, Birmingham, 7 School of Life Sciences, University of Essex, Wivenhoe Park, Colchester, CO4 3SQ, United (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    maximise weight loss and improve glycaemic control in type 2 diabetes and obesity
+ In this study we investigated the cellular and metabolic effects of modulating the balance between G protein activation and -arrestin-2 recruitment at GLP-1R and GCGR using oxyntomodulin (OXM)-derived co-agonists
+ This strategy has been previously shown to improve the duration of action of GLP-1R assessed for a variety of cellular readouts
+ Molecular dynamic simulations were used to gain insights into the molecular interactions involved
+ In vivo studies were performed in mice to identify internalisation and prolonged glucose-lowering action in vivo
+ The putative benefits of GCGR agonism were retained, with equivalent weight loss compared to the GLP-1R mono-agonist liraglutide in spite of a lesser degree of food intake suppression
+ The compounds tested showed only a minor degree of biased agonism between G protein and -arrestin-2 recruitment at both receptors and were best classified as partial agonists for the two pathways measured
+ Conclusions: Diminishing -arrestin-2 recruitment may be an effective way to increase the therapeutic efficacy of GLP-1R/GCGR co-agonists
+ These benefits can be achieved by partial rather (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    The Section of Endocrinology and Investigative Medicine is funded by grants from the MRC, BBSRC, NIHR, and is supported by the NIHR Biomedical Research Centre Funding Scheme
+ The views expressed are those of the authors and not necessarily those of the funders
+ The views expressed are those of the authors and not necessarily those of the funder
+ D
+ J
+ H
+ was supported by MRC (MR/N00275X/1 and MR/S025618/1) and Diabetes UK (17/0005681) Project Grants
+ This project has received funding from the European Research Council (ERC) under the European Unions Horizon 2020 research and innovation programme (Starting Grant 715884 to D
+ J
+ H
+ )
+ A
+ T
+ acknowledges funding from Diabetes UK
+ B
+ J
+ acknowledges support from the Academy of Medical Sciences, Society for Endocrinology, The British Society for Neuroendocrinology, the European Federation for the Study of Diabetes, and an EPSRC capital award
+ B
+ J
+ and A
+ T
+ also received funding from the MRC (MR/R010676/1) and the European Federation for the Study of Diabetes
+ E
+ R
+ M
+ acknowledges support from Royal College of Surgeons of England and MRC clinical (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    Insulin and glucagon are traditionally viewed as opposing protagonists in the hormonal control of (GSIS), such as analogues of the incretin glucagon-like pepide-1 (GLP-1), have been successfully exploited over many years for the treatment of type 2 diabetes (T2D) []
+ However, decades of attempts to develop glucagon receptor (GCGR) antagonists for clinical use have so far failed to yield any approved therapeutic agents []
+ A significant problem appears to be the development of hepatic steatosis [-]
+ Contrasting with this traditional approach, GCGR agonism has emerged as a credible component of combined therapeutic strategy for the treatment of obesity and T2D in which GLP-1R and GCGR are concurrently targeted [7,8], thereby recapitulating the effects of the glucagon on energy expenditure [10], leading to enhanced weight loss and ultimately improvements in insulin sensitivity [11], might then be safely realised in the context of GLP-1R-mediated protection against acute hyperglycaemia
+ Glucagon is also insulinotropic, an effect which derives from action Biased agonism is a concept in which different ligands for the same receptor selectively couple to different intracellular effectors [14], potentially providing a means to improve their therapeutic window by reducing activation of pathways associated with adverse effects []
+ For G protein-coupled receptors (GPCRs), bias is commonly, but not always, expressed as a relative preference for recruitment of G proteins versus -arrestins, i
+ e
+ two of the most proximal interactors recruited to the activated receptor, as well as their corresponding signalling intermediates
+ Both GLP-1R and GCGR are primarily coupled to cAMP generation through Gs activation, with recruitment of -arrestins being associated with receptor desensitisation, endocytosis and diminished long term functional responses [,]
+ Whilst the therapeutic benefits of biased GLP-1R agonism have been demonstrated in preclinical studies on a number of occasions [18-21], the application of this principle to GLP-1R/GCGR co-agonism is less explored
+ A recent study reported bias profiles for a (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    selection of investigational dual GLP-1R/GCGR agonists, but it is not clear what role bias plays in In this study we aimed to develop GLP-1R/GCGR co-agonists with altered signalling properties but otherwise equivalent characteristics, which might then be used to assess the functional impact of bias in vitro and in vivo
+ Focussing on the peptide N-terminus, we evaluated dipeptidyl dipeptidase-4 (DPP-4)-resistant peptides featuring 2-aminoisobutyric acid (AIB) at position 2, in combination with which a switch between glutamine (Q) and histidine (H) at position 3 was able to alter the maximum responses (i
+ e
+ efficacy) for G protein and -arrestin recruitment, to varying degrees, at both receptors
+ Molecular dynamics simulation of glucagon analogues interacting with GCGR was used to gain insight into the molecular interactions underlying these differences
+ By comparing the metabolic effects of a pair of matched peptides with these sequence substitutions, we demonstrate that reduced recruitment efficacy of -arrestins translates to improved efficacy in preclinical rodent models of obesity, consistent with a similar effect previously observed for GLP-1R mono-agonists [-]
+ Our study therefore suggests a viable strategy to optimise GLP-1R/GCGR co-agonism for (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    All peptides were obtained from Wuxi Apptec and were of at least 90% purity
+ HEK293T cells were maintained in DMEM supplemented with 10% FBS and 1% GCGR or GIPR, and PathHunter CHO-K1-arr1-EA cells stably expressing GCGR, were obtained from DiscoverX and were maintained in Hams F12 medium with 10% FBS and 1% Animals were maintained in specific pathogen-free facilities, with ad lib access to food (except prior to fasting studies) and water
+ Studies were regulated by the UK Animals (Scientific Procedures) Act 1986 of the U
+ K
+ and approved by the Animal Welfare and Ethical Review Body of Imperial College London (Personal Project License PB7CFFE7A) or University of Birmingham (Personal Project Mice were euthanised by cervical dislocation before injection of collagenase solution (1 mg/ml, Serva NB8, or S1745602, Nordmark Biochemicals) into the bile duct
+ Dissected pancreata were then digested for 12 min at 37C in a water bath before purification of islets using a Ficoll (
+078) or Histopaque (Histopaque-1119 and -1083) gradient
+ Islets were hand-picked and cultured (5% CO2, (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    Hepatocytes from adult male C57Bl/6J mice were isolated using collagenase perfusion []
+ After filtering and washing, cells were used directly for assaying of cAMP responses as described below
+ 
+6 NanoBiT assays and calculation of bias between mini-Gs and -arrestin-2 The assay was performed as previously described []
+ HEK293T cells in 12-well plates were transfected with 
+5 g GLP-1R-SmBiT plus 
+5 g LgBiT-mini-Gs [25] (a gift from Prof Nevin Lambert, Medical College of Georgia), or with 
+05 g GLP-1R-SmBiT, 
+05 g LgBiT--arrestin-2 (Promega) plus 
+9 g pcDNA
+1 for 24 hours
+ Cells were detached with EDTA, resuspended in HBSS, and furimazine (Promega) was added at a 1:50 dilution from the manufacturers pre-prepared stock
+ After dispensing into 96-well white plates, a baseline read of luminescent signal was serially recorded over 5 min using a Flexstation 3 instrument at 37C before addition of the indicated concentration of ligand, after which signal was repeatedly recorded for 30 min
+ For AUC analysis, results were expressed relative to individual well baseline for AUC calculation over the -min stimulation period
+ Baseline drift over time frequently led to a negative AUC for vehicle treatment, which was subtracted from all results before construction of 3-parameter curve fits of concentration-response in Prism 
+ 
+ Bias was calculated using two approaches
+ Firstly, the log max/EC50 method [26] was used, with the ratio of Emax to EC50 from 3-parameter fits for each ligand used to quantify agonism
+ After log10 transformation, responses were expressed relative to the reference agonist on a per assay basis to give log(Emax/EC50) for each pathway
+ Pathway-specific values were then expressed relative to each other to give log(Emax/EC50), i
+ e
+ the log bias factor
+ Secondly, a method derived from kinetic curve fitting was used []
+ Here, kinetic responses for a single maximal agonist concentration were normalised at each time-point to the vehicle response prior to curve fitting
+ Mini-Gs responses were fitted using the one-phase exponential association equation in Prism 
+ 
+ -arrestin-2 responses were fitted using the biexponential equation described in []
+ The agonist efficacy term k was derived from these data as described [27] for each agonist and, after log10 transform, the SRB103Q response was expressed relative to SRB103H as the (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    reference agonist on a per assay basis to give log k
+ Pathway-specific values were then expressed relative to each other to give log k, i
+ e
+ the log bias factor
+ PathHunter cells were stimulated with the indicated concentration of agonist for 30 min at 37C in serum free medium, without phosphodiesterase inhibitors
+ Primary dispersed mouse islet cells, prepared by triturating intact islets in 
+05% trypsin/EDTA for 3 min at 37C, were stimulated with indicated concentration of agonist for 5 min at 37C in serum free medium, with 11 mM glucose and 500 M IBMX
+ Primary mouse hepatocytes were stimulated in serum free medium with 100 M IBMX for 10 min, or for 16 hours in serum free medium with 100 M IBMX added for the final 10 min of the incubation
+ At the end of each incubation, cAMP was then assayed by HTRF (Cisbio cAMP Dynamic 2) and concentration-response curves constructed with 3-parameter curve fitting in Prism C57Bl/6 (n = 7) or Instm
+1(cre)Thor+/- (n = 2) mice were used as islet donors and were phenotypically indistinguishable
+ Islets were transduced with epac2-camps for 48 hours using an adenoviral vector (a kind gift from Prof Dermot M
+ Cooper, University of Cambridge)
+ Epac2-camps is well validated, relatively pH insensitive, and senses cAMP concentrations in the ranges described in islets [,]
+ Dynamic cAMP imaging was performed as previously described [30] using a Crest X-Light spinning disk system, coupled to a Nikon Ti-E microscope base and 10 objective
+ Excitation was delivered at  = 430-450 nm using a SPECTRA X light engine
+ Emitted signals were detected using a 16-bit Photometrics Evolve Delta EM-CCD at  = 460-500 nm and 520-550 nm for cerulean and citrine, respectively
+ For imaging, islets were maintained in HEPES-bicarbonate buffer (pH 
+4) containing (in mM): 120 NaCl, 
+8 KCl, 24 NaHCO3, 
+5 Na2HPO4, 5 HEPES, 
+5 CaCl2, 
+2 MgCl2, 
+7 D-glucose
+ The experiment was conducted to determine responses to agonist-nave islets (acute), or with a rechallenge design, in which islets were first treated for 4 hours with 100 nM agonist (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    followed by washout (2 washes, 30 min) before commencing imaging
+ During the imaging, islets were stimulated with 100 nM agonist for 15 min, starting at T=5 min, followed by application of 10 M forskolin as a positive control
+ FRET responses were calculated as the fluorescence ratio of Cerulean/Citrine and normalized as F/F0-5, where F denotes fluorescence at any given time point The assay was adapted from a previously described method []
+ HEK293T cells were seeded in black, clear bottom, plates coated with 
+1% poly-D-lysine, and assayed 24 hours after transfection with SNAP-tagged GLP-1R or GCGR plasmid DNA (
+1 g per well)
+ Cells were labelled with the cleavable SNAP-tag probe BG-S-S-549 (a gift from New England Biolabs) in complete medium for 30 min at room temperature
+ After washing, fresh, serum-free medium  agonist was added
+ At the end of the incubation, medium was removed, and wells were treated with for 5 min at 4C with Mesna (100 mM, in alkaline TNE buffer, pH 
+6) to remove BG-S-S-549 bound to residual surface receptor without affecting the internalised receptor population, or with alkaline TNE buffer alone
+ After washing, cellular imaging and processing by high content analysis was performed as previously described [31] to quantify the amount of internalised receptor from fluorescence intensity 
+10 Preparation and imaging of fixed cell samples to observe receptor internalisation Cells were seeded onto coverslips coated with 
+1% poly-D-lysine and assayed 24 hours after transfection with SNAP-tagged GLP-1R or GCGR plasmid DNA (
+5 g per well of a 24-well plate)
+ Surface labelling of SNAP-tagged GLP-1R was performed using 
+5 M of the indicated SNAP-Surface probe for 30 min at 37C before washing with HBSS
+ Ligands were applied in Hams F12 media at C
+ For fixation, 4% paraformaldehyde (PFA) was applied directly to the medium for 15 min before washing with PBS
+ Slides were mounted in Prolong Diamond antifade with DAPI and allowed to set overnight
+ Widefield epifluorescence imaging was performed using a Nikon Ti2E (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    custom microscope platform via a 100 
+45 NA oil immersion objective, followed by Richardson-The assay was performed as previously described []
+ HEK-SNAP-GLP-1R cells were labelled using 40 nM SNAP-Lumi4-Tb in complete medium for 60 min at room temperature
+ After washing, cells were resuspended in HBSS containing 24 M fluorescein and dispensed into 96-well white plates
+ A baseline read was serially recorded over 5 min using a Flexstation 3 instrument at 37C in TR-FRET mode using the following settings: ex 340 nm, em 520 and 620 nm, auto-cutoff, delay 400 s, integration time 1500 s
+ Ligands were then added, after which signal was repeatedly recorded for 30 min
+ Fluorescence signals were expressed ratiometrically after first subtracting signal from wells containing 24 M fluorescein but no cells
+ Internalisation was quantified as AUC relative to 10 nmol SRB103Q, SRB103H or GLP-1 were dissolved in 750 l DPP-4 buffer (100 mM Tris-HCl; pH )
+ 10 mU recombinant DPP-4 (R&D Systems), or no enzyme as a control for non-enzymatic degradation over the same time period, was added to the reconstituted peptide
+ Reactions were incubated at 37C and 120 l samples were collected from the reaction vessel at the indicated time-points
+ 5 l 10% trifluoroacetic acid (TFA) was added to each sample to terminate enzyme activity
+ Samples were analysed by reverse-phase high-performance liquid chromatography (HPLC) with a linear acetonitrile/water gradient acidified with 
+1% TFA on Phenomenex Aeris Peptide 
+6 m XB-C18 Column (150 x 
+6 mm)
+ The eluted peptides were detected at 214 nm
+ Degradation of peptide was calculated by comparing the area under the peak of the original compound with and without (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    Lean male C57Bl/6 mice (8-10 weeks of age, body weight 25-30 g, obtained from Charles River) were maintained at 21-23C and 12-hour light-dark cycles
+ Ad libitum access to water and normal chow (RM1, Special Diet Services), or diet containing 60% fat to induce obesity and glucose intolerance (D12492, Research Diets) for a minimum of 3 months before experiments, was provided
+ Mice were housed in groups of 4, except for food intake assessments and the chronic administration study, when they were individually caged with 1 week of acclimatisation prior to experiments
+ Treatments were randomly allocated to groups of mice matched for weight
+ Mice were fasted for at least 4 hours before commencing the glucose tolerance test, depending on the peptide treatment length
+ Mice were injected into the intraperitoneal (IP) cavity with peptide or vehicle (
+9% saline) either 8 hours before, 4 hours before, or at the same as the glucose challenge (acute)
+ Glucose was dosed at 2 g/kg body weight
+ Blood glucose levels were measured before glucose challenge, then at the times as indicated in the figure using a hand-held glucose meter (GlucoRx Nexus)
+ Blood samples for insulin were collected at 10 minutes into lithium heparin-coated microvette tubes (Sarstedt, Germany), followed by centrifugation (10,000 RPM, 8 min, 4C) to separate plasma
+ Plasma insulin was measured using the Cisbio mouse insulin HTRF kit
+ Mice were fasted for 2 hours before IP injection of peptide or vehicle (
+9% saline)
+ 4 hours later, baseline blood glucose was taken before recombinant human insulin (Sigma, USA) (
+5 U/kg  1 U/kg) was injected IP and blood glucose measured 20, 40 and 60 minutes after insulin injection
+ Mice were fasted overnight before the study
+ Diet was returned to the cage 30 min after IP injection (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    Mice were administered 
+5 mg/kg peptide via IP injection
+ 4 hours after injection, blood was acquired by venesection into lithium heparin-coated microvette tubes (Sarstedt, Germany)
+ Plasma was separated by centrifugation at 10,000 g for 8 minutes at C
+ Plasma concentrations were assessed by radioimmunoassay using an in-house assay as previously described [33], using standard curves generated from each SRB103 peptides to ensure equivalent recovery was SRB103 peptides were made up in aqueous ZnCl2 solution to a molar ratio of 
+2:1 (ZnCl:peptide)
+ Liraglutide (Novo Nordisk) was diluted in sterile water
+ DIO mice received daily subcutaneous (s
+ c
+) injections of each treatment or vehicle (matched ZnCl2) with the dose increased during the first week as indicated on the figure
+ Body weight and food intake was measured periodically, with food and water available ad libitum
+ The end-of-study glucose tolerance test was performed 8 hours after Quantitative data were analysed using Prism 
+0 (GraphPad Software)
+ In cell culture experiments, technical replicates were averaged so that each individual experiment was treated as one biological replicate
+ Dose responses were analysed using 3 or 4-parameter logistic fits, with constraints imposed as appropriate
+ Bias analyses were performed as described in Section 
+ 
+ Statistical comparisons were made by t-test or ANOVA as appropriate, with paired or matched designs used depending on the experimental design
+ Mean  standard error of mean (SEM), with individual replicates in some cases, are displayed throughout, with the exception of bias analyses for which 95% confidence intervals are shown to allow straightforward identification of biased ligands, for (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    which the 95% confidence bands do not cross zero
+ Statistical significance was inferred if p<
+05, We performed molecular dynamics simulations on the active structure of GCGR in complex with peptides GCG, GCG-AIB2 and GCG-AIB2H3, and the C-terminal helix 5 of the -subunit of the Gs The templates used were the full-length crystal structure of a partial activated GCGR in complex with NNC1702 peptide (PDB: 5YQZ) [35] and the cryo-EM structure of the active glucagon- like was employed to add the missing residue H1 and substitute the adequate residues to generate GCG, GCG-AIB2 and GCG-AIBH
+ Once the three systems were complete and the hydrogens added, each system was embedded in a phospholipidic membrane and solvated
+ The membrane by CHARMM-GUI ( The simulation box dimensions of the resulting systems was 90 x 90 x 170 A in X, Y and Z directions, respectively
+ General charge neutrality was obtained by adding neutralizing counter ions Na+ and Cl-
+ Each system was subjected to 10 000 cycles of energy minimization in order to eliminate steric clashes and relax the side chains
+ The final step before running the simulations was represented by the equilibration of the systems, which includes re-orientations of the water and lipid molecules around the protein
+ The systems were both equilibrated and simulated in an NVT ensemble with semi-isotropic pressure scaling with a constant surface tension dynamic of 0 dyne/cm (through interfaces in the XY plane)
+ The target pressure of 1 bar was achieved using the Monte Carlo barostat, while the target temperature of 300 K was regulated using Langevin dynamics with a collision frequency of 1 ps-
+ The SHAKE algorithm was used to constrain the lengths of bonds comprising hydrogen atoms
+  Every system was equilibrated for 32 ns at a time step of 2 fs, then run in 3 replicas for approximately 2 s, at a time step of 4 fs, (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    using the AMBER force field implemented in the AMBER software package ( Every replica of a system was merged and aligned on the initial frame using MDTraj (www
+ mdtraj
+org) and then subjected to analysis
+ The hydrogen bonds and the van der Waals interactions between peptides and receptors were computed using the GetContacts package ( The contacts were plotted on the PDB coordinates using in-house scripts and Chimera software (www
+ cgl
+ ucsf
+ edu)
+ The distances between T
+60, located at the top of TM6, and the origin of the cartesian coordinates (0, 0, 0) were quantified by employing the provided by PLUMED we further calculated the distribution of the distances by implementing an in-house script
+ Principal component analysis (PCA) was conducted on the C atoms using the R package Bio3D (www
+ thegrantlab
+org) []
+ Prior to PCA we carried out a trajectory frame superposition on C atoms of residues 133 to 403 (TM domain) to minimize the root mean square differences amongst the equivalent residues
+ The principal component 1 (PC1) graphic (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    
+1 Characterisation of N-terminal peptide substitutions that modulate coupling to Gs and The N-termini of GLP-1, glucagon and OXM play critical roles in the activation of their target receptors [,]
+ However, the alanine (in GLP-1) or serine (in glucagon and OXM) at position 2 renders each of these endogenous ligands susceptible to DPP-4-mediated cleavage, and pharmacologically stabilised incretin analogues are often modified at this position
+ Here we focussed on the AIB2 substitution, found in semaglutide and some investigational oxyntomodulin analogues [-]
+ To systematically investigate how this change affects receptor activation, we obtained GLP-1-AIB2 and glucagon-AIB2 (GCG-AIB2) (see Table 1) and measured recruitment of -arrestin-2 and mini-Gs to GLP-1R and GCGR in real time using nanoBiT complementation [,]
+ Area-under-curve (AUC) quantification from kinetic response data indicated that efficacy for -arrestin-2 recruitment to GLP-1R was modestly reduced with GLP-1-AIB2 compared to native GLP-1 (Table 2, Figure 1A, Supplementary Figure A)
+ However, quantification of bias using the log(max/EC50) scale [26] indicated that this selective efficacy reduction does not qualify GLP-1-AIB2 as a biased agonist, as it was compensated by a corresponding small increase in potency (Figure 1B, C)
+ The lack of bias is represented in Figure 1C by the 95% confidence intervals for GLP--AIB2 crossing zero
+ At GCGR, the impact of AIB2 was more striking, with large reductions in efficacy for both mini-Gs and -arrestin-2 observed (Figure 1A); interestingly, this effect at GCGR could be partly reversed for both pathways by concurrent substitution of glutamine (Q) at position 3 to histidine (H), which our in-house preliminary evaluations had already flagged as a route to modulate GCGR signalling
+ GCG-AIB2 showed moderate but statistically significant degree of bias in favour of mini-Gs recruitment, with the H3 substitution driving the bias factor back towards zero An alternative method for bias quantification has been proposed [27,44] that is applicable to scenarios when kinetic response data is available
+ This model-free approach quantifies efficacy, (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    termed k, from the initial response rate at a saturating agonist concentration
+ After logarithmic transformation of k, bias can be determined by first normalising to a reference ligand (giving log k) and then comparing responses between pathways (giving log k)
+ In our study, mini-Gs responses could be fitted as one-phase exponential association curves, whereas -arrestin-2 showed a characteristic rapid increase and slower decline, presumed to reflect -arrestin association followed by dissociation from the target receptor, and required a bi-exponential equation to define association and dissociation rate constants [45] (Figure D)
+ GLP-1-AIB2 showed subtly slower kinetics at GLP-1R for both pathways than did GLP-1, which did not translate to a significant degree of bias using the log k method (Table 2, Figure C)
+ At GCGR, mini-Gs and -arrestin-2 association kinetics were also slower for GCG-AIB2 than for glucagon (Figure 1D, Table 2), with bias assessment from the kinetic data again suggesting a preference for mini-Gs coupling that was negated with the introduction of H3 (i
+ e
+ less bias with GCG-AIB2H3 than GCG-AIB2; Figure C)
+ Overall, these data indicate that introducing the AIB2 substitution into GLP-1 and glucagon leads to a noticeable reduction in efficacy for -arrestin-2 recruitment, more than mini-Gs recruitment, with glucagon more affected than GLP-
+ However, at GCGR, this effect could be mitigated by the presence of H
+ The Q/H switch at position 3 thereby provides a means to modulate efficacy whilst We performed molecular dynamics simulations of the active state GCGR in complex with glucagon, GCG-AIB2, or GCG-AIB2H3 to retrieve insights into the effects that peptide mutations have on the interactions, fingerprints and receptor flexibility
+ The substitution of serine at position 2 with the nonstandard residue AIB produced a substantial loss of interactions with the top of transmembrane helix 6 (TM6) and TM7 (E
+53, F
+56, and D
+42 in Figure 2A, B)
+ Fewer contacts were formed also with TM3 (I
+40 and Y
+44) and TM5 (W
+36), compared to glucagon
+ The substitution of S2 with the hydrophobic AIB removed a persistent hydrogen bond with D
+42 side (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    chain (Table 3) and moved the barycenter of the interactions towards extracellular loop 2 (ECL2) (D299ECL2, S297ECL2 in Figure 2A, 2B) due to hydrogen bonds with H1 and T5 (Table )
+ The partial release of TM6 from the restraining interactions with the peptide N-termini is corroborated by the high flexibility displayed in Figure C
+ GCGR in complex with glucagon and AIB2H3, on the other hand, was characterized by low plasticity of TM6, as indicated by monodisperse probability curves
+ Overall, glucagon and GCG-AIB2 stabilised divergent GCGR conformations of TM6, ECL2 and ECL3 (Figure D)
+ Interestingly, in the closely related GLP-1R the ECL2 is essential for transducing peptides more prone to interact with ECL3 and -arrestin-influenced signaling events such as Simulations suggested that the Q3H mutation introduced in GCG-AIB2H3 favors interactions between the peptide and TM2 residues K
+60, V
+64 and Q
+29, located on the stalk region of the receptor
+ K
+60, in particular, is part of the conserved hydrophilic region within class B receptor TMD, implied in binding, functionality and signal transmission []
+ It is plausible that the recovery in efficacy displayed by in GCG-AIB2H3 over AIB2 might be driven by stronger interactions with TM
+ Moreover, the whole TMD closed up around GCG-AIB2H3 during simulations similarly to 
+3 Pharmacologically stabilised GLP-1R/GCGR co-agonists to study the impact of efficacy A pair of peptides termed SRB103 (Table 1) was developed by an iterative process of sequence changes to the GLP-1R/GCGR co-agonist used in an earlier study []
+ As the previous peptide was derived from OXM, it contained the N-terminal sequence H-S-Q, which was modified to H-AIB-Q (SRB103Q) or H-AIB-H (SRB103H), along with additional conservative changes to enhance physicochemical properties such as stability and solubility
+ As expected, both SRB103Q and (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    The mini-Gs and -arrestin-2 recruitment profiles for each ligand were compared at both GLP-1R and GCGR (Figure 3A, Table 4, Supplementary Figure B)
+ At GLP-1R, AUC analysis from the kinetic response data indicated a 40% reduction in -arrestin-2 efficacy but a small increase in potency for the AIB2Q3 ligand compared to AIB2H3, with the mini-Gs response unaffected
+ At GCGR, both potency and efficacy were significantly reduced for both pathways with the AIB2Q3 ligand, although the magnitude of the efficacy reduction (~20%) was small compared to the same sequence substitutions when applied to glucagon in Figure 
+ Using the log(max/EC50) method there was no statistically significant bias between mini-Gs and -arrestin-2 for SRB103Q versus SRB103H at either receptor (Figure 3B, C)
+ However, bias estimates from the kinetic responses (log k method) suggested a subtle preference for SRB103Q at GLP-1R towards mini-Gs recruitment cAMP signalling responses were also assessed in CHO-K1 cell lines expressing GLP-1R, GCGR or glucose-dependent insulinotropic polypeptide receptor (GIPR) (Figure 3E, Table )
+ Potencies for SRB103Q and SRB103H were, as expected, indistinguishable at GLP-1R, with a non-significant reduction for SRB103Q at GCGR
+ Both ligands showed at least 100-fold reduced potency for GIPR cAMP signalling compared to GIP itself, even in this highly amplified heterologous system, suggesting that GIPR is unlikely to contribute to their overall metabolic actions
+ A close correlation has been observed previously between signalling efficacy and ligand-induced endocytosis of GLP-1R [,]
+ GCGR, on the other hand, appears to internalise far more slowly [,]
+ We investigated the effects of SRB103Q and SRB103H on internalisation of GLP-1R and GCGR SNAP-tagged at their N-termini in HEK293T cells by high content imaging []
+ Both ligands induced pronounced GLP-1R internalisation, with a minor reduction in efficacy with SRB103Q, but GCGR barely internalised with either ligand (Figure 3F); higher resolution images of SNAP-GLP-1R or SNAP-GCGR-expressing cells labelled prior to agonist treatment corroborated these findings (DERET) [50], kinetics of GLP-1R internalisation were considerably slower for SRB103Q than for (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    SRB103H throughout the concentration range (Figure 3H, 3I), although using AUC quantified from the end of the stimulation period, SRB103Q internalisation efficacy was only subtly reduced (Figure 3J), similar to the result in the high content imaging assay
+  These data indicate that the AIB2Q3 iteration of SRB103 shows reduced efficacy for recruitment of -arrestin-2 at GLP-1R and, to a lesser degree, for mini-Gs and -arrestin-2 at the GCGR
+  Reductions in -arrestin-2 recruitment efficacy are associated with prolongation of cAMP signalling at GLP-1R [19,39] and GCGR [31], thought to result from avoidance of target receptor desensitisation
+ In dispersed mouse islet cells, biochemically-measured acute cAMP responses to SRB103Q and SRB103H were indistinguishable (Figure A)
+ Similarly, FRET imaging of intact mouse islets virally transduced to express the cAMP sensor epac2-camps [51] demonstrated that both agonists induce similar cAMP dynamics acutely (Figure B)
+ However, when pre-treated for four hours with each ligand and then rechallenged after a washout period, a trend towards reduced responsiveness for SRB103H was observed
+ This difference was not significant when quantified from the whole re-stimulation period, but it was clearly observed that the epac2-camps average signal increase on SRB103H rechallenge was slower than for SRB103Q (k=
+28 versus 
+53 min-1 responsiveness with the former ligand
+ GCGR responses were also evaluated in primary mouse hepatocytes; here, SRB103Q showed reduced potency acutely, but after overnight treatment, this difference had disappeared (Figure C)
+ Overall, these studies indicate a general tendency for SRB103Q responses to be relatively enhanced with longer stimulations, which is compatible with (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    
+5 Anti-hyperglycaemic responses are prolonged after a single dose of SRB103Q versus As GLP-1R agonists with reduced -arrestin-2 recruitment efficacy and/or delayed endocytosis [19,21,52], we aimed to establish if this therapeutic principle could also be applied to GLP-tolerance test (IPGTT) in lean mice tended to be lower after a single administration of SRB103Q compared to SRB103H, with this difference enhanced by longer agonist exposure time (Figure A)
+ A similar pattern was seen at a range of agonist doses (Supplementary Figure 3A) and in diet-induced obese (DIO) mice (Figure B)
+ Circulating concentrations of each ligand were the same 4 hours after a single dose, suggesting pharmacodynamic differences are unlikely to be due to altered Both GLP-1R and GCGR agonism potentiate glucose-stimulated insulin secretion [12], but can also measured 10 min into a 4-hour-delayed IPGTT were higher with SRB103Q than SRB103H treatment, suggesting the formers improved anti-hyperglycaemic efficacy is likely to derive at least partly from action on beta cells (Figure 5C), in keeping with the trend we observed in pancreatic islets towards improved responsiveness after prolonged stimulation with SRBQ
+ In contrast, there was no evidence that insulin sensitivity was increased with either ligand, as assessed by insulin tolerance tests performed 4 hours after agonist administration (Figure 5D, Supplementary Figure C)
+ Appetite suppression was also assessed in lean and diet-induced obese mice
+ Here, SRB103Q was more effective than SRB103H, particularly at later timepoints in the obese cohort Overall, these results indicate that, despite showing lower acute efficacy for intracellular effector recruitment at both GLP-1R and GCGR, SRB103Q shows greater bioactivity in mice than SRBH
+ For glycaemic effects, this difference tended to become more apparent with time, in (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    keeping with the previously established principle that the metabolic advantages of biased GLP-1R GLP-1R/GCGR co-agonists may hold advantages over GLP-1R mono-agonists for the treatment obesity and related metabolic diseases as their GCGR-mediated effects on energy expenditure can promote additional weight loss [,,]
+ To determine if the apparent benefits of SRB103Q on glucose homeostasis revealed in single dose studies are also maintained after repeated dosing, SRB103H, SRB103Q and the GLP-1R mono-agonist liraglutide were administered at matched doses to DIO mice for 2 weeks
+ The dose was up-titrated over several days, analogous to typical practice in the clinic, as well as in preclinical studies of incretin receptor agonists [,]
+ As expected, all agonists led to a significant amount of weight loss compared to vehicle (Figure A)
+ However, the trajectory for weight lowering differed for both dual GLP-1R/GCGR agonists compared to liraglutide, with the latter being more effective earlier in the study before reaching a plateau after one week, as commonly observed with GLP-1R mono-agonists in rodents [-]
+ Importantly, the weight loss with both dual agonists was achieved despite liraglutide being more effective at suppressing energy intake throughout the study (Figure 6B), suggesting a contribution of increased energy expenditure []
+ Interestingly, SRB103Q was moderately more effective for weight loss than SRB103H despite similar energy intake, raising the possibility that reduced GCGR desensitisation could have contributed to improved longer term effects on energy expenditure
+ Both SRB103Q and SRB103H outperformed liraglutide in an IPGTT performed at the end of the study, with SRB103Q being the most effective at reducing the glucose excursion (Figure C)
+  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    In this study we have carefully evaluated the effects on GLP-1R and GCGR activity of the AIB2 substitution commonly used to confer DPP-4 resistance to therapeutic GLP-1R/GCGR peptide agonists
+ Depending on the peptide context, this substitution reduced efficacy for recruitment of key intracellular effectors at both target receptors
+ Interestingly, this effect was counteracted by substituting the neighbouring amino acid Q to H, providing a means to compare the impact of the resultant efficacy changes whilst retaining DPP-4 resistance
+ Whilst the efficacy-reducing effect of AIB2 was most prominently observed with glucagon itself at GCGR, in the context of the SRB103 peptides this effect was in fact greater at GLP-1R, specifically for -arrestin-2 recruitment, although GCGR responses were also modestly reduced
+ The potential importance of this pharmacological finding was hinted at by studies in primary islets and hepatocytes  tissues in which these responses are chiefly driven by, respectively, GLP-1R and GCGR  where we observed that the lower efficacy SRB103Q ligand showed trends towards relatively enhanced signalling responses at both GLP-1R and GCGR over time
+ These observations support our in vivo findings that the improved anti-hyperglycaemic performance of SRB103Q becomes more apparent at later time-points after dosing, as was previously seen with GLP-1R mono-agonists with analogous signalling This study was originally designed to assess the potential for biased agonism to improve therapeutic targeting of GLP-1R and GCGR
+ However, the magnitude of bias between SRB103Q and SRB103H, as assessed by two validated models, was relatively small
+ Interestingly, whilst biased agonism has attracted much attention over recent years, it has also been suggested that low intrinsic signalling efficacy, rather than biased agonism per se, is a viable alternative explanation for the improved performance of certain  opioid receptor agonists [61], a GPCR target usually considered highly tractable to biased agonism []
+ This possibility is reinforced by a lack of consistency between formal bias estimates obtained from different analytical approaches, which can lead to different conclusions from the same data []
+ With regard to the lower efficacy SRB103Q agonist in our study, signal amplification downstream of Gs activation means full cAMP/PKA (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    responses are still possible, so, in combination with reduced efficacy for -arrestin recruitment, this could lead to reductions in desensitisation over time and allow longer-lasting signalling responses
+ Thus, beneficial responses from partial agonism may be achieved irrespective of whether formally quantified bias is present or not
+ Further evaluations to establish whether partial agonism or bias is the most important factor will be required to settle this issue
+ The AIB2 substitution at position 2 is one of a number of sequence modifications that has been trialled to obtain DPP-4 resistance for incretin receptor analogues
+ Whilst exendin-4, the prototypical DPP-4 resistant GLP-1R mono-agonist, contains a glycine at position 2, GLP-1-G2 was recognised in early studies to show an unacceptable loss of signalling potency [64]; more recently it was demonstrated that this is also associated with reduced efficacy for recruitment of both mini-Gs and -arrestin-2 to the GLP-1R []
+ AIB2 is better tolerated by GLP-1 than G2, whilst retaining identical protection against DPP-4 mediated degradation [64], and has been incorporated into the current leading GLP-1R mono-agonist semaglutide []
+ Our new data indicates that, in the context of native GLP-1, AIB2 leads to a significant reduction in efficacy for recruitment of -arrestin-2 whilst barely affecting recruitment of mini-Gs
+ This effect is likely to be peptide-specific, as we did not observe similar reductions in -arrestin recruitment by AIB2-containing semaglutide in a previous study []
+ Interestingly, in the present work, AIB2 led to marked attenuation of engagement of GCGR with intracellular effectors by glucagon analogues, an effect which was previously hinted by the lower cAMP signalling potency with a glucagon analogue bearing AIB at both position 2 and 16 []
+ In the latter study, GCGR signalling was partly restored by conjugation to a fatty acid moiety, a well-established strategy used primarily to extend peptide pharmacokinetics by promoting reversible binding to albumin but, in this case, also found to enhance receptor activation
+ In our study we observed that switching Q to H at position 3 of glucagon was an alternative means to reverse the deleterious effect of AIB2 on GCGR signalling
+ It is not clear however if these strategies are equivalent, as in the study of Ward et al [66] the signalling deficit seen with AIB2 was a reduction in cAMP potency, whereas in our study efficacies for mini-Gs and -arrestin-2 was reduced but potencies were unaffected
+ A recent evaluation of GLP-1R/GCGR co-agonists [22] showed that the (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    al [67], which includes the N-terminal sequence H-AIB-Q, does indeed show reductions in -arrestin recruitment efficacy to GLP-1R (modest) and GCGR (substantial) compared to the endogenous agonist, without major loss in potency, broadly matching our observations with native ligand analogues and SRB103 peptides
+ Measured signalling potency, especially in the context of significantly amplified responses e
+ g
+ cAMP, is driven to varying extents by both affinity and efficacy, with our results highlighting how the standard approach to evaluate incretin receptor agonists in vitro using cAMP in heterologous systems, which tends to render all compounds full agonists, may be insufficient to adequately decipher ligand pharmacology []
+ Importantly, our study also provides structural insights into the importance of position 2 of glucagon peptide analogues, with molecular dynamics simulations indicating that the reduced -arrestin-2 recruitment associated with The most striking results in our study were observed from in vivo comparisons of SRB103Q and SRBH
+ Here, the lower efficacy SRB103Q (at both GLP-1R and GCGR) peptide outperformed SRB103H for ability to lower blood glucose levels 4 and 8 hours after a single injection, despite identical pharmacokinetics
+ These findings are reminiscent of observations with exendin-phe1, a GLP-1R mono-agonist with marked reductions in -arrestin recruitment efficacy, which displayed better anti-hyperglycaemic effects and increased insulin secretion compared to exendin-4 in mice, with these differences being most obvious at later time-points []
+ However, one of the challenges with our study is identifying whether the observed effects result from enhanced action primarily at GLP-1R or at GCGR, as SRB103Q displayed reduced -arrestin-2 recruitment efficacy at both receptors, meaning that longer lasting signalling through avoidance of target desensitisation could apply in both cases
+ Overall, we favour a primarily GLP-1R-mediated mechanism because 1) the selective reduction in -arrestin-2 recruitment with SRB103Q was larger at GLP-1R than at GCGR, and 2) the effect was associated with increases in insulin release and supported by a trend towards reduced islet desensitisation in vitro
+ Whilst glucagon can augment glucose-stimulated insulin secretion, this effect is mediated mainly by cross-reactivity at the GLP-1R []
+ We consider it (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    unlikely that the lower blood glucose levels with SRB103Q result from decreased hepatic glucose output via the subtly reduced efficacy of this peptide at GCGR, as it retains full cAMP activity in mouse hepatocytes, especially with prolonged stimulations, and the observed glycaemic effects relate mainly to the ability to restrain the hyperglycaemic effect of exogenously administered glucose
+ As antagonists for GLP-1R and GCGR are generally unable to cleanly and completely inhibit the action of high affinity exogenously administered agonists at pharmacological doses, studies in GLP-1R and GCGR knockout mice will be needed to distinguish the relative contributions of each receptor
+ The well-known phenotype of GCGR knockout mice, which are highly resistant to hyperglycaemia and show other metabolic abnormalities [69], may introduce additional challenges SRB103Q and SRB103H were compared in a chronic administration study, with liraglutide also included for reference as an exemplar GLP-1R mono-agonist
+ The important observation here was that the enhanced anti-hyperglycaemic benefits of SRB103Q were retained after 2 weeks of repeated administration, suggesting that the apparent benefits of its intracellular signalling profile on glucose homeostasis do not diminish with time
+ This represents, to our knowledge, the first demonstration of the possibility of achieving more effective metabolic control through partial agonism in the context of a GLP-1R/GCGR co-agonist
+ Notably, somewhat greater weight loss without a corresponding reduction in food intake for SRB103Q was observed, which could conceivably result from increases in sustained GCGR activation, as might be predicted from the reduced -arrestin-2 recruitment efficacy of this peptide compared to SRBH
+ The glycaemic effects of both molecules compared favourably with liraglutide at the same dose, although differences in pharmacokinetics (longer with liraglutide) and the amount of bioactive free peptide (lower with liraglutide due to albumin binding) complicate interpretation
+ Nevertheless, the observation that both SRB103 peptides achieve similar weight loss to liraglutide despite a less potent anorectic effect adds to the evidence that GLP-1R/GCGR co-agonism may be an effective means to treat obesity, potentially with reduced anorexia-associated nausea (although this was not (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    The recent study of Darbalaei et al provides a comprehensive description of the pharmacology of other published GLP-1R/GCGR co-agonists [22], including two ligands for which clinical data are available  cotadutide (MEDI0382) [8] and SAR425899 []
+ Neither of these clinical candidate molecules include AIB2 at position 2, but both showed reduced recruitment of -arrestin-2 to GLP-1R, albeit the reduction was not as great as for SRBQ
+ Both also showed significantly reduced recruitment of -arrestin-2 to GCGR compared to glucagon, a difference that was larger than the GCGR efficacy reduction seen with SRB103Q compared to SRBH
+ Thus, cotadutide and SAR425899 may well be additional examples of incretin receptor ligands retrospectively identified as showing biased agonist properties, as was recently found for the dual GLP-1R/GIPR agonist tirzepatide [,]
+ On the other hand, the recorded cAMP potencies for cotadutide and SAR425899 in the study of Darbalaei et al relative to the endogenous comparator ligands are orders of magnitude less than reported previously [70,73], raising the possibility that the cellular systems used to evaluate the pharmacology of these ligands could have affected the results
+  In conclusion, our study should be seen as an evaluation of the potential for reduced efficacy to be incorporated into the assessment process for candidate dual GLP-1R/GCGR agonists
+ Further molecular optimisations, e
+ g
+ acylation for extended pharmacokinetics, will be required to generate viable molecules for eventual clinical use
+ Molecular dynamics simulations have indicated relevant differences in engagement with ECL2 and ECL3 that can be used to guide these optimisations
+ Detailed mechanistic work is also needed to establish the relative contributions of G protein and -arrestin-mediated effects at both GLP-1R and GCGR, and will help clarify how investigational incretin receptor agonists are prioritised during drug development for T2D and obesity
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    Table 
+ Amino acid sequences for peptides used in this study
+ Amino acid sequences are given in single letter code
+ GLP-1 is amidated at the C-terminus, as indicated
+ AIB is represented as (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    Table 
+ Effect of AIB2 substitution in GLP-1, glucagon or OXM on mini-Gs and -arrestin-2 recruitment responses
+ Mean  SEM parameter estimates from 3-parameter fitting of AUC data from in Figure 1A, and association rate constants at maximal agonist stimulation (K@[max])
+ Statistical comparisons performed by paired t-test (GLP-1 and GLP-1-AIB2) or randomised block one-way ANOVA with Dunnetts test (glucagon analogues)
+ Note that, in general, if >1 ligand was a full agonist, Emax values were compared after normalisation to the globally fitted maximum response, whereas if only one ligand was a full agonist, statistical comparison was performed prior to normalisation, but numerical results are presented after normalisation to the full agonist response
+ See Supplementary Figure 1 for further analysis of -arrestin-2 recruitment using a different system
+ GLP-1 
+7  
+1 105  2 
+30  
+04 
+3  
+2 100  0 
+25  
+31 GLP-1-AIB2 
+9  
+0 96  2 
+21  
+01 *  
+7  
+1 * 68  4 *  
+82  
+10  K @[max] (min-1) pEC50 (M) Emax (% max) K @[max] (minGCG 
+7  
+0 100  0 
+17  
+03  
+1  
+1 100  0 
+89  
+18 GCG-AIB2 
+7  
+1 54  4 * 
+11  
+01  
+2  
+1 25  2 * 
+29  
+03 * GCG-H3 
+8  
+1 66  5 * 
+13  
+04  
+3  
+1 54  6 * 
+51  
+06 * 
+0  
+1 * 74  5 * 
+13  
+01 
+6  
+1 * 53  2 * 
+56  
+06 * (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    Table 
+ Molecular dynamics simulation results
+ Hydrogen bonds between GCGR and the first five amino acids in GCG, GCG-AIB2, and GCG-AIBH
+ Occupancy represents the number of frames with interaction divided by the total number of frames
+ ss indicate side chain  side chain hydrogen bonds, while sb indicate backbone  side chain hydrogen bonds
+ Peptide Ligand residue Receptor residue Occupancy (%) Type of hydrogen bond (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    Table 
+ Pharmacological evaluation of SRB103H3 versus SRB
+ Mean  SEM parameter estimates from 3-parameter fitting of data from in Figures 3 and 4, and association rate constants for kinetic data where relevant
+ Statistical comparisons performed by paired t-test comparing SRB103Q versus SRBH
+ If both ligands were full agonists, Emax values are shown after re-fitting of data normalised to the globally fitted maximum response
+ If only one ligand was a full agonist, statistical comparison was performed prior to normalisation, but numerical results are presented after normalisation to the full agonist response
+ * p<
+05 by indicated statistical test
+ 
+1  
+1 103  4 
+93  
+29 
+3  
+1 97  3 
+70  
+20 * GLP-1R arr2 (HEK293T) 
+4  
+1 100  
+37  
+06 
+7  
+0 GCGR mini-Gs (HEK293T) 
+1  
+1 100  
+14  
+01 
+7  
+1 GCGR arr2 (HEK293T) 
+5  
+1 100  
+81  
+07 
+3  
+1 GLP-1R cAMP (CHO-K1) 
+5  
+1 99  4 n
+ c
+ 
+5  
+1 103  2 n
+ c
+ GCGR CAMP (CHO-K1) 
+6  
+2 107  5 n
+ c
+ 
+4  
+2  103  4 n
+ c
+ GIPR CAMP (CHO-K1) 
+6  
+2 101  5 n
+ c
+ 
+0  
+1 
+7  
+2 
+0  
+1 
+14  
+02 
+7  
+2 
+7  
+2 
+0  
+4 
+7  
+1  
+0  
+4 
+6  
+1  
+6  
+1 206  7  
+5  
+0 200  6  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    Figure 
+ Evaluation of N-terminal substitutions to GLP-1, glucagon or OXM
+ (A) Concentration responses with 3-parameter fits showing mini-Gs (mGs) or -arrestin-2 (arr2) recruitment to GLP-1R-SmBiT or GCGR-SmBiT in HEK293T cells stimulated with GLP-1, GLP-1-AIB2, glucagon (GCG), GCG-AIB2, GCG-H3 or GCG-AIB2H3, n=5, with 3-parameter fits shown
+ (B) Heatmap representation of mean responses after quantification by log(max/EC50) or k method (see below) and normalisation to the reference ligand (GLP-1 or GCG, as appropriate)
+ (C) Assessment of bias between mini-Gs and -arrestin-2 recruitment from log(max/EC50) or k methods, with statistical comparison by randomised block one-way ANOVA with Sidaks test comparing GCG-AIB2 and GCG-AIBH
+ 95% confidence intervals are shown to allow identification of ligands with statistically significant bias versus the reference ligand
+ (D) Single maximal concentration kinetic responses for each ligand/receptor/pathway combination using data shown in (A), with one-phase association fits for mini-Gs and bi-exponential fits for -arrestin-
+ * p<
+05 by statistical test indicated
+ Data are represented as mean  SEM for concentration response curves or 95% confidence intervals for bias plots; bias data are considered significant if the 95% confidence interval does not cross 
+ Figure 
+ MD simulations of GCGR in complex with glucagon, GCG-AIB2, or GCG-AIBH
+ A and B show the difference in the contacts between GCGR and GCG-AIB2 (A) or GCG-AIB2H3 (B) plotted on the ribbon representation of GCGR; residues in red were more engaged by GCG-AIB2 (A) or GCG-AIB2H3 (B), while blue residues formed more contacts with GCG
+ C) Probability distribution of the distance between TM6 residue T369 and the origin of the cartesian coordinates (point ,,)
+ (D) Superposition of the PC1 analysis computed on the simulations of GCGR in Figure 
+ Development of a DPP-4-resistant GLP-1R/GCGR co-agonist with variable efficacy for intracellular effectors
+ (A) Concentration responses with 3-parameter fits for SRB103H- and SRB103Q-induced recruitment of mini-Gs or -arrestin-2 to GLP-1R-SmBiT or GCGR-SmBit in (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    HEK293T cells, n=
+ (B) Heatmap representation of mean responses after quantification by log(max/EC50) or k method (see below) and normalisation to SRB103H as the reference ligand
+ (C) Assessment of bias between mini-Gs and -arrestin-2 recruitment from log(max/EC50) or k methods
+ 95% confidence intervals are shown to allow identification of ligands with statistically significant bias versus the reference ligand SRBH
+ (D) Single maximal concentration kinetic responses for each ligand/receptor/pathway combination using data shown in (A), with one-phase association fits for mini-Gs and bi-exponential fits for -arrestin-
+ (E) cAMP responses in PathHunter CHO-K1 cells stably expressing GLP-1R, GCGR or GIPR, n=6, with 3-parameter fits shown
+ (F) SNAP-GLP-1R and SNAP-GCGR internalisation measured by high content analysis (HCA) in HEK293 cells, n=4, with 3-parameter fits shown
+ (G) Representative images from n=2 experiments showing endocytosis of SNAP-tagged receptors transiently expressed in HEK293 cells and treated with 100 nM agonist for 30 min
+ Scale bars = 8 m
+ (H) SNAP-GLP-1R internalisation in HEK293-SNAP-GLP-1R cells, n=5, with one-phase association fits for ligand concentrations >10 nM shown (expressed as log[agonist] in M)
+ (I) The concentration dependency of internalisation kinetics from (H) is shown
+ (J) Concentration responses are quantified from average response during the last 3 time-points from (H), with 3-parameter fits
+ Data are represented as mean  SEM for concentration response curves or 95% confidence intervals for bias plots; bias data are considered significant if the 95% Figure 
+ Acute versus prolonged responses in vitro with SRB103Q and SRBH
+ (A) Acute cAMP signalling in primary dispersed mouse islets, 5 min stimulation with 500 M IBMX, n=4, -parameter fits shown
+ (B) Whole islet cAMP responses to stimulation with 100 nM indicated agonist acutely or after 4-hour pre-treatment and washout, measured by FRET with virally transduced epac-camps
+ Quantification from 25  42 mouse islets per treatment (5-9 mice from at least 2 independent islet preparations)
+ AUCs during agonist exposure period (pre-forskolin [10 M]) have been quantified and compared by two-way ANOVA with Sidaks test
+ Representative images are shown
+ (C) Acute (10 min) and sustained (16 hour) cAMP accumulation in primary mouse (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    hepatocytes, expressed relative to 10 M forskolin response, n=
+ Data are represented as mean  Figure 
+ Immediate and delayed responses to SRB103Q and SRB103H in mice
+ (A) Blood glucose results during intraperitoneal glucose tolerance tests (IPGTTs) performed in lean male C57Bl/6 mice (n=10/group) with 2 g/kg glucose injected IP at the same time as, 4 hours after, or 8 hours after 10 nmol/kg agonist injection
+ Timepoint and AUC comparisons both by repeated measures two-way ANOVA with Tukeys test; only SRB103Q versus SRB103H comparisons are shown
+ (B) As for (A) but in diet-induced obese male C57Bl/6 mice
+ (C) Plasma insulin and blood glucose results in lean male C57Bl/6 mice (n=10/group) 10 min after 2 g/kg IP glucose administration, concurrently with, 4 hours after or 8 hours after 10 nmol/kg agonist injection
+ AUC comparisons by repeated measures two-way ANOVA with Tukeys test; only SRB103Q versus SRB103H comparisons are shown
+ (D) Blood glucose during insulin tolerance test (
+75 U/kg recombinant human insulin IP) performed 4 hours after administration of 10 nmol/kg agonist injection in lean male C57Bl/6 mice (n=/group)
+ Percentage reduction from 0  15 min is shown and compared by one-way ANOVA with Tukeys test; only SRB103Q versus SRB103H comparison is shown
+ (E) Food intake in overnight-fasted lean male C57Bl/6 mice (n=8/group) treated with 10 nmol/kg indicated agonist
+ Timepoint comparisons both by repeated measures two-way ANOVA with Tukeys test; only SRB103Q versus SRB103H comparisons are shown
+ * p<
+05 by indicated statistical test
+ Data are represented as mean  SEM and with individual replicates where possible
+ Figure 
+ Repeated administration of SRB103Q and SRBH
+ (A) Effect on body weight of daily administration by s
+ c
+ injection of SRB103Q, SRB103H, liraglutide or vehicle on body weight in male diet-induced obese C57Bl/6 mice, n=10/group with statistical comparisons between agonists by repeated measures two-way ANOVA with Holm-Sidak test
+ The injected daily dose is indicated above the graph
+ (B) As for (A) but cumulative food intake
+ (C) IPGTT (2 g/kg glucose) performed on day 15 of the study, 8 hours after agonist administration
+ Statistical comparisons were by repeated measures two-way ANOVA with Holm-Sidak test (time-points) or one-way ANOVA with (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    Holm-Sidak test
+ * p<
+05 by indicated statistical test
+ Data are represented as mean  SEM and (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    [1] Graaf, C
+ de, Donnelly, D
+, Wootten, D
+, Lau, J
+, Sexton, P
+ M
+, Miller, L
+ J
+, et al, 
+ Glucagon-Like Peptide-1 and Its Class B G Protein-Coupled Receptors: A Long March [2] Patil, M
+, Deshmukh, N
+ J
+, Patel, M
+, Sangle, G
+ V
+, 
+ Glucagon-based therapy: [3] Kazierad, D
+ J
+, Bergman, A
+, Tan, B
+, Erion, D
+ M
+, Somayaji, V
+, Lee, D
+ S
+, et al, 
+ Effects of multiple ascending doses of the glucagon receptor antagonist PF-06291874 in patients with type 2 diabetes mellitus
+ Diabetes, Obesity & Metabolism 18(8): [4] Guzman, C
+ B
+, Zhang, X
+ M
+, Liu, R
+, Regev, A
+, Shankar, S
+, Garhyan, P
+, et al, 
+ Treatment with LY2409021, a glucagon receptor antagonist, increases liver fat in patients with type 2 diabetes
+ Diabetes, Obesity & Metabolism 19(11): 15218, Doi: [5] Gumbiner, B
+, Esteves, B
+, Dell, V
+, Joh, T
+, Garzone, P
+ D
+, Forgie, A
+, et al, 
+ [6] Pettus, J
+ H
+, D'Alessio, D
+, Frias, J
+ P
+, Vajda, E
+ G
+, Pipkin, J
+ D
+, Rosenstock, J
+, et al, 
+ Efficacy and Safety of the Glucagon Receptor Antagonist RVT-1502 in Type 2 [7] Tan, T
+ M
+, Field, B
+ C
+ T
+, McCullough, K
+ A
+, Troke, R
+ C
+, Chambers, E
+ S
+, Salem, V
+, et [8] Ambery, P
+, Parker, V
+ E
+, Stumvoll, M
+, Posch, M
+ G
+, Heise, T
+, Plum-Moerschel, L
+, et al, 
+ MEDI0382, a GLP-1 and glucagon receptor dual agonist, in obese or [9] Pocai, A
+, 
+ Action and therapeutic potential of oxyntomodulin
+ Molecular [10] Jones, B
+ J
+, Tan, T
+, Bloom, S
+ R
+, 
+ Glucagon in Stress and Energy Homeostasis
+ [11] Kim, T
+, Holleman, C
+ L
+, Nason, S
+, Arble, D
+ M
+, Ottaway, N
+, Chabenne, J
+, et al, [12] Svendsen, B
+, Larsen, O
+, Gabe, M
+ B
+ N
+, Christiansen, C
+ B
+, Rosenkilde, M
+ M
+, Drucker, D
+ J
+, et al, 
+ Insulin Secretion Depends on Intra-islet Glucagon Signaling
+ [13] Zhu, L
+, Dattaroy, D
+, Pham, J
+, Wang, L
+, Barella, L
+ F
+, Cui, Y
+, et al, 
+ Intra-islet glucagon signaling is critical for maintaining glucose homeostasis
+ JCI Insight 5(10): [14] Kenakin, T
+, 
+ Functional selectivity and biased receptor signaling
+ The Journal of [15] Schmid, C
+ L
+, Kennedy, N
+ M
+, Ross, N
+ C
+, Lovell, K
+ M
+, Yue, Z
+, Morgenweck, J
+, et al, 
+ Bias Factor and Therapeutic Window Correlate to Predict Safer Opioid [16] Zhu, L
+, Rossi, M
+, Cui, Y
+, Lee, R
+ J
+, Sakamoto, W
+, Perry, N
+ A
+, et al, 
+ Hepatic -arrestin 2 is essential for maintaining euglycemia
+ The Journal of Clinical Investigation (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    [17] Jones, B
+, McGlone, E
+ R
+, Fang, Z
+, Pickford, P
+, Corra, I
+ R
+, Kumar, S
+, et al, 
+ Impact of N-terminally substituted glucagon family receptor agonists on signal bias, [18] Zhang, H
+, Sturchler, E
+, Zhu, J
+, Nieto, A
+, Cistrone, P
+ A
+, Xie, J
+, et al, 
+ Autocrine selection of a GLP-1R G-protein biased agonist with potent antidiabetic effects
+ Nature [19] Jones, B
+, Buenaventura, T
+, Kanda, N
+, Chabosseau, P
+, Owen, B
+ M
+, Scott, R
+, et al, [20] Fremaux, J
+, Venin, C
+, Mauran, L
+, Zimmer, R
+, Koensgen, F
+, Rognan, D
+, et al, 
+ Ureidopeptide GLP-1 analogues with prolonged activity in vivo via signal bias and [21] Lucey, M
+, Pickford, P
+, Bitsi, S
+, Minnion, J
+, Ungewiss, J
+, Schoeneberg, K
+, et al, [22] Darbalaei, S
+, Yuliantie, E
+, Dai, A
+, Chang, R
+, Zhao, P
+, Yang, D
+, et al, 
+ Evaluation of biased agonism mediated by dual agonists of the GLP-1 and glucagon [23] Buenaventura, T
+, Bitsi, S
+, Laughlin, W
+ E
+, Burgoyne, T
+, Lyu, Z
+, Oqua, A
+ I
+, et al, [24] Johanns, M
+, Lai, Y
+ -C
+, Hsu, M
+ -F
+, Jacobs, R
+, Vertommen, D
+, Van Sande, J
+, et al, [25] Wan, Q
+, Okashah, N
+, Inoue, A
+, Nehm, R
+, Carpenter, B
+, Tate, C
+ G
+, et al, 
+ Mini G protein probes for active G protein-coupled receptors (GPCRs) in live cells
+ The [26] Kenakin, T
+, 
+ A Scale of Agonism and Allosteric Modulation for Assessment of [27] Hoare, S
+ R
+ J
+, Tewson, P
+ H
+, Quinn, A
+ M
+, Hughes, T
+ E
+, 
+ A kinetic method for measuring agonist efficacy and ligand bias using high resolution biosensors and a [28] Nikolaev, V
+ O
+, Bnemann, M
+, Hein, L
+, Hannawacker, A
+, Lohse, M
+ J
+, 
+ Novel [29] Willoughby, D
+, Masada, N
+, Wachten, S
+, Pagano, M
+, Halls, M
+ L
+, Everett, K
+ L
+, et al, in pancreatic and neuronal systems
+ The Journal of Biological Chemistry 285(26): [30] Hodson, D
+ J
+, Mitchell, R
+ K
+, Marselli, L
+, Pullen, T
+ J
+, Gimeno Brias, S
+, Semplici, F
+, et al, 
+ ADCY5 couples glucose to insulin secretion in human islets
+ Diabetes 63(9): [31] Jones, B
+, McGlone, E
+ R
+, Fang, Z
+, Pickford, P
+, Corra, I
+ R
+, Oishi, A
+, et al, 
+ cAMP signalling at glucagon family receptors
+ The Journal of Biological Chemistry: [32] Sage, D
+, Donati, L
+, Soulez, F
+, Fortun, D
+, Schmit, G
+, Seitz, A
+, et al, 
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    [33] Scott, R
+, Minnion, J
+, Tan, T
+, Bloom, S
+ R
+, 
+ Oxyntomodulin analogue increases [34] Webb, B
+, Sali, A
+, 
+ Comparative Protein Structure Modeling Using MODELLER
+ [35] Zhang, H
+, Qiao, A
+, Yang, L
+, Van Eps, N
+, Frederiksen, K
+ S
+, Yang, D
+, et al, 
+ Structure of the glucagon receptor in complex with a glucagon analogue
+ Nature [36] Liang, Y
+ -L
+, Khoshouei, M
+, Glukhova, A
+, Furness, S
+ G
+ B
+, Zhao, P
+, Clydesdale, L
+, et al, 
+ Phase-plate cryo-EM structure of a biased agonist-bound human GLP-1 [37] n
+ d
+ D
+ A
+ Case, I
+ Y
+ Ben-Shalom, S
+ R
+ Brozell, D
+ S
+ Cerutti, T
+ E
+ Cheatham, III, V
+ W
+ D
+ Cruzeiro, T
+ A
+ Darden, R
+ E
+ Duke, D
+ Ghoreishi, M
+ K
+ Gilson, H
+ Gohlke, A
+ W
+ Goetz, D
+ Greene, R Harris, N
+ Homeyer, Y
+ Huang, S
+ Izadi, A
+ Kovalenko, T
+ Kurtzman, T
+ S
+ Lee, S
+ LeGrand, P
+ Li, C
+ Lin, J
+ Liu, T
+ Luchko, R
+ Luo, D
+ J
+ Mermelstein, K
+ M
+ Merz, Y
+ Miao, G
+ Monard, C
+ Nguyen, H
+ Nguyen, I
+ Omelyan, A
+ Onufriev, F
+ Pan, R
+ Qi, D
+ R
+ Roe, A
+ Roitberg, C
+ Sagui, S
+ Schott-Verdugo, J
+ Shen, C
+ L
+ Simmerling, J
+ Smith, R
+ Salomon- Ferrer, J
+ Swails, R
+ C
+ Walker, J
+ Wang, H
+ Wei, R
+ M
+ Wolf, X
+ Wu, L
+ Xiao, D
+ M
+ York and P
+ A
+ Kollman (2018), AMBER 2018, University of California, San [38] Grant, B
+ J
+, Rodrigues, A
+ P
+ C
+, ElSawy, K
+ M
+, McCammon, J
+ A
+, Caves, L
+ S
+ D
+, 
+ Bio3d: an R package for the comparative analysis of protein structures
+ Bioinformatics [39] Fang, Z
+, Chen, S
+, Pickford, P
+, Broichhagen, J
+, Hodson, D
+ J
+, Corra, I
+ R
+, et al, 
+ The Influence of Peptide Context on Signaling and Trafficking of Glucagon-like [40] Lynch, A
+ M
+, Pathak, N
+, Flatt, Y
+ E
+, Gault, V
+ A
+, O'Harte, F
+ P
+ M
+, Irwin, N
+, et al, 
+ [41] Knudsen, L
+ B
+, Lau, J
+, 
+ The Discovery and Development of Liraglutide and [42] Ma, T
+, Huo, S
+, Xu, B
+, Li, F
+, Wang, P
+, Liu, Y
+, et al, 
+ A novel long-acting oxyntomodulin analogue eliminates diabetes and obesity in mice
+ European Journal of [43] Dixon, A
+ S
+, Schwinn, M
+ K
+, Hall, M
+ P
+, Zimmerman, K
+, Otto, P
+, Lubben, T
+ H
+, et al, [44] Hoare, S
+ R
+ J
+, Tewson, P
+ H
+, Quinn, A
+ M
+, Hughes, T
+ E
+, Bridge, L
+ J
+, 
+ Analyzing [45] Hoare, S
+ R
+ J
+, Pierre, N
+, Moya, A
+ G
+, Larson, B
+, 
+ Kinetic operational models of [46] Wootten, D
+, Reynolds, C
+ A
+, Smith, K
+ J
+, Mobarec, J
+ C
+, Koole, C
+, Savage, E
+ E
+, et al, 
+ The Extracellular Surface of the GLP-1 Receptor Is a Molecular Trigger for [47] Wootten, D
+, Reynolds, C
+ A
+, Koole, C
+, Smith, K
+ J
+, Mobarec, J
+ C
+, Simms, J
+, et al, 
+ A Hydrogen-Bonded Polar Network in the Core of the Glucagon-Like Peptide-1 Receptor Is a Fulcrum for Biased Agonism: Lessons from Class B Crystal Structures
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    [48] Cegla, J
+, Jones, B
+ J
+, Gardiner, J
+ V
+, Hodson, D
+ J
+, Marjot, T
+, McGlone, E
+ R
+, et al, [49] Roed, S
+ N
+, Nhr, A
+ C
+, Wismann, P
+, Iversen, H
+, Bruner-Osborne, H
+, Knudsen, S
+ M
+, et al, 
+ Functional consequences of glucagon-like peptide-1 receptor cross-talk and trafficking
+ The Journal of Biological Chemistry 290(2): 123343, Doi: [50] Roed, S
+ N
+, Wismann, P
+, Underwood, C
+ R
+, Kulahin, N
+, Iversen, H
+, Cappelen, K
+ A
+, et al, 
+ Real-time trafficking and signaling of the glucagon-like peptide-1 receptor
+ [51] Ast, J
+, Arvaniti, A
+, Fine, N
+ H
+ F
+, Nasteska, D
+, Ashford, F
+ B
+, Stamataki, Z
+, et al, [52] Pickford, P
+, Lucey, M
+, Fang, Z
+, Bitsi, S
+, la Serna, de, J
+ B
+, Broichhagen, J
+, et al, [53] Zheng, D
+, Ionut, V
+, Mooradian, V
+, Stefanovski, D
+, Bergman, R
+ N
+, 
+ Exenatide [54] Pocai, A
+, Carrington, P
+ E
+, Adams, J
+ R
+, Wright, M
+, Eiermann, G
+, Zhu, L
+, et al, 
+ [55] Day, J
+ W
+, Ottaway, N
+, Patterson, J
+ T
+, Gelfanov, V
+, Smiley, D
+, Gidda, J
+, et al, 
+ A new glucagon and GLP-1 co-agonist eliminates obesity in rodents
+ Nature Chemical [56] Davies, M
+ J
+, Bergenstal, R
+, Bode, B
+, Kushner, R
+ F
+, Lewin, A
+, Skjth, T
+ V
+, et al, 
+ Efficacy of Liraglutide for Weight Loss Among Patients With Type 2 Diabetes: The SCALE Diabetes Randomized Clinical Trial JAMA : the Journal of the American [57] Mondragon, A
+, Davidsson, D
+, Kyriakoudi, S
+, Bertling, A
+, Gomes-Faria, R
+, Cohen, P
+, et al, 
+ Divergent effects of liraglutide, exendin-4, and sitagliptin on Beta-cell mass and indicators of pancreatitis in a mouse model of hyperglycaemia
+ PloS One 9(8): [58] Sisley, S
+, Gutierrez-Aguilar, R
+, Scott, M
+, D'Alessio, D
+ A
+, Sandoval, D
+ A
+, Seeley, [59] Tlbl, K
+ S
+, Kristiansen, M
+ N
+, Hansen, H
+ H
+, Veidal, S
+ S
+, Rigbolt, K
+ T
+, Gillum, M
+ P
+, et al, 
+ Metabolic and hepatic effects of liraglutide, obeticholic acid and elafibranor [60] Price, S
+ L
+, Minnion, J
+ S
+, Bloom, S
+ R
+, 
+ Investigating the Glucagon Receptor and Wistar Rats
+ Current Therapeutic Research, Clinical and Experimental 77: 1115, Doi: [61] Gillis, A
+, Gondin, A
+ B
+, Kliewer, A
+, Sanchez, J
+, Lim, H
+ D
+, Alamein, C
+, et al, 
+ Low intrinsic efficacy for G protein activation can explain the improved side effect [62] Manglik, A
+, Lin, H
+, Aryal, D
+ K
+, McCorvy, J
+ D
+, Dengler, D
+, Corder, G
+, et al, 
+ [63] Onaran, H
+ O
+, Ambrosio, C
+, Uur, 
+, Madaras Koncz, E
+, Gr, M
+ C
+, Vezzi, V
+, et al, 
+ Systematic errors in detecting biased agonism: Analysis of current methods and (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    development of a new model-free approach
+ Scientific Reports 7: 44247, Doi: [64] Deacon, C
+ F
+, Knudsen, L
+ B
+, Madsen, K
+, Wiberg, F
+ C
+, Jacobsen, O
+, Holst, J
+ J
+, [65] Lau, J
+, Bloch, P
+, Schffer, L
+, Pettersson, I
+, Spetzler, J
+, Kofoed, J
+, et al, 
+ [66] Ward, B
+ P
+, Ottaway, N
+ L
+, Perez-Tilve, D
+, Ma, D
+, Gelfanov, V
+ M
+, Tschp, M
+ H
+, et al, [67] Finan, B
+, Yang, B
+, Ottaway, N
+, Smiley, D
+ L
+, Ma, T
+, Clemmensen, C
+, et al, 
+ A [68] Kenakin, T
+, 
+ Is the Quest for Signaling Bias Worth the Effort? Molecular [69] Vuguin, P
+ M
+, Charron, M
+ J
+, 
+ Novel insight into glucagon receptor action: lessons from knockout and transgenic mouse models
+ Diabetes, Obesity & Metabolism 13 [70] Tillner, J
+, Posch, M
+ G
+, Wagner, F
+, Teichert, L
+, Hijazi, Y
+, Einig, C
+, et al, 
+ A novel dual glucagon-like peptide and glucagon receptor agonist SAR425899: Results of [71] Willard, F
+ S
+, Douros, J
+ D
+, Gabe, M
+ B
+, Showalter, A
+ D
+, Wainscott, D
+ B
+, Suter, T
+ M
+, et al, 
+ Tirzepatide is an imbalanced and biased dual GIP and GLP-1 receptor [72] Yuliantie, E
+, Darbalaei, S
+, Dai, A
+, Zhao, P
+, Yang, D
+, Sexton, P
+ M
+, et al, 
+ Pharmacological characterization of mono-, dual- and tri- peptidic agonists at GIP and [73] Henderson, S
+ J
+, Konkar, A
+, Hornigold, D
+ C
+, Trevaskis, J
+ L
+, Jackson, R
+, Fredin, M
+ F
+, et al, 
+ Robust anti-obesity and metabolic effects of a dual GLP-1/glucagon receptor peptide agonist in rodents and non-human primates
+ Diabetes, Obesity & (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 3, 
+ ;    

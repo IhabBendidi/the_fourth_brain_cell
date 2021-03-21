@@ -1,0 +1,736 @@
+Topical cream with live lactobacilli modulates the skin microbiome and reduce acne symptomsTopical cream with live lactobacilli modulates the skin microbiome and reduce acne symptoms 1 University of Antwerp, Department of Bioscience Engineering, Groenenborgerlaan 171, B-2020 7 University of Antwerp, Department of Pharmaceutical, Biomedical and Veterinary Sciences, 9 Laboratory of Pharmaceutical Technology and Biopharmacy, Universiteitsplein 1, B-2610 Wilrijk, 10  University Hospital Antwerp/University of Antwerp Department of Dermatology and Venereology, 12 Correspondence: Sarah Lebeer, University of Antwerp, Department of Bioscience Engineering, 14 The skin is home to an important part of our commensal microbiota, despite it being a cool, acidic 19 and desiccated environment
+ Tailored microbiome modulation approaches with, for example 20 probiotics, are highly challenging for this body site
+ Here we show by next-generating sequencing 21 that Lactobacillus taxa -especially those known to be dominant in the human vagina- are 22 underestimated members of the skin microbiota
+ Specific Lactobacillus strains were selected in the 23 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    lab and formulated in a viable form in an oil in water-based topical cream
+ Facial application by 24 patients with mild-to-moderate acne symptoms was able to reduce inflammatory lesions and 25 comedone formation
+ This was associated with a temporary modulation of the skin microbiome, 26 including a reduction in relative abundance of staphylococci and an increase in lactobacilli
+ Skin 27 microbiome modulation by addition of carefully formulated lactobacilli seems to be new therapeutic  28 option to reduce antibiotic use for common acne symptoms
+  29 Being the most extensive interface of the human body with the environment, the skin acts as a home 32 to an important part of our commensal microbiota
+ Similar to the gut, the skin microbiota have 33 essential roles in the education of our immune system and the protection against invading pathogens 34 and other foreign substances
+ With recent advances in DNA sequencing approaches, our knowledge 35 has been improved on the biogeography of the skin microbiota at different body sitestransitioning from these descriptive, observational studies towards a better understanding of the 37 functional roles of the commensal microbiota, allowing the design of tailored modulation 38 approaches
+ However, compared with the richer environment of our intestines, the skin lacks many 39 nutrients beyond basic proteins and lipids, with sweat, sebum and the stratum corneum being main 40 
+ In addition, the skin is a cool, acidic and desiccated environment and skin cells are 41 frequently renewed and shed, so that strategies targeting the skin microbiome are highly 42 challenging
+ For example, probiotics, i
+ e
+ live micro-organisms that, when applied in adequate 43 One of the most common skin diseases is acne vulgaris, a chronic inflammatory skin condition of the 46 sebaceous follicles and glands
+ The pathogenesis of acne vulgaris is multifactorial, with increased 47 sebum production, alteration in the quality of sebum lipids, dysregulation of the hormone 48 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    environment and follicular hyperkeratinization as contributing factors
+ In addition, specific strains of 49 involved in the inflammation of the skin, especially by secreting lipase enzymes that are able to 51 metabolize sebum into free fatty acids which may lead to skin irritationalmost all adults are colonized with C
+ acnes but only a minority have acne, highlights that other 53 bacteria such as Staphylococcus species can be linked to acne pathogenesis as pathobionts or disease 54 
+ Therefore, both oral and topical antibiotics such as doxycycline, minocycline and 55 Here we explored the potential of topically applied, live probiotic lactobacilli to beneficially modulate 58 cutaneous microbial interactions and host inflammatory responses in subjects with mild-to-moderate 59 acne symptoms
+ Lactobacilli were selected based on their long history of safe use in fermented 60 lactobacilli could also thrive and have health-promoting activities on the skin
+  62 Prevalence of Lactobacillus on the skin
+ Because lactobacilli are not considered to be commensals of 64 the skin, we first monitored the prevalence of lactobacilli on the skin of healthy volunteers
+ Their 65 relative abundance was explored through 16S amplicon sequencing via Illumina MiSeq (separate runs 66 for V1V2 and V4 variable regions) of facial skin samples (cheek) of 30 volunteers (15 male and 15 67 female), who did not display acne-related symptoms
+ In the samples of all female volunteers and 12 68 male volunteers Lactobacillus sequences were found (Figure a)
+ Lactobacillus species generally did 69 not occur in the top five of most abundant taxa present on the skin
+ However, some volunteers 70 showed a relative high abundance of Lactobacillus taxa (amplicon sequence variants or ASVs), up to 71 
+4% (based on V1V2 16S sequencing) or 
+3% (by V4 16S sequencing) (Figure 1b, Extended data 72 Figure a-b)
+ The relative abundance of Lactobacillus taxa based on both runs (V1V2 and V4) was 73 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    also 10-fold higher in women compared to men, with an average relative abundance of 
+8% (
+4% in 74 women and 
+2% in men, Kruskal-Wallis p= 
+ )
+ (Extended Data Figure b)
+ Lactobacillus taxa 75 can thus be considered as endogenous members of the skin microbiota, although their relative 76 abundance is lower than Staphylococcus, Corynebacterium, Cutibacterium (often still classified as 77 Propionibacterium), and Streptococcus, which were the most the dominant taxa in our dataset for 78 To confirm our in-house generated data and investigate whether our results are facial site-specific, 80 the presence of lactobacilli was also substantiated in publicly available skin metagenome shotgun 81 datasets by using the curatedMetagenomicData R-package recently described by Pasolli et al (177/466) showed the presence of at least one Lactobacillus species (Figure 1a), but only 29 samples 84 showed a relative abundance higher than %
+ Yet, high relative abundances up to 52% on the skin 85 were also observed (average relative abundance based on curated metagenomics was 
+79%) (Figure 86 b)
+ We also included 16S amplicon data from the Human Microbiome Project (VV)relative abundance was 
+9% on average due to some outliers having up to 90% relative abundance 88 (Figure b)
+ The relative abundance of Lactobacillus sequences in the skin samples was also 89 compared to the publicly available data of other human body sites (both 16S and curated 90 metagenome) (Figure b)
+ As expected, the vagina showed the highest relative abundance of 91 Lactobacillus taxa, but the skin turned out to be the second most important niche for these taxa
+ 92 Moreover, to have a better idea of the phylogenetic diversity of all Lactobacillus taxa present, we 93 also plotted all data on a phylogenetic tree of the Lactobacillus genus complexdata indicate that taxa typically associated with the human vagina, Lactobacillus crispatus, L
+ iners, L
+ 95 gasseri and L
+ jensenii were also found as the most prevalent lactobacilli on the skin (Figure 1d and 96 pentosus group and L
+ casei/paracasei/rhamnosus group, were frequently detected (Figure 1d and 98 e)
+ The occurrence of Lactobacillus taxa on the skin is in agreement with the fact that after normal 99 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    delivery through the birth canal, these bacteria originating from the mother are among the first to 100 
+ The data presented here (Figure 1 a-e) indicate that these Lactobacillus taxa 101 are still present in adults, but do not stay dominant in the different human body skin sites studied
+ 102 Yet, despite their low relative abundance, they could still play a role as keystone microbes, recently 103 redefined as taxa exerting a considerable influence on microbiome structure and functioning 104 Rationale in vitro strain selection
+ Lactobacillus strains were selected from our in-house available 108 laboratory collection (Extended Data Table 1) for tailored application in patients with mild-to 109 moderate acne symptoms
+ A thorough screening approach was applied based on the rationalization 110 that the strains had to be safe, applicable (being robust and showing niche-flexibility as described for 111 ) and have the capacity to exert the desired beneficial functions on the 112 human skin including microbiome modulation, immune modulation and epithelial barrier 113 enhancement (Figure a)
+ Key properties were substantiated with laboratory tests, genome 114 screening and information available in the literature
+ Three Lactobacillus strains were selected i
+ e
+ 115 Lactobacillus rhamnosus GG, Lactobacillus plantarum WCFS1 and L
+ pentosus KCA
+ The rationale for 116 GG was also selected because of previous reports on its capacity to inhibit the toxic effects of S
+ 120 and to augment tight-junction barrier function in human primary epidermal keratinocytesas model pathobiont associated with the inflammatory character of acne vulgaris
+ S
+ aureus was also 124 targeted as an important pathogen causing skin inflammation
+ When the activity of spent culture 125 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    supernatant of our collection of Lactobacillus strains was screened for antimicrobial effects on the 126 growth of C
+ acnes in suspension, all Lactobacillus strains tested inhibited the growth of C
+ acnes 127 ATCC6919 and S
+ aureus ATCC29213, but L
+ pentosus KCA1 (vaginal origin) and L
+ plantarum WCFS1 128 (saliva origin) were among the bacteria tested able to exert the highest inhibition (Figure 2b and 129 Extended Data Figure b)
+ Other related strains tested, including Staphylococcus epidermidis 12228, 130 did not inhibit C
+ acnes growth (Extended data Figure )
+ In addition, these strains were able to 131 significantly reduce the lipase activity of C
+ acnes (Figure c)
+ These lipase enzymes are involved in 132 inflammation of the skin induced by C
+ acnes, because they metabolize sebum into free fatty acids 133 , as well as a documented dose-dependent capacity to ameliorate the appearance of 135 , we also substantiated lactic acid production by the selected 136 lactobacilli (Figure d)
+ Furthermore, we validated that the three selected lactobacilli did not exhibit 137 toxic or overt inflammatory responses on primary skin cells (Figure 2e), in agreement with genome 138  and laboratory validation of antibiotic resistance profiles according to the guidelines 139 Viable Lactobacillus formulation in O/W cream
+ We then aimed to design a topical formulation 142 suitable for the application of live bacteria in a sufficient dose on the skin
+ The selected bacteria were 143 (Figure a)
+ Various processing conditions were optimized as described in the Methods section and 145 schematized in Figure 3a, resulting in capsules of 1500 - 2000 m diameter with a core of suspended 146 freeze-dried bacteria that can be released upon applying mechanical pressure, such as rubbing on 147 the skin (Figure b)
+ Ingredients were selected so that they did not significantly impact on the growth 148 capacity of the skin commensals and pathobionts (tested for S
+ epidermis, S
+ aureus, and L
+ crispatus) 149 (Extended Data Figure 2 c-d)
+  This formulation and encapsulation approach significantly improved 150 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    the viability for storage at 4C and even at 25C, compared to non-encapsulated freeze-dried bacteria 151 when suspended in a carrier oil-in-water (O/W) cream (Figure 3c) and this for up to 6 months (Figure 152 Subsequently, the skin irritation potential was checked for 20 volunteers with skin patch tests 154 
+ No erythema, dryness or edema was observed in any of the 155 volunteers studied (skin irritation index: 
+00) (Extended Data Table )
+ For comparison, adapalene 156 products, which are naphthoic acid derivatives with retinoid activity and documented efficacy in the 157 treatment of mild-to-moderate acne vulgaris, have a mean cumulative irritation index between 
+25-158 
+ Also the widely used combined clindamycinbenzoylperoxide treatment for moderate acne has 159 been reported to frequently induce dry skin, flaky/peeling skin, irritated skin, itchy skin and redness 160 Lactobacillus skin microbiome modulation
+ Subsequently, we applied the topical cream twice daily 163 in an open-label proof-of-concept trial to ten volunteers for eight weeks twice daily at application ( 1 gram/application) (Figure a)
+ Patients with mild-to-moderate acne symptoms that 165 were not using antibiotics or another acne treatment were included by the responsible dermatologist  166 (Extended Data Table )
+ The impact of the Lactobacillus cream on their facial skin microbiome was 167 monitored by 16S amplicon sequencing at four different time points, over a period of 10 weeks 168 (Figure a)
+ In this way, the skin baseline microbiome before, during and after the treatment was 169 compared
+ The skin acne microbiome of these patients at the time of inclusion was especially 170 characterized by an increased relative abundance of Staphylococcus taxa (p= 
+0058, Wilcoxon rank 171 sum test) when compared to the healthy controls (Figure 4b) (Extended Data Figure 4 for 3 specific 172 Staphylococcus ASVs)
+ No significant difference in relative abundance of Lactobacillus taxa was 173 observed between our patients and the reference samples at time of inclusion (Extended Data 174 Figure a-b)
+ However, we did observe a significantly reduced relative abundance of Streptococcus 175 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    salivarius, a taxon also belonging to the lactic acid bacteria with lactic acid production as core 176 function (Extended Data Figure )
+ After application of the cream with the lactic-acid producing 177 lactobacilli, the facial skin samples of our acne patients at visit 2 and visit 3 clearly clustered 178 separately on a PCoA plot (Figure c)
+ Interestingly, in 7 of 10 patients at visit 2 (4 weeks) and 8/10 179 patients at visit 3 (8 weeks), Lactobacillus ASVs were found in relative high abundances (between 180 
+9% and 
+8%), while in three patients at visit 2 and two patients at visit 3, their relative 181 abundance was below 5% (between 
+015 and 
+1 %) (Figure 4d and Extended Data Figure )
+ ASV 182 confirmed that the detected ASVs matched the applied lactobacilli
+ Interestingly, the three probiotic 184 strains appeared to persist on the skin in similar numbers (Figure d)
+ To substantiate that the 185 lactobacilli detected on the skin were still viable, samples were also plated on Lactobacillus-selective 186 MRS agar
+ Most samples at visit 2 (7/9) and visit 3 (6/7) were culture-positive, indicating that  at 187 least some of- the lactobacilli applied were metabolically active on the skin (Figure d)
+ At visit 4 (two 188 weeks after the stop of the treatment), most Lactobacillus ASVs had disappeared and also growth in 189 MRS medium was markedly reduced, further substantiating that the lactobacilli detected originated 190 from the applied topical cream
+ We then explored whether the presence of lactobacilli during 191 treatment had impacted on the pathobionts of acne (C
+ acnes and Staphylococcus taxa)
+ The relative 192 abundance of both pathobiont taxa dropped indeed at visit 2 and 3 and increased again at visit 4 (p< 193 
+05 for visit 3 versus visit 1  Wilcoxon test for Staphylococcus) (Figure b)
+  194 Lactobacillus improvement of acne symptoms
+ Subsequently, the acne symptoms were clinically 195 scored as the presence of inflammatory lesions and comedones
+ This analysis showed an overall 196 improvement of the acne symptoms in all patients treated with the Lactobacillus cream, as reflected 197 by a significant reduction in inflammatory lesions at visit 2 and 3 compared to visit 1, and a significant 198 reduction in comedone counts at visit 2 (Figure a)
+ A significant association between comedonal 199 counts and both Staphylococcus and Propionibacterium/Cutibacterium was also found (Figure 5b), 200 but not for the inflammatory lesions (Extended Data Figure )
+ Of note, when the treatment 201 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    stopped, the acne scores increased again, indicating that the applied lactobacilli and associated 202 microbiome - staphylococcal modulation  did not persist, in agreement with the fact that the 203 exogenously applied lactobacilli could not permanently colonize (Figure 4 d)
+ On the other hand, this 204 increase in acne scores when the Lactobacillus application stopped, further suggests a possible causal 205 association between the applied lactobacilli and the acne symptom reduction
+ 206 Acne vulgaris is a common reason for long-term antibiotic use, with dermatologists prescribing 209 multidisciplinary approach to substantiate that Lactobacillus strains have potential as skin probiotics 211 to target acne
+ First, we provided detailed information that lactobacilli (and other lactic acid 212 producing taxa) are unneglectable endogenous members of the human skin microbiota, with relative 213 placement of the Lactobacillus sequences detected in our data (amplicon sequence variants) and the 215 Lactobacillus taxa (L
+ crispatus, L
+ iners, L
+ gasseri, L
+ jensenii) of the vaginal community are also 217 among the most prevalent Lactobacillus taxa for the skin
+ Previous studies have briefly acknowledged 218 Lactobacillus taxa in the skin niche had not yet been performed
+ Yet, we also showed that to apply 220 selected lactic acid bacteria on the skin, other properties such as robustness to (processing) stress 221 conditions and growth capacity are required, in addition to safety and lack of (transferable) antibiotic 222 resistance properties (as rationalized in Figure a)
+ Following this rationalized scheme, we did 223 manage to translate our results directly from in vitro lab tests with skin cells and pathogens to human 224 volunteers, without the need for animal testing
+ Spent-culture supernatant of the selected L
+ 225 rhamnosus GG, L
+ plantarum WCFS1 and L
+ pentosus KCA1 could inhibit the growth of C
+ acnes and S
+ 226 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    aureus in vitro, could survive the formulation in capsules in an O/W cream and were found in similar 227 amounts after 1/1/1 application on the facial skin of patients with mild-to-moderate acne symptoms
+ 228 Twice daily topical application of this cream with the live lactobacilli was able to reduce inflammatory 229 acne lesions and comedone formation in the ten patients included in the open-label pilot study, and 230 was associated with a reduction in Staphylococcus relative abundance (as summarized in Figure )
+ 231 Our 16S rRNA ASV-based comparison of the acne facial microbiome of 30 healthy volunteers and 27 232 patients with acne symptoms suggests indeed that Staphylococcus taxa are increased in acne 233 patients and that Staphylococcus could thus form an interesting acne target to further investigate
+ 234 ASV level analysis of the sequenced V4 region of the 16S rRNA gene did not allow identification of the 235 Staphylococcus taxa up to species/strain level, so that no distinction between S
+ epidermidis and S
+ 236 aureus and specific more virulent strains could yet be made
+ On the other hand, microbiome 237 comparison of the skin of subjects with a healthy skin and patients with mild-to-moderate acne 238 vulgaris also pointed to other lactic acid producing bacteria such as Streptococcus salivarius as being 239 Our findings are consistent with the growing body of evidence that lactic acid bacteria such as 241 lactobacilli can be applied at multiple human body sites to target the microbiome, epithelial barrier 242 
+ In this study, we now add support for the skin 243 as topical therapeutic area
+ Evidently, compliance of this probiotic therapy by the patients will be a 244 key aspect to monitor  and possibly improve- in the future
+ The promising results from our proof-of- 245 concept study with live lactic acid-producing microbes should now also be confirmed in larger-scale 246 and longitudinal studies, in addition to more molecular studies towards underlying antimicrobial and 247 anti-inflammatory mechanisms and probiotic effector molecules (Figure )
+ Together, these studies 248 will contribute to a new era of skin therapeutics based on microbiome modulation, as well as more 249 fundamental and mechanistic insights on the keystone core functions of lactic acid bacteria for skin 250 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    Figure 1  Lactobacillus taxa in skin samples of 16S rRNA  amplicon and shotgun metagenomic data 254 (a) Presence and absence of Lactobacillus in skin samples of this study, the Human Microbiome 255 through the curatedMetaganomics R Package
+ (b) Comparison of relative abundance of Lactobacillus 257 in different niches of the three used datasets
+ The y-axis is represented in log scale
+ (c) 16S rRNA 258 cladogram of the Lactobacillus Genus Complex
+ Branches are colored based on phylogenetic 259 placement of Lactobacillus ASVs from this study and the phylogenetic group (as described by Duar et 260 ) they belong to
+ Tip labels are colored based on the 12 most abundant Lactobacillus species 261 found in the skin shotgun metagenomic datasets
+ (d and e) The most abundant Lactobacillus 262 members in this study (d) and the skin shotgun metagenomic datasets (e) colored according to the 263 phylogenetic group of the Lactobacillus Genus Complex they belong to
+ 264 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    Figure 2 - In vitro selection of Lactobacillus strains for targeted application against acne vulgaris
+  266 (a) Schematic overview of the rationale for the selection
+ Each criterion needs to be taken into 267 account upon selection
+ Laboratory or genomic prediction tests exist for each criterion
+ More 268 information can be found in the main text
+ (b) Antimicrobial activity of the spent-culture supernatant 269 of the selected Lactobacillus strains against the two pathobionts tested, C
+ acnes and S
+ aureus, and 270 compared to the positive control (10 mg/mL Clindamycin, a common antibiotic used in acne)
+ MRS at 271 pH4, which is comparable to the pH of the spent supernatant of lactobacilli, was used as a negative 272 control
+ (c) Inhibition of lipase activity of C
+ acnes by the spent-culture supernatant of the selected 273 Lactobacillus strains, and compared to the positive control (10 mg/mL Clindamycin) and the negative 274 control (MRS)
+ (d) Concentration of L-lactic acid and D-lactic acid as key antimicrobial and skin-275 modulating molecules produced by the selected lactobacilli after overnight incubation in MRS broth
+ 276 (e) Skin cell viability results of NHEK cells after addition of the selected lactobacilli compared to the 277 negative control, keratinocyte growth medium 2, and positive controls, S
+ aureus and Triton-X, 278 measured at 450 nm using an XTT assay
+ Statistical analysis were performed using a Mann-Whitney 279 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    Figure 3 - Formulating live lactobacilli in a topical cream  282 (a) Schematic representation of the micro-encapsulating process with the bacteria in the core 283 suspension and an outer shell made by the shell solution
+ (b) Resulting micro-capsules with a core of 284 freeze-dried bacteria suspended in oil compared to microcapsules in which a force is applied just 285 before application on the skin, hereby releasing the bacteria and activating them through water-286 uptake
+ (c) Survival of the bacteria in the microcapsules after different days compared to non-287 encapsulated freeze dried bacterial powder in an O/W cream
+ (d) Survival of the encapsulated 288 bacteria in o/w cream tested according to the International Council for Harmonisation of Technical 289 Requirements for Pharmaceuticals for Human Use QA(R)
+ Statistical analysis was performed using 290 a Two-way ANOVA where * = p<
+05, *** = p<
+001 and **** = p<
+ 
+ 291 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    Figure 4  Impact of the Lactobacillus cream on the skin microbiome  293 (a) Schematic overview of the POC intervention study with the O/W cream containing the selected 294 and formulated lactobacilli, the visits at which a skin swab was taken and dermatological symptom 295 analysis was performed by the dermatologist
+ The cream was applied twice daily for 8 weeks with a 296 Propionibacterium/ Cutibacterium respectively at baseline and over the four visits of the study 298 (right)
+ For the baseline, skin samples of the 30 healthy volunteers without acne symptoms (cfr
+ 299 Figure 1) and 27 patients with mild-to-moderate acne symptoms were compared
+ Of these 27 acne 300 patients, 10 patients (indicated with blue dots) were included in the Lactobacillus intervention Study 301 (Study) shown at the right side of each panel
+ For the study visits, p< 
+05 for visit 3 versus visit 1 302 based on Wilcoxon ranks test is indicated with a star
+ (c) PCOA plot distributing samples according to 303 beta-diversity (Bray-Curtis distance)
+ Similar samples are located closely to each other, and colored 304 by visit
+ (d) Microbial communities during the study period with the genus-level taxonomy indicated 305 (top), relative abundance of the three Lactobacillus ASVs resulting from the cream (middle) and 306 observed growth on MRS medium (top row on agar, bottom row growth in MRS broth) after addition 307 of the skin samples (bottom)
+ Other Lactobacillus ASVs were not observed at a higher relative 308 abundance than %
+ Samples were ordered by participant and by visit
+ 309 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    Figure 5- Effect of the Lactobacillus cream on acne symptoms and correlation with microbiome 312 (a) Evolution of counts of inflammatory lesions (left) and comedones (right) over the course of the 314 study, grouped by visit
+ All 10 patients included in the pilot study showed a clinical improvement 315 after the application of the cream as exemplified with a picture of the acne spot area of one patients 316 at visit 1 versus visit 
+ Statistical analysis were performed using a Wilcoxon matched-pairs signed 317 rank test where * = p<
+05 and ** = p<
+01 (b) Correlation of relative abundances of Staphylococcus 318 per visit
+ Pearson correlation coefficient and p-values are indicated where p<
+ 
+  320 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    Figure 6 - Schematic overview of the main findings of this study on how live lactobacilli formulated 322 in a topical cream modulate skin microbiome and improve acne symptoms
+  323 Specific Lactobacillus strains were selected and formulated in capsules in an oil (O) in water (W) 324 cream that release the probiotics upon rubbing on the skin
+ Microbiome analysis (16S amplicon 325 sequencing), as well as counting of comedone and inflammatory lesions substantiated that these 326 lactobacilli could reduce inflammation and comedone formation, as well have transient impact on 327 the skin microbiome, especially by decreasing the relative abundance of staphylococci and C
+ acnes 328 as acne pathobionts
+ The postulated mode of action (also indicated with * in table) includes their 329 antimicrobial activity against pathobionts by lactic acid (this study), competitive exclusion, their capacity to reduce inflammation, e
+ g
+ by the serine-threonine rich 331 , by e
+ g
+ the secreted proteins Msp1 (p75)/Msp2 (p40) for L
+ 333 
+ Yet, the involvement of these probiotic effector molecules remains to be further 334 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    Bacterial growth
+ Lactobacillus strains were grown at 37C in de Man, Rogosa and Sharpe (MRS) 337 medium (BD Difco, Erembodegem, Belgium)
+ Propionibacterium acnes ATCC6919 was inoculated in 338 reinforced clostridial broth (LabM Limited, Heywood, UK), supplemented with 
+2% Tween20 and 339 cultured microaerobically (5% CO2) at C
+ Staphylococcus aureus ATCC29213 was grown in Mueller-340 Hinton broth at C
+ Solid media contained 
+5% (w/v) agar
+ Time-course experiments were also 341 performed analysing the antimicrobial activity of spent culture supernatant (SCS) of the selected 342 this SCS (10%) on the lipase activity of C
+ acnes was determined as previously described Human skin cell culture
+ Normal human epidermal keratinocytes (NHEK) cells from juvenile foreskin 345 from pooled donors were purchased from Promocell (Heidelberg, Germany) and cultured according 346 to manufacturers recommendations in Keratinocyt Growth medium 2 (Promocell, Heidelberg, 347 seeded at a density of 5000 cells/well in 96-well plates and cultured until confluent
+ Overnight 350 cultures of probiotic strains or S
+ aureus were added to the wells with or without NHEK cells at CFU/well and incubated for 2 h at 5% CO2 and C
+ Triton X-100 (
+5%) was used as a positive 352 Collection of skin samples and total microbial DNA extractions
+ Skin samples were collected by 354 brushing the cheek (control group) or the affected area on the face (patients) with a FloqSwab 355  or around the lesions
+ Swabs were then transferred to a falcon 356 containing 800l Bead solution of QIAamp PowerFecal DNA kit (Qiagen)
+ Samples were stored at 4C 357 until further processing (maximally 14 days)
+ Before DNA extraction, samples were vortexed for 1 358 minute, after which the Bead solution was transferred to the bead tube
+ Subsequent steps of the 359 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    Illumina MiSeq 16S rDNA gene amplicon sequencing
+ The primers used for Illumina MiSeq 361 sequencing were based on the previously described 27F-338R or 515F-806R primerswere carried out for V1V2 and V4 rRNA gene variable regions
+ Quality control and processing of reads 364 variants or ASVs) were merged and read pairs with one or more conflicting bases between the 366 forward and reverse read were removed
+ Chimeric sequences were removed using the function 367 removeBimeraDenovo
+ Finally, ASVs were classified from the kingdom to the genus level using the 368 
+ A species annotation was added to each ASV by listing the species of all 369 16S sequences in the database that showed an exact match to the ASV sequence
+ Contaminants 370 between relative abundances and total sample read counts were considered contamination
+ For each 372 ASV, this correlation was calculated and tested for significance
+ ASVs with a p-value less than 
+0001 373 were removed
+ Samples were filtered by removing those with less than 1000 reads left after all read 374 Biostatistical and bioinformatics analysis
+ Processing of the ASV table, ASV annotations (e
+ g
+ 376 classification) and sample annotations (metadata) were performed using the in-house R package 377 tidyamplicons, publicly available at github
+ com/SWittouck/tidyamplicons
+ For the analyses at the 378 genus level, ASV read counts were aggregated at the genus level or, if unavailable, at the most 379 Analysis of public datasets
+ Processed OTU-table and sample metadata from the Human Microbiome 381  and the shotgun metagenomic datasets were retrieved using the MicrobeDS R 382 visualized in the R-environment using Phyloseq
+ All scripts are available at 384 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    qPCR for estimation of absolute bacterial concentrations
+ qPCR was performed in duplicate on a 20-386 fold dilution (to avoid interference of PCR inhibitors) of total DNA isolated from the samples, using 387 the StepOnePlus real time qPCR system (Applied Biosystems, Foster City, California, USA), SYBR 388 Green chemistry (PowerUp SYBR Green Master Mix, Applied Biosystems, Foster City, California, 389 USA) and primers as indicated in Extended Data Table 
+ Standard curves were used to estimate 390 bacterial concentrations in the samples and derived from serially diluted DNA from an overnight 391 culture of Lactobacillus crispatus LMG12005 isolated similarly as the samples
+ Bacterial concentration 392 Formulation of lactobacilli in microcapsules and O/W cream
+ A single colony of the three selected 394 probiotic strains was grown until stationary phase and lyophilized
+ The lyophilized bacterial powder 395 was grinded and milled (Frewitt, Switzerland) to obtain a fine powder ( subsequently encapsulated via a core-shell encapsulation approach
+ Briefly, the strains were mixed in 397 equal amounts and homogeneously suspended to obtain a stable oil-based feed core suspension
+ 398 The shell feed solution contained a hydrocolloid alginate polymer as gelling agent
+ Both liquid feeds 399 were pumped to a concentric nozzle, to obtain a concentric fluid flow
+ The laminar liquid flow was 400 broken up by a vibrational unit to obtain spherical -droplets that were solidified upon falling in a 401 CFU/gram) were washed and suspended in an oil-in-water cream containing the following 403 ingredients: Aqua, Glycerin, Polyglyceryl-3 Rice Branate, Propylheptyl Caprylate, Cetyl Alcohol, Nylon 404 Amygdalus Dulcis Oil, Allantoin, Limnanthes Alba Seed Oil, Tocopheryl Acetate, Xanthan Gum, 406 Cyclohexasiloxane, Helianthus Annuus Seed Oil, Algin, p-Anisic Acid, Silica Dimethyl Silylate, Disodium 407 EDTA, Sodium Hydroxide, Hydrochloric Acid
+ The ingredients of this cream, mainly the emulsifiers 408 and preservatives, were selected to be compatible with the micro-capsules and bacteria, both during 409 storage and upon release of the probiotics
+ Hereto, the impact of the topical cream without the 410 capsules on the growth of four skin reference bacteria (S
+ aureus, S
+ epidermidis, L
+ crispatus and C
+ 411 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    acnes) was evaluated at a concentration of 1, 10 and 100 mg/ml, by a time-course analysis of OD600 412 measurements as described above
+ Mechanical force (rubbing on the skin) was confirmed to break 413 the capsules, releasing the inner core material containing the suspended probiotics
+ Skin irritation 414 tests with the O/W cream containing the freeze dried lactobacilli were performed as described 415 Proof-of-concept human in patients with acne vulgaris
+ A proof-of-concept clinical trial was 417 performed on patients with mild-to-moderate acne vulgaris included after careful assessment of the 418 responsible dermatologist by counting of comedones and inflammatory lesions (Extended Data 419 Table )
+ Patients were men between 12-25 years
+ Exclusion criteria were use of oral antibiotics 420 within 4 weeks prior to start of the study and use of systemic retinoids within 6 months prior to start 421 of study
+ Subjects provided written informed consent before the study began
+ Patients were asked to 422 g of the topical cream)
+ Patients were asked to apply the cream twice daily for 56 days (8 weeks)
+ The 424 patients were seen by a dermatologist at start (before the therapy) (visit 1), week 4 (visit 2), week 8 425 (visit 3) and week 10 (visit )
+ A skin swab was taken at each visit, total DNA was extracted and 426 amplified for 16S amplicon sequencing as described above
+ Moreover, a clinical scoring was 427 Clinical trial registration
+ The protocol of this study was in accordance with the Declaration of 430 Helsinki, and was approved by the ethics committee of the University Hospital of Antwerp (Belgium) 431 before initiation of the study
+ The study was given the approval number B300201628507 (Belgian 432 registration) and registered online at clinicaltrials
+gov with unique identifier NCT
+  433 Data availability
+ Sequencing data are available at the European Nucleotide Archive with the 435 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    
+ Grice, E
+ A
+ et al Topographical and temporal diversity of the human skin microbiome
+ Science 439 
+ Byrd, A
+ L
+, Belkaid, Y
+ & Segre, J
+ A
+ The human skin microbiome
+ Nature Reviews 441 
+ Hill, C
+ et al Expert consensus document: The International Scientific Association for 443 Probiotics and Prebiotics consensus statement on the scope and appropriate use of the term 444 
+ Scholz, C
+ F
+ P
+ & Kilian, M
+ The natural history of cutaneous propionibacteria, and 446 reclassification of selected species within the genus propionibacterium to the proposed novel 447 pseudopropionibacterium gen
+ nov
+ Int
+ J
+ Syst
+ Evol
+ Microbiol
+ 66, 44224432 ()
+ 449 
+ Higaki, S
+ Lipase inhibitors for the treatment of acne
+ Journal of Molecular Catalysis B: 450 
+ Drno, B
+ What is new in the pathophysiology of acne, an overview
+ Journal of the European 452 
+ Del rosso, J
+ Q
+ et al Status report from the scientific panel on antibiotic use in dermatology of 454 the American acne and rosacea society part 1: Antibiotic prescribing patterns, sources of 455 antibiotic exposure, antibiotic consumption and emergence of antibiotic resistance, impac
+ J
+ 456 
+ Williams, H
+ C
+, Dellavalle, R
+ P
+ & Garner, S
+ Acne vulgaris
+ in The Lancet 379, 361372 ()
+ 458 
+ Bernardeau, M
+, Guguen, M
+ & Vernoux, J
+ P
+ Beneficial lactobacilli in food and feed: Long-459 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    term use, biodiversity and proposals for specific and realistic safety assessments
+ FEMS 460 
+ Heeney, D
+ D
+, Gareau, M
+ G
+ & Marco, M
+ L
+ Intestinal Lactobacillus in health and disease, a 462 driver or just along for the ride? Current Opinion in Biotechnology 49, 140147 ()
+ 463 
+ Petrova, M
+ I
+, Lievens, E
+, Malik, S
+, Imholz, N
+ & Lebeer, S
+ Lactobacillus species as biomarkers 464 and agents that can promote various aspects of vaginal health
+ Frontiers in Physiology 6, 465 
+ Mrtensson, A
+ et al Effects of a honeybee lactic acid bacterial microbiome on human nasal 467 symptoms, commensals, and biomarkers
+ Int
+ Forum Allergy Rhinol
+ 6, 956963 ()
+ 468 
+ Pasolli, E
+ et al Accessible, curated metagenomic data through ExperimentHub
+ Nature 469 
+ Chng, K
+ R
+ et al Whole metagenome profiling reveals skin microbiome-dependent 471 
+ Oh, J
+ et al Biogeography and individuality shape function in the human skin metagenome
+ 473 
+ Tett, A
+ et al Unexplored diversity and strain-level structure of the skin microbiome 475 
+ Huttenhower, C
+ & Human Microbiome Project Consortium
+ Structure, function and diversity 477 
+ Wuyts, S
+ et al Carrot juice fermentations as man-made microbial ecosystems dominated by 479 
+ Duar, R
+ M
+ et al Lifestyles in transition: evolution and natural history of the genus 481 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    
+ Chu, D
+ M
+ et al Maturation of the infant microbiome community structure and function 483 across multiple body sites and in relation to mode of delivery
+ Nat
+ Med
+ 23, 314326 ()
+ 484 
+ Banerjee, S
+, Schlaeppi, K
+ & van der Heijden, M
+ G
+ A
+ Keystone taxa as drivers of microbiome 485 
+ Kankainen, M
+ et al Comparative genomic analysis of Lactobacillus rhamnosus GG reveals pili 488 containing a human-mucus binding protein
+ Proc
+ Natl
+ Acad
+ Sci
+ U
+ S
+ A
+ 106, ()
+ 489 
+ Kleerebezem, M
+ et al Complete genome sequence of Lactobacillus plantarum WCFS
+ Proc
+ 490 
+ Anukam, K
+ C
+ et al Genome Sequence of Lactobacillus pentosus KCA1: Vaginal Isolate from a 492 
+ Segers, M
+ E
+ & Lebeer, S
+ Towards a better understanding of Lactobacillus rhamnosus GG - 494 
+ van den Nieuwboer, M
+, van Hemert, S
+, Claassen, E
+ & de Vos, W
+ M
+ Lactobacillus plantarum 496 WCFS1 and its host interaction: a dozen years after the genome
+ Microbial Biotechnology 9, 497 
+ Tapiovaara, L
+ et al Absence of adverse events in healthy individuals using probiotics - 499 analysis of six randomised studies by one study group
+ Benef
+ Microbes 7, 161169 ()
+ 500 
+ van Baarlen, P
+ et al Differential NF-kB pathways induction by Lactobacillus plantarum in the 501 duodenum of healthy humans correlating with immune tolerance
+ Proc
+ Natl
+ Acad
+ Sci
+ 502 
+ van Baarlen, P
+ et al Human mucosal in vivo transcriptome responses to three lactobacilli 504 indicate how probiotics may modulate human cellular pathways
+ Proc
+ Natl
+ Acad
+ Sci
+ U
+ S
+ A
+ 505 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    
+ Skovbjerg, S
+ et al Spray bacteriotherapy decreases middle ear fluid in children with secretory 507 
+ Reid, G
+ & Bruce, A
+ W
+ Selection of Lactobacillus Strains for Urogenital Probiotic Applications
+ 509 
+ Mohammedsaeed, W
+, McBain, A
+ J
+, Cruickshank, S
+ M
+ & ONeill, C
+ A
+ Lactobacillus 511 rhamnosus GG inhibits the toxic effects of Staphylococcus aureus on epidermal keratinocytes
+ 512 
+ Mohammedsaeed, W
+, Cruickshank, S
+, McBain, A
+ J
+ & ONeill, C
+ A
+ Lactobacillus rhamnosus 514 GG Lysate Increases Re-Epithelialization of Keratinocyte Scratch Assays by Promoting 515 
+ ONeill, C
+ A
+, Sultana, R
+ & McBain, A
+ J
+ Strain-dependent augmentation of tight-junction 517 barrier function in human primary epidermal keratinocytes by lactobacillus and 518 
+ Sanders, M
+ E
+, Benson, A
+, Lebeer, S
+, Merenstein, D
+ J
+ & Klaenhammer, T
+ R
+ Shared 520 mechanisms among probiotic taxa: implications for general probiotic claims
+ Curr
+ Opin
+ 521 
+ Tang, S
+ C
+ & Yang, J
+ H
+ Dual effects of alpha-hydroxy acids on the skin
+ Molecules 23, ()
+ 523 
+ European Food Safety Authority
+ Guidance on the assessment of bacterial susceptibility to 524 
+ Broeckx, G
+, Vandenheuvel, D
+, Claes, I
+ J
+ J
+, Lebeer, S
+ & Kiekens, F
+ Drying techniques of 527 probiotic bacteria as an important step towards the development of novel pharmabiotics
+ Int
+ 528 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    
+ Basketter, D
+ A
+, Whittle, E
+, Griffiths, H
+ A
+ & York, M
+ The identification and classification of 530 skin irritation hazard by a human patch test
+ Food Chem
+ Toxicol
+ 32, 773775 ()
+ 531 
+ Queille-Roussel, C
+ et al Comparison of the cumulative irritation potential of adapalene gel 532 and cream with that of erythromycin/tretinoin solution and gel and erythromycin/isotretinoin 533 
+ Feldman, S
+ R
+ & Chen, D
+ M
+ How Patients Experience and Manage Dryness and Irritation 535 
+ Yoon, S
+ H
+ et al Introducing EzBioCloud: A taxonomically united database of 16S rRNA gene 537 sequences and whole-genome assemblies
+ Int
+ J
+ Syst
+ Evol
+ Microbiol
+ ()
+ 538 
+ Petrova, M
+ I
+, Lievens, E
+, Malik, S
+, Imholz, N
+ & Lebeer, S
+ Lactobacillus species as biomarkers 540 and agents that can promote various aspects of vaginal health
+ Front
+ Physiol
+ 6, ()
+ 541 
+ Zeeuwen, P
+ L
+ J
+ M
+ et al Microbiome dynamics of human epidermis following skin barrier 542 
+ Li, X
+, Yuan, C
+, Xing, L
+ & Humbert, P
+ Topographical diversity of common skin microflora and 544 its association with skin environment type: An observational study in Chinese women
+ Sci
+ 545 
+ Human, T
+ & Project, M
+ Structure, function and diversity of the healthy human microbiome
+ 547 
+ Tytgat, H
+ L
+ P
+ et al Lactobacillus rhamnosus GG Outcompetes Enterococcus faecium via 549 Mucus-Binding Pili: Evidence for a Novel and Heterospecific Probiotic Mechanism
+ Appl
+ 550 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    
+ Diep, D
+ B
+, Straume, D
+, Kjos, M
+, Torres, C
+ & Nes, I
+ F
+ An overview of the mosaic bacteriocin 552 
+ Remus, D
+ M
+, Kleerebezem, M
+ & Bron, P
+ A
+ An intimate tte--tte - How probiotic 554 lactobacilli communicate with the host
+ in European Journal of Pharmacology 668, ()
+ 555 
+ Lebeer, S
+ et al Functional analysis of lactobacillus rhamnosus GG pili in relation to adhesion 556 and immunomodulatory interactions with intestinal epithelial cells
+ Appl
+ Environ
+ Microbiol
+ 557 
+ Vargas Garca, C
+ E
+ et al Piliation of Lactobacillus rhamnosus GG promotes adhesion, 559 phagocytosis, and cytokine modulation in macrophages
+ Appl
+ Environ
+ Microbiol
+ 81, ()
+ 560 
+ Yan, F
+ et al A lactobacillus rhamnosus GG-derived soluble protein, p40, stimulates ligand 561 release from intestinal epithelial cells to transactivate epidermal growth factor receptor
+ J
+ 562 
+ van den Broek, M
+ F
+ L
+ Multifactorial inhibition of lactobacilli against the respiratory tract 564 
+ Caporaso, J
+ G
+ et al Global patterns of 16S rRNA diversity at a depth of millions of sequences 566 
+ Kozich, J
+ J
+, Westcott, S
+ L
+, Baxter, N
+ T
+, Highlander, S
+ K
+ & Schloss, P
+ D
+ Development of a 568 dual-index sequencing strategy and curation pipeline for analyzing amplicon sequence data on 569 the MiSeq Illumina sequencing platform
+ Appl
+ Environ
+ Microbiol
+ 79, 511220 ()
+ 570 
+ Callahan, B
+ J
+ et al DADA2: High-resolution sample inference from Illumina amplicon data
+ 571 
+ Jervis-Bardy, J
+ et al Deriving accurate microbiota profiles from human samples with low 573 bacterial content through post-sequencing processing of Illumina MiSeq data
+ Microbiome 574 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    Extended Data is available in the online version of this manuscript
+  577 Acknowledgements
+ We kindly acknowledge Dr
+ K
+ Anukam for providing us Lactobacillus pentosus 578 KCA
+ We thank Wannes Van Beeck, Dieter Vandenheuvel, Camille Allonsius, Leen Van Ham and all 579 other members of the ENdEMIC group for their assistance and/or fruitful discussions
+ We thank S
+ 580 Van Elslander for the help in the design of figures 2A, 4A and 
+ We also greatly thank Dr
+ E
+ Pasolli 581 for the assistance with the CuratedMetagenomics Package
+ This work was funded by grants from the 582 Flanders Agency for Innovation & Entrepreneurship (www
+ vlaio
+be/en), including an IWT-SBO project 583 (IWT/50052) for the fundamental part of the research and a VLAIO R&D project with Yun 584 Probiotherapy NV (formerly known as Axca Bvba) as SME partner for the applied part of the project
+ 585 The qPCR analyses were performed with a StepOne Plus (Applied Biosystems) machine funded by the 586 Fund for Scientific Research Flanders (N)
+ Sander Wuyts and Ilke De Boeck hold a personal 587 Author contributions
+ S
+ L
+, I
+ C
+, J
+ L
+ designed the study; J
+ L
+ clinically evaluated the patients and 589 collected patient samples; E
+ O
+ prepared the clinical and control samples for MiSeq sequencing with 590 the help of I
+ T
+ and I
+ D
+ B
+, Sa
+ Wu
+ did the shotgun metagenome analysis, Sa
+ Wu
+ St
+ Wi
+, and E
+ O
+ 591 analyzed sequence data
+ E
+ O
+, M
+ V
+ B
+, C
+ A
+ and I
+ S
+ did part of the microbiological and cell culture lab 592 experiments
+ I
+ C
+, T
+ H
+, F
+ K
+ formulated the lactobacilli in the topical cream
+ S
+ L
+ drafted the 593 Author information
+ The authors declare the following competing interests
+ I
+ C
+ and T
+ H
+ were 596 employed at UAntwerp at the time of the study, but are currently working at the R&D department of 597 Yun NV, a start-up company resulting from this research (www
+ yun
+ be)
+ Based on the data presented 598 here, YUN NV has selected and formulated three Lactobacillus strains, L
+ pentosus YUN-V
+0, L
+ 599 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    plantarum YUN-V
+0 and L
+ rhamnosus YUN-S
+0 in their commercial ACN product
+ Part of the results 600 presented in this manuscript are included in patent applications PCT/EP2017/066176 and 601 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    

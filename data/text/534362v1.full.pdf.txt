@@ -1,0 +1,304 @@
+Implanted Nerve Electrical Stimulation allows to Selectively Restore Hand and Forearm Movements in Patients with a Complete TetraplegiaWafa Tigra, PhD, is an independent researcher and was with MXM, Vallauris, France and INRIA, University of Montpellier, Montpellier, FranceChristine Azevedo, PhD, is with INRIA, University of Montpellier, Montpellier, FranceAnthony Gelis, MD, PhD, is with Propara Neurological Center, Montpellier, FranceDavid Guiraud, PhD, is with INRIA, University of Montpellier, Montpellier, FranceBackground : Functional Electrical Stimulation (FES) is used for decades inrehabilitation centers
+ For patients with a spinal cord injury (SCI), FES canTo this last aim, FES external devices can be used, but elicit imprecise move-implantation of one electrode for each site (muscle) to stimulate, an heavy sur-gical procedure and 10 times more electrical charges than nerve stimulation
+appear over time
+ The purpose of this work is to evaluate whether a multi-contact nerve cuff electrode can selectively activate forearm and hand musclescertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    Methods : A 12-contacts cuff electrode was designed to selectively activate,without damage it, multi fascicular peripheral nerve ()
+ Six subjects with atleast one extensor or one flexor muscle stimulable by surface electrical stimu-lation, have been enrolled into the study
+ During the surgical procedure, radialor median nerve was stimulated through up to 35 different configurations ofstimulation at an intensity up to 
+1 mA (25 Hz, pulse width 250 s, inter-pulse 100 s)
+ Surface electrodes were positioned upon the forearm to recordResults: The multicontact cuff electrode allowed us to selectively activate groupof muscles to produce multiple, independent and functional hand and forearmThe incidence of SCIs in western Europe and the United States is estimated at 16 and 40 casesper million, respectively (2), with the high proportion of cervical injuries increasing progres-sively ()
+ SCIs can have devastating impacts on patients health, autonomy and quality of life
+Technical aids (e
+ g
+ motorized wheelchair, orthosis, medical electric bed, transfer board, homeautomation 
+ 
+ 
+) allow to give back some independence to people with tetraplegia, but recoveryof gripping movements is still felt as the priority ()
+ Indeed, most activities of daily livingare performed via hand movements and restoration of forearm, hand and wrist active motric-ity would significantly increase their independence and quality of life
+ Without spinal cordrepair, only partial solutions are available
+ For several decades, functional surgeries based ontendonmuscle transfers, and more recently nerve transfers (9), have been used to improve thecertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    functional potential of people with tetraplegia
+ During tendonmuscle transfers, the distal partof a tendon and its functional muscle, is detached from its natural insertion point and then fixedon a non-functional adjacent muscle in order to restore its initial function
+ For example, transferof the biceps brachii to the triceps brachii can restore elbow active extension, the residual flex-ion of the elbow being provided by the other flexors (brachialis and brachioradialis)
+ However,these 2 methods require sufficient muscles or nerves under voluntary control, and rehabilitationdoes not allow for systematic recovery of desired movements
+ Therefore, some people withtetraplegia are not able to undergo neurotendinous surgery
+ In that case, implanted or externalFES can be an alternative to restore grip movements
+ One of the first applications of FES onhand muscles is reported by Backhouse et al in 1954 ()
+ Used to determine the function ofmuscles, FES was then used to recover grip movements in patients with a high tetraplegia asearly as 1963 ()
+ Nowaday, only few devices using FES to restore or improve grip func-tions are available
+ All of these devices use intramuscular, epimysial or surface electrodes ()and so, need one electrode for each muscle to activate
+ However, the use of these devices is stillvery limited since they have limits in terms of acceptability, efficiency and benefit/limitationratio
+ Furthermore, to achieve gripping movements, the higher the patients level of injury is,the greater the number of muscles to stimulate
+ Activate more than one muscle by electrodebecomes relevant
+ Neural stimulation would have the advantage to stimulate more muscles viaa single electrode (and so reduce implanted components), and will require less energy for mus-cle activation
+ Studies have demonstrated the feasibility of this approach (1518), muscle thatwas selectively activated was the first muscle to branch distal to the cuff location
+ However,they combined multisite neuromuscular stimulation which makes this approach complex andThe use of multipolar electrodes (poles 4) placed just above nerve bifurcations would makepossible, selective activation of several fascicles from the same nerve
+ Indeed, upper limb fas-certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    cicles would tend to anastomose and separate over a large part of their length, but would besomatotopically organized distally (19, )
+ This selective activation could potentially activatedifferent functions and/or muscles independently
+ Recruitment of agonist muscles via a singleelectrode may also be possible
+ Alternative activation of agonist muscles could reduce muscleIn this study, we describe an approach based exclusively on neural stimulation to restore handmovements through a twelve contacts cuff electrode placed around upper-arm nerve (radial ormedian)
+ Each of these contacts can be activated independently and so, current can be steeredin many ways into the nerve
+ This technology could be used in combinaison with sus-lesionalEMG signals or movements (21) to control the nerve stimulation
+ Thereby, individuals withtetraplegia, who can not benefit from a musculotendinous surgery, would be provided with ahand neuroprosthesis, usable in a clinical context, and allowing grasp movements recovery
+6 patients with a C5 complete motor cervical injury were included in our experimental protocol
+The protocol was approved by the local ethics committee (#ID-RCB: 2014-A01752-45) andexperiments performed in accordance with the Declaration of Helsinki
+ Each patient signedan informed consent
+ The tests were performed during a scheduled surgery - a tendon transferto recover elbow extension - avoiding a dedicated surgery
+ Moreover the experimental timeslot was 30 min to let the anesthesia below 2 hours in total Thus, a unique nerve was intra-operatively tested on each patient
+ Median or radial nerve was chosen depending on the surgicalapproach
+ The protocol was composed of 2 sessions: the first one consisted in a functionalmapping of the targeted muscles groups namely thumb, fingers and wrist flexion/extensionthat leads to the inclusion of the patient
+ The second session consisted in the surgery itself
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    After the exposure of the nerve about 5 cm around the elbow, one cuff electrode was placedaround the targeted nerve and then gently sutured to avoid its displacement (section 6 of ())
+A 4 mm diameter, 2 cm length cuff electrode was used for radial nerves (3x3 contacts, CortecGmbH, Freiburg, Germany) and a 6 mm diameter, 2 cm length cuff electrode was used for me-dian nerves (3x4 contacts, Cortec GmbH, Freiburg, Germany, cf
+ figure )
+ The cuff electrodecontacts (
+79 x 
+79 mm2, 
+9 mm spacing between two longitudinal adjacent contacts) were1Giens classification is based on the number of remaining active muscles under the elbow in person withcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    Up to 3 pairs (bipolar recording) of sterile surface EMG electrodes were positioned on theforearm to capture group of muscles of interest (cf
+ table )
+ The EMG were amplified withGtec amplifier (ADinstrument, Austria) with the following settings: Amplification 1000, Lowpass 1KHz, High pass 
+5Hz, 50Hz notch filter
+ The analog signal was sampled with LabChart(16 bits, Sampling Frequency: 10kHz) synchronized with the stimulator and a video (LogitechHD Pro Webcam C920 Refresh) capturing hand movements/surgeons comments (cf
+ fig
+ )
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    The stimulator was co-developed by Axonic and the University of Montpellier based on thearchitecture described in ()
+ The stimulator was able to deliver up to 
+1 mA, 20 A step,0-511 s, 2 s step, 20 V compliance voltage
+ Moreover, the stimulator can distribute the cur-rent independently and in synchrony over the 12 contacts of the cuff electrode
+ The stimulatorfollows the essential requirements of safety concerning both the embedded software and hard-ware, with insulated interfaces
+ The waveform stimulation is rectangular, biphasic, asymmetric,charge balanced, and a delay between the cathodic and anodic phase allowing to decrease thequantity of charge needed without affecting considerably the selectivity of stimulation (24) isThe user can set the intensity (up to 
+4 mA), the pulse width (up to 600 s), the delay betweenthe cathodic and anodic phase (up to 2 ms), the frequency (up to 50 Hz) and the distributionTo assess the selectivity of our multi-contact cuff electrode, we selected up to 35 configurationsof stimulation (cf
+ tables 3 and 4) based on simulation studies (25) which showed that theyprovide a panel of shape of stimulation within the nerve that may fit the need for a selectiveDuring the surgical procedure, we first searched for the intensity threshold of activation usingthe classical ring configuration (configuration #1 in table 3 and #1bis in table )
+ Then an auto-matic scanning was programmed from approximately 80% to 250% of this threshold value
+ Thepulse width and the frequency were fixed (25 Hz, 250 s), the configurations and the intensitiescertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    were scanned every 2 seconds (1s ON-1s OFF) to avoid fatigue
+ The ring configuration wasscanned first and last to check the stability of the response during the whole trial During thescan the surgeon labelled the movements elicited and their quotation (on the MRC scale)
+ Acertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    Channel number 1 2 3 4 5 6 7 8 9 10 11 1 Ring 2 1 2 1 -3 -3 -3 -3 2 1 2 2 1 CathodeB1 2 Anodes, Rings 0 1 1 1 -12 3 0 3 0 1 1 3 1 CathodeB2 2 Anodes, Rings 1 0 1 1 3 -12 3 0 1 0 1 4 1 CathodeB3 2 Anodes, Rings 1 1 0 1 0 3 -12 3 1 1 0 5 1 CathodeB4 2 Anodes, Rings 1 1 1 0 3 0 3 -12 1 1 1 6 1 CathodeB1, Rings 1 2 1 2 -12 0 0 0 1 2 1 7 1 CathodeB2, Rings 2 1 2 1 0 -12 0 0 2 1 2 8 1 CathodeB3, Rings 1 2 1 2 0 0 -12 0 1 2 1 9 1 CathodeB4, Rings 2 1 2 1 0 0 0 -12 2 1 2 10 Longitudinal TripolarB1 6 0 0 0 -12 0 0 0 6 0 0 11 Longitudinal TripolarB2 0 6 0 0 0 -12 0 0 0 6 0 12 Longitudinal TripolarB3 0 0 6 0 0 0 -12 0 0 0 6 13 Longitudinal TripolarB4 0 0 0 6 0 0 0 -12 0 0 0 14 BipolarAC -3 -3 -3 -3 0 0 0 0 3 3 3 15 BipolarCA 3 3 3 3 0 0 0 0 -3 -3 -3 -16 BipolarBA 3 3 3 3 -3 -3 -3 -3 0 0 0 17 BipolarAB -3 -3 -3 -3 3 3 3 3 0 0 0 18 BipolarBC 0 0 0 0 -3 -3 -3 -3 3 3 3 19 BipolarCB 0 0 0 0 3 3 3 3 -3 -3 -3 -20 SteeringB1 0 1 1 1 -12 0 6 0 0 1 1 21 SteeringB2 1 0 1 1 0 -12 0 6 1 0 1 22 SteeringB3 1 1 0 1 6 0 -12 0 1 1 0 23 SteeringB4 1 1 1 0 0 6 0 -12 1 1 1 1 Ring 2 1 2 1 -3 -3 -3 -3 2 1 2 24 Transverse TripolarA1 -14 7 0 7 0 0 0 0 0 0 0 25 Transverse TripolarA2 7 -14 7 0 0 0 0 0 0 0 0 26 Transverse TripolarA3 0 7 -14 7 0 0 0 0 0 0 0 27 Transverse TripolarA4 0 0 0 -14 7 0 7 0 0 0 0 28 Transverse TripolarB1 0 0 0 0 -14 7 0 7 0 0 0 29 Transverse TripolarB2 0 0 0 0 7 -14 7 0 0 0 0 30 Transverse TripolarB3 0 0 0 0 0 7 -14 7 0 0 0 31 Transverse TripolarB4 0 0 0 0 7 0 7 -14 0 0 0 32 Transverse TripolarC1 0 0 0 0 0 0 0 0 -14 7 0 33 Transverse TripolarC2 0 0 0 0 0 0 0 0 7 -14 7 34 Transverse TripolarC3 0 0 0 0 0 0 0 0 0 7 -14 35 Transverse TripolarC4 0 0 0 0 0 0 0 0 7 0 7 -Table 3: Configurations of stimulation sent for the median nerve about 5 cm from the elbowcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    Channel number 1 2 3 4 5 6 7 8 1bis Ring 2 2 2 -4 -4 -4 2 2 2 bis 1 CathodeB1 2 Anodes, Rings 1 1 1 -12 3 3 1 1 3 bis 1 CathodeB2 2 Anodes, Rings 1 1 1 3 -12 3 1 1 4 bis 1 CathodeB3 2 Anodes, Rings 1 1 1 3 3 -12 1 1 6 bis 1 CathodeB1, Ring 2 2 2 -12 0 0 2 2 7 bis 1 CathodeB2, Ring Anode 2 2 2 0 -12 0 2 2 8 bis 1 CathodeB3, Ring Anode 2 2 2 0 0 -12 2 2 10 bis Longitudinal TripolarB1 6 0 0 -12 0 0 6 0 11 bis Longitudinal TripolarB2 0 6 0 0 -12 0 0 6 12 bis Longitudinal TripolarB3 0 0 6 0 0 -12 0 0 14 bis BipolarAC -4 -4 -4 0 0 0 4 4 17 bis BipolarAB -4 -4 -4 4 4 4 0 0 18 bis BipolarBC 0 0 0 -4 -4 -4 4 4 19 bis BipolarCB 0 0 0 4 4 4 -4 -4 -1 bis Ring 2 2 2 -4 -4 -4 2 2 24 bis Transverse TripolarA1 -14 7 7 0 0 0 0 0 25 bis Transverse TripolarA2 7 -14 7 0 0 0 0 0 26 bis Transverse TripolarA3 7 7 -14 0 0 0 0 0 28 bis Transverse TripolarB1 0 0 0 -14 7 7 0 0 29 bis Transverse TripolarB2 0 0 0 7 -14 7 0 0 30 bis Transverse TripolarB3 0 0 0 7 7 -14 0 0 32 bis Transverse TripolarC1 0 0 0 0 0 0 -14 7 33 bis Transverse TripolarC2 0 0 0 0 0 0 7 -14 34 bis Transverse TripolarC3 0 0 0 0 0 0 7 7 -Table 4: Configurations of stimulation sent for the radial nerve about 5 cm from the elbowcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    We studied the capacity of a 12-contacts nerve cuff electrode to selectively activate upper armmuscles
+ We have shown that it is possible to activate selectively, via current steering, closeand distinct muscles innervated by the same upper limb nerve in patients with tetraplegia
+ Noadverse effects were reported after the surgery
+ In particular, medial and radial nerve stimulationin six persons with tetraplegia allowed to selectively activate (muscular contraction scored at or more on the MRC scale), muscles allowing (cf
+ supplementary videos) a : for patient VI : fingers flexion, thumb flexion, thumb opposition (key and palmar gripsTables 5 and 6 synthesize observations reported by the surgeon during the intervention andA full nerve stimulation (Ring) allows to selectively recrut the wrist extensors in 3 of 4 patients
+2The MRC (Medical Research Council) scale allows to manually quantify the strength developed by eachmuscle
+ 0 corresponds to complete paralysis of the muscle, 1 to a minimal contraction, 2 to an active movementwithout gravity, 3 to a weak contraction against gravity, 4 to an active movement against gravity and resistance andcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    2 Thumb extension [3, 17, 18 bis] 188, 300, 300 3 Wrist extension [1, 6, 7, 10, 11, 12, 14, 17, 18 bis] 270, 150, 150, 180, 150, 540, 150, 150 +4 Thumb extension [2, 28*, 32, 33, 34 bis] 750, 1313, 963, 1663, 1094 +Wrist extension [1, 6, 7, 8, 10, 11, 12, 14, 17, 18, 24, 25*, 28, 33* bis] 525, 450, 525, 450, 525, 525, 525, 600, 525, 1094, 1313, 1838, 963 5 Elbow flexion [4, 28*, 34 bis] 488, 1444, 919 Wrist extension [1, 8, 12, 14, 17, 24 bis] 375, 525, 525, 525, 450, 1313 Supination [1, 2, 3, 6, 7, 11, 18, 19, 28, 29, 30, 32*, 34* bis] 375, 450, 525, 300, 300, 413, 413, 450, 656, 656, 1181, 919, 1313 Table 5: Visual observation of selective movements [elicited with configuration # in table ]when radial nerve was stimulated, robust configurations (#) are in bold
+ *Electrode turned at2 Thumb + Fingers extension [1, 3, 7, 17, 18, 33 bis] 300, 225, 150, 338, 338, 438 3, Thumb + Fingers + Wrist extension [1, 3, 7, 11, 14, 17, 18, 25, 33 bis] 375, 300, 188, 150, 225, 375, 375, 263, 525 4, 3, Supination + Wrist extension + elbow flexion [6 bis] 180 3, 3, 4 Wrist + Thumb + Fingers extension [1, 6, 10, 11, 12, 14, 17, 18, 24, 28*, 32, 34 bis] 675, 525, 675, 900, 750, 675, 825, 788, 2013, 1488, 1488, 1356 4, 4, Wrist + Thumb extension [2, 11, 12, 24, 28, 32, 33, 34] 825, 825, 675, 1838, 2013, 1225, 1838, 1225 3, Wrist + Fingers extension [1, 7, 8, 10, 14, 17, 18 bis] 675, 750, 600, 525, 600, 750, 600 5, 5 Wrist extension + elbow flexion [1, 12, 24*, 25, 28*, 29*, 34 bis] 525, 600, 1575, 919, 1575, 656, 1181 5, Wrist and Fingers extension + elbow flexion [10, 29* bis] 488, 1050 4, 3, Wrist and Fingers extension [8, 10, 17 bis] 600, 300, 563 4, Supination + Wrist extension [1, 11, 18, 19, 29, 30 bis] 413, 563, 488, 525, 1050, 1444 3, Supination + Wrist extension + elbow flexion [1, 6, 7, 19, 28, 29 bis] 525, 413, 413, 565, 919, 1313 3, 5, Supination + Wrist extension + elbow flexion + Fingers extension [6, 7, 28, 29 bis] 600, 525, 1181, 1575 3, 5, 5, Table 6: Visual observation of non-selective movements [elicited with configuration # in tableIt is possible to produce the same selective movement with different configurations of stimula-To examine the reproducibility of the results, we have repeated the Ring configuration ofstimulation twice (at the beginning and end of the stimulation protocol)
+ For 3 patients (P3, P,P5) on 4, we were able to activate one more muscles when the configuration was repeated atcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    the end of the scan and for 1 patient (P2) on 4, one less
+ In all cases, the MRC score decreasedsignificantly, highlighting a fast muscular fatigue
+ The fatigue was also seen on the EMG signalThe same configuration of stimulation repeated at a distance of 5 mm and 10 mm does notThe Transverse Tripolar configuration was repeated on each of the 12 contacts of the cuff elec-trode
+ For patient 4, a best selectivity was reached for the more distal ring (the one situated nearthe nerve bifurcation)
+ For patient 5, we activate different muscles when the stimulation wasWe consider a selective configuration as robust when an increase of 50% of the minimal inten-sity required to activate the muscle, does not affect the selectivity
+ For many configurations, asmall increase of intensity activated other muscles (low robustness)
+ Table 5 shows selective Patient 3: Ring; 1 CathodeB2 2 Anodes, Rings; 1 CathodeB2, Ring Anode; LongitudinalTripolarB2; Longitudinal TripolarB3; BipolarAC ; BipolarAB; BipolarBC 
+ For this patient,the Tripolar Transverse configurations were not launched because of the very high mus- Patient 5: 1 CathodeB1 2 Anodes, Rings; 1 CathodeB2 2 Anodes, Rings; 1 CathodeBcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    Tables 7 and 8 synthesize observations reported by the surgeon during the intervention andTable 7: Visual observation of selective movements [elicited with configuration # in table ]when median nerve was stimulated, robust configurations (#) are in boldA full nerve stimulation (Ring) allows to activate a wrist, fingers and thumb flexion in patient 
+It is possible to produce the same selective movement with different configurations of stimula-To examine the reproducibility of the results, we have repeated the Ring configuration ofstimulation twice (at the beginning and end of the stimulation protocol)
+ We obtain the sameThumb and Fingers flexion + thumb opposition [20, 28] 638, 1400 3, Wrist, Fingers and Thumb flexion [1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 21] 638 4, 3, Table 8: Visual observation of non-selective movements [elicited with configuration # in tablecertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    results for patient 6, yet with an MRC score decreased significantly, highlighting a fast fatigue
+The same configuration of stimulation repeated at 5 mm and 10 mm distance does notThe Transverse Tripolar configuration was repeated on each contact of the 12 contacts cuffelectrode
+ For patient 6, we recruited more muscles when we stimulated the nerve near theWe consider a selective configuration as robust when an increase of 50% of the minimal inten-sity required to activate the muscle does not affect the selectivity
+ For many configurations, asmall increase of intensity activated other muscles
+ Table 7 shows selective and robust configu-certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    Individuals with tetraplegia can decrease their use of human help and increase their functionalindependence thanks to neuroprostheses, particularly in activities of daily living requiring handmovements
+ Systems using muscular surface electrodes are bigger, require more energy to stim-ulate muscles and are less selective and reliable than systems using implanted electrodes
+ Cur-rently, there is no commercialized implanted neuroprosthesis available to restore hand move-ments in persons with tetraplegia
+ The functional improvement provided by the Freehandsystem was considerable and impossible to achieve by other means available
+ However, thissystem had shown several disadvantages (13, )
+ One can cite the numerous implantedmaterials lengthening the duration of the surgery and limiting drastically the possibility of bi-lateralization, essential to some activities of daily living
+ Human assistance needed daily forplacement of external components and poor ergonomic control mode were additional limits
+In this study, we have shown that it is possible, thanks to current steering allowed by a -contacts cuff electrode, to selectively activate, close and distinct muscles innervated by thesame upper limb nerve
+ Moreover, some of the superficial muscles were activated during thesecond step (implanted nerve stimulation) but were not during the first step (surface muscleIn the past, use of multipolar cuff electrodes, has selectively activated a single muscle, typicallythe first muscle to branch distal to the cuff location ()
+ In our study, the same pattern ofstimulation reproduced at 
+5 and 1 cm distant led to distinct muscle recruitment patterns
+ Thisallows us to support that upper limb axons are reorganized within the same fascicle even nearMuscular atrophy and spasticity (excessif muscle contraction) are often seen in patient with aCNS injury and have been seen in patients involved in the study
+ Moreover, the same patterncertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    reproduced at the beginning and the end of the scan showed a significant fatigue even thoughthe nerve was stimulated for only few minutes
+ For these two last points, we can expect a func-tional improvement over time, if a muscle reinforcement by surface electrical stimulation takesDuring a nerve electrical stimulation, motor neurons with larger diameter (e
+ g
+ those that in-nervate type IIb muscle fibers, fast and fatigable) are activated first, followed by activation ofsmaller diameter motor neurons
+ This recruitment property is the opposite of the physiologicalrecruitment order ()
+ Furthermore, the intensity of the stimulus produced by an electricalstimulation decreases with its distance from the source of stimulation
+ Therefore, the motorneurons closest to the electrode and of larger diameter are the most stimulated
+ Finally, con-trary to a voluntary contraction, an electrical stimulation (neural or neuromuscular) recruits themuscle fibers in the same order
+ There is no longer a rotation system (32) for fibers recruit-ment and so, induces early muscle fatigue
+ In this study, we have seen that it is possible toactivate the same muscles with different configurations of stimulation and so it would be possi-During our experiments, a weak space between the electrode and the nerve was present
+ We be-lieve that the diameter of the cuff electrodes must be able to fit the exact diameter of the nerve
+This, would optimally stimulate the nerve and allow ENG signals recording
+ These signalsmight be integrated into the neuroprosthesis and used as a closed-loop control
+This study showed that two electrodes placed around two upper limb nerves allow to restorehand and forearm movements in patients with tetraplegia
+ Possible ways to pilot this stimula-tion have been investigated in previous studies (33), which showed that sus-lesional muscles canbe used to pilot a surface electrical stimulation (unpublished data)
+ Based on functional spec-certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    ifications revealed in these studies, we have demonstrated that a fully implantable system forrestoring grip movements, with limited number of components could be developed
+ The techni-cal simplicity of our approach would allow a bi-lateralization of the system, essential for someactivities of daily living
+ Thus, a device using such a technology could, in combination withtransfer surgery, be materially less heavy than those that existed previously
+ It would reducethe time required for the surgical procedure, risks related to the surgery, implanted materialsand energy needed for its operation while increasing ergonomics
+ A balance between technicalcomplexity and ease of use would be found
+ As feasibility has been demonstrated, a chronicThe authors wish to thank the subjects involved into this research, MXM-Axonic/ANRT forsupport with the PhD grant (CIFRE # 2013/0867), Pawel Maciejasz, Chloe Picq, and Violaine
+ W
+ Tigra, et al, European journal of translational myology 26 ()
+ 
+ B
+ Lee, R
+ Cripps, M
+ Fitzharris, P
+ Wing, Spinal cord 52, 110 ()
+ 
+ Y
+ Chen, Y
+ He, M
+ J
+ DeVivo, Archives of physical medicine and rehabilitation 97, 
+ I
+ M
+ Estores, Journal of rehabilitation research and development 40, 93 ()
+ 
+ R
+ Hanson, M
+ Franklin, Archives of physical medicine and rehabilitation 57, 291 ()
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    
+ G
+ J
+ Snoek, J
+ Van Til, P
+ F
+ Krabbe, M
+ J
+ IJzerman, Spinal Cord 14, 228 ()
+ 
+ J
+ M
+ Brown, et al, Surg Neurol Int 2, 4103 ()
+ 
+ C
+ Long, V
+ Masciarelli, Arch
+ Phys
+ Med
+ Rehabil
+ 44, 449 ()
+ 
+ P
+ H
+ Peckham, J
+ T
+ Mortimer, E
+ B
+ Marsolais, Paraplegia 14, 115 ()
+ 
+ K
+ L
+ Kilgore, et al, Journal of rehabilitation research and development 40, 457 ()
+ 
+ W
+ D
+ Memberg, et al, Arch Phys Med Rehabil 95, 1201 ()
+ 
+ K
+ Polasek, H
+ Hoyen, M
+ Keith, D
+ Tyler, IEEE transactions on neural systems and re-habilitation engineering : a publication of the IEEE Engineering in Medicine and Biology
+ H
+ Polasek, K
+ H
+and Hoyen, M
+ Keith, R
+ Kirsch, D
+ Tyler, IEEE transactions on neuralsystems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine
+ H
+ Polasek, K
+ H
+and Hoyen, M
+ Keith, R
+ Kirsch, D
+ Tyler, IEEE Engineering in Medicine
+ S
+ S
+ Sunderland, Muscle & Nerve: Official Journal of the American Association of Elec-certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    
+ W
+ Tigra, et al, IEEE Transactions on Neural Systems and Rehabilitation Engineering
+ W
+ Tigra, Assistance a la prehension par stimulation electrique fonctionnelle chez la per-
+ D
+ Andreu, D
+ Guiraud, G
+ Souquet, Journal of neural engineering 6, 026001 ()
+ 
+ P
+ Maciejasz, et al, Medical & biological engineering & computing 53, 371 ()
+ 
+ O
+ Rossel, M
+ Dali, J
+ Laforet, M
+ Clerc, D
+ Guiraud, Journal of Neural Engineering ()
+ 
+ J
+ Hobby, P
+ Taylor, J
+ Esnouf, Journal of Hand Surgery (British and European Volume ,
+ P
+ H
+ Peckham, et al, Archives of physical medicine and rehabilitation 82, 1380 ()
+ 
+ P
+ Taylor, J
+ Esnouf, J
+ Hobby, Spinal Cord 39, 156 ()
+ 
+ P
+ Taylor, J
+ Esnouf, J
+ Hobby, Spinal Cord 40, 560 ()
+ 
+ K
+ H
+ Polasek, H
+ A
+ Hoyen, M
+ W
+ Keith, D
+ J
+ Tyler, IEEE transactions on neural systems
+ A
+ Nardone, C
+ Romano, M
+ Schieppati, The Journal of physiology 409, 451 ()
+ 
+ W
+ Tigra, C
+ A
+ Coste, C
+ Fattal, D
+ Guiraud, 2015 7th International IEEE/EMBS Confer-certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted February 1, 
+ ;    

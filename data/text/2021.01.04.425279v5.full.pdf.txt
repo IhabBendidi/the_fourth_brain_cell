@@ -1,0 +1,791 @@
+Richard Kanyo1,2, Md Ruhul Amin2, Laszlo F
+ Locskai1,2, Danika D
+ Bouvier 2, 4 Alexandria M
+ Olthuis2, W
+ Ted Allison1,2,3, and Declan W
+ Ali 2, * 5 1 Centre for Prions & Protein Folding Disease, University of Alberta, Edmonton AB, T6G 2M8 8 2 Department of Biological Sciences, University of Alberta, Edmonton AB, T6G 2E9 9 3 Department of Medical Genetics, University of Alberta, Edmonton AB, T6G 2H7, Canada 10 * Author for correspondence (phone: (780) 492-6094; fax: (780) 492-9234; email: 23 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    In the light of legislative changes and the widespread use of cannabis as a recreational and 26 medicinal drug, delayed effects of cannabis upon brief exposure during embryonic development 27 are of high interest as early pregnancies often go undetected
+ Here, zebrafish embryos were 28 exposed to cannabidiol (CBD) and -9-tetrahydrocannabinol l (THC) until the end of 29 gastrulation (1-10 hours post-fertilization) and analyzed later in development (4-5 days post-30 fertilization)
+ In order to measure neural activity, we implemented CaMPARI (Calcium-31 Modulated Photoactivatable Ratiometric Integrator) and optimized the protocol for a 96-well 32 format complemented by locomotor analysis
+ Our results revealed that neural activity was 33 decreased by CBD more than THC
+ At higher doses, both cannabinoids could dramatically 34 reduce neural activity and locomotor activity
+ Interestingly, the decrease was more pronounced 35 when CBD and THC were combined
+ At the receptor level, CBD-mediated reduction of 36 locomotor activity was partially prevented using cannabinoid type 1 and 2 receptor inhibitors
+ 37 Overall, we report that CBD toxicity occurs via two cannabinoid receptors and is synergistically 38 enhanced by THC exposure to negatively impact neural activity late in larval development
+ 39 Future studies are warranted to reveal other cannabinoids and receptors involved in this pathway 40 to understand the subsequent health implications of cannabis consumption on fetal development
+ 41 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    Cannabis is consumed most commonly as a recreational drug that is often portrayed as 47 harmless, yet the health implications are not fully understood
+ The positive association of this 48 drug in the public eye is not a surprise considering extracts of the Cannabis sativa plant have 49 been used for medical purposes for almost 5000 years, especially for pain treatment
+ However, 50 scientific knowledge is limited and despite controversy, some countries, more recently Canada, 51 continue to legalize cannabis for recreational use
+ Cannabis has been reported to be one of the 52 most illicitly used drugs during pregnancy, with increase in consumption over the years, and key 53 compounds, -9-tetrahydrocannabinol (THC) and cannabidiol (CBD), can readily cross the 54 placenta-
+ We were especially interested in CBD due to the reported health benefits and 55 availability in many natural products including oils and food
+ In the past, the negative impacts 56 of cannabis in connection to embryonic development have been principally associated with the 57 psychoactive THC
+ In humans, epidemiological and clinical studies associate maternal 58 cannabis exposure to behavioural disturbances in the offspring linked to increased risk for 59 neuropsychiatric disorders
+ In rats, maternal exposure of THC changed a series of behaviours 60 in the offspring, including water-induced grooming, increased light sensitivity and altered 61 exploratory behaviour
+ Recently, the negative impacts of cannabis have expanded and also 62 include the non-psychotropic CBD, which disrupts motor-neuron development in zebrafish
+ 63 This study is in contrast to reports that suggest positive health benefits of CBD, by treating 64 The mechanistic pathway(s) by which THC and CBD are toxic are elusive
+ A new study 66 linked these two cannabinoids to the sonic hedgehog signaling pathway in mice and zebrafish, 67 and appears to involve cannabinoid type 1 receptor (CBR)
+ It is well established that THC 68 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    binds and activates as a partial agonist two distinct classes of G-coupled protein receptors, CB1R 69 and CBR
+ Both receptors are highly expressed in neuronal tissue where CB1R is localized 70 mostly in the CNS18-20 and CB2R in the peripheral nervous system21, although CB2R has been 71 also linked to the CNS-
+ CBD has been reported to interact with CB1R and CB2R, but with a 72 lower affinity relative to THC, and rather antagonizes cannabinoid-induced effects indirectly 73 through other receptors-
+ Additional data to illuminate signaling pathways of THC and CBD 74 Experiments are economical because many embryos are available, and exposure studies are 77 simple as compounds can be easily added and removed
+ Further, embryos develop outside the 78 female and therefore not confounded by maternal physiology and variable transport to fetus
+ 79 Translucent larvae provide opportunities to implement cutting-edge fluorescing calcium sensors 80 and measure neural activity
+ Past studies suggest that the endocannabinoid system plays a role in 81 zebrafish development-
+ In addition, both cannabinoid receptors investigated here have 82 similar expression profiles in the CNS compared to mammals, with CB1R sharing a 70 % protein 83 sequence identity with the human homolog
+ Therefore, the zebrafish is an excellent model 84 organism to further illuminate biological mechanisms
+ Considering the anticipated effects of 85 THC and CBD, high-throughput quantification of neural activity following early exposures 86 would be of great interest
+ In this study, the calcium modulated photoactivatable ratiometric 87 photoconversion (PC) to a red fluorescing protein only in the presence of intense 405 nm light 89 and high Ca2+ levels
+ This conversion is irreversible, thus creating a temporal snapshot in a form 90 of a ratiometric red/green output
+ CaMPARI is expressed exclusively in neuronal tissue due to a 91 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    pan-neural promoter (elavl3, a
+ k
+ a
+ HuC) and is a direct read-out of relative neural activity
+ 92 Initially, this innovation was not suitable for a screening tool as the photoconversion was not 93 efficient enough
+ Thus, we have optimized the use of CaMPARI, such that the photoconversion 94 is more efficient and practical for high throughput well-plate-formats
+ This allows our novel in 95 vivo assay to measure neural activity and potentially screen large libraries of compounds
+ Our 96 results were supplemented with a behavioral assay obtained from the same larvae, which offers 97 an independent proxy measure that is related to neural activity
+  98 Here, we investigated the effects of the two most abundant cannabinoids found in the 99 plant, THC and CBD, on neural activity and characterized CB1R and CB2R in vivo on the CBD 100 effects in zebrafish
+ The effects of early THC and CBD exposure from immediately after egg 101 fertilization until the end of gastrulation, at 10 hour post-fertilization (hpf), were monitored later 102 in embryonic development, at 4 and 5 days post-fertilization (dpf)
+ The concentrations used in 103 this study mimic plasma levels of human subjects with high cannabis consumption35-37, but we 104 do have to consider that the molecules have to pass from the waterbath through the chorion into 105 the plasma of the zebrafish embryo
+ THC and CBD were studied individually and then together 106 to understand the impact of individual compounds by themselves and to partially mimic the 107 cannabis available for recreational purposes
+ Further, we characterized the cannabinoid receptors 108 involved using established receptor inhibitors for CB1R and CBR
+ This was important, because 109 with many receptors being linked to cannabinoids in vitro, additional functional in vivo evidence 110 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    High-throughput assessment of CaMPARI is a reliable metric of neural activity
+ 115 In this study the objective was to gain insight in the effects of THC and CBD on neural 116 activity during early embryonic development
+ We measured neural activity with CaMPARI
+ 117 CaMPARI photoconverts irreversibly from a green to a red fluorescing protein only if user-118 applied 405 nm light application coincides with high calcium levels (Fig
+ a)
+ Red and green 119 fluorescing CaMPARI are quantified as ratio (referred here as CaMPARI activity")
+ We 120 expressed CaMPARI through a pan-neural promoter, elavl3 exclusively in the CNS and thus as a 121 read-out of neural activity (Fig
+ b)
+ Here, we optimized the use of CaMPARI zebrafish for an 122 most suitable for this platform at 4 dpf, which is a suitable balance of fluorescing intensity and a 124 CaMPARI activity was quantified and displayed as a heatmap consisting of the red/green 126 ratio in fluorescing intensities
+ At 4 dpf, optic tectum and hindbrain regions of larvae showed a 127 clear measureable output, whereas without photoconversion CaMPARI activity was nearly zero
+ 128 To establish a baseline of near-zero neural activity, larvae were anesthetized with MS-222, and a 129 significant reduction (p<
+01) in red/green ratio was obtained compared to freely swimming 130 larvae
+ In contrast, drug-induced neural activity,  with the established convulsants 131 pentylenetetrazole (PTZ) or 4-aminopyridine (4-AP), showed a consistent increase in CaMPARI 132 activity, even at concentrations considered to be minimal when inducing seizure (Fig
+ d,e)
+  133 We benchmarked our CaMPARI outputs against locomotor activity of zebrafish larvae, 134 which is an established metric of neural activity
+  We chose 5 dpf as an optimal developmental 135 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    timepoint for analyzing locomotor activity, because younger larvae are largely inactive
+ Larvae 136 were left in the same 96-well plate for assessing CaMPARI and locomotion
+ Exposing larvae to 137 photoconversion with LED light the day before had no impact on the mean locomotor activity 138 (Fig
+ f)
+ Larvae anesthetized with MS-222 did not display any detectable swimbouts (Fig
+ f)
+ 139 The level of neural activity correlated with locomotor activity and will be presented later
+ 140 Overall, these results show that CaMPARI, deployed in zebrafish larvae is a reliable high-141 We sought to assess how embryonic exposure to cannabinoids impacts upon subsequent 145 neural activity later in development
+ Here, the doses of CBD and THC aligned with our previous 146 work13, reflecting high cannabis consumption in humans
+ Comparisons of our dosage to humans 147 requires various considerations: (i) blood plasma concentrations of THC can peak up to 
+25 148 mg/l while smoking a single cigarette35; (ii) the content of THC has increased in the past 20 149 years; and (iii) doses of intraperitoneally administered medical CBD can vary greatly, from 5-150 100 mg/kg, and daily maximum of 1500 mg/kg,
+ The current study uses up to 6 g/mL of 151 THC and 3 g/mL of CBD
+ Absorption studies using Liquid Chromatography-Tandem Mass 152 Spectrometry suggest that typically an estimated 
+1-10 % of toxic compounds will pass through 153 We wanted to gain insight into the effects of CBD and THC separately (Fig
+ 2a), and 155 therefore each was applied in a dose-response format
+ This validation was necessary as 156 CaMPARI has not been used in studying cannabinoids
+ Compounds were added to the bath early 157 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    in animal development at (
+5 hpf) and then washed out towards the end of gastrulation (10 hpf)
+ 158 CaMPARI was imaged at 4 dpf and locomotor activity was assessed at 5 dpf (Fig
+ b)
+ Animals 159 that were exposed to CBD at concentrations of 2 g/ml and 3 g/ml exhibited a dose-dependent 160 reduction in CaMPARI activity (Fig
+ c,d)
+ These reductions in CaMPARI output are substantial 161 when compared against the ~50 % reduction we observed in anesthetized larvae, where little 162 neural activity is expected
+ Coordinated with this, locomotion was also reduced starting at 
+5 163 g/ml and was significant (p<
+01) at 3 g/ml (Fig
+ e)
+ THC had a similar effect as CBD and 164 also reduced neural activity at higher doses, 4 g/ml and 6 g/ml, (Fig
+ f,g)
+ Locomotor activity 165 exhibited a more extensive reduction at 6 g/ml (Fig
+ h)
+ We compared neural activity and 166 locomotion in the same individuals exposed to effective doses of cannabinoids and found 167 significant correlations (Fig
+ S2; CBD r=
+52 (p<
+01) and THC r=
+71 (p<
+ ))
+ Indeed, most 168 larvae, that displayed reduced neural activity also showed reduced locomotion
+ Together, our 169 findings show that both CBD and THC reduced neural activity when exposed early in 170  Antagonistic effects of CBD on neural activity is enhanced when combined with sub-173 effective doses of THC
+ Cannabis consumption during pregnancy exposes the fetus to THC and 174 CBD in concert
+ In order to investigate whether CBD and THC have a combined effect that is 175 different from either compound on its own, neural activity was measured when larvae were 176 exposed to both cannabinoids, using the same timeline as the previous experiment (Fig
+ b)
+ 177 First, various sub-effective doses of CBD were applied from 
+5 to 
+5 g/ml in the presence of 2 178 g/ml THC (identified as sub-effective in Fig
+ )
+ Preliminary dosage attempts revealed small, 179 but significant differences with p<
+01 and p<
+05, respectively, on neural activity when 180 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    combining 
+5 or 
+5 g/ml CBD with 
+0 g/ml THC (Fig
+ Sa,b)
+ Locomotor activity also 181 trended towards a dose-dependent reduction during concerted application of CBD and THC and 182 was significant at 
+5 g/ml with p<
+01 (Fig
+ Sc)
+ Next, CBD and THC were added in a 1:1 183 ratio mixture at 
+0 and 
+0 g/ml each
+ An enhanced antagonistic effect was revealed on neural 184 activity when both CBD and THC were added at 
+0 g/ml
+ CBD by itself at 
+0 g/ml 185 significantly (p<
+05) reduced neural activity (Fig
+ 3d,e) consistent with results in Fig
+ 2d, but 186 CBD and THC together, further (p<
+01) reduced neural activity compared to CBD or THC 187 alone (Fig
+ d,e)
+ The combined effects of CBD and THC seemed synergistic in that CBD by 188 itself at 
+0 g/ml, although significant, had a relative small effect and THC by itself at 
+0 189 g/ml had no effect
+ However, when CBD and THC at the same concentration were combined 190 neural activity was reduced close to the mean of MS-222 anesthetized samples suggesting no to 191 very little real neural activity
+ Locomotor activity was mainly affected by CBD with no 192 additional reduction when compared to CBD and THC combined (Fig
+ f)
+ No significant effect 193 on neural activity or locomotor activity was obtained when 
+0 g/ml of CBD and THC was 194 applied (Fig
+ a-c)
+ Due to the effect on locomotion, we also wanted to assess the integrity of 195 neurons in connection to motor axons
+ Reticulospinal neurons in the hindbrain were stained with 196 RMO44 antibody targeting NEFM, an established marker for neuronal damage,
+ Indeed, 197 RMO44 immunostaining was further reduced when CBD and THC were combined at 
+0 g/ml 198 suggesting that both CBD and THC affect neuronal health (Fig
+ S)
+ Together, these results 199 suggest that CBD and THC are more potent in reducing neural activity when applied in 200 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;     CB1R and CB2R are both required for CBD-induced reduction of locomotor 203 activity
+ Some reports suggest that CBD mediates its actions through CB1- and CB2- 204 receptors
+ To test whether these two receptors are involved in the neuronal toxicity mediated by 205 CBD in vivo, we deployed corresponding receptor inverse agonist AM251 and antagonist 206 AM
+ This pharmacological approach allowed the temporal specificity required for our 207 experimental design
+ Both inhibitors appear to act with good specificity in zebrafish
+ Previous 208 works support the specificity of CB1R and CB2R inhibitors used in this study,
+ In connection 209 to CB2R, a recent study has shown that CB2 receptors are required for the action of AM630 on 210 zebrafish behaviour
+ The impact AM630 had on wildtype larvae was not detectable when applied 211 to cnr2-/- mutant larvae, supporting drug specificity
+ Moreover, AM630 treated zebrafish showed 212 very similar photo-dependent response compared to the CB2 knockout
+ Similar in regards to 213 CB1R, because knocking out CB1R and inhibiting CB1R with AM251 caused a similar response 214 
+ All three metrics measured (acclimatization, dark-adaption and recovery) for locomotion 216 displayed arguably the same rescue-pattern in cnr1-/- mutant and AM251 treated larvae
+ 217 Further, both inhibtors were used at nanomolar range in our study, which is considered modest 218 and ensuring a level of specificity towards their respective receptors (AM251, IC50= 8 nM 219 towards CB1R; AM630, IC50= 
+2 nM towards CBR)
+ As described previously, the 220 experimental timeline is as depicted in figure 2b with CBD being added immediately after 221 AM251 and AM
+ When analyzing CaMPARI activity, our results revealed that the CBD-222 mediated reduction in neural activity could not be completely prevented with concentrations 223 from 
+1 to 10 nM AM251 or AM630 in the presence of 3 g/ml of CBD (Fig
+ a-d)
+  In 224 contrast, CBD-mediated reduction of locomotor activity was prevented with a concentration of 225 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    AM251 as low as 1 nM (Fig
+ 4e) or with 10 nM of AM630 (Fig
+ f)
+ In the absence of CBD, 226 when using the maximum dose (10 nM) of AM251 or AM630, neither inhibitor had an effect 227 (Fig
+ g,h)
+ This finding excludes the possibility that the effects of AM251 or AM630 on 228 locomotion were independent of CBD and rather specific towards CB1R and CB2R, 229 respectively
+ Overall, this suggests a role for both CB1R and CB2R receptors in CBD-mediated 230 effects on locomotor activity
+ In sum, inhibiting CB1R and CB2R can ameliorate the negative 231 impacts of early CBD on late CNS function, at least with respect to locomotion
+ 232 In some jurisdictions, including Canada, cannabis has been legalized despite the lack of 235 mechanistic understanding and health implications
+ Cannabis consumption has increased in the 236 past decade46,47 and reports emerged associating prenatal cannabis consumption with stillbirths 237 and autism spectrum disorder, a neurodevelopmental syndrome,
+ Yet, cannabis and CBD oil 238 have been used by consumers to treat labor pain
+ In animal models, such as rats and chicken, 239 cannabis has been shown to have detrimental effects on developing embryos10, 
+ Intriguingly, 240 more recently, new evidence revealed that exposure to not only the more widely studied THC, 241 but also CBD, during gastrulation impacts the overall development in zebrafish
+ Interestingly, 242 the effect of the two key cannabinoids, CBD and THC, were delayed, and observed much later in 243 In vitro, CBD and THC can function through CB1R and CB2R, which are expressed in 245 neuronal tissue-
+ Our goal was to specifically investigate the effects of CBD, how it might 246 interact with the more widely studied THC during early development and characterize the impact 247 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    on neural activity in vivo on a mechanistic level
+ For our study, we implemented CaMPARI 248 transgenic zebrafish as a read-out of neural activity and supplemented this approach by 249 measuring the locomotor activity of the same larvae
+ CaMPARI has proven to be a simple and 250 economical neural integrator that can be optimized in a well-format using our animal model
+  We 251 found that neural activity was reduced later in zebrafish development upon brief exposure of not 252 only THC, but also CBD early in development
+ Surprisingly, CBD had similar impacts on neural 253 activity at lower concentrations compared to THC
+ Notably, the impact of CBD was increased by 254 sub-effective doses of THC
+ Our data quantifying locomotion, suggested that the CBD-mediated 255 We optimized CaMPARI such that this innovation can be used for large number of 257 samples to screen compounds in future studies
+ Zebrafish larvae can be deployed in a 96-well 258 set-up quantifying locomotion,-
+ Nevertheless, locomotor activity is not a direct 259 measurement of neural activity
+ Calcium sensors, such as the GCaMP series57,58, the more 260 recently introduced GECO59,60, and CaMPARI, are more accurate
+ CaMPARI provides a 261 temporal-snapshot of neural activity in the freely swimming animal, which can be anesthetized 262 and imaged after the experiment
+ Furthermore, the ratiometric red/green signals are imaged 263 together and mitigate inter-individual differences in expression levels or focal plane
+ We 264 optimized conditions for a well-plate set-up analyzing neural activity in the optic tectum and 265 hindbrain
+ Unfortunately, less defined areas or specific neurons could not be quantified
+ Effects 266 on motor axons will be detected by our behavioural assay
+ In general, there seems to be a good 267 correlation between neural activity measured by CaMPARI and locomotor activity,
+ However, 268 some findings may be more sensitive towards one assay vs the other, as described above
+ 269 Furthermore, when interpreting our data as neural activity, it is important to consider that when 270 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    anesthetized a clear red to green CaMPARI ratio can be still measured
+ This is unlikely due to 271 autofluoresence because larvae that were not photoconverted yielded zero CaMPARI activity
+ 272 We cannot exclude the possibility that due to longer photoconversion some CaMPARI has 273 converted into the red fluorescence version even when anesthetized
+ It is well established that 274 when anesthetized with MS-222, neurons are barely active,
+ Indeed, our behavioural assay 275 shows no locomotion in the presence of MS-222 and we used this assay as a supplement in this 276 study
+ We believe this method is a suitable technique to measure substantial changes in neural 277 activity in the larger parts of the zebrafish CNS
+ For future studies in connection to epilepsy this 278 innovation may be particularly helpful as some studies use convulstants, PTZ or 4-AP, to 279 simulate seizure,
+ We found that both, PTZ and 4-AP, induce CaMPARI activity
+ Considering 280 the advantages, this method outweighs its limitation and could serve for future studies, especially 281 We have considered several competing technologies prior to designing this study, in 283 hopes that we can build upon and complement these potent approaches
+ Other than behavioural 284 assays described above, the GCaMP series has been of interest,
+ However, the larvae have to 285 be analyzed with high-resolution live microscopy during the experiment and movement of the 286 larvae would add considerable variability
+ The assays would be data-intensive and technically 287 challenging, where large sample sizes and different experimental groups are difficult to obtain 288 (especially in vivo)
+ Additionally, we were still interested in measuring outputs from freely 289 behaving animals as constraining them for imaging likely impacts the results and is time-290 consuming
+ Other widely used markers for neural activity include the immediate-early gene c-fos 291 and phosphorylation of ERK,
+ However, CaMPARI is more temporal specific due to 292 immediate photoconversion
+ In addition, both markers are not only less tissue specific, but also 293 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    respond to stress and other factors
+ The elavl3 promoter that drives CaMPARI ensures CNS-294 specific expression
+ Overall, CaMPARI is a practical direct output of neural activity and thus the 295 Both CBD and THC have been implicated in embryonic development including abnormal 297 changes to neurons
+ Delayed abnormalities after early exposure of key cannabinoids have only 298 recently been investigated
+ Here, early exposure of CBD and THC during the first 10 hours of 299 embryonic development reduced neural activity when measured 4 days later, in a dose-dependent 300 manner
+ These later effects may be due to abnormal neurodevelopment and/or the slow release of 301 the cannabinoids from the tissue due to their lipophilic nature
+ Consistent with this finding, 302 zebrafish larvae with a similar exposure (5-10 hpf) to cannabinoids have shown effects that could 303 be due abnormal development (at 5 dpf)
+ This was not exclusive to neurons, but included other 304 changes such as morphological abnormalities, decreased survival rate, decreased mEPCs activity 305 (may relate to muscle development), decreased heart rate and delayed hatching
+ Considering 306 the specific time-window of exposure (first 10 hours in development), an abrupt effect on the 307 developmental program including neurons seems plausible
+ Interestingly, CBD seemed to impact 308 neural activity at a lower concentration than THC, which also aligns with our previous study
+ It 309 is important to acknowledge that CBD consumption has been documented to help with seizures 310 and cancer by reducing pain,
+ Nevertheless, our study suggests caution during pregnancies
+   311 Considering that cannabis contains large proportions of both CBD and THC, we looked 312 at the effects of these two compounds in combination and found a more potent effect in 313 decreasing neural activity
+ Reticulospinal neurons in the hindbrain of the zebrafish control motor 314 neurons during swimming,
+ In line with a reduction in locomotion, we observed reduced 315 staining when exposed to both cannabinoids, suggesting that the reticulospinal neuronal integrity 316 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    was compromised
+ However, this finding did not explain why locomotor activity was mainly 317 influenced by CBD
+ This could be due in part that CBD has a greater effect at lower 318 concentration than THC
+ The effect of CBD may be amplified by effecting motor neurons and 319 potentially muscle development
+ Overall, these findings were surprising, because CBD was 320 found to negate the effects of THC on CBR
+ One possibility is that at higher concentrations 321 both, CBD and THC, affect the developmental program
+ This could explain the abnormal 322 morphologies reported previously
+ We have observed similar morphologies using higher 323 concentrations of CBD and/or THC
+ Thus, it is of no surprise that abnormal morphologies 324 impacted neural activity and locomotion
+ Nevertheless, because at 2 g/mL we found a 325 significant reduction in neural activity, but no morphological change was observed previously at 326 that concentration13, it is unlikely that neural activity is affected by morphological changes alone
+ 327 In short, we believe that although in physiological range, high concentrations of CBD and THC 328 during embryonic development disrupt proper growth and neuron function with similar 329 consequences and thus the effects of CBD and THC are same
+ This could result in overriding the 330 negating effects of CBD
+ In contrast, at lower concentrations and in fully developed brains the 331 impact of CBD and THC is different
+ Indeed, several receptors have been shown to have 332 different affinities to THC and CBD
+ A second possibility, therefore, is that at high 333 concentration CBD and THC affect receptors other than CB1R and CBR
+  This could explain 334 why inhibiting CB1R and CB2R did not fully prevent CBD-mediated reduction of neural 335 At this stage, it is unclear what mechanism(s) account for the reduction in neural activity 337 later in development when embryos are exposed briefly to CBD and THC in the first hours after 338 fertilization
+  In this study, we were especially interested in the less widely studied CBD
+ Using 339 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    HEK cells several receptor candidates have been identified showing to interact with CBD
+ A 340 recent study supports a functional role of CB1R and CB2R in zebrafish
+ Here, by inhibiting 341 CB1R, and CB2R, we found that the reduction in locomotor activity mediated by CBD was 342 partially prevented at nanomolar concentrations of the inhibitors
+ This suggests that, 343 mechanistically, CBD acts through both receptors
+ Previous studies have implied that CBD may 344 bind to both CB1R and CB2R in vitro25 and our study is in support that these interactions may be 345 important in vivo
+ In line with our findings, CBD has been shown to cause abnormal craniofacial 346 and brain development in mice and zebrafish, which seems to be mediated through CB1R and 347 the hedgehog signaling pathway
+ Whether CB2R can mediate its effects through the same 348 pathway remains to be determined
+ An explanation to why inhibiting CB1R and CB2R did 349 prevent the maximum effect of CBD, which is delayed, could relate to the fact that the CB1R 350 and CB2R are expressed very early in development and found on stem cell progenitor cells
+ As 351 mentioned above, an early effect may impact the developmental program such that changes 352 persist until later, even if cannabinoids are no longer present in the circulation
+ Such changes 353 may not be specific to the CNS as CB receptors are not only expressed in neuronal progenitor 354 cells, but in stem cells forming other types of tissues
+ This could explain our previous findings 355 where CBD affected heart-rate and overall morphology after 5 dpf when exposed only briefly 356 during gastrulation
+ The CBD-mediated reduction in neural activity was not prevented when 357 either CB1 or CB2Rs were inhibited
+ While the reason for this is unclear, it could relate that the 358 effects of CBD are larger outside the optic tectum and the hindbrain, thus more visible when 359 quantifying locomotion
+ As described above, our CaMPARI assay in well-format is not suitable 360 to resolve motor axons in detail, which have been shown to be affected previously
+ It is also 361 possible that other receptors such as TRPV1 are involved26, but this needs further investigation
+ 362 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    Overall, both CBD and THC exposure during embryonic stages had a negative impact on 363 later neural activity, which was additive when combined
+ Together, this could mean that the 364 impact of cannabis on early development is higher than using isolated compounds and profound
+ 365 Our findings also support an in vivo mechanism of CBD functioning through CB1R and CBR
+ 366 We believe this study opens up a new path for investigating detailed mechanisms, including 367 other receptors, in specific neurons that are affected by cannabinoid toxicity early in 368 development and persist
+ The accumulating evidence for prenatal cannabis consumption having 369 negative consequences on neurodevelopmental disorders in the offspring3 has to be considered
+ 370 As the recreational use is becoming legalized and socially acceptable, more studies are warranted 371 to not only fully understand the impact on human development, but also the mechanisms of the 372 Zebrafish maintenance was approved by the Animal Care & Use Committee: Biosciences 377 at the University of Alberta and operated under the guidelines of the Canadian Council of 378 Animal Care
+ The fish were maintained in the University of Alberta fish facility at 28C under a 379 14/10 light/dark cycle as previously described71 and all authors complied with ARRIVE (Animal 380 CaMPARI transgenic zebrafish were outcrossed with Casper strains not carrying the 382 transgene
+ For experimental set up, embryos were randomly collected and placed in egg water 383 (60 g/ml Instant Ocean) in groups of 20 embryos as early as practically possible within 
+5 hpf
+ 384 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    Stock solutions of CBD and THC were obtained from Sigma at 1 mg/ml dissolved in methanol
+ 385 Receptor inhibitors AM251 (Selleck Chemicals, Houston, TX, USA) and AM630 (Adooq 386 Bioscience, Irvine, CA, USA) were dissolved in DMSO
+ Accordingly, zebrafish embryos were 387 treated with vehicle or compounds as close to 1 hpf as practically possible and removed towards 388 the end of gastrulation (10 hpf)
+ Within experiments all treatments contained the same amount of 389 methanol or DMSO, specific percentages are indicated in the figure legends
+ Compounds were 390 removed with several washes and egg water was replaced every day until CaMPARI analysis
+ 391 Not all larvae carried the transgene and were screened for green fluorescence
+ An increase in 392 mortality and abnormal morphology was observed when treated with higher doses of CBD or 393 line were generated as described previously,
+ We re-derived CaMPARI fish in response to a 398 4 dpf were placed in a 96-well plate containing 150 l egg water (made as previously decribed71)  403 and acclimatized for 2 h
+ The central 48 wells of the plate were exposed to 405 nm LED array 404 (Loctite) for 300 sec at a distance of 10 cm
+ LED array illuminated the plates entirely and evenly
+ 405 The plates were floating in water at room temperature to ensure that the larvae did not overheat
+ 406 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    For imaging, the larvae were anesthetized in 
+24 mg/mL tricaine methanesulfonate (MS-222, 407 Sigma) following photoconversion
+ MS-222 was washed out and zebrafish were rested for a day 408 The ratio of red to green fluorescent emissions (red photoconverted CaMPARI in ratio to 412 green CAMPARI) was interpreted as relative neural activity, as previously defined
+ Images 413 were objectively obtained with an InCell 2000 microscope (GE Healthcare, US)
+ 96-well plates 414 were run using FITC (1 second exposure) and dsRed (2 second exposure) channels
+ Blinded 415 experimentalists used ImageJ to quantify the fluorescence mean of the red (dsRed) and green 416 (FITC) channels
+ The area of the optic and hindbrain area were quantified as those regions were 417 most consistent in the view
+ A mask was applied to exclude noise outside of the CNS
+  418 The same zebrafish larvae being placed in the 96-well plate the day prior for CaMPARI 421 analysis were objectively quantified for locomotion using Basler GenICaM (Basler acA 1300-422 60) scanning camera (75-mm f
+8 C-mount lens) and EthoVision XT-
+5 software by Noldus 423 (Wageningen, Netherlands) as described previously
+ Briefly, larvae were  acclimatized for 3 h 424 and one hour of movement was recorded from each individual larvae in each well
+ Beneath the 425 plate an infrared backlight source was located and the scanning camera above
+ Activity was 426 defined here as % pixel change within well between frames (recordings were at 25 frames per 427 second) and quantified with EthoVision XT-
+5 software
+ This set-up allowed to see whether 428 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    there is a correlation between level of neural activity and the the mean activity % within a 429 swimbout (swimbout size)
+ Swimbout size was shown to increase in response to the convulsant 430 PTZ previously52 and here it can be a useful marker for neural activity
+ Transparent Casper strain 431 zebrafish75 were unable to be tracked as ususal with Noldus
+ Therefore, quantification of 432 swimbouts provided an additional advantage
+ Clear movement was detected above the noise 433 treshold due to movement of the pigmented eyes
+ Although the % swimbout is small, reliable 434 measurements were obtained
+ Only clear swimbouts were quantified, which were set above a 435 treshold of 
+1 % of activity
+ Figure 1f shows that measuring the mean activity of a swimbout is 436 a useful tool in obtaining output that is clearly diminished in presence of MS-
+ In addition, 437 the output also shows sensitivity in freely swimming larvae
+  438 The zebrafish used in this experiment were of the Tuebingen Longfin strain
+ Set-up was 441 similar as described above
+ Following the experiment, larvae were stained with anti-RMO44 442 (Thermo Fisher Scientific, Waltham, MA, USA) and imaged using a Zeiss LSM 710 confocal 443 GraphPad Prism Software (Version 7, GraphPad, San Diego, CA) was used to analyze statistics 447 from data obtained from our CaMPARI assay or tracking locomotor activity
+ All the data were 448 presented as mean SEM (standard error of the mean)
+ Statistical significance of p<
+05 was 449 determined using a non-parametric t-test between two groups followed by a Mann-Whitney 450 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    analysis, if approriate
+ Multiple groups were compared using One-Way ANOVA with Dunnett's 451 multiple comparisons test
+ Pearson r from correlation analysis was also determined where 452 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    
+ Degenhardt L, Chiu W-T, Sampson N, Kessler RC, Anthony JC, Angermeyer M, et al 496 Toward a global view of alcohol, tobacco, cannabis, and cocaine use: findings from the 497 
+ Winek CL
+ Some historical aspects of marijuana
+ Clin Toxicol
+ ;:
+ 500 
+ Brard A
+ The importance of generating more data on cannabis use in pregnancy
+ Nat Med
+ 502 
+ Fergusson DM, Horwood LJ, Northstone K, ALSPAC Study Team
+ Avon Longitudinal 505 Study of Pregnancy and Childhood
+ Maternal use of cannabis and pregnancy outcome
+ 506 
+ Gmez M, Hernndez M, Johansson B, de Miguel R, Ramos JA, Fernndez-Ruiz J
+ Prenatal 509 cannabinoid and gene expression for neural adhesion molecule L1 in the fetal rat brain
+ Brain 510 
+ Hutchings DE, Martin BR, Gamagaris Z, Miller N, Fico T
+ Plasma concentrations of delta-9-513 tetrahydrocannabinol in dams and fetuses following acute or multiple prenatal dosing in rats
+ 514 
+ Young-Wolff KC, Tucker L-Y, Alexeeff S, Armstrong MA, Conway A, Weisner C, et al 517 Trends in Self-reported and Biochemically Tested Marijuana Use Among Pregnant Females 518 
+ van Gelder MMHJ, Reefhuis J, Caton AR, Werler MM, Druschel CM, Roeleveld N
+ 521 Characteristics of pregnant illicit drug users and associations between cannabis use and 522 perinatal outcome in a population-based study
+ Drug and Alcohol Dependence
+ 523 
+ Singer L, Tokish H, Park F, Campisi C, Milanaik RL
+ The cannabidiol conundrum: potential 526 benefits and risks of cannabidiol products for children
+ Curr Opin Pediatr
+ ;:
+ 527 
+ Friedrich J, Khatib D, Parsa K, Santopietro A, Gallicano GI
+ The grass isnt always greener: 529 The effects of cannabis on embryological development
+ BMC Pharmacol Toxicol
+ 2016 Sep 530 
+ Morris CV, DiNieri JA, Szutorisz H, Hurd YL
+ Molecular mechanisms of maternal cannabis 533 and cigarette use on human neurodevelopment
+ Eur J Neurosci
+ ;:
+ 534 
+ Navarro M, Rubio P, de Fonseca FR
+ Behavioural consequences of maternal exposure to 536 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    
+ Ahmed KT, Amin MR, Shah P, Ali DW
+ Motor neuron development in zebrafish is altered 539 by brief (5-hr) exposures to THC (9-tetrahydrocannabinol) or CBD (cannabidiol) during 540 
+ Parker LA, Rock EM, Limebeer CL
+ Regulation of nausea and vomiting by cannabinoids
+ Br 543 
+ Roberson EK, Patrick WK, Hurwitz EL
+ Marijuana use and maternal experiences of severe 546 nausea during pregnancy in Hawaii
+ Hawaii J Med Public Health
+ ;:
+ 547 
+ Fish EW, Murdaugh LB, Zhang C, Boschen KE, Boa-Amponsem O, Mendoza-Romero HN, 549 et al Cannabinoids Exacerbate Alcohol Teratogenesis by a CB1-Hedgehog Interaction
+ Sci 550 
+ Pertwee RG
+ Ligands that target cannabinoid receptors in the brain: from THC to 553 
+ Herkenham M, Lynn AB, Little MD, Johnson MR, Melvin LS, de Costa BR, et al 556 Cannabinoid receptor localization in brain
+ Proc Natl Acad Sci U S A
+ ;:
+ 557 
+ Watson S, Chambers D, Hobbs C, Doherty P, Graham A
+ The endocannabinoid receptor, 559 CB1, is required for normal axonal growth and fasciculation
+ Mol Cell Neurosci
+ 560 
+ Kano M, Ohno-Shosaku T, Hashimotodani Y, Uchigashima M, Watanabe M
+ 563 
+ Smita K, Sushil Kumar V, Premendran JS
+ Anandamide: an update
+ Fundam Clin Pharmacol
+ 566 
+ Benarroch E
+ Endocannabinoids in basal ganglia circuits: implications for Parkinson disease
+ 569 
+ Stempel AV, Stumpf A, Zhang H-Y, zdoan T, Pannasch U, Theis A-K, et al Cannabinoid 572 Type 2 Receptors Mediate a Cell Type-Specific Plasticity in the Hippocampus
+ Neuron
+ 573 
+ Liu Q-R, Canseco-Alba A, Zhang H-Y, Tagliaferro P, Chung M, Dennis E, et al 576 Cannabinoid type 2 receptors in dopamine neurons inhibits psychomotor behaviors, alters 577 
+ McPartland JM, Duncan M, Di Marzo V, Pertwee RG
+ Are cannabidiol and (9) -580 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    
+ Gray RA, Whalley BJ
+ The proposed mechanisms of action of CBD in epilepsy
+ Epileptic 584 
+ Laprairie RB, Bagher AM, Kelly MEM, DenovanWright EM
+ Cannabidiol is a negative 587 allosteric modulator of the cannabinoid CB1 receptor
+ Br J Pharmacol
+ ;:
+ 588 
+ Ibeas Bih C, Chen T, Nunn AVW, Bazelot M, Dallas M, Whalley BJ
+ Molecular Targets of 590 
+ Ryberg E, Larsson N, Sjgren S, Hjorth S, Hermansson N-O, Leonova J, et al The orphan 593 receptor GPR55 is a novel cannabinoid receptor
+ Br J Pharmacol
+ ;:
+ 594 
+ Akhtar MT, Ali S, Rashidi H, van der Kooy F, Verpoorte R, Richardson MK
+ Developmental 596 
+ Oltrabella F, Melgoza A, Nguyen B, Guo S
+ Role of the endocannabinoid system in 599 vertebrates: Emphasis on the zebrafish model
+ Dev Growth Differ
+ ;:
+ 600 
+ Sufian MS, Amin MR, Kanyo R, Allison WT, Ali DW
+ CB1 and CB2 receptors play 602 differential roles in early zebrafish locomotor development
+ J Exp Biol
+ 2019;222(Pt )
+ 603 
+ Lam CS, Rastegar S, Strhle U
+ Distribution of cannabinoid receptor 1 in the CNS of 605 
+ Fosque BF, Sun Y, Dana H, Yang C-T, Ohyama T, Tadross MR, et al Neural circuits
+ 608 Labeling of active neural circuits in vivo with designed calcium integrators
+ Science
+ 609 
+ Rohleder C, Mller JK, Lange B, Leweke FM
+ Cannabidiol as a Potential New Type of an 614 Antipsychotic
+ A Critical Review of the Evidence
+ Front Pharmacol
+ ;:
+ 615 
+ Iffland K, Grotenhermen F
+ An Update on Safety and Side Effects of Cannabidiol: A Review 617 of Clinical Data and Relevant Animal Studies
+ Cannabis Cannabinoid Res
+ 2017;2:139  618 
+ Ellis LD, Seibert J, Soanes KH
+ Distinct models of induced hyperactivity in zebrafish larvae
+ 620 
+ Rihel J, Prober DA, Arvanites A, Lam K, Zimmerman S, Jang S, et al Zebrafish behavioral 623 profiling links drugs to biological targets and rest/wake regulation
+ Science
+ 2010;327:348624 
+ Zhang F, Qin W, Zhang J-P, Hu C-Q
+ Antibiotic Toxicity and Absorption in Zebrafish Using 627 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    
+ Brox S, Ritter AP, Kster E, Reemtsma T
+ A quantitative HPLCMS/MS method for 630 studying internal concentrations and toxicokinetics of 34 polar analytes in zebrafish (Danio 631 
+ Banote RK, Edling M, Eliassen F, Kettunen P, Zetterberg H, Abramsson A
+ -Amyloid 634 precursor protein-b is essential for Mauthner cell development in the zebrafish in a Notch-635 
+ Braissant O, Henry H, Villard A-M, Zurich M-G, Loup M, Eilers B, et al Ammonium-638 Induced Impairment of Axonal Growth Is Prevented through Glial Creatine
+ J Neurosci
+ 639 
+ Acevedo-Canabal A, Coln-Cruz L, Rodriguez-Morales R, Varshney GK, Burgess S, 642 Gonzlez-Seplveda L, et al Altered Swimming Behaviors in Zebrafish Larvae Lacking 643 
+ Luchtenburg FJ, Schaaf MJM, Richardson MK
+ Functional characterization of the 646 cannabinoid receptors 1 and 2 in zebrafish larvae using behavioral analysis
+ 647 
+ Canada Health
+ Canadian Tobacco Alcohol and Drugs (CTADS) Survey: 2017 summary 650 
+ Statistics Canada
+ National Cannabis Survey, first quarter 
+ ;():
+ 654 
+ Varner MW, Silver RM, Rowland Hogue CJ, Willinger M, Parker CB, Thorsten VR, et al 656 Association between stillbirth and illicit drug use and smoking during pregnancy
+ Obstet 657 
+ Corsi DJ, Donelle J, Sucha E, Hawken S, Hsu H, El-Char D, et al Maternal cannabis use in 660 
+ Sarrafpour S, Urits I, Powell J, Nguyen D, Callan J, Orhurhu V, et al Considerations and 663 Implications of Cannabidiol Use During Pregnancy
+ Curr Pain Headache Rep
+ ;:
+ 664 
+ Gustafsson SB, Jacobsson SOP
+ Effects of cannabinoids on the development of chick 666 
+ Hoffman EJ, Turner KJ, Fernandez JM, Cifuentes D, Ghosh M, Ijaz S, et al Estrogens 669 Suppress a Behavioral Phenotype in Zebrafish Mutants of the Autism Risk Gene, CNTNAP
+ 670 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    
+ MacRae CA, Peterson RT
+ Zebrafish as tools for drug discovery
+ Nat Rev Drug Discov
+ 673 
+ Baraban SC, Dinday MT, Hortopan GA
+ Drug screening in Scn1a zebrafish mutant identifies 676 clemizole as a potential Dravet syndrome treatment
+ Nature Communications
+ ;:
+ 677 
+ Bose P, Tremblay E, Maois C, Narasimhan V, Armstrong GAB, Liao M, et al The Novel 679 Small Molecule TRVA242 Stabilizes Neuromuscular Junction Defects in Multiple Animal 680 
+ Ibhazehiebo K, Gavrilovici C, de la Hoz CL, Ma S-C, Rehak R, Kaushik G, et al A novel 683 metabolism-based phenotypic drug discovery platform in zebrafish uncovers HDACs 1 and 3 684 
+ Mank M, Griesbeck O
+ Genetically Encoded Calcium Indicators
+ Chem Rev
+ 687 
+ Akerboom J, Chen T-W, Wardill TJ, Tian L, Marvin JS, Mutlu S, et al Optimization of a 690 GCaMP calcium indicator for neural activity imaging
+ J Neurosci
+ ;:
+ 691 
+ Shaner NC, Lambert GG, Chammas A, Ni Y, Cranfill PJ, Baird MA, et al A bright 693 
+ Zarowny L, Aggarwal A, Rutten VMS, Kolb I, GENIE Project, Patel R, et al Bright and 697 
+ Alyenbaawi H, Kanyo R, Locskai LF, Kamali-Jamil R, DuVal MG, Bai Q, et al Seizures are 701 a druggable mechanistic link between TBI and subsequent tauopathy
+ 
+ 14 May 2020 702 
+ Kanyo R, Wang CK, Locskai LF, Li J, Allison WT, Kurata HT
+ Functional and behavioral 705 
+ Medler S
+ Anesthetic MS-222 eliminates nerve and muscle activity in frogs used for 708 
+ Hedrick MS, Winmill RE
+ Excitatory and inhibitory effects of tricaine (MS-222)  on fictive 711 breathing in isolated bullfrog brain stem
+ American Journal of Physiology-Regulatory, 712 
+ Leighton PLA, Kanyo R, Neil GJ, Pollock NM, Allison WT
+ Prion gene paralogs are 715 dispensable for early zebrafish development and have nonadditive roles in seizure 716 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    
+ zcan, Gliz Grel, Sumi Lim, Patricia LA Leighton, W
+ Ted Allison, and Jason Rihel
+ 719 Sleep Is Bi-Directionally Modified by Amyloid Beta Oligomers
+ ELife 9 (14 )
+ 720 
+ Perucca E
+ Cannabinoids in the Treatment of Epilepsy: Hard Evidence at Last? J Epilepsy 723 
+ Russo EB
+ Cannabinoids in the management of difficult to treat pain
+ Ther Clin Risk Manag
+ 726 
+ Kohashi T, Nakata N, Oda Y
+ Effective Sensory Modality Activating an Escape Triggering 729 Neuron Switches during Early Development in Zebrafish
+ J Neurosci
+ ;:
+ 730 
+ Galve-Roperh I, Chiurchi V, Daz-Alonso J, Bari M, Guzmn M, Maccarrone M
+ 732 
+ Westerfield, M
+ The Zebrafish Book
+ A Guide for the Laboratory Use of Zebrafish (Danio 736 
+ Sert NP du, Hurst V, Ahluwalia A, Alam S, Avey MT, Baker M, et al The ARRIVE 739 guidelines 
+0: Updated guidelines for reporting animal research
+ PLOS Biology
+ 740 
+ Hanwell D, Hutchinson SA, Collymore C, Bruce AE, Louis R, Ghalami A, et al Restrictions 743 on the Importation of Zebrafish into Canada Associated with Spring Viremia of Carp Virus
+ 744 
+ Kanyo R, Leighton PLA, Neil GJ, Locskai LF, Allison WT
+ Amyloid- precursor protein 747 mutant zebrafish exhibit seizure susceptibility that depends on prion protein
+ Exp Neurol
+ 748 
+ White RM, Sessa A, Burke C, Bowman T, LeBlanc J, Ceol C, et al Transparent adult 751 zebrafish as a tool for in vivo transplantation analysis
+ Cell Stem Cell
+ ;:
+ 752 
+ Amin MR, Ahmed KT, Ali DW
+ Early Exposure to THC Alters M-Cell Development in 754 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    This study was supported by grants to W
+ T
+ Allison from Alberta Prion Research Institute-763 Alberta Innovates BioSolutions and the Alzheimer Society of Alberta and the Northwest 764 Territories, and to D
+ W
+ Ali from the Natural Sciences and Engineering Research Council of 765 Canada and Alberta Innovates mCannabis
+ L
+ F
+ Locskai was supported by undergraduate 766 studentships from Natural Sciences and Engineering Research Council of Canada and from 767 Alberta Innovates Health Solutions
+ R
+ Kanyo was supported by a SynAD postdoctoral 768 fellowship funded via Alzheimer Society of Alberta and Northwest Territories through their 769 Hope for Tomorrow program and the University Hospital Foundation
+ We would like to also 770 extend our thanks to members of the Allison and Ali lab
+ In addition, we would also like to 771 acknowledge the Sciences Animal Support Services at the Unversity of Alberta
+ 772 RK, MRA, WTA, DWA contributed to the experimental design
+ RK, MRA, LFL, DDB, AMO, 775 performed the experiments and analyzed the data
+ RK, MRA and DWA interpreted the results
+ 776 RK, WTA and DWA wrote the manuscript
+ All authors read and approved the manuscript
+ 777 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    Figure 1: High-throughput quantification of neural activity in freely-swimming zebrafish 782 larvae
+ (a) CaMPARI photoconverts from green to red fluorescing versions in the neuron only in 783 the presence of both high intracellular calcium concentrations and a bright 405 nm light source
+ 784 (b) Lateral view of green fluorescing CaMPARI merged with brightfield image shows exclusive 785 expression in the CNS due to a pan-neural promoter (elavl)
+ (c) Larvae were transferred to 48 786 wells in the centre of a 96-well plate to ensure that the 405 nm LED Flood Array covers all 787 larvae entirely
+ To minimize overheating, the plate was floating in a waterbath at 10 cm distant to 788 the LED while CaMPARI was photoconverted (PC) by the LED Flood Array
+ (d) Lateral view of 789 zebrafish with exemplar CaMPARI Activity heat maps
+ Heat maps show ratio of red/green 790 (R/G) fluorescent output as indicated by the calibration bar and can be interpreted as relative 791 neural activity
+ CNS regions with higher levels of neural activity translate to hotter pixels
+ 792 Images were acquired using an automated INCell 2000 high-content microscope and reveal a 793 reduction in neural activity when the larvae were anesthetized with MS-222 or an increase with 794 convulsants, PTZ and -AP
+ Top, Enlarged lateral view from freely swimming larvae illustrating 795 the optic tectum and hindbrain areas (dashed line) from which the R/G ratio was obtained
+ (e) 796 Neural activity, inferred from the mean R/G ratio in optic tectum and hindbrain
+ CaMPARI 797 activity is reduced to baseline in MS222-anaesthetized fish and photoconversion is undetectable 798 when CaMPARI photoconverting light is omitted
+ Dashed green line represents mean for MS-799 222-anesthetized samples, which show a clear reduction in signal compared to freely swimming 800 larvae and provides a baseline near-zero activity level for reference in subsequent experiments
+ 801 Drivers of neural activity, PTZ and 4-AP induce a significant increase in CaMPARI activity
+ (f) 802 Locomotor activity was measured using behavioural tracking software
+ PC light from the day 803 prior at 4 days post-fertilization (dpf) did not affect locomotion at 5 dpf
+ MS-222 treatment 804 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    abolished any swimbouts
+ Biological replicates are individual larvae = n
+ ** Significantly 805 Figure 2: Early application of CBD and THC reduce subsequent neural activity and 808 locomotor activity
+ (a) The chemical structures of key cannabinoids used in this study: CBD 809 and THC
+ (b), Timeline of experimental set up where zebrafish embryos were treated with drugs 810 between 
+5 and 1 hour post-fertilization (hpf) and washed out at 10 hpf towards the end of 811 gastrulation
+ CaMPARI imaging was obtained at 4 days post-fertilization (dpf) and locomotor 812 activity was tracked at 5 dpf
+ (c) and (f), Representative CaMPARI activity maps obtained from 813 treated larvae and corresponding quantification and statistics shown in (d) and (g), respectively
+ 814 (e) and (h), Locomotor activity of the same larvae
+ (c) CBD reduces neural activity and 815 locomotor activity as shown in (d) and (e)
+ (f) THC requires a higher does than CBD to reduce 816 neural activity and locomotor activity as shown in (g) and (h)
+ CaMPARI activity heat maps 817 show ratio of R/G channels as indicated by the calibration bar, with higher ratios (hotter colours) 818 representing greater neural activity
+ Green-dashed lines depict mean baseline (zero) value for 819 MS-222 anesthetized samples (From Fig )
+ Biological replicates are n=-
+ * is p<
+05; ** 820 p<
+01 compared to the vehicle control (
+3 % MeOH in experiments with CBD and 
+6 % 821 Figure 3: Antagonistic effect of CBD on neural activity is enhanced when combined with 824 sub-effective doses of THC
+ Zebrafish larvae were exposed to a series of CBD and THC 825 concentrations by themselves or in combination, which are mostly sub-effective, or in the case of 826 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    CBD, were minimally effective
+ (a) and (d), Exemplar CaMPARI activity heat maps show an 827 additive effect (minimizing neural activity) when exposed to 2 g/ml (d) of each CBD and THC 828 compared to CBD or THC by themselves (as plotted in (e))
+ When 1 g/ml of 1:1 CBD and THC 829 was applied, ratios show no additive effect as illustrated by quantifications and statistics in (b)
+ 830 (c) and (f), Locomotor activity from the same well at 5 dpf shows a clear reduction when CBD 831 and THC is combined at 2 g/ml each, but reduction mediated by CBD alone is almost as low as 832 when combined with THC suggesting that CBD is the main component affecting locomotor 833 activity
+ R/G is indicated by the calibration bar
+ Green-dashed lines depict mean values for MS-834 222-anesthetized samples (from Figure )
+ Biological replicates are n=-
+ * compared to 835 vehicle control (equal amount of MeOH in all experiments); # compared to CBD plus THC
+ One 836 Figure 4: Cannabinoid receptor 1 (CB1R) and CB2R are both involved in CBD-mediated 839 reduction of locomotor activity
+ Zebrafish larvae were exposed to CBD (3 g/ml) with CB1R- 840 and CB2R inhibitors, AM251 and AM630, respectively
+ (a) and (b), Exemplar CaMPARI heat 841 maps showing R/G ratios obtained at 4 dpf
+ (c) and (d), Corresponding quantifications showing 842 CBD mediated-reduction of neural activity is not fully rescued when CB1R is inhibited with 843 AM251 or CB2R with AM630 in the nanomolar (nM) range
+ (e) and (f), Locomotor activity at 5 844 dpf shows a clear rescue when inhibiting either CB1R or CB2R with 
+1 nM AM251, or 10 nM 845 AM630, respectively
+ (g) and (h), shows that applying AM251 or AM630 without CBD did not 846 affect CaMPARI activity or locomotion
+ R/G is indicated by the calibration bar
+ All samples 847 contained the same amount of vehicle DMSO (
+1 %) and MeOH (
+3 %) including the vehicle 848 control (Veh
+ )
+ Green-dashed lines depict mean values for MS-222 anesthetized samples
+ 849 Biological replicates are n=-
+  * is p<
+05; ** p<
+01 compared to CBD
+   850 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    Figure S1: Supplementary figure accompanying Fig
+ 
+ Re-plotting data to illustrate that CBD 852 shows an effect at lower concentration than THC
+ Quantifications of CaMPARI activity (left) or 853 locomotor activity (right) showing a statistical difference between CBD and THC at 4 or 5 days 854 post-fertilization when adding 
+0 g/ml of either cannabinoids
+  Green-dashed lines depict mean 855 values for MS-222 anesthetized samples
+ Biological replicates are n=-
+ Statistics using 856 Figure S2: Supplementary figure accompanying Fig
+ 
+ Re-plotting data from groups that were 859 treated with vehicle, CBD (3 g/ml) or THC (6 g/ml) to assess correlation between CaMPARI 860 activity vs
+ Locomotor activity within the same larvae
+ There is a significant positive linear 861 correlation between neural activity and locomotor activity when corresponding vehicle controls 862 (black circles) were plotted with either CBD (a; red circles) or THC (b; blue circles)
+ Green-863 Figure S3: Supplementary figure accompanying Fig
+ 
+ Additive effects in reducing neural 866 activity are also obtained at lower CBD concentrations while THC concentration is kept constant 867 at 2 g/ml
+ (a) Exemplar CaMPARI activity heat maps obtained at 4 days post-fertilization show 868 an effect at 
+5 and 
+5 g/ml of CBD when combined with 2 g/ml THC (blue) compared to 869 CBD alone (red), as illustrated by quantifications in (b)
+ (c) Locomotor activity from the same 870 well at 5 dpf
+ R/G as indicated by the calibration bar
+ Green-dashed lines depict mean values for 871 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    MS-222 anesthetized samples
+ Biological replicates are n=-
+ * is compared to CBD; # is 872 compared to Vehicle
+ One symbol is p<
+05; two symbols are p<
+ 
+ 873 Figure S4: Supplementary figure accompanying Fig
+ 
+ RMO44 staining of reticulospinal 875 neurons in the hindbrain shows a decrease in fluorescence intensities when combining CBD and 876 THC at 2 g/ml at 5 dpf compared to when CBD or THC was added alone
+ Images show 877 biological replicates (n=3), left to right, from corresponding treatment group, top to bottom
+ 878 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    fertilization 1 dpf 2 dpf 3 dpf 4 dpf 5 dpf (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 3, 
+ ;    

@@ -1,0 +1,563 @@
+A double-blinded randomised placebo-controlled phase II trial to evaluate high dose rifampicin for tuberculous meningitis: a dose finding study A double-blinded randomised placebo-controlled phase II trial to evaluate high dose rifampicin for tuberculous 1 
+ Department of Internal Medicine, Radboud Institute for Health Sciences, Radboud university medical center, Nijmegen, 7 the Netherlands
+ Address: Geert Grooteplein Zuid 10, Nijmegen, the Netherlands
+ Postal code: 6525 GA (Route )
+ 8 
+ Department of Pharmacy, Radboud Institute for Health Sciences, Radboud university medical center, Nijmegen, the 10 Netherlands
+ Address: Geert Grooteplein Zuid 10, Nijmegen, the Netherlands
+ Postal code: 6525 GA (Route )
+ 11 
+ Department of Neurology, Faculty of Medicine, Universitas Padjadjaran/Hasan Sadikin Hospital, Bandung, Indonesia
+ 13 Address: Pasteur 38, Sukajadi, Bandung, Indonesia
+ Postal code: 
+  14 
+ Department of Pharmacology and Therapy, Faculty of Medicine, Universitas Padjadjaran, Bandung, Indonesia
+ Address: 16 
+ Department of Biochemistry and Molecular Biology, Faculty of Medicine, Universitas Padjadjaran, Bandung, Indonesia
+ 18 
+ Division of Epidemiology and Biostatistics, Department of Public Health, Faculty of Medicine, Universitas Padjadjaran, 21 Bandung, Indonesia
+ Address: Eijkman 38, Bandung, Indonesia, Postal code: 40161 22 
+ TB/HIV Research Centre, Faculty of Medicine, Universitas Padjadjaran, Bandung, Indonesia
+ Address: Eijkman 38, 24 #    Corresponding author
+ Sofiati Dian MD, Department of Neurology, Faculty of Medicine,  27       Phone: +62 22 
+ Fax: +62 22 
+ Email: sofiatidian@gmail
+com/ sofiati
+ dian@radboudumc
+nl 29 Word count: running title: 46 characters; abstract: 199 words; main text: 3487 words  32 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    High doses of rifampicin may help tuberculous meningitis (TBM) patients to survive
+ Pharmacokinetic-36 pharmacodynamic evaluations suggested that rifampicin doses higher than 13 mg/kg intravenously or 20 mg/kg 37 orally (as previously studied) are warranted to maximize treatment response
+  38 In a double-blinded, randomised, placebo-controlled phase II trial, we assigned 60 adult TBM patients in 40 Bandung, Indonesia, to standard 450 mg, 900 mg or 1350 mg (10, 20 and 30 mg/kg) oral rifampicin combined 41 with other TB drugs for 30 days
+ Endpoints included pharmacokinetic measures, adverse events and survival 42 A double and triple dose of oral rifampicin led to three and five-fold higher geometric mean total exposures in 44 plasma in the critical early days (21) of treatment (AUC0-24h: 535 mg
+h/L vs 1706 mg
+h/L vs
+ 2935 mg
+h/L, 45 p<0001), with proportional increases in CSF concentrations and without an increase in the incidence of grade 46 3/4 adverse events
+ Six-month mortality was 7/20 (35%), 9/20 (45%) and 3/20 (15%) in the 10, 20 and 30 mg/kg 47 Tripling the standard dose caused a large increase in rifampicin exposure in plasma and CSF and was safe
+ 50 Survival benefit with this dose should now be evaluated in a larger phase III clinical trial 51 KEYWORDS: Tuberculosis, meningeal, RCT, rifampicin, pharmacokinetics, tolerability, survival, Indonesia   53 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    In 2016, the WHO published data on 
+4 million new tuberculosis (TB) cases and 13 million deaths caused by 57 this disease worldwide, making it the leading single infectious disease killer
+()(TBM) is the most devastating form of TB
+ It occurs in 1-6% of patients with TB,(2, 3) leading to death or 59 neurological disability in more than 30% of affected patients
+(2, 4, 5) 60 Antimicrobial treatment for TBM follows the model for pulmonary TB, with intensive and continuation phases 61 of treatment
+ It adheres to the same first-line TB drugs and dosing guidelines,(6) although it is known that some 62 first-line TB drugs, including rifampicin, achieve suboptimal concentrations beyond the blood-brain and blood-63 cerebrospinal fluid (CSF) barriers
+ Rifampicin is a crucial TB drug, evidenced by the high mortality rate in TBM 64 patients with resistance to rifampicin
+(7, 8) As it takes a long time to develop new drugs to treat TB and TBM, it 65 is important to make the best possible use of existing drugs
+ We performed a series of studies to evaluate higher 66 A first open-label, randomised phase II clinical trial showed that a 33% higher dose of rifampicin administered 68 intravenously (13 mg/kg iv) for two weeks led to a three-fold higher exposure to rifampicin in plasma and CSF 69 during the first critical days of treatment, and a strong reduction in mortality at six months after the treatment 70 started (adjusted HR 042, 95% CI -)
+(9) We found a clear concentration-effect relationship and 71 derived threshold values for lower mortality, whereas our data suggested that the highest desirable exposures 72 However, intravenous rifampicin is not widely available in low to middle-income countries, is expensive, and 74 must be administered by healthcare workers, which is impractical over a longer period of time or unfeasible 75 after discharge from the hospital Our second open-label pharmacokinetic study was conducted; doses of 17 or 76 20 mg/kg of oral rifampicin resulted in average total exposures in plasma (area under the concentration versus 77 time curves, AUC0-24h) that were approximately similar to the values after 13 mg/kg iv, but average peak plasma 78 Both our first and second clinical trial called for the evaluation of doses of rifampicin higher than 13 mg/kg 80 intravenously and 17-20 mg/kg orally
+ The current study evaluated the pharmacokinetics, safety/tolerability, and 81 efficacy of higher (up to 30 mg/kg) doses of oral rifampicin as TBM treatment
+ 82 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    All patients over 14 years old (adults) with clinically suspected meningitis who presented themselves at Hasan 86 Sadikin Hospital, Bandung, Indonesia (the referral hospital for West Java) between December 2014 and 87 November 2016 had an initial screening that included standard CSF tests, blood measurements, and chest 88 TBM was classified as definite (microbiologically proven) if either CSF microscopy for acid-fast bacilli, 90 Mycobacterium tuberculosis culture, or PCR results were positive
+ Based on prior evaluation of CSF 91 characteristics of definite and clinically suspected cases in Bandung cohort, patients were classified as having 92 probable TBM if they had a CSF/blood glucose ratio <
+5 combined with CSF cells count cells/l
+(4) 93 Patients with the clinical suspicion of TBM were eligible for the study if they fulfilled the inclusion and 94 exclusion criteria listed in Supplement 
+ An HIV test was performed in every patient
+ Microbiological 95 examinations were performed for cryptococci in HIV-infected patients (India ink microscopy and cryptococcal 96 pathogens (Gram staining)
+ The neurological status of patients was classified according to a modification of the 98 British Medical Research Council (BMRC) grading system as 1 (Glasgow Coma Scale (GCS) 15 with no focal 99 neurological signs), 2 (GCS 11-14 or 15 with focal neurological signs), or 3 (GCS <)
+ 100 Written informed consent to participate in the trial was obtained from all patients or from their relatives if the 101 patient could not provide informed consent
+ If in the latter case a patient regained the capacity to consider 102 participation, he was consulted and informed consent to continue the study was obtained
+     103 The overall aim of this study was to find and substantiate the dose of rifampicin to be studied in a larger follow-105 up trial, based on pharmacokinetic, safety/tolerability and efficacy considerations
+ The primary objective was to 106 describe the pharmacokinetics of higher doses of rifampicin in TBM patients
+ The secondary objectives were to 107 evaluate the safety and tolerability and to explore the efficacy of treatment regimens with higher doses of 108 The study was a double-blinded, randomised, placebo-controlled phase II trial with three parallel arms
+ Eligible 110 patients were assigned a standard (450 mg, ~10 mg/kg, one active and two placebo tablets), double (900 mg, 111 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    ~20 mg/kg, two active and one placebo tablets), or triple (1350 mg, ~30 mg/kg, three active tablets) dose of 112 rifampicin for 30 days, in addition to other TB drugs, according to Indonesian national guidelines
+ 113 Randomisation occurred in variable block sizes and was stratified by BMRC grade
+ Adjunctive dexamethasone 114 was administered intravenously according to a previous study in Vietnam
+(13) After 30 dosages, all the patients 115 continued taking the standard TB regimen up to two months, with subsequent daily doses of rifampicin (450 116 mg) and isoniazid (300 mg) for a minimum of four months
+ During hospitalisation in the first four weeks of 117 treatment, adherence to the treatment was secured by facility-based Directly Observed Treatment (DOT)
+ After 118 hospitalisation, adherence was monitored through community-based DOT, frequently through close family 119 Rifampicin 450 mg (active) tablets and matching placebo tablets were manufactured at PT Kimia Farma, 122 Bandung, Indonesia
+ The study drugs and other standard TB treatments were administered on an empty 123 stomach
+ For unconscious patients who could not swallow, the drugs were crushed and delivered through a 124 The study was approved by the Ethical Review Board of the Medical Faculty of Universitas Padjadjaran, 127 Bandung, Indonesia
+ External monitoring assessed compliance with the studys protocol and the Data Safety 128 Monitoring Board (DSMB) performed an interim analysis after half of the subjects were included
+ This trial is 129 PK sampling was performed twice, at day 2 (1) during the first critical days of treatment (PK1) and then at day 133 10 (1) of treatment (PK)
+ On each sampling day, serial blood sampling was done just before and at 1, 2, 4, 8 134 and 12 hours after dosing
+ CSF samples for PK assessment were collected on both PK sampling days, between 3 135 and 9 hours after dosing
+ Patients had an overnight fast before PK sampling and remained fasted until 2 hours 136 after the administration of the study drugs
+ Blood samples were centrifuged at 3000 rpm for 15 minutes, and 137 C within 30 minutes of being taken
+ Analysis of the rifampicin 138 concentrations in plasma and CSF was performed as described previously
+ [11] The PK parameters for 139 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    rifampicin in plasma were assessed using standard non-compartmental methods in Phoenix WinNonlin v
+ 
+3 140 Patients were followed-up on until six months after their treatment started
+ All patients were hospitalised for a 144 minimum of 10 days, enabling real-time surveillance of any TBM-related and drug-related adverse events in 145 that period
+ Monitoring of liver transaminases and full blood counts occurred on days 3, 7, 10, 14, 30, 45 and 146 
+ Any further investigations were performed by indication, e
+ g
+ a bilirubin test
+ 147 Adverse events in these severely ill patients were defined as those possibly/probably related to their treatment 148 (haematological, gastrointestinal and skin disorders)
+ All other adverse events (e
+ g
+ new neurological events and 149 respiratory failure) were not incorporated in the assessment of safety and tolerability
+  150 The classification and grading of adverse events was based on the Common Terminology Criteria for Adverse 151 Event (CTCAE version 
+ )
+ Treatment was stopped in patients who had grade 4 adverse events
+ 152 Efficacy was assessed by mortality and clinical and neurological responses on days 3, 7, 30, 60 and 
+ New 154 neurological events were defined as the occurrence of any of the following: cranial nerve palsy, motor deficits, 155 or seizures
+ Modified Rankin Scale (MRS) and Glasgow Outcome Scale (GOS) were used to evaluate the 156 After discharge, survival was monitored by phone calls or home visits for patients who could not be reached via 158 phone
+ Verbal autopsies were performed via phone calls and no post-mortem autopsy was done
+ 159 Based on a previous clinical trial, the number of participants needed per study arm to estimate the total exposure 162 to rifampicin (AUC0-24h) at a dose of 20 mg/kg, using 95% confidence and a margin of error of 20%, was n=18 163 for days 21 and n=16 at day 
+(11) Considering dropouts, 20 patients were needed for each study arm
+ This 164 number of participants was also shown to be sufficient to demonstrate a significant difference in AUC0-24h 165 Patient characteristics, rifampicin PK parameters, adverse events were presented descriptively for all patients 167 and by study group
+ Multiple linear regression analysis was performed to find predictors of PK parameters
+ The 168 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    number of patients with plasma AUC0-24h and Cmax values above the threshold values for lower mortality of 116 169 h*mg/L and 22 mg/L at days 21 (as determined previously)(10) were assessed for each group
+ Data for 170 safety/tolerability and survival were analysed by the intention-to-treat principle
+ Mortality data were presented 171 as proportions in each group at various subsequent time points, and proportions were compared using the Chi-172 square test
+ A Cox regression analysis assessed the effect of rifampicin dose to 6-month mortality in all patients 173 and for culture-confirmed TBM patients only
+ IBM SPSS Statistics (version 
+0) for Windows was used for the 174 statistical analyses; GraphPad Prism Version 
+03 and statistical software R version 
+ 
+2 (15) were used for 175 obtaining graphs
+ P values of less than 
+05 were judged significant in all analyses
+ 176 During the study period, out of the 229 patients with suspected TBM, 107 patients were excluded for alternative 179 diagnoses, and the remaining 122 patients were diagnosed with TBM
+ The 60 TBM patients who fulfilled all 180 eligibility criteria were randomly assigned to each arm (Figure )
+ Baseline characteristics are depicted in Table 181 1, showing that the patients characteristics were equally balanced across the groups, except for fewer males in 182 the 20 mg/kg group (p=0343) and a higher percentage of HIV positives (p=0261) and lower CSF protein 183 concentrations (p=0057) in the 30 mg/kg group
+ Overall, 53% were male, with a median age of 295 years, and 184 Fifty-three patients had their first PK assessments (PK1) done, whereas 48 patients had a second PK evaluation 187 (PK)
+ Patients who failed to undergo a PK assessment were those who died or were withdrawn
+ The study 188 drugs were administered via a nasogastric tube (NGT) for 33 patients (62%) at the first PK assessment and for 189 nine patients (19%) at the second assessment
+ In some patients, their eventual plasma AUC0-24h and Cmax values 190 could not be assessed reliably based on sampling at 1, 2, 4, 8 and 12 hours after the dose (Table 2) and in some 191 patients concomitant CSF sampling did not take place during the two PK assessments
+ 192 A higher dose of oral rifampicin resulted in higher geometric mean AUC0-24h values, i
+ e
+ three-fold higher for the 194 20 mg/kg group and five-fold higher for the 30 mg/kg group, whereas plasma Cmax and CSF concentrations 195 showed a more proportional increase upon increasing the rifampicin dose, both in PK1 and PK2 (Table )
+ 196 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    Large interindividual variability was observed in plasma rifampicin AUC0-24h and Cmax values and in CSF 198 concentrations
+ For example, the differences between the minimum and maximum plasma AUC0-24h values at 199 the first PK assessment were 9-fold for the 10 mg/kg group, 14-fold for the 20 mg/kg group, and 3-fold for the 200 30 mg/kg group (Table 2, Figure )
+ In the multivariate analysis, the dose administered was the only predictor 201 of AUC0-24h and Cmax in plasma and concentrations in CSF, whereas gender, age and BMRC grade were not 202 significant predictors (data not shown)
+ The number of patients with drug administration via an NGT was not 203 significantly different between the three study groups and did not predict AUC0-24h, Cmax or CSF concentrations 204 either
+ AUC0-24h, Cmax values in plasma and CSF concentrations were all highly and positively correlated to each 205 other
+ For example, plasma AUC0-24h and CSF concentrations correlated with a correlation coefficient of 07 206 Comparison of the AUC0-24h values at the first and second PK assessment showed a significant decrease of 33% 209 at the second assessment, p=0014 (all groups combined), with decreases of 27%, 16%, and 36% in the 10, 20 210 and 30 mg/kg groups respectively (p=021, 0003, and 0004, paired T-test on log-transformed AUC0-24h 211 values)
+ Similarly, CSF concentrations decreased from day 2 to day 10 of the treatment, but plasma Cmax values 212 Adverse events during the 30 days after start of study drugs were equally distributed over the groups (Table )
+ 215 The majority of adverse events was mild
+ Hepatotoxicity was the most common grade 3 adverse event
+ All 216 patients with grade 3 adverse events continued treatment and those with grade 3 hepatotoxicity had normal 217 transaminases after a median of 20 days (IQR 75-52) of continued treatment without interruption or dose 218 changes of rifampicin
+ One patient in the 30 mg/kg group had grade 4 hepatotoxicity at day 13 of treatment, as 219 reflected in hyperbilirubinemia of >10 times ULN and transaminases three times the ULN
+ All TB drugs were 220 interrupted, the dose of rifampicin was unblinded, and the higher rifampicin dose was replaced by a standard 221 dose
+ The blood total bilirubin had decreased to two times ULN, and transaminases were normalised by day 26 222 of treatment
+ Rifampicin AUC0-24h and Cmax values in those with and without grade 3 or 4 adverse events were 223 The administration of higher doses of rifampicin increased the percentage of patients who achieved AUC0-24h 225 and Cmax plasma threshold values for decreased mortality, as derived from our first clinical trial(9) (Table )
+ 226 Two out of the 60 patients were withdrawn from the study on day 2, based on the clinicians consideration; one 227 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    deterioration (30 mg/kg group) as it was considered unethical to perform multiple blood or CSF sampling in this 229 patient
+ Only an intention to treat analysis was deemed useful for this study, as most deaths occurred before 230 the patients could complete the full per protocol intervention during one month
+ This means that the two 231 withdrawn patients were considered to be survivors in our explorative analysis of efficacy
+  232 Six-month mortality was 32% (95% Confidence Intervals (CI): 
+ %-
+1%), and the majority (12/19, 63%) of 233 deaths occurred in the first two weeks after admission
+ Causes of death were suspected respiratory failure (n=7), 234 septic shock (n=3), brain herniation (n=3), sudden cardiac event (n=2), pulmonary embolism (n=2) and head 235 injury (n=)
+ Six-month mortality was non-significantly lower in the 30 mg/kg group both among all patients 236 (p=012) and among the cases with definite TBM (p=007) (Table )
+ Cox regression analysis showed that the 237 Hazard Ratio (HR) for administration of the triple dose versus the standard dose was 044 with 95% CI of 01-238 19, p=027, in all TBM patients, whereas it was 023 (95%CI 003-205, p=019) among patients with definite 239 TBM (both adjusted for HIV status and GCS, see also Supplement )
+  240 New neurological events at day 3, 7, 30, 60 and 180 days, as well as functional outcome measured by MRS and 241 GOS were equally distributed among all three groups of patients (data not shown)
+ 242 This study revealed that tripling the standard dose of oral rifampicin strongly increased the exposure to this 245 pivotal TB drug in plasma and CSF, did not increase the incidence of grade 3 and 4 adverse events, improved 246 the attainment of previously determined exposure threshold values for lower mortality, and showed a trend for a 247 lower six-month mortality rate among patients with microbiologically proven (definite) TBM
+  248 The standard dose of rifampicin resulted in low average exposures in CSF, around the Minimum Inhibitory 249 Concentration (MIC) of 02-04 mg/L of this drug for M
+ tuberculosis
+(16, 17) These results are in agreement 250 with data from the literature showing that individual or mean rifampicin CSF concentrations above 1 mg/L are 251 rare
+(17-20) Due to its protein binding in plasma,(21) only 15-20% of rifampicin is available to be transported to 252 other tissues, and penetration to the brain is even more limited
+ 253 Fortunately, our intervention with higher doses of rifampicin was effective from a pharmacokinetic point of 254 view
+ Tripling the rifampicin dose provided a more than proportional increase in AUC0-24h and a proportional 255 increase in plasma Cmax and CSF concentrations, which were all correlated to each other
+ A possible explanation 256 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    for the non-linear pharmacokinetics is the saturation of hepatic extraction or of the excretion of the drug in bile 257 upon increasing the dose
+(22, 23) The resulting geometric mean AUC0-24h in the 20 mg/kg and 30 mg/kg group 258 in the first critical days of treatment were higher than that of 600 mg i
+ v
+ rifampicin in our previous 259 examination(11) (1706 and 2935 versus 1457h*mg/L); the average Cmax in the 20 mg/kg group was still 260 lower, but the 30 mg/kg group had a similar Cmax compared to 600 mg i
+ v
+ rifampicin (255 versus mg/L)
+  261 Our data also showed large inter-individual variability in the rifampicin exposure, which is in agreement with 262 the literature and may be enhanced by pharmacokinetic changes in critically ill patients
+(24, 25) Of note, the 263 lowest observed AUC0-24h, Cmax and CSF concentrations increased with the higher dose (Table 2, Figure 2); 264 these lowest exposures may be associated with more treatment failures and mortality
+  265 After the first critical days of treatment, we observed decreased exposures to rifampicin after ten days of 266 treatment, which is explained by the auto-inducing enzyme properties of rifampicin
+(22)  267 Adverse events after the treatment started were equally distributed among the three rifampicin dose groups
+ The 269 highest 30 mg/kg daily dose of rifampicin was not associated with an increase in the incidence of severe (grade 270 3 or 4) adverse events, although it should be noted that the number of patients in this phase II study was 271 relatively small
+ Hepatotoxicity, as reflected in ALT and AST increases, was the most common grade 3 adverse 272 event and these increases all resolved without any interruption of the study drugs
+ Thus, based on our data, grade 273 3 and 4 adverse events and specifically ALT and AST increases did not seem to be dependent on rifampicin 274 dose or exposure
+ Hepatotoxicity to rifampicin appears to be a hypersensitivity reaction, which is more common 275 also suggest that hepatotoxicity to rifampicin is idiosyncratic and not dose-related
+(28, 29) 277 As to efficacy, tripling the dose of oral rifampicin for a period of 30 days led to an increase in the attainment of 278 plasma AUC0-24h and Cmax thresholds for decreased mortality and highlighted a trend in survival benefit among 279 those with microbiologically proven (definite) TBM
+ However, this decrease in mortality was not statistically 280 significant, as our study was not designed and powered to detect a difference in mortality
+  281 The overall aim of this trial was to find and substantiate the dose of rifampicin to be studied in a larger (phase 282 III) follow-up trial We propose this dose to be 30 mg/kg orally, as this yielded the highest exposure in plasma 283 and CSF, was found tolerable in severely ill TBM patients, and showed a trend for reduced mortality among 284 patients with definite TBM
+ A study in Africa with a similar 35 mg/kg oral rifampicin dose was associated with 285 an increase in bactericidal activity (28, 30) and the same dose achieved a decrease in time to culture conversion 286 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    in patients with pulmonary TB
+(29) Ideally, a follow-up trial with rifampicin at a 30 mg/kg dose should be 287 The strengths of our study are the double-blinding that we applied and the high proportion of bacteriological-289 confirmed TBM cases (%)
+ Our study also has limitations
+ First, the sample size was limited, inherent to the 290 studys phase II characteristics and objectives, and the study was not powered to compare the efficacy of the 291 three doses of oral rifampicin
+ As a result, the apparent mortality benefits of high dose oral rifampicin should be 292 interpreted with caution
+ Second, we could only take single CSF samples for pharmacokinetic purposes, which 293 means that no pharmacokinetic curves could be generated for CSF
+  294 In summary, tripling the dose of oral rifampicin to 30 mg/kg resulted in an increased exposure to rifampicin, 295 both in plasma and CSF, which was not associated with an increase in the incidence of grade 3 and 4 adverse 296 events
+ The higher 30 mg/kg rifampicin dose resulted in an increase in pharmacokinetic target attainment
+ In 297 terms of efficacy, further investigation in a larger population is needed to confirm our findings
+  298 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    We thank Ayi Djembarsari and Siti Aminah Soepalarto, Hasan Sadikin Hospital, for accommodating the 300 research; Feby Purnama and Sofia Immaculata, Sri Margi, Shehika Shulda, and Rani Trisnawati for monitoring 301 the patients and data recording; Atu Purnama Dewi for rifampicin bioanalysis and Jessi Annisa for 302 All the authors worked collectively to develop the protocols and methods described in this report
+ R
+R was the 304 principal investigator
+ ARG and S
+D were responsible for the clinical data and the follow-up
+ Y
+ V
+, A
+ C
+, and 305 L
+ t
+B performed the pharmacokinetic data analysis under the supervision of R
+ R
+ and R
+ A
+ S
+ D
+ and R
+ A
+ 306 performed the statistical analyses with support from K
+ W
+ SD performed the literature search and wrote the first 307 draft of the report and all other authors provided contributions and suggestions
+  308 This work was supported by Peer Health (National Academy of Sciences (NAS)-United States Agency for 309 International Development (USAID), USA; the Ministry of Research, Technology and Higher Education, 310 Indonesia (PKSLN grant to T
+ H
+ A
+, R
+ R
+, and S
+D); the Direktorat Jenderal Pendidikan Tinggi (BPPLN 311 fellowship to S
+ D
+), and Radboud university medical center, The Netherlands (fellowship to S
+ D)
+  312 The authors have no conflicting interests relevant to the study
+ 313 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    
+ World Health Organization
+ 
+ Global tuberculosis report 
+ Available online at 317 
+ Wilkinson RJ, Rohlwink U, Misra UK, van Crevel R, Mai NTH, Dooley KE, Caws M, Figaji A, Savic 319 R, Solomons R, Thwaites GE, Tuberculous Meningitis International Research Consortium
+ 320 
+ Gomes T, Reis-Santos B, Bertolde A, Johnson JL, Riley LW, Maciel EL
+ 
+ Epidemiology of 322 extrapulmonary tuberculosis in Brazil: a hierarchical model
+ BMC Infect Dis :
+ 323 
+ van Laarhoven A, Dian S, Ruesen C, Hayati E, Damen MSMA, Annisa J, Chaidir L, Ruslami R, 324 Achmad TH, Netea MG, Alisjahbana B, Rizal Ganiem A, van Crevel R
+ 
+ Clinical Parameters, 325 Routine Inflammatory Markers, and LTA4H Genotype as Predictors of Mortality Among 608 Patients 326 
+ Heemskerk AD, Bang ND, Mai NT, Chau TT, Phu NH, Loc PP, Chau NV, Hien TT, Dung NH, Lan 328 NT, Lan NH, Lan NN, Phong le T, Vien NN, Hien NQ, Yen NT, Ha DT, Day JN, Caws M, Merson L, 329 Thinh TT, Wolbers M, Thwaites GE, Farrar JJ
+ 
+ Intensified Antituberculosis Therapy in Adults 330 
+ World Health Organization
+ 
+ Guidelines for treatment of drug-susceptible tuberculosis and patient 332 
+ Thwaites GE, Lan NT, Dung NH, Quy HT, Oanh DT, Thoa NT, Hien NQ, Thuc NT, Hai NN, Bang 334 ND, Lan NN, Duc NH, Tuan VN, Hiep CH, Chau TT, Mai PP, Dung NT, Stepniewska K, White NJ, 335 Hien TT, Farrar JJ
+ 
+ Effect of antituberculosis drug resistance on response to treatment and 336 outcome in adults with tuberculous meningitis
+ J Infect Dis :-
+ 337 
+ Cecchini D, Ambrosioni J, Brezzo C, Corti M, Rybko A, Perez M, Poggi S, Ambroggi M
+ 
+ 338 Tuberculous meningitis in HIV-infected patients: drug susceptibility and clinical outcome
+ AIDS 339 
+ Ruslami R, Ganiem AR, Dian S, Apriani L, Achmad TH, van der Ven AJ, Borm G, Aarnoutse RE, van 341 Crevel R
+ 
+ Intensified regimen containing rifampicin and moxifloxacin for tuberculous 342 meningitis: an open-label, randomised controlled phase 2 trial Lancet Infect Dis :-
+ 343 
+ Te Brake L, Dian S, Ganiem AR, Ruesen C, Burger D, Donders R, Ruslami R, van Crevel R, 344 Aarnoutse R
+ 
+ Pharmacokinetic/pharmacodynamic analysis of an intensified regimen containing 345 rifampicin and moxifloxacin for tuberculous meningitis
+ Int J Antimicrob Agents :-
+ 346 
+ Yunivita V, Dian S, Ganiem AR, Hayati E, Hanggono Achmad T, Purnama Dewi A, Teulen M, 347 Meijerhof-Jager P, van Crevel R, Aarnoutse R, Ruslami R
+ 
+ Pharmacokinetics and 348 safety/tolerability of higher oral and intravenous doses of rifampicin in adult tuberculous meningitis 349 
+ Chaidir L, Annisa J, Dian S, Parwati I, Alisjahbana A, Purnama F, van der Zanden A, Ganiem AR, van 351 Crevel R
+ 
+ Microbiological diagnosis of adult tuberculous meningitis in a ten-year cohort in 352 
+ Thwaites GE, Nguyen DB, Nguyen HD, Hoang TQ, Do TT, Nguyen TC, Nguyen QH, Nguyen TT, 354 Nguyen NH, Nguyen TN, Nguyen NL, Nguyen HD, Vu NT, Cao HH, Tran TH, Pham PM, Nguyen 355 TD, Stepniewska K, White NJ, Tran TH, Farrar JJ
+ 
+ Dexamethasone for the treatment of 356 tuberculous meningitis in adolescents and adults
+ N Engl J Med :-
+ 357 
+ Ruslami R, Nijland HM, Alisjahbana B, Parwati I, van Crevel R, Aarnoutse RE
+ 
+ 358 Pharmacokinetics and tolerability of a higher rifampin dose versus the standard dose in pulmonary 359 
+ R Core Team
+ 
+ R: A language and environment for statistical computing
+ 361 
+ Rastogi N, Labrousse V, Goh KS
+ 
+ In vitro activities of fourteen antimicrobial agents against drug 362 susceptible and resistant clinical isolates of Mycobacterium tuberculosis and comparative intracellular 363 activities against the virulent H37Rv strain in human macrophages
+ Curr Microbiol :-
+ 364 
+ Donald PR
+ 
+ Cerebrospinal fluid concentrations of antituberculosis agents in adults and children
+ 365 
+ Furesz S, Scotti R, Pallanza R, Mapelli E
+ 
+ Rifampicin: a new rifamycin
+ 
+ Absorption, 367 
+ Ellard GA, Humphries MJ, Allen BW
+ 
+ Cerebrospinal fluid drug concentrations and the treatment 369 
+ D'Oliveira JJ
+ 
+ Cerebrospinal fluid concentrations of rifampin in meningeal tuberculosis
+ Am Rev 371 
+ te Brake LH, Ruslami R, Later-Nijland H, Mooren F, Teulen M, Apriani L, Koenderink JB, Russel FG, 373 Burger DM, Alisjahbana B, Wieringa F, van Crevel R, Aarnoutse RE
+ 
+ Exposure to total and 374 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    protein-unbound rifampin is not affected by malnutrition in Indonesian tuberculosis patients
+ 375 
+ Acocella G
+ 
+ Clinical pharmacokinetics of rifampicin
+ Clin Pharmacokinet :-
+ 377 
+ Chirehwa MT, Rustomjee R, Mthiyane T, Onyebujoh P, Smith P, McIlleron H, Denti P
+ 
+ Model-378 Based Evaluation of Higher Doses of Rifampin Using a Semimechanistic Model Incorporating 379 Autoinduction and Saturation of Hepatic Extraction
+ Antimicrob Agents Chemother :-
+ 380 
+ Felton TW, Hope WW, Roberts JA
+ 
+ How severe is antibiotic pharmacokinetic variability in 381 critically ill patients and what can be done about it? Diagn Microbiol Infect Dis :-
+ 382 
+ Blot SI, Pea F, Lipman J
+ 
+ The effect of pathophysiology on pharmacokinetics in the critically ill 383 patient--concepts appraised by the example of antimicrobial agents
+ Adv Drug Deliv Rev :-
+ 384 
+ Grosset J, Leventis S
+ 
+ Adverse effects of rifampin
+ Rev Infect Dis 5 Suppl :S-
+ 385 
+ Burman WJ, Gallicano K, Peloquin C
+ 
+ Comparative pharmacokinetics and pharmacodynamics of 386 
+ Boeree MJ, Diacon AH, Dawson R, Narunsky K, du Bois J, Venter A, Phillips PP, Gillespie SH, 388 McHugh TD, Hoelscher M, Heinrich N, Rehal S, van Soolingen D, van Ingen J, Magis-Escurra C, 389 Burger D, Plemper van Balen G, Aarnoutse RE, PanACEA Consortium
+ 
+ A dose-ranging trial to 390 optimize the dose of rifampin in the treatment of tuberculosis
+ Am J Respir Crit Care Med 191:1058-391 
+ Boeree MJ, Heinrich N, Aarnoutse R, Diacon AH, Dawson R, Rehal S, Kibiki GS, Churchyard G, 393 Sanne I, Ntinginya NE, Minja LT, Hunt RD, Charalambous S, Hanekom M, Semvua HH, Mpagama 394 SG, Manyama C, Mtafya B, Reither K, Wallis RS, Venter A, Narunsky K, Mekota A, Henne S, 395 Colbers A, van Balen GP, Gillespie SH, Phillips PPJ, Hoelscher M, PanACEA Consortium
+ 
+ 396 High-dose rifampicin, moxifloxacin, and SQ109 for treating tuberculosis: a multi-arm, multi-stage 397 
+ Svensson R, Svensson E, Aarnoutse R, Diacon A, Dawson R, Gillespie S, Boeree M, Simonsson U
+ 399 
+ Greater early bactericidal activity at higher rifampicin doses revealed by modeling and clinical 400 
+ Ministry of Health Republic of Indonesia, Direktorat Jendral Pengendalian Penyakit dan Penyehatan 402 Lingkungan Kementrian Kesehatan Republik Indonesia
+ 
+ Petunjuk Teknis Manajemen TB Anak
+ 403 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    Body weight (median [IQR]) 45 [-
+3] 45 [
+ -
+5] 
+4 [
+ -
+7] 
+491 Chief complaint, lowered consciousness (%) 17 (85) 16 (80%) 18 (90) 
+594                             Cranial nerve palsy (%) 15 (75) 15 (75) 17 (85) 
+614 Chest X-ray, TB (%) 13 (
+7) 12 (
+7) 12 (
+7) 
+752 CSF leukocytes baseline (cells/l) (median [IQR]) 188 [
+ -
+8] 245 [
+ -
+8] 240 [
+ -
+5] 
+528 CSF PMN baseline (cells/l) (median [IQR]) 30 [18-46] 29 [
+3-67] 41 [
+ -
+3] 
+625 CSF MN baseline (cells/l) (median [IQR]) 70 [54-82] 71 [-
+8] 59 [
+ -
+8] 
+580 CSF protein baseline (mg/dl) (median [IQR]) 257 [
+ -
+3] 
+5 [
+8-428] 169 [
+ -
+8] 
+057 CSF/Blood glucose ratio baseline (median [IQR]) 
+17 [
+ -
+26] 
+2 [
+ -
+21] 
+2 [
+ -
+3] 
+303 Bacteriologically confirmed TBM (%) 14 (70) 14 (70) 15 (75) 
+921         ZN staining positive (%) 8 (40) 4 (20) 6 (30) 
+386 Drug administration through NGT on PK I (%) 10 (
+8) 12 (
+0) 13 (65) 
+917 Drug administration through NGT on PK II (%) 1 (
+7) 3 (
+4) 5 (
+3) 
+33 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    Isoniazid dose in mg/kg (median [IQR]) 
+7 [
+ -
+ 
+5] 
+7 [-
+9] 
+2 [
+ -
+2] 
+308 Pyrazinamide dose in mg/kg (median [IQR]) 
+7 [
+ -
+5] 
+3 [
+ -
+5] 
+06 [
+4-36] 
+203 Ethambutol dose in mg/kg (median [IQR]) 
+8 [
+ -
+1] 
+7 [-
+1] 
+5 [-
+5] 
+244 Rifampicin dose in mg/kg (median [IQR]) 10 [
+ -
+3] 20 [
+ -
+4] 28 [
+ -
+4] 
+000 Abbreviations and explanation: TB= Tuberculosis; IQR= Interquartile Range; BMI= Body Mass Index; TBM=tuberculous 410 meningitis; HIV= Human Immunodeficiency Virus; GCS=Glasgow Coma Scale; CSF= cerebrospinal fluid; ZN=Ziehl-411 Neelsen; NGT= nasogastric tube; PK= pharmacokinetic(s); PMN=polymorphonuclear cells; MN= mononuclear cells; 412 Kruskall Wallis test on continuous variables
+ The 2 test was used to compare the proportion of categorical variables
+ 414 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    Tmax (h) (Median [range]) 
+6 [1-9] 
+9 [
+9-12] 
+9 [1-12] 
+Tmax (h) (Median [range])  
+72 [1-4] 
+92 [1-8] 
+59 [1-12] 
+Abbreviations and explanation: AUC0-24h= area under the time-concentration up to 24 h after dose; GM= Geometric Mean; Cmax= 420 maximum plasma concentration; Tmax= time to Cmax; CSF= cerebrospinal fluid; CSF3-9h = concentration in cerebrospinal fluid between 3h 421 and 9h after drug administration; Vd/F= apparent volume of distribution; Cl/F= apparent total clearance; T1/2= Half-life; h= hour; 422 One-way ANOVA (analysis of variance) on log-transformed PK data, with Tukeys HSD as post-hoc test
+ 425  CSF samples had to be taken between 3 and 9 h after the dose and were mostly taken around 4 h after the dose
+   427 Threshold values for reduced mortality based on previous work
+(10)  428 PK1 was at day 2 1, PK2 was at day 
+ AUC0-24h values were estimated in 43 patients both in PK1 and PK
+ The rest could not be 429 estimated because the elimination rate constant could not be assessed reliably with sampling at 1, 2, 4, 8 and 12h after dosing, preventing 430 extrapolation of exposures beyond the last measurable concentration
+ Cmax could not be assessed in 7 patients
+  431 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    All AE 51 (85) 17 (85) 16 (80) 18 (90) 
+676 Grade I-II AE 51 (85) 17 (85) 16 (80) 18 (90) 
+676 Grade III-IV AE 15 (25) 3 (15) 8 (40) 4 (20) 
+503      Grade I-II 8 (
+3) 2 (10) 4 (20) 2 (10) 
+686      Grade I-II 20 (
+3) 11 (55) 6 (30) 3 (15) 
+107      Grade I-II 26 (43) 9 (45) 7 (35) 10 (50) 
+824      Grade I-II 27 (45) 9 (45) 8 (40) 10 (50) 
+444      Grade I-II 21 (35) 8 (40) 6 (30) 7 (35) 
+359      Grade I-II 27 (
+3) 9 (45) 6 (30) 12 (60) 
+442      Grade I-II 21 (35) 5 (25) 5 (25) 11 (55) 
+410  Abbreviations and explanation: Data in number (%) of patients
+ Classification of adverse events was based on the US National Institutes of Health Common 434 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    Mortality until discharge 13 (22) 5 (25) 5 (25) 3 (15) 
+675 3 (21) 4 (29) 1 (7) 
+301 Mortality until 30 days 14 (23) 5 (25) 6 (30) 3 (15) 
+521 3 (21) 4 (29) 1 (7) 
+301 Mortality until 45 days 15 (25) 5 (25) 7 (35) 3 (15) 
+344 3 (21) 5 (36) 1 (7) 
+158 Mortality until 60 days 15 (25) 5 (25) 7 (35) 3 (15) 
+344 3 (21) 5 (36) 1 (7) 
+158 Mortality until 180 days 19 (32) 7 (35) 9 (45) 3 (15) 
+116 5 (36) 6 (43) 1 (7) 
+069  TBM was classified as definite (microbiologically proven) if either CSF microscopy for acid-fast bacilli, Mycobacterium 439 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    Abbreviations and explanation: TBM= Tuberculous Meningitis; ICF= Informed Consent Form; HIV=Human Immunodeficiency Virus a  Sixty two patients were excluded due to: 10 had  CSF/blood glucose ratio >
+5, 11 had a history of TB treatment within the last 3 days, 5 had eGFR < 50, 1 had ALT >5x ULN, 1 had a history of rifampicin hypersensitivity, 22 had rapid clinical deterioration, 3 had severe mental psychosis, 1 was pregnant, 3 were younger than 15 years, and 5 declined to signed the ICF
+ See Supplement 1 for the list of inclusion- and b TBM was classified as definite (microbiologically proven) if either CSF microscopy for acid-fast bacilli, Mycobacterium tuberculosis culture, or PCR results were positive
+ Based on prior evaluation of CSF characteristics of definite and clinically suspected cases in Bandung cohort, patients were classified as having probable TBM if they had a CSF/blood glucose ratio <
+5 combined with CSF cells count 5 Patients with rapid clinical deterioration were excluded due to ethical considerations related to blood and CSF PK sampling in these patients
+ Patients 0-14 years old were excluded as they are considered as paediatric TB patients according to the Ministry of Health Republic of not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    Figure 
+ Distribution of rifampicin area under the time-concentration curve up to 24 h after the dose (AUC0-24h) and maximum concentration (Cmax) in plasma, and concentration in CSF at 3-9h after the dose, at the first and second pharmacokinetic assessments
+ Lines represent Geometric Mean (GM) and 95% Confidence Interval (CI)
+   not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    Supplement 
+ Survival according to rifampicin treatment in all patients and in patients with    Explanation: Rifampicin dose as predictor for 6-month mortality due to tuberculous meningitis
+ Kaplan-Meier curves with survival tables for numbers at risk for all patients (A) and for patients with mycobacteriologically-proven (definite) tuberculous meningitis (B)
+ Hazard ratio (HR) adjusted for HIV status and GCS: (all patients) 044 (95% CI 01-19, p=027) and (patients with definite tuberculous meningitis) 023 (95% CI 003-205, not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted May 21, 
+ ;    

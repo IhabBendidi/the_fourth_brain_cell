@@ -1,0 +1,231 @@
+Disparate effects of metformin on Mycobacterium tuberculosis infection in diabetic and non-diabetic miceCentre for Molecular Therapeutics, Australian Institute of Tropical Health and 6 Medicine, James Cook University, Cairns & Townsville, Queensland 4870 & 4811, 7 College of Public Health, Medical and Veterinary Sciences, James Cook University, 9 Science and Technology, University of New England, Armidale, NSW 2351, 11 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted July 18, 
+ ;    Comorbid type 2 diabetes poses a great challenge to the global control of 28 tuberculosis
+ Here we assessed the efficacy of metformin (MET); an anti-diabetic 29 drug, in mice infected with a very-low dose of Mycobacterium tuberculosis
+ In 30 contrast to diabetic mice, infected non-diabetic mice that received the same 31 therapeutic concentration of MET presented with significantly higher disease burden
+ 32 This warrants further studies to investigate the disparate efficacy of MET 33 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted July 18, 
+ ;    Tuberculosis (TB) remains one of the deadliest infectious diseases with an estimated 41 annual mortality of 
+5 million and nearly 
+7 billion latently-infected people 42 (Mtb), the causative agent of TB, can be treated with long-term antibiotic therapy, 44 emergence of drug-resistant strains and increasing incidence of comorbid conditions, 45 such as diabetes mellitus (DM), pose a great challenge to TB eradication
+addition to the evaluation of new and existing repurposed anti-TB drugs, there has 53 also been an increased interest in non-antimicrobial host-directed therapies (HDTs) 54 which often target host immune responses with the potential to shorten and improve 55 protein kinase (AMPK)-activating anti-diabetic drug found to be associated with 59 intracellular growth of Mtb and improve the efficacy of first-line anti-TB drug; 61 experiment, MET failed to enhance the potency of current anti-TB treatment regimen 63 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted July 18, 
+ ;    between experiments and more importantly to investigate the true impact of MET on 65 In this study, we sought to simultaneously evaluate the protective efficacy of MET 68 alone and in combination with INH against TB using a robust model of murine T2D 69 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted July 18, 
+ ;    This study was conducted in accordance with the National Health and Medical 74 Research Council (NHMRC) animal care guidelines with all procedures approved by 75 the animal ethics committee (A2400) of James Cook University (JCU), Australia
+  76 C57BL/6 male mice housed under specific-pathogen free (SPF) conditions were 79 randomly divided into two groups for dietary interventions
+ One group was given ad 80 libitium access to an energy dense diet (EDD; 23% fat, 19% protein, 
+5% dextrose 81 and 
+5% fibre), while the second group received an isometric quantity of standard 82 rodent diet (SD)
+ Thirty weeks following diet intervention, mice were assessed for 83 curve (AUC) calculated from glucose tolerance test (GTT) was used to confirm the 85 Mtb H37Rv were cultured in 10% ADC enriched Middlebrook 7H9 broth (BD 89 logarithmic cultures were harvested, washed in sterile PBS and stored in 15% 91 Mice were infected with a very-low aerosol dose (10-20 CFUs) of Mtb H37Rv using a 95 Glas-Col inhalation exposure system in a biosafety level 3 (BSL3) laboratory
+ The 96 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted July 18, 
+ ;    infectious dose was determined by culturing homogenized lung tissues of 4-5 mice 97 on 10% OADC enriched 7H11 agar plates 1-day post infection (p
+ i
+ )
+ 98 Seven days post aerosol Mtb challenge, treatments were initiated by administering 101 MET and INH (both from Sigma) alone or in combination (MET+INH) to mice in 102 drinking water delivering ~500 mg/kg and ~10 mg/kg, respectively (
+25 mg/ml MET 103 in drinking water delivers a dose of approximately 250 mg/kg to micebottles containing drugs were changed every 4-6 days
+   105 At designated time points, mice were sacrificed and blood was collected in Z-gel 108 tubes (Sarstedt)
+ Coagulated blood was spun and serum samples were filtered using 109 Right lung lobes were homogenized in sampling bags containing 1 ml of sterile PBS/ 114 
+05% Tween 
+ Serial dilutions of tissue homogenates were plated on 10% OADC 115 enriched 7H11 agar plates supplemented with 10 g/ul cycloheximide and 20 g/ml 116 was calculated based on dilution factor and organ size
+  118 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted July 18, 
+ ;    Left lung lobes were fixed overnight with 10% neutral buffered formalin and 123 transferred into 70% ethanol the next day
+ Processed lung lobes were embedded in 124 paraffin, cut (4 m sections) and stained with Hematoxylin and Eosin (H&E) and 125 Ziehl-Neelsen (ZN)
+ ImageJ software (NIH) was used to measure the total surface 126 area followed by the areas of dense cell infiltration
+ Proportions of infiltration were 127 Serum samples were prepared for Bio-Plex Pro Mouse Cytokine 23-Plex assay 131 MagPix (Luminex) instrument
+ Log2 concentration of each analyte is visualized in a 133 Mice which showed both CFUs on 7H11 agar plates and Mtb bacilli by ZN stain were 137 included
+ Due to the absence of viable CFUs on agar plates 5 mice were excluded 138 from analysis despite confirmed presence of Mtb using ZN staining and increased 139 Statistical analysis was performed using GraphPad Prism version 
+ Two or multiple 143 group analysis was carried out using Students t-test and one-way analysis of 144 P<
+05 was considered significant
+        146 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted July 18, 
+ ;    Following 30 weeks of diet intervention (Figure 1a), mice fed with EDD presented 149 with a significantly increased body weight  (Figure 1b), elevated fasting blood 150 glucose levels (Figure 1c) and impaired glucose tolerance as reflected by AUC 151 control mice were subjected to downstream experimental procedures
+   153 To investigate whether metformin could restrict the growth of Mtb and enhance the 156 efficacy of the first-line anti-TB drug INH, we infected non-diabetic control and T2D 157 mice with a very-low aerosol dose of Mtb H37Rv which closely mimics the human 158 TB
+ CFUs recovered from lung tissue 7 days p
+ i
+ revealed that both control and T2D 159 mice carried a similar bacterial burden prior to treatment (Figure a)
+ At 45 days p
+ i
+, 160 10 mg/kg INH sterilized Mtb infection in almost all animals (Figure 2b) thus, 161 combination therapy with 500 mg/kg MET did not further enhance the efficacy of INH 162 in our experimental settings (Figure b)
+ Both INH and MET+INH treatments were 163 also accompanied by significantly lower lung immunopathology (Figure 2c and S)
+ 164 Interestingly, MET-treated T2D mice had a significantly lower overall bacterial 165 burden (~
+5-log reduction compared to untreated T2D; Figure b)
+ Strikingly, in 166 demonstrated a substantially increased lung Mtb burden (Figure 2b) and unchanged 168 This disparate efficacy of MET in non-diabetic and T2D mice resulted in a ~2-log 170 difference in lung Mtb burden
+ Overall, systemic cytokine/ chemokine levels were 171 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted July 18, 
+ ;    comparable between control and T2D mice (Figure S3a) and all treatments seem to 172 Cumulative evidence suggests that MET prescription is associated with a 176 Reduced mortality, fewer pulmonary cavities and rapid culture conversion are 178 evidence of improved health outcome
+ In addition, Singhal and colleagues reported 179 that MET treatment was also associated with reduced LTBI prevalence and 180 no significant association between LTBI and TB/DM patients taking MET was found 182 has the propensity to improve the overall treatment outcome when used with existing 184 concentration of MET significantly improved the disease outcome in our T2D mice
+ 186 However, MET did not enhance the sterilizing effect of INH
+ These discrepant 187 findings could be due to differences in analysis time points (35 vs 45 days p
+ i
+) 188 and/or reduced dose of INH (5 vs 10 mg/kg) used previously
+lung bacillary loads and lung immunopathology among non-diabetic mice that 190 received the same therapeutic MET dose indicate diminished anti-TB immunity in 191 these mice
+ Ex vivo stimulation and in vivo administration of MET significantly 192 downregulated the expression of type 1 interferon pathway, respectively, in healthy 194 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted July 18, 
+ ;    The potential role of MET as an adjunctive therapy for TB is exciting
+ However, 197 current evidences for MET-induced anti-TB protection have come mostly from 198 retrospectively evaluated studies involving TB/DM comorbid patients
+ A number of 199 can be favorable in certain high-risk populations such as diabetics with chronic 203 influence on the early control of Mtb and bacterial dissemination as observed in our 205 non-diabetic mice
+ Further pre-clinical studies are therefore warranted to decipher 206 the potentially disparate effects of MET in diabetic and non-diabetic hosts before it 207 gains entry into clinical trials as an adjunctive anti-TB drug
+ In future, our long-term 208 T2D mouse model will enable us to investigate the efficacy and optimum therapeutic 209 concentration of MET against TB at various stages of the development of diabetes
+ 210 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted July 18, 
+ ;    We thank Chris Wright, Lachlan Pomfrett and Serrin Rowarth for assistance with 214 This work was supported by the National Health and Medical Research Council 218 (NHMRC) through a CJ Martin Biomedical Early Career Fellowship (grant number 219 New Investigator Project Grant (grant number APP1120808) and an Australian 221 Institute of Tropical Health and Medicine (AITHM) Capacity Building Grant (grant 222 number 15031) to A
+K & N
+ K
+ H
+ D
+ S
+ was supported by an AITHM scholarship
+  223 A
+ K
+ and N
+ K
+ conceived of the study
+ H
+ D
+ S
+, K
+ H
+, S
+ M-H
+, C
+ R
+ and A
+ K
+ performed 226 experiments; H
+ D
+ S
+ and A
+ K
+, performed data analysis
+ N
+ K
+, B
+ G
+, C
+ R
+ and L
+ H
+ 227 assisted with troubleshooting and intellectual input
+ H
+ D
+ S
+ and A
+ K
+ wrote the initial 228 manuscript
+ All co-authors commented extensively on the manuscript and approved 229 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted July 18, 
+ ;    
+ Amberbir A
+ The challenge of worldwide tuberculosis control: and then came 243 
+ Al-Rifai RH, Pearson F, Critchley JA et al Association between diabetes 247 mellitus and active tuberculosis: A systematic review and meta-analysis
+ PloS one 248 
+ Tegegne BS, Mengesha MM, Teferra AA et al Association between diabetes 250 mellitus and multi-drug-resistant tuberculosis: evidence from a systematic review and 251 
+ Gillespie SH
+ Evolution of drug resistance in Mycobacterium tuberculosis: 253 clinical and molecular perspective
+ Antimicrob Agents Chemother 2002; 46: -
+ 254 
+ Zumla A, Chakaya J, Centis R et al Tuberculosis treatment and 255 management--an update on treatment regimens, trials, new drugs, and adjunct 256 
+ Lin SY, Tu HP, Lu PL et al Metformin is associated with a lower risk of active 258 tuberculosis in patients with type 2 diabetes
+ Respirology 2018; 23: -
+ 259 
+ Singhal A, Jie L, Kumar P et al Metformin as adjunct antituberculosis therapy
+ 260 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted July 18, 
+ ;    
+ Dutta NK, Pinn ML, Karakousis PC
+ Metformin Adjunctive Therapy Does Not 262 Improve the Sterilizing Activity of the First-Line Antitubercular Regimen in Mice
+ 263 
+ Morris JL, Bridson TL, Alim MA et al Development of a diet-induced murine 265 
+ Chandel NS, Avizonis D, Reczek CR et al Are Metformin Doses Used in 268 Murine Cancer Models Clinically Relevant? Cell Metab 2016; 23: -
+ 269 
+ Zhang M, He JQ
+ Impacts of metformin on tuberculosis incidence and clinical 270 outcomes in patients with diabetes: a systematic review and meta-analysis
+ Eur J 271 
+ Magee MJ, Salindri AD, Kornfeld H et al Reduced prevalence of latent 273 tuberculosis infection in diabetes patients using metformin and statins
+ The 274 
+ Lachmandas E, Eckold C, Bohme J et al Metformin Alters Human Host 276 Responses to Mycobacterium tuberculosis in Healthy Subjects
+ The Journal of 277 
+ Arts RJW, Carvalho A, La Rocca C et al Immunometabolic Pathways in BCG-279 
+ Lachmandas E, Beigier-Bompadre M, Cheng SC et al Rewiring cellular 281 metabolism via the AKT/mTOR pathway contributes to host defence against 282 Mycobacterium tuberculosis in human and murine cells
+ European journal of 283 
+ Elbere I, Kalnina I, Silamikelis I et al Association of metformin administration 285 with gut microbiome dysbiosis in healthy volunteers
+ PloS one 2018; 13: e
+ 286 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted July 18, 
+ ;    
+ Ma W, Chen J, Meng Y et al Metformin Alters Gut Microbiota of Healthy Mice: 287 Implication for Its Potential Role in Gut Microbiota Homeostasis
+ Front Microbiol 288 
+ Dumas A, Corral D, Colom A et al The Host Microbiota Contributes to Early 290 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted July 18, 
+ ;    Figure 1: Diet induced model of murine T2D, Mtb infection and treatments
+ (a) 317 Six to eight weeks old C57BL/6 male mice were fed with EDD and SD (control mice) 318 for 30 weeks to induce murine TD
+ Following dietary intervention mice were 319 assessed for (b) body weight, (c) fasting blood glucose levels and (d) glucose 320 tolerance
+ (d) GTT was performed by measuring glucose concentrations at 15, 30, 321 60, and 120 mins post i
+ p
+ glucose administration (2 g/kg) and calculating AUC
+ (a) 322 Diabetic and non-diabetic control mice were infected with very-low aerosol dose (10-323 20 CFUs) of Mtb HRv
+ Seven days p
+ i
+, MET (500 mg/kg), INH (10 mg/kg) and 324 combination of MET + INH were administered in drinking water
+ Results are 325 presented as individual data points (b-d) and pooled data means  SEM (d) from two 326 pooled independent experiments
+ Statistical analysis: *p < 
+05; **p < 
+01; ***p < 327 
+001; ****p < 
+0001 by Students t-test
+ Abbreviations: p
+ i
+; post infection, EDD; 328 energy dense diet, SD; standard diet, i
+ p
+; intraperitoneal, GTT; glucose tolerance 329 Figure 2: Divergent effects of MET on control and T2D mice
+ Seven days p
+ i
+, 332 group of mice were sacrificed and assessed for (a) lung bacterial loads
+ Forty-five 333 days following infection, treated and untreated mice from both control and T2D 334 groups were assessed for (b) viable bacteria in lung, (c) lung inflammation and (d) 335 serum IL-12p40 levels
+ Results are presented as individual data points (a-d) and 336 representative images (25x) (c) from two pooled independent experiments (n=7-10 337 mice per group)
+ Statistical analysis: *p < 
+05; **p < 
+01; ***p < 
+001; ****p < 338 
+0001 by Students t-test (b, c) and One-way ANOVA followed by Dunnetts multiple 339 comparison test (b-d) from 7-10 mice per group from two pooled independent 340 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted July 18, 
+ ;    experiments
+ Abbreviations: CON; control, T2D; type 2 diabetes, CFU; colony 341 forming units, p
+ i
+; post infection, UNT; untreated (Solid red circles), MET; metformin 342 (solid black squares), INH; Isoniazid (solid black up-pointing triangles), MET+INH; 343 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted July 18, 
+ ;    Figure 1: Diet induced model of murine T2D, Mtb infection andtreatments
+ (a) Six to eight weeks old C57BL/6 male mice were fedwith EDD and SD (control mice) for 30 weeks to induce murine TD
+(c) fasting blood glucose levels and (d) glucose tolerance
+ (d) GTTwas performed by measuring glucose concentrations at 15, 30, 60, and120 mins post i
+ p
+ glucose administration (2 g/kg) and calculating AUC
+aerosol dose (10-20 CFUs) of Mtb HRv
+ Seven days p
+ i
+, MET (mg/kg), INH (10 mg/kg) and combination of MET + INH weredata points (b-d) and pooled data means  SEM (d) from two pooled***p < 
+001; ****p < 
+0001 by Students t-test
+ Abbreviations: p
+ i
+;(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted July 18, 
+ ;    Figure 2: Divergent effects of MET on control and T2D mice
+ Seven days p
+ i
+, group of mice were sacrificed and assessed for (a) lung bacterialloads
+ Forty-five days following infection, treated and untreated mice from both control and T2D groups were assessed for (b) viable bacteria in lung,(c) lung inflammation and (d) serum IL-12p40 levels
+ Results are presented as individual data points (a-d) and representative images (25x) (c) fromtwo pooled independent experiments (n=7-10 mice per group)
+ Statistical analysis: *p < 
+05; **p < 
+01; ***p < 
+001; ****p < 
+0001 by Students t-test (b, c) and One-way ANOVA followed by Dunnetts multiple comparison test (b-d) from 7-10 mice per group from two pooled independentexperiments
+ Abbreviations: CON; control, T2D; type 2 diabetes, CFU; colony forming units, p
+ i
+; post infection, UNT; untreated (Solid red circles),MET; metformin (solid black squares), INH; Isoniazid (solid black up-pointing triangles), MET+INH; combined therapy (solid black down-pointing(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted July 18, 
+ ;    

@@ -1,0 +1,432 @@
+Bromodomain and extraterminal protein inhibitor, apabetalone (RVX-208), reduces ACE2 expression and attenuates SARS-CoV-2 infection in vitroDean Gilhama*, Audrey L Smithb*, Li Fua*, Dalia Y Mooreb, Abenaya Muralidharanc, St
+ Patrick M Reidc, Stephanie C Stotza, Jan O Johanssona, Michael Sweeneya, Norman CW Wonga, Ewelina a Resverlogix Corp
+, 300, 4820 Richard Road SW, Calgary, Alberta, Canada, T3E 6L1 b Eppley Institute for Research in Cancer and Allied Diseases, University of Nebraska Medical Center,  c Department of Pathology and Microbiology, University of Nebraska Medical Center, 985900 Nebraska (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    BET, bromodomain and extraterminal; BETi, bromodomain and extraterminal protein inhibitor; BD, bromodomain; COVID-19, novel coronavirus disease of 2019; DPP4, dipeptidyl-peptidase 4; DMSO, (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    Effective therapeutics are urgently needed to counter infection and improve outcomes for patients suffering from COVID-19 and to combat this pandemic
+ Manipulation of epigenetic machinery to influence viral infectivity of host cells is a relatively unexplored area
+ The bromodomain and extraterminal (BET) family of epigenetic readers have been reported to modulate SARS-CoV-2 infection
+ Herein, we demonstrate apabetalone, the most clinical advanced BET inhibitor, downregulates expression of cell surface receptors involved in SARS-CoV-2 entry, including angiotensin-converting enzyme 2 (ACE2) and dipeptidyl-peptidase 4 (DPP4 or CD26) in SARS-CoV-2 permissive cells
+ Moreover, we show that apabetalone inhibits SARS-CoV-2 infection in vitro to levels comparable to antiviral agents
+ Taken together, our study supports further evaluation of apabetalone to treat COVID-19, either alone or in (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is responsible for the novel coronavirus disease of 2019 (COVID-19) 1, a pandemic that has caused more than 2 million deaths worldwide, and continues to be a public health emergency 
+ Infected patients present with a wide range of clinical manifestations, including cough, fatigue, and temperature dysregulation (fever / chills) 
+ Unfortunately, 10-20% of infected patients progress to severe disease requiring hospitalization, and ~5% of patients become critically ill 
+ Moreover, ~10-50% patients have long-term health consequences following acute SARS-CoV-2infection that impact cognitive, cardiovascular, and renal function -
+ A dysregulated hyperinflammatory immune response, or cytokine storm, causes harmful widespread tissue damage and is strongly associated with rapidly deteriorating outcomes - viral pneumonia, acute respiratory distress syndrome (ARDS), severe lung injury, multi-organ failure and ultimately death 1, 
+ The high rate of COVID-19 complications and mortality underscore the urgent need for effective therapies, not only to reduce the severity of SARS-CoV-2 infection and improve outcomes,  but to support ongoing vaccination efforts that SARS-CoV-2 is typically transmitted through the inhalation of aerosols and respiratory droplets 
+ Infection is initiated by binding of the viral spike protein to the transmembrane receptor angiotensin-converting enzyme 2 (ACE2) on host cells, followed by fusion of the viral coat with the cell membrane 10, 
+ ACE2 expressing cells in the respiratory track are the first to be infected 
+ In later stages of infection, SARS-CoV-2 spreads systemically into ACE2 abundant cell types outside of the lung (e
+ g
+, kidney, liver, and gastrointestinal tract) -
+ Disrupting spike protein - ACE2 interactions has been the target of experimental COVID-19 therapeutics and vaccine development 10, -
+ Currently approved vaccines evoke an immune response against SARS-CoV-2 spike protein and show protective effects in reducing diseaseseverity 19, 
+ However, until mass vaccination efforts establish herd immunity, safe and effective (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    therapeutics are urgently required to limit the severity of symptoms and prevent necessity for medical intervention arising in unvaccinated subjects, those who do not achieve protection from vaccination or in Recent evidence indicates that ACE2 expression is regulated by bromodomain and extraterminal (BET) proteins in multiple cell types 
+ BET proteins are epigenetic readers that bridge acetylation-dependent binding sites and transcriptional machinery to regulate gene transcription via their tandem bromodomains (BD) 1 and BD2 
+ Inhibitors of BET proteins (BETi) have been reported to downregulate ACE2 expression and limit SARS-CoV-2 replication in vitro
+ However, pan-BETi that target BET bromodomains with equal affinity generate side-effects and toxicity that limit their clinical application 
+ In contrast, apabetalone, an orally available BETi that preferentially targets BD2, is in phase 3 trials for cardiovascular indications, and has an established, favorable safety profile 25, 
+ Here we examined BETi effects on viral infection in cell culture models to mimic initial sites of SARS-CoV-2 infection, as well as cell types contributing to complications arising in late stages of infection
+ We show that apabetalone downregulates ACE2 gene expression, protein levels and cellular binding of SARS-CoV-2 spike protein in cell culture models, and strikingly reduces infection with live SARS-CoV-
+ DPP4 / CD26, a potential cofactor for SARS-CoV-2 infection 27, 28, is also downregulated by apabetalone, with potential synergistic effects with ACE2 reductions that  block cellular SARS-CoV-2 uptake and infection
+ Together, our data show that BET proteins are key pharmacological targets for COVID-19 treatment and further investigation of apabetalone as a therapeutic to treat SARS-CoV-2 infection is warranted
+   (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    Apabetalone and JQ1 were synthesized by NAEJA Pharmaceuticals (Edmonton, Canada) or IRIX Pharmaceuticals (Florence, SC) 
+ MZ1 was acquired from Tocris Bioscience (Bristol, UK)
+ Camostat mesylate and remdesivir were purchased from Selleck Chemicals and Cayman Chemical Co, respectively
+ All compounds were dissolved in dimethyl sulfoxide (DMSO) prior to introduction to cell culture media
+ All cell lines were incubated at 37C in a humidified atmosphere enriched with 5% CO
+ Human bronchial epithelial Calu-3 cells and African green monkey kidney epithelial Vero E6 cells (ATCC) were maintained in complete medium (Eagles Minimum Essential Medium [EMEM, ATCC]) supplemented with 10% fetal bovine serum (FBS), 100 U/mL penicillin and eptomycin (P/S)
+ HepG2 (ATCC) and Huh-7 (JCRB Cell Bank) were cultured in medium recommended by the suppliers
+ Human Karpas-299 T cells (a kind gift from Dr
+ Iqbal, UNMC; originally from DMSZ) were cultured in RPMI-1640 supplemented with 10% FBS and P/S
+ Cryopreserved primary human hepatocytes (PHH) were plated as directed (CellzDirect, Life Technologies), and then treated with compounds in media containing 10% FBS (v/v) but without the Cells were treated with BETi compounds or vehicle (DMSO) in complete medium for up to 96 hours
+ Following treatment, cells were harvested, and transcripts quantified via TaqMan real-time PCR as previously described 30, 
+ Briefly, mRNA was isolated using mRNA Catcher PLUS purification kits according to the manufacturers instructions (Thermo Fisher)
+ Taqman PCR assays were obtained from Applied Biosystems / Life Technologies
+ Real-time PCR was used to determine abundance of the transcript (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    of interest relative to the endogenous reference gene, cyclophilin in a duplex reaction using the RNA Ultrasense One-step qRT-PCR kit (Thermo Fisher)
+ Data was acquired using a ViiA-7 Real-Time PCR apparatus (Applied Biosystems)
+ The analysis was performed as 2^ (CT cyclophilin  CT transcript of interest) and results Calu-3 or Vero E6 cells treated with BETi for 48 hours were lysed and sonicated as previously described 
+ Cell lysates were subjected to sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE) and proteins were transferred to nitrocellulose membranes
+ Membranes were blocked and incubated with anti-ACE2 (R&D Systems AF933) or anti-GAPDH (Cell Signaling 5174) antibodies overnight at 4C, followed by incubation with corresponding HRP-conjugated secondary antibodies (Bio-Rad or Abcam) for 1 h at room temperature
+ Actin was stained with an anti- -ACTIN antibody conjugated directly to peroxidase (Sigma A)
+ Proteins of interest were visualized on a Bio-Rad ChemiDoc MP imager with Enhanced Chemiluminescence Plus (GE Healthcare) or SuperSignal West Pico PLUS Chemiluminescent Substrate (Thermo Fisher) according to the manufacturers instructions
+ ImageJ or Quantity 
+ 
+9 (Bio-Rad) software Cells surface ACE2 protein was stained with Alex Flour 647-conjugated human ACE2 antibody (R&D Systems FABR)
+ Live/Dead (Invitrogen) or Zombie (Bio-Legend) viability dyes were included to gate viable cells
+ Cell surface ACE2 protein levels were measured on a BD FACSCelesta (BD Biosciences) and (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    Post BETi treatment, cells were detached with Accutase (Thermo Fisher), washed, and incubated with recombinant SARS-CoV-2 Spike protein receptor binding domain (RBD) fused to the human IgG1 Fc domain (R&D Systems 10499-CV-100) or control recombinant human IgG1 Fc protein (R&D Systems 10499-CV-100) for 30 min at room temperature
+ The cells were then washed and incubated with PE-conjugated goat anti-human Fc antibodies (Thermo Fisher 12-4998-82) for 30 min at C
+ Spike-RBD binding was measured by flow cytometry on a BD FACSCelesta (BD Biosciences) and analyzed with FlowJo were used to determine BETi-induced cytotoxicity
+ Briefly, Calu-3 (~20,000 cells/well), Vero E6 (~10,000/well), or Karpas-299 (~20,000 cells/well) were treated with vehicle (DMSO) or increasing amounts of BETi for 48 h in 96-well plates, and then the CellTiter 96 AQueous assay (Promega) was preformed according to the manufacturer's instructions to determine cell proliferation
+ Absorbance signal from each well was acquired at 490 nm on a Tecan Infinite M1000 Pro microplate reader (Mnnedorf, SARS-CoV-2 (strain BEI_USA-WA1/2020) was obtained from the BEI and propagated in Vero E6 cells
+ All live virus experiments were performed in the BSL3 laboratory at the University of Nebraska Medical Center (Omaha, USA)
+ Briefly, Calu-3 (~20,000 cells/well) were seeded in 96 well plates and cultured in complete medium overnight
+ Cells were pre-treated with BETi, camostat mesylate, or remdesivir for up to 48 h at C
+ Treatments were washed off and cells were infected with SARS-CoV-2 at a multiplicity of infection (MOI) of 
+1 in complete media
+ Cells were fixed 48 h post-infection with 4% buffered paraformaldehyde (Electron Microscopy Sciences) for 15 min at room temperature
+ The fixed cells were (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    washed with phosphate buffered saline (PBS), permeabilized in 
+1% Triton X solution for 15 min, then blocked in 3% bovine serum albumin-PBS solution
+ The cells were incubated with anti-Spike protein Rab(Sino Biological) at 1:1000 in blocking solution overnight at 4C, followed by incubation with 1:2000 diluted Alexa Fluor 488 conjugated secondary antibody (Thermo Fisher) for 1 h at room temperature
+ Cell nuclei were counterstained using Hoechst 33342 and cytoplasmic membranes were stained with CellMask(Invitrogen)
+ Internal control conditions were included in each plate (i
+ e
+, untreated virus infected and non-infected cells)
+ Cells were imaged using a high content analysis system, Operetta CLS (PerkinElmer)
+ Percentage inhibition of viral infection and cell viability (i
+ e
+, treatment-induced cytotoxicity) were Statistical significance was determined through one-way ANOVA followed by Dunnett's multiple comparison test
+ Comparisons were done vs
+ vehicle control and p<
+05 was considered statistically ACE2 mediates SARS-CoV-2 attachment and entry to host cells 10, 11, and ACE2 gene expression may be driven by BET proteins 
+ Therefore, we investigated the effect of apabetalone on ACE2 gene expression in SARS-CoV-2 permissible cell lines including human lung epithelial cells; Calu-3, and monkey kidney epithelial cells; Vero E
+ In Calu-3 cells, 48 h of apabetalone treatment resulted in dose dependent reduction in hACE2 transcripts by up to 90%, p<
+001 (Fig
+ A)
+ In Vero E6, 24 h of 5 M and 20 M apabetalone treatment resulted in reduction of RhACE2 transcripts by ~40% (p<
+001) and 80% (p<
+001) respectively (Fig
+ B)
+ As ACE2 is expressed outside of the lung in tissues also susceptible to SARS-CoV-2 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    infection 33, 34, we assessed ACE2 gene expression in extrapulmonary cells
+ A dose dependent decrease in hACE2 mRNA was observed in apabetalone treated liver cell culture systems including HepG2 and Huh-7 hepatocarcinoma cells (Fig
+ 1C-D) and PHH derived from 3 donors of different ages and genders (Fig
+ 1E; PHH donor characteristics in Supplemental Table S)
+ BETi with different chemical scaffolds and mechanism of action were included as positive controls: JQ1 is a pan-BETi with equal affinity for BET bromodomains BD1 and BD2 35, while MZ1 is a proteolysis targeting chimera (PROTAC) that directs BET proteins for degradation 
+ Each BETi, including apabetalone, promoted downregulation of ACE2 gene expression in the cell types tested (Fig
+ 1), confirming BET proteins play a pivotal role in the regulation of Immunoblots examining total cell lysates showed that 48 h of BETi treatment reduced ACE2 protein in Calu-3 cells by 40-50% (Fig
+ 2A and Fig
+ S4) and in Vero E6 by 25-50% (Fig
+ 2B and Fig
+ S)
+ As membrane bound ACE2 protein is critical for SARS-CoV-2 entry 10, BETi effects on ACE2 abundance on the cell surface were assessed using flow cytometry (Fig
+ C-E)
+ In Calu-3 cells, 72 h of apabetalone treatment dose dependently reduced the amount of cell surface ACE2 levels by up to 84%, p<
+001 (Fig
+ D)
+ JQ1 or MZ1 treatments also reduced ACE2 protein levels, indicating reduction in ACE2 was an on-target effect of BETi, Vero E6 cells responded similarly to BETi treatment: apabetalone (25 M) reduced cell surface expression of ACE2 by ~40%, p=
+047 (Fig
+ E)
+ Thus, BETi treatment lowered the abundance of ACE2 in both lung and kidney cells, with potential to impede SARS-CoV-2 infection or replication, as cells that do not express (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    CD26 (gene name DPP4) is a potential cofactor for SARS-CoV-2 entry into host cells, as its presence on the cell surface facilitates viral attachment 27, 
+ In Calu-3 cells, 48 h of apabetalone treatment resulted in dose dependent downregulation in DPP4 mRNA (up to 65%, p<
+001 Fig
+ S1A), in line with reduction of cell surface CD26 (up to 40% reduction, p<
+001 Fig
+ SB)
+ Cell surface CD26 was also reduced with 48 h of BETi treatment in Karpas-299 T cells (Fig
+ SC)
+ JQ1 and MZ1 evoked similar responses, indicating BET proteins regulate DPP4 / CD26 expression in Calu-3 lung epithelial cells and Karpas-299 T cells
+  To model viral association with host cells, we measured binding of recombinant SARS-CoV-2 spike protein receptor-binding domain fused with the human IgG1 Fc-epitope (spike-RBD) to Calu-3 or Vero E6 cells
+ Apabetalone pre-treatment for 72 h dose dependently attenuated the amount of spike-RBD protein bound to Calu-3 cells by more than 80% (Fig
+ 3A-B, p<
+ )
+ The comparator BETi, MZ1 and JQ1, were In Vero E6 cells, 48 h of apabetalone pre-treatment reduced the amount of spike-RBD binding up to 45%, p=
+002 (Fig
+ C)
+ Together, these results indicate BET inhibitors reduce levels of SARS-CoV-2 spike-protein Lung epithelial Calu-3 cells are known to support infection of SARS-CoV-2 
+ Given the substantial reduction in spike-RBD binding, BETi may impede infection by SARS-CoV-
+ To test this, Calu-3 cells were pre-treated with BETi for 48 h, washed, then infected with SARS-CoV-2 for 48 h (Fig
+ A)
+ Remarkably, viral replication was significantly impaired in cells pre-treated for 48 h with 20 M apabetalone and remained 55-75% efficacious at concentrations below 5 M (Fig
+ B,D)
+ Though ACE2 mRNA and levels of cell surface ACE2 recovered somewhat during the SARS-CoV-2 infection period (Fig
+ S2), viral replication remained (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    markedly suppressed
+ Remdesivir, a ribonucleotide analogue that inhibits viral RNA polymerases 38, also abolished SARS-CoV-2 replication as expected (Fig
+ B)
+ Prior to binding ACE2, the viral spike protein is primed via proteolytic cleavage by the host cell transmembrane serine protease 2 (TMPRSS2) 
+ Camostat mesylate is a serine protease inhibitor that targets TMPRSS2 
+ Pre-treatment of Calu-3 cells with 
+5 to 50 M camostat mesylate prevented viral infection completely and reinforce how spike protein priming is a required step to initiate infection
+ Importantly, compound treatments were not toxic (Fig
+ C)
+ Together, apabetalone was equally effective at inhibiting SARS-CoV-2 infection as agents that target viral SARS-CoV-2 infection is initiated via SARS-CoV-2 spike protein interactions with ACE2 in cells along the respiratory tract, and uptake may be facilitated by cofactors like DPP4 / CD26 as it is for other coronaviruses 
+ Viral infection leads to cytopathic injury as viral infection spreads to ACE2 expressing cell types outside of the lung -
+ In severe disease, excessive, uncontrolled production of inflammatory mediators generates a cytokine storm and potential for multiorgan dysfunction 
+ In this study, we report apabetalone, the most clinically advanced BETi with BD2 selectivity, reduces SARS-CoV-2 infection in cell culture models through downregulation of viral uptake receptors
+ Previous studies have demonstrated apabetalone suppresses activation of innate and adaptive immune responses 31, 41-44, and thus apabetalone may reduce both SARS-CoV-2 infection and control hyperinflammatory conditions associated BET proteins contain two tandem bromodomains, BD1 and BD2, that bind acetylated lysine on histone tails and transcription factors 
+ Compared to pan-BETi that target both bromodomains, selective inhibition of individual bromodomains (BD selective) results in distinct transcriptional outcomes and (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    biological consequences 46, 
+ Apabetalone is a BETi that preferentially targets BD2, which differentiates it from pan-BETi, including JQ1 35, 
+ Toxicities have arisen in clinical trials with pan-BETi, necessitating close monitoring of patients and modified treatment schedules 
+ Apabetalone is generally well toleratedand in phase 3 clinical development for cardiovascular and renal indications 25, 26, 49, 
+Previous reports have indicated ACE2 gene expression is regulated by BET proteins 
+ In this study, apabetalone treatment resulted in robust and dose dependent downregulation of ACE2 gene expression in Calu-3 lung epithelial cells (Fig
+ 1A; >85% maximal reductions in mRNA levels), as well as extrapulmonary cell types derived from the kidney and liver (Fig
+ 1B-E; >80% maximal reductions in mRNA levels)
+ As a result, apabetalone dose dependently lowered cell surface ACE2 abundance on Calu-3 (Fig
+ 2; up to 84% reductions) and Vero E6 (up to 40%) that corresponded to reductions in ACE2 gene expression
+ Lower levels of cell surface ACE2 were in parallel with diminished binding of SARS-CoV-2 spike protein to cells treated with BETi compounds, including BD2 selective apabetalone, pan-BETi JQ1 and a BET degrader MZ1 (Fig
+ 3), indicating a BET protein dependent mechanisms lead to binding of viral spike protein
+ Strikingly, 48 h of apabetalone pre-treatment at 20 M nearly abolished infection of Calu-3 cells and remained efficacious at concentrations below 1 M (Fig
+ B)
+ Reduction in cell surface ACE2 levels was sustained 48 h after BETi withdraw (Fig
+ S2B-C), which likely account for the profound inhibition of SARS-CoV-2 infection after pre-treatment
+ The positive controls we used in the viral replication assay, remdesivir and camostat mesylate, were 100% effective in blocking SARS-CoV-2 infection (Fig
+ 4B), but their clinical utility is unclear
+ Remdesivir has been FDA approved for COVID-19 in those who are hospitalized with severe symptoms, despite the World Health Organization reporting the drug had little to no effect on 28 day mortality and did not delay the need for ventilation or shorten patients stay in hospital 
+ Camostat mesylate, a protease inhibitor that prevents proteolytic priming of SARS-CoV-2 spike protein by TMPRSS2 to enable ACE2 binding, is still under investigation as an intervention for COVID-19 (ClinicalTrials
+gov Identifiers (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    NCT04353284, NCT04524663, NCT04470544 and others)
+ Importantly, treatment with BETi was not toxic to Calu-3 cells at the concentrations applied in the current study (Fig
+ S)
+  Taken together, our results show apabetalone reduces SARS-CoV-2 infection in vitro and suggest benefit of apabetalone in COVID-19 pathology arising in ACE2 expressing cell types
+ Direct infection of the heart remains enigmatic; however, a recent report has described apabetalone-mediated downregulation of ACE2 expression and SARS-CoV-2 infection / propagation in a 2-D human cardiac myocyte model (Mills, R
+ J
+ et al in   and suggests benefit of apabetalone in preventing COVID-19 associated cardiac damage
+ ACE2 converts angiotensin II (Ang II), a hormone that increases blood pressure, into angiotensin (1-7), a vasodilator that lowers blood pressure 
+ Therefore, downregulation of ACE2 could result in an increase of Ang II and hypertension, however, blood pressure was not altered by apabetalone treatment in clinical trials 26, -
+ DPP4 (CD26) is a membrane-anchored protease linked to diabetes and implicated as a cofactor in SARS-CoV-2 uptake 
+ DPP4 inhibitors (DPP4i) have been developed for diabetic glucose control 56, and are being investigated for treatment of COVID-19 patients with pre-existing diabetic conditions (ClinicalTrails
+gov identifier NCT)
+ CD26 is also linked to T cell activation and DPP4i have been shown to suppress T cell proliferation and production of proinflammatory cytokines 
+ In our study, apabetalone downregulated DPP4 gene expression and CD26 cell surface protein levels in human Calu-3 lung cells and Karpas-299 T cells (Fig
+ S1), in agreement with a recent report confirming BET mediated regulation of DPP4 expression 
+ The data imply therapeutic benefit through reduced viral uptake facilitated by CD26 as well as attenuation of aberrant inflammatory processes associated with severe (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    In patients with SARS-CoV-2, circulating monocytes and infiltrating macrophages increase in number, which may explain elevated levels of pro-inflammatory cytokines like interleukin (IL)-6, IL-1, tumor necrosis factor-alpha (TNF- ), and IL-8 
+  A cytokine storm can evolve, causing ARDS, multi-organ failure,and even death
+ Several anti-inflammatory drugs have been evaluated in clinical trials to treat SARS-CoV-2 with limited success 
+ However, BETi may be more effective with dual anti-viral and anti-inflammatory properties
+ In vitro, apabetalone treatment reduced proinflammatory gene expression in vascular endothelial cells 31, 41, 43, monocytes 31, and vascular smooth muscle cells 
+ Further, apabetalone monocytes isolated from diabetic patients with cardiovascular disease 
+ Apabetalone also reduced vascular inflammation in a mouse model 41 and countered cytokine driven acute phase responses both in cell culture and in mice 
+ These preclinical results translated into clinical trials, where apabetalone treatment was associated with reduction in multiple inflammatory markers in patient plasma 31, 
+ No increase in infection or infestation rates in apabetalone treated patients occurred, indicating apabetalone does not suppress immune function to levels that impair clearance of viral infections
+ Through anti-inflammatory properties, apabetalone may favorably suppress hyperimmune processes leading to ARDS and mortality in COVID-19 infections
+ Further, BETi including apabetalone, improved cardiovascular dysfunction induced by inflammatory mediators found prominently in the COVID-19 cytokine storm in a cardiac organoid model (Mills, R
+ J
+ et al in   and suggest benefit on COVID-19 associated inflammation in the heart
+ Together apabetalone may counter overproduction of specific inflammatory mediators that drive the cytokine storm associated with poor Apabetalone has undergone extensive clinical evaluation
+ To date, the drug has been administered to 1934 subjects in completed phase 1, 2, and 3 clinical studies including 138 healthy volunteers, 576 patients with stable coronary artery disease, dyslipidaemia and/or pre-diabetes, on standard of care background (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    therapy, 1212 patients with diabetes and acute coronary syndrome (ACS), and 8 patients with stage 4-5 chronic kidney disease (Resverlogix Corp
+, compiled data)
+ Overall, apabetalone is well tolerated by patients; adverse events were generally mild with little discernible difference between placebo- and active-treated subjects
+ The dose-limiting adverse event for apabetalone is a non-symptomatic elevation in serum transaminases (alanine transaminase and in some cases aspartate transaminase) without With a well-established safety profile, apabetalone is a novel, clinical trial ready candidate for the treatment of COVID-19 based on a dual mechanism of action that simultaneously lowers ACE2-mediated SARS-CoV-2 infection and combats hyper-inflammatory responses that underlie severe disease
+ Future clinical trials will evaluate apabetalone on top of standard of care to prevent advance of COVID-19 severity ALS, DYM, AM, SPMR, and DE have no conflicts of interest, financial or otherwise
+ DG, LF, SCS, JOJ, MS, NCWW, and EK are employed by Resverlogix and may hold stock and/or stock options
+ Authors on this manuscript are supported in part by a COVID-19 Rapid Response Grant from the College of Medicine at UNMC (to DE and SPMR), and by UNMC start-up funds (to DE)
+ We are grateful to Cyrus Calosing for (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    
+ Soy M, Keser G, Atagunduz P, Tabak F, Atagunduz I, Kayhan S
+ Cytokine storm in COVID-19: pathogenesis and overview of anti-inflammatory agents used in treatment
+ Clin Rheumatol
+ 
+ Stawicki SP, Jeanmonod R, Miller AC, Paladino L, Gaieski DF, Yaffee AQ, et al The 2019-2020 Novel Coronavirus (Severe Acute Respiratory Syndrome Coronavirus 2) Pandemic: A Joint American College of 
+ Dong Y, Mo X, Hu Y, Qi X, Jiang F, Jiang Z, et al Epidemiology of COVID-19 Among Children in China
+ 
+ Barker-Davies RM, O'Sullivan O, Senaratne KPP, Baker P, Cranley M, Dharm-Datta S, et al The Stanford Hall consensus statement for post-COVID-19 rehabilitation
+ Br J Sports Med
+ 2020;54:949-59, 
+ Del Rio C, Collins LF, Malani P
+ Long-term Health Consequences of COVID-
+ Jama
+ 
+ Greenhalgh T, Knight M, A'Court C, Buxton M, Husain L
+ Management of post-acute covid-19 in 
+ Ragab D, Salah Eldin H, Taeimah M, Khattab R, Salem R
+ The COVID-19 Cytokine Storm; What We 
+ Zuo YY, Uspal WE, Wei T
+ Airborne Transmission of COVID-19: Aerosol Dispersion, Lung Deposition, 
+ Hoffmann M, Kleine-Weber H, Schroeder S, Kruger N, Herrler T, Erichsen S, et al SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor
+ Cell
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    
+ Yan R, Zhang Y, Li Y, Xia L, Guo Y, Zhou Q
+ Structural basis for the recognition of SARS-CoV-2 by full-
+ V'Kovski P, Kratzel A, Steiner S, Stalder H, Thiel V
+ Coronavirus biology and replication: implications 
+ Li H, Liu L, Zhang D, Xu J, Dai H, Tang N, et al SARS-CoV-2 and viral sepsis: observations and 
+ Wang Y, Liu S, Liu H, Li W, Lin F, Jiang L, et al SARS-CoV-2 infection of the liver directly contributes to 
+ Zheng KI, Feng G, Liu WY, Targher G, Byrne CD, Zheng MH
+ Extrapulmonary complications of COVID-
+ Alsoussi WB, Turner JS, Case JB, Zhao H, Schmitz AJ, Zhou JQ, et al A Potently Neutralizing Antibody 
+ Monteil V, Kwon H, Prado P, Hagelkruys A, Wimmer RA, Stahl M, et al Inhibition of SARS-CoV-2 Infections in Engineered Human Tissues Using Clinical-Grade Soluble Human ACE
+ Cell
+ ;:-
+ Tortorici MA, Beltramello M, Lempp FA, Pinto D, Dang HV, Rosen LE, et al Ultrapotent human 
+ Baden LR, El Sahly HM, Essink B, Kotloff K, Frey S, Novak R, et al Efficacy and Safety of the mRNA-
+ Polack FP, Thomas SJ, Kitchin N, Absalon J, Gurtman A, Lockhart S, et al Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine
+ The New England journal of medicine
+ 2020;383:2603-15, (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    
+ Walensky RP, Walke HT, Fauci AS
+ SARS-CoV-2 Variants of Concern in the United States-Challenges 
+ Qiao Y, Wang XM, Mannan R, Pitchiaya S, Zhang Y, Wotring JW, et al Targeting transcriptional regulation of SARS-CoV-2 entry factors ACE2 and TMPRSS
+ Proceedings of the National Academy of 
+ Nicodeme E, Jeffrey KL, Schaefer U, Beinke S, Dewell S, Chung CW, et al Suppression of 
+ Gilan O, Rioja I, Knezevic K, Bell MJ, Yeung MM, Harker NR, et al Selective targeting of BD1 and BD2 
+ Nicholls SJ, Schwartz GG, Buhr KA, Ginsberg HN, Johansson JO, Kalantar-Zadeh K, et al Apabetalone and hospitalization for heart failure in patients following an acute coronary syndrome: a prespecified 
+ Ray KK, Nicholls SJ, Buhr KA, Ginsberg HN, Johansson JO, Kalantar-Zadeh K, et al Effect of Apabetalone Added to Standard Therapy on Major Adverse Cardiovascular Events in Patients With Recent Acute Coronary Syndrome and Type 2 Diabetes: A Randomized Clinical Trial Jama
+ 
+ Li Y, Zhang Z, Yang L, Lian X, Xie Y, Li S, et al The MERS-CoV Receptor DPP4 as a Candidate Binding 
+ Solerte SB, Di Sabatino A, Galli M, Fiorina P
+ Dipeptidyl peptidase-4 (DPP4) inhibition in COVID-
+ 
+ Gilham D, Wasiak S, Tsujikawa LM, Halliday C, Norek K, Patel RG, et al RVX-208, a BET-inhibitor for (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    
+ Gilham D, Tsujikawa LM, Sarsons CD, Halliday C, Wasiak S, Stotz SC, et al Apabetalone 
+ Tsujikawa LM, Fu L, Das S, Halliday C, Rakai BD, Stotz SC, et al Apabetalone (RVX-208) reduces vascular inflammation in vitro and in CVD patients by a BET-dependent epigenetic mechanism
+ Clin 
+ Schneider CA, Rasband WS, Eliceiri KW
+ NIH Image to ImageJ: 25 years of image analysis
+ Nat 
+ Hamming I, Timens W, Bulthuis ML, Lely AT, Navis G, van Goor H
+ Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus
+ A first step in understanding SARS pathogenesis
+ The 
+ Hikmet F, Mear L, Edvinsson A, Micke P, Uhlen M, Lindskog C
+ The protein expression profile of ACE2 
+ Filippakopoulos P, Qi J, Picaud S, Shen Y, Smith WB, Fedorov O, et al Selective inhibition of BET 
+ Zengerle M, Chan KH, Ciulli A
+ Selective Small Molecule Induced Degradation of the BET 
+ Tian R, Samelson AJ, Rezelj VV, Chen M, Ramadoss GN, Guo X, et al BRD2 inhibition blocks SARS-CoV-2 infection in vitro by reducing transcription of the host cell receptor ACE
+ 
+ 
+ Wang M, Cao R, Zhang L, Yang X, Liu J, Xu M, et al Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro
+ Cell Res
+ 2020;30:269-71, doi:
+/s-(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    
+ Kawase M, Shirato K, van der Hoek L, Taguchi F, Matsuyama S
+ Simultaneous treatment of human bronchial epithelial cells with serine and cysteine protease inhibitors prevents severe acute respiratory 
+ Fajgenbaum DC, June CH
+ Cytokine Storm
+ The New England journal of medicine
+ 2020;383:2255-73, 
+ Jahagirdar R, Zhang H, Azhar S, Tobin J, Attwell S, Yu R, et al A novel BET bromodomain inhibitor, RVX-208, shows reduction of atherosclerosis in hyperlipidemic ApoE deficient mice
+ Atherosclerosis
+ 
+ Wasiak S, Dzobo KE, Rakai BD, Kaiser Y, Versloot M, Bahjat M, et al BET protein inhibitor 
+ Wasiak S, Gilham D, Daze E, Tsujikawa LM, Halliday C, Stotz SC, et al Epigenetic Modulation by Apabetalone Counters Cytokine-Driven Acute Phase Response In Vitro, in Mice and in Patients with 
+ Wasiak S, Gilham D, Tsujikawa LM, Halliday C, Calosing C, Jahagirdar R, et al Downregulation of the Complement Cascade In Vitro, in Mice and in Patients with Cardiovascular Disease by the BET Protein 
+ Filippakopoulos P, Picaud S, Mangos M, Keates T, Lambert JP, Barsyte-Lovejoy D, et al Histone recognition and large-scale structural analysis of the human bromodomain family
+ Cell
+ ;:-
+ Gacias M, Gerona-Navarro G, Plotnikov Alexander N, Zhang G, Zeng L, Kaur J, et al Selective Chemical Modulation of Gene Transcription Favors Oligodendrocyte Lineage Progression
+ Chemistry & (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    
+ Picaud S, Wells C, Felletar I, Brotherton D, Martin S, Savitsky P, et al RVX-208, an inhibitor of BET transcriptional regulators with selectivity for the second bromodomain
+ Proceedings of the National 
+ McLure KG, Gesner EM, Tsujikawa L, Kharenko OA, Attwell S, Campeau E, et al RVX-208, an Inducer of ApoA-I in Humans, Is a BET Bromodomain Antagonist
+ PloS one
+ 2013;8:e83190, 
+ Kulikowski E, Halliday C, Johansson J, Sweeney M, Lebioda K, Wong N, et al Apabetalone Mediated Epigenetic Modulation is Associated with Favorable Kidney Function and Alkaline Phosphatase Profile in Patients with Chronic Kidney Disease
+ Kidney & blood pressure research
+ 2018;43:449-57, 
+ Haarhaus M, Gilham D, Kulikowski E, Magnusson P, Kalantar-Zadeh K
+ Pharmacologic epigenetic modulators of alkaline phosphatase in chronic kidney disease
+ Curr Opin Nephrol Hypertens
+ ;:-
+ Dyer O
+ Covid-19: Remdesivir has little or no impact on survival, WHO trial shows
+ Bmj
+ 
+ Bian J, Li Z
+ Angiotensin-converting enzyme 2 (ACE2): SARS-CoV-2 receptor and RAS modulator
+ Acta 
+ Nicholls SJ, Gordon A, Johansson J, Wolski K, Ballantyne CM, Kastelein JJ, et al Efficacy and safety of a novel oral inducer of apolipoprotein a-I synthesis in statin-treated patients with stable coronary artery disease a randomized controlled trial Journal of the American College of Cardiology
+ 2011;57:1111-9, 
+ Nicholls SJ, Puri R, Wolski K, Ballantyne CM, Barter PJ, Brewer HB, et al Effect of the BET Protein Inhibitor, RVX-208, on Progression of Coronary Atherosclerosis: Results of the Phase 2b, Randomized, (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    Double-Blind, Multicenter, ASSURE Trial American journal of cardiovascular drugs : drugs, devices, and 
+ Nicholls SJ, Ray KK, Johansson JO, Gordon A, Sweeney M, Halliday C, et al Selective BET Protein Inhibition with Apabetalone and Cardiovascular Events: A Pooled Analysis of Trials in Patients with Coronary Artery Disease
+ American journal of cardiovascular drugs : drugs, devices, and other 
+ Thornberry NA, Gallwitz B
+ Mechanism of action of inhibitors of dipeptidyl-peptidase-4 (DPP-)
+ Best 
+ Klemann C, Wagner L, Stephan M, von Horsten S
+ Cut to the chase: a review of CD26/dipeptidyl peptidase-4's (DPP4) entanglement in the immune system
+ Clinical and experimental immunology
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    Figure 
+ BETi treatment downregulated ACE2 transcript levels in various cell types
+  Gene expression of hACE2 (A, C-E) or RhACE2 (B) was measured by TaqMan real-time PCR
+ Calu-3 (A) were treated for 24 h, Vero E6 (B), HepG2 (C) and Huh-7 (D) cells were treated for 96 h
+ Primary human hepatocytes (n=3 donors; E) were treated for 48 h
+ Error bars represent SD
+ *p<
+05, **p<
+01, Figure 
+ BETi treatment reduced both surface and total ACE2 protein levels
+ A, Immunoblot of total ACE2 protein in Calu-3 cells following BETi treatment for 48 h
+ Values below the blots are indicative of band quantification via densitometric analysis (ACE2 / -ACTIN) and are represented as fold change to vehicle treated cells (
+05% v/v DMSO)
+ B, Immunoblot of total ACE2 protein in Vero E6 cells following BETi treatment for 48 h
+  Values below the blot are indicative of band quantification via densitometric analysis (ACE2 / GAPDH) and are represented as fold change to vehicle treated cells (
+1% v/v DMSO)
+ C, Representative histogram from flow cytometry showing overlay of cell surface ACE2 on Calu-3 cells following 48 h of the indicated treatments
+ D-E, Quantification of ACE2 protein levels on Calu-3 (D; n=3) or Vero E6 (E, n=5) following BETi treatment for 72 h
+ ACE2 surface expression is shown as mean fluorescent intensity (MFI) ratio to isotype control (D-E)
+ Error bars represent SD (n=)
+ *p<
+05, **p<
+01, Figure 
+ BET inhibition decreased SARS-CoV-2 Spike-RBD binding to Calu-3 and Vero E
+  A, A histogram overlay representing the binding of SARS-CoV-2 Spike-RBD Fc fusion protein to Calu-3 following 48 h of apabetalone or JQ1 treatment at the indicated concentrations
+ B-C, Quantification of BETi-driven changes to SARS-CoV-2 Spike-RBD binding to Calu-3 (B; n=3) or Vero E6 (C; n=3) cells
+ Binding (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    results are shown as mean fluorescent intensity (MFI) ratio to Fc control
+ Error bars represent SD
+ *p<
+05, A, Schematic illustration of SARS-CoV-2 infection assay design
+ Briefly, cells were pre-treated with BETi (apabetalone or JQ1), comparator/control compounds [camostat mesylate (Camostat) or remdesivir] or vehicle control (DMSO 
+1% v/v) for 48 h
+ Treatments were washed off and cells were then infected with SARS-CoV-2 at an MOI of 
+ 
+  48 h-post-infection, Calu-3 cells were fixed and stained for Spike protein
+ B, Percent inhibition of viral infectivity by BETi pre-treatment in Calu-3 cells (blue bars)
+ C, Compound-induced cytotoxicity in viral infected Calu-3 cells is shown in grey bars (n=3 independent experiments)
+ D, Representative immunofluorescence images of virus infection in Calu-3 cells for the treatments and indicated concentrations
+ Scale bar = 100 
+ Error bars represent SEM
+ *p<
+05, **p<
+01, ***p<
+001, (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    1      
+62    
+51   
+56   
+56    
+44    
+61 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 11, 
+ ;    

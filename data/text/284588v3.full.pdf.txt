@@ -1,0 +1,513 @@
+Cost-effectiveness of telephone-based weight loss support for patients with knee osteoarthritis: Results of an economic evaluation alongside a pragmatic randomised controlled trialOBrien KM1,2,3, van Dongen JM4,5, Williams A1,2,3, Kamper SJ3,6, Wiggers J1,2, Hodder RK1,2,3, 1School of Medicine and Public Health, Hunter Medical Research Institute, University of Newcastle, 2Hunter New England Population Health, Locked Bag 10, Wallsend NSW, 2287, Australia 4Department of Health Sciences, Faculty of Science, Vrije Universiteit Amsterdam, Amsterdam 5Department of Health Sciences, Faculty of Science, Vrije Universiteit Amsterdam, MOVE research 6School of Public Health, University of Sydney, Lvl 10, King George V Building, Camperdown, 7Outpatient Services, John Hunter Hospital, Hunter New England Local Health District, Locked Bag 8NSW Office of Preventive Health, Liverpool Hospital, South West Sydney Local Health District, certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    Background: The prevalence of knee osteoarthritis is increasing worldwide
+ Obesity is an important modifiable risk factor for both the incidence and progression of knee osteoarthritis
+ overweight receive support to lose weight
+ However, few overweight patients with knee osteoarthritis receive care to support weight loss
+ Telephone-based interventions are one potential solution to provide scalable care to the many patients with knee osteoarthritis
+ The objective of this study is to evaluate whether referral to a telephone-based weight management and healthy lifestyle service for patients with knee osteoarthritis, who are overweight or obese, is cost-effective controlled trial We randomised 120 patients with knee osteoarthritis to an intervention or usual care control group in a 1:1 ratio
+ Participants in the intervention group received a referral to an service
+ For this economic evaluation, the primary outcome was quality-adjusted life years (QALYs) and secondary outcomes included pain intensity, disability, weight, and body mass index (BMI)
+ Costs included intervention costs, healthcare utilisation costs (healthcare services and medication use) and absenteeism costs due to knee pain
+ The primary cost-effectiveness analysis Results: Mean cost differences between groups (intervention minus control) were, $454 (95%CI: -2735 to 4206) for healthcare costs, $-36, (95%CI: -73 to 2) for medication costs, and $-13 (95%CI: -225 to 235) for absenteeism costs
+ The total mean difference in societal costs was $1022 (95%CI: -2201 to )
+ For all outcomes, the probability of the intervention being cost-effective compared with usual care was less than 
+33 at all willingness-to-pay values
+ Conclusions: From a societal perspective, telephone-based weight loss support, provided using an existing non-disease specific 6-month weight management and healthy lifestyle service was not cost-effective in comparison with usual care for overweight and obese patients with knee certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    Osteoarthritis is one of the fastest growing chronic health problems worldwide
+1,2 According to the 2015 Global Burden of Disease Study, osteoarthritis accounted for 
+9% of years lived with disability worldwide in 2015, up from 
+5% in 2010, and was the 13th highest contributor to global disability
+1,2 Knee osteoarthritis consistently accounts for approximately 85% of the burden attributable to osteoarthritis
+1,2 Osteoarthritis also imposes a significant economic burden, with the total annual costs estimated to be $A
+6 billion in Australia,3 
+9 billion in the UK,4 and $US
+1 billion in the US
+5 The majority of these costs are attributable to ambulatory and Excess weight is an important modifiable risk factor for the onset and progression of knee osteoarthritis,6 and there is strong evidence that weight loss interventions reduce pain and practice guidelines recommend all patients with knee osteoarthritis who are overweight receive support to lose weight
+911 Typically, these treatments are delivered using clinical face-to-face models of care
+12 While such clinical models produce moderate effects on weight loss, pain, and physical function,7,8 only 22% of patients with knee osteoarthritis report receiving weight loss care,13 possibly due to limitations in service delivery and patient access to care
+ Arguably more scalable delivery options, using remotely delivered approaches, such as telephone-based support, can maximise the reach of weight loss care and are more cost-effective to support weight loss in this patient group
+ While telephone-based behavioural interventions targeting weight loss are used routinely in the general populations, the cost-effectiveness of referring patients with knee Given the scarce resources in healthcare, policy-makers are increasingly requiring evidence of economic value for healthcare interventions to make informed decisions about how to allocate approaches is important
+ Recently, we conducted a randomised controlled trial (RCT) using an existing non-disease specific telephone-based weight management and healthy lifestyle service for certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    patients with knee osteoarthritis who are overweight or obese
+15 The primary aim of the intervention was to reduce pain intensity, by reducing weight
+ The trial showed no between-group differences in pain intensity, nor weight
+15 Despite the absence of clinical benefit, conducting a distribution of differences in cost and effect and can show that an intervention is cost-effective when neither cost nor effect differences are individually significant
+14 Cost-effectiveness analyses estimate the cost (saved or spent) per unit of effect gained
+ Such estimates can assist decision makers in prioritising interventions to determine how to best allocate limited funds
+ The purpose of the current study is to evaluate the cost-effectiveness of the aforementioned RCT, compared to Economic analyses can be performed from various perspectives including the societal, and healthcare perspectives
+16 The societal perspective includes all costs regardless of who pays
+ This frequently incorporates direct costs; intervention costs, plus costs of care unrelated to the intervention (i
+ e
+ healthcare services and medication costs), and the indirect costs; absence from work and impact on productivity
+16,17 In contrast, the healthcare perspective only includes direct costs i
+ e
+ intervention costs and the costs of other care
+16 In this study, the primary analysis was conducted from a societal perspective and a secondary analysis was conducted from the healthcare perspective
+  The economic evaluation was conducted alongside a two-arm pragmatic parallel group RCT, which was part of cohort multiple RCT
+18 Full details of the study design has been described in the paper presenting the clinical results of the trial15 and in the study protocol
+19,20 The trial was Hunter New England Health Human Research Ethics Committee (///
+18) and the certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    Patients with knee osteoarthritis who were on a waiting list for an outpatient orthopaedic consultation at the John Hunter Hospital in NSW, Australia, were invited to participate
+ Patients were assessed for eligibility during a telephone assessment
+ Eligible patients were randomised to study conditions: i) offered the intervention (intervention group), or ii) usual care control group
+  Inclusion criteria were: primary complaint of pain due to knee osteoarthritis lasting longer than 3 months; 18 years or older; overweight or obese (body mass index (BMI) 27kg/m2 and <40kg/m2); average knee pain intensity 3 out of 10 on a 0-10 numeric rating scale over the past week, or moderate level of interference in activities of daily living (adaptation of item 8 of SF36); and access to a telephone
+ Exclusion criteria were: known or suspected serious pathology as the underlying cause of their knee pain (e
+ g
+ fracture; cancer, inflammatory arthritis; gout; or infection); previous obesity surgery; currently participating in any prescribed or commercial weight loss program; knee surgery in the last 6 months or planned surgery in the next 6 months; unable to comply with the study protocol that requires them to adapt meals or exercise due to non-independent living arrangements; medical or physical impairment precluding safe participation in exercise such as uncontrolled hypertension; and unable to speak or read English sufficiently to complete study The intervention included two components
+ First, brief advice and education about the benefits of weight loss and physical activity for knee osteoarthritis were provided over the telephone immediately after randomisation
+ Second, intervention participants were informed about the NSW to the service for weight loss support
+ The GHS is an existing non-disease specific telephone-based health coaching service funded by the NSW Government to support adults to make sustained healthy lifestyle improvements
+ Targets include diet, physical activity and achieving a healthy weight, and where appropriate, referral to smoking cessation services
+21 The GHS involves 10 individually tailored coaching calls, based on national dietary and physical activity certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    guidelines,22,23 delivered over a 6-month period by university qualified health professionals
+21 Participants in the intervention group remained on the waiting list for orthopaedic consultation
+ Participants in the control group remained on the usual care pathway (i
+ e
+ on the waiting list to have an orthopaedic consultation and could progress to consultation if scheduled or surgery if recommended by the orthopaedic department) and took part in data collection during the study period
+ No other active intervention was provided as part of the study, however; no restrictions were placed upon the use of other health services during the study period
+ Control participants were informed that a face-to-face clinical appointment was available in 6 months
+ For this economic evaluation, the primary outcome was quality-adjusted life years (QALYs)
+ Secondary outcomes included pain intensity, disability, weight, and BMI
+ We measured cost in terms of intervention costs, healthcare utilisation costs (healthcare services and medication use) and work absenteeism costs due to knee pain
+ The primary analysis was conducted from the societal perspective, which includes all these cost categories
+ The secondary analysis was conducted from the All outcomes were assessed by self-reported questionnaires at baseline, six weeks and 26 weeks
+ The baseline questionnaire was completed by telephone
+ Week 6 and week 26 surveys were completed via telephone or mailed in the post as per participant preference
+ Health-related quality of life was assessed using the 12-item Short Form Health Survey version 2 (SF-
+ v)
+24 The participants SF-6D25 health states were translated into utility scores using the British tariff
+26 QALYs were calculated by multiplying the participants utility scores by their time spent in a health state using linear interpolation between measurement points
+ Knee pain intensity was assessed using a 0-10 point NRS
+ Participants were asked to rate their average knee pain intensity over the past week, where 0 represents no pain and 10 represents the worst possible pain
+27 Disability was assessed using the Western Ontario and McMaster Universities Osteoarthritis Index certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    (WOMAC)
+28 The total WOMAC score ranges from 0 to 96, with higher scores indicating greater disability
+ Weight (kg) was assessed via participant self-report and BMI was calculated as All costs were converted to Australian dollars in 2016 using consumer price indices
+30 Discounting Intervention costs were micro-costed and included the cost to provide the brief advice as well as GHS coaching calls
+ The cost to provide the brief advice was estimated from the development and operational costs of the call and the interviewer wages for the estimated average time (5 minutes) taken to provide the brief advice
+ The cost to provide the GHS coaching calls was provided by the GHS31 and multiplied by the number of calls each participant received
+ The number of health Healthcare utilisation costs included any healthcare services or medications used for knee pain (independent of the intervention costs) and were calculated from a patient reported healthcare utilisation inventory
+ Participants were asked to recall any healthcare services (the type of services and number of sessions) and medications used for their knee pain during the past six weeks, at the six and 26 weeks follow-up as part of the participant surveys
+ Healthcare services were valued using Australian standard costs and, if unavailable, prices were according to professional organisations
+3234 Medications were valued using unit prices from the Australian pharmaceutical benefits scheme35 and, if unavailable, prices were obtained from online Australian pharmacy websites
+ To gain an estimate of the cost of healthcare utilisation over the entire 26-week period, the average of the week six and week 26 costs per patient was extrapolated, assuming linearity
+ Absenteeism was assessed by asking participants to recall the total number of sickness absence days from paid work due to knee pain during the past six weeks, at the six and 26 weeks follow-up as part of the participant surveys
+ Absenteeism costs were estimated using the Human Capital certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    Approach16 and were calculated per participant by multiplying their total number of sickness absence days off by the national average hourly income for their gender and age according to the Australian Bureau of Statistics
+27,34 To gain an estimate of the cost of absenteeism over the entire 26-week period, the average of the week six and week 26 costs per patient was extrapolated, All outcomes and cost measures were analysed under the intention-to-treat principle (i
+ e
+ analyses were based on initial group assignment and missing data were imputed)
+ Means and proportions of baseline characteristics were compared between the intervention and control group participants to assess comparability of the groups
+ Missing data for all outcomes and cost measures were imputed using Multiple Imputation by Chained Equations, stratified by treatment group
+36 Data were assumed missing at random
+ Thirty different datasets were created in order for the loss-of-efficiency to be below the recommended %
+36 These separate datasets were analysed as indicated below, after which pooled estimates from all imputed datasets were calculated using Mean cost differences between study groups were calculated for total and disaggregated costs
+ The cost measures were adjusted for the confounders of baseline knee pain intensity, baseline duration of knee pain, baseline BMI and number of days on the waiting list for orthopaedic consultation because the addition of these confounders to the regression model changed the cost differences by more than %
+ Seemingly unrelated regression analyses were performed to estimate total cost differences (i
+ e
+ C) and effect differences for all outcomes (i
+ e
+ E), adjusted for baseline values as well as other potential baseline prognostic factors (knee pain intensity, duration of knee pain, BMI and number of days on the waiting list for orthopaedic consultation, obtained from hospital records)
+ An advantage of seemingly unrelated regression is that two regression equations (i
+ e
+, one for C and one E) are modelled simultaneously so that their certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    Incremental cost-effectiveness ratios (ICERs) were calculated by dividing the adjusted difference in total costs between both groups by the adjusted difference in outcomes (i
+ e
+ C/E)
+ Uncertainty surrounding the ICERs and 95% confidence intervals (95%CIs) around cost differences were surrounding the ICERs was graphically illustrated by plotting bootstrapped incremental cost-effect pairs (CE-pairs) on cost-effectiveness planes (CE-planes)
+16 A summary measure of the joint uncertainty of costs and outcomes was provided using cost-effectiveness acceptability curves, which provide an indication of the interventions probability of being cost-effective in comparison with usual care at different values of willingness-to-pay (i
+ e
+, the maximum amount of money decision-makers are willing to pay per unit of effect)
+16 Data were analysed in STATA (V13, Stata To assess the robustness of results, we performed a per-protocol sensitivity analysis from the societal perspective that included only participants that completed at least six telephone GHS A secondary analysis was performed from the healthcare perspective (i
+ e
+ excluding absenteeism A total of 120 patients were randomised into the study (Figure )
+ Baseline participant characteristics at baseline were similar between groups (Table )
+ At 26 weeks complete data were available for between 70% and 82% of participants (QALYs 70%, pain intensity 82%, disability 79%, weight 81%, BMI %)
+ For cost data, 48% of participants had complete data at 26 weeks
+ As a consequence, 18%-30% of outcome data and 52% of cost data were imputed
+  certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    Australian and/or Torres Strait Islander, n (%) 5 (9) 2 (3) Highest level of education (>High school), n (%) 11 (19) 17 (28) NRS=numeric rating scale, WOMAC=Western Ontario and McMaster Universities Osteoarthritis Index, BMI=Body Mass No differences were found between the intervention and control group for QALYs (MD 
+00, 95%CI: -
+02 to 
+03), pain intensity (MD 
+58, 95%CI: -
+57 to 
+74), disability (MD -
+01, 95%CI: -
+00 to 
+99), weight (MD 
+36, 95%CI: -
+87 to 
+59), and BMI (MD 
+27, 95%CI: -
+93 to 
+46) certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    Table 2: Differences in pooled mean costs and effects (95% Confidence intervals), incremental cost-effectiveness ratios, and the distribution of incremental cost-Analysis  Sample size Outcomes C (95% CI) E (95% CI) ICER Distribution CE-plane (%) 59 60 QALYs  1022 (-2217 to 4745) 
+00 (-
+02 to 
+03) 483453 
+6 
+7 
+2 
+4 59 60 Pain intensity 1022 (-2227 to 4760) 
+58 (-
+57 to 
+74) 1759 
+5 
+3 
+7 
+5 59 60 Disability 1022 (-2205 to 4725) -
+01 (-
+00 to 
+99) -178860 
+3 
+1 
+9 
+7   59 60 Weight 1022 (-2218 to 4717) 
+36 (-
+87 to 
+59) 2851 
+5 
+4 
+3 
+7   59 60 BMI 1022 (-2225 to 4750) 
+27 (-
+93 to 
+46) 3850 
+7 
+9 
+0 
+4 Per protocol 59 60 QALYs  192 (-3692 to 4303) 
+01 (-
+03 to 
+04) 22985 
+0 
+6 
+1 
+3 59 60 Pain intensity 192 (-3710 to 4303) 
+56 (-
+98 to 
+10) 340 
+6 
+7 
+0 
+7 59 60 Disability 192 (-3684 to 4316) -
+04 (-
+40 to 
+48) -5347 
+9 
+6 
+1 
+4   59 60 Weight 192 (-3678 to 4287) 
+32 (-
+12 to 
+76) 146 
+2 
+8 
+9 
+1   59 60 BMI 192 (-3658 to 4317) 
+74 (-
+27 to 
+74) 261 
+3 
+1 
+5 
+1 59 60 QALYs 758 (-2439 to 4439) 
+00 (-
+02 to 
+03) 358615 
+9 
+3 
+4 
+4 59 60 Pain intensity 758 (-2448 to 4456) 
+58 (-
+58 to 
+74) 1305 
+9 
+1 
+8 
+2 59 60 Disability 758 (-2460 to 4409) -
+00 (-
+00 to 
+00) -164545 
+5 
+8 
+1 
+6   59 60 Weight 758 (-2434 to 4466) 
+36 (-
+88 to 
+60) 2115 
+3 
+7 
+2 
+8   59 60 BMI 758 (-2431 to 4442) 
+27 (-
+93 to 
+46) 2856 
+8 
+4 
+3 
+5 Int=Intervention, Cont=Control, CI=confidence interval, C=costs, E=effects, ICER=incremental cost-effectiveness ratio, CE-plane=cost-effectiveness plane, BMI=Body mass index, a The northeast (NE) quadrant of the CE plane, indicating that the intervention is more effective and more costly than control b The southeast (SE) quadrant of the CE plane, indicating that the intervention is more effective and less costly than control c The southwest (SW) quadrant of the CE plane, indicating that the intervention is less effective and less costly than control d The northwest (NW) quadrant of the CE plane, indicating that the intervention is less effective and more costly than control Of the intervention group participants, the average number of GHS coaching calls to intervention participants was 
+7 (SD 
+ )
+ The mean intervention costs were $622 (SE 80) From the societal perspective, mean cost differences between groups (intervention minus control) were, $454 (95%CI: -2735 to 4206) for healthcare costs, $-36, (95%CI: -73 to 2) for medication costs, and $-13 (95%CI: -225 to 235) for absenteeism costs
+ The total mean difference in societal costs was $1022 (95%CI: -2201 to 4771) (Table )
+ From the Table 
+ Mean costs per participant in the intervention and control groups, and unadjusted and adjusted mean cost differences between study groups during the 6-month follow-up period (based on the imputed Intervention costs 622 (80) 0 (0) 622 (480 to 792) 618 (464 to 807) Healthcare costs 2728 (1747) 2605 (1463) 312 (-2728 to 3533) 454 (-2735 to 4206) Medication costs 108 (24) 139 (22) -35 (-71 to 1) -36 (-73 to 2) Absenteeism costs 174 (124) 160 (72) 17 (-170 to 236) -13 (-225 to 235) Total 3632 (1781) 2904 (1478) 916 (-2163 to 4135) 1022 (-2201 to 4771) *Mean cost difference (intervention minus control) adjusted for the baseline variables: knee pain intensity, duration of knee pain (years), BMI, number of days on the waiting list for orthopaedic consultation
+  For QALYs, the majority of the incremental CE-pairs were located in the northeast quadrant, indicating the intervention was on average more costly and more effective than usual care (Figure 2 (a))
+ The ICER for QALYs was 483,453, indicating that one QALY gained in the intervention group was associated with a societal cost of $483,453 as compared with the certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    control group (Table )
+ This large ICER is due to the very small effect on QALYs (MD 
+00, 95%CI: -
+02 to 
+ )
+ The cost-effectiveness acceptability curve for QALYs is presented in For the secondary outcomes, the majority of incremental CE-pairs were located in the northwest quadrant (Table 2, Figure 2 (1b-1e)), indicating that the intervention on average achieved poorer outcomes at a higher cost compared to usual practice
+ As such these ICERs had to be interpreted as the cost per unit of effect lost
+ For pain intensity, an ICER of 1,759 indicated that the intervention costs $1,759 per point increase in pain intensity in comparison to the control group (Table 2, Figure 2 (b))
+ ICERs for weight (2,851) and BMI (3,850) in a similar direction were found, which indicated the intervention costs $2,851 per one kilogram gained and $3,850 per one unit BMI increase (Table 2, Figure 2 (1d and e))
+ In contrast, the ICER for disability was -178,860, which indicated for every 1-point decrease in disability (i
+ e
+ improvement), the intervention costs $178,860 compared with the control group (Table 2, Figure 2 (c))
+ This large ICER was due to the very small effect on disability (MD -
+01, 95%CI: -
+00 to 
+ )
+ Cost-effectiveness acceptability curves for pain intensity, disability, For all outcomes, the probability of the intervention being cost-effective in comparison to usual care was 
+33 at a willingness-to-pay of $0/unit of effect gained
+ For QALYs, disability, weight, and BMI the probability remained about the same irrespective of the willingness-to-pay (Figure 2 (2a, c-e))
+ For pain intensity, this probability decreased with increasing certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    Figure 
+ Cost-effectiveness planes indicating the uncertainty around the incremental cost-effectiveness ratios (1) and cost-effectiveness acceptability curves indicating the probability of cost-effectiveness for different values ($) of willingness-to-pay per unit of effect gained (2) for QALY (a), pain intensity (b), disability (c), Weight (d), and BMI (e) (based on the imputed dataset) certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    Results of the sensitivity analysis can be found in Table 
+ In brief, for QALYs, the probability of cost-effectiveness was 
+47 at a willingness-to-pay of $0 per QALY gained
+ For QALYs and disability, the probability of cost-effectiveness remained about the same irrespective of the willingness-to-pay
+ For pain intensity, weight and BMI the probability decreased for The ICER for QALY was 358,615 indicating that one QALY gained was associated with a For pain intensity, the ICER was 1,305, indicating that a one-point increase in pain intensity was associated with a cost of $1,305, indicating that the intervention was on average more costly and less effective than usual practice (i
+ e
+ achieving poorer outcomes at a higher cost)
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    ICERs in similar directions were found for weight ($2,115 per one kilogram gained) and BMI ($2,856 per one-point increase) (Table )
+ For disability, an ICER of -164,545 was found
+ This indicates that for every 1-point decrease (i
+ e
+ improvement) in disability, the intervention For all outcomes, the probability of the intervention being cost-effective in comparison to usual care was 
+37 at a willingness-to-pay of $0/unit of effect gained
+ For QALYs, disability, and weight the probability remained about the same irrespective of the willingness-to-pay
+ For pain intensity and BMI, this probability decreased with increasing values of willingness-We found that referral to a telephone-based weight management and healthy lifestyle service was not cost-effective from a societal perspective compared with usual care, for patients with knee osteoarthritis who are overweight or obese
+ Sensitivity analyses confirmed these results
+ The maximum probability of the intervention being cost-effective was low for all To our knowledge, there are no other economic evaluations of telephone-based interventions for patients with knee osteoarthritis, yet our study supports other studies showing limited evidence of cost-effectiveness for weight loss treatments for osteoarthritis
+ A systematic effectiveness studies, exercise programs appear to offer the most cost saving but there have been very few reports of the cost-effectiveness of conservative treatments compared to usual or minimal care controls
+39 Of all four trials evaluating lifestyle programs (including weight loss), none were cost-effective
+39 Importantly, the review reported less than 50% of studies to have acceptable methodological quality due to a combination of poor RCT quality, and poor quality economic analyses
+ Our study using a high-quality RCT and contemporary economic certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    analytic methods shows that telephone support targeting weight loss behaviours, physical A more recent high-quality study assessed the cost-effectiveness of a 6-week for patients with generalised osteoarthritis
+40 In this study, all patients received in-depth education with the overall goal to enhance self-management skills
+40 Patients in the face-to-face group received six therapeutic groups session (2-4 hours each), whereas the telephone group received only two face-to-face group sessions (-
+5 hours each) and four individual telephone contacts (15-30 mins each)
+ The study found that from a societal perspective the face-to-face treatment was more likely to be cost-effective at 1-year follow-up
+40 These results, together with the findings from our current study, suggest that telephone-based care for patients with osteoarthritis may not be a cost-effective management approach
+ Since many patients with osteoarthritis do not receive recommended treatments via clinical models of care,13,41 understanding why telephone-based interventions are reported to be as effective as face-to-face interventions but not cost-effective, is an important consideration to inform An important strength of the present study is the pragmatic RCT design
+ The pragmatic design of the trial enabled us to evaluate the intervention under real world circumstances
+ This facilitates the generalisability of the results and allows decision-makers to use these results to help guide future healthcare interventions
+ Another strength is the use of contemporary statistical methods
+ Multiple imputation was used to avoid problems of lost regression analyses were used for analysing the cost and effect components of the cost-effectiveness analysis, allowing us to adjust for various potential confounders that may not be the same for costs and effects, while simultaneously accounting for the possible certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    correlation between costs and effects
+ Bootstrapping techniques were used allowing for an This study is not without limitations
+ Firstly, the rate of missing data at 26 weeks, between 18% and 30% for effect measures and 52% for cost data is high, however, not dissimilar to those in other economic evaluations
+42 We used multiple imputation to account for the missing data, which is recommended over complete case analyses, despite this, results from this study should be treated with caution
+ Another limitation is that costs were obtained through self-reported questionnaires, which may have introduced recall bias, although the recall period was short (6 weeks)
+ Lastly, presenteeism costs were not included, (i
+ e
+ reduced productivity while at work) which is known to be an issue reported by patients with chronic There is a need for more information about the cost-effectiveness of lifestyle interventions for osteoarthritis
+ Although this study indicates that the use of a generic non-disease specific telephone-based service is not cost-effective for overweight and obese patients with knee osteoarthritis, the current evidence suggests existing models of care delivery are unable to provide recommended care to the large number of patients with knee osteoarthritis
+13 More research into how to provide scalable models of care that are cost-effective is needed
+  Interestingly, the National Institute for Health and Clinical Excellence guidelines for the management of osteoarthritis9 refer to general obesity management guidelines for weight loss care for these patients,44 and not disease-specific models of care
+ Based on the results of our study, recommending general non-disease specific weight loss interventions may not be appropriate, or cost-effective for these patients
+ A key feature of our study and that of other osteoarthritis telephone interventions is that they only provide support over a relatively short period (six weeks to six months)
+ However, other general weight loss programs occur over a much longer time frame
+ Better understanding about how the key ingredients for certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    telephone services like dose and relevant components (e
+ g
+ exercise, weight loss, education) affect cost-effectiveness may provide more insight about the true value of telephone-based Our findings suggest that referral to a telephone-based weight management and healthy lifestyle service is not cost-effective compared with usual care for overweight and obese patients with knee osteoarthritis
+ These findings apply to QALYs, pain intensity, disability, Approval was obtained from the Hunter New England Health Human Research Ethics This study was funded by Hunter New England Local Health District, the University of Newcastle and the Hunter Medical Research Institute
+ The institutions had no involvement in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the All authors declare no support from any organisation for the submitted work; no financial relationships with any organisations that might have an interest in the submitted work in the previous three years, no other relationships or activities that could appear to have influenced certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    KO, CW, AW, JW, RH and EC were responsible for the concept and design of the study
+ CW and JW were responsible for obtaining trial funding
+ KO, JVD and CW drafted the manuscript, and all authors contributed to the interpretation of the data for the work and revision of the manuscript
+ All authors have read and approved the final manuscript
+ KO 
+  Vos T, Allen C, Arora M, Barber R
+ Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries, 1990-2015: a systematic analysis for the Global Burden of Disease Study 
+ The Lancet
+ 2016 
+  Vos T, Flaxman AD, Naghavi M, Lozano R, Michaud C, Ezzati M, et al Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 19902010: a systematic analysis for the Global Burden of Disease Study 
+ The Lancet
+ 
+  Arthritis and Osteoporosis Victoria
+ A problem worth solving: the rising cost of 
+  Oxford Economics
+ The economic costs of arthritis for the UK economy
+ 
+  
+  United States Bone and Joint Initiative
+ The Burden of Musculoskeletal Diseases in the United States (BMUS), Third Edition [Internet]
+ Rosemont, IL; 2014 [cited 2016 Jul ]
+ 
+  Silverwood V, Blagojevic-Bucknall M, Jinks C, Jordan JL, Protheroe J, Jordan KP
+ Current evidence on risk factors for knee osteoarthritis in older adults: a systematic certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    
+  Christensen R, Bartels EM, Astrup A, Bliddal H
+ Effect of weight reduction in obese patients diagnosed with knee osteoarthritis: a systematic review and meta-analysis
+ Ann 
+  Messier SP, Mihalko SL, Legault C, Miller GD, Nicklas BJ, DeVita P, et al Effects of intensive diet and exercise on knee joint loads, inflammation, and clinical outcomes among overweight and obese adults with knee osteoarthritis: the IDEA randomized 
+  NICE
+ Osteoarthritis: care and management in adults
+ Clinical Guideline CG177 [Internet]
+ National Clinical Guideline Centre
+ National Institute for Health and Clinical 
+  McAlindon TE, Bannuru RR, Sullivan MC, Arden NK, Berenbaum F, Bierma-Zeinstra SM, et al OARSI guidelines for the non-surgical management of knee osteoarthritis
+ 
+  RACGP
+ Guideline for the non-surgical management of hip and knee osteoarthritis
+ The 
+  Shaw K, ORourke P, Del Mar C, Kenardy J
+ Psychological interventions for overweight 
+  Haskins R, Henderson JM, Bogduk N
+ Health professional consultation and use of conservative management strategies in patients with knee or hip osteoarthritis awaiting 
+  Petrou S, Gray A
+ Economic evaluation alongside randomised controlled trials: design, certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    
+  OBrien KM, Wiggers J, Williams A, Campbell E, Hodder RK, Wolfenden L, et al Telephone-based weight loss support for patients with knee osteoarthritis: a pragmatic 
+  Drummond M, Sculpher M, Torrance G, OBrien B, Stoddart G
+ Methods for the economic evaluation of health care programmes
+ New York: Oxford University Press; 
+  Polimeni JM, Vichansavakul K, Iorgulescu RI, Chandrasekara R
+ Why perspective matters in health outcomes research analyses
+ Int Bus Econ Res J Online
+ 
+  Relton C, Torgerson D, OCathain A, Nicholl J
+ Rethinking pragmatic randomised 
+  OBrien KM, Wiggers J, Williams A, Campbell E, Wolfenden L, Yoong S, et al Randomised controlled trial of referral to a telephone-based weight management and healthy lifestyle programme for patients with knee osteoarthritis who are overweight or obese: a study protocol
+ BMJ Open
+ 2016 Mar ;():e
+ doi: 
+ /bmjopen-
+  OBrien KM, Williams A, Wiggers J, Wolfenden L, Yoong S, Campbell E, et al Effectiveness of a healthy lifestyle intervention for low back pain and osteoarthritis of the knee: protocol and statistical analysis plan for two randomised controlled trials
+ Braz 
+  OHara BJ, Phongsavan P, Venugopal K, Eakin EG, Eggins D, Caterson H, et al 
+  National Health and Medical Research Council (NHMRC)
+ Australian Dietary certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    
+  Brown W, Bauman A, Bull F, Burton N
+ Development of Evidence-Based Physical Activity Recommendations for Adults (18-64 years)
+ Report prepared for the Australian 
+  Ware JE, Kosinski M, Turner-Bowker DM, Gandek B
+ Users Manual for the SF-12v2 Health Survey (with a Supplement Documenting SF-12 Health Survey)
+ Boston, MA: 
+  Brazier J, Roberts J, Deverill M
+ The estimation of a preference-based measure of health from the SF-
+ J Health Econ
+ 2002 Mar;():
+ PMID: 11939242 
+  Trpel D, Crean M, Begley E
+ Executive summary: an economic analysis of home care services for people with dementia
+ 2015 Oct 1 [cited 2017 Jan 20]; Available from: 
+  Hawker GA, Mian S, Kendzerska T, French M
+ Measures of adult pain: Visual Analog Scale for Pain (VAS Pain), Numeric Rating Scale for Pain (NRS Pain), McGill Pain Grade Scale (CPGS), Short Form-36 Bodily Pain Scale (SF-36 BPS), and Measure of Intermittent and Constant Osteoarthritis Pain (ICOAP)
+ Arthritis Care Res
+ 2011 Nov;63 
+  Bellamy N
+ WOMAC User Guide IX
+ Brisbane, QLD; 
+  
+  National Heart, Lung, and Blood Institute & North American Association for the Study of Obesity
+ The practical guide: identification, evaluation, and treatment for overweight and obesity in adults
+ Bethesda, MD: U
+ S
+ Dept
+ of Health and Human Services, Public Health Service, National Institutes of Health, National Heart, Lung, and Blood Institute; 
+  Reserve Bank of Australia
+ Inflation Calculator [Internet]
+ 2015 [cited 2016 Oct ]
+ 
+  Scandol J, Phongsavan P, Haas M
+ An economic appraisal of the NSW Get Healthy certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    
+  AMA
+ List of Medical Services and Fees: 1 November 2016 [Internet]
+ Australia: 
+  Australian Government Department of Health
+ The July 2016 Medicare Benefits Schedule [Internet]
+ Australian Government Department of Health; [cited 2017 Jan ]
+ 
+  NSW Health
+ Guideline: Costs of Care Standards 2009/10 [Internet]
+ NSW Health; 
+  Australian Government Department of Health
+ Pharmaceutical Benefits Scheme (PBS) | Home [Internet]
+ Australian Government Department of Health; [cited 2016 Oct ]
+ 
+  White IR, Royston P, Wood AM
+ Multiple imputation using chained equations: Issues and guidance for practice
+ Stat Med
+ 2011 Feb ;():
+ doi: 
+ /sim
+4067  
+  Rubin DB
+ Multiple imputation using chained equations: Issues and guidance for 
+  Willan AR, Briggs AH, Hoch JS
+ Regression methods for covariate adjustment and 
+  Pinto D, Robertson MC, Hansen P, Abbott JH
+ Cost-effectiveness of nonpharmacologic, 
+  Cuperus N, van den Hout WB, Hoogeboom TJ, van den Hoogen FHJ, Vliet Vlieland TPM, van den Ende CHM
+ Cost-Utility and Cost-Effectiveness Analyses of Face-to-certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    
+  Hunter DJ, Neogi T, Hochberg MC
+ Quality of osteoarthritis management and the need for reform in the US
+ Arthritis Care Res
+ 2011 Jan;():
+ doi: 
+ /acr
+20278 
+  Noble SM, Hollingworth W, Tilling K
+ Missing data in trial-based cost-effectiveness analysis: the current state of play
+ Health Econ
+ 2012 Feb;():
+ doi: 
+  Agaliotis M, Mackey MG, Jan S, Fransen M
+ Burden of reduced work productivity among people with chronic knee pain: a systematic review
+ Occup Environ Med
+ 2014 
+  NICE
+ Obesity: identification, assessment and management [Internet]
+ National Clinical Guideline Centre
+ National Institute for Health and Clinical Excellence; 
+ Available certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 3, 
+ ;    

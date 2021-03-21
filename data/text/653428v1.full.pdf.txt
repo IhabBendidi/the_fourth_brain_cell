@@ -1,0 +1,839 @@
+Sharlene N Flesher1,2,3,4, John E Downey1,2,5, Jeffrey M Weiss6, Christopher L Hughes1,2, Angelica J Herrera1,2, Elizabeth 2 C Tyler-Kabara1,6,7,8, Michael L Boninger1,6,8,9, Jennifer L Collinger1,2,6,9*, Robert A Gaunt1,2,6* 3 1 Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA  5 2 Center for the Neural Basis of Cognition, Pittsburgh, PA 6 4 Department of Electrical Engineering, Stanford University, Palo Alto, CA 8 5 Department of Organismal Biology, University of Chicago, Chicago, IL 9 6 Department of Physical Medicine and Rehabilitation, University of Pittsburgh, Pittsburgh, PA 10 7 Department of Neurological Surgery, University of Pittsburgh, Pittsburgh, PA 11 8 McGowan Institute for Regenerative Medicine, University of Pittsburgh, Pittsburgh, PA 12 Summary paragraph: The sense of touch is critical for skillful hand control13, but is largely missing for 16 people who use prosthetic devices
+ Instead, prosthesis users rely heavily on visual feedback, even though 17 state transitions that are necessary to skillfully interact with objects, such as object contact, are relayed 18 more precisely through tactile feedback
+ Here we show that restoring tactile sensory feedback, 19 through intracortical microstimulation of the somatosensory cortex7, enables a person with a 20 bidirectional intracortical brain-computer interface to improve their performance on functional object 21 transport tasks completed with a neurally-controlled prosthetic limb
+ The participant had full visual 22 feedback and had practiced the task for approximately two years prior to these experiments
+ 23 Nevertheless, successful trial times on a commonly used clinical upper limb assessment task were 24 reduced from a median time of 
+9 s (
+1 - 
+5 s interquartile range) to 
+2 s (
+4 - 
+1 s interquartile 25 range) when vision was supplemented with microstimulation-evoked cutaneous percepts that were 26 referred to different fingers and were graded in intensity based on real-time prosthesis contact forces
+ 27 Faster completion times were primarily due to a reduction in the amount of time spent attempting to 28 grasp objects
+ These results demonstrate the importance of tactile sensations in upper-limb control and 29 the utility of creating bidirectional brain-computer interfaces to restore this stream of information using 30 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    We use our hands to interact with our environment, often by exploring and manipulating objects
+ 32 Without tactile somatosensory feedback, even simple manipulation tasks become clumsy and slow
+ 33 Outside of investigational settings, this source of feedback is rarely provided for prosthetic devices8, and 34 in the context of human brain-computer interfaces (BCIs), has only recently become possible,
+ These 35 studies have begun to describe the perceptual characteristics of cortical stimulation, however, the 36 potential benefits of a bidirectional BCI on function have remained unexplored
+ This is despite the fact 37 that the need for somatosensory feedback in BCIs has long been suggested as the next step towards 38 complete upper-limb restoration1214 and cited by amputees as a desired feature
+ Here we show that 39 a bidirectional BCI (Fig
+ 1) that provides these tactile percepts improves performance in functional object 40 transport tasks using a BCI-controlled robotic arm
+ The percepts were driven in real-time by sensors in a 41 prosthetic hand (Fig
+ 1c,d), evoked through intracortical microstimulation (ICMS) of area 1 of 42 somatosensory cortex (S1) and experienced by a participant as originating from his own palm and 43 We used two tasks to evaluate performance: an object transfer task (Fig
+ 1f) and a modified version of 45 the Action Research Arm Test (ARAT)18 (Fig
+ g)
+ Both tasks were completed using the Modular Prosthetic 46 Limb (MPL)
+ The robotic arm was controlled using neural activity recorded from two 88-channel 47 microelectrode arrays implanted chronically in primary motor cortex (M1) (Fig
+ 1b) of a human 48 participant with tetraplegia resulting from a cervical spinal cord injury
+ Five degrees-of-freedom (DoF), 49 consisting of 3D endpoint translation, pronation/supination of the wrist, and hand grasp aperture (Fig
+ 50 1a)with the hand in a power grasp conformationwere continuously and simultaneously controlled by 51 the participant during all tasks (Fig
+ e)
+ Tactile feedback was delivered in the first four experimental 52 sessions by ICMS through two 32-channel microelectrode arrays implanted in area 1 of S1 (Fig
+ b)
+ 53 Stimulation pulses were delivered at 100 pulses per second and pulse amplitude was modulated linearly 54 by the reaction torques measured at the metacarpophalangeal joint of the fingers on the MPL (Fig
+ d)
+ 55 Pulse trains were delivered to electrodes which, when stimulated, evoked percepts on corresponding 56 We first tested the effect of providing ICMS-induced tactile feedback on functional performance using 58 an object transfer task that was familiar to the participant
+ The goal was to transport a compliant object 59 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    across the workspace (Fig
+ 1f) as many times as possible in two minutes (Supplemental Video )
+ We 60 compared the number of transfers completed during four sessions with ICMS to four sessions without 61 ICMS
+ Each session consisted of five two-minute trials
+ Across a total of 20 trials with ICMS, 352 transfers 62 were completed compared to 315 transfers in the 20 trials without ICMS (Table )
+ The number of 63 transfers increased from 
+8  
+8 transfers per trial to 
+8  
+4 transfers per trial with ICMS, though 64 this difference was not statistically significant (t38 = -
+02, P = 
+050, t-test)
+ However, we observed 65 qualitative improvements during the task that led us to examine the data in more detail
+ 66 The object transfer task can be broken up into grasp, transport and release phases
+ We defined these 67 phases using the physical location of the MPL hand
+ The transport zone consisted of a region 
+5 cm 68 wide and centered on the starting location of the hand at the beginning of a trial The grasp zone was 69 located to the left side of the transport zone, while the release zone was located to the right (Fig
+ f)
+ 70 We first examined the amount of time spent in each movement zone per transfer
+ We found that the 71 time spent in the grasp zone decreased from 
+3  
+2 s per transfer without ICMS to 
+3  
+4 s per 72 transfer with ICMS (t38 = 
+3, P = 
+002, t-test, Fig
+ 2a) while time spent in the release zone decreased 73 from 
+8  
+0 s per transfer without ICMS to 
+3  
+5 s per transfer with ICMS (t38 = 
+0, P = 
+048, t-74 test, Fig
+ a)
+ Time spent in the transport zone per transfer was no different with or without ICMS (
+1  75 
+6 s without ICMS, 
+3  
+3 s with ICMS, t38 = -
+3, P = 
+206, t-test, Fig
+ a)
+ To uncover the reason 76 behind the lower grasp times with ICMS, we examined the total distance travelled while the MPL was in 77 the grasp zone
+ We found that there was significantly more movement in the grasp zone in trials without 78 ICMS compared to trials with ICMS (
+2  
+1 cm/transfer without ICMS, 
+4  
+9 cm/transfer with 79 ICMS, t38 = 
+7, P = 
+0007, t-test, Fig
+ b)
+ This suggests that in trials without ICMS, the additional time 80 was used to move the hand into an ideal configuration to grasp the object
+ This effect is further 81 illustrated by comparing the spatial distributions of time spent across the workspace per transfer (Fig
+ 82 c)
+ With ICMS-evoked sensations, the participant spent less time in the immediate vicinity of the object
+ 83 We then compared performance on a modified version of the ARAT18, which is a clinically validated test 84 of unilateral upper-limb function and one that has been used previously to assess arm control 85 performance in BCI systems,
+ We placed different objects on the left side of the workspace, one at a 86 time, and asked the participant to grasp the object and place it on a raised platform on the right side of 87 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    the table as quickly as possible (Fig
+ 1g and Supplemental Videos -)
+ A score of three was awarded if 88 the task was completed in under five seconds, a score of two was awarded if the task was completed in 89 under two minutes and a score of one was awarded if the object was touched but the task was not 90 completed in two minutes
+ A score of zero was awarded otherwise
+ Each of the nine objects were 91 attempted three times, for a total of 27 trials per ARAT session
+ The final score was the sum of the best 92 Prior to these experiments, the participant had performed 23 ARAT sessions over a period of 23 months 94 using several different control schemes, including four preliminary sessions with ICMS-driven tactile 95 feedback (Fig
+ a)
+ These four exploratory sessions included ICMS, but did not have consistent mapping 96 between finger torque feedback and stimulation parameters
+ Further, these sessions were intermixed 97 with sessions without ICMS rather than being performed consecutively with fixed parameters as in our 98 final experimental design
+ Over these 23 sessions, performance had plateaued, with a median ARAT 99 score of 18 and an interquartile range (IQR) of 
+25  19 (Fig
+ a)
+ We then began collecting data to 100 compare the effect of ICMS on ARAT performance
+ In the first block of four sequential sessionswhich 101 included ICMS, enabling our participant to feel tactile sensations perceived as originating from his own 102 hand when the robotic hand grasped an objecthis ARAT score increased significantly to a median of 21 103 and a range of 20  21 (U = 5, P = 
+005, Wilcoxon rank-sum test, Table 1, Fig
+ a)
+ Performance with 104 ICMS was also significantly better than the four subsequent matched control sessions without ICMS in 105 which he achieved a median ARAT score of 17 with a range of 16  19 (U = 0, P = 
+029, Wilcoxon rank-106 sum test, Fig
+ a)
+ ARAT scores in these control sessions were no different than the 23 historical sessions 107 (U = 39, P = 
+65, Wilcoxon rank-sum test, Fig
+ a)
+ Individual session scores are shown in Table 
+ Despite 108 the significantly improved scores in sessions with ICMS, there was no change in the total number of trials 109 that were successfully completed (U = 7, P = 
+83, Wilcoxon rank-sum, Table )
+ Therefore, the improved 110 ARAT scores occurred as a result of completing individual trials more quickly
+ In the ARAT scoring system, 111 successfully transferring an object in less than five seconds, and achieving a score of three, is considered 112 normal, unimpaired performance
+ In the absence of tactile sensations evoked by ICMS, a score of three 113 was achieved only once during the 4 sessions (108 trials)
+ When tactile sensations were provided, a score 114 of three was attained 15 times during the 108 trials
+ 115 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Overall, we found that trials were consistently completed much more quickly when ICMS feedback was 116 delivered (Fig
+ 3b, Supplemental Video 2); 14% of the trials with ICMS-evoked tactile feedback were 117 completed more quickly than the fastest trial without ICMS
+ In fact, discounting the single trial that was 118 completed in less than five seconds without ICMS, 25% of the trials with ICMS were completed more 119 quickly than trials without ICMS (Fig
+ b)
+ Successfully completed trial lengths decreased from a median 120 time of 
+9 s (
+1 - 
+5 s IQR) to 
+2 s (
+4 - 
+1 s IQR) when tactile feedback was provided (U = 121 1676, P < 
+0001, Wilcoxon rank-sum test, Table 1, Fig
+ 3b and Supplemental Video )
+ These faster 122 completion times were the cause of the 
+5-point improvement in the ARAT score that occurred when 123 ICMS was provided and can be interpreted as meaning that ICMS-induced tactile sensations allowed 
+5 124 more objects, out of 9 possible, to be transported to the platform in a normal time (< 5 seconds)
+ The 125 improved times were not due to differences in the commanded velocities
+ While the distributions of 126 translation velocity commands measured at each time step were statistically different between 127 conditions (D = 
+02, P < 
+0001, 2-sample Kolmogorov-Smirnov test, Extended Data Fig
+ 1), the velocities 128 were functionally equivalent
+ The median translation velocity was 
+7 cm/s (
+5  
+2 cm/s IQR) with 129 ICMS and 
+4 cm/s (
+4  
+6 cm/s IQR) without ICMS
+ Similar results were observed for wrist rotation 130 The ARAT task can be broadly divided into reach, grasp, and transport phases (Supplemental Video )
+ 132 We separated the trials into these three sequential task phases: (1) reach, consisting of movement onset 133 to first object contact; (2) grasp, consisting of first object contact to successful object liftoff; and (3) 134 transport, consisting of object liftoff to object release
+ The median time spent reaching decreased from 135 
+1 s (
+5  
+5 s IQR) without ICMS to 
+5 s (
+2  
+3 s IQR) when ICMS was provided, representing a 136 
+8% improvement (n = 78 without ICMS and n = 85 with ICMS, U = 2204, P = 
+0002, Wilcoxon rank-137 sum test, Fig
+ c)
+ Likewise, the median time spent transporting the object decreased from 
+9 s (
+0  138 
+0 s IQR) to 
+1 s (
+8  
+0 s IQR), representing a 
+3% improvement (n = 78 without ICMS and n = 85 139 with ICMS, U = 
+5, P = 
+002, Wilcoxon rank-sum test, Fig
+ c)
+ Most impressively, the amount of 140 time spent attempting to grasp the object decreased from 
+8 s (
+2  
+4 s IQR) without ICMS to 
+8 141 s (
+9  
+5 s IQR) with ICMS, resulting in a 
+7% improvement in performance (n = 78 without ICMS 142 and n = 85 with ICMS, U = 
+5, P < 
+0001, Wilcoxon rank-sum test, Fig
+ c)
+ We speculated that, much 143 like in the object transfer task, the participant spent less time attempting to grasp the objects during 144 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    trials with ICMS-evoked tactile percepts because the percepts increased his certainty about object 145 contact timing and his confidence that he had successfully grasped the object
+ Why the amount of time 146 spent in the other two phases decreased is less clear
+ Since object contact and contact force cannot be 147 felt without ICMS, he may have taken longer positioning the hand to improve the amount of information 148 about object interaction he could extract visually, thus increasing the amount of time spent reaching
+ 149 For the transport phase, the participant may have been less confident about his grasp stability, causing 150 him to move more slowly during transport to avoid dropping the object
+ 151 By design, the objects in the ARAT task vary in size, shape, weight and, therefore, the overall difficulty in 152 grasping them
+ As a result of the significant time spent practicing this task, the participant had classified 153 the nine ARAT objects as being either easy (5 cm cube, 
+5 cm cube and sphere) or difficult (
+5 cm cube, 154 10 cm cube, rock, small cylinder, large cylinder and water pouring) to complete
+ All of the objects that 155 were rated as easy, as well as the 10 cm cube and large cylinder, were completed more quickly with 156 ICMS than without ICMS (Fig
+ 3d, Extended Data Table )
+ Including ICMS did not significantly improve 157 perfomance with the rock, small cylinder or water pouring task although the median completion time 158 did go down for all of the objects
+ Therefore, other factors, such as the controllable degrees of freedom 159 or kinematic constraints in the robotic arm, may have limited performance on these objects
+ However, 160 for those objects that could be completed more easily, adding ICMS feedback further improved 161 Prior to conducting the functional tasks each session, BCI decoder performance was tested in the 163 absence of ICMS-evoked tactile feedback using a random target sequence task
+ This task explicitly 164 measured how well the participant could independently control each DoF by moving to specific locations 165 in the 5 DoF workspace
+ On the days when ICMS-evoked tactile feedback was not provided, sequence 166 task performance was slightly higher, achieving a median score of 100% on all four days compared to a 167 median of 95% (range 90-100%) on the days where ICMS was delivered during the functional tasks (12 168 scores per condition, U = 
+5, P = 
+025, Wilcoxon rank-sum test, median scores for individual sessions 169 in Table )
+ This suggests that decoder performance itself, and thus the participants ability to control 170 the robotic arm, did not favor the days on which ICMS was provided
+ 171 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    In many bidirectional upper-limb prosthetics studies where amputees receive restored sensory feedback 172 through electrical stimulation of the peripheral nerves, the effect of artificial sensations on performance 173 are measured without visual or auditory feedback,
+ Our approach differed from these studies in 174 that our aim was to investigate the effect of providing artificial somatosensory feedback on tasks that 175 were already possible with existing sensory modalities, namely vision
+ Here, we demonstrated that in 176 highly-practiced tasks where normal visual feedback was available, adding artificial tactile feedback 177 through ICMS enabled a person with spinal cord injury using a BCI to significantly improve their task 178 scores, primarily by spending less time attempting to grasp the objects (Fig
+ 2a,c, b,c)
+ 179 As with any single-subject study, it is uncertain whether these findings will generalize to future 180 experiments
+ However, there are several reasons to believe that these results accurately represent the 181 potential of restoring somatosensory percepts using ICMS
+ First, using the same fundamental neural 182 decoding and control methods, we have demonstrated that two participants achieved similar scores on 183 functional tasks with vision alone20,22 and that these scores were only exceeded when ICMS-evoked 184 tactile feedback was provided (Fig
+ a)
+ This suggests that without artificial tactile feedback, control is 185 impaired, much as it is when tactile sensations are absent in people with otherwise normal motor control 186 capabilities,
+ Second, we found that performance improvements were driven primarily by reductions 187 in the time taken to successfully grasp an object
+ State transitions, such as object contact5 during the 188 grasp phase, are uniquely encoded by tactile feedback in the intact nervous system
+ That the percepts 189 signaled these state transitions with high temporal accuracy, and enabled him to grasp objects more 190 quickly, suggests that ICMS delivered to area 1 of S1 can improve task performance in a way that is 191 congruent to the way natural cutaneous feedback improves grasp performance
+ Finally, when ICMS-192 induced percepts were provided, performance improved significantly, and when they were removed, 193 performance returned to pre-ICMS levels (Fig
+ a)
+ Therefore, these observations suggest that the 194 observed improvements were primarily due to the addition of reliable sensory information, rather than 195 the result of additional practice
+ This immediate performance improvement also suggests that ICMS in 196 S1 was not akin to sensory substitution cues that could have been provided by electrical or mechanical 197 stimulation of intact skin or audio or visual cues, as the relationship between these cues and behavior 198 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Ultimately, ICMS-induced tactile percepts improved task performance to levels not previously observed, 200 decreased the time spent grasping in ways that were analogous to the role of natural tactile sensations 201 during grasp state transitions, and do not appear to be the result of practice, suggesting that including 202 naturalistic somatosensory feedback, like that induced with ICMS, could have a major impact on the 203 This study was conducted under an Investigational Device Exemption from the U
+ S
+ Food and Drug 207 Administration and is registered at ClinicalTrials
+gov (NCT)
+ The study was approved by the 208 Institutional Review Boards at the University of Pittsburgh and the Space and Naval Warfare Systems 209 Center Pacific
+ Informed consent was obtained before any study procedures were conducted
+ 210 A 28-year-old male participant with tetraplegia due to a C5 motor/C6 sensory ASIA B spinal cord injury 211 was implanted with two sets of microelectrode arrays (Blackrock Microsystems, Inc
+, Salt Lake City, Utah, 212 Fig
+ b)
+ Two intracortical microelectrode arrays with 88 wired channels (10x10 array, 
+5 mm length 213 platinum electrodes) were implanted in the hand and arm region of M1 in order to decode movement 214 intent
+ Two additional microelectrode arrays with 32 wired channels were implanted in area 1 of S1 215 (6x10 array, 
+5 mm length and coated with a sputtered iridium oxide film) in order to evoke sensations 216 in the fingers of the right hand when stimulated
+ The study sessions described here took place between 217 Voltage recordings from each electrode were band-pass filtered between 
+3 Hz and 
+5 kHz and 220 digitized at 30,000 samples per second using a NeuroPort signal processor (Blackrock Microsystems, Inc
+, 221 Salt Lake City, Utah)
+ Electrical artifacts induced by microstimulation were rejected using a combination 222 of digital signal blanking and filtering
+ During each stimulus pulse the recorded signals were blanked 223 using a sample-and-hold circuit
+ The signals were then high-pass filtered using a 750 Hz first-order 224 Butterworth filter that minimized the effect of additional transient discontinuities in the signal, enabling 225 fast settling of the wideband signal to baseline
+ A spike threshold was set at -
+5 times the root-mean-226 square of this high-pass filtered signal Any transient threshold crossings that occurred in the sample 227 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    immediately after the blanking period were rejected in software
+ Using this approach, we were able to 228 record single unit activity within 740 s of the end of a stimulus pulse
+ 229 To investigate the ability of the participant to use ICMS-evoked tactile percepts during continuous 231 control of a prosthesis, we first created a mapping between population-level neural firing rates recorded 232 in M1 and desired arm movements
+ A 5 DoF decoder was used in this study, comprising translation of 233 the endpoint in 3D space, wrist pronation and supination, and flexion and extension of all fingers and 234 the thumb, with the thumb always opposite the fingers
+ All 5 DoFs were controlled simultaneously
+ A 5 235 DoF control scheme was chosen as it provided a balance between fast training times and a sufficient 236 degree of dexterity to grasp the different objects used in these experiments
+ 237 To train the decoder, the participant observed a virtual version of the Modular Prosthetic Limb (MPL)19 238 moving in a 3D environment, as has been described previously
+ In this task, the participant was asked 239 to observe and imagine performing the motions of the MPL as the hand was first translated, then 240 oriented, and finally commanded to grasp targets that were randomly presented throughout the 241 workspace using a combination of virtual objects and auditory cues
+ After observing the completion of 242 27 trials, which took approximately 7 minutes, an optimal linear estimator decoder was derived using an 243 encoding model that relates neural firing rates to arm kinematics
+ The encoding model was: 244 	 = 	% 	+	'' 	+	)) 	+	** +	++ +	,,  (Equation 1) 245 where f is the square-root transformed firing rate of a recorded unit, v is a kinematic velocity, and b is a 246 regression coefficient for a given velocity dimension
+ The dimensions shown in Equation 1 are x, y, and z 247 translation, wrist rotation (), and grasp (g)
+ The b coefficients were calculated using linear regression
+ 248 Decoder weights were then calculated using indirect optimal linear estimation (Fig
+ e)
+ 249 The participant used the decoder trained from observation data to repeat the training task, however the 250 computer constrained the decoded movement velocities to those that were on the ideal path
+ Once 251 this task was completed, a new decoder was trained using the data from the second training set
+ During 252 task performance, all firing rates were scaled, prior to being decoded, by dividing them by the ratio 253 between the population firing rate during the most recent 300 ms and the population firing rate during 254 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    decoder calibration
+ This method of scaling firing rates prior to decoding was developed to compensate 255 for a correlated increase in firing rate across the recorded population that we observe when the 256 prosthetic hand approaches objects
+ This scaling allowed the participant to better stabilize the hand 257 near objects in order to grasp them
+ Ultimately, this velocity decoder was then used, without computer 258 assistancethat is the decoders and prosthetic arm control systems were nave to the goalto complete 259 Decoder performance was evaluated using the physical MPL in a sequence task, where the goal was to 261 acquire instructed combinations of hand endpoint position, wrist orientation and grasp posture,
+ A 262 total of 3 sets of 10 trials were performed with the robotic limb without computer assistance to establish 263 the baseline decoder performance accuracy in the absence of objects and ICMS
+ A trial was considered 264 successful if the participant was able to place the robotic hand within a position target that was 5 cm in 265 diameter, orient the wrist to within  
+25 radians and control the grasp aperture to be at least 80% of 266 the way to maximum flexion or extension of the digits being used
+ 267 Stimulation pulse trains consisted of cathodal phase first, current-controlled, charge-balanced pulses 269 delivered at a rate of 100 pulses per second
+ The cathodal phase was 200 s long, the anodal phase was 270 400 s long, and the amplitude of the anodal phase was set to half the amplitude of the cathodal phase
+ 271 The phases were separated by a 100-s interphase period
+ Detailed descriptions of sensory percepts 272 evoked via ICMS of S1 have previously been reported
+ Briefly, ICMS elicited percepts that were 273 described by the participant as originating from the bases of the 2nd through 5th digits and up to the distal 274 interphalangeal joint of the index finger
+ We selected the electrodes used to provide ICMS-evoked tactile 275 percepts prior to the experiments and focused on electrodes that elicited easily detectable percepts with 276 a clear projected location
+ One electrode, with a projected field in the proximal interphalangeal joint of 277 the index finger, was mapped to the output of the torque sensor located at the index finger metacarpal 278 phalangeal joint of the MPL
+ Four electrodes with projected fields in either the middle, ring or little finger 279 were mapped to the torque sensor output from the middle finger of the MPL (Fig
+ c)
+ Together, the 280 projected fields from the selected electrodes spanned the index, middle, ring and little fingers
+ 281 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    For tasks with ICMS, torque sensors located in the motors controlling the MPL fingers provided the signal 282 that was used to modulate ICMS pulse train amplitude according to the follow equation: 283 9  (  ) +   (Equation 2)where At refers to the commanded 284 pulse train amplitude at time step t, Amin and Amax refer to the electrode-specific range of stimulus 285 amplitudes, and T represents the torque sensor data that was being used to relay grasp force
+ We also 286 set values for the minimum and maximum torque readings, Tmin and Tmax , respectively, that 287 corresponded to the minimum and maximum stimulation amplitudes
+ The selected torque thresholds 288 were 
+1 Nm and 
+5 Nm, which corresponded approximately to light touch and strong grasp, 289 respectively
+ These values were linearly mapped to stimulus amplitudes that ranged from 14 to 64 A 290 in increments of 4 or 6 A (Fig
+ d)
+ New torque values were sampled every 20 ms and used to update 291 We used two different paradigms to quantify the effects of providing ICMS on the participants ability to 294 complete functionally relevant tasks
+ Both the object transfer task and Action Research Arm Test (ARAT) 295 have been successfully performed with vision as the only source of feedback,
+ Here we directly 296 compared performance with and without ICMS-evoked tactile percepts while vision was always present
+ 297 For the object transfer task, we asked the participant to reach to and grasp a cylindrical object (16 cm 298 tall and 
+3 cm in diameter) with a weighted base placed on the left side of the table, lift the object off 299 of the table, carry it to the target area on the right, and release the object (Fig
+ f)
+ Two boundaries were 300 marked on the table that defined a 
+5 cm region where the object was not allowed to touch the table 301 (red area in Fig
+ f)
+ If the object touched the table between these boundaries, the task could be 302 continued by moving the object back to the left side of the table and continuing
+ Once the object was 303 placed on the right side of the table, an experimenter returned the object to the start position and the 304 participant repeated the process as many times as possible in two minutes (Supplemental Video )
+ 305 Performance on this task was measured as the number of times the object was successfully moved across 306 the table in two minutes
+ This task was always completed prior to the ARAT task
+ 307 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    We also conducted a modified version of the Action Research Arm Test (ARAT)18,33 , which consisted of 308 moving eight different objects from the left side of a table to a raised platform located on the right side 309 (Fig
+ g)
+ These objects were selected from the suite of objects that are part of the standard ARAT task33 310 and included four cubes (
+5 cm, 5 cm, 
+5 cm and 10 cm along each edge), a 
+5 cm diameter ball, a 311 rock, and two cylinders (
+5 cm and 1 cm in diameter and 16 cm tall)
+ Additional objects from the ARAT 312 task were too small to be grasped by the MPL
+ The target platform was 34 x 
+5 cm and was elevated 313 12 cm off the table surface
+ The objects started approximately 70 cm away from the target platform
+ A 314 ninth object from the original ARAT task was also included in which a cup filled with small pieces of paper 315 and plastic, as a proxy for water, was placed at the right side of the workspace, and an empty cup was 316 placed 20 cm to the left of it
+ The participants task was to empty the water from the cup on the right 317 into the empty cup on the left and replace the originally grasped cup back on the table in an upright 318 position
+ This task was considered a success if any water landed in the target cup and if the original 319 In all cases, the participant was instructed to complete the task as quickly as possible
+ The participant 321 had a maximum of two minutes per attempt, and three attempts per object
+ Each attempt at transferring 322 the objects was considered a trial Trials were timed by experimenters from movement onset to the 323 object being successfully placed on the target platform
+ Each trial was scored on a 3-point system in 324 which a score of zero was awarded if the object was never touched, a score of one was awarded if the 325 object was touched but the participant was unable to complete the task, a score of two was awarded if 326 the task was completed in less than two minutes but more than five seconds, and a score of three was 327 awarded if the task was completed in under five seconds
+ The best score from the three attempts for 328 each object was added together to create a single score for the test
+ Therefore, for the task with nine 329 The score, which is the validated metric of the ARAT task, fails to take into account other aspects of 331 performance, such as the total number of completed attempts per object and the actual completion 332 time
+ Therefore, we recorded video of all trials and measured the time spent reaching for, grasping, and 333 transporting the object
+ All task phase calculations were done offline, marking individual video frames 334 that spanned each event
+ Reaching was defined as the time from movement onset until the first object 335 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    contact
+ Grasping was defined as the period between object contact and successful object liftoff from 336 the table
+ The transport phase spanned object liftoff until object release
+ 337 We tested the two feedback conditions in a block-design over the course of these experiments
+ For the 338 first four sessions, ICMS feedback was delivered to five electrodes
+ Each experiment day, three blocks of 339 the sequence task, five blocks of the object transfer task, and one ARAT session were completed
+ For the 340 next four consecutive sessions, the same testing protocol was followed, but ICMS was not delivered
+ 341 Statistical analyses were performed in MATLAB (The MathWorks)
+ Data that were not normally 343 distributed, as determined using Lilliefors test (a = 
+05), are reported as medians and interquartile 344 ranges (IQR) and the Wilcoxon rank-sum test was used to assess significance for differences in the 345 median unless otherwise stated
+ The Mann-Whitney U test statistic is reported for all Wilcoxon rank-346 sum tests
+ Normally-distributed data, as determined using Lillifors test (a = 
+05), are reported as mean 347  standard deviation and a two-tailed Students t-test was used to assess significance for differences in 348 the mean
+ Specific statistical tests are noted in the text
+ All object transfer data have n = 20 trials per 349 Data supporting these findings as well as software routines to analyze these data are available from the 352 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Supplementary Information is available in the online version of this paper
+ 355 Acknowledgements We thank N
+ Copeland for his continuing and extraordinary commitment to this 356 study as well as insightful discussions with the study team; Debbie Harrington (Physical Medicine and 357 Rehabilitation) for regulatory management of the study; Ahmed Jorge for help with data collection; Peter 358 Gibson and Ben Clarkson for video data processing; the University of Pittsburgh Clinical and Translational 359 Science Institute and the Office of Investigator-Sponsored Investigational New Drugs and Investigational 360 Device Exemption support for assistance with protocol development and regulatory reporting and 361 compliance; the volunteer members of the Data Safety and Monitoring Board for their continued 362 monitoring of this study; H
+ Jourdan (Department of Physical Medicine and Rehabilitation) for financial 363 and organizational support; and Blackrock Microsystems (Salt Lake City, UT, USA), especially Robert 364 Franklin, for technical support related to this project
+ This material is based upon work supported by the 365 Defense Advanced Research Projects Agency (DARPA) and Space and Naval Warfare Systems Center 366 Pacific (SSC Pacific) under Contract No
+ N66001-16-C-4051 and the Revolutionizing Prosthetics program 367 (Contract No
+ N--C-)
+ S
+ N
+ F
+ was supported by an NSF Graduate Research Fellowship under 368 grant number DGE-
+ The views, opinions, and/or findings contained in this article are those of 369 the authors and should not be interpreted as representing the official views or policies of the 370 Department of Veterans Affairs, Department of Defense, or US Government
+ 371 Author Contributions S
+ N
+ F
+, J
+ E
+ D
+, J
+ L
+ C
+, and R
+ A
+ G
+ designed the study
+ S
+ N
+ F
+, J
+ E
+ D
+, J
+ M
+ W
+, C
+ L
+ H
+, 372 A
+ J
+ H
+, J
+ L
+ C
+, and R
+ A
+ G
+ conducted the experiments
+ S
+ N
+ F
+ analyzed the data
+ All authors contributed to 373 the interpretation of the results
+ S
+ N
+ F
+ wrote the paper with R
+ A
+ G
+ and J
+ L
+ C
+, and all authors provided 374 Author Information The authors declare that they have no competing interests
+ Correspondence and 376 requests for materials should be addressed to R
+ A
+G (rag@pitt
+edu) and J
+ L
+ C
+ (collinger@pitt
+ edu)
+  377 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Table 1: Performance metrics for each task per experiment day
+ The total number of object transfers is 378 the sum of all five 2-minute trials per day
+ ARAT scores were computed as the sum of the best score per 379 object, with a maximum score of 
+ Each of the nine objects was attempted 3 times, so that the 380 maximum number of trials attempted per session was 
+ The total median and IQR trial time for 381 successful ARAT trials was calculated by pooling trial times across all four sessions per feedback condition 382 and calculating the median and IQR from the aggregate distribution
+ 383 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Fig
+ 1: Overview of bidirectional BCI system components, operation and tasks
+ a, The study participant 386 used a bidirectional intracortical BCI to control a robotic prosthesis in real time
+ The arm was positioned 387 near the participant to provide clear visual feedback, but physical contact was not possible
+ The 388 participant controlled the prosthesis in five dimensions, illustrated by the dark blue arrows (3D 389 translation, wrist rotation and grasp)
+ b, Four microelectrode arrays were implanted in the left 390 hemisphere
+ Arrays in primary motor cortex (blue) recorded signals which were used to control the 391 modular prosthetic limb
+ Arrays in somatosensory cortex (red) delivered stimulation pulses, which 392 artificially activated neurons, resulting in sensory percepts referred to the hand
+ c, Stimulation of the 393 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    electrode arrays in the somatosensory cortex evoked percepts from the base of the fingers
+ Colored grids 394 represent individual electrodes on the two microelectrode array and the locations on the hand where 395 stimulation through each electrode evoked a percept (index finger = purple, middle finger = blue, ring 396 finger = green, little finger = orange)
+ Torque sensors in the robot fingers were used to drive selected 397 electrodes in the somatosensory cortex with matching somatotopic fields (e
+ g
+ index finger torque 398 sensor controlled electrodes evoking percepts in the index finger)
+ d, The torque measured at the base 399 of the fingers increased as more force was applied to the objects
+ Stimulation current amplitude was 400 modulated by torque using a linear transformation
+ e, Threshold crossing events were detected from the 401 multichannel neural recordings in the motor cortex
+ Each row represents an individual electrode and 402 each mark represents a threshold crossing event
+ Using an optimal linear estimation decoding scheme, 403 endpoint velocity (vx, vy vz) as well as wrist pro/supination velocity (vq) and grasp velocity (vg) were 404 simultaneously and continuous decoded
+ f, Overhead view of the object transfer task showing the grasp 405 (gray area), transport (red area) and release (green area) zones
+ The cylindrical object was placed in the 406 grasp zone by the experimenter, was grasped using the prosthesis, moved over the transport zone and 407 placed in the release zone
+ This process was repeated as many times as possible in two minutes
+ g, 408 Overhead view of the Action Research Arm Test (ARAT) showing the object presentation position (green 409 dot) and the raised platform target (green box)
+ Different objects (not all objects shown) were positioned 410 at a standard location, grasped and then placed on the platform as quickly as possible
+ For all tasks, the 411 arm was under full control of the user from the start to the end of a trial  412 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Fig
+ 2: Object transfer performance
+ a, Amount of time spent in each task zone, per transfer, by feedback 414 condition (n = 20 trials per feedback condition)
+ Data for all trials are shown with red lines indicating the 415 mean value and the whiskers indicating one standard deviation
+ The amount of time spent in the grasp 416 and release zones decreased significantly with ICMS feedback (*P = 
+002 and 
+048, t-test, respectively), 417 but the amount of time in the transport zone per transfer was not affected
+ b, Distribution of average 418 path lengths in the grasp zone per trial for the two feedback conditions, computed as the total path 419 length divided by the number of transfers
+ The longer path lengths (*P = 
+0007, t-test) without ICMS 420 suggest that the extra time spent in the grasp zone was to adjust the endpoint position, rather than to 421 hold the robot still while attempting to issue a grasp command
+ c, Spatial map of the amount of time 422 spent in each location in the workspace per transfer
+ Each individual square represents a 1 x 1 cm region
+ 423 Without stimulation, there was substantially more time spent near the object in the grasp zone as shown 424 by the increase in the number of locations colored yellow in the grasp zone
+ Red lines indicate zone 425 boundaries
+ Color indicates the amount of time spent in each location per transfer
+  426 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Fig
+ 3: Effect of ICMS on ARAT task performance
+ a, Comparison of ARAT scores before experiment onset, 428 which spanned a range of controlled degrees of freedom and occasionally employed ICMS feedback 429 (blue dots), to data from the current experiment with ICMS feedback (blue) and without (gray)
+ ARAT 430 scores with ICMS feedback were significantly higher than historic performance (*P = 
+005, Wilcoxon 431 rank-sum test) as well as control tests (*P = 
+029, Wilcoxon rank-sum test) conducted without ICMS
+ 432 Red lines indicate the median score per paradigm
+ b, Cumulative distribution of individual trial times, 433 including failed trials, shown on a log-normalized axis
+ Trials for all four sessions for each feedback 434 condition were combined to compute the empirical cumulative distribution
+ The horizontal red line and 435 connected vertical red lines indicate the times at which 50% of all attempted trials were completed for 436 each condition
+ Vertical dashed lines connected to red Xs indicate when 50% of successful trials were 437 completed
+ Shading indicates the 95% confidence bounds, calculated with Greenwoods formula
+ c, 438 Amount of time spent in each phase of the ARAT task
+ Red lines are medians, box outlines are 439 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    interquartile ranges, and whiskers are the range of the data excluding outliers which are shown as red 440 + symbols
+ All task phases were faster when ICMS feedback was provided (*P < 
+01, Wilcoxon rank-441 sum test)
+ For this analysis we included trials containing a successful reach, grasp and transport phase
+ 442 Water pouring trials were not included as the transport phase is not defined
+ n = 78 trials for all phases 443 without ICMS feedback and n = 85 trials for all phases with ICMS feedback
+ d, Effect of ICMS feedback 444 on completion times for individual objects
+ Gray dots indicate trial times without ICMS feedback while 445 blue dots are individual trial times with ICMS
+ Median trial times are marked for each object/feedback 446 paradigm with an X
+ Medians for each object are connected with a red line for visualization
+ Trial times 447 were significantly lower for five of the nine objects when ICMS feedback was provided (*P < 
+05, 448 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Extended Data Fig
+ 1: Distribution of commanded robot velocities for each timestep during all ARAT 452 trials with (blue) and without ICMS (gray) a, Commanded 3D translation velocity
+ The distribution of 453 commanded translation velocities were different for trials with and without ICMS (D = 
+02, P < 
+001, 454 2-sample Kolmogorov-Smirnov test)
+ b, Commanded wrist rotation velocity
+ The distributions of 455 commanded wrist rotation velocities were different for trials with and without ICMS (D = 
+055, P < 456 
+0001, Kolmogorov-Smirnov test)
+ The median wrist rotation velocity was -
+22 rad/s (-
+74  
+26 rad/s 457 IQR) with ICMS and -
+13 rad/s (-
+61  
+33 rad/s IQR) without ICMS
+ c, Commanded grasp velocity
+ The 458 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    distributions of commanded grasp velocities were different for trials with and without ICMS (D = 
+058, 459 P < 
+0001, Kolmogorov-Smirnov test)
+ The median grasp velocity was 
+074 a
+ u
+ (-
+571  
+680 a
+ u
+ IQR) 460 with ICMS and -
+001 a
+ u
+ (-
+763  
+711 a
+ u
+ IQR) without ICMS
+  461 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Extended Data Table 1: Successful ARAT trial times by object
+ All successful water pouring attempts are 462 listed as there were not enough successfully completed trials to calculate the median and IQR
+ 463 10 cm cube  no ICMS 
+6 
+2  
+3 8 
+5 cm cube  no ICMS 
+5 
+8  
+4 10 5 cm cube  no ICMS 
+2 
+3  
+0 8 
+5 cm cube  no ICMS 
+6 
+7  
+9 9 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Supplemental Video 1: Object transfer example trials with and without ICMS feedback
+ In the full trial, 466 the task lasts for two minutes
+ The first minute from a trial with the median number of transfers for each 467 Supplemental Video 2: Fastest ARAT trials for each object and feedback condition
+ 469 Supplemental Video 3: ARAT trials for the median completion time for each object and feedback 470 condition
+ In cases where there were an even number of completed trials, the faster trial is shown in the 471 Supplemental Video 4: Example ARAT trial with ICMS feedback, annotated to indicate task state 473 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    
+ Jenmalm, P
+, Dahlstedt, S
+ & Johansson, R
+ S
+ Visual and tactile information about object-476 curvature control fingertip forces and grasp kinematics in human dexterous manipulation
+ J
+ 477 
+ Monze, J
+, Lamarre, Y
+ & Smith, A
+ M
+ The effects of digital anesthesia on force control using a 479 
+ Rothwell, J
+ C
+ et al Manual motor performance in a deafferented man
+ Brain 105, 515542 481 
+ Flanagan, J
+ R
+, Bowman, M
+ C
+ & Johansson, R
+ S
+ Control strategies in object manipulation tasks
+ 483 
+ Johansson, R
+ S
+ & Flanagan, J
+ R
+ Coding and use of tactile signals from the fingertips in object 485 
+ Augurelle, A
+ -S
+, Smith, A
+ M
+, Lejeune, T
+ & Thonnard, J
+ -L
+ Importance of cutaneous feedback in 487 maintaining a secure grip during manipulation of hand-held objects
+ J
+ Neurophysiol
+ 89, 665488 
+ Flesher, S
+ N
+ et al Intracortical microstimulation of human somatosensory cortex
+ Sci
+ Transl
+ 490 
+ Graczyk, E
+ L
+, Resnik, L
+, Schiefer, M
+ A
+, Schmitt, M
+ S
+ & Tyler, D
+ J
+ Home Use of a Neural-492 connected Sensory Prosthesis Provides the Functional and Psychosocial Experience of Having a 493 
+ Salas, M
+ A
+ et al Proprioceptive and cutaneous sensations in humans elicited by intracortical 495 
+ Collins, K
+ L
+ et al Ownership of an artificial limb induced by electrical brain stimulation
+ Proc
+ 497 
+ Hiremath, S
+ V
+ et al Human perception of electrical stimulation on the surface of 499 
+ Schiefer, M
+, Tan, D
+, Sidek, S
+ M
+ & Tyler, D
+ J
+ Sensory feedback by peripheral nerve stimulation 501 improves task performance in individuals with upper limb loss using a myoelectric prosthesis
+ J
+ 502 
+ Schwartz, A
+ B
+, Cui, X
+ T
+, Weber, D
+ J
+ J
+ & Moran, D
+ W
+ Brain-controlled interfaces: movement 504 
+ Fagg, A
+ H
+ et al Biomimetic brain machine interfaces for the control of movement
+ J
+ Neurosci
+ 506 
+ Davidson, J
+ A survey of the satisfaction of upper limb amputees with their prostheses, their 508 lifestyles, and their abilities
+ J
+ Hand Ther
+ 15, 6270 ()
+ 509 
+ Wijk, U
+ & Carlsson, I
+ Forearm amputees views of prosthesis use and sensory feedback
+ J
+ Hand 510 
+ Biddiss, E
+, Beaton, D
+ & Chau, T
+ Consumer design priorities for upper limb prosthetics
+ Disabil
+ 512 
+ Lyle, R
+ C
+ A performance test for assessment of upper limb function in physical rehabilitation 514 treatment and research
+ Int
+ J
+ Rehabil
+ Res
+ 4, 483492 ()
+ 515 
+ Johannes, M
+ S
+, Bigelow, J
+ D
+ & Burck, J
+ M
+ An overview of the developmental process for the 516 modular prosthetic limb
+ Johns Hopkins APL Tech
+ Dig
+ 30, 207216 ()
+ 517 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    
+ Wodlinger, B
+ et al Ten-dimensional anthropomorphic arm control in a human brainmachine 518 interface: difficulties, solutions, and limitations
+ J
+ Neural Eng
+ 12, 016011 ()
+ 519 
+ Bouton, C
+ E
+ et al Restoring cortical control of functional movement in a human with 520 
+ Collinger, J
+ L
+ et al High-performance neuroprosthetic control by an individual with tetraplegia
+ 522 
+ Raspopovic, S
+ et al Restoring natural sensory feedback in real-time bidirectional hand 524 
+ Graczyk, E
+ L
+ et al The neural basis of perceived intensity in natural and artificial touch
+ Sci
+ 526 
+ Wendelken, S
+ et al Restoration of motor control and proprioceptive and cutaneous sensation in 528 humans with prior upper-limb amputation via multiple Utah Slanted Electrode Arrays (USEAs) 529 implanted in residual peripheral arm nerves
+ J
+ Neuroeng
+ Rehabil
+ 14, 121 ()
+ 530 
+ Johansson, R
+ S
+, Hger, C
+ & Bckstrm, L
+ Somatosensory control of precision grip during 531 unpredictable pulling loads
+ III
+ Impairments during digital anesthesia
+ Exp
+ Brain Res
+ 89, 204532 
+ Maidenbaum, S
+, Abboud, S
+ & Amedi, A
+ Sensory substitution: closing the gap between basic 534 research and widespread practical visual rehabilitation
+ Neurosci
+ Biobehav
+ Rev
+ 41, 315 535 
+ Weiss, J
+ M
+, Flesher, S
+ N
+, Franklin, R
+, Collinger, J
+ L
+ & Gaunt, R
+ A
+ Artifact-free recordings in 537 human bidirectional braincomputer interfaces
+ J
+ Neural Eng
+ 16, 016002 ()
+ 538 
+ Marquardt, D
+ W
+ Generalized Inverses, Ridge Regression, Biased Linear Estimation, and 539 
+ Wang, W
+, Chan, S
+ S
+, Heldman, D
+ A
+ & Moran, D
+ W
+ Motor cortical representation of position 541 
+ Velliste, M
+, Perel, S
+, Spalding, M
+ C
+, Whitford, A
+ S
+ & Schwartz, A
+ B
+ Cortical control of a 543 
+ Downey, J
+ E
+ et al Motor cortical activity changes during neuroprosthetic-controlled object 545 
+ Yozbatiran, N
+, Der-Yeghiaian, L
+ & Cramer, S
+ C
+ A standardized approach to performing the 547 action research arm test
+ Neurorehabil
+ Neural Repair 22, 7890 ()
+ 548 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    

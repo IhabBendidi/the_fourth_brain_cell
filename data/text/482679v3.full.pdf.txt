@@ -1,0 +1,408 @@
+Effects of daily L-dopa administration on learning and brain structure in older adults undergoing cognitive training: a randomised clinical trialAkenine3,4, Carolina Hillil3,4, Pia Andersen3,4, Gabriela Spulber3,4, Elizabeth CM de Lange7, 1 Aging Research Center, Department of Neurobiology, Care sciences, and Society, Karolinska Institutet, Stockholm, Sweden (A
+ V
+ Lebedev MD PhD, J
+ Nilsson PhD, Prof
+ M
+ Kivipelto MD 2 Department of Clinical Neuroscience (CNS), Karolinska Institutet, Stockholm, Sweden (A
+ V
+ 3 Division of Clinical Geriatrics, Department of Neurobiology, Care Sciences and Society (NVS), Karolinska Institutet, Stockholm, Sweden (Prof
+ M
+ Kivipelto MD PhD, U
+ Akenine, C
+ Hillil, 4 Theme Aging, Karolinska University Hospital, Stockholm, Sweden (Prof
+ M
+ Kivipelto MD PhD, U
+ Akenine, C
+ Hillil, P
+ Andersen MD, G
+ Spulber MD PhD) 5 Neuroepidemiology and Ageing Research Unit, School of Public Health, Imperial College 6 Department of Neurology, Institute of Clinical Medicine and Institute of Public Health and Clinical Nutrition, University of Eastern Finland, Kuopio, Finland (Prof
+ M
+ Kivipelto MD 7 Leiden Academic Centre for Drug Research, Division of Systems Biomedicine and Pharmacology, Universiteit Leiden, Leiden, Netherlands (Prof
+ E
+ C
+ M
+ de Lange PhD, D-J
+ van certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    Cognitive aging creates major individual and societal burden, motivating search for treatment and preventive care strategies
+ Behavioural interventions can improve cognitive performance in older age, but effects are small
+ Basic research has implicated dopaminergic signaling in via administration of L-dopa improves effects of cognitive training on performance
+  trial were recruited via newspaper advertisements
+ Inclusion criteria were: age of 65-75 years, Mini-Mental State Examination score >25, absence of serious medical conditions
+ Eligible subjects were randomly allocated to either receive 100/25mg L-dopa/benserazide (n=32) or placebo (n=31) prior to each of twenty cognitive training sessions administered during a four-week period
+ Participants and staff were blinded to group assignment
+ Primary outcomes were Compared to the placebo group, subjects receiving L-dopa improved less in spatial intelligence (-
+267 SDs; 95%CI [-
+498, -
+036]; p=
+ )
+ Change in verbal intelligence did not significantly differ between the groups (-
+081 SDs, 95%CI [-
+242, 
+080]; p=
+ )
+ Subjects receiving L-dopa also progressed slower through the training and the groups displayed differential volumetric changes in the midbrain
+ Adverse events occurred for 10 (31%) and 7 (23%) participants in the active and control groups, correspondingly
+ No statistically significant The results speak against early pharmacological interventions in older healthy adults to improve broader cognitive functions by targeting the dopaminergic system and provide no support for about the cognitive effects of early dopamine-replacement therapy in neurological disorders
+  This trial was preregistered at the European Clinical Trial Registry, EudraCT#--
+ Significance
+ The results put constraints on the hypothesis of a key role of the deteriorated dopaminergic system in age-related decline of learning abilities, and speak against early pharmacological interventions in older healthy adults to improve cognitive functions by targeting the dopaminergic system
+  Our findings also raise concerns about usefulness of novel L-dopa-and present an urgent need to carefully investigate the cognitive outcomes of early pro-certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    dopaminergic interventions in clinical populations often receiving substantially larger doses of Age-related cognitive decline and dementia are serious public health problems with devastating impact on the quality of life of individuals, their caregivers, but also on healthcare in general The current total worldwide cost of dementia is about a trillion US dollars a year and is expected to double by 2030 ()
+ Whilst pharmacological treatment approaches have been unsuccessful, recent studies have demonstrated that combining cognitive training with exercise and a healthy diet can affect cognitive functioning in at-risk older people ()
+ Both exercise and dietary nutrients have been put forward as enhancers of neurobiological plasticity (3, 4), and may therefore increase effectiveness of cognitive training
+ One of the mechanisms through which exercise and diet are thought to modulate brain plasticity is through their action on dopaminergic neurotransmission (5, )
+ Indeed, several independent lines of basic research have demonstrated the involvement of dopamine signaling in learning (7-11) and neurobiological plasticity (12, )
+ Furthermore, plasticity has been shown to be reduced in healthy aging (14) and linked to changes with beneficial effects on cognitive performance and learning in healthy adults (7, 8, -)
+ We aimed to bridge the knowledge gap between clinical and basic sciences by isolating and studying the role of dopamine system in learning and neurobiological plasticity in a sample of older adults drawn from the general population
+ In order to systematically implement this in the experimental setting, we designed the present randomised placebo-controlled clinical trial centred on transfer effects of working memory training to fluid intelligence (19, 20), which was selected as a primary outcome that may pick up task-independent training effects on working memory ability due to the important role that this ability plays in solving fluid intelligence task ()
+ Specifically, training, by administering L-dopa would lead to increased efficiency of cognitive training for certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    the Karolinska University Hospital in Huddinge, Stockholm, Sweden, healthy older individuals aged 6575 years were recruited via daily newspaper advertisement
+ Eligibility criteria were initially assessed via a telephone screening and later during introduction meetings
+ Inclusion criteria were a Mini-Mental State Examination score of at least 26 points, absence of any serious medical or psychiatric conditions, no history of brain injuries or serious head traumas, no metal implants hindering Magnetic Resonance Imaging (MRI), no previous participation in studies protocol (see Main documents at  was approved by the regional ethics review board in Stockholm (2016-1897-31/1) and the Swedish medical product agency (-After a medical screening and baseline cognitive assessments conducted by experienced physicians, research assistants and study nurses, eligible participants were randomised (1:1) to either cognitive training and L-dopa administration or cognitive training and placebo
+ Age, sex, and the score on Ravens Progressive Matrices were used as stratifiers
+  The randomisation was conducted using label shuffling with post-hoc non-parametric tests for the stratifiers and was run separately for each of the five waves using an R-script available at lebedev (RBTII repository)
+ All participants and all staff involved in administering the drug, cognitive training, and outcome assessments were masked to group assignment
+ To achieve masked drug administration, orange juice was mixed with L-dopa or administered as placebo
+ This was prepared and labeled by a nurse who was not involved in any other aspect of the study
+ The study implemented an intervention period of four weeks, with five visits each week (~
+5 hours per visit, Monday-Friday), resulting in a maximum total of 20 intervention visits
+ All procedures were identical for the intervention group and the control group
+ Upon arrival, participants were given orange juice (with or without 100/25 mg of L-dopa/benserazide, trade name: Madopark Quick mite
+ Roche, Basel, Switzerland) by a nurse who was masked to the group specification
+ After 45 minutes, during which time questionnaires evaluating mood, motivation, alertness and sleep were completed, participants commenced the cognitive training, which lasted for approximately 60 minutes
+ All participants then remained at the clinic for an certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    additional 45 minutes for observation
+ The time window between the administration of the orange juice and the start of the cognitive training (45 min) was aligned with expected peaks in drug concentrations and effects
+ Similarly, total visit duration (
+5 hours) was motivated by drug elimination curves, according to which plasma concentrations of the drug are negligible 
+5 hours after the administration of L-dopa in combination with peripheral decarboxylase inhibitor ()
+ Dose selection was motivated by the results from two longitudinal studies completed in the healthy younger population that demonstrated positive effects of the drug on learning and good tolerability (7, )
+ The cognitive training was designed according to the current recommendations in that it was adaptive in nature, targeted more than one construct (updating and switching), and promoted process-based as opposed to strategy-based improvements by including several training tasks and varying stimuli sets ()
+  The protocol incorporated three exercises: one focused on the ability to flexibly switch between different tasks (task-switching) and two others on the ability to continuously maintain and update mental representations (running span and n-back)
+ Study outcomes included cognitive measures and Magnetic Resonance Imaging (MRI) data collected in five behavioural and one MRI session in the week The primary behavioural outcomes were: (1) spatial fluid intelligence, as a latent variable (see Statistical Analysis) measured by the Ravens Progressive Matrices, the Wechsler Abbreviated Scale of Intelligence, and the BETA-III matrix reasoning test; and (2) verbal fluid intelligence, as a latent variable measured with the Analogies Task from Berlin Intelligence Structure Test, Syllogisms, and the Verbal Inference Test from the ETS Kit (See Supplement S1 for complete list)
+ Selection of the primary outcomes was motivated by previous literature suggesting a possibility that working memory training can produce improvements in measures of fluid Secondary cognitive outcomes were measures of working memory, episodic memory, and task switching ability
+ Structural brain imaging data were collected as a further secondary outcome
+ MRI scanning session (MRI Center, Huddinge Hospital) on a 3 Tesla scanner Siemens MAGNETOM Prisma equipped with a 24-channel research head coil was performed at the end Six months later, participants were invited back to complete the cognitive assessment once more
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    Adverse events were assessed according to the most recent guidelines for Good Clinical Practice (European Medicines Agency, December 1st 2016) and entailed comprehensive evaluation of their severity and possible connection with the drug
+ For detailed description, see study protocol In order to quantify effective concentrations of the investigated drug, subjects blood samples were collected in the ethylenediaminetetraacetic acid-treated tubes at the first and last cognitive training visit, approximately 30-40 minutes after completing the training, to evaluate plasma levels of L-dopa and homovanillic acid
+ Plasma separation was performed within 4-5 hours via a 30-minute centrifugation at g
+ Plasma samples were stored in 1 ml aliquots at C
+ The chemical analysis of L-dopa and homovanillic acid was performed with high-performance liquid electrochemical detection system, Leiden, Netherlands) and was blinded to the study groups
+ Approximate power analysis was performed prior to the study launch with G*power 3, estimating the required sample size for detecting a group by time interaction (mixed ANOVA, F-test) on the primary outcomes, assuming a net standardised effect size (improvement for active group  improvement for control group) of 
+3 standard deviations, a test-retest stability coefficient of 
+70, and an alpha level (threshold for statistical significance) of 
+ 
+ With these assumptions, we estimated a sample of 56 subjects as sufficient for detecting a true group x time interaction with a statistical power of 
+ 
+ Considering a Bonferroni-corrected threshold for statistical significance (
+05/2 primary outcomes = 
+025), we aimed for a total of 64 subjects, which results, under the premises described above, in a statistical power of 
+ 
+ The main analysis used an implementation of structural equation modeling with latent change score modeling (25) to test the effect of L-dopa versus placebo on the outcomes of cognitive training (see Supplement, Figure S2 and Table S)
+ The analysis was implemented in the lavaan package (26) within the R programming language environment, version 
+ 
+2 (--)
+ Latent variables were formed similarly for pre- and post-test assessments based on shared variance from multiple tests measuring each specific construct, and a latent change score, which related changes in this way, by forming a latent variable out of several tests, has the advantage of reducing the influence of measurement error and task-specific variance on the outcome measure, certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    and hence also biases (e
+ g
+, regression to mean) that may affect raw change scores
+ The change factor was regressed on the group predictor (L-dopa/Placebo; dummy coded 1 vs
+ )
+ The regression effect indicates the effect of experimental group on latent change from pretest to posttest (i
+ e
+, a time by group interaction)
+ Prior to estimation, we z-standardised all variables, such that the size of this effect corresponds to the difference in gains over time between the two groups expressed in standard deviations
+ A separate model was estimated for each of the Before model estimation, we cleaned and screened the data for outliers using the outlier labeling rule multiplying the interquartile range by a factor of 
+ 
+ Detected outliers were deleted using pairwise deletion and the resulting missing values were accommodated under the missing-at-assumptions were met
+ We included all available data
+ Prior to hypothesis testing, measurement invariance assumptions were evaluated to ensure that the same latent variables are represented on each measurement occasion ()
+ Both models that incorporated the primary outcomes, spatial and verbal intelligence, met criteria for strict invariance
+ The same strategy was employed Training progress was analysed employing linear modelling that compared average level reached Plasma concentration of L-dopa and homovanillic acid (HVA) were analysed adhering to detection (See Supplement S4 for detailed description)
+  Statistical analyses were conducted employing linear modelling (Group, Group x Visit effects on L-dopa/HVA levels, within-subject, spatial normalisation and smoothing (FWHM of 8 mm) as implemented in the CAT12 MATLAB 2016 environment
+ See Supplement S5 for more detailed description
+ Normalised and modulated grey matter probability maps were analysed employing mass-univariate within-subject ANOVA estimating group  time as a primary effect-of-interest
+ Yielded statistical parametric maps were adjusted for multiple tests employing a family-wise error-correction procedure
+ This was accomplished by testing the data against an empirical null distribution of maximum cluster size across 10,000 Gaussian noise simulations with an initial cluster-forming certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    threshold of p<
+ 
+ Clusters with expected false positive rate of <5% of (PFWE<
+05) were The funder of the study had no role in study design, data collection, data analysis, data interpretation, or the writing of the report
+ The corresponding author had full access to all the data in the study and had final responsibility for the decision to submit for publication
+  certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    Between January 1st 2017 and October 10th 2017, we screened 235 subjects, 64 of whom entered the study
+ Out of 64 recruited participants, 62 completed the study and MRI scans were collected for 57 of them (Figure )
+ The scans were not obtained for five subjects because of psychological or physical discomfort that interfered with scanning sessions (neck problems, large head, claustrophobic reaction)
+ Drop-outs were limited to two participants: one dropped-out on day 1 of the pre-test assessment (before randomisation), because he/she found the tasks too difficult, whereas the other participant, who was in the control group, dropped out on day 5 due to private commitments
+ Table 1 summarises the background characteristics as a function of group
+ As expected, demographic data and baseline cognitive scores were similar in the two groups
+ Both groups completed equivalent number of training sessions (Placebo: 
+43 (16-21), Out of 235 telephone-screened individuals, 64 entered the study
+ The primary outcomes were collected for 63 subjects: n=31 and n=32 in the placebo and L-dopa groups, correspondingly
+ A total sample of n=63 was used in the certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    6-month follow-up available, n (%) 24 (
+42%)   27 (
+37%)   f/m  female/male ratio; BMI  body-mass index; SBP/DBP  systolic/diastolic blood pressure; Analyses of primary outcomes revealed that change of spatial fluid intelligence differed significantly between the groups, with the L-dopa group improving less compared to the placebo group between pre-test and post-test (Group x Time: standardised effect size -
+267 SDs, 95% CI [-
+498, -
+036]; p = 
+024; and Figure )
+ Change of verbal fluid intelligence scores did not significantly differ between groups (Group x Time: standardised effect size, -
+081 SDs, 95% CI [-
+242, 
+080]; p = 
+ )
+ Of note, traditional linear mixed analyses on unit-weighted composites of the primary outcomes showed essentially the same results as those we report here: spatial fluid intelligence, t(60) = 
+16, p = 
+03, and verbal fluid intelligence, t(60) = 
+11, p = Six-month follow-up data collected for a subset of 51 subjects revealed that the observed between-group differences in the spatial fluid intelligence improvements were still present 6 months after the intervention (standardised effect estimate: -
+371, 95% CI [-
+62, -
+122], p = 
+ )
+ No statistically significant difference was found for verbal fluid intelligence
+ No significant between-group difference was found for any of the secondary cognitive outcomes Individual test scores (means and standard deviations) are available in the Supplement Table S
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    Compared to the placebo group, subjects receiving L-dopa during a four-week working memory training program improved less in spatial reasoning domain
+ Shading represent 95 % CI
+ Boxes represent the preregistered timeline for the main analysis that intends to compare pre-post differences in performance
+ V1,2,3  Visits 1,2,3 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    Between-group differences in training progress over the course of the intervention supported the main findings with the control group reaching higher difficulty levels across all three trained Compared to the placebo group, subjects receiving L-dopa during a four-week working memory training program reached lower difficulty levels in all tasks
+ The lines are fitted with locally weighted scatterplot smoothing, shaded Estimation of Group x Time effects on brain morphometry yielded a single significant cluster located in the midbrain (PFWE < 
+05; MNI coordinates of the peak: -12 -24 -6 mm; see Figure )
+ Matching it with the normalised high resolution delineations of the midbrain revealed an overlap When analysed separately, the structural changes in this region were significant in both groups
+ Specifically, control subjects showed increases in grey matter probability t(26) = 
+02, p = 
+006, whereas the L-dopa group exhibited reductions t(27) = -
+26, p = 
+ 
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    (A) Family-wise error-corrected (PFWE<
+05) cluster depicting Group x Time F-contrast; Statistically significant between-group differences in grey matter volumetric change observed in a midbrain region; Concentrations of L-dopa and HVA were within the expected ranges (L-dopa: 2-1000 ng/ml; homovanillic acid were higher in the L-dopa than in the placebo group: t()=
+01, p<
+001 and t()=
+96, p<
+001, correspondingly (See Supplement S6 for more details)
+ In addition, a significant 
+04 SDs increase in L-dopa concentrations was observed at the last training/intake day in the active group compared to the first administration, t()=
+11, p<
+ )
+ Furthermore, in the active group a negative relationship was found between plasma levels of the drug and improvements in visuospatial reasoning (i
+ e
+, those who had larger effective concentrations of L-dopa tended to improve less in the primary outcome of spatial reasoning; t()=
+06, p=
+048, Figure )
+ It is also worth noting that the moderating effect of the body-mass index (BMI) on improvements in visuospatial reasoning was non-significant in the active group (Time x BMI interaction: t(29) = 
+25, p = 
+8) presenting no evidence for overdosing
+ It is also worth mentioning that BMI range in our sample was 
+8 - 
+9 without any extremely certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    Figure 
+ Correlation between plasma levels of L-dopa and changes in visuospatial reasoning in The plot shows that subjects who had larger plasma levels of the drug tended to improve less compared to those who Thirty-one adverse events (AEs, 11 in the placebo and 21 in the L-dopa group) occurred in 17 subjects over the course of training
+ Typical AEs were common cold and related conditions (11), mild pain (7), mild vertigo/nausea ()
+ Total number of subjects with AEs did not significantly differ between the groups (Placebo: 7 subjects, L-dopa: 10 subjects, 2 = 
+27, df = 4, p = 
+68); same was true for the drug-related AEs (Placebo: 1 subject, L-dopa: 2 subjects, 2 = 
+98, df = 2, p = 
+ )
+ Subjects quality of sleep was evaluated over the course of the study with the Karolinska Sleep Questionnaire and did not yield significant between-group differences for any of the subscales
+ Similarly, no significant between-group difference was found for mood and motivation over the course of training
+ Post-hoc evaluation of masking success revealed chance-level proportion of correct guesses in L-dopa (55%) and placebo (40%) groups
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    We did not find evidence for beneficial effects of exogenous augmentation of dopaminergic neurotransmission on cognitive performance and learning in healthy older adults
+ On the contrary, subjects receiving L-dopa improved less on visuospatial fluid intelligence, a primary outcome of the training intervention, after four weeks of working memory training compared to those who received placebo treatment
+ Subjects receiving L-dopa also progressed worse during training when compared to placebo subjects
+ The observed between-group differences in visuospatial fluid intelligence were still statistically significant 6 months after the intervention
+ The groups also demonstrated opposite direction of structural changes in a midbrain region, overlapping with the template location of substantia nigra, which is a key regulatory region rich in dopamine neurons involved in learning and plasticity (28, )
+ Specifically, the control group exhibited increases of grey matter volume in this region whereas the group that received L-dopa Although post-hoc, we interpret our results to suggest that the exogenous administration of the dopamine precursor may have perturbed a balanced dopaminergic system that previous studies has shown to be involved in training-related effects on performance ()
+ This was also plasma concentrations of the drug observed in the active group
+ The differential volumetric changes in the dopamine-rich region further support this interpretation
+ Thus, whilst our results are not at odds with basic science that clearly implicates dopamine in learning and plasticity (10, 12, 13), they indicate that exogenous administration the dopamine precursor is rather negative than beneficial for the dopaminergic system in the healthy aging brain
+ We also note that, despite some positive results from repeated L-dopa administrations on verbal learning domain reported in previous studies of younger adults (7, 16), our negative findings are in line with a recent study that showed detrimental effects of the same L-dopa dose on reward reversal learning in younger and older healthy adults, which were of the same magnitude irrespective of initial cognitive performance and expected baseline dopamine levels ()
+ Further studies are clearly needed to pharmacological interventions may have differential effects, especially in the light of recent findings showing clear regional heterogeneity of age-related decline in dopamine receptor More generally, the negative response to pro-dopaminergic medication observed in the present study suggests that cognitive decline in healthy aging is a complex and multifactorial process, a process that appears to result in balanced physiological states, which, whilst being associated certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    with reduced overall self-regulatory capacity (32), still preserve mechanisms of homeostatic plasticity (33-35), which implies that activity within the dopaminergic circuit is regulated by intrinsic feedback loops to maintain optimally balanced levels of the neurotransmitter thereby preventing excessive increases in excitatory activity
+ The negative effect observed in the present study appears to be the opposite of what is known as dopamine supersensitivity typically present in dopamine-deficient conditions (-)
+ Translating this finding further to clinical and cognitive neuroscience, it is worth noting that although the dopamine system is affected in several ways in aging (15, 18, 31, 39), acute pro-dopaminergic supplementation appears to perturb a balanced system, with negative behavioural consequences
+ This is fully in line with the results from positron emission tomography studies showing that despite apparent negative effects of age on dopamine transporters and receptor density in the healthy individuals, its synthesis capacity remains relatively unaffected ()
+ It is also consistent with recent evidence indicating that the balance between dopamine release and receptor density is critical for cognitive performance ()
+ In age-related neurodegenerative diseases, on the other hand, disruption of the homeostasis has reliably been observed and may even be the core ()
+  Thus, it appears clear that aging should not be approached as a disease per se, but rather as a physiological process associated with a gradual decline in many interconnected biological and behavioural capacities
+ Maintenance of the aging organism may therefore be best achieved by early investments in healthy lifestyle and multi-modal interventions affecting it (1, )
+ Our results warrant more studies about the effects of L-dopa on brain and cognition in clinical populations, which often involve substantially higher dosages and longer time periods
+ Indeed, even though dopamine replacement therapy has been shown to be successful for counteracting motor impairment associated with Parkinsons disease, studies that explore its effects on cognition have yielded mixed results (17, )
+ The negative effects of L-dopa supplementation on learning and midbrain structures observed in our study present an urgent need to carefully investigate the longitudinal course of brain changes in de-novo Parkinsons patients, for which early dopamine replacement therapy is currently a subject of debates (43, )
+  Some important study limitations need to be addressed
+ The most important one is the absence of additional control groups not receiving any cognitive training interventions
+ This limits interpretation of the results, as with only two groups we cannot unambiguously infer that the between-group differences are driven by the interaction of L-dopa with cognitive training and not by direct and prolonged effects of the drug on cognitive abilities or an interaction with re-test effects (which would still entail effects on learning but of a different kind)
+ However, elimination certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    of L-dopa is fast (blood concentrations are expected to be negligible when the subjects leave the training facility), and all subjects had minimum 24-hour washout period and were medication-free on pre- and post-testing days
+ This, however, does not completely rule out a possibility of a cumulative effect on the brain concentrations, which, in turn, may drive the observed detrimental effects on performance
+ In this context, it is also worth mentioning that L-dopa concentrations were significantly higher in the active group at the last compared to the first intake
+ We interpret this finding as due to accelerated gut absorption of the drug previously reported in animal studies with repeated L-dopa administration ()
+ Nevertheless, similar to the main results, the placebo group reached higher difficulty levels over the course of training in all tasks
+ We think that these learning-related effects are the most likely explanation of the performance differences at post test, which may also explain why they were still present at long-term follow-up conducted 6 months after the intervention (at a point when differential L-dopa concentration between the groups are It is also important to acknowledge limitations of the MRI-derived measures of grey matter probability
+ The differential changes in the midbrain were observed in measures that are derived from T1-weighted images, which are known to be highly sensitive to pharmacological manipulations ()
+ We cannot determine whether the observed changes are due to true volumetric changes or whether they are a result of relatively transient changes in for example blood flow
+ It is worth noting that the increases observed for the control group in the present study are consistent with previous reports of changes in the dopaminergic system induced by cognitive training ()
+ In line with this background, we also hypothesise that the observed effects in the L-dopa group may reflect reactive changes in the dopamine system in response to In addition, even though our literature review indicated that the selected dosage was appropriate to induce the effects of interest with minimal side-effects, we cannot completely rule out the possibility that other drug amounts may lead to different results
+ However, a negative and linear correlation between plasma concentrations of the drug and improvements in visuospatial reasoning observed in the active group, as well as absence of any moderating effects of the body-mass index on the aforementioned improvements make this possibility unlikely
+ Finally, despite the fact that our study is well-powered and the largest of its kind (7, 16) an additional caution must be advised for making direct generalisations to broader populations, especially to patient We conclude that daily L-dopa supplementation does not enhance cognitive performance and learning during cognitive training in healthy older adults and may in fact have disadvantageous certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    effects
+ Our findings raise serious concerns about usefulness of novel L-dopa-containing supplements that claim to have neuroprotective and learning-enhancing properties and suggest that caution is needed with regard to early dopamine replacement treatment interventions in neurological disorders, encouraging more rigorous evaluation of their effects on the brain and cognition in populations that often receive the drug in larger doses over long periods
+ ML conceived the study
+ ML, AL, JN and MK designed the trial AL, ML, and MK coordinated the trial AL and ML analysed the behavioural and MRI data
+ DB and EL analysed the blood samples
+ AL, ML, JN interpreted the results
+ GS, PA, JL, WF and CH collected the data
+ ML obtained funding
+ All authors revised the paper for important intellectual content
+  First and foremost, we thank all participants of the REBOOT-II project
+ We also thank Marie Helsing for help with administrative work, recruitment and organisation
+ Thanks also to Aleksandra Lebedeva, Erika Bereczki, Marc Guitart-Masip, Lars Bckman, Patrik Fazio, and Yvonne Brehmer for the valuable discussions and comments on the study plan and results
+ All of the analysis steps are documented in R and MATLAB scripts at lebedev (RBTII repository)
+ This trial was preregistered at the European Clinical Trial Registry, EudraCT # 2016-000891-54, and The Open Science Framework Registry, DOI 
+ /OSF
+ IO/AAMU
+  According to Swedish law the whole dataset and biological materials cannot be freely accessible, but can be requested from the authors for specific research projects
+ This requires a data transfer agreement, which effectively transfers the confidentiality obligations of the institution at which the original research was conducted to the institution of the certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    
+  Alzheimers Disease International (ADI)
+ The World Alzheimer Report 2018: the state of the art of dementia research
+ London, September 
+  September 
+ 
+ Ngandu T, Lehtisalo J, Solomon A, Levalahti E, Ahtiluoto S, Antikainen R, et al A 2 year multidomain intervention of diet, exercise, cognitive training, and vascular risk monitoring versus control to prevent cognitive decline in at-risk elderly people (FINGER): a randomised 
+ Gomez-Pinilla F
+ Brain foods: the effects of nutrients on brain function
+ Nat Rev 
+ Voss MW, Vivar C, Kramer AF, van Praag H
+ Bridging animal and human models of 
+ Vuckovic MG, Li Q, Fisher B, Nacca A, Leahy RM, Walsh JP, et al Exercise elevates dopamine D2 receptor in a mouse model of Parkinson's disease: in vivo imaging with 
+ Kodas E, Vancassel S, Lejeune B, Guilloteau D, Chalon S
+ Reversibility of n-3 fatty acid 
+ Knecht S, Breitenstein C, Bushuven S, Wailke S, Kamping S, Floel A, et al Levodopa: faster and better word learning in normal humans
+ Ann Neurol
+ ;():-
+ 
+ Floel A, Garraux G, Xu B, Breitenstein C, Knecht S, Herscovitch P, et al Levodopa increases memory encoding and dopamine release in the striatum in the elderly
+ Neurobiol Aging
+ 
+ Lisman J, Grace AA, Duzel E
+ A neoHebbian framework for episodic memory; role of 
+ Backman L, Nyberg L, Soveri A, Johansson J, Andersson M, Dahlin E, et al Effects of 
+ Lemaire N, Hernandez LF, Hu D, Kubota Y, Howe MW, Graybiel AM
+ Effects of dopamine depletion on LFP oscillations in striatum are task- and learning-dependent and selectively reversed by L-DOPA
+ Proc Natl Acad Sci U S A
+ ;():-
+ 
+ Kusuki T, Imahori Y, Ueda S, Inokuchi K
+ Dopaminergic modulation of LTP induction 
+ Pendolino V, Bagetta V, Ghiglieri V, Sgobio C, Morelli E, Poggini S, et al l-DOPA reverses the impairment of Dentate Gyrus LTD in experimental parkinsonism via beta-
+ Lovden M, Backman L, Lindenberger U, Schaefer S, Schmiedek F
+ A theoretical framework for the study of adult cognitive plasticity
+ Psychological bulletin
+ ;():-
+ 
+ Backman L, Lindenberger U, Li SC, Nyberg L
+ Linking cognitive aging to alterations in 
+ Shellshear L, MacDonald AD, Mahoney J, Finch E, McMahon K, Silburn P, et al Levodopa enhances explicit new-word learning in healthy adults: a preliminary study
+ Human 
+ Poletti M, Bonuccelli U
+ Acute and chronic cognitive effects of levodopa and dopamine agonists on patients with Parkinson's disease: a review
+ Ther Adv Psychopharmacol
+ 
+ Chowdhury R, Guitart-Masip M, Lambert C, Dayan P, Huys Q, Duzel E, et al Dopamine certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    
+ Jaeggi SM, Buschkuehl M, Jonides J, Perrig WJ
+ Improving fluid intelligence with training on working memory
+ Proc Natl Acad Sci U S A
+ ;():-
+ 
+ Au J, Sheehan E, Tsai N, Duncan GJ, Buschkuehl M, Jaeggi SM
+ Improving fluid intelligence with training on working memory: a meta-analysis
+ Psychonomic bulletin & review
+ 
+ Carpenter PA, Just MA, Shell P
+ What one intelligence test measures: a theoretical account of the processing in the Raven Progressive Matrices Test
+ Psychol Rev
+ ;():-
+ Contin M, Martinelli P
+ Pharmacokinetics of levodopa
+ J Neurol
+ 2010;257(Suppl 
+ Nilsson J, Lebedev AV, Rydstrom A, Lovden M
+ Direct-Current Stimulation Does Little to Improve the Outcome of Working Memory Training in Older Adults
+ Psychological science
+ 
+ Karbach J, Verhaeghen P
+ Making working memory work: a meta-analysis of executive-control and working memory training in older adults
+ Psychological science
+ ;():-
+ McArdle JJ, Nesselroade JR
+ Using multivariate data to structure developmental change
+ In: Cohen SH, Reese HW, editors
+ The West Virginia University conferences on life-span 
+ Rosseel Y
+ lavaan: An R Package for Structural Equation Modeling
+ Journal of Statistical 
+ Kievit RA, Brandmaier AM, Ziegler G, van Harmelen AL, de Mooij SMM, Moutoussis M, et al Developmental cognitive neuroscience using latent change score models: A tutorial and 
+ Owesson-White CA, Cheer JF, Beyene M, Carelli RM, Wightman RM
+ Dynamic changes in accumbens dopamine correlate with learning during intracranial self-stimulation
+ Proc Natl 
+ de Berker AO, Rutledge RB
+ A role for the human substantia nigra in reinforcement 
+ Vo A, Seergobin KN, MacDonald PA
+ Independent effects of age and levodopa on 
+ Seaman KL, Smith CT, Juarez EJ, Dang LC, Castrellon JJ, Burgess LL, et al Differential regional decline in dopamine receptor availability across adulthood: Linear and nonlinear effects 
+ Beique JC, Na Y, Kuhl D, Worley PF, Huganir RL
+ Arc-dependent synapse-specific 
+ Turrigiano G
+ Homeostatic synaptic plasticity: local and global mechanisms for 
+ Fieblinger T, Graves SM, Sebel LE, Alcacer C, Plotkin JL, Gertler TS, et al Cell type-
+ Ungerstedt U, Ljungberg T, Schultz W
+ Dopamine receptor mechanisms: behavioral and 
+ Kim DS, Szczypka MS, Palmiter RD
+ Dopamine-deficient mice are hypersensitive to 
+ Robinson S, Smith DM, Mizumori SJ, Palmiter RD
+ Firing properties of dopamine neurons in freely moving dopamine-deficient mice: effects of dopamine receptor activation and certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    
+ Karrer TM, Josef AK, Mata R, Morris ED, Samanez-Larkin GR
+ Reduced dopamine receptors and transporters but not synthesis capacity in normal aging adults: a meta-analysis
+ 
+ Papenberg G, Karalija N, Salami A, Rieckmann A, Andersson M, Axelsson J, et al Balance between transmitter availability and dopamine D2 receptors in prefrontal cortex 
+ Styr B, Slutsky I
+ Imbalance between firing homeostasis and synaptic plasticity drives 
+ Ikeda M, Kataoka H, Ueno S
+ Can levodopa prevent cognitive decline in patients with 
+ Fox SH, Lang AE
+ 'Don't delay, start today': delaying levodopa does not delay motor 
+ Group PDMC, Gray R, Ives N, Rick C, Patel S, Gray A, et al Long-term effectiveness of dopamine agonists and monoamine oxidase B inhibitors compared with levodopa as initial treatment for Parkinson's disease (PD MED): a large, open-label, pragmatic randomised trial 
+ Murata M, Kanazawa I
+ Repeated L-dopa administration reduces the ability of dopamine storage and abolishes the supersensitivity of dopamine receptors in the striatum of intact rat
+ 
+ Franklin TR, Wang Z, Shin J, Jagannathan K, Suh JJ, Detre JA, et al A VBM study demonstrating 'apparent' effects of a single dose of medication on T1-weighted MRIs
+ Brain certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 16, 
+ ;    

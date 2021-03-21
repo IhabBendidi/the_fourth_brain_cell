@@ -1,0 +1,385 @@
+Prospective randomized controlled study directly comparing tadalafil and tamsulosin for male patients with lower urinary tract symptoms2 Department of Public Health, Graduate School of Medicine, The University not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 2, 
+ ;    Lower urinary tract symptoms are widespread in elderly men and often (a phosphodiesterase 5 inhibitor) 5 mg once daily and tamsulosin (an 1-blocker) 
+2 mg once daily for 12 weeks in LUTS/BPH patients was conducted
+ Data were recorded before randomization as well as at 4, 8, and voiding, and IPSS-QOL scores declined with medication, but there was no with medication
+ IIEF5 was maintained in the tadalafil group, but declined in the tamsulosin group
+ The maximum flow rate and post-void residual night-time, and 24-hour urinary frequencies as well as the mean and largest Lower urinary tract symptoms (LUTS) are common in elderly men and often not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 2, 
+ ;    tissue causes apoptosis of prostate epithelial cells (1) and reduces the (IPSS) total score (IPSS-T) compared with placebo (2-10) as well as IPSS voiding (IPSS-V) and IPSS storage (IPSS-S) subscores (3, 6, 7, 11), but those positive effects on urination were less marked for elderly patients more than 75 years old ()
+ In addition, tadalafil improved the IPSS quality of life (QOL) score (2, 6-8, )
+ Nevertheless, tadalafil did not enhance the maximum flow rate (MFR) nor reduce the post-void residual urine on Combinations of tadalafil and another type of drug for BPH were also IPSS-T, IPSS-S, IPSS-V, and IPSS-QOL were improved by a combination of Another effect of tadalafil is to improve erectile dysfunction (ED) as evaluated by IIEF  (2-5, 10, 16), observed regardless of the severity of concurrent LUTS/BPH ()
+ On the contrary, the severity of ED reportedly did directly comparing the effects of tadalafil with those of tamsulosin, an not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 2, 
+ ;    Yamagoe Urology Clinic
+ At the initial visit, all patients underwent a detailed In addition, patients were asked to create a 24-hour flow-volume chart (24-h-FVC), stating the time and volume of each void and their bedtime and as the volume of voids between bedtime and waking time plus the first-morning void, while the first-morning void was regarded as a normal frequencies as well as daytime, night, and 24-h mean volumes per void were >170 mmHg or resting diastolic blood pressure >100 mmHg); (f) cardiac renal failure and hepatic failure; (g) unwilling to participate in this study
+ Randomization to treatment groups, tadalafil 5 mg once daily or tamsulosin 
+2 mg once daily for 12 weeks, was conducted at a 1:1 ratio using stratification by the prostate volume (50 cc or >50 cc) and age (10-year not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 2, 
+ ;    24-h-FVC were recorded at 4, 8, and 12 weeks after medication
+ MFR was The age, prostate volume, and prostate-specific antigen (PSA) in both groups were analyzed by the unpaired t-test
+ IPSS, QOL, OABSS, IIEF5, MFR, largest daytime and night voiding volumes, and mean daytime, night, and fixed effect and duration of either drug administration a random effect
+ Dunnetts test and the Welch t-test were conducted as post-hoc tests of the the two-tailed Fishers exact test
+ Statistical analysis was conducted with R The Ethics Committee of Kanto Rosai Hospital approved the study (-)
+ inclusion in the study
+ We declare that there is no conflict of interest In total, 39 patients were recruited between January 2016 and April 
+ 1-Blockers for BPH treatment were washed out at least two weeks before indicated for most patients with elevated serum PSA (>
+0 ng/mL)
+ With not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 2, 
+ ;    randomization, 18 were allocated to tadalafil 5 mg once daily, and 21 patients were allocated to tamsulosin 
+2 mg once daily
+ Just after randomization, one cancer
+ One patient stopped taking tadalafil after two weeks because of a necessitating bladder catheter indwelling after four weeks, and so they were excluded from the study
+ One patient taking tadalafil felt palpitations, but continued medication
+ Therefore, rates of adverse events were 
+6% in the tadalafil group, but 0% in the tamsulosin group (p=
+ )
+ Thus, 15 allocated Patient characteristics are presented in Table 
+ The age, prostate volume, volume in the former was non-significantly smaller than that in the latter
+ between drugs (Table 2 and Figure )
+ IPSS-V marginally diminished, but again there was no difference between drugs (Table 2 and Figure )
+ IPSS-S diminished more in the tamsulosin group than in the tadalafil group (Table 2 but there was no difference between drugs (Table 2 and Figure )
+ The )
+ OABSS did not decline significantly with medication, and there was no difference between drugs (Table 2 and Figure )
+ Baseline (before medication) (
+ 
+5 vs
+ 
+ 
+4, respectively; mean  standard error); thus, changes from baseline scores were evaluated
+ IIEF5 was maintained in the tadalafil group, but declined in the tamsulosin group
+ ANOVA showed a significant difference not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 2, 
+ ;    24-h-FVC parameters: As shown in Table 2, daytime, night-time, and 24-h were no differences between drugs
+ In addition, the largest daytime and night voiding volumes as well as mean daytime, night-time, and 24-h voiding volumes per void did not significantly change with medication, and there Comparison of -blockers and tadalafil is significant in order to choose drugs for the medical treatment of BPH
+ In 2012, Yokoyama et al prospectively randomized 612 LUTS/BPH Asian patients into four groups, each of which was administered placebo, 
+2 mg of tamsulosin once daily, 
+5 mg of tadalafil once daily, or 5 mg of tadalafil once daily for 12 weeks ()
+ They concluded that both tadalafil and tamsulosin reduced IPSS compared with the placebo
+ However, they did not directly and statistically compare the two drugs for unknown reasons
+ Judging from the data they showed, reductions in total IPSS, IPSS-V, and IPSS-QOL scores were greater in the tamsulosin group mainly in European countries into three groups, administered a placebo, 
+4 mg of tamsulosin once daily, or 5 mg of tadalafil once daily for 12 weeks ()
+ compared with the placebo
+ They also failed to conduct a direct and statistical greater in the tadalafil group than tamsulosin group, being different from the not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 2, 
+ ;    is difficult to know whether this result is consistent with the studies done by Yokoyama or Oelke, because they did not directly compare between the two IPSS-Q7 were not detected by ANOVA, thus neither tadalafil nor tamsulosin had a significant influence on those factors
+ The finding that tadalafil does not improve uroflowmetry parameters is in line with most previous reports, while the finding that tadalafil does not have significant effects on 24-h-FVC groups: 5 mg of tadalafil once daily and 4 mg of silodosin (an 1-blocker) twice daily for 8 weeks
+ They showed that reductions in IPSS-T, IPSS-S, IPSS-QOL, and OABSS scores were more marked in the silodosin group than in the tadalafil group, while IPSS-V was comparable
+ In addition, MFR tended to increase more with silodosin than tadalafil in their study
+ Their results were essentially in line with those of this study
+ 1-Blockers may alleviate storage As previously reported, tadalafil had more favorable effects on ED compared with tamsulosin
+ In this study, adverse events were slightly more frequent in well-tolerated in both groups
+ Limitations of this study include the small number of patients from a few institutions and that it was an open-labeled trial  Therefore, weaker effects of either drug might have gone undetected
+ not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 2, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 2, 
+ ;    
+ Andriole G, Bruchovsky N, Chung LW, Matsumoto AM, Rittmaster R, Roehrborn C, Russell D, Tindall D
+ Dihydrotestosterone and the prostate: the 
+ McVary KT, Roehrborn CG, Kaminetsky JC, Auerbach SM, Wachs B, Young JM, Esler A, Sides GD, Denes BS
+ Tadalafil relieves lower urinary benign prostatic hyperplasia: a dose finding study
+ J Urol
+ 180: 1228-34, 
+ Porst H, Kim ED, Casabe AR, Mirone V, Secrest RJ, Xu L, Sundin DP, Viktrup L; LVHJ study team
+ Efficacy and safety of tadalafil once daily in the treatment of men with lower urinary tract symptoms suggestive of benign 
+ Gacci M, Corona G, Salvi M, Vignozzi L, McVary KT, Kaplan SA, Roehrborn CG, Serni S, Mirone V, Carini M, Maggi M
+ A systematic review and meta-analysis on the use of phosphodiesterase 5 inhibitors alone or in combination with  -blockers for lower urinary tract symptoms due to 
+ Yokoyama O, Yoshida M, Kim SC, Wang CJ, Imaoka T, Morisaki Y, Viktrup L
+ Tadalafil once daily for lower urinary tract symptoms suggestive of benign 12-week study in Asian men
+ Int J Urol
+ 20: 193-201, 
+ not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 2, 
+ ;    
+ Porst H, Roehrborn CG, Secrest RJ, Esler A, Viktrup L
+ Effects of tadalafil and on erectile dysfunction in sexually active men with both conditions: 
+ Porst H, Oelke M, Goldfischer ER, Cox D, Watts S, Dey D, Viktrup L
+ Efficacy and safety of tadalafil 5 mg once daily for lower urinary tract 
+ Nickel JC, Brock GB, Herschorn S, Dickson R, Henneges C, Viktrup L
+ 
+ Gacci M, Andersson KE, Chapple C, Maggi M, Mirone V, Oelke M, Porst H, Roehrborn C, Stief C, Giuliano F
+  Latest Evidence on the Use of 
+ Chapple CR, Roehrborn CG, McVary K, Ilo D, Henneges C, Viktrup L
+ Effect of tadalafil on male lower urinary tract symptoms: an integrated 
+ Oelke M, Wagg A, Takita Y, Buttner H, Viktrup L
+ Efficacy and safety of tadalafil 5 mg once daily in the treatment of lower urinary tract symptoms not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 2, 
+ ;    
+ Oelke M, Giuliano F, Mirone V, Xu L, Cox D, Viktrup L
+ Monotherapy 
+ Roehrborn CG, Chapple C, Oelke M, Cox D, Esler A, Viktrup L
+ Effects of tadalafil once daily on maximum urinary flow rate in men with lower urinary 
+ Casabe A, Roehrborn CG, Da Pozzo LF, Zepeda S, Henderson RJ, Sorsaburu S, Henneges C, Wong DG, Viktrup L
+ Efficacy and safety of the coadministration of tadalafil once daily with finasteride for 6 months in men 
+ Giuliano F, Oelke M, Jungwirth A, Hatzimouratidis K, Watts S, Cox D, function, and sexual satisfaction in men with lower urinary tract symptoms 
+ Brock G, Broderick G, Roehrborn CG, Xu L, Wong D, Viktrup L
+ Tadalafil once daily in the treatment of lower urinary tract symptoms (LUTS) not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 2, 
+ ;    
+ Brock GB, McVary KT, Roehrborn CG, Watts S, Ni X, Viktrup L, Wong DG, Donatucci C
+ Direct effects of tadalafil on lower urinary tract symptoms 
+ Yoshida M, Origasa H, Seki N
+ Comparison of silodosin versus tadalafil in not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 2, 
+ ;    Figure 1: Changes in total IPSS scores
+ ANOVA showed a significant difference in the medication duration, while there was no difference between Figure 2: Changes in IPSS voiding scores
+ ANOVA showed a marginal difference in the medication duration, while there was no difference between Figure 3: Changes in IPSS storage scores
+ ANOVA showed a marginal Figure 4: Changes in IPSS QOL scores
+ ANOVA showed a significant difference in the medication duration, while there was no difference between drugs
+ *: p<
+05, **: p<
+01 compared with before medication (0w) by Figure 5: Changes in OABSS scores
+ ANOVA showed no difference in the Figure 6: Changes in IIEF5 scores from before medication
+ *: p<
+05 compared with before medication (0w) by Dunnetts test
+ #: p<
+05 between not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 2, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 2, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 2, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 2, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 2, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 2, 
+ ;    Parameters Drugs 0w 4w 8w 12w F-value p-value F-value p-value F-value p-value tadalafil 
+ 
+7 
+ 
+7 
+ 
+5 
+ 
+8 
+250  
+618  
+060  
+031* 
+099  
+961  tadalafil 
+ 
+3 
+ 
+1 
+ 
+0 
+ 
+2 
+420  
+518  
+136  
+099 
+139  
+937  tadalafil 
+ 
+9 
+ 
+8 
+ 
+7 
+ 
+7 
+053  
+026* 
+409  
+070 
+753  
+523  tadalafil 
+ 
+3 
+ 
+4 
+ 
+3 
+ 
+3 
+132  
+717  
+141  
+028* 
+278  
+841  tadalafil 
+ 
+4 
+ 
+4 
+ 
+3 
+ 
+2 
+360  
+549  
+285  
+836  
+460  
+711  tadalafil 
+ 
+7 
+ 
+8 
+ 
+8 
+ 
+7 
+552  
+459  
+449  
+718  
+085  
+968  tadalafil 
+ 
+4 
+ 
+2 
+ 
+3 
+ 
+4 
+717  
+399  
+800  
+496  
+065  
+978  tadalafil 
+614 
+ 
+2 
+ 
+5 
+ 
+3 
+020  
+886  
+269  
+847  
+199  
+897  tadalafil 
+ 
+7 
+ 
+6 
+ 
+7 
+ 
+8 
+243  
+623  
+043  
+988  
+387  
+762  tadalafil 
+ 
+6 
+ 
+4 
+ 
+3 
+ 
+3 
+019  
+890  
+394  
+758  
+044  
+988  tadalafil 
+ 
+0 
+ 
+8 
+ 
+9 
+ 
+0 
+122  
+727  
+018  
+997  
+224  
+880  tadalafil 17218 18521 17317 16919 
+085  
+300  
+172  
+915  
+216  
+885  tadalafil 24730 24743 21027 23643 
+182  
+279  
+022  
+996  
+778  
+508  tadalafil 18719 19020 17816 17721 
+835  
+363  
+045  
+987  
+317  
+813  tadalafil 24327 24927 24727 23826 
+029  
+157  
+234  
+873  
+055  
+983  tadalafil 27633 30942 24628 25141 
+662  
+417  
+040  
+989  
+471  
+703  tadalafil 
+ 
+0 -
+ 
+7 -
+ 
+8 
+ 
+6 
+989  
+016* 
+382  
+766  
+000  
+117  IPSS-T: total IPSS score, IPSS-V: IPSS voiding score, IPSS-S: IPSS storage score, MFR: maximum flow rate (mL/sec), Post-void residual urine:  mL, UF: urinary frequency, voided volumes: mL, IIEF5 change: change in IIEF5 from before medication (0w), values: mean  standard error, 

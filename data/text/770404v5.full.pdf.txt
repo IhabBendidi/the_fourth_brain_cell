@@ -1,0 +1,633 @@
+Discovery of a small molecule having both potent anti-fibrotic and anti-inflammatory Han-Soo Kim,1,2* Moon Kee Meang3*, Saesbyeol Kim, 3 Ji Yong Lee,4 Baik L
+ Seong5, Ik-3Osteoneurogen, Inc
+, Seoul, 08501, Republic of Korea; 4Research Institute of Hyperbaric Medicine and Science, Yonsei University Wonju College of Medicine, Wonju-si, Gangwon-do 26426, Republic of Korea; 5Department of Biotechnology, Yonsei University, Seoul 03722, Republic of Korea and 6Department of Biotechnology, Korea University, Seoul 02841, not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    Background: Pulmonary and hepatic fibrosis are intractable and fatal human disorders
+ In our previous study, we found that eupatilin, a chromone-scaffold (CS) derivative (CSD), has a strong anti-fibrotic effect on in vitro fibrogenesis as well as a murine lung fibrosis model
+ Through structure-activity relationship studies, ONG41008 was identified as a more potent Methods: A set of cell imaging studies, transcriptomic analyses, and in vivo mouse model (NASH) model were conducted to explore how ONG41008 exhibits both anti-fibrotic and anti-investigated in RAW
+7 cells, a mouse monocytic cell line stimulated with LPS
+ TGF to TGF receptor via depolymerization of F-actin
+ ONG41008 was able to reverse pathogenic myofibroblasts into non-pathogenic cell types confirmed by both cell shape changes and global transcriptomics analyses
+ Expression of macrophages homing chemokines in mouse hepatic stellate cells (HSCs) was significantly mitigated by ONG
+ Orally administered ONG41008 significantly improved onset of lung fibrosis
+ Oral administration of ONG41008 several important chemokines affecting T cells or macrophages
+ TNF was situated at the Interpretation: ONG41008 could be a potent drug for a broad range of fibrotic diseases or not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    found in the plant kingdom effectively prevented in vitro fibrogenesis as well as in bleomycin-myofibroblasts (pMFB) to an intermediate cell type occurred in vitro, and restimulation of the intermediate cell type was trans-differentiated by long exposure to TGF, strongly suggesting that this kind of flexible cell reversion would exist in vivo and shed into light on regenerative capacity in fibrotic diseases
+ One notable feature associated with eupatilin was able to inhibit epithelial-mesenchymal transition (EMT), which plays a central role in initiation and Furthering these intriguing therapeutic capabilities, a more effective and stable analog of eupatilin, called ONG41008, was generated and subjected to ameliorating fibrogenesis and inhibiting the various disease activities associated with pMFB
+ We found that ONG41008 was a potent inhibitor of TGF biogenesis such that binding of active TGF to TGF receptor (TGFR) was limited, resulting in cessation of TGFR signaling and EMT was completely inhibited, of a hybrid interactome comprising of a major nuclear reprogramming one and a minor residual fibrogenic interactome, suggesting that ONG41008 is a driver of cell reversion as we saw in the previous study of eupatilin
+ Macrophages have been well appreciated for liver inflammation and innate immunity
+ It turned out that ONG41008 was able to block macrophages-chemoattracting proteins called chemokines and directly acted on macrophages, resulting in not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    All data considered, we believe that ONG41008 is a potent anti-fibrotic drug candidate
+ And its effectiveness seems likely related to inhibition of macrophage activation
+ Accordingly, ONG41008 could be used for dysfunctional immunometabolism like NASH as well as not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    Idiopathy pulmonary fibrosis (IPF) is defined a rare disease belonging to interstitial lung diseases (ILD) []
+ Its mortality and morbidity are becoming significant such that the median survival of patients with IPF is 3~5 years after diagnosis and the majority of patients would succumb to death within 5 year of diagnosis []
+ Nonalcoholic fatly liver disease (NFALD) is becoming pandemic over the world due to over-nutrition
+ Nonalcoholic steatohepatitis (NASH) is an extreme manifestation of NAFLD associated with multiple-fibrosis [3, ]
+ It has been well appreciated that mitigation of liver fibrosis is the limiting step for attenuating NASH []
+ Therefore, development of both potent anti-fibrotic and anti-inflammatory drugs is of paramount importance for dealing with IPF or NASH
+  Myofibroblasts (MFB) play a central role in the initiation and perpetuation of fibrosis []
+ While identification of the IPF-initiating cells remains to be discovered HSCs are the major cell types contributing to both liver inflammation and liver fibrosis []
+ Although fibrogenic signature proteins such as Collagens, CTGF (connective tissue growth factor) or Periostin have been well elucidated, full spectrum of fibrogenic proteins have yet to be discovered
+ Nevertheless, several anti-fibrotic modalities have continually put on clinical studies []
+ Although fibrosis is not defined an immune disorder, inflammatory cells are believed to be responsible for eliciting fibrogenic signaling
+ Among these cells macrophages including bone-marrow-derived ones or tissue residential macrophages like Kupffer cells in the liver may play cytokines such as TNF or IL-1 and probably indirectly affecting TGF []
+ Therefore, controlling these proinflammatory cytokines or TGF may lead to an efficient modality for not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    Flavones are members of the polyphenol family, a group of over 10,000 compounds have been exclusively found in the plant kingdom []
+ In general, these phytochemicals protect plants from radiation damage []
+ Due to their anti-oxidant and anti-inflammatory potentials, flavones have long been used to treat inflammatory diseases such as arthritis and called chromone-scaffold (CS) constituting flavones and isoflavones [13], and the CS derivatives (CSD) are a diverse family based on branching chemical residues coupled to the core CS framework []
+ We recently reported that eupatilin, a CSD from an Artemisia species downregulation of multiple genes involved in EMT
+ Here, we show that a noble synthetic CSD, called ONG41008, was able to reprogram EMT and induce reversion of pathogenic in mouse BLM []
+ In addition to this, ONG41008 blocked LPS-induced macrophage activation via blocking the endocytosis of CD14, independently of TGF
+ This observation may open a door as a powerful new therapeutic modality for treating IPF as well as liver fibrosis not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    Non-GLP (Good Laboratory Practice) toxicokinetic studies using rats told us that ONG41008 existed in plasma over 12 hr via oral administration, resulting in Tmax (1 hr) with Cmax (
+8ng  
+4ng) as seen in Supplementary Figure A
+ The AUCinf  was 
+5 ng hr/ml
+ A 14 Days oral gavage assessment rendered non-toxic (data not shown)
+ The same held true for non-GLP single injection oral PK study using beagle dogs (Supplementary Figure B)
+ Mice and rats were subjected to tissue PK studies within 2 hr upon oral administration
+ As seen in Supplementary Figure 2, ONG41008 was rapidly detected from the plasma, lung, liver or When ONGHEPA1 (mouse HSC cels) or DHLF (diseased human lung fibroblasts from IPF patients) were stimulated with TGF, expression of SMA (-smooth muscle actinin) was notable but was then substantially mitigated with the treatment of ONG41008 (Figure 1A for ONGHEPA1 and Supplementary Figure 3 for DHLF)
+ Likewise, other fibrinogenic markers involving Collagen11, Collagen111 or Periostin was induced by TGF and were knocked down by ONG41008, suggesting that ONG41008 may directly act on pathogenic myofibroblasts (pMFP) both in the lung or liver fibrotic tissues
+ ONG41008 markedly inhibited phosphorylation of both SMAD2 and SMAD3, suggesting that phosphorylated Smad2 and/or Smad3 may translocate to the nucleus, activating fibrogenesis
+ Vibrant phosphorylation of In our previous study, we showed that eupatilin effectively depolymerized F-actin
+ Likewise, we hypothesized that F-actin in actin filaments might be also a molecular target for ONG
+ As shown in Figure 1C, actin filaments were apparent in TGF-stimulated cells not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    and the severed actin fragments were uniformly distributed in the cytoplasm upon ONG41008 treatment in the presence of TGF
+ While a massive actin depolymerization was observed with the treatment of ONG41008 no such depolymerization was seen in ONGHEAPA1 cells stimulated with pirfenidone or nintedanib, suggesting that the latter two anti-IPF drugs have little or no effects on F-actin depolymerization
+ In vitro actin polymerization or depolymerization assay was established and showed that ONG41008 was, indeed, an inhibitor of actin polymerization (Figure 1D) as well as an enhancer of actin depolymerization (Figure E)
+ It has well been appreciated that osteoclasts exist as fused states whereby the O-ring made of F-actin surrounds the fused osteoclasts called multinucleated osteoclasts []
+ As shown in rise to actin fragmentation
+ These studies indicate that ONG41008 may be a bona-fide F-actin  To further elucidate mode of action (MOA) for ONG41008, we stimulated DHLF with TGF plus ONG41008 and stained them with various antibodies recognizing the components of LTC
+ LTC plays a central role of TGF biogenesis [18], releasing active TGF, which is then engaged in the TGFRI/TGFRII complex, giving rise to phosphorylation of induced and secreted into the extra cellular matrix (ECM) compartments with the treatment of TGF, but LTBP4 appears to be either only partially affected or unaffected by ONG41008 (Figure A)
+ ONGHEPA1 were also treated with TGF in the presence or absence of ONG41008 for 24 hr
+ It is evident that LTBP1, LAP1 and Integrin 53 in the presence of ONG41008 were massively downregulated and appears to be localized in endosome-like not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    were differentially stimulated with TGF in the presence or absence of ONG41008 and transcriptomic change was analyzed by RNA-seq
+ Schematic representation of this selection process is shown in Supplementary Figure 
+ We nailed down seventy-seven ONG-mediated FIGS with p>
+005 (Figure )
+ Many of these have been already known to be fibrogenic genes such as CTGF (connective tissue growth factor), PERIOSTIN, LOX (lysyl oxidase), or N-cadherin (CDH2) [-]
+ Elastin (Eln) gene expression has been appreciated that ELASTIN is prefibrotic and represents progress of fibrosis
+ And it is known to be an EMT gene [22, ]
+ Clear indication is that Eln gene expression was substantially induced with TGF and was knocked down with ONG41008 whose IC50 was 194 nM (Supplementary Figure A)
+ In line with this, secreted ELN protein from DHLF was significantly inhibited with ONG41008 (Supplementary Figure B)
+ NOX4, a NADPH oxidase, caught our attention because induction of NOX4 has been reported for production of pronounced reactive oxygen species (ROS) as well as for elicitation of several important signaling events like inflammasome activation []
+ To scrutinize whether ONG41008 is able to suppress induction of NOX4, thereby kinetics of NOX4 along with Collagen111 and Periostin were analyzed at transcription levels
+ As shown in Figure 4A, NOX4 mRNA was gradually induced by TGF and ONG41008 was able to block the induction, suggesting that ONG41008 may be able to inhibit NOX4 at transcription levels
+ Production of ROS was also significantly attenuated, which is shown by immunocytochemistry (ICC) (Figure B)
+ The same held true for DHLF (Figure C)
+ Furthermore, ROS production was markedly reduced via ROS dye staining (Figure D)
+ not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    ONG41008 was able to block the induction of NOX4, CCL2 and CCL7 (Figure 4E), suggesting that ONG41008 could modulate migration of macrophages to the liver and inflammation in the During the course of this study, it has occurred to our attention that ONG41008 treatment alone reversed the cell fate of pMFB into an intermediate non-pathogenic cell type
+ To have a deeper understanding on a potential mechanism of cell reversion, we established a series of continual differentiation experiments by using ONGHEPA1, which could be a unique in vitro model, in such a way that morphological changes as well as interactome changes were established by stimulating ONGHEPA1 cells with TGF for 24 hr after which the resultant myofibroblasts were washed off with buffer and were subjected to TGF plus ONG41008 or ONG41008 alone (data not shown) for 48 hr because the combinatorial treatment seemed to be more pertinent to in vivo situation
+ The treated cells were re-plated out and continually were stimulated with TGF alone for 72 hr
+ Upon completion of initial transdifferentiation, myofibroblasts into an intermediate cell type
+ Moreover, these intermediate cells seemed to be situated in quiescence since no conspicuous cell growth was observed
+ We extended our question to see if these quiescent cells can be again transdifferentiated to myofibroblasts with the treatment of TGF alone
+ We discovered that transdifferentiation resumed at least 48 hr after TGF stimulation, suggesting that this reversion process should be a flexible differentiation program in vitro
+ To determine if this remarkable reversion process has to do with nuclear reprogramming, we extensively analyzed global gene expression changes at each not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    stimulation condition
+ As shown in Figure 5B, a hybrid interactomes existed in the reversion process; 1) fibrogenic interactome and 2) reversion interactome
+ The former involves chemokines, collagens, adhesins or enzymes, and ECM biogenic factors as shown in Supplementary Figure 
+ The latter is apparently composed of a minor residual fibrogenic interactome and a major nuclear reprograming one
+ The residual fibrogenic interactome seems to be linked to the major nuclear programming via linking the Spp1(Secreted Phosphoprotein 1)-Egr1(Early Growth Response 1) axis (the former one) and the MKI67 (marker of proliferation Ki-67)-Birc5 (Baculoviral IAP Repeat Containing 5) in the latter one
+ ONG41008 may generate intermediate cell types via the hybrid interactome
+ Taken together, the  Therapeutic efficacy of ONG41008 for lung fibrosis was analyzed via a mouse therapeutic BLM
+ A greatest reduction in collagen production was observed at ONG41008 50 or 100mpk, whereas no significant inhibition was noted at ONG41008 10mpk as well as at pirfenidone 100mpk (Figure 6A), suggesting that larger exposure of ONG41008 may be needed to cope with existing lung fibrosis in therapeutic model
+ While production of hydroxy proline (HP) at 10mpk or 50mpk of ONG41008 only exhibited reduction tendency 100mpk significantly inhibited HP production with a statistical significance (Figure B)
+ Pirfenidone did not generate reduction in both collagen and HP with statistical significances
+ Expression of SMA were more significantly decreased in the ONG41008-treated mice than control mice
+ However, dexamethasone did not affect SMA staining, indicating that anti-inflammation may not be able to mitigate proliferation of myofibroblasts at advanced stages (Figure C)
+ In a preventive BML, both ONG41008 10mpk and 25mpk were able to significantly attenuate the not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    lung fibrosis
+ ONG41008 100mpk did not reach a statistical significance, currently the reason being unknown whereas the HP production at 100mpk was remarkably reduced (Supplementary Figure A)
+ Pirfenidone exhibited a moderate reduction in both cases
+ Pirfenidone only gave rise to decreasing tendencies in reduction of soluble collagen or HP staining whereas dexamethasone was unable to improve the disease severity (Supplementary Figure C)
+ Taken together, ONG41008 could be a good candidate for treating IPF as a ONG41008 is a potent inhibitor of innate immunity in that it could be a TNF antagonist It has been lately reported that knocking out TNF negatively affects steatosis or NFALD score []
+ Since we only explored a potent anti-inflammatory capability associated with ONG41008 in HSC or DHLF in TGF-dependent manner, a natural question would be whether its anti-inflammatory property can be extended to macrophages in response to LPS stimulation in the absence of TGF
+ RAW
+7 cells, a mouse monocytic leukemic cell line resembling macrophages, were stimulated with LPS in the presence or absence of ONG
+ As shown in Figure 8A, expression of proinflammatory cytokines or chemokines including TNF, CCL2, CCL7, CXCL2 and CXCL10 were markedly downregulated by ONG
+ Interestingly, CHOP was so markedly reduced that formation of inflammasome could be attenuated [-]
+ However, no statistically significant repression of IL6 or IL23 was made (data not shown)
+ TNF protein levels in the culture supernatants were clearly reduced by ONG41008 (Figure B)
+ Varying LPS concentrations (100ng/ml to 10g/ml) showed that not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    ONG41008 effectively blocked expression of TNF, suggesting that some membrane proximal events might be responsible for the ONG41008-mediated inhibition of TNF gene expression (Supplementary Figure )
+ It strongly indicates that ONG41008 may inhibit formation of a TLR4-LPS binding proteome or signalosome such as CD14, MD-2 or Myd88 []
+ This prompted us to explore intracellular trafficking of these proteins upon LPS stimulation
+ As shown Figure 8A, LPS induced the internalization of CD14 and Myd88, whereas ONG1008 CD14 and significantly attenuated of endocytosis of Myd
+ Magnified views on these ICC further clearly revealed that ONG41008 blocked the internalization of CD14 to endocytic compartments (Supplementary Figure )
+ On the contrary, MD-2 and NOX4 remained largely unaltered (Supplementary Figure )
+ An interactome regulating the LPS-ONG41008 axis in macrophages was established based on an RNA-Seq
+ To our surprise, TNF turned out to be the central nod of the interactome, strongly suggesting that ONG41008 may play a central role   Summing up all these observations, we believe that ONG41008 is an endocytosis inhibitor of CD14, remarkably diminishing macrophage activation
+ It should be stressed here that ONG41008 is intrinsically equipped with both anti-inflammatory and anti-associated with ONG41008 may make ONG41008 an ideal drug for NASH
+ NASH is not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    fibrosis []
+ Due to these multifaceted clinical features, NASH has become the most-may be able to only partially ameliorate NASH
+ We adapted the STAM mouse model in which five to eight weeks STAM mice exhibit the most human resembling NASH []
+ STAM mice were orally administered with vehicle, ONG41008 50mpk or 100mpk, Telmisartan 30mpk (positive control) or Obeticholic acid (OCA) 30mpk as negative control
+ While ONG41008 50mpk gave rise to a clear sign of improvement of fatty liver as seen, no significant improvement of onset of NASH was noted at ONG41008 mpk
+ Inhibitory trends in lobular inflammation and hepatocyte ballooning were seen at ONG41008 mpk
+ Telmisartan showed clear improvement in all score parameters (Figure A)
+ Partial improvement of lobular inflammation or hepatocyte-ballooning was observed by ONG41008 100mpk but did not reach statistics
+ Pathologic manifestation was scored; 1) steatosis, 2) lobular inflammation and 3) hepatocyte ballooning as well as hepatic fibrosis
+ This observation revealed that ONG41008 and telmisartan are therapeutically effective for NASH based on NAFLD scores (Supplementary Figure )
+ On the contrary, no significant improvement of NASH was noted and little degree of inhibition of fibrosis was also observed with the treatment of OCA 30mpk not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    CSD have been well appreciated for their anti-inflammation capabilities []
+ We recently found that a few CSD are capable of attenuating in vitro fibrogenesis and in vivo fibrosis []
+ Slight modification of functional groups linked to CSD severely affected degree of anti-fibrosis, suggesting that medicinal chemistry would be able to improve their therapeutic efficacy
+ One drawback associated with CSD in terms of in vivo use for treating fibrosis is that CSD administered into rodents largely used to undergo glucuronidation
+ We confirmed that glucuronide form of CSD completely lost the anti-fibrotic capacity in vitro (data not shown)
+ Thus, development of the analogs coping with this impairment should be implemented
+ ONG41008 rendered non-toxic when subjected to non-GLP toxicity
+ PK profiles using rats or beagle dogs via oral administration were readily detectable
+ In many senses, ONG41008 could The major MOA seems to be able to dismantle LTC in such a way that ONG41008 limits binding of the active TGF to TGFRs; one major manifestation is blocking phosphorylation of SMAD2/SMAD3, resulting in disabling type 2 EMT so called fibrogenesis
+ However, phosphorylation of ERK was not affected by ONG41008, suggesting that ONG41008 is largely associated with the main signaling of TGFR, i
+ e
+ phosphorylation of SMAD/SMAD
+ We demonstrated that ONG41008 was able to reverse cell fate of pMFB, like cell type
+ This reversion process did not require TGF
+ Continual stimulation with TGF in the absence of ONG41008 over 72 hr enabled the intermediated cell type to be then an in vitro and/or in vivo flexible differentiation program
+ Consistent with generation of a hybrid interactome, the reversion process seemed be controlled at chromatin levels
+ In particular, it has been noted that this sort of intermediated cell type is often observed from the not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    biopsy samples of the liver cirrhosis patients []
+ Our in vitro demonstration that two distinct treated myofibroblasts supports the existence of intermediate cell types in liver fibrotic tissues
+ Nevertheless, how ONG41008 initiates this reversion process remains to be determined in order to discover a molecular target for a central role by ONG
+  Crucial role of TNF associated with liver diseases prompted us to scrutinize effect of ONG41008 on macrophage physiology
+ Macrophages play a central role in inflammation whose activation has been known to be modulated by ROS []
+ As ONG41008 mitigated NOX4 gene expression in DHLF as well as in ONGHEPA1 (HSC) cells, how ONG41008 regulates NOX4 gene expression in ONGHEPA1 cells remained intriguing
+ As anticipated, ONG41008 was able to greatly attenuate NOX4 transcription along with Collagen111 or that ONG41008 may affect macrophage homing to the liver
+ This data suggests that NOX4 plays an important role in pathogenesis of myofibroblasts
+ According to an interactome analysis shown in Figure 3, NOX4 seems to be functionally related to endothelin (EDN) 1, connective tissue growth factor (CTGF) and insulin-like growth factor binding proteins (IGFBP)
+ HSC play a pivotal role in hepatic inflammation as well as liver fibrosis [36, ]
+ Macrophage infiltration is pathologically related to steatosis or liver inflammation []
+ ONG41008 seemed to be able to block the endocytosis of CD14, one of the main LPS receptors or Myd88, disarming TLR4-driven TNF production
+ Although our confocal imaging analysis may set a working hypothesis that ONG4100 may directly bind to CD14, more analytical interaction studies should be performed like DART (direct analysis in real time) as a mass spectrometry
+ ICC data clearly showed that LPS stimulation induced a robust endocytosis of CD14 whereas LPS plus ONG41008 may retain periplasmic distribution of CD14 in not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    change affects LPS-mediated TNF induction remain to be elucidated
+ No apparent change in endocytosis and morphological changes of MD-2 or NOX4 were detected (Supplementary Figure )
+ Our data suggest that there are two distinct anti-fibrotic capacities associated with ONG41008; 1) inhibition of TGF biogenesis by dismantling of LTC via F-actin depolymerization, thereby limiting binding of TGF to TGFRII and 2) alteration of ECM biogenesis which is initiated in currently unknown modes, as shown in Supplementary Figure Taken together, we generated a CSD called ONG41008 that has both anti-fibrotic and anti-inflammatory capability
+ ONG41008 may be able to ameliorate a broad range of fibrotic diseases such as heart fibrosis, kidney fibrosis, macular fibrosis, NASH or fibrotic cancers such as pancreatic cancer
+ And this observation also opens a door as a powerful new therapeutic not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    We greatly appreciate Dr
+ HS Yoon (NTU Singapore) for scientific advices
+ We are thankful to D Lee (being the CTO in Osteoneurogen) for a proof reading and to all those Osteoneurogen researchers and administrative workforces who have been helping us, thereby making the current manuscript possible
+ This study was supported by an intramural fund from H-S Kim, I-K Kim, and B-S Youn retain the shares of Osteoneurogen, M-K Meang retains a stock option, and SB Kim are employed by OsteoNeuroGen
+ The current contents of the ONG41008 data has been granted as the subject of a Korean patent and an US patent and has B-S Youn and H-S Kim conceived the idea
+ I-H Kim and B L
+ Seong exchanges the ideas related to therapeutic efficacy of ONG41008 to fibrotic diseases and anti-osteclastogenesis by viewing these experiments
+ MK Mang was largely involved in executing major experiments as well as organizing and sorting out all involved methods and materials
+ JY Lee played a role in TGF  signaling along with ONG
+ SB Kim played a major role in trans-differentiation of HSC into pathogenic myofibroblasts
+ The major body of this manuscript has been exposed to public on the  depository since September, 2019 Animal care: Mice, rats or beagle dog care was managed by the IACUC associated with not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    
+ Meyer KC
+ Pulmonary fibrosis, part I: epidemiology, pathogenesis, and diagnosis
+ 
+ Raghu G, Richeldi L, Jagerschmidt A, Martin V, Subramaniam A, Ozoux ML, et al 
+ Wattacheril J, Issa D, Sanyal A
+ Nonalcoholic steatohepatitis (NASH) and hepatic 
+ Bessone F, Razori MV, Roma MG
+ Molecular pathways of nonalcoholic fatty liver 
+ Marra F, Lotersztajn S
+ Pathophysiology of NASH: perspectives for a targeted 
+ Ignat SR, Dinescu S, Hermenean A, Costache M
+ Cellular interplay as a consequence 
+ Lemoinne S, Friedman SL
+ New and emerging anti-fibrotic therapeutics entering or already in clinical trials in chronic liver diseases
+ Curr Opin Pharmacol ;:-
+ 
+ Miao CM, Jiang XW, He K, Li PZ, Liu ZJ, Cao D, et al Bone marrow stromal cells attenuate LPS-induced mouse acute liver injury via the prostaglandin E 2-dependent repression 
+ Dixon RA, Pasinetti GM
+ Flavonoids and isoflavonoids: From plant biology to 
+ Stapleton AE, Walbot V
+ Flavonoids can protect maize DNA from the induction of not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    
+ Leyva-Lpez N, Gutierrez-Grijalva EP, Ambriz-Perez DL, Heredia JB
+ Flavonoids as cytokine modulators: A possible therapy for inflammation-related diseases
+ Int J Mol Sci 
+ Emami S, Ghanbarimasir Z
+ Recent advances of chroman-4-one derivatives: synthetic 
+ Gacche RN, Meshram RJ, Shegokar HD, Gond DS, Kamble SS, Dhabadge VN, et al Flavonoids as a scaffold for development of novel anti-angiogenic agents: An experimental and 
+ Kim JY, Lee MS, Baek JM, Park J, Youn BS, Oh J
+ Massive elimination of multinucleated osteoclasts by eupatilin is due to dual inhibition of transcription and 
+ Troeger JS, Mederacke I, Gwak GY, Dapito DH, Mu X, Hsu CC, et al Deactivation of hepatic stellate cells during liver fibrosis resolution in mice
+ Gastroenterology
+ 
+ Wang Y, Brooks PJ, Jang JJ, Silver A, Arora PD, McCulloch CA, et al Role of actin 
+ Robertson IB, Horiguchi M, Zilberberg L, Dabovic B, Hadjiolova K, Rifkin DB
+ 
+ Makarev E, Izumchenko E, Aihara F, Wysocki P, Zhu Q, Buzdin A, et al Common 
+ Wang Y, Yella J, Chen J, McCormack FX, Madala SK, Jegga AG
+ Unsupervised gene 
+ Mullenbrock S, Liu F, Szak S, Hronowski X, Gao B, Juhasz P, et al Systems analysis not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    of transcriptomic and proteomic profiles identifies novel regulation of fibrotic programs by 
+ Hoff CR, Perkins DR, Davidson JM
+ Elastin gene expression is upregulated during 
+ Chen W, Yan X, Xu A, Sun Y, Wang B, Huang T, et al Dynamics of elastin in liver fibrosis: Accumulates late during progression and degrades slowly in regression
+ J Cell Physiol
+ 
+ Singh A, Koduru B, Carlisle C, Akhter H, Liu RM, Schroder K, et al NADPH oxidase 4 modulates hepatic responses to lipopolysaccharide mediated by Toll-like receptor-
+ Sci Rep
+ 
+ Kakino S, Ohki T, Nakayama H, Yuan X, Otabe S, Hashinaga T, et al Pivotal role of TNF- in the development and progression of nonalcoholic fatty liver disease in a murine 
+ Grant R, Nguyen KY, Ravussin A, Albarado D, Youm YH, Dixit VD
+ Inactivation of 
+ Sun B, Wang X, Ji Z, Wang M, Liao YP, Chang CH, et al NADPH Oxidase-Dependent NLRP3 Inflammasome activation and its important role in lung fibrosis by multiwalled carbon 
+ Zhang LL, Huang S, Ma XX, Zhang WY, Wang D, Jin SY, et al Angiotensin(1-7) 
+ Cheng Z, Taylor B, Ourthiague DR, Hoffmann A
+ Distinct single-cell signaling characteristics are conferred by the MyD88 and TRIF pathways during TLR4 activation
+ not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    
+ Monteiro PA, do Prado WL, Dos Santos Tenrio TR, Tomaz LM, St-Pierre DH, Lira FS
+ Immunometabolic Changes in Hepatocytes Arising from Obesity and the Practice of 
+ Saito K, Uebanso T, Maekawa K, Ishikawa M, Taguchi R, Nammo T, et al Characterization of hepatic lipid profiles in a mouse model with nonalcoholic steatohepatitis 
+ Owona BA, Abia WA, Moundipa PF
+ Natural compounds flavonoids as modulators of 
+ Kim HS, Yoon YM, Meang MK, Park YE, Lee JY, Lee TH, et al Reversion of in vivo 
+ Karin D, Koyama Y, Brenner D, Kisseleva T
+ The characteristics of activated portal 
+ Weiskirchen R, Tacke F
+ Cellular and molecular functions of hepatic stellate cells in 
+ Higashi T, Friedman SL, Hoshida Y
+ Hepatic stellate cells as key target in liver fibrosis
+ 
+ Koyama Y, Brenner DA
+ Liver inflammation and fibrosis
+ J Clin Invest
+ 
+ Ihn H, Kim K, Cho H, EK P
+ Pentamidine inhibits titanium particle-induced osteolysis in vivo and Receptor Activator of Nuclear factor-kB Ligand-mediated osteoclast differentiation not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    Fig
+ 
+ ONG41008 inhibits trans-differentiation of mouse HSC into pMFB
+ (A) ICC was performed for -SMA on ONGHEPA1, a mouse HSC line, after 24hrs treatment with medium, TGF (
+5ng/ml), or TGF plus ONG41008 (25M) and cell reactivities were observed under qPCR along with ICC
+ (B) Kinetics of TGF-induced SMAD or ERK phosphorylation in presence of ONG41008 was conducted by western blot using the cell lysates of ONGHEPA1 treated with TGF in the presence of ONG41008 at various time points; 0, 5, 15, 30, 45, 60, 120 mins
+ (C) Actin-Phalloidin staining to test actin depolymerization was explored
+ ONGHEPA1 cells were treated with ONG41008, Pirfenidone, or Nintedanib in the presence of TGF as compared to DMEM and was subjected to microscopic observation
+ (D) In vitro actin polymerization and (E) depolymerization assay
+ Actin polymerization activity and amount of depolymerization were measured in kinetic mode fluorometer at different concentration of ONG
+ Statistical significance was calculated by Students t-test
+ *, P < 
+05, **, P<
+ 
+  Fig
+ 
+  Change of latent TGF complex (LTC)associated proteome expression in ONG41008-treated DHLF and ONGHEPA1 cells (A) DHLF were stained for LTBP1 (green), LAP1 (green), LTBP4 and DAPI (nuclei, blue)
+ LTBP1 and LAP1, but not LTBP4, were significantly down-regulated by ONG
+ (B) ONGHEPA1 cells were stained for F-actin (phalloidin, red), mLTBP1 (green), mLTBP4 (green), mLAP1 (green), integrin 53 and Fig
+ 
+ Transcriptomic analysis shows a set of genes, seventy-seven, called TGF-induced not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    database based on the above listed seventy-seven FIGS
+ Of those, twenty-eight genes-encoded proteins appeared to be isolated from the major interactome and thus were deleted to better Fig
+ 
+ NOX4, CCL2 and CCL7 are inducible by TGF and blocked by ONG
+ (A) qPCR for analysis of gene expression of Collagen111, Periostin and NOX4 in TGF treated ONGHEPA1 at various time points; 0, 6, 9, 12, 24 hr
+ (B) ICC for NOX4 on ONGHEPA1 and (C) DHLF incubated 24hrs in medium, TGF, or TGF plus ONG
+ With the same treatment conditions, (D) ROS assay using DCFDA on ONGHEPA1 and (E) qPCR for NOX4, Trans-differentiation was conducted for 24 hr
+ Myofibroblasts were washed with buffer and were restimulated with TGF plus ONG41008 for 24 hr
+ The resulting intermediate cells were kept incubated with TGF alone for 72 hr
+ Morphological changes were monitored under a differential stimulations; medium, TGF or TGF plus ONG
+ Collagen hubs, cell adhesins hubs and chemokines hubs are denoted by arrows
+ Intermediate cells were subjected to RNA-seq for establishing a reversion interactome, and two distinct interactomes coexist; 1) residual fibrogenic interactome comprising of Col63, Col111, Coll31, and Spp1 and 2) an Fig
+ 
+ Anti-fibrotic effect of ONG41008 in bleomycin-induced lung fibrosis model
+ (A and B) Lung collagen and hydroxyproline levels were measured after pirfenidone or different dosages of ONG41008 (10, 25, 50mpk) oral administration in BLM therapeutic model
+ Percent not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    inhibition relative to Vehicle control are presented in orange with average measurement
+ (C) Lung sections were analyzed by Massons Trichome staining for BLM therapeutic model and SMA staining was conducted
+ Percent SMA-positive area was measured and statistical significance was calculated by Students t-test
+ ***, P < 
+001, relative to Sham
+ $, P < 
+05, Fig
+ 
+ Inhibition of LPS-inducible genes by ONG41008 in LPS-stimulated RAW
+7 cell
+ RAW
+7 cells were stimulated with LPS (100ng/ml) or LPS plus ONG41008 (25M, 50M) for 24hrs and mRNA expression for inflammatory markers were measured by qPCR
+  Fig
+ 
+ Inhibition of CD14 trafficking by ONG41008 in LPS-stimulated RAW
+7 cell
+  (A) Confocal imaging analysis for CD14 in RAW
+7 cells which were incubated in medium, LPS or LPS plus ONG
+ CD14 or Myd66 cellular trafficking was monitored via confocal imaging
+ (B) An interactome operational for LPS-ONG41008 axis in RAW
+7 cells revealed that TNF turned out to be the central hub of the interactome
+ Fig
+ 
+ Anti-fibrotic effect of ONG41008 in NASH and NAFLD in STAM mouse model
+ (A and B) H&E staining of liver sections of STAM mouse were analyzed after oral administration pf Telmisartan, OCA or ONG
+ Liver samples were photographed after hepatectomy
+ (C) NAFLD activity score charted for ONG41008 and controls
+ Statistical significance was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    DHLFs were purchased from Lonza (Basel, Switzerland) and cultured in fibroblast growth medium (FBM, Lonza, Walkersville, MD, USA)
+ Recombinant human TGF and PDGF were obtained from Peprotech (Rocky Hill, CT, USA) and used at a final concentration of 5 ng/ml
+ Chemically synthesized ONG41008 was obtained from Syngene International Ltd
+ (Bangalore, India), dissolved at a stock concentration of 50 mM in DMSO, and stored in aliquots at -C
+ DMSO with according concentration was used as control
+ RAW
+7 cell line was purchased from Korean Cell Line Bank (Seoul, Korea) and cultured in RPMI supplemented with 10% FBS and 1% P/S (Welgene, Seoul, Korea)
+ LPS was purchased from C57BL/6J mice were anesthetized by inhalation of 70% N2O and 30% O2 gas containing 
+5% isoflurane
+ Fifty microliters of bleomycin solution in distilled water was directly injected into the lungs, all at once, via the aperture
+ Immediately after injection, the mice were allowed to recover from the anesthetic, and then housed in normal cages
+ Bleomycin (
+03U BLM in 50l saline) was administered once using a visual instillobot
+ Twelve days after the administration of bleomycin, ONG41008 was forcibly nasally administered via a micropipette, once a day (five times a week) for 1 week
+ ONG41008 was dissolved in DPBS buffer (containing 1% DMSO), and 1 ml/kg was administered based on the most recent body weight
+ For 2 to 3 days after administration of ONG41008, mice were monitored for toxic symptoms or death, but no abnormal symptoms were observed
+ Three mice per test group were selected, and their lung tissues were excised
+ The lung tissues were stained with Massons trichrome and observed under a microscope
+ The degree of fibrosis of not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    the lungs was assessed by an independent pathologist using the Ashcroft scoring system
+ Results were expressed as mean values and standard deviations
+ One hour before sacrifice, a final dose of ONG41008 or pirfenidone was administered for plasma or lung PK
+ The bleomycin-treated mice exhibited a rapid decline in weight, but the sham control behaved normally
+ ONG41008- or pirfenidone-administered mice exhibited weight gain from day 3 onward
+ Control and ONG41008-treated mice data were compared using Students t-test
+ Processed reads were mapped to the Mus musculus reference genome (Ensembl 77) using Tophat and Cufflink with default parameters
+ Differential analysis was performed using Cuffdiff using default parameters
+ Further, FPKM values from Cuffdiff were normalized and quantitated using the R Package Tag Count Comparison (TCC) to determine statistical significance (e
+ g
+, P values) and differential expression (e
+ g
+, fold changes)
+ Gene expression values were plotted in various ways (i
+ e
+, Scatter, MA, and Volcano plots), using fold-change values, using an R script developed in-house
+ The protein interaction transfer procedure was performed using the STRING database with the differentially expressed genes
+ A 60 Gb sequence was generated, and 10,020 transcripts were read and compared
+ The highest-confidence interaction score (
+9) was applied from the Mus musculus species, and information about interacts were obtained based on text mining, experiments, and databases ( Due to company information sake the above detailed RNA-Seq or interactome data interpretation would be limited but essential data sufficiently supporting our not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    Cells cultured in either 12 or 24-well plates were washed twice with cold PBS and harvested using TaKaRa MiniBEST Universal RNA extraction kit (Takara, Japan)
+ RNA was purified using the same kit according to manufacturers protocol
+ RNA was reverse-transcribed using the cDNA Synthesis Kit (PCRBio Systems, London, UK)
+ Synthesized cDNA was amplified with StepOne Plus (Applied Biosystems, Life Technologies) and 2 qPCRBio Probe Mix Hi-ROX (PCRBio)
+ Comparisons between mRNA levels were performed using the Ct Mouse TNF Quantikine ELISA kit was purchased from R&D systems (Minneapolis, MN, USA)
+ Raw
+7 cell was seeded at 1 x 105 in 12 well cell culture plate and incubated O/N
+ The cells were then treated with LPS (100ng/ml) and ONG41008 at the indicated concentrations
+ Balancing amount of DMSO was added to each treatment condition
+ After 24HRs of treatment supernatant from each was collected for ELISA
+ The assay was performed according to the manufacturers manual For three repeat experiment standard curve was made each time to calculate TNF concentration
+ DHLF at a density of 2x10^5cells/ml were seeded onto 24well plate, followed by treatment with TGF (
+5ng/ml) and TGF (
+5ng/ml) plus various concentrations of ONG
+ After 24 hr, the supernatants were collected and performed with human elastin ELISA kit (Abcam, ab239433) following the manufacturers protocol
+ For western blotting, antibodies for CD14, MD-2, P62, GAPDH were purchased from Abcam (Cambridge, UK), MyD88, TLR4 from R&D systems, NOX4 (14347-1-AP) from Proteintech (Rosemont, IL, USA), and LC3 A/B, pSMAD-2, pSMAD-3, SMAD2/3, pERK 1/2, ERK 1/2 from Cell Signaling Technology (Danver, MA, USA)
+ All antibodies were diluted to not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    blocked and incubated with 1:500 anti -Smooth Muscle Actin (Young In Frontier, Korea), 1:500 Actin Phalloidin (Thermo Fisher, USA), 1:500 anti-LTBP1 (Aviva Systems Biology, San Diego, USA), 1:500 anti- LTBP4 (Aviva Systems Biology), 1:500 anti-LAP1 (Abcam), 1:500 (Abcam), 1:500 anti-MyD88 (R&D systems), 1:500 anti-TLR4 (R&D systems) or 1:500 anti-MD-2 (Abcam) antibodies and 1:200 FITC conjugated secondary antibody (Young In Frontier) and imaged with fluorescence microscope EVOS FL (Thermo)
+ Nuclei were stained with Cells were fixed with 4% paraformaldehyde, permeabilized with 
+4% Triton X100, blocked with 1% BSA and incubated with anti-CD14 (1:500, Abcam), anti-Myd88 (1:500, R&D systems) for overnight at C
+ After FITC conjugated secondary antibody incubation (1:200, Ab Frontier) for 1 hr at 37C, images were acquired using Laser scanning confocal microscope (Carl Zeiss LSM700) with 63x oil immersion lens
+ Confocal images were analyzed Intracellular production of ROS was detected after stimulation of ONGHEAPA1 cells with TGF (5ng/ml) or TGF plus ONG41008 (M)
+ Cells were incubated with 10M H2DCFDA (Abcam) for 1 hr in dark at C
+ The cells were then examined with fluorescence not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    Animal experimental protocols were approved by the institutional Animal Care and Use Committee at Yonsei University Wonju College of Medicine (Identification code: YWC-200325-1) and procedures were performed in accordance with the guidelines of the National Institutes of Healths Guide for the Care and Use of Laboratory Animals
+ Bone marrow mononuclear cells and marrow-derived macrophages were derived as previously described []
+ Briefly, mouse bone marrow cells were harvested from femurs and tibias from 8-week-old Balb/c mice and cultured overnight on 100-mm dishes in -MEM(WelGENE Inc
+, Republic of Korea) supplemented with 10% fetal bovine serum (FBS) and penicillin/streptomycin
+ Floating cells were collected and further cultured in the presence of M-CSF (30 ng/ml) for 4 differentiation, BMM were stimulated with 100 ng/mL RANKL and 30 ng/mL M-CSF in the both assays
+ For actin polymerization assay mixture of; actin, buffer, and test samples were placed in 96 plate well in order of supplemented Buffer G (2M ATP, 5M DTT), actin, and test samples
+ As test samples, Buffer G was used as background control, DMSO as positive control, and ONG41008 in DMSO with concentration range from 25 to 100M were used
+ The mixtures in each well were then pipetted thoroughly to mix and incubated in dark, at room temperature, for 15 min
+ After incubation the polymerization activation buffer, supplemented 10X Buffer P (10mM ATP) was added into each well and thoroughly pipetted
+ For actin depolymerization assay; Buffer G (2M ATP, 5M DTT), supplemented 10X Buffer P (10mM ATP), and actin were placed in 96 plate well in listed order and pipetted to mix thoroughly
+ The not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    mixture was incubated in dark, at room temperature, for 1 hr for polymerization to take effect
+ After the incubation test samples, DMSO as negative control and ONG41008 at concentration from 25 to 100M, were added to each appropriate well and pipetted thoroughly
+ Florescence not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    Suppl
+ Fig
+ S
+ Non-GLP toxicokinetic of ONG
+ (A) ONG41008 was orally administered into mice
+ Three mice per test group were studied, and their plasma were exercised
+ (B) Non-GLP single injection oral PK was studied using beagle dogs
+ Suppl
+ Fig
+ S
+ Tissue PK of ONG41008 study
+ Mice and rat were orally injected ONG41008 at mpk
+ Concentration of drug exposure was detected plasma, lung, liver and kidney tissue at 5 min, 15 min, 30 min, 1 hr and 2 hr time point
+ Suppl
+ Fig
+ 
+ ONG41008 inhibits prefibrotic genes expression in DHLF (A) ICC was performed for -SMA after 24 hr treatment with medium, TGF, TGF plus ONG41008, and with RANKL and M-CSF (10 ng/mL) and (20 ng/mL) in the presence or absence of ONG40118 analysis from DHLF treated with TGF or TGF plus ONG41008 shows 77 TGF-induced not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    Suppl
+ Fig
+ S
+ ONG41008 inhibits ELN production in DHLF
+ (A) IC50 of ONG41008 for Eln mRNA expression was determined by qPCR
+ (B) Culture supernatants from DHLF treated with TGF or TGF plus ONG41008 were examined for ELN protein levels by ELISA
+ **P < 
+001 and *P <
+05 relative to vehicle control were determined by Students t-tests
+ interactome in the mouse liver RNA-seq was performed by using total RNAs from ONGHEPA1 treated by control, TGF, or TGF + ONG
+ Differential expression was explored with p< 
+ 
+  An interactome study using STRING based on sixty-one FIGS Suppl
+ Fig
+ S
+ ONG41008 had positive effects against lung fibrosis in BLM prevention model
+ (A) Lung collagen and hydroxyproline levels measured after treatment with pirfenidone or 10, 25, or 50 mg/kg ONG41008 in the BLM prevention model
+ Percent inhibition relative to vehicle control is shown in orange characters, with average measurements in gray
+ (B) Massons Trichome staining of lung sections in the BLM prevention model
+ Representative magnification,  200 (C) Ashcroft fibrosis score on day 
+ ***P < 
+001, relative to Sham, and $P < 
+05, $$$P < 
+001 relative to vehicle control by Students t-tests
+ Suppl
+ Fig
+ S
+ ONG41008 inhibits LPS-induced TNF expression in RAW
+7 cells
+ (A) RAW
+7 cells were treated with different concentrations of LPS and/or ONG41008 for 12 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    hr and levels of TNF mRNA were analyzed by quantitative RT-PCR
+ (B) Supernatants of cultured RAW
+7 treated with LPS and/or ONG41008 were collected and ELISA was performed to measure the expression of TNF
+ Data are presented as the mean  standard Suppl
+ Figure S
+ Plasma membrane sequestration of CD14 by ONG41008 in LPS-stimulated RAW
+7 cells
+ RAW
+7 cells were cultured overnight with LPS plus ONG
+ FITC-labeled CD14 (Green) antibody was reacted with RAW
+7 cells
+ DAPI was used to stain nuclei (blue)
+ The fluorescence of CD14 was detected with 40X objective using EVOS FL microscope
+ CD14 was expressed in plasma membrane of unstimulated RAW
+7 cell and ONG41008 inhibited the recycling of CD14 in LPS-stimulated RAW
+7 Suppl
+ Figure S
+ The fluorescence levels of MD-2, TLR4, MyD88 and NOX4 was consistent
+ RAW 
+7 cells were stimulated with Medium, LPS or LPS plus ONG41008 for 24 hr
+ FITC-labeled Myd88 antibody (1/500), FITC-labeled TLR4 antibody (1/500), FITC-labeled MD-2 antibody (1/500) or FITC-labeled NOX4 antibody (1/500) was immuno-stained with permeabilized RAW 
+7 cells
+ Nuclei were presented by DAPI (Blue)
+ The image was Suppl
+ Figure S12 Signs of hepatic steatosis, lobular inflammation and hepatocyte ballooning in each condition in STAM mice treated with control, ONG41008, Telmisartan, or OCA were Suppl
+ Figure S
+ Potential mechanism of ONG41008 action in the treatment of organ not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    fibrosis
+ Major one destroys actin stress filaments via depolymerization of F-actin, leaving latent TGF complex dismantled
+ Inability of TGF binding to TGF II or I signaling receptor is unable to generate canonical or noncanonical TGFR signaling leading to attenuation of type 2 EMT
+ Furthermore, ONG41008 blocks phosphorylation of SMAD/
+ These two acting mechanisms may be responsible for efficiently disarming proliferation of or collagen or independently of TGF may play an important role in giving rise to beneficial features, suggesting that it may also prevent fibrosis and promote cellular homeostasis such as cell survival, anti-steatosis or lowering insulin resistance
+ We suppose that these two working not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted March 3, 
+ ;    

@@ -1,0 +1,805 @@
+Prevention of heart failure in hypertension  disentangling the role of evolving left ventricular hypertrophy and blood pressure lowering: the ALLHAT studyPrevention of heart failure in hypertension  disentangling the role of evolving left 1 Kyle Johnson1, BS, Suzanne Oparil2, MD, Barry R
+ Davis3, MD, PhD, Larisa G
+ 3 1The Knight Cardiovascular Institute, Oregon Health & Science University, Portland, OR, 6 2University of Alabama at Birmingham, Department of Medicine, School of Medicine, 7 Birmingham, AL, 3University of Texas School of Public Health, Houston, TX
+  8 Correspondence: Larisa Tereshchenko, 3181 SW Sam Jackson Park Rd; UHN62; Portland, 12 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    BackgroundHypertension (HTN) is a known risk factor for heart failure (HF), possibly via 2 the mechanism of cardiac remodeling and left ventricular hypertrophy (LVH)
+ We studied how 3 much blood pressure (BP) change and evolving LVH contribute to the effect that lisinopril, 4 Treatment to Prevent Heart Attack Trial (ALLHAT) data
+ ALLHAT participants with available 7 serial ECGs and BP measurements were included (n=29,892; mean age 674 y; 32% black; 56% 8 men): 11,008 were randomized to chlorthalidone, 5,967  to doxazosin, 6,593  to amlodipine, 9 and 6,324  to lisinopril
+ Evolving ECG-LVH, and BP-lowering served as mediators
+ Incident 10 symptomatic HF was the primary outcome
+ Linear regression (for mediator) and logistic 11 regression (for outcome) models were adjusted for mediator-outcome confounders (demographic 12 and clinical characteristics known to be associated both with both LVH/HTN and HF)
+  13 ResultsA large majority of participants (96%) had ECG-LVH status unchanged; 4% 14 developed evolving ECG-LVH
+ On average, BP decreased by 11/7 mmHg
+ In adjusted Cox 15 
+ (
+ -
+70)], and baseline ECG-LVH [
+ (
+ -
+31)] carried risk of incident HF
+ After full 17 adjustment, evolving ECG-LVH mediated 4% of the effect of doxazosin on HF
+ Systolic BP-18 lowering mediated 12% of the effect of doxazosin, and diastolic BP-lowering mediated 10% 19 effect of doxazosin, 7% effect of amlodipine, and borderline 9% effect of lisinopril on HF
+  20 ConclusionsEvolving ECG-LVH and BP change account for 4-13% of the mechanism by 21 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    Key words: ECG, heart failure, left ventricular hypertrophy, hypertension, antihypertensive 1 Hypertension (HTN) is a major risk factor for heart failure (HF)
+1 HTN triggers cardiac 4 remodeling and development of left ventricular hypertrophy (LVH), leading to subclinical organ 5 damage, which evolves to clinically manifest HF, and ultimately, death
+ The beneficial effect of 6 antihypertensive treatment on HF risk is well-known,3 and reflected in the 2017 ACC/AHA 7 Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in 8 Adults
+4 HTN treatment is associated with an approximately 20-25% reduction in risk of incident 9 The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial 11 (ALLHAT)6 was a multicenter, randomized, double-blind, active-controlled trial designed to 12 compare cardiovascular (CV) outcomes in high-risk antihypertensive patients assigned to the 13 angiotensin-converting enzyme inhibitor (ACEi) lisinopril, the calcium channel blocker (CCB) 14 amlodipine, and the -blocker doxazosin, in comparison to a thiazide-type diuretic 15 (chlorthalidone)
+ Incident HF was a pre-specified ALLHAT outcome
+ The rationale for the 16 ALLHAT hypothesis was based on the previous demonstrations that ACEIs and CCBs are more 17 effective than diuretics in reducing left ventricular mass index, measured by echocardiography
+7 18 Contrary to expectations, the ALLHAT showed that chlorthalidone was superior to amlodipine, 19 lisinopril, and doxazosin in preventing HF
+8, 9 The subsequent ALLHAT HF validation study 20 While ALLHAT answered question about the comparative effectiveness of antihypertensive 22 treatments for HF prevention, mechanisms behind this HF prevention remain incompletely 23 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    understood
+ The extent to which the effect of a CCB, ACEi, and an -blocker (as compared to a 1 diuretic) on incident HF is mediated by evolving LVH and blood pressure (BP) lowering per se 2 remains unknown
+ This study aimed to quantify the extent to which the effect of lisinopril, 3 amlodipine, and doxazosin (as compared to chlorthalidone) on incident HF is mediated by 4 evolving LVH and BP lowering
+ We hypothesized that evolving ECG LVH and BP lowering are 5 mechanisms behind previously observed differences in the rate of incident HF in hypertensive 6 ALLHAT participants randomized to lisinopril, amlodipine, and doxazosin, in comparison to 7 For this study, we used the ALLHAT dataset, publicly available from the National Heart, 10 Lung, and Blood Institute, via BioLINCC
+ The study was reviewed by an Oregon Health and 11 Science University Institutional Review Board and determined that it did not require further 12 review due to the de-identified nature of publicly available dataset
+  13 The ALLHAT design and rationale have been described previously
+6 Briefly, ALLHAT 15 enrolled adults age 55 and above, with HTN and at least one risk factor [documented coronary 16 heart disease (CHD), type II diabetes mellitus, LVH on ECG or echocardiogram, smoking, high-17 density lipoprotein (HDL) < 35mg/dL, or ST-T ECG changes indicative of ischemia]
+ 18 Symptomatic HF patients or those with LVEF <35%, patients with recent myocardial infarction 19 In this study, we included ALLHAT participants with available assessment of evolving LVH 21 status, and dynamic BP changes
+ We excluded participants with missing covariates
+ Final study 22 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    population included 29,892 participants: 11,008 were randomized to chlorthalidone, 5,967  to 1 doxazosin, 6,593  to amlodipine, and 6,324  to lisinopril (Figure )
+  2 ECGs were recorded at the study sites at baseline and biannually during follow-up
+ 4 Minnesota coding13 of serial ECG changes (Table 1) was performed in the ECG core center at 5 the University of Minnesota in Minneapolis by reviewers who were blinded to treatment 6 assignments
+ Minnesota codes 3-1 and 3-3 are high left R amplitude patterns (relevant to LVH) 7 as measured on the next to last complete normal beat
+ Code 3-1 was coded if any of the 8 following 3 criteria are present: (1) R amplitude >26 mm in either lead V5 or V6; (2) R 9 amplitude >20 mm in any of leads I, II, III, or aVF; (3) R amplitude >12 mm in lead aVL
+ Code 10 3-3 was coded if one or both of the following two criteria is present: (1) R-wave amplitude >15 11 mm but 20 mm in lead I; R-wave amplitude in V5 or V6 plus S or QS amplitude in V1 >35 12 Serial ECG changes were assessed during follow-up, which required at least two ECGs
+ LVH 14 was examined in clinic (non-hospital) ECG recordings
+ The Minnesota Code allowed for 15 objective classification of evolving LVH over time by setting limits to the percentage of change 16 in voltage that occurs in serial ECGs (Table )
+ At the first step, it was determined in which lead 17 the most severe 3-code occurred
+ Code 3-1 was considered more severe than Code -
+ If both 18 ECGs had the same 3-code, the follow-up record determined which lead to use to compare with 19 the reference ECG
+ If the 3-code occurred in different leads, the following hierarchy was used to 20 determine which lead to compare: V5 /V6 (whichever R-amplitude is higher)>I>II>III> aVL
+  21 Evolving LVH (Table 1) was coded as either significant progression (including newly 22 diagnosed ECG-LVH), or significant resolution (including complete resolution of ECG-LVH)
+ In 23 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    addition, several ECG-LVH definitions were included (Sokolow-Lyon, Cornell Voltage, Cornell 1 Product, Sum of 12 leads, 12 leads Product)
+ Table 1 reports thresholds that were used to define 2 BP was measured at every follow-up visit (every 3 months for the 1st year and every 4 5 months thereafter
+ At each visit, BP was recorded as an average of two measurements
+ To 6 calculate achieved BP lowering during the trial, we subtracted baseline BP from the BP obtained 7 at the latest in-trial study visit available at year 1, 2, 3, 4, 5, or 6 from baseline, thus obtaining 8 estimates of the greatest BP control
+ In addition, we conducted sensitivity analyses with three 9 other definitions of BP lowering
+ By subtracting baseline BP from the BP obtained at the next in-10 trial study visit available, we obtained estimates of the fastest BP control
+ We also divided the 11 greatest and fastest BP control estimates by the baseline BP, obtaining relative greatest and 12 Incident symptomatic congestive HF as defined by the ALLHAT investigators was a primary 15 outcome in this study
+ Diagnosis of symptomatic congestive HF required the presence of both: 16 (1) Paroxysmal nocturnal dyspnea, or dyspnea at rest, or New York Heart Association class III 17 symptomps, or orthopnea, and (2) rales, or ankle edema (2+ or greater), or sinus tachycardia of 18 120 beats/minute or more after 5 minutes at rest, or cardiomegaly by chest X-ray, or chest X-ray 19 characteristic of congestive HF, or S3 gallop, or jugular venous distention
+ The incident HF 20 outcome was validated by the ALLHAT HF validation study
+10 In the current study, hospitalized 21 / fatal HF was included as a secondary outcome
+  22 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    Baseline BP was calculated as an average of two BP determinations taken at least one day 2 apart, with each determination being an average of 2 measurements
+  3 Baseline ECG-LVH was based on any ECG within the past 2 years
+ Baseline ECG-LVH 4 definition included any one of the following: (1) R amplitude in V5 or V6 > 26 mm, (2) R 5 amplitude in V5 or V6 plus S amplitude in V1 > 35 mm, (3) R amplitude in aVL > 12 mm, (4) R 6 amplitude in Lead I > 15 mm, (5) R amplitude in Leads II or III, or aVF > 20 mm, (6) R 7 amplitude in Lead I plus S amplitude in Lead III > 25 mm, (7) R amplitude in aVL plus S 8 amplitude in V3 > 28 mm for men or > 22 mm for women, or (8) computerized ECG machine 9 Echocardiographic LVH (Echo-LVH) was defined as combined wall (posterior wall plus 11 interventricular septum) thickness  25 mm on any echocardiogram in the past 2 years
+ 12 Baseline medical history was determined by the study investigators by a combination of chart 13 review and questioning during a routine office visit
+ HTN history determined whether 14 participants were treated for at least 2 months, were treated for less than 2 months, or were 15 untreated
+ History of MI or stroke was at least 6 months old
+ History of revascularization 16 included history of angioplasty, stenting, atherectomy, bypass surgery [coronary; peripheral 17 vascular; carotid; vertebrobasilar], or aortic aneurysm repair
+ Presence of major ST segment 18 depression or T wave elevation on any ECG in the past two years was identified
+ History of other 19 atherosclerotic cardiovascular disease (CVD) included documented peripheral artery disease or 20 cerebrovascular disease
+ Baseline CHD history included known prior MI (including silent MI), 21 angina, cardiac arrest, angiographically defined coronary stenosis more than 50%, reversible 22 perfusion defects on cardiac scintigraphy, or prior coronary revascularization procedures
+ Type II 23 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    diabetes was defined as fasting plasma glucose > 140 mg/dl [
+77 mmol/L] or non-fasting 1 plasma glucose > 200 mg/dl [
+1 mmol/L] in the past 2 years and/or current treatment with 2 insulin or oral hypoglycemic agents
+ History of HDL cholesterol < 35 mg/dl (
+91 mmol/l) on 3 any 2 or more determinations within past 5 years was included
+ History of smoking was also 4 All continuous variables are presented as meansstandard deviation (SD)
+ ANOVA and 2 7 test was used for unadjusted comparison of clinical characteristics in participants with evolving 8 ECG-LVH
+ To determine association of clinical characteristics with achieved in-trial BP 9 changes, we used multivariable linear regression models, minimally adjusted for age, sex, and 10 race/ethnicity
+ Intention-to-treat (ITT) randomization assignment was used for definition of 11 Minimally adjusted (by age, sex, and race/ethnicity) Cox regression models were used to 13 describe associations of baseline clinical characteristics, evolving ECG-LVH, and BP-lowering 14 with two different definitions of incident HF, for comparison
+ Associations between BP-lowering 15 (continuous variable) and HF risk were also evaluated using adjusted (as above) Cox regression 16 We conducted causal mediation analysis14, allowing for treatment-mediator interaction in the 18 logistic regression, using counterfactual definitions of direct and indirect effects, as implemented 19 by VanderWeele and colleagues
+15 Two models were estimated: a linear model for the mediator 20 conditional on treatment and covariates, and a logistic model for the outcome conditional on 21 treatment, the mediator, and covariates
+ Our study design is well-suited for mediation analysis, as 22 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    mediators were studied (Figure 2): (1) evolving ECG-LVH, and (2) BP lowering over the course 1 of the trial We adjusted for mediator-outcome confounders11, 16, which were measured at 2 baseline: demographic (age, sex, race and ethnicity) and clinical characteristics known to be 3 associated both with LVH/HTN and HF: common risk factors (body mass index [BMI], 4 smoking, diabetes), HTN history (levels of baseline systolic BP (SBP) and diastolic BP (DBP), 5 baseline use of antihypertensive medications, ECG- or echo-LVH), CHD or CVD history, 6 coronary revascularization, major ST depression or T-wave inversion, HDL<35 mg/dL twice in 7 the past 5 years, and participation in the lipid-lowering ALLHAT trial A natural direct effect 8 represents the influence of antihypertensive treatment that is independent of evolving ECG-LVH 9 or BP-lowering, in the absence of evolving ECG-LVH or BP changes (e
+ g
+ via pleiotropic effects 10 or drug-specific pharmacodynamics)
+ A controlled direct effect represents the effect of 11 antihypertensive drug at certain level of mediator (at progressing/resolving ECG-LVH with a 12 reference at absent evolving ECG-LVH, and at tertiles of BP changes), allowing measurement of 13 interaction between treatment and a mediator
+ A mediated effect represents the influence of 14 antihypertensive drug that can be explained by its influence on evolving ECG-LVH or dynamic 15 BP changes achieved over the course of the trial To assess the extent of mediation, we estimated 16 the proportion mediated as a ratio of DE*(ME-1)/(DE*ME-1), where DE is direct effect and ME 17 Sensitivity analyses
+ To test robustness of our findings, we repeated analyses with different 19 definitions of BP lowering, expressed as: (1) fastest BP control; (2) relative greatest BP control; 20 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    Statistical analyses were performed using STATA MP 
+1 (StataCorp LLC, College Station, 1 TX)
+ Given the many multivariate and interaction analyses performed, statistical significance at 2 Study population (Table 2) was identical to previously reported ALLHAT population,8, 9 6 maintaining treatment groups randomization  ratio 
+ :::
+ After median 
+1 years follow-up in 7 doxazosin group, and 
+0 years in other 3 groups, there were 2,049 incident HF outcomes, 8 Overall, 58,366 serial ECG changes were evaluated
+ ECG-LVH resolution was observed in 11 about 2% of participants, and in another 2% ECG-LVH progressed (Table )
+ The majority of 12 participants had no evolving ECG-LVH changes
+ ALLHAT participants with evolving ECG-13 LVH were more likely black males, current smokers with lower BMI, but less likely having 14 CHD/MI history
+ As expected, baseline ECG-LVH was more frequent in participants with 15 resolving ECG-LVH
+ Baseline LVH by echocardiogram was similar in all 3 groups, and was 16 very infrequent (-%)
+ Participants with resolving LVH by ECG were more likely diabetic, less 17 likely to have been treated before the onset of the trial, and achieved the greatest degree of BP-18 lowering in-trial Incident HF was significantly more frequent in participants with evolving 19 ECG-LVH (Table )
+ Doxazosin and lisinopril ITT were more likely to be associated with 20 progressing ECG-LVH, and less likely associated with ECG-LVH reduction
+ In contrast, 21 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    chlorthalidone and amlodipine ITT were more likely to be associated with ECG-LVH reduction, 1 The first (Q1), second (Q2), and third (Q3) tertiles of the greatest BP-lowering were -32/-4 1910/6 mmHg, -11/-75/3mmHg, and +11/612/7 mmHg, respectively
+ Q1, Q2, and Q3 of the 5 fastest BP-lowering were -28/-1610/6 mmHg, -7/-45/3 mmHg, and +14/812/6 mmHg, 6 accordingly
+ Hispanic ethnicity, previously untreated HTN, higher baseline levels of SBP/DBP 7 (Figure 3) and baseline ECG-LVH were associated with greater SBP and DBP lowering in-trial 8 (Table )
+ In contrast, presence of diabetes was associated with a SBP increase of nearly 2 9 mmHg
+ Older age was associated with greater SBP-lowering but slight DBP-increase
+ History of 10 CHD/CVD did not affect the degree of BP-lowering in-trial Compared to chlorthalidone, 11 doxazosin was associated with significant SBP increase (by nearly 2 mmHg), whereas 12 amlodipine was associated with significant SBP and DBP decrease
+ Lisinopril was associated 13 with greater DBP (but not SBP) lowering than chlorthalidone (Table )
+ Participants in the 14 doxazosin arm who developed HF had the greatest degree of BP-lowering (both SBP/DBP) in-15 trial (~6/2 mmHg lower than by diuretic), which contrasted with overall weak BP-lowering 16 As expected, age, ethnicity, history of HTN, CHD, and CVD, as well as ECG-LVH were 19 associated with increased risk of HF (Table )
+ There were very little differences between risk 20 factors of two incident HF outcomes: incident symptomatic HF and hospitalized/fatal HF
+  21 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    Evolving ECG-LVH was associated with incident HF (Figure 4), although progressing ECG-1 LVH carried larger risk, as compared to resolving ECG-LVH
+ Evolving LVH was associated 2 with incident HF in three out of four treatment groups (Pinteraction=
+056; Figure )
+  3 The association of in-trial BP changes with HF was non-linear (Figure )
+ Both large 4 decrease and poor control of BP were associated with incident HF, but large decrease in BP had 5 a stronger effect than poor BP control on both primary and secondary outcomes (Table )
+ A 6 similar association of SBP-lowering with incident HF was observed in three out of four treatment 7 groups (Figure )
+ In the amlodipine treatment group, SBP change was not associated with 8 incident HF (Pinteraction=
+039; Figure )
+ A noticeable U-shaped association of DBP-change with 9 incident symptomatic HF was observed in the amlodipine and chlorthalidone treatment groups 10 (Figure 8), whereas poor DBP control in the lisinopril and doxazosin treatment groups was not 11 In fully adjusted analyses, evolving LVH mediated 4% of the effect of doxazosin on HF 14 (Table )
+ Both direct and mediated pathways contributed to the increased HF risk in doxazosin 15 arm
+ The effect of amlodipine and lisinopril on HF was entirely independent of evolving LVH
+  16 After full adjustment for confounders, SBP-lowering mediated 12% of the effect of 18 doxazosin on HF (Table )
+ Of note, the direct and mediated effects of doxazosin on HF were in 19 opposite directions: direct effect of doxazosin increased HF risk, whereas SBP-lowering-20 mediated effect reduced HF risk by %
+ There was significant (P<
+0001) interaction between 21 doxazosin treatment and mediator: SBP-lowering in Q1 and Q2 was associated with increased 22 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    risk of HF, whereas Q3 SBP change (mean increase 11 mmHg) was protective
+ The effects of 1 amlodipine and lisinopril on HF were entirely independent of SBP changes
+ 2 DBP-lowering mediated 10% of the effect of doxazosin, and 7% of the effect of amlodipine, 3 and 9% of the effect of lisinopril on HF
+ In fully adjusted analyses (Table 5) mediation of the 4 effect of lisinopril lost statistical significance
+ Both direct and mediated pathways had the same 5 Sensitivity analyses with different definitions of BP-lowering provided similar results (Table 7 )
+ The fastest SBP-lowering mediated ~13% of the effect of lisinopril on HF
+ 8 The main finding of our study is that the evolving ECG-LVH and BP-lowering explain up to 10 13% of the HF-preventive effect of diuretic chlorthalidone, as compared to the preventive effect 11 of antihypertensive treatment with the alpha-blocker doxazosin, the ACEi lisinopril, and the 12 CCB amlodipine
+ This finding highlights the notion of HF as a complex multifactorial condition, 13 and underscores importance of the use of diuretics for HF prevention, which targets mechanisms 14 that are largely independent of BP-lowering and evolving ECG-LVH
+  15 HTN is the major risk factor of HF, associated with 2-3 fold increased HF incidence in 17 observational cohort studies
+17 However, RCTs HTN treatment is associated with only 20-25% 18 reduction in HF risk
+ Our study provided consistent findings: BP-lowering mediated only up to 19 13% effect of antihypertensive medications on incident HF
+ Such disconnect between a risk 20 factor and effect of its modification is traditionally explained by poor BP control, irreversible 21 damage of the heart over long-time risk exposure, insufficient awareness of HTN, and 22 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    inadequate assessment of HTN by a single BP measurement
+ Our study findings suggest that in 1 order to achieve the most effective HF prevention, BP-lowering should not be the only criterion 2 of HTN treatment effectiveness
+ Moreover, as different antihypertensive treatments have 3 different mediators, different criteria of effectiveness (beyond BP-control) should be developed 4 Our study showed that mechanisms by which the thiazide diuretic chlorthalidone prevented 7 HF were not restricted to BP-lowering and prevention of LVH
+ The mechanisms responsible for 8 favorable effect of chlorthalidone on HF prevention in HTN persons are unknown
+ In addition to 9 and reducing inflammation and oxidative stress)
+18 Better understanding of the mechanisms 11 behind the effect of chlorthalidone on HF may lead to new drug formulations, specifically 12 Longstanding HTN and LVH can start a devastating cascade that leads to HF via myocyte 15 growth, oxidative stress, and fibrosis
+19 While antihypertensive drugs have been shown to reduce 16 and even reverse LVH, this study showed that reduction in ECG-LVH increased the risk of HF, 17 as compared to patients who remained free from LVH
+  18 In the current study, evolving LVH mediated only 4% of the effect of doxazosin on HF
+ 19 Consistent with our findings, previous analysis of Cornell voltage changes during the ALLHAT 20 trial 20 showed no difference in ECG-LVH development/resolution between the amlodipine, 21 lisinopril, or chlorthalidone treatment arms
+ There are known limitations of ECG-LVH as a 22 measure of the LV enlargement, as there are more than a dozen ECG-LVH definitions with poor 23 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    agreement among them
+21 Differences between LVH measured by ECG vs
+ LV mass measured 1 by imaging modalities 21 reflect true differences between the cardiac anatomy and the 2 substrate, which is associated with sudden cardiac death and incident HF independent of LV 4 mass and BP control -
+ Additional ECG measures of electrophysiological substrate should be 5 considered as potential mediators of antihypertensive treatment effect on HF
+ For example, sum 6 absolute QRST integral (SAI QRST) was shown associated with HF hospitalization or death in 7 MADIT II study
+25 Longitudinal changes in global electrical heterogeneity (GEH) were 8 beyond evolving LVH (e
+ g
+ using SAI QRST and GEH) may improve understanding of 10 mechanisms, responsible for HF development in the setting of HTN
+ 11 Our findings are largely consistent with previous ALLHAT results and conclusions
+27 13 Previous analysis of attributable risks due to BP-lowering28 concluded that effect of amlodipine 14 on incident HF was BP-independent, whereas BP-lowering only partially explained the effect of 15 lisinopril on HF
+ In our adjusted mediation analysis, effect of both amlodipine and lisinopril on 16 HF was entirely independent of SBP, whereas DBP-lowering mediated 7% effect of amlodipine 17 and 9% effect of lisinopril
+ Interestingly, we observed opposite directions of the direct effect of 18 doxazosin (increased HF risk), and SBP-lowering-mediated effect of doxazosin (reduced HF risk 19 by %)
+ DBP-lowering mediated 10% effect of doxazosin, and had the same direction with the 20 direct effect of doxazosin
+ As doxazosin remains a viable HTN treatment option for men with 21 benign prostatic hyperplasia, complex effects of BP-lowering on incident HF should be taken 22 into account for patients on doxazosin
+ Overall, very modest effect of BP-lowering on incident 23 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    HF highlights an importance of additional (beyond BP control) biomarkers for assessment of 1 ALLHAT is the largest RCT of antihypertensive treatment, allowing unbiased mediation 4 analysis, strengthening two major assumptions of mediation analysis
+ Randomization eliminated 5 should be taken into account
+ While we adjusted for known common causes of evolving ECG-7 LVH, BP-lowering, and incident HF, unmeasured confounding can affect this study estimates
+ 8 ALLHAT enrolled high-risk HTN patients, and results of this study may not be generalizable to 9 a lower-risk populations
+ In our study, baseline BP displayed moderate correlation with in-trial 10 BP-lowering (Figure 3), which at least partially explained U-shaped association of BP-lowering 11 with incident HF
+ While we utilized modeling approaches accounting for non-linear associations, 12 it is possible that we under-estimated true effect of BP-lowering on incident HF
+ 13 This manuscript was prepared using ALLHAT Research Materials obtained from the NHLBI 15 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    
+ Rapsomaniki E, Timmis A, George J, Pujades-Rodriguez M, Shah AD, Denaxas S, White IR, 2 Caulfield MJ, Deanfield JE, Smeeth L, Williams B, Hingorani A, Hemingway H
+ Blood 3 pressure and incidence of twelve cardiovascular diseases: Lifetime risks, healthy life-years 4 lost, and age-specific associations in 
+25 million people
+ Lancet
+ 2014;383:1899-1911 5 
+ Zanchetti A
+ Hypertension: Cardiac hypertrophy as a target of antihypertensive therapy
+ Nat 6 
+ Psaty BM, Smith NL, Siscovick DS, Koepsell TD, Weiss NS, Heckbert SR, Lemaitre RN, 8 Wagner EH, Furberg CD
+ Health outcomes associated with antihypertensive therapies used 9 as first-line agents
+ A systematic review and meta-analysis
+ Jama
+ 1997;277:739-745 10 
+ Whelton PK, Carey RM, Aronow WS, Casey DE, Collins KJ, Dennison Himmelfarb C, 11 DePalma SM, Gidding S, Jamerson KA, Jones DW, MacLaughlin EJ, Muntner P, Ovbiagele 12 B, Smith SC, Spencer CC, Stafford RS, Taler SJ, Thomas RJ, Williams KA, Williamson JD, 13 prevention, detection, evaluation, and management of high blood pressure in adults
+ A Report 15 of the American College of Cardiology/American Heart Association Task Force on Clinical 16 
+ Law MR, Morris JK, Wald NJ
+ Use of blood pressure lowering drugs in the prevention of 18 cardiovascular disease: Meta-analysis of 147 randomised trials in the context of expectations 19 
+ Davis BR, Cutler JA, Gordon DJ, Furberg CD, Wright JT, Jr
+, Cushman WC, Grimm RH, 21 LaRosa J, Whelton PK, Perry HM, Alderman MH, Ford CE, Oparil S, Francis C, Proschan 22 M, Pressel S, Black HR, Hawkins CM
+ Rationale and design for the antihypertensive and 23 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    lipid lowering treatment to prevent heart attack trial (allhat)
+ Allhat research group
+ Am J 1 
+ Schmieder RE, Martus P, Klingbeil A
+ Reversal of left ventricular hypertrophy in essential 3 
+ Major cardiovascular events in hypertensive patients randomized to doxazosin vs 6 chlorthalidone: The antihypertensive and lipid-lowering treatment to prevent heart attack trial 7 
+ Officers A, Coordinators for the ACRGTA, Lipid-Lowering Treatment to Prevent Heart 9 Attack T
+ Major outcomes in high-risk hypertensive patients randomized to angiotensin-10 converting enzyme inhibitor or calcium channel blocker vs diuretic: The antihypertensive 11 and lipid-lowering treatment to prevent heart attack trial (allhat)
+ JAMA
+ 2002;288:2981-2997 12 
+ Einhorn PT, Davis BR, Massie BM, Cushman WC, Piller LB, Simpson LM, Levy D, 13 Nwachuku CE, Black HR
+ The antihypertensive and lipid lowering treatment to prevent heart 14 attack trial (allhat) heart failure validation study: Diagnosis and prognosis
+ Am Heart J
+ 15 
+ Davis BR, Kostis JB, Simpson LM, Black HR, Cushman WC, Einhorn PT, Farber MA, Ford 17 CE, Levy D, Massie BM, Nawaz S
+ Heart failure with preserved and reduced left ventricular 18 ejection fraction in the antihypertensive and lipid-lowering treatment to prevent heart attack 19 
+ Davis BR, Piller LB, Cutler JA, Furberg C, Dunn K, Franklin S, Goff D, Leenen F, 21 Mohiuddin S, Papademetriou V, Proschan M, Ellsworth A, Golden J, Colon P, Crow R
+ Role 22 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    of diuretics in the prevention of heart failure: The antihypertensive and lipid-lowering 1 
+ Prineas RJ, Crow RS, Zhang Z-M
+ The minnesota code manual of electrocardiographic 3 findings : Standards and procedures for measurement and classification
+ London: Springer; 4 
+ Robins JM, Greenland S
+ Identifiability and exchangeability for direct and indirect effects
+ 6 
+ Valeri L, Vanderweele TJ
+ Mediation analysis allowing for exposure-mediator interactions 8 and causal interpretation: Theoretical assumptions and implementation with sas and spss 9 
+ Piller LB, Baraniuk S, Simpson LM, Cushman WC, Massie BM, Einhorn PT, Oparil S, Ford 11 CE, Graumlich JF, Dart RA, Parish DC, Retta TM, Cuyjet AB, Jafri SZ, Furberg CD, 12 Saklayen MG, Thadani U, Probstfield JL, Davis BR
+ Long-term follow-up of participants 13 with heart failure in the antihypertensive and lipid-lowering treatment to prevent heart attack 14 
+ Schocken DD, Benjamin EJ, Fonarow GC, Krumholz HM, Levy D, Mensah GA, Narula J, 16 Shor ES, Young JB, Hong Y
+ Prevention of heart failure: A scientific statement from the 17 american heart association councils on epidemiology and prevention, clinical cardiology, 18 cardiovascular nursing, and high blood pressure research; quality of care and outcomes 19 research interdisciplinary working group; and functional genomics and translational biology 20 
+ Roush GC, Buddharaju V, Ernst ME, Holford TR
+ Chlorthalidone: Mechanisms of action and 22 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    
+ Cacciapuoti F
+ Molecular mechanisms of left ventricular hypertrophy (lvh) in systemic 1 hypertension (sh)possible therapeutic perspectives
+ Journal of the American Society of 2 
+ Ernst ME, Davis BR, Soliman EZ, Prineas RJ, Okin PM, Ghosh A, Cushman WC, Einhorn 4 PT, Oparil S, Grimm RH, Jr
+, Group ACR
+ Electrocardiographic measures of left ventricular 5 hypertrophy in the antihypertensive and lipid-lowering treatment to prevent heart attack trial 6 Journal of the American Society of Hypertension : JASH
+ 2016;10:930-938 e939 7 
+ Jain A, Tandri H, Dalal D, Chahal H, Soliman EZ, Prineas RJ, Folsom AR, Lima JA, 8 Bluemke DA
+ Diagnostic and prognostic utility of electrocardiography for left ventricular 9 hypertrophy defined by magnetic resonance imaging in relationship to ethnicity: The multi-10 
+ Leigh JA, O'Neal WT, Soliman EZ
+ Electrocardiographic left ventricular hypertrophy as a 12 predictor of cardiovascular disease independent of left ventricular anatomy in subjects aged 13 
+ Oseni AO, Qureshi WT, Almahmoud MF, Bertoni AG, Bluemke DA, Hundley WG, Lima 15 JA, Herrington DM, Soliman EZ
+ Left ventricular hypertrophy by ECG versus cardiac mri as 16 
+ Bang CN, Devereux RB, Okin PM
+ Regression of electrocardiographic left ventricular 18 hypertrophy or strain is associated with lower incidence of cardiovascular morbidity and 19 mortality in hypertensive patients independent of blood pressure reduction - a life review
+ J 20 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    
+ Tereshchenko LG, McNitt S, Han L, Berger RD, Zareba W
+ ECG marker of adverse 1 electrical remodeling post-myocardial infarction predicts outcomes in madit ii study
+ PLoS 2 
+ Biering-Sorensen T, Kabir M, Waks JW, Thomas J, Post WS, Soliman EZ, Buxton AE, Shah 4 AM, Solomon SD, Tereshchenko LG
+ Global ECG measures and cardiac structure and 5 function: The aric study (atherosclerosis risk in communities)
+ Circ Arrhythm Electrophysiol
+ 6 
+ Davis BR, Furberg CD, Wright JT, Jr
+, Cutler JA, Whelton P
+ Allhat: Setting the record 8 
+ Proschan M, Ford CE, Cutler JA, Graumlich JF, Pavlik V, Cushman WC, Davis BR, 10 Alderman MH, Gordon D, Furberg CD, Franklin SS, Blumenthal SS, Castaldo RS, Preston 11 RA, Group LCR
+ How much effect of different antihypertensive medications on 12 cardiovascular outcomes is attributable to their effects on blood pressure? Stat Med
+ 13 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    Figure 
+ Flow diagram of exclusion criteria applied to achieve the final study population for 2 this secondary analysis of Antihypertensive and Lipid-Lowering Treatment to Prevent Heart 3 Figure 
+ Directed acyclic graph to illustrate possible structural relationships between 5 LVH (A) or BP-lowering (B), and incident HF
+ CC denotes common causes (confounding 7 factors), measured and unmeasured
+ The mediated effect is represented by the pathway from 8 antihypertensive Rx to incident HF that goes through (A) evolving ECG-LVH or (B) BP-9 lowering
+ The direct effect is the pathway from antihypertensive Rx straight to incident HF
+ 10 Figure 3: Scatterplots of (A) in-trial SBP change (Y-axis) against baseline SBP (X-axis), and 11 (B) DBP change (Y-axis) against baseline DBP (X-axis)
+ A line of the best linear fit is shown
+ 12 Figure 
+ Unadjusted Kaplan-Meier curves for probability of (A) incident symptomatic HF 13 and (B) hospitalized or fatal HF in all treatment groups ALLHAT participants with evolving 14 ECG-LVH development (blue dotted line), resolution (green dashed line), or without evolving 15 Figure 
+ Unadjusted Kaplan-Meier curves for probability of incident symptomatic HF in 17 (A) Doxazosin, (B) Chlorthalidone, (C) Amlodipine, (D) Lisinopril treatment groups
+ Evolving 18 Figure 
+ Adjusted (by age, sex, and race/ethnicity) risk of symptomatic congestive HF 20 associated with achieved in-trial greatest SBP and DBP changes, in all participants
+ Restricted 21 cubic spline with 95% confidence interval show change in hazard ratio (Y-axis) in response to 22 BP change (X-axis)
+ 50th percentile of BP change is selected as the reference
+  23 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    Figure 
+ Adjusted risk of symptomatic congestive HF associated with achieved in-trial 1 greatest SBP changes HF in (A) Doxazosin, (B) Chlorthalidone, (C) Amlodipine, (D) Lisinopril 2 Figure 
+ Adjusted risk of symptomatic congestive HF associated with achieved in-trial 4 greatest DBP changes HF in (A) Doxazosin, (B) Chlorthalidone, (C) Amlodipine, (D) Lisinopril 5 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    Sokolow-Lyon SV1 + RV5 or RV6 3500 V Increase >900 V Cornell Product (RaVL + SV3) * QRS duration 
+6 V*s Increase >41 V*s Sum of 12 leads 12-lead QRS sum (except lead aVR) 17900 V Increase >2319 V 12 leads Product 12-lead QRS sum * QRS duration 
+2 V*s Increase >
+6 V*s  Sokolow-Lyon SV1 + RV5 or RV6 3500 V Reduction >900 V Cornell Product (RaVL + SV3) * QRS duration 
+6 V*s Reduction >41 V*s Sum of 12 leads 12-lead QRS sum (except lead aVR) 17900 V Reduction >2319 V 12 leads Product 12-lead QRS sum * QRS duration 
+2 V*s Reduction >
+6 V*s certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    Table 
+ Clinical characteristics of study participants with evolving ECG-LVH increase or decrease certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    Table 
+ Associations of clinical characteristics with BP change in-trial, in linear regression models Characteristic Systolic BP change(95%CI), mmHg P Diastolic BP change(95%CI), mmHg P Age, per 1 y increase -
+ (-
+16 to -
+10) <
+0001 +
+ (
+ -
+04) 
+009 < 2 months -
+ (-
+16 to -
+61) <
+0001 -
+ (-
+45 to -
+94) <
+0001 BMI, per 1 kg/m2 increase +
+ (-
+0008 to 
+08) 
+055 -
+ (-
+03 to 
+02) 
+701 Baseline SBP, per 1 mmHg increase -
+ (-
+80 to -
+77) <
+0001 -
+ (-
+29 to -
+28) <
+0001 Baseline DBP, per 1 mmHg increase -
+ (-
+73 to -
+69) <
+0001 -
+ (-
+73 to -
+71) <
+0001 Hx of MI/stroke -
+ (-
+77 to 
+32) 
+423 +
+ (-
+10 to 
+54) 
+178 Hx ST-T changes -
+ (-
+24 to 
+25) 
+194 -
+ (-
+56 to 
+32) 
+592 Hx other CVD -
+ (-
+85 to 
+22) 
+245 +
+ (-
+01 to 
+61) 
+061 Incident HF ## Doxazosin -
+ (-
+86 to -
+80) <
+0001 -
+ (-
+36 to -
+40) 
+013 Hospitalized/fatal HF ## Doxazosin -
+ (-
+85 to -
+09) <
+0001 -
+ (-
+74 to 
+37) 
+017 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    Table 
+ Associations of clinical characteristics with incident heart failure in Cox regression models SBP lowering by 3-19 mmHg (Q2): Reference    <
+0001 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    Table 
+ Fully adjusted effect of antihypertensive treatment on incident symptomatic heart failure (total), through evolving ECG-LVH or BP changes (mediated), and independent of BP-lowering or evolving ECG-LVH (direct) Doxazosin Evolving ECG-LVH (Reference: none) 
+ (
+ -
+33) 
+ (
+ -
+36) 
+ (
+ -
+36) 
+ (
+ -
+015) + 
+9% Amlodipine Evolving ECG-LVH(Reference: none) 
+ (
+ -
+61) 
+ (
+ -
+61) 
+ (
+ -
+61) 
+ (
+ -
+002) - 
+2% (NS) Lisinopril Evolving ECG-LVH(Reference: none) 
+ (
+ -
+32) 
+ (
+ -
+32) 
+ (
+ -
+32) 
+ (
+ -
+003) - 
+9% (NS) Doxazosin SBP change Reference Q2(-3 to -19 mmHg) 
+ (
+ -
+33) 
+ (
+ -
+35) 
+ (
+ -
+38) 
+ (
+ -
+99) - 
+0% Amlodipine SBP change Reference Q2 (-3 to -19 mmHg) 
+ (
+ -
+61) 
+ (
+ -
+61) 
+ (
+ -
+61) 
+ (
+ -
+008) + 
+3% (NS) Lisinopril SBP change Reference Q2(-3 to -19 mmHg) 
+ (
+ -
+32) 
+ (
+ -
+32) 
+ (
+ -
+32) 
+ (
+ -
+002) -
+1% (NS) Doxazosin DBP change Reference Q2(-2 to -11 mmHg) 
+ (
+ -
+30) 
+ (
+ -
+35) 
+ (
+ -
+33) 
+ (
+ -
+028) + 
+9% Amlodipine DBP change Reference Q2(-2 to -11 mmHg) 
+ (
+ -
+59) 
+ (
+ -
+62) 
+ (
+ -
+59) 
+ (
+ -
+037) + 
+9% Lisinopril DBP change Reference Q2(-2 to -11 mmHg) 
+ (
+ -
+31) 
+ (
+ -
+32) 
+ (
+ -
+31) 
+ (
+ -
+03) + 
+8% (NS) RR=relative risk
+ Proportion mediated=DE*(ME-1)/(DE*ME-1), where DE is direct effect and ME is mediated effect
+ Q1, Q2, Q3 = tertiles of blood pressure change
+ A controlled direct effect represents the effect of a drug at certain level of mediator (at absent evolving ECG-LVH/ progressing/ resolving ECG-LVH, and at tertiles of BP changes), allowing measurement of interaction between certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    Table 
+ Effect of antihypertensive treatment on incident symptomatic heart failure (total), through relative greatest BP changes, absolute and relative fastest BP changes (mediated), and independent of BP-lowering (direct) Amlodipine SBP change  Q2 
+ (
+ -
+61) 
+ (
+ -
+61) 
+ (
+ -
+61) 
+ (
+ -
+01) + 
+1% (NS) Lisinopril SBP change Q2 
+ (
+ -
+32) 
+ (
+ -
+32) 
+ (
+ -
+32) 
+ (
+ -
+003) + 
+02% (NS) Amlodipine DBP change  Q2 
+ (
+ -
+62) 
+ (
+ -
+59) 
+ (
+ -
+59) 
+ (
+ -
+04) + 
+0% Lisinopril DBP change Q2 
+ (
+ -
+32) 
+ (
+ -
+31) 
+ (
+ -
+31) 
+ (
+ -
+03) + 
+8% (NS) Doxazosin SBP change Q2 
+ (
+ -
+34) 
+ (
+ -
+32) 
+ (
+ -
+32) 
+ (
+ -
+25) + 
+6% (NS) Amlodipine SBP change  Q2 
+ (
+ -
+62) 
+ (
+ -
+60) 
+ (
+ -
+60) 
+ (
+ -
+01) + 
+2% (NS) Doxazosin DBP change Q2 
+ (
+ -
+34) 
+ (
+ -
+34) 
+ (
+ -
+33) 
+ (
+ -
+005) + 
+3% (NS) Amlodipine DBP change  Q2 
+ (
+ -
+62) 
+ (
+ -
+60) 
+ (
+ -
+61) 
+ (
+ -
+01) + 
+2% (NS) Lisinopril DBP change Q2 
+ (
+ -
+32) 
+ (
+ -
+32) 
+ (
+ -
+31) 
+ (
+ -
+006) + 
+9% (NS) Doxazosin SBP change Q2 
+ (
+ -
+34) 
+ (
+ -
+32) 
+ (
+ -
+33) 
+ (
+ -
+03) + 
+3% (NS) Amlodipine SBP change  Q2 
+ (
+ -
+60) 
+ (
+ -
+60) 
+ (
+ -
+60) 
+ (
+ -
+02) + 
+4% (NS) Doxazosin DBP change Q2 
+ (
+ -
+33) 
+ (
+ -
+34) 
+ (
+ -
+33) 
+ (
+ -
+003) + 
+1% (NS) Amlodipine DBP change  Q2 
+ (
+ -
+62) 
+ (
+ -
+61) 
+ (
+ -
+61) 
+ (
+ -
+01) + 
+05% (NS) Lisinopril DBP change Q2 
+ (
+ -
+32) 
+ (
+ -
+33) 
+ (
+ -
+32) 
+ (
+ -
+005) + 
+4% (NS) RR=relative risk
+ Proportion mediated=DE*(ME-1)/(DE*ME-1), where DE is direct effect and ME is mediated effect
+  Q2 is a medium tertile of blood pressure changes
+ A controlled direct effect represents the effect of a drug at the second tertile of certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted January 12, 
+ ;    

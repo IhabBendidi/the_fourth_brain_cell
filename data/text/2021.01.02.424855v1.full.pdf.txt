@@ -1,0 +1,566 @@
+Abhishek Kulkarni1,2, Annie R
+ Pineros1, Sara Ibrahim1, Marimar Hernandez-Perez1, Kara S
+ Orr1, Lindsey Glenn3, Melissa Walsh2, Jerry L
+ Nadler4, Margaret A
+ Morris3, Sarah A
+ Tersey2, 1Center for Diabetes and Metabolic Diseases and Department of Pediatrics, Indiana University 2Kolver Diabetes Center and Department of Medicine, The University of Chicago, Chicago, IL ryananderson@uchicago
+edu; 900 E
+ 57th Street, KCBD 8130, Chicago, IL 60637, USA RGM and JLN serve on the Scientific Advisory Board of Veralox Therapeutics
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    Macrophages and related myeloid cells are innate immune cells that participate in the early islet inflammation of type 1 diabetes (TD)
+  The inflammatory signals and antigen presentation by these cells may be inducers of the adaptive immune response that is the hallmark of TD
+  The from membrane-derived phospholipids, but its role and mechanisms in the pathogenesis of islet inflammation have not been elucidated
+  Leveraging a model of T1D-like islet inflammation in zebrafish, we show here that macrophages contribute significantly to the loss of -cells and the subsequent development of hyperglycemia
+  Depletion or inhibition of 12-LOX in this model resulted in significantly reduced macrophage infiltration into islets with preservation of -cell mass
+  In mice, we deleted the gene encoding 12-LOX (Alox15) in the myeloid lineage in the non-obese diabetic (NOD) model of TD
+  Myeloid cell-specific Alox15 knockout NOD mice demonstrated reduced insulitis and T-cell responses, preserved  cell mass, and almost complete protection from the development of TD
+  A critical effect of 12-LOX depletion appeared secondary to a defect in myeloid cell migration, a function required for immune surveillance and tissue injury responses
+ This effect on migration appeared to be secondary to the loss of the chemokine receptor CXCR
+  Transgenic expression of the gene encoding CXCR3 rescued the migrator defect in zebrafish 12-LOX morphants
+  Taken together, our results reveal a formative role for innate immune myeloid cells in the early pathogenesis of T1D and identify 12-LOX as a necessary enzyme to promote their pro-diabetogenic phenotype in the (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;     The two major forms of diabetes, type 1 (T1D) and type 2 (T2D), represent disorders of glucose homeostasis whose common feature is the failure of the islet  cell to secrete adequate insulin []
+  The underlying etiologies of -cell failure in each form of diabetes differs
+  In the case of T1D, an active dialog between  cells and cells of the immune system results in the cytokine-induced dysfunction of  cells in the early phase of disease, and in the destruction of -cells by autoreactive T-cells in the later phase []
+  A pathology that characterizes this dialog is insulitis, a feature in which islets are invaded by cells of the myeloid and lymphoid lineage []
+  Insulitis and the nature and timing of cells invading the islet have been characterized best in the non-obese diabetic (NOD) mouse model of T1D [,]
+  Insulitis has also been demonstrated in human T1D, albeit at a much lower frequency than that in NOD mice []
+  Drug targeting of the immune system has been the foundational approach in clinical studies attempting to prevent or reverse T1D, but these studies have targeted the activation or function of lymphoid cell  An emerging perspective in T1D posits that islet inflammation arising from innate immune responses may initiate the formation of neoepitopes in  cells, thereby signaling a cascade of immune signaling events leading to the development of T cell-mediated autoimmunity []
+  Central to this perspective are cells of the myeloid lineage, which include macrophages and dendritic cells
+  These cells mediate inflammation and present antigen to the adaptive immune system [8], and have been observed in the early stages of insulitis in mouse models of T1D []
+  The presence of resident macrophages and their closely-related antigen-presenting dendritic cells have been demonstrated in early insulitic lesions in NOD mice [9,12], and their functional inhibition via antibody- or clodronate-mediated global sequestration slows or prevents the occurrence of T1D [,]
+  However, as a strategy for T1D, the therapeutic depletion of macrophages would be undesirable given the consequences on overall immunity
+  Nevertheless, the identification of amenable targets that function primarily in myeloid (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    cells during the pathogenesis of T1D would complement existing lymphoid cell-targeting fatty acids
+  Specifically, 12/15-lipoxygenase (referred to henceforth as simply 12-LOX), which is predominantly expressed in macrophages and pancreatic islets in mice [17], catalyzes the conversion of arachidonic acid to the eicosanoids 12- and 15-hydroxyeicosatetraenoic acid (12- and -HETE)
+  Global deletion of the gene encoding 12-LOX in mice (Alox15) on the NOD background results in near-total protection of both sexes from T1D development, with a striking reduction in insulitis and the early accumulation of macrophages [18]; similarly, delivery of a small molecule inhibitor of 12-LOX (ML351) in NOD mice shortly after the development of insulitis protects against progression of insulitis and glycemic deterioration []
+  Whereas these findings provide evidence for the safety and efficacy of targeting 12-LOX in the context of T1D, they leave unclarified the specific cell of action and molecular mechanisms of -LOX
+  In this study, we leveraged genetic models in zebrafish and mice to investigate the role of 12-LOX in the myeloid cell pathogenesis of TD
+  Our findings provide evidence for a determinative role for myeloid 12-LOX in the initiation of T1D and highlight the seminal role of innate immunity in the (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    Development of a zebrafish platform to interrogate the role of macrophages in the early  The zebrafish is a powerful model organism to test hypotheses and mechanisms that can then be interrogated further in mammalian systems
+  Developing zebrafish (3-4 days post-fertilization, dpf) exhibit a discrete pancreatic islet with functional -cells [20], and intact innate immunity with mpeg-expressing macrophages []
+  We utilized a model of chemically-induced -cell oxidative injury that we described previously [22], in which zebrafish harboring -cell-specific expression of the gene encoding bacterial nitroreductase (NTR) are treated with the labeled macrophages (Tg(mpeg:eGFP)) to generate a double-transgenic fish line that allows for chemical -cell injury and simultaneous visualization of macrophages in real-time
+  Upon treatment of double-transgenic 3 dpf zebrafish with 
+5 mM MTZ (Fig
+ 1A), we observed rapid loss (within 12 hours) of  cells with influx of macrophages and evidence of -cell phagocytosis (Fig
+ B)
+  Glucose levels increased within 24 hours following MTZ treatment (Fig
+ 1C, blue line) compared to untreated control fish, whose levels remained unchanged (Fig
+ 1C, black line)
+  To demonstrate that -cell damage and loss were at least partially attributable to macrophage activity, we repeated the MTZ ablation experiment following trans-pericardial injection with 5 mg/mL clodronate liposomes at 3 days post-fertilization
+  Clodronate sequesters and depletes macrophages []
+  In clodronate-injected fish we observed significant reduction in hyperglycemia (Fig
+ 1C, red line) and preservation of -cell number compared to control-injected fish (Fig
+ D-E)
+  These data suggest that our MTZ model in zebrafish mimics the early phases of T1D where inflammation driven by macrophages contributes to the development of (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;     Because zebrafish  cells have a capacity for rapid regeneration, we asked if the apparent preservation of -cell number upon depletion of macrophages was a reflection of the survival of  cells following MTZ treatment or their rapid replacement by neogenesis
+  To line, which drives expression of a green photoconvertible protein and thus permits the pulse labeling of  cells with green and/or UV-converted red fluorescence (Fig
+ F)
+  In this transgenic line, pre-existing  cells will be labeled yellow following photoconversion (combined red and green), whereas neogenic -cells formed after the UV exposure will be labeled green (Fig
+ F)
+  MTZ to induce -cell stress
+  When  cells were injured, the control-injected fish showed -cell neogenesis at 24 hours of recovery that increased 3-fold by 48 hours of recovery (Fig
+ G-H)
+  By contrast, at both 24 and 48 hours after -cell ablation, clodronate-injected fish showed significantly decreased  cell neogenesis relative to controls, with no increase at 48 hours (Fig
+ G-H)
+  These data indicate that -cell number is greater in the fish lacking macrophages because of persistence of pre-existing  cells rather than -cell neogenesis
+  To ensure that our macrophage tissue injury model was not peculiar to MTZ treatment, we also performed mechanical tailfin injury assays in 3 dpf Tg(mpeg:eGFP) zebrafish
+  In the tailfin injury assay (shown schematically in Fig
+ 1I), macrophages rapidly migrate to the injury site as part of an inflammatory response []
+  Following the injury, macrophages were observed to migrate to the site of tissue injury, as expected, whereas in clodronate-injected fish macrophages were not observed at the site of injury (Fig
+ J)
+  Taken together, the data in Fig
+ 1 support an inflammatory model in zebrafish, where -cell injury is effected, in part, by (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;     Previous studies in mouse models of T1D demonstrated that global deletion or chemical inhibition of the enzyme 12-LOX reduces the early infiltration of macrophages into islets, preserves -cell mass, and prevents hyperglycemia [,]
+  We recently demonstrated the presence of a zebrafish 12-LOX ortholog encoded by alox12, which exhibits similar catalytic activity and product profiles (including the production of 12-HETE) to the mouse and human enzymes []
+  To test a role for 12-LOX in -cell injury mediated by macrophages, we utilized the zebrafish -cell injury model in the transgenic line Tg(ins:NTR) following depletion of -LOX by injection of a translation-blocking antisense morpholino (alox12 MO) []
+  With MTZ treatment there was a time-dependent reduction in -cell number, with only 6% of  cells remaining at 24 h (Fig
+ A-B)
+  By contrast, there was significant preservation of  cells when the fish were treated with alox12 MO, with about 25% of  cells remaining at 24 h following MTZ (Fig
+ A-B)
+  Next, we utilized the double-transgenic line Tg(ins:NTR);(mpeg:eGFP) to track the influx of macrophages following  cell injury in the presence or absence of alox12 MO
+  As expected, MTZ treatment resulted in the migration of macrophages into the islet in control-injected fish (Fig
+ 2C-D), whereas in alox12 MO fish there was a significant 
+7-fold reduction in macrophage numbers (Fig
+ C-D)
+  The reduction of macrophages at the site of -cell injuring following the alox12 MO was likely due to a reduction of macrophage migration rather than reduction in total macrophage numbers, since macrophages persist elsewhere in the embryo (unlike with clodronate injection) (Supplementary Fig
+ S1A), and similar macrophage numbers were seen in the immediate vicinity of the islet in injured alox12 MO fish compared to control-To support our findings with the alox12 MO, we next repeated these studies utilizing ML355, a small molecule inhibitor of 12-LOX []
+  As shown in Fig
+ 2E-F, when 12-LOX activity was inhibited by treatment of fish with 10 M ML355, macrophage infiltration into the injured islets was reduced 
+1-fold relative to vehicle-treated controls
+  Collectively, the data in Fig
+ 2 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    suggest that 12-LOX is required for macrophage-directed -cell damage in zebrafish, and raise the possibility for a similar role in -cell damage in TD
+ 12-LOX in macrophages is required for T1D progression in the mouse  To assess the applicability of our zebrafish findings to an established mammalian model of T1D, we next studied the non-obese diabetic (NOD) mouse model
+  We tested the hypothesis that 12-LOX in macrophages is responsible for the progression to T1D in NOD mice by generating a myeloid lineage-specific deletion of Alox15 on the NOD background (NOD:Aloxmyel)
+  NOD mice harboring the Lyz2-Cre allele were crossed to NOD mice harboring Cre recombinase sites (Loxp) flanking exons 2-5 of the Alox15 gene [,]
+  To test for tissue specificity of the knockout, Alox15 mRNA was measured in peritoneal cells (containing mostly macrophages), spleen, and islets using quantitative PCR
+  NOD-Alox15myel mice exhibited a significant reduction in Alox15 expression in peritoneal cells compared to control littermates, whereas Alox15 expression in spleen and pancreatic islets were unchanged (Fig
+ NOD:Alox15Loxp/Loxp) for the spontaneous development of T1D, defined as two consecutive morning blood glucoses >250 mg/dl
+  As shown in Fig
+ 3B, whereas 75-80% of female control littermates developed diabetes by 25 weeks of age, only 
+5% of female NOD:Alox15myel mice developed diabetes
+  Similar striking findings were observed in male mice: 50% of controls developed diabetes by 25 weeks of age, whereas 0% of NOD:Alox15myel developed diabetes (Fig
+ C)
+  These findings suggest that the T1D-protective phenotype previously described in global Alox15-/- mice [18] might be ascribed at least in part to its effect in macrophages
+  To characterize islet pathology in NOD mice, we next performed immunostaining of pancreas sections from NOD:Alox15myel mice and NOD:Lyz2-Cre controls at 8 weeks of age, a timepoint when insulitis is established but prior to the development of TD
+  As evident in the (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    representative immunohistochemical pancreas images in Fig
+ 3D, -cell mass was significantly increased (quantitated in Fig
+ 3E) and the severity of insulitis was significantly reduced (quantitated in Fig
+ 3F) in NOD:Alox15myel animals compared to NOD:Lyz2-Cre controls (Fig
+ F)
+  Isolated islets from NOD
+Alox15myel mice revealed an increase in mRNAs levels of Pdx1, which encodes a key transcription factor that promotes -cell function [29], and Cd274, which encodes PD-L1, an immune checkpoint protein that promotes suppression of immune Myeloid-specific loss of 12-LOX alters the macrophage and dendritic cell populations in Pancreatic lymph nodes are a site of local antigen presentation and their immune cell composition is reflective of the nature of prevailing autoimmunity []
+  To assess quantitatively if the autoimmune response was altered in NOD:Alox15myel mice, we collected pancreatic lymph nodes and performed flow cytometry for immune cell populations
+ Fig
+ 4A-C shows that presenting dendritic cells (CD11c+/TNF-+) were significantly reduced in total number and as a percentage of total cells in pancreatic lymph nodes of NOD:Alox15myel compared to NOD:Lyz-Cre controls
+  Additionally, there were reductions in both macrophages and dendritic cells expressing the proinflammatory cytokine IL-1 (Supplementary Fig
+ SA-B)
+ These alterations in macrophage and dendritic cell populations were specific to the pancreatic lymph node, since these cell populations were unchanged in the spleen (Supplementary Fig
+ S)
+  Because lymph nodes are a site of antigen presentation by macrophages to CD4+ T cells, we also quantitated CD4+ cells in the pancreatic lymph nodes
+  As shown in Fig
+ 4C, we observed reductions both in total number of CD4+ cells and in CD4+ cells as a percentage of total cells in the pancreatic (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;     To clarify the mechanisms underlying the less aggressive macrophages in the absence of 12-LOX, we next asked if 12-LOX governs the polarization of macrophages to a proinflammatory state
+  We isolated peritoneal macrophages from Alox15-/- mice or their WT littermates, performed polarization studies in vitro, then monitored phenotypes by flow cytometry
+  Macrophages were polarized to the classical proinflammatory M1-like state using a combination of lipopolysaccharide (LPS) and IFN- or to the alternative anti-inflammatory M-like state using IL-4 []
+  The macrophages from both WT and Alox15-/- mice showed indistinguishable propensity to polarize to an M1 state, as assessed by flow cytometry of M1 marker iNOS (Supplementary Fig
+ S4A), by IL-6 secretion (Supplementary Fig
+ S4B), and by mRNA expression of Nos2, Il6 and Il12 (Supplementary Fig
+ SC)
+  Similarly, upon alternative polarization, macrophages from both WT and Alox15-/- mice showed no differences by flow cytometry in the M2 marker CD206 (Supplementary Fig
+ S5A), by IL-10 secretion (Supplementary Fig
+ S5B), or by mRNA expression of Arg1, Il10 and Tgfb (Supplementary Fig
+ SC)
+  Taken together, these data indicate that 12-LOX activity is not required for cytokine- Next, we addressed if 12-LOX is required for the ability of cells of the myeloid lineage to migrate
+  Migration is a critical factor in the ability of myeloid cells to carry out immune surveillance, locate to sites of injury, and present antigen
+  To address the potential role of -LOX in macrophage migration, we first leveraged the tailfin injury model in Tg(mpeg:eGFP) transgenic zebrafish
+ alox12 MO and control fish underwent tailfin injury at 3 dpf, and the number of macrophages migrating to the site of injury was quantitated
+  In control fish, we observed the expected migration of macrophages to the site of injury within 6 hours, whereas in alox12 MO fish there was a significant 38% reduction in the number of macrophages at the site of injury (Fig
+ A)
+  As an alternate approach, and to confirm that this finding requires the catalytic activity of 12-LOX, we performed a similar experiment using the well-characterized (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    small molecule 12-LOX inhibitor ML355 []
+  For this experiment, we pre-treated fish for 2 hours with either vehicle or 10 M ML355, and then performed tailfin injury
+  Similar to what we macrophage migration towards injured sites by 37% as compared to vehicle-treated control To verify that our findings were specific to 12-LOX in macrophages and to confirm their applicability to mammals, we isolated peritoneal macrophages from both Alox15-/- mice and their littermate controls and performed migration assays in vitro using transwell chambers
+  To mimic conditions seen in T1D, we added conditioned culture media from proinflammatory cytokine-treated (IL-1, IFN-, TNF-) mouse islets to induce migration (Fig
+ C)
+  As shown and quantitated in Fig
+ 5D, we observed a significant reduction in the number of Alox15-/- peritoneal macrophages that transited the transwell membrane compared to WT control macrophages
+  These results, consistent with the zebrafish studies, indicate that 12-LOX in Prior studies suggest that 12-LOX and its product 12-HETE alters chemokine receptor expression []
+  We hypothesized that the macrophage migratory defect we observed in the absence of 12-LOX may be attributable to loss of one or more of these chemokine receptors
+  We measured the mRNA expression of chemokine receptors Cxcr1, Ccr2, and Cxcr3 implicated in macrophage migration in peritoneal macrophages from Alox15-/- and control littermate mice
+  Of the receptor-encoding mRNAs examined, only Cxcr3 levels were significantly reduced in Alox15-/- macrophages (Fig
+ A)
+  Flow cytometry of peritoneal macrophages confirmed that the cell surface expression of CXCR3 protein is significantly reduced in Alox15-/- macrophages (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    To interrogate if the loss of CXCR3 accounts, at least in part, for the defect in macrophage migration observed in the absence of 12-LOX, we returned to zebrafish
+  As shown in Fig
+ 6C, 12-LOX depletion in alox12 MO zebrafish resulted in a similar loss of expression of the zebrafish ortholog cxcr
+ 
+  Next, we transgenically expressed a cxcr
+2 coding sequence specifically in zebrafish macrophages (under control of the mpeg promoter) to determine if re-expression of this gene was sufficient to rescue the migratory defect in alox12 MO fish
+  As shown and quantitated in Fig
+ 6D, alox12 MO fish injected with a non-coding control vector exhibited the expected reduction in macrophage migration in the tailfin injury assay compared to controls; however, alox12 MO fish injected with the cxcr
+2-containing vector showed complete rescue of macrophage migration
+  These results suggest that the reduction of cxcr
+2 in -(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;     In this study, we leveraged the power of a lower model organism and applied these observations to an established mammalian model of T1D to interrogate the participation of myeloid-derived cells in the pathogenesis of insulitis and diabetes progression
+  Cells of myeloid lineage give rise to a host of circulating cell types, most notably cells of the innate immune system that include monocytes, macrophages, and antigen-presenting dendritic cells
+  Although such cells have been implicated in the pathogenesis of T1D, and prior studies have attempted myeloid-specific deletions in T1D mouse models [35], we believe our findings are the first to directly demonstrate how manipulation of a signaling pathway specifically in myeloid cells can alter T1D pathophysiology
+  Key findings from our study suggest (a) that macrophages are active participants in -cell dysfunction and loss in models of both islet injury and autoimmunity, dendritic cells that subsequently affects the nature of insulitis and eventual susceptibility to T1D, and (c) that the Tg(ins:NTR) zebrafish transgenic line provides a highly genetically manipulable platform wherein crosstalk between macrophages and  cells can be modeled and vetted
+  Islet-resident myeloid cells have been implicated in the pathogeneses of both T1D and T2D [,]
+  In NOD mice, prior studies have emphasized the role of such resident cells as initiators of the autoimmune response, owing perhaps to their role as antigen presenting cells
+  These studies focused on depletion of macrophages, using either clodronate liposomes [11,13,15,16] or neutralization of a receptor (CSF1 receptor) promoting their development []
+  Studies of Unanue and colleagues [14] demonstrated that delivery of a neutralizing antibody against the colony stimulating factor 1 (CSF1) receptor at 3 weeks of age in NOD mice resulted in the depletion of islet-resident macrophages and was accompanied by reduction in CD4 T cells and dendritic cells in the insulitic milieu and protected against diabetes
+  These results align with ours, in which deletion of Alox15 in macrophages on the NOD background resulted in significant reduction in insulitis, CD4 T cells, and protection from diabetes in both male and (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    female mice
+  Moreover, our findings in vivo that myeloid-specific depletion of Alox15 reduces pro-inflammatory dendritic cells and enhances expression of the mRNA encoding the immune checkpoint protein PD-L1 suggests that the effects we observed may be related to altered antigen presentation and or adaptive immune cell activation, respectively
+  Collectively, our results emphasize that early intervention in the activity of myeloid cells imparts a disease-modifying effect in T1D, but more importantly that depletion of the islet-resident populations of  An important new finding in our studies is the identification that 12-LOX controls a signaling pathway that affects chemokine receptor expression in macrophages
+  The gene encoding 12-LOX (Alox15) is expressed in islet  cells and macrophages, but not T cells or B cells of the adaptive immune system []
+  Although Alox15 deletion was previously shown to protect against T1D in NOD mice [18], it has remained unclear if the effect could be attributed to its expression islets, myeloid cells, or both, particularly since proinflammatory cytokines and their signaling are affected by loss of Alox15 in both cell types ([,]
+  Our studies in zebrafish provided initial evidence for a defect in macrophage function upon loss of the zebrafish ortholog, since macrophage entry into the islet and subsequent engulfment of  cells appeared defective in alox12 morphants upon MTZ injury
+  Though it is tempting to speculate that the phenotype in these morphants was attributable to the loss of alox12 in macrophages, our studies of conditional Alox15 deletion in myeloid-derived cells in NOD mice proved more conclusive in this regard
+  Importantly, whereas prior studies of Cre recombinase expression on the NOD background leave some doubt as to the effect of the deletion vs
+ the misexpression of Cre recombinase on diabetes outcome [38], we show rigorously here that inclusion of littermate controls containing either the homozygous Loxp alleles or expressing Cre recombinase develop T1D at the expected frequencies in both sexes
+  Therefore, we believe that the remarkable protective phenotype of NOD mice harboring myeloid cell-specific loss of the Alox15 alleles is (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;     The mechanism by which 12-LOX promotes T1D progression has been variably attributed to cytokine signaling, oxidative stress, and cellular apoptosis induced by its major majority of these prior studies were performed in islets and  cell-derived cell lines
+  Here, we demonstrate new mechanisms by which 12-LOX impacts myeloid cell function in TD
+  We show that 12-LOX is not required for the apparent polarization of macrophages to pro- or anti-inflammatory states, suggesting that its effects may be more specific to functional duties commonly ascribed to myeloid cells
+  The chemokine receptor CXCR3 and its ligands CXCL9, CXCL10, and CXCL11 serve as part of the chemoattractant response during inflammation and immunity
+  Here and in prior studies, CXCR3 has been shown to be expressed on myeloid-derived cells [39], and may be required for local migration for immune surveillance, antigen presentation, and tissue damage clearance
+  Prior studies on the role of CXCR3 in the context of NOD mice have shown conflicting results, with some studies suggesting that its deficiency protects against diabetes [40] and others suggesting its deficiency accelerates diabetes []
+  A complexity in these prior studies is the global nature of deletion and the differences in diabetes induction in these animal models
+  Although our studies do not entirely resolve this issue, they do indicate a critical role of this receptor for a fundamental function of myeloid cells
+  We show that 12-LOX is required for cellular migration, likely through the expression of CXCR3 in mice and its ortholog CXCR
+2 in zebrafish, where re-expression of cxcr
+2 specifically in macrophages restored the migratory capacity
+  That the migratory defect can be rescued by transgenic re-expression emphasizes that the effect of 12-LOX is exerted at the transcriptional, rather than posttranscriptional, level
+  This finding is especially relevant as 12-LOX is an enzyme with no known transcriptional function per se
+  It remains possible that this transcriptional effect is the result of the downstream activity of GPR31, a receptor for 12-HETE [,]
+  Further studies of Gpr31 mutant zebrafish and mice will be required to address this issue
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;     A final major implication of our study is the relevance of zebrafish
+  We present a model system in which macrophages play a central role in destruction of  cells in a transgenic Tg(ins:NTR) line of zebrafish
+  In the absence of adaptive immune cell involvement in our zebrafish model, it would be inaccurate to claim that this system models TD
+  Nevertheless, this model system exhibits some features that allow its use as a platform for the study the dynamics between macrophages and  cells
+  We showed that depletion of macrophages in zebrafish using clodronate preserved pre-existing  cells following MTZ treatment of zebrafish, yet prevented the formation of neogenic  cellsthe combined effect of which may have resulted in only the modest effect on glycemia that we observed
+  On the one hand, these findings reflect similar studies in NOD mice in which clodronate treatment preserved  cells and glycemia [11,11,16] and, on the other, they support studies in mice that macrophages promote -cell proliferation tissue regeneration [,]
+  This seemingly dichotomous finding likely macrophages, which are not differentiated by clodronate treatment
+  By contrast, our studies with alox12 MO and the 12-LOX inhibitor ML355 appears to target the pro-diabetogenic (presumably M1-like) macrophages, findings that are supported by our tissue-specific knockout studies in NOD mice
+  In ongoing studies, our laboratory is interrogating the potential existence of different macrophage phenotypes in zebrafish, the implications of which would broaden further the applicability of zebrafish models for interrogating innate immune-mediated tissue  In conclusion, our findings support a role for macrophages and dendritic cells in the initiation of T1D, but more importantly implicate a central role for 12-LOX in promoting the initial innate immune response during diabetes pathogenesis
+  Fig
+ 7 shows a schematic representation of the findings of our study in the context of the dendritic cell- cell interactions that govern the pathophysiology of TD
+  We propose that 12-LOX in pro-inflammatory macrophages and dendritic cells promotes the expression of Cxcr3 (possibly via GPR31) to (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    permit cellular migration, antigen acquisition and presentation, as well as production of proinflammatory cytokines (IL-1, TNF-)
+  The deletion or inhibition of 12-LOX in the early phases of T1D impairs these processes, thereby reducing antigen acquisition and presentation, insulitis, and -cell loss
+  This model does not explicitly exclude an independent role for 12-LOX in  cells, where it promotes pro-inflammatory signaling leading to cellular stress and apoptosis
+  Whether deletion of Alox15 in  cells might independently disrupt this interaction between cells remains an ongoing goal of our laboratory
+  Some limitations of our study are worth noting
+  Our study deleted 12-LOX from the inception of Lyz2 expression in all myeloid cells during mouse development; hence, it remains unclear (a) if its role beyond macrophages and dendritic cells (such as neutrophils) might also contribute to the phenotype observed, and (b) if the loss of Alox15 during myeloid cell development might have inherently prevented the acquisition of a pro-diabetogenic phenotype before even the initiation of the disease process
+  The latter point could have implications for the timing of targeted therapeutics
+  Ongoing studies in the lab are focused on the timing of Alox15 deletion relative to disease onset and the translation of these (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    Zebrafish (D
+ rerio) were maintained at 
+5 C in a recirculating aquaculture system enclosed in a cabinet and subjected to a 14 h:10 h light-dark cycle according to institutional protocols approved by both the Indiana University and University of Chicago Institutional Animal Care and Use Committees
+  The following transgenic lines were used in the experiments: outcrossed embryos bearing relevant transgenic alleles were collected at spawning and maintained in a 
+5C incubator in petri dishes with buffered egg water [
+1% instant ocean prevent pigmentation in all embryos
+ At 3 days post fertilization (larval stage), the transgenic zebrafish were genotyped by epifluorescence using a Leica M205FA dissecting microscope
+  The alox12 morpholino (MO) targeting the translational start was described previously []
+  A cxcr
+2-containing expression vector was generated by inserting the coding sequence of D
+ rerio cxcr
+2 gene under control of the D
+ rerio macrophage-specific mpeg1 promoter protocols approved by the Indiana University, University of Chicago, and Eastern Virginia Medical School Institutional Animal Care and Use Committees
+  Alox15+/- mice on the C57BL/6J background were purchased from Jackson Laboratories and maintained and bred in-house
+  For the experimental controls, we utilized wild-type (WT) littermates from breedings
+  crossed with NOD
+Lyz2-Cre mice to generate breeding colonies
+  All controls for NOD mouse (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    For the -cell injury assay, zebrafish were washed with egg water and then treated with 
+5 mM metronidazole (MTZ) (Sigma) prepared in egg water or egg water alone as described previously []
+  Following MTZ treatment, fish were washed with egg water and allowed to recover for the times indicated
+  For the tailfin injury assay, fish were transiently paralyzed with 
+01% tricaine (Sigma) in egg water to restrict their movements, and the distal tip of the tail fin was amputated with a scalpel
+  At the end of each experiment, fish were fixed, deyolked, and immunostained as previously described []
+  The following concentrations of primary antibodies were used: 1:200 guinea pig anti-insulin (Invitrogen), 1:200 chicken anti-GFP (Aves Labs)
+  secondary antibodies (Jackson ImmunoResearch)
+  DNA was stained with 1:500 TO-PRO3 (Thermo Fisher)
+  After staining, fish were mounted on charged glass slides in VECTASHIELD (Vector Labs) and confocal imaging was performed with an LSM700 or LSM800 microscope (Zeiss)
+  For macrophage depletion studies, fish were first sedated with 
+01% tricaine, mounted with 7-10 nL clodronate liposomes (Encapsula Nano Sciences) 24 hours prior to experimentation
+  For inhibitor studies, fish were pretreated with 12-LOX inhibitor (ML355) or For measurement of glucose levels, whole fish were homogenized in 500 L glucose assay buffer provided in the Glucose Colorimetric Assay Kit (Biovision)
+  Samples were then centrifuged at 2000 xg for 5 minutes at room temperature and the supernatant was used in duplicate for the glucose assay following manufacturers protocol
+  The colorimetric assay was (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    measured using a SpectraMax iD5 multi-mode microplate reader (Molecular Devices) at 405 Pancreata from at least five different mice per group were fixed in 4% paraformaldehyde, paraffin embedded, and sectioned onto glass slides
+  Pancreata were immunostained using rabbit anti-insulin (1:1000; ProteinTech)
+  -cell mass was calculated as previously detailed []
+  Insulitis was scored as previously described [47] using the following scoring criteria: 1) no insulitis, 2) infiltrate < 50% circumference, 3) infiltrate > 50% circumference, 4) infiltration within Islets from mice were isolated as previously described []
+  Mouse peritoneal macrophages were isolated as described [51] immediately after euthanasia by injecting ice-cold RPMI into the peritoneal cavity using a 25g needle
+ The injected RPMI was then removed
+  The isolated cells were lysed with RBC lysis buffer (eBioscience) to remove red blood cells
+  Nave T cells were isolated and purified from spleen and lymph nodes of C57BL/6J mice using For polarization studies in vitro, isolated peritoneal macrophages stimulated with 10 ng/ml LPS and 25 ng/ml IFN- (for M1 polarization), 10 ng/mL IL4 (for M2 polarization), or media control for 16 hours
+  Peritoneal macrophages from NOD mice were treated with 100 ng/mL PMA (Sigma), 500 ng/ml Ionomycin (Sigma) and Golgi Stop Plug (1:1000; BD Pharmigen) prior to immunostaining
+ To stain for surface antigens, cells were incubated with antibodies to F4/80 (BM-8, Biolegend), CD11c (HL3, BD Pharmigen), CD4 (RM4-5, Biolegend), CD80 (16-10A1, Biolegend), CD86 (GL-1, Biolegend) and MHC-II (M/
+ 
+2, Biolegend) or the appropriate isotype controls for 30 min
+  For cytokines staining, the cells isolated were (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    stimulated with 100ng/mL PMA (Sigma), 500ng/ml Ionomycin (Sigma) and Golgi Stop Plug Pharmigen) and incubated with antibodies for TNF- (Biolegend), IL-1 (Thermo Fisher)
+ IL-17 (TC11-18H10, BD Pharmigen), IFN- (XMG12, BD Pharmigen) and FoxP3 (MF23, BD Pharmigen)
+ All antibodies were used 1:100 dilution
+ Cells were filtered and acquired on the AttuneTM NxT Flow Cytometer or a FACS Canto II cytometer (BD)
+ Data were analyzed using FlowJo software (Tree Star)
+  Supernatant from stimulated peritoneal macrophages was collected and IL-6 and IL-12 levels were measured by ELISA according to the manufacturers instructions (eBiosciences) and read on a SpectraMax iD5 multi-mode microplate reader RNA was isolated from zebrafish or from mouse tissue using the RNeasy Plus Micro Kit (Qiagen) and was used to prepare cDNA using a commercial kit (Applied Biosystems)
+ Quantitative RT-PCR was run using the SsoFast EvaGreen Supermix kit (Biorad) on a Quantstudio 3 thermocycler (Applied Biosystems)
+ The average Ct value of three replicates was A 96-well chemotaxis system (ChemoTx, 8 m filter pore size; Neuro Probe) was loaded with conditioned media from islets isolated from C57BL/6J mice
+  Isolated islets were treated with a pro-inflammatory cytokine cocktail (50 ng/mL TNF-, 25 ng/mL IL-1, 100 ng/mL IFN-) for 24 hours after isolation to generate conditioned media
+ The conditioned media was collected and loaded in the bottom chamber of the chemotaxis system
+  WT or Alox15-/- macrophages (
+5  105 cells) were added to the upper chamber and migration to the lower chamber was measured after incubation for 4 hours at 37 C
+  After incubation, non-migrated cells were (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    washed while the filter side containing migrated cells were stained with Kwik-Diff Solution kit (Themo-Shandon)
+  The filter was mounted on the slides, and the number of migrated macrophages was quantified by manual counting under an LSM800 microscope (Zeiss)
+  All data are presented as meanstandard error of the mean (SEM)
+  The data analyses were performed using the GraphPad Prism 9 software package
+  Significant differences between the mean values were determined using Students t-test, where two means were compared, and one-way analysis of variance (ANOVA) followed by post hoc Tukeys test when more than two means were compared
+ The differences were considered statistically (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    This research was supported by the National Institutes of Health grants R01 DK060581 (to RGM), R01 DK 105588 (to RGM and JLN), and F30 DK122681 (to SI), by a JDRF postdoctoral fellowship (to MHP), and a DeVault fellowship (to AK)
+  Research core services were provided by National Institutes of Health grants P30 DK097512 (to Indiana University) and P30 DK020595 (to University of Chicago)
+  The authors wish to acknowledge Dr
+ Marcia McDuffie (University of Virginia) for critically reading the manuscript and providing suggestions for Conceptualization: AK, JLN, MAM, SAT, RGM, and RMA; Methodology: AK, ARP, MW, SI, MHP, KSO, LG, MAM, SAT, and RMA; Data analysis: AK, ARP, MW, JLN, MAM, SAT, RGM, RMA; Original draft: AK, SAT, RGM, and RMA; Review and editing: all authors; Funding acquisition: RGM and JLN; All authors have read concurred with the final version of the (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    Figure 1: Macrophages promote -cell loss and hyperglycemia following injury in Tg(mpeg:GFP);Tg(ins:NTR) zebrafish at 3 dpf, wherein islet  cells (red) are selectively destroyed upon incubation with metronidazole (MTZ), with the concomitant/subsequent entry of macrophages (green);  (B) Representative images of islets from zebrafish treated for the times indicated with MTZ, then stained for insulin ( cells, red) and GFP (macrophages, green)
+ Scale bar indicates 10m;  (C) Free glucose measurements of whole zebrafish lysates, treated as indicated in the panel
+  N=3-5 lysates per condition (20 fish per lysate), and *P<
+05 for the corresponding values compared to untreated controls (no clodronate, no MTZ);  (D) Representative images of islets from zebrafish stained for insulin ( cells, red) under the conditions indicated
+ Scale bar indicates 10m;  (E) Quantitation of -cell number from the experiment represented in panel D;  (F) Schematic representation of the -cell regeneration assay, where photoconversion of Kaede protein results in red+green (=yellow) pre-existing  cells and newly formed (neogenic)  cells enter as green cells
+ (G) Representative images of islets from zebrafish exhibiting pre-existing (yellow) and neogenic (green)  cells at 24 and 48 hr of recovery following MTZ treatment under the conditions (control or clodronate) indicated
+ Scale bar indicates 10m;  (H) Quantitation of neogenic  cell number from the experiment represented in panel G;  (I) Schematic representation of the zebrafish tailfin injury assay, where tailfins of Tg(mpeg:GFP) fish at 3 dpf are mechanically cut with a blade, and the migration of macrophages (green) are observed at the site of injury;  (J) Representative tailfin images of injured zebrafish tails stained with GFP (macrophages, green) under the conditions indicated
+  Dotted line shows the tailfin injury site
+  Scale bar indicates 100 m
+ In all panels, data are (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    Figure 2: Depletion or inhibition of 12-LOX protects against -cell loss in zebrafish
+  Zebrafish were treated with alox12 morpholino (MO) or the 12-LOX inhibitor ML355 prior to treatment with MTZ at 3 dpf
+ (A) Representative images of islets from zebrafish stained for insulin ( cells, red);  (B) Quantification of -cell number in pancreatic islets of fish (expressed as % of  cells remaining relative to time 0) following MTZ treatment
+ N=6-8 fish per timepoint
+ *P<
+05 for the timepoints indicated compared to control-treated fish;  (C) Representative images of islets from control and alox12 MO zebrafish stained for insulin ( cells, red) and GFP (macrophages, green) at 24 hours following MTZ treatment;  (D) Quantification of the number of macrophages located at the site of injured islets from the experiment shown in panel C
+  (E) Representative images of islets from control and ML355-treated zebrafish stained for insulin ( cells, red) and GFP (macrophages, green);  (F) Quantification of the number of macrophages located at the site of injured islets from the experiment shown in panel E
+ Scale bar indicates m
+  In all panels, data are presented as meanSEM
+ *P <
+05 for the comparisons Figure 3: Protection from diabetes following myeloid-specific deletion of Alox15 in NOD mice
+  NOD mice harboring the Lyz2-Cre allele were crossed to NOD mice harboring Cre recombinase sites (Loxp) flanking exons 2-5 of the Alox15 gene to generate NOD:Alox15myel mice (myel)
+  NOD:Lyz2-Cre (Cre+) and NOD:Alox15Loxp/Loxp littermates were used as controls
+  (A) Alox15 mRNA expression in peritoneal cells, spleen and isolated islets;  (B) Diabetes incidence in female mice
+ Number (N) of mice per group is indicated
+ P value indicates significance by log-rank test;  (C) Diabetes incidence in male mice
+ Number (N) of mice per group is indicated
+ P value indicates significance by log-rank test;  (D) Representative immunohistochemical images of mouse pancreata from Cre+ and myel mice immunostained for insulin (brown) and counterstained with hematoxylin (blue)
+  Scale bar indicates 1000m;  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    (E) -cell mass in Cre+ and myel mice; (F) Insulitis scoring from pancreata of Cre+ and myel mice; (G) Gene expression in isolated islets from Cre+ and myel mice
+  All data are presented Figure 4: Reduced proinflammatory myeloid cell populations and CD4 T cells in pancreatic lymph nodes of NOD:Alox15myel mice
+ Pancreatic lymph nodes were isolated from NOD:Lyz2-Cre (Cre+) control mice and NOD:Alox15myel (myel) mice at 8 weeks of age and subjected to flow cytometry analysis
+ (A) Representative contour plot showing gating of F4/80+ TNF+ cells (left), total number of F4/80+ TNF+ cells (middle), and F4/80+ TNF+ cells as a percentage of total cells (right); (B) Representative contour plot showing gating of CD11c+ TNF+ cells (left), total number of CD11c+ TNF+ cells (middle) and CD11c+ TNF+ cells as a percentage of total cells (right); (C) Representative contour plot showing gating of CD4+ cells (left), total number of CD4+ cells (middle), and CD4+ cells as a percentage of total cells (right)
+  All data are presented as meanSEM
+ *P <
+05 for the comparisons shown
+ Figure 5: Depletion or inhibition of 12-LOX impairs macrophage migration in zebrafish and mice
+  (A) Control and alox12 MO-treated Tg(mpeg:GFP) zebrafish underwent tailfin injury at 3 dpf
+  Representative images of injured zebrafish tails stained with GFP (macrophages, green) and TO-PRO3 (nuclei, red) are shown on the left and quantitation of migrating macrophages is shown on the right;  (B) Tg(mpeg:GFP) zebrafish were treated with vehicle or 10 M ML355 and then underwent tailfin injury at 3 dpf
+  Representative images of injured zebrafish tails stained with GFP (macrophages, green) and TO-PRO3 (nuclei, red) are shown on the left and quantitation of migrating macrophages is shown on the right;  (C) Description of the chemotaxis assay in vitro using wild-type (WT) and Alox15-/- mouse peritoneal macrophages;  (D) Representative images of the porous membrane showing migrating methylene blue-stained macrophages (red arrows) is shown on the left, and quantitation of the (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    number of migrating macrophages is shown on the right
+  Scale bar indicates 50 m
+  All data Figure 6: CXCR3 is reduced in the absence of -LOX
+  (A) Chemokine receptor mRNA expression in macrophages from wild-type (WT) and Alox15-/- mice;  (B) Representative contour plots showing gating of F4/80+ CXCR3+ cells are shown on the left and F4/80+ CXCR3+ cells as a percentage of total peritoneal cells from WT and Alox15-/- mice is shown on the right;  (C) cxcr
+2 mRNA expression from whole lysates of control- and alox12 MO-treated zebrafish;  (D) Representative images of injured Tg(mpeg:GFP) zebrafish tailfins stained with GFP (macrophages, green) and TO-PRO3 (nuclei, red) are shown on the left, and corresponding quantitation of macrophages at the tail injury site in the control, alox12 MO injected fish and the fish co-injected with alox12 MO and vector for macrophage specific overexpression of cxcr
+2 is shown on the right
+ Scale bar indicates 100 m
+ Data are Figure 7: Model for 12-LOX regulation of macrophage inflammation, migration and surveillance
+  The model shown depicts the proposed role of 12-LOX in innate immune myeloid cells during the pathogenesis of type 1 diabetes
+  The activity of 12-LOX catalyzes the derived arachidonic acid
+  Elevations in 12-HETE levels result in increased production of proinflammatory cytokines (e
+ g
+ IL-1, TNF-) and enhanced expression of CXCR3, which lead, respectively, to islet -cell inflammation and enhanced migration and immune surveillance
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    Supplementary Figure S1: Effect of clodronate liposomes and alox12 MO on whole-embryo macrophages
+  (A) Representative images of Tg(mpeg:GFP) zebrafish treated under control conditions, with alox12 MO, or injected with clodronate liposomes and stained for GFP (macrophages, green)
+  Green arrows indicate discrete macrophages;  (B) Representative images of islets from Tg(mpeg:GFP);Tg(ins:NTR) zebrafish treated with MTZ, then stained for insulin ( cells, red), GFP (macrophages, green), and DAPI (nuclei, blue)
+ Scale bars indicate pancreatic lymph nodes of NOD:Alox15myel mice
+  Pancreatic lymph nodes were isolated from NOD:Lyz2-Cre (Cre+) control mice and NOD:Alox15myel (myel) mice at 8 weeks of age and subjected to flow cytometry analysis
+ (A) Representative contour plot showing gating of F4/80+ IL-1+ cells (left), total number of F4/80+ IL-1+ cells (middle), and F4/80+ IL-1+ cells as a percentage of total cells (right); (B) Representative contour plot showing gating of CD11c+ IL-1+ cells (left), total number of CD11c+ IL-1+ cells (middle) and CD11c+ IL-1+ cells as a percentage of total cells (right)
+  All data are presented as meanSEM
+ *P <
+05 for the Supplementary Figure S3:  Unaltered myeloid cell populations in spleen of control NOD-Lyz2-Cre and NOD:Alox15myel mice
+  Spleens were isolated from control NOD-Lyz2-Cre (Cre+) and NOD:Alox15myel (myel) mice at 8 weeks of age and subjected to flow cytometry analysis for proinflammatory myeloid cell populations
+  Shown are the F4/80+ IL-1+ cells, F4/80+ TNF+ cells, CD11c+ IL-1+ cells, and CD11c+ TNF+ cells as a percentage of total (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    Supplementary Figure S4: Effect of 12-LOX depletion on M1 polarization of macrophages
+  Peritoneal cells were isolated from wildtype and Alox15-/- mice and unpolarized (M0) or polarized in vitro to a M1-like state upon incubation with lipopolysaccharide (LPS) and IFN-, then subjected to flow cytometry analysis and quantitative RT-PCR
+ (A) Representative contour plot showing gating of F4/80+ iNOS+ cells is shown on the left and quantitation of F4/80+ iNOS+ cells as a percentage of total cells is shown on the right;  (B) IL6 levels in media of unpolarized (M0) and M1-polarized cells;  (C) quantitative RT-PCR data for the indicated genes (normalized to Actb)
+  All data are presented as meanSEM
+ *P <
+05 for the Supplementary Figure S5: Effect of 12-LOX depletion on M2 polarization of macrophages
+  Peritoneal cells were isolated from wildtype and Alox15-/- mice and unpolarized (M0) or polarized in vitro to a M2-like state upon incubation with IL-4, then subjected to flow cytometry analysis and quantitative RT-PCR
+ (A) Representative contour plot showing gating of F4/80+ CD206+ cells is shown on the left and quantitation of F4/80+ CD206+ cells as a percentage of total cells is shown on the right;  (B) IL-10 levels in media of unpolarized (M0) and M2-polarized cells;  (C) quantitative RT-PCR data for the indicated genes (normalized to Actb)
+  All data are presented as meanSEM
+ *P <
+05 for the comparisons shown
+  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    
+  Eizirik DL, Pasquali L, Cnop M
+ Pancreatic -cells in type 1 and type 2 diabetes mellitus: different pathways to failure
+ Nature Reviews Endocrinology
+ 2020 [cited 13 May ]
+ 
+  Eizirik DL, Colli ML, Ortis F
+ The role of inflammation in insulitis and beta-cell loss in type 1 
+  Magnuson AM, Thurber GM, Kohler RH, Weissleder R, Mathis D, Benoist C
+ Population dynamics of islet-infiltrating cells in autoimmune diabetes
+ Proc Natl Acad Sci U S A
+ 
+  Anderson MS, Bluestone JA
+ The NOD mouse: a model of immune dysregulation
+ Annu 
+  Int Veld P
+ Insulitis in human type 1 diabetes: a comparison between patients and animal 
+  Matthews JB, Staeva TP, Bernstein PL, Peakman M, von Herrath M, ITN-JDRF Type 1 immunotherapies for type 1 diabetes: recommendations from the ITN-JDRF Type 1 
+  James EA, Pietropaolo M, Mamula MJ
+ Immune Recognition of -Cells: Neoepitopes as Key Players in the Loss of Tolerance
+ Diabetes
+ 2018;67: 
+ doi:
+ /dbi-
+  Unanue ER, Wan X
+ The Immunoreactive Platform of the Pancreatic Islets Influences the 
+  Ferris ST, Zakharov PN, Wan X, Calderon B, Artyomov MN, Unanue ER, et al The islet-resident macrophage is in an inflammatory state and senses microbial products in blood
+ J 
+  Jansen A, Homo-Delarche F, Hooijkaas H, Leenen PJ, Dardenne M, Drexhage HA
+ involved in the initiation of the insulitis and beta-cell destruction in NOD mice
+ Diabetes
+ 
+  Jun HS, Yoon CS, Zbytnuik L, van Rooijen N, Yoon JW
+ The role of macrophages in T cell-mediated autoimmune diabetes in nonobese diabetic mice
+ J Exp Med
+ 1999;189: 
+  Rosmalen JG, Martin T, Dobbs C, Voerman JS, Drexhage HA, Haskins K, et al Subsets of (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    infiltrates: correlation with the development of diabetes
+ Lab Invest
+ 2000;80: 
+ 
+  Calderon B, Suri A, Unanue ER
+ In CD4+ T-cell-induced diabetes, macrophages are the final effector cells that mediate islet beta-cell killing: studies from an acute model
+ Am J 
+  Carrero JA, McCarthy DP, Ferris ST, Wan X, Hu H, Zinselmeyer BH, et al Resident macrophages of pancreatic islets have a seminal role in the initiation of autoimmune 
+  Jun HS, Santamaria P, Lim HW, Zhang ML, Yoon JW
+ Absolute requirement of macrophages for the development and activation of beta-cell cytotoxic CD8+ T-cells in T-
+  Lee KU, Amano K, Yoon JW
+ Evidence for initial involvement of macrophage in 
+  Dobrian AD, Morris MA, Taylor-Fishwick DA, Holman TR, Imai Y, Mirmira RG, et al Role 
+  McDuffie M, Maybee NA, Keller SR, Stevens BK, Garmey JC, Morris MA, et al Nonobese diabetic (NOD) mice congenic for a targeted deletion of 12/15-lipoxygenase are protected 
+  Hernandez-Perez M, Chopra G, Fine J, Conteh AM, Anderson RM, Linnemann AK, et al Deterioration in Mouse Models of Type 1 Diabetes
+ Diabetes
+ 2017;66: 
+ 
+  Prince VE, Anderson RM, Dalgin G
+ Zebrafish Pancreas Development and Regeneration: 
+  Ellett F, Pase L, Hayman JW, Andrianopoulos A, Lieschke GJ
+ mpeg1 promoter 
+  Kulkarni AA, Conteh AM, Sorrell CA, Mirmira A, Tersey SA, Mirmira RG, et al An In Vivo 
+  Van Rooijen N, Sanders A
+ Liposome mediated depletion of macrophages: mechanism of action, preparation of liposomes and applications
+ J Immunol Methods
+ 1994;174: 
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    
+  Petrie TA, Strand NS, Yang C-T, Tsung-Yang C, Rabinowitz JS, Moon RT
+ Macrophages 
+  Hernandez-Perez M, Kulkarni A, Samala N, Sorrell C, El K, Haider I, et al A -
+  Luci D, Jameson JB, Yasgar A, Diaz G, Joshi N, Kantz A, et al Discovery of ML355, a Potent and Selective Inhibitor of Human -Lipoxygenase
+ Probe Reports from the NIH 
+  Cole BK, Morris MA, Grzesik WJ, Leone KA, Nadler JL
+ Adipose tissue-specific deletion of 12/15-lipoxygenase protects mice from the consequences of a high-fat diet
+ Mediators 
+  Tersey SA, Maier B, Nishiki Y, Maganti AV, Nadler JL, Mirmira RG
+ 12-Lipoxygenase Promotes Obesity-Induced Oxidative Stress in Pancreatic Islets
+ Mol Cell Biol
+ 2014;34: 
+  Babu DA, Deering TG, Mirmira RG
+ A feat of metabolic proportions: Pdx1 orchestrates islet development and function in the maintenance of glucose homeostasis
+ Molecular genetics 
+  Falcone M, Fousteri G
+ Role of the PD-1/PD-L1 Dyad in the Maintenance of Pancreatic Immune Tolerance for Prevention of Type 1 Diabetes
+ Front Endocrinol (Lausanne)
+ 
+  Orecchioni M, Ghosheh Y, Pramod AB, Ley K
+ Macrophage Polarization: Different Gene 
+  Nie D, Nemeth J, Qiao Y, Zacharek A, Li L, Hanna K, et al Increased metastatic potential 
+  Rossaint J, Nadler JL, Ley K, Zarbock A
+ Eliminating or blocking 12/15-lipoxygenase reduces neutrophil recruitment in mouse models of acute lung injury
+ Crit Care
+ 2012;16: 
+  Schneider C, Pozzi A
+ Cyclooxygenases and lipoxygenases in cancer
+ Cancer Metastasis 
+  Androulidaki A, Wachsmuth L, Polykratis A, Pasparakis M
+ Differential role of MyD88 and TRIF signaling in myeloid cells in the pathogenesis of autoimmune diabetes
+ PLoS One
+ 
+  Ying W, Lee YS, Dong Y, Seidman JS, Yang M, Isaac R, et al Expansion of Islet-Resident Macrophages Leads to Inflammation Affecting  Cell Proliferation and Function in Obesity
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    
+  Green-Mitchell SM, Tersey SA, Cole BK, Ma K, Kuhn NS, Cunningham TD, et al Deletion Leading to Protection against Type 1 Diabetes Development
+ PLoS ONE
+ 2013;8: e
+ 
+  Leiter EH, Reifsnyder P, Driver J, Kamdar S, Choisy-Rossi C, Serreze DV, et al 
+  Garca-Lpez M, Snchez-Madrid F, Rodrguez-Frade JM, Mellado M, Acevedo A, Garca MI, et al CXCR3 Chemokine Receptor Distribution in Normal and Inflamed 
+  Burke SJ, Karlstad MD, Eder AE, Regal KM, Lu D, Burk DH, et al Pancreatic -cell 
+  Yamada Y, Okubo Y, Shimada A, Oikawa Y, Yamada S, Narumi S, et al Acceleration of 
+  Guo Y, Zhang W, Giroux C, Cai Y, Ekambaram P, Dilly A-K, et al Identification of the 
+  Nackiewicz D, Dan M, Speck M, Chow SZ, Chen Y-C, Pospisilik JA, et al Islet Macrophages Shift to a Reparative State following Pancreatic Beta-Cell Death and Are a 
+  Xiao X, Gaffar I, Guo P, Wiersch J, Fischbach S, Peirish L, et al M2 macrophages promote beta-cell proliferation by up-regulation of SMAD
+ Proc Natl Acad Sci U S A
+ 
+  Curado S, Stainier DYR, Anderson RM
+ Nitroreductase-mediated cell/tissue ablation in zebrafish: a spatially and temporally controlled ablation method with applications in 
+  Pisharath H, Rhee JM, Swanson MA, Leach SD, Parsons MJ
+ Targeted ablation of beta cells in the embryonic zebrafish pancreas using E
+ coli nitroreductase
+ Mech Dev
+ 
+  Cabrera SM, Colvin SC, Tersey SA, Maier B, Nadler JL, Mirmira RG
+ Effects of the NOD Mouse Model of Type 1 Diabetes
+ Clin Exp Immunol
+ 2013;172: 
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    
+  Ye L, Robertson MA, Hesselson D, Stainier DYR, Anderson RM
+ Glucagon is essential for 
+  Tersey SA, Levasseur EM, Syed F, Farb TB, Orr KS, Nelson JB, et al Episodic -cell death and dedifferentiation during diet-induced obesity and dysglycemia in male mice
+ 
+  Stull ND, Breite A, McCarthy RC, Tersey SA, Mirmira RG
+ Mouse Islet of Langerhans Isolation using a Combination of Purified Collagenase and Neutral Protease
+ J Vis Exp
+ 
+  Ray A, Dittel BN
+ Isolation of mouse peritoneal cavity cells
+ J Vis Exp
+ 
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted January 4, 
+ ;    

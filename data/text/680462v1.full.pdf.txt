@@ -1,0 +1,863 @@
+Nicotinamide riboside augments the human skeletal muscle NAD+ metabolome and induces transcriptomic and anti-inflammatory signatures in aged subjects: a placebo-controlled, randomized trialInstitute of Metabolism and Systems Research, University of Birmingham, Birmingham, UK
+ 9 Institute of Inflammation and Aging, University of Birmingham, Birmingham, UK
+  12 Department of Biochemistry, Carver College of Medicine, University of Iowa, Iowa City, 13 School of Sport, Exercise and Rehabilitation Sciences, University of Birmingham, 14 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;     is modulated by conditions of metabolic stress and has been reported to decline with 29 aging, but human data are sparse
+ Nicotinamide riboside (NR) supplementation ameliorates 30 metabolic dysfunction in rodents
+ We aimed to establish whether oral NR supplementation in 31  levels are depressed with aging
+ We supplemented 12 aged men with NR 1g 33 per day for 21-days in a placebo-controlled, randomized, double-blind, crossover trial 34 increased nicotinic acid adenine dinucleotide and nicotinamide clearance products
+ Muscle 36 mitochondria pathways
+ NR also depressed levels of circulating inflammatory cytokines
+ In 38 muscle and brain showed no difference between young and aged individuals
+ Our data 40 establish that oral NR is available to aged human muscle and identify anti-inflammatory 41 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Aging is characterized by a decline in metabolic and physiological functions of all organs 46 within the body
+ A hallmark feature of aging is the progressive loss of skeletal muscle mass 47 and function that can progress to sarcopenia, which is associated with significant morbidity, 48 mortality, and substantial healthcare costs (Kim and Choi, 2013; Sousa et al, )
+ 49 Exercise is considered a front line modality to combat age-related muscle decline (Costford 50 et al, )
+ However, nutritional strategies may also offer an effective countermeasure to 51 age-associated morbidities and promote healthy muscle aging (Bogan and Brenner, )
+  52 function
+ As well as its classical role in redox metabolism, NADsuch as sirtuins, poly-ADPribose polymerases (PARPs), and cyclic ADPribose synthetases 55 that regulate key cellular processes of energy metabolism, DNA damage repair, and calcium 56 Brenner, 2004; Trammell et al, 2016) has emerged as a potential strategy to augment 59 Lavery, )
+ A range of physiological stresses associated with depletion of NADNADPH have been ameliorated with NR supplementation in mice including prevention of 62 noise-induced hearing loss (Brown et al, 2014), resistance to weight gain (Cant et al, 63 2012), reduction of blood glucose, hepatic steatosis, and neuropathy on high fat diet 64 (Trammell et al 2016), improvement of cardiac function in genetic cardiomyopathy (Diguet et 65 al, 2018), and prevention of cortical neuronal degeneration (Vaur et al, )
+ Depletion of 66 muscle in a cell-autonomous manner (Frederick et al, )
+ However, recent data in mice 70  fluxes questioned whether oral NR has the ability to access muscle (Liu et al, 71 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    )
+ Thus, whether oral NR can augment the human skeletal muscle NAD availability and signalling appears to occur as part of the aging process in 74 many species (Gomes et al, 2013; Mouchiroud et al, 2013), though there is a paucity of 75 data to confirm that this is the case in human aging
+ NR and nicotinamide mononucleotide 76 (NMN) are reported to extend life span (Zhang et al, 2016) and enhance metabolism in 77 aged mice (Mills et al, )
+ To date, NR supplementation studies in humans have been 78 reported, focussing on cardiovascular (Martens et al, 2018), systemic metabolic (Dollerup et 79 al, 2018), and safety (Conze et al, 2019) end-points, but have not addressed advanced 80 aging, tissue metabolomic changes, or effects on muscle metabolism and function
+  81 Herein, we set out to study if oral NR is available to aged human skeletal muscle and 82 whether potential effects on muscle metabolism can be detected
+ We conducted a 21-day 83 NR supplementation intervention in a cohort of 70  80 year old men in a randomized, 84 double-blind, placebo-controlled crossover trial We demonstrate that NR augments the 85 downregulation of energy metabolism pathways, but without affecting muscle mitochondrial 87  decline is not associated with chronological aging per se in 90 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Oral NR is safe and well tolerated in aged adults  94 Twelve aged (median age 75 years) and marginally overweight (median BMI 
+6 kg/mrange 21 - 30), but otherwise healthy men were recruited and orally supplemented with NR 1 96 g per day for 21-days in a randomized, double-blind, placebo-controlled crossover design 97 with 21-days washout period between phases
+ Baseline characteristics of participants are 98 included in Suppl Table 
+ NR chloride (Niagen ) and placebo were provided as 250 mg 99 capsules (ChromaDex, Inc
+) and subjects were instructed to take two in the morning and two 100 in the evening
+ All participants completed the study visits (5 in total) and assessments 101 according to protocol (Suppl Figure )
+ Visit 1 was a screening and enrolment visit, while 102 visit 4 was after the washout period and only fasting blood and 24hr urine were collected
+  103 The protocol design for visits 2, 3, and 5 included muscle biopsy, fasting blood analyses, 104 plethysmography, and indirect calorimetry analysis (Suppl Figure )
+ NR was well tolerated 106 and screening for a range of haematological and clinical biochemistry safety parameters 107 (including renal, liver and thyroid functions), revealed no adverse effects (Suppl Table )
+ 108 No clinical adverse events were reported during the intervention in either phase
+ Of note, 109 four participants (
+3%), blinded to the intervention arm, self-reported a noticeable increase 110 in libido whilst on NR
+ There were no such reports whilst on placebo
+ 111 muscle biopsies from all participants in a fasted state at baseline and after the NR and 117 placebo phases, 14 h after the last dose and prior to the physiological assessments
+ 118 Samples were collected 14 h after the last dose so participants could attend in a fasted state 119 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    and also to evaluate the effects of longer-term NR administration rather than those of an 120 acute dose
+ Fourteen metabolites were measured in muscle extracts (Figure 1, Suppl 121 Figure 2A, and Suppl Table )
+ NR was detectable in muscle but was not elevated in the 122 NR supplementation period (NR 
+4 pmol/mg M vs
+ placebo 
+25 pmol/mg; p = 
+ )
+ 123 Consistent with nicotinic acid adenine dinucleotide (NAAD) as a highly sensitive biomarker of 124 that oral NR resulted in a 2-fold increase in muscle NAAD (NR 
+73 pmol/mg vs
+ placebo 126 = 
+ )
+ NR supplementation did not affect muscle nicotinamide (NAM) (NR 
+0 pmol/mg 128 vs
+ placebo 
+5 pmol/mng; p = 
+ )
+ However remarkably, we detected 5-fold increases in 129 the products of NAM methylation clearance pathways; N-methyl nicotinamide (MeNAM; NR 130 
+45 pmol/mg vs
+ placebo 
+35 pmol/mg; p = 
+006), N1-Methyl-2-pyridone-5-carboxamide 131 (Me-2-py; NR 
+6 pmol/mg vs
+ placebo 
+1 pmol/mg; p = < 
+001), and N1-Methyl-4-132 pyridone-5-carboxamide (Me-4-py; NR 
+6 pmol/mg vs
+ placebo 
+3 pmol/mg; p = < 
+001) 133 (Figure 1, Suppl Figure 2A, and Suppl Table )
+  134 In the blood, we measured 15 metabolites from each participant at baseline and following 135 each of the NR, placebo, and washout periods (Figure 1, Suppl Figure 2B, and Suppl 136 Table )
+ NR was also detectable in the blood but was not increased compared to placebo at 137 14 h after the last dose of NR (NR 
+16 M vs
+ placebo 
+15 M; p = 
+ )
+ This is expected 138 as the predicated Cmax for NR is approximately 3 h (Airhart et al, )
+ NR increased the 139  > 2-fold (NR 
+75 M vs
+ placebo 
+90 M; p = <
+001) and NMN 140 
+4-fold (NR 
+63 M vs
+ placebo 
+13 M; p = <
+ )
+ A recent study reported that oral NR 141 is rapidly metabolised in the liver to NAM, which can enhance tissue NAD(Liu et al, )
+ However, chronic NR supplementation did not elevate NAM in the blood 143 (NR 
+60 M vs
+ placebo 
+50 M; p = 
+ )
+ Again, NAM urinary clearance pathways were 144 highly active following NR with marked excess of MeNAM (NR 
+66 M vs
+ placebo 
+10 M; 145 p = <
+001), Me-2-py (NR 
+69 M vs
+ placebo 
+44 M; p = <
+001), and Me-4-py (NR 
+82 146 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    M vs
+ placebo 
+48 M; p = <
+001) (Figure 1, Suppl Figure 2B, and Suppl Table )
+ NR 147 elevated blood NAAD levels by 
+5-fold (NR 
+18 M vs
+ Placebo 
+04 M; p = <
+ )
+  148  metabolomics showed that NR was detectable and increased with NR 149 supplementation (NR 
+5 mol/mol creatinine vs
+ Placebo 
+7 mol/mol creatinine; p = 150 
+02) (Figure )
+ Furthermore, a near 20-fold increase in nicotinic acid riboside (NAR; NR-151 
+5 mol/mol creatinine vs
+ placebo-
+3 mol/mol creatinine; p = 
+001) was observed
+ 152 This observation may support the suggestion that NR supplementation leads to  retrograde 153 production of NAAD, nicotinic acid mononucleotide (NAMN), and NAR (Trammell et al 154 )
+ However, direct NR transformation into NAR cannot be excluded
+ Unlike muscle and 155 blood, NAM was elevated in the urine 
+5-fold (NR-282 mol/mol creatinine vs
+ Placebo-156 
+5 mol/mol creatinine; p = 
+ )
+ These data establish the extent and breadth of 157  metabolites in human muscle, blood, and urine after NR supplementation
+ 158 The data indicate that oral NR greatly boosts the blood NADOral NR results in downregulation of gene sets associated with energy metabolism in 163 We next assessed NR-mediated transcriptional changes in skeletal muscle
+ RNA 165 sequencing followed by differential gene expression (DGE) analysis of muscle biopsies from 166 the 12 participants revealed 690 upregulated and 398 downregulated genes between 167 baseline and NR supplementation at p value < 
+05 (Figure 2A and Suppl Table )
+ Using 168 gene annotation analysis (DAVID and GSEA) (Mootha et al, 2003; Subramanian et al, 169 2005; Huang, Brad T Sherman and Lempicki, 2009; Huang, Brad T
+ Sherman and Lempicki, 170 2009), we examined the enrichment of genes that belong to known molecular pathways in 171 our list of up- or downregulated genes
+ Our results suggest that genes significantly 172 downregulated with NR supplementation were enriched in pathways relating to energy 173 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    metabolism including those of glycolysis, TCA cycle and mitochondria (Figure 2B, and 174 Suppl Table )
+ This is consistent with the recent discovery that oral NR depresses 175 mitochondrial membrane potential while improving blood stem cell production in mice 176 Pathways upregulated upon NR supplementation prominently belonged to gene ontology 178 categories such as cell adhesion, actin cytoskeleton organization, and cell motility (Figure 179 riboside kinase 2b (Nrk2b) in zebrafish skeletal muscle cell adhesion (Goody et al, )
+ 181 We next examined all the genes that belonged to the glycolysis, mitochondrial and the TCA 182 cycle pathways and found that they were predominantly downregulated following NR 183 supplementation, whereas 10 control genes sets, of the same size and expression level 184 were not (Figure 2D-F and Suppl Figure A)
+ Similarly, we found that the genes belonging 185 to the gene ontology terms actin filament-based process, cell motility, and biological cell 186 adhesion, were mainly upregulated upon NR supplementation (Suppl Figure 3B and C)
+  187 In agreement with DGE analysis, quantitative real time PCR showed downregulation of 188 selected genes involved in energy metabolism (Figure G)
+ We found no changes in the 189 (Figure H)
+ We also verified some of the upregulated targets by quantitative PCR (Suppl 191 Figure 3D), and undertook some immunoblotting validation (Suppl Figure D)
+ 192 As it has previously been shown that NR increases glycolysis in mouse cardiac cells (Diguet 193 et al, 2018), and because our data do not support an NR-mediated transcriptional 194 upregulation of glycolysis related genes, we examined protein expression levels of glycolytic 195 enzymes in our muscle biopsies and show them to be unchanged after NR (Figure I)
+ 196 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Three weeks of oral NR does not alter skeletal muscle mitochondrial bioenergetics or 200 Several preclinical studies suggest that NR enhances mitochondrial energy programmes in 202 skeletal muscle (Cant et al, 2012; Frederick et al, 2016) through mechanisms that involve 203 redox and sirtuins activation
+ Therefore, we undertook detailed assessment of muscle 204 respirometry, the gold standard method for the ex vivo assessment of mitochondrial function
+ 206 No differences were detected between NR and placebo groups in skeletal muscle complex I- 207 and complex II-mediated oxidative phosphorylation and maximal respiratory capacity, with 208 (Figure 3A) and without the prior addition of the fatty acid conjugate octanoyl-carnitine 209 (Figure B)
+ In line with this, the activity of citrate synthase, commonly used as a 210 quantitative measure of mitochondrial content (Larsen et al, 2012) (Figure 3C), and 211 mitochondrial copy number (mtDNA) (Phielix et al, 2008) (Figure 3D) were unchanged by 212 NR supplementation
+ Similarly, levels of skeletal muscle biopsy mitochondrial resident 213 proteins, directly involved in the electron transport chain, were unaltered upon NR 214 supplementation (Figure E)
+ We then tested whether the NR-driven increase in the NADwestern blotting to assess pan-acetylation status, but again did not detect NR-mediated 217 skeletal muscle decline (Cant et al, 2012; Frederick et al, 2016; Mills et al, 2016), thus we 220 used hand-grip strength as a surrogate marker for muscle function
+ Hand-grip strength 221 correlates with leg strength, and is used for the diagnosis of sarcopenia and frailty, and is a 222 better predictor for clinical outcomes than low muscle mass (Lauretani et al, )
+ A 223 decline in hand-grip strength is observed after the third decade of life (when median peak 224 strength is 51 kg of force in men) (Dodds et al, 2014), dropping to median of 
+8 kg of force 225 in our participants
+ A grip strength of <30 kg of force in men is a diagnostic criterion for 226 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    sarcopenia (Cruz-Jentoft et al, )
+ After 3 weeks of supplementation, we did not observe 227 any differences in the participants peak hand-grip strength (NR 
+5 kg vs
+ placebo 
+7 kg; 228 p = 
+96) or body weight adjusted relative strength (NR 
+4 vs
+ placebo 
+3; p = 
+96) 229 to weight gain, ameliorates markers of cardiometabolic risk, and improves metabolic 234 flexibility (Yoshino, Baur and Imai, )
+ As NR increased the circulating levels of the NADand peripheral tissues and assessed for resultant cardiometabolic adaptations
+ Two 237 studiesone of 12 weeks of NR supplementation at 2 g/day) in subjects with obesity 238 (Dollerup et al, 2018) and one of 6 weeks of NR supplementation at 1 g/day in older adults 239 (Martens et al, 2018) suggested potential benefits with respect to fatty liver and blood 240 pressure, respectively
+ Data for participants at baseline and following NR or placebo are 241 reported in Suppl Table 
+ There were no changes in body weight, blood pressure, lipid 242 profile, fasting glucose and insulin (Suppl Table 1), and HOMA-IR (Figure A)
+ A rebound 243 increase in non-esterified fatty acids (NEFA) has previously been associated with the 244 nicotinic acid analog, acipimox (van de Weijer et al, 2015), however, NR did not produce 245 this effect in our trial (Figure B)
+ Glucose handling was studied using an oral glucose 246 tolerance test with no effect of NR measured in glucose levels during the 2-hour test (Figure 247 C)
+ Following the oral glucose load and the consequent insulin stimulation, NEFA levels 248 were appropriately suppressed and no difference in this response was observed between 249 NR and placebo (Figure D)
+ We also assessed metabolic flexibility using indirect 250 calorimetry to derive respiratory exchange ratios (RER; calculated as VCO2 expired/ VO2 251 consumed) reflecting whole body metabolic substrate use
+ Measurements were initiated in 252 the fasted state and monitored during the response to the oral glucose load
+ Median fasting 253 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    RER was appropriate at 
+72 and 
+73 for the NR and placebo periods, respectively (p = 254 
+ )
+ In response to glucose, RER values significantly increased indicating adequate 255 switching from lipids towards carbohydrates utilisation, with no differences in response to 3 256 weeks of NR supplementation observed at 2h (RER 
+83 and 
+84 for NR and placebo, 257 Oral NR does not alter skeletal muscle blood flow or substrate utilisation 260 Recent mouse data showed that NR increases angiogenesis and muscle blood flow (Das et 261 al, )
+ Therefore, we used venous occlusive plethysmography to test forearm muscle 262 blood flow in the participants in a non-invasive manner (Greenfield, Whitney and Mowbray, 263 )
+ At fasting, no NR-mediated differences were detected in muscle blood
+ Following oral 264 glucose load, muscle blood flow gradually increases, but again with no differences between 265 We then used the arteriovenous difference method (see methods section) to compare 267 substrate utilisation across the forearm muscle (between arterial blood supplying the muscle 268 and venous blood drained from the muscle), with muscle blood flow taken into consideration 269 (Bickerton et al, )
+ No differences were detected in O2 consumption (Figure 5B) and 270 CO2 production (Figure 5C) between NR and placebo at the fasting state and in response to 271 oral glucose
+ Muscle glucose uptake was increased following oral glucose before gradual 272 decline
+ Similar to blood glucose, no changes were observed in muscle glucose handling 273 with or without NR (Figure C)
+ Oral glucose reduced lactate production from muscle, again 274 without a difference in response between NR and placebo (Figure E)
+ These data are 275 concordant with our observations on systemic readouts of metabolism, and suggest that the 276 genes is undetectable when considered at a functional level
+  278 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Chronic inflammation appears to be a consistent feature of aging, even in apparently healthy 282 individuals (Singh and Newman, 2011), and may contribute to age-related disturbance in 283 metabolic homeostasis (Imai and Yoshino, )
+ We hypothesized that NR 284 supplementation would reduce the levels of circulating inflammatory cytokines
+ We 285 measured multiple inflammatory cytokines (see methods section for details), 10 of which 286 were within the assay detection range (Figure )
+ NR significantly decreased the levels of 287 the interleukins IL-6 (Figure 6A), IL-5 (Figure 6B), and IL-2 (Figure 6C), and tumor necrosis 288 factor-alpha (TNF-a) (Figure 6D) compared to baseline
+ We detected a statistically 289 significant difference in the levels of IL-2 between baseline and placebo (Figure 6C), and 290 lack of a difference in levels of TNF-a between NR and placebo despite a difference 291 between NR and baseline (Figure D)
+ This is seemingly due to NR carry-over effect 292 beyond the washout period, as evident by period effect analysis (Suppl Figure 5A - D), 293 confirming that the cohort randomized to placebo first had no difference in IL-2 between 294 baseline and placebo (Suppl Figure 5C) and there was a difference in TNF-a between NR 295 and placebo (Suppl Figure D)
+ No NR-mediated changes were detected in the serum 296 levels of IL-12 (Figure 6E), IL-8 (Figure 6F), interferon-gamma (IFN-g) (Figure 6G), 297 protein-1 beta (MIP-1B) (Figure 6I), and high-sensitivity C-reactive protein (hsCRP) (Figure 299 J)
+ Thus, it will be interesting to further investigate depressed IL-6, IL-5, IL-2 and TNF-a as 300 biomarkers and/or mediators of oral NR in rodent models and humans
+ 301  content in skeletal muscle and brain does not decline with age 303 humans as previously described in laboratory mice (Gomes et al, 2013; Mouchiroud et al, 305 healthy young and aged individuals
+ We recruited a young cohort (n=16, median age 21 307 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    age 69 years  4, male:female 5:6, mean BMI 23 kg/mdetect significant differences between the age groups (Figure A)
+ It was not possible to 311 muscle due to reduced magnetic homogeneity, resulting in reduced spectral quality 313 (n=12, mean age 21 4, male:female 4:8, mean BMI 
+9 kg/m(n=11, mean age 69 years  4, male:female 4:7, mean BMI 23 kg/mno significant differences between the two groups in the concentrations of NAD2015), although between age-group comparisons were not formally tested in that study  320 presumably due to small sample sizes (n=7, 4, 6 for young, middle-aged and older groups, 321 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;     precursor NR has been studied extensively in animal and cell models
+ Its 327 application in vivo has produced impressive results ameliorating metabolic dysfunction and 328 muscle decline (Fang et al, )
+ No data exist on whether oral NR is available to human 329 consequences of NR supplementation in aged humans
+ We conducted two human clinical 331 Using a robust clinical trial design, we show that 21-days of NR supplementation is safe and 333 well tolerated in an aged male cohort and leads to an enhanced NADblood, corroborating data recently reported by others (Martens et al 2018; Trammell et al 335 prevalent in aged populations (Winter et al, 2014), and may not indicate unhealthy state 337 Experiments in genetic mouse models have shown that oral NR is available to cardiac 339 (Diguet et al, 2018) and skeletal (Frederick et al, 2016) muscle, though it was also 340 NAM (Liu et al, )
+ Here we show that oral NR increased human skeletal muscle NAAD, 342 which was previously reported as a more sensitive marker of increased NADper se (S
+ A
+ Trammell et al, 2016), as well as MeNAM, Me-4-py, and Me-2-344 pywithout a rise in circulating NAM
+ Previous preclinical studies have established that oral 345 2016; Diguet et al, )
+ Although it is clear in rodent models that NR requires NR kinase 347 actvity in muscle (Ratajczak et al, 2016; Fletcher et al, 2017), further stuides are required to 348 undersand NR dynamics in human muscle cells and tissues
+ Increased circulating levels of 349 have been associated with insulin resistance and type 2 diabetes (Kannt et al, 2015; Liu et 351 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    al, )
+ However, the NR-mediated abundance of Me-NAM did not alter glucose tolerance 352 The levels of elevated NAM excretory products in skeletal muscle may be a result of pre-354  sufficiency in this aged cohort and may explain the lack of effect on 355 between young and aged cohorts
+ A limited number of studies have reported minor age-358  in human tissues (Massudi et al, 2012; Chaleckis et al, 2016; 359 Zhou et al, 2016; Clement et al, )
+ It is likely that a second-hit arises during 360 disease and frailty
+ This second-hit may be conditions of metabolic stresses such as 362 physical inactivity, chronic inflammation, or presence of a pre-existing cardiometabolic 363 disease (e
+ g
+ obesity), and may implicate downregulated NAMPT (Costford et al, 2010; Imai 364 and Yoshino, 2013), depressed hepatic NADP(H) (Trammell et al 2016), and/or activation of 365  We note median hand-grip strength in our participants of 
+8 kg of force, consistent with 367 function
+ Our data suggest that 3 weeks of NR supplementation without concomitant muscle 369 NAD+ supplementation studies in rodents showed positive effects on muscle structural 371 proteins (Frederick et al, 2016; Ryu et al, 2016; Zhang et al, )
+ It has been suggested 372 integrin receptors that augment integrin and laminin binding and mobilizes paxillin to bind 374 adhesion complexes (Goody et al, 2010; Goody and Henry, )
+ Differential gene 375 expression analysis may support this link and may highlight a potential role for NADsignature appear to have no functional consequences at protein level after the 21-day 378 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    supplementation period
+ This observation may be important as we consider defective 379 integrin and laminin structures such as in the context of muscular dystrophies (Mayer, 2003; 380 McNally, )
+ Our data suggest downregulation of gene sets associated with glycolysis 381 and mitochondrial function, yet our measures of mitochondrial respiration, citrate synthase 382 activity, and mitochondrial copy number were unaltered
+ Again, expression levels of 383 glycolysis and mitochondrial protein were unchanged with NR in this study
+ The 384 associated with calorie restriction (Hagopian, Ramsey and Weindruch, 2003; Ingram and 386 Roth, 2011; Lin et al, 2015) or increased mitochondrial quality control as has been observed 387 in blood stem cells (Vannini et al, 2019), or suggest that NR can tune the expression of 388 energy metabolism pathways to permit a more efficient and potentially stress resilient 389 Some preclinical studies have reported that NR reduced macrophage infiltration in damaged 391 muscle (Ryu et al, 2016; Zhang et al, 2016) and attenuated plasma TNF-alpha in models of 392 fatty liver disease (Gariani et al, )
+ For the first time in humans, we show significant 393 suppression of a number of circulating inflammatory cytokines
+ Of note, expression of the 394 -consuming enzyme CD38 increases in inflammatory cells with inflammation (Amici et 395 al, 2018), as well as in the blood of aged humans (Polzonetti et al, )
+ Supplementing 396  in this context may be a mechanism mediating the NR-induced anti-inflammatory 397 effects
+ Though chronic inflammation is a hallmark feature of aging (Singh and Newman, 398 2011), use of NR may yet find utility in other chronic inflammatory disorders such as chronic 399 obstructive pulmonary disease or rheumatoid arthritis and is worthy of further investigation
+ 400 We report that oral NR augments the aged human skeletal muscle NADinducing a novel transcriptional signature without affecting mitochondrial function or systemic 404 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;     sufficiency, despite hand-grip strength consistent with muscle aging, and this was 406 healthy aged cohort was not different from a young cohort
+ Our data may suggest that 408 chronological age per se is not a major factor in altering muscle and brain NADunlike aged, laboratory mice
+ A possible limitation of the trial may be the number of 410 participants or the duration of NR administration
+ However, the sample size was sufficient to 411 sets argues against the lack of bioenergetic NR effect being due to the sample size
+  414 Overall these studies support that oral NR is available to human skeletal muscle, and reveal 415 novel anti-inflammatory NR properties, both of which may be beneficial in the context of 416 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Y
+ S
+E and G
+ G
+L conceived the trial Y
+ S
+E, K
+ N
+M, A
+P and G
+ G
+L designed the trial Y
+ S
+E 420 conducted the clinical trial Y
+ S
+E, K
+K, D
+ A
+T, and A
+G conducted and supported the high-421 analyses
+ C
+ L
+D, D
+ M
+C, L
+O, AS, and YL contributed to molecular analysis
+ G
+W contributed 423 helpful discussions and supported blood analyses
+ R
+ S
+F, M
+ S
+S, and C
+ B
+ undertook 424 analyzed the data
+ Y
+ S
+E and P
+N conducted statistical analyses
+ Y
+ S
+E, C
+B, and G
+ G
+L 427 took the leading role in writing the manuscript and creating the figures
+ All authors 428 contributed to the editing and proofreading of the final draft
+ 429 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    C
+ B
+ owns stock in ChromaDex and serves as a consultant to ChromaDex and Cytokinetics
+ 434 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    This work was supported by an MRC PhD studentship (YSE), Medical Research Council 438 (MRC) Confidence in Concept (CiC) award (AP and GGL, CiC4/21), Wellcome Trust Senior 439 Fellowship (GGL, 104612/Z/14/Z), Marie Sklodowska-Curie grant (AG, No 705869), and the 440 Roy J
+ Carver Trust and National Institutes of Health (CB, RHL)
+ We thank 441 ChromaDex (Irvine, California) for providing nicotinamide riboside and placebo capsules
+ We 442 also thank all staff at the NIHR/Wellcome Trust Clinical Research Facility - Queen Elizabeth 443 Tomlinson, Dr Zaki Hassan-Smith, and Dr Keira Markey for their helpful discussions, Dr 445 Alpesh Thakker for his input into high-resolution respirometry, and Professor Janet Lord for 446 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Airhart, S
+ E
+ et al (2017) An open-label, non-randomized study of the pharmacokinetics of 450 the nutritional supplement nicotinamide riboside (NR) and its effects on blood NAD+ levels in 451 Akerman, I
+ et al (2017) Human Pancreatic  Cell lncRNAs Control Cell-Specific Regulatory 453 Amici, S
+ A
+ et al (2018) CD38 Is Robustly Induced in Human Macrophages and Monocytes 455 Bergstrom, J
+ (1975) Percutaneous Needle Biopsy of Skeletal Muscle in Physiological and 457 Clinical Research , Scandinavian Journal of Clinical & Laboratory Investigation, 35(7), pp
+ 458 Bickerton, A
+ S
+ T
+ et al (2007) Preferential uptake of dietary fatty acids in adipose tissue 460 and muscle in the postprandial period, Diabetes, 56(1), pp
+ 
+ 461 Bieganowski, P
+ and Brenner, C
+ (2004) Discoveries of nicotinamide riboside as a nutrient 462 and conserved NRK genes establish a preiss-handler independent route to NAD+ in fungi 463 Bogan, K
+ L
+ and Brenner, C
+ (2008) Nicotinic acid, nicotinamide, and nicotinamide riboside: 465 a molecular evaluation of NAD+ precursor vitamins in human nutrition
+, Annual review of 466 Brown, K
+ D
+ et al (2014) Activation of SIRT3 by the NAD+ precursor nicotinamide riboside 468 protects from noise-induced hearing loss, Cell Metabolism, 20(6), pp
+ 
+ 469 Camacho-Pereira, J
+ et al (2016) CD38 Dictates Age-Related NAD Decline and 470 Cant, C
+ et al (2012) The NAD+ precursor nicotinamide riboside enhances oxidative 473 metabolism and protects against high-fat diet-induced obesity, Cell Metabolism, 15(6), pp
+ 474 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Chaleckis, R
+ et al (2016) Individual variability in human blood metabolites identifies age-476 related differences, Proceedings of the National Academy of Sciences, 113(16), pp
+ 4252477 Clement, J
+ et al (2018) The Plasma NAD+ Metabolome is Dysregulated in normal 479 Costford, S
+ R
+ et al (2010) Skeletal muscle NAMPT is induced by exercise in humans, 481 Covarrubias, A
+ J
+ et al (2019) Aging-related inflammation driven by cellular senescence 483 enhances NAD consumption via activation of CD38 + macrophages, 
+ doi: 484 Cruz-Jentoft, A
+ J
+ et al (2010) Sarcopenia: European consensus on definition and 486 diagnosis: Report of the European Working Group on Sarcopenia in Older People, Age and 487 Das, A
+ et al (2018) Impairment of an Endothelial NAD+-H2S Signaling Network Is a 489 Diguet, N
+ et al (2018) Nicotinamide Riboside Preserves Cardiac Function in a Mouse 491 Dodds, R
+ M
+ et al (2014) Grip Strength across the Life Course: Normative Data from 493 Dollerup, O
+ L
+ et al (2018) A randomized placebo-controlled clinical trial of nicotinamide 495 riboside in obese men: safety, insulin-sensitivity, and lipid-mobilizing effects, The American 496 Elhassan, Y
+ S
+, Philp, A
+ A
+ and Lavery, G
+ G
+ (2017) Targeting NAD+ in Metabolic 498 Disease: New Insights Into an Old Molecule, Journal of the Endocrine Society, 1(7), pp
+ 499 Fang, E
+ F
+ et al (2017) NAD + in Aging: Molecular Mechanisms and Translational 501 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Fletcher, R
+ S
+ et al (2017) Nicotinamide riboside kinases display redundancy in mediating 503 nicotinamide mononucleotide and nicotinamide riboside metabolism in skeletal muscle cells, 504 Frederick, D
+ W
+ et al (2016) Loss of NAD Homeostasis Leads to Progressive and 506 Reversible Degeneration of Skeletal Muscle, Cell Metabolism, 24(2), pp
+ 
+ 507 Gariani, K
+ et al (2016) Eliciting the mitochondrial unfolded protein response by 508 nicotinamide adenine dinucleotide repletion reverses fatty liver disease in mice, Hepatology, 509 Gomes, A
+ P
+ et al (2013) Declining NAD+ induces a pseudohypoxic state disrupting 511 Goody, M
+ F
+ et al (2010) Nrk2b-mediated NAD+ production regulates cell adhesion and is 513 required for muscle morphogenesis in vivo
+ Nrk2b and NAD+ in muscle morphogenesis, 514 Goody, M
+ F
+ and Henry, C
+ A
+ (2018) A need for NAD+ in muscle development, 516 Greenfield, A
+ D
+ M
+, Whitney, R
+ J
+ and Mowbray, J
+ F
+ (1963) Methods for the investigation 518 of peripheral blood flow, Brit Med Bull, 19(2), pp
+ 
+ 519 Hagopian, K
+, Ramsey, J
+ J
+ and Weindruch, R
+ (2003) Influence of age and caloric 520 restriction on liver glycolytic enzyme activities and metabolite concentrations in mice, 521 Horscroft, J
+ A
+ et al (2015) Altered Oxygen Utilisation in Rat Left Ventricle and Soleus after 523 14 Days, but Not 2 Days, of Environmental Hypoxia, PLOS ONE, 10(9), p
+ e
+ 524 Huang, D
+ W
+, Sherman, B
+ T
+ and Lempicki, R
+ A
+ (2009) Bioinformatics enrichment tools: 525 paths toward the comprehensive functional analysis of large gene lists, Nucleic Acids 526 Huang, D
+ W
+, Sherman, B
+ T
+ and Lempicki, R
+ A
+ (2009) Systematic and integrative 528 analysis of large gene lists using DAVID bioinformatics resources, Nature Protocols, 4(1), 529 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Imai, S
+ and Yoshino, J
+ (2013) The importance of NAMPT/NAD/SIRT1 in the systemic 531 regulation of metabolism and ageing, Diabetes, Obesity and Metabolism, 15(S3), pp
+ 
+ 532 Ingram, D
+ K
+ and Roth, G
+ S
+ (2011) Glycolytic inhibition as a strategy for developing calorie 533 Kannt, A
+ et al (2015) Association of nicotinamide-N-methyltransferase mRNA expression 535 in human adipose tissue and the plasma concentration of its product, 1-methylnicotinamide, 536 Kim, T
+ N
+ and Choi, K
+ M
+ (2013) Sarcopenia: definition, epidemiology, and 538 Larsen, S
+ et al (2012) Biomarkers of mitochondrial content in skeletal muscle of healthy 540 young human subjects, The Journal of Physiology, 590(14), pp
+ 
+ 541 Lauretani, F
+ et al (2003) Age-associated changes in skeletal muscles and their effect on 542 mobility: an operational diagnosis of sarcopenia, Journal of Applied Physiology, 95(5), pp
+ 543 Lin, A
+ L
+ et al (2015) Caloric restriction increases ketone bodies metabolism and preserves 545 blood flow in aging brain, Neurobiology of Aging
+ Elsevier Inc, 36(7), pp
+ 
+ 546 Liu, L
+ et al (2018) Quantitative Analysis of NAD Synthesis-Breakdown Fluxes, Cell 547 Liu, M
+ et al (2015) Serum N 1 -Methylnicotinamide Is Associated With Obesity and 549 Diabetes in Chinese, The Journal of Clinical Endocrinology & Metabolism, 100(8), pp
+ 3112550 Lu, M
+ et al (2014) Intracellular redox state revealed by in vivo 31 P MRS measurement of 552 NAD + and NADH contents in brains, Magnetic Resonance in Medicine, 71(6), pp
+ 1959553 Martens, C
+ R
+ et al (2018) Chronic nicotinamide riboside supplementation is well-tolerated 555 and elevates NAD+ in healthy middle-aged and older adults, Nature Communications, 9(1), 556 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Massudi, H
+ et al (2012) Age-associated changes in oxidative stress and NAD+ metabolism 558 Mayer, U
+ (2003) Integrins: redundant or important players in skeletal muscle?, The Journal 560 McNally, E
+ (2012) Novel Targets and Approaches to Treating Skeletal Muscle Disease, in 562 Mills, K
+ F
+ et al (2016) Long-Term Administration of Nicotinamide Mononucleotide 564 Mitigates Age-Associated Physiological Decline in Mice, Cell Metabolism
+ Elsevier Inc
+, 565 Mootha, V
+ K
+ et al (2003) PGC-1-responsive genes involved in oxidative phosphorylation 567 are coordinately downregulated in human diabetes, Nature Genetics, 34(3), pp
+ 
+ 568 Mouchiroud, L
+ et al (2013) The NAD(+)/Sirtuin Pathway Modulates Longevity through 569 Activation of Mitochondrial UPR and FOXO Signaling, Cell, 154(2), pp
+ 
+ 570 Pesta, D
+ and Gnaiger, E
+ (2012) High-Resolution Respirometry: OXPHOS Protocols for 571 Human Cells and Permeabilized Fibers from Small Biopsies of Human Muscle, in Methods 572 Phielix, E
+ et al (2008) Lower intrinsic ADP stimulated mitochondrial respirationin underlies 574 in vivo mitochondrial dysfunction in muscle of male type 2 diabetic patients, Diabetes, 575 Polzonetti, V
+ et al (2012) Population variability in CD38 activity: Correlation with age and 577 significant effect of TNF--308G > A and CD38 184C > G SNPs, Molecular Genetics and 578 Porter Starr, K
+ N
+ and Bales, C
+ W
+ (2015) Excessive Body Weight in Older Adults, Clinics 580 Ratajczak, J
+ et al (2016) NRK1 controls nicotinamide mononucleotide and nicotinamide 582 riboside metabolism in mammalian cells, Nature Communications, 7, p
+ 
+ 583 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Ryu, D
+ et al (2016) NAD+ repletion improves muscle function in muscular dystrophy and 584 Singh, T
+ and Newman, A
+ B
+ (2011) Inflammatory markers in population studies of aging, 586 Sousa, A
+ S
+ et al (2016) Financial impact of sarcopenia on hospitalization costs
+, 588 Subramanian, A
+ et al (2005) Gene set enrichment analysis: A knowledge-based approach 590 for interpreting genome-wide expression profiles, Proceedings of the National Academy of 591 Trammell, S
+ A
+ et al (2016) Nicotinamide riboside is uniquely and orally bioavailable in 593 Trammell, S
+ A
+ and Brenner, C
+ (2013) TARGETED, LCMS-BASED METABOLOMICS 595 Trammell, S
+ A
+ J
+ et al (2016) Nicotinamide Riboside Opposes Type 2 Diabetes and 598 Neuropathy in Mice, Scientific Reports
+ Nature Publishing Group, 6(May), p
+ 
+ 599 Vannini, N
+ et al (2019) The NAD-Booster Nicotinamide Riboside Potently Stimulates 600 Hematopoiesis through Increased Mitochondrial Clearance, Cell Stem Cell, 24(3), p
+ 405601 Vaur, P
+ et al (2017) Nicotinamide riboside, a form of Vitamin B3, protects against 603 van de Weijer, T
+ et al (2015) Evidence for a direct effect of the NAD+ precursor acipimox 605 on muscle mitochondrial function in humans, Diabetes, 64(4), pp
+ 
+ 606 Winter, J
+ E
+ et al (2014) BMI and all-cause mortality in older adults: a meta-analysis, The 607 Wythe, S
+ et al (2015) Getting the most from venous occlusion plethysmography: Proposed 609 methods for the analysis of data with a rest/exercise protocol, Extreme Physiology and 610 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Yoshino, J
+, Baur, J
+ A
+ and Imai, S
+ ichiro (2017) NAD+Intermediates: The Biology and 612 Therapeutic Potential of NMN and NR, Cell Metabolism, 27(3), pp
+ 
+ 613 Zhang, H
+ et al (2016) NAD+ repletion improves mitochondrial and stem cell function and 614 Zhou, C
+ -C
+ et al (2016) Hepatic NAD + deficiency as a therapeutic target for non-alcoholic 616 fatty liver disease in ageing, British Journal of Pharmacology, 173(15), pp
+ 
+ 617 Zhu, X
+ -H
+ et al (2015) In vivo NAD assay reveals the intracellular NAD contents and redox 618 state in healthy human brain and their age dependences
+, Proceedings of the National 619 Academy of Sciences of the United States of America, 112(9), pp
+ 
+ 620 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Schematic representation of nicotinamide riboside (NR) metabolism within the nicotinamide 626 measured using LC-MS/MS in skeletal muscle, whole blood, and urine, at baseline and after 628 period are shown In Suppl Table 
+ Skeletal muscle data were normalized to the weight of 630 muscle pellet used for extraction
+ Urine data were normalized to urinary creatinine
+ BLQ, 631 below limit of quantification; NMN, nicotinamide mononucleotide; NAAD, nicotinic acid 632 shown in Suppl
+ Figure 
+ Data are obtained from 12 participants at each phase and 635 presented as mean  SEM
+ Significance was set at p < 
+05 using paired t-test, and 636 represents difference between NR and placebo and between NR and baseline
+ The absence 637 Figure 
+ NR supplementation induces a transcriptional signature in human skeletal 640 (A) Differential gene expression analysis on baseline and nicotinamide riboside (NR) treated 642 muscle samples (n=12 at each phase)
+ Volcano plot of differential gene expression between 643 baseline and NR treated human muscle samples
+ Fold change (Log2, x-axis) of gene 644 expression is plotted against p value for differential gene expression (-Log10, y-axis)
+ 645 Coloured dots represent Ensembl genes that are either upregulated (in orange) or 646 downregulated (in blue) upon NR supplementation at a p value < 
+ 
+  647 (B) and (C) Gene ontology analysis of significantly dysregulated genes upon NR 648 supplementation where (B) is downregulated genes and (C) is upregulated genes
+ Gene 649 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    ontology analysis was performed using GSEA
+ Bars represent the p value (-Log10) of 650 (D) Gene set enrichment analysis (GSEA) suggests that genes belonging to the gene set 652 and nominal p-value is presented on the top left corner of the graph
+  655 (E) As in (D) for genes involved in the TCA cycle 656 (F) As in (D) for genes involved in the gene set mitochondria  657 (G) Quantitative PCR analysis of a select panel of downregulated genes identified through 658 differential gene expression analysis
+ GAPDH was used as housekeeping gene
+ Error bars 659 (I) Quantification of phosphoglycerate kinase 1 (PGK1), phosphoglucomutase 1 (PGM1), 662 and pyruvate kinase M1 (PKM1) proteins using immunoblotting assay
+ Tubulin was used as 663 Data are obtained from 12 participants at each phase and wherever relevant are presented 665 as mean  SEM
+ Significance was set at p < 
+ 
+ The absence of significance symbols 666 Figure 
+ Human skeletal muscle mitochondrial bioenergetics remain unaltered with 669 (A) Mitochondrial respiration of permeabilized muscle fibres upon the addition of Complex I 671 and Complex II substrates at baseline and after 3 weeks supplementation of NR and 672 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    placebo
+ MG, malate and glutamate; D, ADP; S, succinate; c, cytochrome C; F, FCCP; Rot, 673 (B) Mitochondrial respiration as per (A) but with the prior addition of the fatty acid conjugate 675 (C) Citrate synthase (CS) activity in human skeletal muscle at baseline and after NR and 677 (D) Relative PCR expression of mitochondrial DNA (mtDNA) to nuclear DNA (nDNA) at 679 baseline and after NR and placebo, expressed as arbitrary units
+ 680 (E) Western blot showing the expression of selected mitochondrial proteins in skeletal 681 (F) Western blot showing the expression of acetylation proteins in skeletal muscle lysates 683 Data are obtained from 12 participants at each phase and wherever relevant are presented 685 as mean  SEM
+ Significance was set at p < 
+ 
+ The absence of significance symbols 686 Figure 
+ Systemic readouts of metabolism are unaltered with NR supplementation
+ 689 (A) HOMA-IR at baseline and after nicotinamide riboside (NR) and placebo
+ 690 (B) Fasting non-esterified fatty acid (NEFA) level at baseline and after NR and placebo
+ 691 (C) Plasma glucose response in a glucose tolerance test at baseline and after NR and 692 placebo
+ The green dotted line represents when 75g oral glucose load was taken
+ 693 (D) Plasma NEFA response in a glucose tolerance test at baseline and after NR and 694 placebo
+ The green dotted line represents when 75g oral glucose load was taken
+ 695 (E) Respiratory exchange ratio (RER) at baseline and after NR and placebo
+ The green 696 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Data are obtained from 12 participants at each phase and presented as mean  SEM
+ 698 Significance was set at p < 
+ 
+ The absence of significance symbols indicates lack of 699 Figure 
+ Forearm muscle blood flow and substrate utilisation are unaffected by NR 702 (A) Muscle blood flow using venous occlusive plethysmography at baseline and after the 704 nicotinamide riboside (NR) and placebo phases
+ The green dotted line represents when 75g 705 (B) Muscle O2 consumption and (C) CO2 production at baseline and after NR and placebo
+ 707 The green dotted line represents when 75g oral glucose load was taken
+ 708 (D) Muscle glucose uptake and (E) Lactate release at baseline and after NR and placebo
+ 709 The green dotted line represents when 75g oral glucose load was taken
+ 710 Data are obtained from 12 participants at each phase and presented as mean  SEM
+ 711 Significance was set at p < 
+05 using paired t-test
+ The absence of significance symbols 712 Figure 
+ NR supplementation suppresses the circulating levels of inflammatory 715  Levels of serum inflammatory cytokines at baseline and after each of the nicotinamide 717 riboside (NR) and placebo phases, including:  (A) interleukin 6 (IL-6), (B) interleukin 5 (IL-5), 718 (C) interleukin 2 (IL-2), (D) tumor necrosis factor-alpha (TNF-a), (E) interleukin 12 (IL-12), (F) 719 interleukin 8 (IL-8), (G) interferon-gamma (IFN-g), (H) monocyte chemoattractant protein-1 720 (MCP-1), (I) macrophage inflammatory protein-1 beta (MIP-1B), and (J) high-sensitivity C-721 reactive protein (hsCRP)
+ Data are obtained from 12 participants at each phase and 722 presented as mean  SEM
+ Significance was set at p < 
+05 using paired t-test
+ The 723 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    content in skeletal muscle and brain is not different between young 726 ratio, and (F) NAD redox potential comparing young (n=12) and aged (n=11) individuals
+ 731 Data are presented as mean  SEM
+ Significance was set at p < 
+05 using independent t-732 test
+ The absence of significance symbols indicates lack of statistical significance
+ 733 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    NR supplementation study: the study conducted between July 2016 and August 2017 at 738 the National Institute for Health Research/Wellcome Trust Clinical Research Facility at the 739 Queen Elizabeth Hospital Birmingham, UK
+ The Solihull NRES Committee gave ethical 740 approval (REC reference number /WM/)
+ All participants provided written informed 741 P MRS study: the study was conducted between November 2017 and February 2018 at 743 the Birmingham University Imaging Centre, University of Birmingham
+ The study was 744 The studies were undertaken according to the principles of the Declaration of Helsinki and 747 NR supplementation study: aged volunteers were recruited from the Birmingham 1000 751 ageing/elders
+ aspx)
+ All participants fulfilled the inclusion criteria including: male sex, age 70 753  80 years, BMI 20  30 kg/m2, able to discontinue aspirin for 3 days prior to the muscle 754 biopsy, and able to discontinue statins and vitamin D supplements for a week before the 755 study and for the duration of the study
+ Exclusion criteria included: serious active medical 756 conditions including inflammatory diseases or malignancies, significant past medical history 757 disease requiring medication, or epilepsy, blood pressure >160/100mmHg, or treatment with 759 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    P MRS study: young (20 - 35 years; n=16) and aged (60  75 years; n = 11) subjects were 761 recruited through public adverts and a recruitment database held by the School of 762 Psychology, University of Birmingham
+ Inclusion criteria in both age groups were: BMI 20 - 763 , and absence of a history of metabolic, cardiovascular or respiratory disease
+  764 NR supplementation study: single centre, double blind, placebo-controlled, and crossover 767 study
+ Aim was to obtain complete assessments from 12 aged individuals
+ Participants 768 attended for a screening visit (visit 1) when an informed written consent was obtained after 769 ensuring they fulfil all inclusion criteria
+ For all subsequent study visits (2 to 5), the 770 participants attended at 08:00 in a fasting state from the night before
+ Regarding the post-771 interventions visits (3 and 5), the participants took the last NR/placebo dose 14 hours prior to 772 P MRS study: participants were requested to avoid exercise and alcohol 24 hours prior to 774 the visit, and avoid caffeine 12 hours prior to the visit
+ Due to ethical considerations, 775 participants were not required to undergo both the muscle and brain assessments
+ The aim 776 was to recruit a minimum of 10 participants in each group
+  777 NR supplementation study: Participants were allocated to either NR or placebo
+ A 780 randomization list was held by the clinical trials pharmacist at the clinical research facility
+ 781 The study investigators, nurses, and participants were all blinded to the intervention 782 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    NR supplementation study: NR was supplied as 250 mg capsules by the manufacturer 786 (Niagen, ChromaDex, Irvine, CA)
+ Participants received NR 500mg twice daily or matched 787 placebo for 21 days with 21 days washout period between the NR and placebo periods 788 NR supplementation study: assessments undertaken in each study visits are detailed in 792 P MRS study: each of the muscle and brain measurements were undertaken in one day
+  794 Blood pressure (Welch Allyn, USA) was measured at the start of each visit after an overnight 798 fast
+ At the trial visits, participants rested for 15mins in a supine position before blood 799 pressure was measured
+ An appropriately sized cuff was selected to encircle at least 80% of 800 the arm and the same was used every visit for all participants, and on the same arm
+ Blood 801 pressure was measured in triplicates and the mean was recorded
+  802 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Peak absolute strength (kilograms) and relative handgrip strength (kilograms of force per 805 kilogram of body weight) were measured in triplicate bilaterally using a dynamometer (Takei 806 Instruments, Japan)
+ The highest measurement values were included for analysis
+ 807 Resting vastus lateralis muscle biopsies were obtained from 12 men by a single investigator 810 (Y
+ S
+E) using a percutaneous Bergstrom technique as previously described (Bergstrom, 811 1975) under local anaesthesia (1% lignocaine)
+ The biopsy sample (100  150mg) was 812 immediately dried on clean filter paper and approximately 10mg of tissue was cut and placed 813 on ice cold BIOPS buffer for high resolution respirometry (see below)
+ The rest of the muscle 814 tissue was immediately snap frozen in liquid nitrogen and stored at -80C pending analysis
+ 815 Participants were allowed to rest for 60 mins after insertion of the arterial and venous 818 catheters
+ Then they lay supine in a comfortable position while a transparent ventilated 819 canopy was placed over their head
+ Plastic sheet attached to the hood was placed around 820 the subjects to form a seal The room temperature, barometric pressure, and humidity were 821 measured by a hygrometer (Oregon Scientific)
+ During the measurement period, participants 822 oxygen consumption (VO2) and carbon dioxide production (VCO2) and respiratory exchange 824 ratio (VCO2/VO2), using the mixing chamber mode of the metabolic cart (AEI MOXUS II 825 Metabolic System)
+  Measurements were collected at fasting and then every 30 minutes for 2 826 hours following a 75g oral glucose load
+ Measurements for each period lasted 15 mins so 827 the first and last minutes could be discarded, and the mean value for the middle 5 minutes 828 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    An arterial catheter was inserted into a radial artery and a retrograde cannula was inserted 831 into in a deep antecubital vein draining a forearm muscle, on the opposite side of the arterial 832 line
+ To prevent contamination of the muscle venous blood with the mixed blood from the 833 hand, a wrist cuff was inflated to 200mmHg for 3 mins before sampling
+ Blood sampling was 834 undertaken simultaneously from the arterial and venous sites at fasting and every 20mins 835 Forearm muscle blood flow was measured by venous occlusive plethysmography 839 (Hokanson, USA) (Wythe et al, 2015)  as previously described (Greenfield, Whitney and 840 Mowbray, )
+ Blood flow measurements were taken immediately after each blood 841 Muscle tissue was pulverised and approximately 10 mg was used for each of the acid (A) 845 and basic (B) metabolite extraction
+ For each sample, internal standard mixtures for each of 846 A and B were prepared
+ The extraction was undertaken using 
+2 ml of ice-cold LC-MS/MS 847 grade methanol and kept on ice before adding 
+3ml of internal standard made in LC-MS 848 grade water
+ Samples were sonicated in an acetone water bath (at -4 C) for 20 seconds, 849 placed back on ice, and then incubated at 85 C with constant shaking at 1050 rpm for 5 850 minutes
+ Samples were then placed on ice for 5 min and centrifuged (
+1k x g, 10 minutes, 851 4 C)
+ The supernatant was transferred to clean tubes and dried using a speed vacuum
+ The 852 dried extract was re-suspended in 30 l of either LC-MS grade water for acid extract or 10 853 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    mM ammonium acetate for alkaline extract and centrifuged (
+1k x g, 3 minutes, 4 C)
+ The 854 supernatant was carefully transferred to a Waters Polypropylene 
+3 ml plastic screw- top 855 vial The pellet was then dried using a speed vacuum, pellet was weighed, and later used to 856 Otherwise, muscle, blood and urine metabolomics were undertaken as previously described 858 (Trammell and Brenner, 2013; S
+ A
+ Trammell et al, )
+ 859 Blood was drawn from the arterial and venous catheters into heparinised blood tubes
+ 862 Plasma was rapidly separated by centrifugation at 4C and was then snap frozen
+ Plasma 863 glucose, NEFA, and lactate concentrations were measured using commercially available kits 864 on an ILAB 650 Clinical Chemistry Analyser (Werfen Ltd, UK)
+ Insulin was measured using 865 commercially available assay as per the manufacturers instructions (Mercodia, Sweden)
+ 866 Homeostasis model assessment of insulin resistance (HOMA-IR) was calculated using the 867 Lipid profile, urea and electrolytes, and thyroid function tests were all measured on the 869 Roche Modular Platforms (Roche, Switzerland)
+ Full blood count was measured on a 870 Ex vivo mitochondrial function was determined by measuring oxygen consumption 874 consumption reflects the first derivative of the oxygen concentration (nmol/ml) in time in the 876 respiration chambers and is termed oxygen flux [pmol/(s*mg)], corrected for wet weight 877 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    muscle tissue (25 mg) introduced into the chamber
+ Measurements were undertaken 878 according to a previously described protocol (Pesta and Gnaiger, )
+ Similar results were 879 obtained if respiration rates were corrected for mitochondrial DNA (mtDNA) copy number or 880 For citrate synthase activity, 5mg of snap frozen human muscle was used and the 884 measurement was undertaken as previously described  (Horscroft et al, )
+ 885 Mitochondrial DNA (mtDNA) copy number was determined using quantitative real time PCR
+ 886 mtDNA copy number was calculated from the ratio of NADH dehydrogenase subunit 1 (ND1) 887 to lipoprotein lipase (LPL) (mtDNA/nuclear DNA) as previously described (Phielix et al, 888 RNA was extracted from frozen muscle tissue using Tri Reagent (Sigma-Aldrich) following 892 manufacturers instructions
+ RNA-sequencing was performed using libraries prepared with  893 Lexogen Quantseq FWD library preparation kit and essentially analysed as previously 894 described (Akerman et al, )
+ A detailed description is provided in the supplemental 895 Muscle biopsies were homogenised in ice-cold sucrose lysis buffer (50 mM Tris/HCl (pH 899 Benazmidine, 1 mM EDTA, 1 mM EGTA, 1% Triton X-100, 1 mM Na3VO4, 50 mM NaF, 901 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    of protein extract) were loaded into 4-15% Tris/Glycine precast gels (BioRad) prior to 903 electrophoresis
+ Proteins were transferred onto PVDF membranes (Millipore) for 1h at V
+ 904 A 5% skimmed milk solution made up with Tris-buffered saline Tween-20 (TBS-T, 
+137M 905 NaCl, 
+02M Tris-base 
+5pH, 
+1% Tween-20) was used to block each membrane for 1h 906 before being incubated overnight at 4C with appropriate primary antibodies
+ Membranes 907 were washed in TBS-T three times prior to incubation in horse radish peroxidase-conjugated 908 secondary antibody at room temperature for h
+ Membranes were then washed in TBS-T 909 substrate detection kit (Millipore)
+ Images were undertaken using a G:Box Chemi-XR5 911 We performed a multiplex cytokine bead assay using the Bio-Plex Pro Human Cytkine 17-915 plex panel analyzed with a flow-cytometry based Luminex 200 reader
+ The levels of IL-1b, 916 IL-2, IL-4, IL-5, IL-6, IL-7, IL-8, IL-10, IL-12, IL-13, IL-17, G-CSF, GM-CSF, IFN-g, MCP-1, 917 MIP-1b, and TNF-a were measured on the participants sera as per the manufacturers 918 instructions
+ Only IL-2, IL-5, IL-6, IL-8, IL-12, IFN-g, TNF-a, MCP-1, and MIP-1b were within 919 detection range
+ High sensitive CRP was measured using CRPHS: ACN 217 on COBAS 920 6000 analyser (Roche, USA)
+ All measurements were undertaken in duplicates
+ 921 P MRS was performed on a 3T Philips Achieva MRI system with the Philips P-140 924 surface coil
+ Localisation was based on the sensitivity profile of the coil and spectral data 925 was acquired over 2048 complex points at a sampling frequency of 3000Hz with 926 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    calf measurements 256 averages were collected
+ For brain measurements, the coil was 928 positioned in the region of occipital lobe and 768 averages were collected
+ An in-house pre-929 processing and spectral fitting pipeline was used for analysis
+ Metabolite simulation and 930 least-squares fitting steps were implemented as described previously (Lu et al, 2014) and 931 metabolite concentrations were calculated by normalising to an assumed -ATP 932 Measurement repeatability was tested by scanning the same subject three times with 934 identical positioning and sequence parameters
+ Subsequently the subject was removed and 935 repositioned and a fourth measurement made
+ Coefficients of variation of 3% and 9% were 936 Sample size for this experimental medicine study was decided upon based on previous 940 experience from studies using the same methodological design, whereby the proposed 941 sample size was sufficient to detect significant differences at the 5% level
+ The analysis was 942 based on data from all participants who were randomized, and completed all the study visits 943 and assessments
+ Outcome data were reported as mean  SEM (or median and quartiles 944 where appropriate)
+ In the NR supplementation study, comparisons of participants between 945 placebo and NR supplementation phases were undertaken using paired t-tests
+ In addition, 946 further data analysis taking into account the period effect was undertaken, by grouping the 947 participants into those who were randomised to NR first and second
+ This is to look for 948 carryover effect across all analyses
+ Wherever relevant, area under the curve was calculated 949 using an independent sample t-test
+ Data were analyzed using IBM SPSS Statistics version 951 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    0     10     20    30     40 0     10     20    30     40 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Suppl
+ Table 
+ Cardiometabolic parameters at baseline and after nicotinamide riboside Weight (kg) 
+6 (
+5, 
+1) 83 (
+3, 
+9) 
+6 (
+0, 
+6) not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Suppl
+ Table 
+ Safety parameters at baseline and after nicotinamide riboside (NR) and Haemoglobin (g/L) 139 (129, 145) 133 (128, 139) 136 (131, 149) Sodium (mmol/l) 140 (139, 143) 
+5 (137, 142) 141 (137, 142) Potassium (mmol/l) 
+2 (
+0, 
+3) 
+3 (
+1, 
+4) 
+2 (
+1, 
+5) Urea (mmol/L) 
+0 (
+2, 
+5) 
+6 (
+0, 
+8) 
+1 (
+4, 
+0) Creatinine (mol/L) 74 (64, 78) 71 (67, 85) 74 (67, 79) Calcium (mmol/L) 
+3 (
+2, 
+4) 
+3 (
+2, 
+4) 
+3 (
+2, 
+3) Albumin (g/L) 43 (42, 44) 42 (40, 42) 42 (39, 43) Total protein (g/L) 65 (63, 70) 65 (63, 67) 65 (62, 67) Bilirubin (umol/L) 7 (6, 10) 8 (6, 10) 8 (6, 9) ALT (u/L) 17 (14, 17) 14 (12, 15) 16 (13, 19) TSH (mIU/L) 
+7 (
+0, 
+7) 
+8 (
+3, 
+8) 
+6 (
+1, 
+5) not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Free T4 (pmol/L) 
+0 (
+1, 
+1) 
+7 (
+4, 
+4) 
+8 (
+1, 
+5) not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Suppl
+ Table 3 (EXCEL file)
+  NAD+ metabolomics data in skeletal muscle, blood and urine after each of the baseline, nicotinamide riboside (NR), placebo, and washout phases
+ Suppl
+ Table 4 (EXCEL file)
+ List of genes up- and downregulated in skeletal muscle Suppl
+ Table 5 (EXCEL file)
+ List of genes in Gene Ontology terms related to processes up-not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Outline of the measures undertaken in each of the 5 study visits and the time interval between visits
+ * Body weight and height, systemic examination, and resting electrocardiogram
+ ** Full blood count, and renal, liver, and thyroid functions
+ not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    (C) urine, which were not shown in Figure 
+  NADP, nicotinamide adenine dinucleotide monophosphate
+ Data are obtained from 12 participants at each phase and presented as mean  SEM
+ Significance was set at p < 
+05 using paired t-test
+ The absence of not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    (A) Bar plots show GSEA p-value of significance (-Log10) for enrichment of genes belonging to the pathways gylcolysis, TCA cycle and mitochondria for downregulated targets of NR supplementation (in red)
+ The same analysis on 10 gene sets of equal size and expression level do not reveal enrichment amongst downregulated targets of NR (in grey)
+ (B)  Gene set enrichment analysis (GSEA) suggests that genes belonging to the gene sets Actin filament process, Cell motility, and Biological cell adhesion are upregulated upon NR supplementation
+ Normalized enrichment score (NES) and nominal p-value is presented (C) Bar plots show GSEA p-value of significance (-Log10) for enrichment of genes belonging to the pathways Actin filament process, Cell motility, and Biological cell adhesion for upregulated targets of NR supplementation (in red)
+ The same analysis on 10 gene sets of equal size and expression level do not reveal enrichment amongst upregulated targets of NR (D) Quantitative PCR analysis of a select panel of upregulated genes identified through differential gene expression analysis
+ GAPDH was used as housekeeping gene
+  Error bars (E) Quantification of Annexin A1 (ANXA1) protein using immunoblotting assay
+ Tubulin was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    (A) Peak hand-grip strength at baseline and after each of the nicotinamide riboside (NR) and placebo phases
+ (B) Similar to (A) but data presented relative to body weight
+ Data are obtained from 12 participants at each phase and presented as mean  SEM
+ Significance was set at p < 
+05 using paired t-test
+ The absence of significance symbols indicates lack of not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Levels of serum inflammatory cytokines at baseline and after each of the nicotinamide riboside (NR) and placebo phases, including:  (A) interleukin 6 (IL-6), (B) interleukin 5 (IL-5), (C) interleukin 2 (IL-2), and (D) tumor necrosis factor-alpha (TNF-a)
+ Here period effect analysis is shown and each panel is produced from only the 6 subjects that were randomized to placebo first as a demonstration of the NR carryover effect, evident in the cases IL-2 (C) and TNF-a (D)
+ Data are presented as mean  SEM
+ Significance was set at not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    RNA was extracted from frozen muscle tissue using Tri Reagent (Sigma-Aldrich) following manufacturer's instructions
+ Sequencing libraries were prepared using RNA (RIN >7) with the Lexogen Quantseq3 FWD kit
+ Libraries were sequenced using HiSeq2000 across 4 flowcells generating 75bp long single ended reads (average read depth of 6-10M/sample, which is higher than the 4M reads / sample required for analysis for this type of library)
+ All samples were prepared and sequenced as a single pool
+ Trimmomatic software (v
+32) and bbduk
+sh script (Bbmap suite) were used to trim the ILLUMINA adapters, polyA tails and low quality bases from reads
+ Trimmed reads were then uniquely aligned to the human genome (hg38) using STAR with default settings (v
+ 
+2b) and the Gencode (v28, Ensembl release 92) annotation as the reference for splice junctions
+ Mapped reads were quantified using HT-expression was obtained using DEseq2 with paired baseline and treatment samples
+  In this analysis we did not use a cutoff to remove lowly expressed genes
+ Inclusion of lowly expressed genes (at arbitrary cut-offs) had little bearing on our results (
+8% of differentially expressed genes at p < 
+05 were identical between no cutoff, and a cut-off of > )
+ Of note, volcano plot was drawn with a cut-off (>3) in order to visualise the typical V shape using R
+ Differentially expressed genes between baseline (control) and NR treated samples at p-value = <
+05 were annotated using Biological processes (BP) gene sets with DAVID tool (Huang, Brad T Sherman, and Lempicki 2009; Huang, Brad T
+ Sherman, and Lempicki )
+ We obtained similar results using gene annotation tool within Gene Set Enrichment Analysis (GSEA) suite (Liberzon et al 2015; Subramanian et al 2005)  for gene sets from In addition, we have used GSEA analysis tool to interrogate specific gene sets against our pre-ranked expression data (Control vs NR treatment)
+ GSEA calculates an Enrichment not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    Score (ES) by scanning a ranked-ordered list of genes (according to significance of differential expression (-log10 p-value), increasing a running-sum statistic when a gene is in the gene set and decreasing it when it is not
+ The top of this list (red) contains genes upregulated upon NR+ treatment while the bottom of the list (blue) represents downregulated genes
+ Each time a gene from the interrogated gene set (i
+ e
+ Glycolysis, mitochondria, TCA cycle) is found along the list, a vertical black bar is plotted (hit)
+ If the hits accumulate at the bottom of the list, then this gene set is enriched in upregulated genes (and vice versa)
+ If interrogated genes are distributed homogenously across the rank ordered list of genes, then that gene set is not enriched in any of the gene expression profiles (i
+ e
+ control gene sets of similar expression levels to interrogated gene sets)
+ GSEA was used in pre-ranked mode with parameters -norm meandiv -nperm 1000 -scoring_scheme weighted
+ 10 gene sets of equal size and similar expression levels to the interrogated gene sets were generated using a custom pipeline in R (available upon request)
+ We have interrogated the following gene sets: GO0048870; cell motility, GO0007155 cell adhesion with similar results), M15112: Wong Mitochondria gene module, M3985: KEGG citrate cycle TCA cycle, merge of M15109: BIOCARTA Glycolysis pathway not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted June 28, 
+ ;    

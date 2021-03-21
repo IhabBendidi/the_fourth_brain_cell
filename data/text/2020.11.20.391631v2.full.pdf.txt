@@ -1,0 +1,479 @@
+Brian ORourke1*, Sunny Nguyen1*, Arno W
+ Tilles1, James A
+ Bynum2 , Andrew P Cap2, Biju 5 2 Blood and Coagulation Research Program, U
+ S
+ Army Institute of Surgical Research, Fort Sam 9 3 Department of Surgery, Center for Surgery, Innovation, and Bioengineering, Massachusetts 11 General Hospital, Harvard Medical School and Shriners Hospitals for Children, Boston, 12 5 Department of Biomedical Engineering, Rutgers University, Piscataway, New Jersey 08854, 15 Key words: Mesenchymal stromal cells, ex vivo, clotting, heparin, clot formation time, perfusion, 23 Conceptualization, BOR, SN, AT, AC, JB, BP, RNB
+ Execution of Experiments, BOR, SN; Data 30 Analysis and Review, BOR, SN, AT, AC, JB, RNB; Manuscript Preparation, BOR, SN, AT, AC, 31 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    While mesenchymal stromal cells (MSCs) are an appealing therapeutic option for a range of clinical 36 applications, their potential to induce clotting when used systemically remains a safety concern, 37 particularly in hypercoagulable conditions, such as in patients with severe COVID-19, trauma, or cancers
+ 38 Here, we tested a novel ex vivo approach aimed at improving the safety of MSC systemic administration 39 by use of a bioreactor
+ In this device, MSCs are seeded on the outside of a hollow-fiber filter, 40 sequestering them behind a hemocompatible membrane, while still maintaining cross talk with blood 41 cells and circulating signaling molecules
+ The potential for these bioreactor MSCs to induce clots in 42 coagulable plasma was compared against free MSCs, as a model of systemic administration, which 43 were directly injected into the circuit
+ Our results showed that physical isolation of the MSCs via a 44 bioreactor extends the time necessary for clot formation to occur when compared to free MSCs
+ 45 Measurement of cell surface data indicates the presence of known clot inducing factors, namely tissue 46 factor and phosphatidylserine
+ Results also showed that recovering cells and flushing the bioreactor 47 prior to use further prolonged clot formation time
+ Further, application of this technology in two in vivo 48 models did not require additional heparin to maintain target ACT levels relative to the acellular device
+ 49 Taken together, the use of hollow fiber filters to house MSCs, if adopted clinically, could offer a novel 50 method to control systemic MSC exposure and prolong clot formation time
+  51 Mesenchymal stromal cells (MSCs) are potent immunoregulators with strong preclinical data that 53 support their application in a wide range of clinical conditions [-]
+ MSCs can provide therapeutic 54 benefit to patients suffering from systemic inflammation by effectively immunomodulating peripheral 55 blood cells to reduce inflammatory signaling and promote homeostasis
+ Significant evidence of these 56 MSC derived effects have been shown in vitro, in animal models, and in clinical trials, including recently 57 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    under an emergency IND application or expanded access protocol with COVID-19 infected patients [5-58 ]
+ However, it is known that under certain conditions MSCs may be pro-coagulable and promote 59 instant blood-mediated inflammatory reaction (IBMIR), likely through the expression of known 60 coagulation factors on their cell surfaces and in the production of cellular microvesicles [-]
+ Two 61 such factors, tissue factor and phosphatidylserine are known to be integral in physiological coagulation 62 [-]
+ Phosphatidylserine is a major component of cell-based coagulation, enhancing coagulation 63 activity through the charge-based binding of coagulation factor zymogens and cofactors to increase 64 formation of the tenase and prothrombinase complexes [-]
+ This binding effectively enhances clot 65 formation potential, exacerbating a response when a physiological trigger of coagulation, such as tissue 66 factor, is present [18, 21, ]
+ When MSCs are introduced into systemic circulation they bring with them 67 the tissue factor expressed on their cell surface
+ MSCs sourced from different donors and locations 68 (bone marrow, BM-MSCs, adipose-derived, AD-MSCs, umbilical cord, UC-MSCs) vary in tissue factor 69 expression, with higher levels of tissue factor correlating with quicker clot formation and IBMR
+ BM-70 MSCs, the most commonly used, have been widely shown to have the least tissue factor expression [16, 71 Reducing potential MSC driven clot formation has been a major focus for both academic and clinical 73 groups over the last decade
+ Advances have been made to mitigate these risks including changing the 74 MSC mode of delivery away from systemic exposure via intravenous (IV) infusion towards localized 75 injection
+ However, in some cases, systemic IV infusions could provide the highest therapeutic potential 76 Minimizing clot formation potential could improve therapeutic efficacy, and also increase safety of the 77 treatment in hypercoagulable patients such as patients with COVID-19 in the ICU [-]
+ To that end, 78 increasingly rigorous release criteria during MSC clinical manufacturing are now being applied
+ Cell 79 populations with low tissue factor are being selected and fresh or recovered MSCs with lower surface 80 phosphatidylserine exposure are preferred [17, ]
+ Additional clot mitigation approaches are being 81 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    evaluated, including shifting delivery of the MSCs from intravenous to intramuscular administration, 82 emphasizing higher cell viability, or even using gene modification to promote cell survival [-]
+  83 We propose an alternative approach which would minimize direct exposure of the MSCs to blood and 84 contain MSCs in one location
+ We utilized a recently described perfusion platform that incorporates a 85 hollow-fiber filter into a fluid circuit to compartmentalize the MSCs, while still allowing exchange of 86 signaling molecules from perfusate to cells, and vice-versa []
+ MSCs within this platform were shown 87 to effectively retain their immunomodulatory capacity and alter perfused lymphocyte proliferation, 88 activation, and cytokine production in an MSC dose and duration exposure dependent manner, despite 89 Benchtop coagulation assays, including microfluidic setups, are becoming increasingly translationally 91 relevant[]
+ Here, we used a MSC bioreactor platform to assay whether limiting the direct exposure of 92 fresh frozen pooled plasma from healthy patients to MSCs, and therefore the available tissue factor and 93 phosphatidylserine of the MSCs, would affect clot formation time (CFT) in a modified plasma-based clot 94 formation assay [34, ]
+ Plasma was perfused through bioreactors seeded with MSCs as well as through 95 circuits in which cells were directly injected into the perfused plasma to make comparative CFT 96 measurements
+ We were able to show that bioreactor use significantly prolonged CFT relative to direct 97 injection of the MSCs
+ Flushing of concentrated soluble factors from bioreactors further contributed to 98 prolonged CFTs
+ Lastly, the previously proposed clinical solution for MSC driven clot formation, 99 anticoagulation with heparin [36-39], was shown to be effective in both perfusion setups
+ These results 100 suggest this new modality for systemic MSC delivery may offer a safer alternative to intravenous MSC 101 injection
+ The clinically scaled ex vivo engineered MSC delivery is currently undergoing testing in a Phase 102 I/II trial in acute kidney injury (AKI) and COVID-19 associated AKI
+ 103 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    Human bone marrow derived mesenchymal stromal cells were isolated from 3 separate donors
+ Cells 107 were cultured and propagated either in-house using proprietary techniques at developed Sentien 108 Biotechnologies (MA, USA) or RoosterBio (MD, USA) and cryopreserved at early passage (P-P)
+ Cells 109 were cultured using 2D planar growth conditions
+ Cells from Sentien Biotechnologies were cultured in 110 aMEM media (HyClone, UT, USA, SH3A5195) containing FGF and FBS, while Roosterbio cells were 111 expanded in xeno-free RoosterNourish-MSC-CC media (RoosterBio, MD, USA, KT-)
+ All human 112 samples were obtained from commercial vendors under a consented protocol for research purposes 113 MSCs were thawed from cryopreservation into citrated fresh-frozen pooled plasma (FFPP) (George King 116 Bio-Medical, KS, USA) and counted via Trypan Blue exclusion
+ Each direct injection subgroup was 117 processed individually and subgroups were never combined
+ The fresh thawed direct injection subgroup 118 was placed into plasma after counting and directly injected for perfusion (Figure )
+ The recovered direct 119 injection subgroup allowed for 24 hours of recovery on a cell culture dish, followed by dissociation with 120 TryPLE, counting via Trypan Blue exclusion, and placing into plasma prior to direct injection
+ Cells for use 121 in washed groups were washed with saline directly after thaw, pelleted and resuspended in fresh 122 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    MSCs were thawed from cryopreservation into aMEM supplemented with 10% HSA and counted via 126 Trypan Blue exclusion prior to seeding in device
+ The desired cell number was suspended into 9mL of 127 aMEM and then seeded into saline-primed microreactors (Spectrum Laboratories, CA, USA; C02-P20U-128 05) with 0, 1, or 3 106 viable cells per device (0M, 1M, 3M, respectively)
+ Excess media flowed through 129 the semi-permeable hollow fibers while cells remained within the extraluminal space of the reactor
+ 130 Microreactors used were 20cm long with an internal surface area of 28 cm
+ Within each microreactor 131 are nine 
+5mm diameter fibers comprised of polyethersulfone with a 
+2 m pore size
+ The total 132 Depending on the group, microreactors were either used immediately or incubated at 37 for 2hours 134 to allow for cell attachment and were subsequently held for24hours at room temperature prior to 135 integration into the circuit
+ This  hold time intends to mimic the time between device manufacture and 136 Following hold, select MRs were subjected to flushing
+ Prior to connection to the perfusion circuit sterile 138 saline (
+5 mL) was pushed via syringe through the extracapillary port of the MR
+ Discharge exited 139 through the intracapillary port
+ 
+  Samples from the extracapillary space were collected prior to and post 140 flush to measure soluble levels of phosphatidylserine and tissue factor
+ 141 Large scale bioreactors were used in the animal studies
+ Similar to the microreactor fill/finish process, 142 following MSC thaw, cell and media suspension was perfused through the extracapillary port onto semi-143 permeable hollow fibers (Asahi Kasei Medical Inc, IL, USA, OP-W(A)
+ Cells remained within the 144 extraluminal space of the reactor while excess media perfused through the membranes out the 145 intracapillary port
+ Thawed vials used in these assays were comprised of cells with a minimum 80% 146 viability
+ Bioreactors were seeded with either 0, 250, or 750 106 viable cells per unit
+  147 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    Fresh-Frozen Pooled Plasma was collected and citrated via FDA licensed blood centers from prescreened 150 healthy donors (Geroge King Bio-Medical, KS, USA)
+ No buffers or stabilizers were added
+ Plasma was 151 frozen within 30 minutes of collection at -70 from a pool of >50 donors per lot
+ This plasma still 152 contains many essential factors for clot initiation, including prothrombin which can be activated with the 153 addition of calcium via CaCl2 to form firm clots over time
+ Testing was done to ensure normal values for 154 PT, aPTT, fibrinogen, dRVVT normalized ratio, Factors II, V, VII, VIII, IX, X, XI, and XII
+   155 After thawing 5 mL of FFPP via water bath (37), 50 uL of 1M CaCl2 was added to the plasma within a 158 capped syringe and inverted
+ The plasma was loaded into prepared perfusion circuits with (0, 1, and 159 3106 MSCs) and without microreactors via the syringe port and perfused at a flow rate of 1 mL/min for 160 5 minutes
+ Plasma was then extracted from the circuit via the syringe port, aliquoted into microplate 161 wells and placed within the spectrophotometer (Synergy Mx, BioTek) for reading at 405 nm every 10 162 Positive controls of Innovin (Siemens Healthcare Diagnostics, Germany) or Factor IXa (Haematologic 164 Technologies, VT, USA) were used separately, where designated, at :,
+ These positive controls 165 were added prior to CaCl2 addition to ensure equal mixing before coagulation initiation
+ 1M CaCl2 was 166 Unfractionated heparin (Grifols, Spain) was used at 
+5 U/mL in the designated groups
+ Heparin was 168 added prior to CaCl2 addition to ensure equal mixing before coagulation initiation
+ 169 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    Clot formation time measurements incorporated the sum of two time periods
+ The first period initiates 172 when plasma has been recalcified through the addition of CaCl2 and continues through perfusion until 173 transfer of the samples into microwells for analysis on the spectrophotometer
+ This value is immediately 174 recorded by the operator
+ The second time period occurs when the spectrophotometric readings begin 175 and continues for 45 minutes
+  At the completion of the study the elapsed time in the first period is 176 added to the time required to obtain the  maximal spectrophotometric value, as determined using the 177 clot formation time formula
+ Combined, these measurements capture the clot formation time
+  178 Resulting values were then graphed and statistically analyzed using unpair students t-test (GraphPad 179 Software, La Jolla, CA)
+ Results are presented as mean  standard deviation
+ Values of p<
+05 were 180 To measure tissue factor by flow cytometry, staining was done using CD142-APC monoclonal antibody 184 (eBiosciences) in a total volume of 100 L Stain Buffer containing FBS and 
+09% sodium azide (BD 185 Biosciences)
+ Samples were incubated for 15 min at 4 and analyzed on a FACSCanto II flow cytometer 186 (BD Biosciences) using BD FACSDiva v
+ 
+1 software
+ Mouse PE IgG1 kappa isotype antibody 187 Annexin V staining was done using the FITC Annexin V Apoptosis Detection Kit (BioLegend) according to 189 the manufacturer's instructions
+ Fresh thawed MSCs were used to optimize fluorescence compensation
+  190 Flow cytometry analysis was performed in FlowJo (FlowJo LCC, OR, USA; version 
+ )
+ 191 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    Eighteen male mongrel dogs were randomized onto the study and underwent surgery for placement of 194 a dialysis catheter (Toxikon Corp, Beford MA)
+ Animals received buprenorphine (
+01 mg/kg, IM) pre-195 surgery, PM the day of surgery and AM the day after surgery, and cefazolin (22 mg/kg, IV/IM) pre-196 surgery, then daily for two additional days post-surgery
+ After a 2 day wash out period, animals were 197 dosed according to their group assignment with 6 animals assigned to either a 0M, 250M, or 750M MSC 198 dose group
+ Heparin was administered throughout treatment with all animals first receiving a bolus of 199 heparin at 150 U/kg and then a continuous infusion of 25 U/kg every hour
+ All animals underwent a 24-200 hour perfusion (+/- 1 hour), with the exception of animal 1003 (Group 1, Control) which was stopped 201 after 22 hours due to low blood flow rate through the catheter
+ 202 On Day 0, 8 Yorkshire pigs underwent induced myocardial infarction of the anterior/septal left ventricle 205 by 45-minute occlusion of the left anterior descending artery (CBSet Inc
+, Lexington, MA)
+ After one hour 206 of reperfusion/stabilization, animals were connected to the extracorporeal loop via the jugular vein 207 which enabled whole blood circulation through a large scale bioreactor for a period of up to 12 hours
+ 208 Bioreactors were seeded with either 0 or 750 million human bone-marrow derived MSCs, 24 hours prior 209 to perfusion (n=4 per group)
+ Heparin was administered throughout the treatment, first as a bolus of 210 225 U/kg and then intermittently to ensure ACTs remained above 300 seconds
+ Serum troponin levels 211 were assessed at baseline 12 and 24 hours after infarction induction
+ At 72 hours post injury induction 212 animals were sacrificed with their hearts excised and dyed with Evans Blue and 1%  TCC
+ Infarct area was 213 determined through tracing of digitized images of section via the morphometric software system 214 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    We developed an approach in which we could test human plasma compatibility of allogeneic MSCs 219 across multiple extents of cell exposure
+ Cryopreserved MSCs could either be injected into the plasma 220 directly after thaw (Fig
+ 1A), cultured for 24 hours after recovery and then directly injected into plasma 221 (Fig
+ 1B), or seeded into hollow-fiber microreactors with a semi-permeable membrane, allowed to 222 attach, and held for up to 24 hours before being subjected to perfusion (Fig
+ C)
+ These ranges of 223 administration broadly represent many of the systemic administration options available today and allow 224 the comparison of varying degrees of MSC to plasma exposure and the effects of MSC culture 225 After perfusion, plasma was collected from the circuit via the syringe port and placed into microwells for 227 spectrophotometric reading over time
+ The point at which a clot was formed was determined by using 228 the resultant spectrophotometric readout and formula (Fig
+ 1D, E) to calculate the  maximal value, a 229 point previously determined to designate clot formation [34, ]
+ Higher values for clot formation times 230 Consistent with previous work [12], our fresh-frozen pooled plasma-based (FFPP) clot formation assay 234 showed that the presence of MSCs accelerated clot formation under flow conditions relative to acellular 235 controls (Figure )
+ Interestingly, the same experimental setup run with plasma isolated from an 236 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    individual donor 24 hours after collection instead of FFPP did not result in significantly different clotting 237 times between cellular and acellular groups, likely as it wasnt frozen directly after being pulled (Figure 238 S)
+ Spectrophotometric measurements of optical density at 405 nm captured fibrin clot formation as it 239 occurred within the microwell via increases in measured OD over time (Figure A)
+ Results from our 240 assays showed that the direct injection (DI) of freshly thawed MSCs into the plasma flow circuit 241 significantly hastened the onset of clot formation when compared to circuits using bioreactor housed 242 MSCs
+ Both the 1M BM-MSC and 3M BM-MSC direct injection groups induced clot formation during the 243 initial perfusion, prior to spectrophotometric reading
+ All other groups completed perfusion and 244 spectrophotometric reading (Figure B)
+ These findings were consistent across 3 separate MSC donors 245 Furthermore, MSC dose played a role in clot formation
+ Increases in the number of cells administered 247 were significantly associated with shorter CFTs across both administration routes
+ However, when 248 comparing similarly seeded MRs to direct injection with the same number of cells, CFT was significantly 249 slower in the groups where MSCs were housed in the bioreactor (Figure B)
+  250 Immobilizing MSCs in the bioreactor allows for cell recovery post-thaw, a process proposed to reduce 253 the surface exposure of pro-coagulation factors []
+ In order to investigate the effect of recovering 254 MSCs on clot formation, two known pro-coagulant factors- tissue factor and phosphatidylserine - were 255 measured prior to perfusion
+ Flow cytometric analysis of the surface markers on both the freshly thawed 256 and MSCs allowed to recover for 24 hours in culture, showed that cell recovery had significantly lowered 257 the levels of phosphatidylserine and tissue factor (Figure A)
+  258 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    We next asked whether recovering MSCs post thaw had an effect on clot formation
+ CFTs were 259 compared between freshly thawed cells (unwashed or washed) and cells recovered for 24 hours
+ Both 260 unwashed and washed freshly thawed conditions quickly clotted at similar times during perfusion 261 suggesting that washing to remove debris and cryopreservative did not affect clot time
+ However, CFT 262 was significantly prolonged by allowing for 24 hours of recovery in culture prior to injection (Figure B)
+  263 As levels of MSC surface markers appeared to be correlated with clot initiation, we next asked whether 264 limiting the direct interaction of MSC surface markers and plasma could reduce the rate of clot 265 formation
+ Interestingly, recovery of MSCs within a microreactor did not significantly affect measured 266 CFTs relative to fully recovered MSCs (Figure B)
+ MSCs that were thawed, seeded into MRs, and 267 immediately perfused, clotted at the same time as MSCs that were seeded and allowed to recover for 24 268 hours
+ These results suggest that though recovery of cells post thaw significantly reduces MSC induced 269 clotting, housing them in an adherent state on the outside of a hollow fiber seems to further, and more 270 significantly, reduce their clotting potential even without any recovery period
+      271 While seeding MSCs on the hollow fiber membrane resulted in prolonged CFT, cellular contribution was 274 still observed as all cellular microreactor circuits clotted in a dose dependent manner (Figure B)
+ While 275 in the 24-hour hold period post-attachment, it is likely that MSC derived factors accumulate within the 276 microreactor and may contribute towards clotting
+ To directly assay this, we integrated a saline flush of 277 the microreactor into our protocol
+ After the 24-hour hold and just prior to perfusion, MRs were flushed 278 with 3X column volume (
+5 mL) of saline
+ Samples from the microreactor were collected pre-and post-279 flush and subjected to flow cytometric analysis for measurement of tissue factor and 280 phosphatidylserine
+ Pre-flush samples showed higher levels of phosphatidylserine and tissue factor in 281 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    the cellular group as expected
+ Post-flush samples showed clear reductions in both factors, 282 demonstrating that soluble factors can be effectively flushed out of the hollow fiber filter (Figure A)
+ 283 Flushing the microreactors significantly prolonged CFT in higher doses (3M), while in lower doses (1M) 284 significance could not be reached
+ (Figure B)
+ These data indicate that soluble factors (e
+ g
+ 285 phosphotidylserine) are present in the extracapillary space of the bioreactor and can accumulate to 286 Despite significantly reducing the clotting potential of MSCs, bioreactors loaded with the cells at higher 290 doses (3M) still induced earlier clotting when compared to acellular or low-dose (1M) cell bioreactors
+ 291 Plasma spiked with heparin was used to investigate the potential efficacy of administered 292 anticoagulation in preventing clot formation within the circuitry
+ Administration of 
+5 U/mL of heparin 293 across all groups was able to completely prevent clot formation, even in the presence of positive control 294 The bioreactor setup can be scaled up with larger filters to allow for perfusion in large animal models
+ 299 Previous work in in vivo models showed that heparin administration could effectively reduce 300 procoagulant activity of MSCs []
+ To reduce the number of animals used, here we compared only 301 between bioreactor groups, no direct injection animal studies were conducted
+ We first tested feasibility 302 of perfusion of the device in vivo in a healthy canine model
+ Animals were all heparinized to assure 303 safety as extracorporeal treatments (even without cells) have intrinsic clotting potential Dogs were 304 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    grouped into cohorts based on the number of MSCs loaded into a scaled up bioreactor, with doses of 0 305 million, 250 million, and 750 million (n=6 dogs per group) and perfused for 24 hours
+ No clotting was 306 Next, we asked the question of whether clotting in vivo would be observed under an pathological 308 conditions, such as acute organ failure, where systemic inflammation may perturb the coagulation 309 pathways
+ For this purpose a porcine animal model of acute myocardial infarction (AMI) was used 310 (Figure 6 A)
+ AMI was induced, animals were re-perfused/stabilized for 1 hour and then connected to 311 the bioreactor perfusion circuit for 12 hours
+ All animals were perfused without events for 12 hours, 312 with each group showing cardiac injury biomarker induction (Figure 6 B) and similar infarct size (Figure 6 313 C)
+ Heparin was administered throughout the perfusion process to maintain a minimum activated 314 clotting time (ACT) of at least 300 seconds (as mandated by IACUC), with neither group requiring 315 significantly more heparin than the other (Figure 6 D, E)
+ These data support the use of MSC bioreactors 316 without additional heparin requirements beyond what is used in acellular extracorporeal treatments
+  317 In the absence of clear clinical benefit of early allogeneic MSC human trials to meet their therapeutic 320 endpoints, there has been a major focus in recent years to improve the reliability and consistency of the 321 therapeutic cells delivered []
+ Improvements in manufacturing processes, more stringent release 322 testing and biobanking has provided a reproducibility to the cell production that has contributed to a 323 clinically approved therapy [8, 28, -]
+ However, many cellular concerns still exist, including handling 324 at point of care, thawing, route of delivery, hemocompatibility, and dosing
+ Our studies here focused on 325 comparing the potential risks of one of those concerns, MSC induced coagulation, between direct 326 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    Most commonly, allogeneic MSCs are delivered for therapeutic effect through systemic administration 328 (intravenous or intra-arterial) accounting for about half of all published studies []
+ Systemic 329 introduction has been described as the least invasive, most reproducible, and provides the MSCs the 330 most direct access to modulate systemic inflammation []
+ However, this route of administration may 331 increase risks to certain hypercoagulable patients given that MSCs are known to express coagulation 332 factors both on their cell surface and on the exosomes and vesicles they secrete, namely tissue factor 333 and phosphatidylserine [16, 41, ]
+ Further, systemically introduced MSCs can rapidly get trapped in 334 the lungs or be cleared, reducing their potential efficacy []
+ Because of these concerns, where possible 335 and concordant with the mechanism of action (MoA), alternatives to systemic administration are 336 increasingly utilized, including intramuscular infusions, topical, direct tissue injections, and intracoronary 337 delivery
+ While useful for localized applications including tissue regeneration, these routes of delivery 338 are not used to treat systemic applications such as GvHD, and present limitations of their own in terms 339 Here, in concert with the previously mentioned improvements with cellular production, we assayed the 341 value of incorporating an experimental setup which confines MSCs behind the membrane of a hollow-342 fiber filter
+  Given that much of the MSCs ability to induce clot formation arises from its cell surface 343 markers and secreted vesicles, we considered that the confinement of the cells and their procoagulant 344 expressing surface markers in one extraluminal location may reduce the rate at which clot formation 345 occurs
+ We used an existing bioreactor platform known to retain MSC immunomodulatory capacity in 346 combination with modifications to an existing clot formation assay to assess cellular effect on CFT in this 347 immobilized state relative to direct injection [32, 34, ]
+ Through this platform we perfused citrated, 348 platelet poor fresh-frozen pooled plasma
+ This plasma contains many essential factors for clot initiation, 349 including prothrombin which can be activated with the addition of calcium via CaCl2 to form firm clots 350 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    Immediately after CaCl2 addition, this coagulable (but still liquid) plasma is perfused through the hollow-352 fiber filter platform
+  As expected, direct injection of MSCs into the coagulable plasma perfusion circuit 353 led to rapid clot formation in a dose-dependent manner
+ Interestingly, perfusion of coagulable plasma 354 through bioreactors seeded with MSCs resulted in clotting at rates significantly slower than their 355 comparable direct injection groups, suggesting that free, circulating MSCs increase thrombosis risk more 356 than bioreactor immobilized MSCs
+  Like the direct injection group, the MSC dose seeded in the 357 bioreactor was predictive of CFT with higher doses inducing quicker clots, likely through the increased 358 production of pro-coagulable MSC factors
+ It is also important to note that the presence of a filter 359 (acellular microreactor) in the circuit induced clotting faster than a circuit without a microreactor 360 supporting the idea that high surface area biomaterials increase factor adsorption and may contribute 361 to expedited clotting []
+  Alternative approaches such as heparin coating the hollow fiber filters prior 362 to MSC seeding may reduce surface adsorption and adhesion, lowering this inherent clot induction 363 Historically, failed MSCs trials have been in part attributed to poor cell processing, including delivery of 365 dead and/or coagulable cells [40, 43, 52, ]
+ In this study, washing of cells post thaw did not affect CFT 366 significantly
+ However, recovery of cells for 24 hours post thaw did reduce clot formation potential This 367 was shown to correlate with surface marker expression of tissue factor and phosphatidylserine
+ Both 368 decreased following recovery, correlating with a slower clot formation time relative to MSCs directly 369 injected into the circuit post thaw
+ Recovery culture of cryopreserved MSCs within a microreactor did 370 not have a significant impact on CFT relative to freshly thawed cells within microreactors, suggesting 371 that the MSC confinement by the hollow fiber membrane may actually be playing a role in prolonging 372 CFT
+ While MSCs located behind the membrane are still able to exchange their immunomodulatory 373 secreted factors with perfusing solutions, they may be sharing less of their cell surface area and may aid 374 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    in confining their cellular debris to the extracapillary space of the microreactor
+ Future studies with 375 more restrictive filter sizes may even further limit MSC exposure and further prolong CFT
+  376 Having shown that cell presence shortens clot formation time we sought to use the platform to mitigate 377 that effect as much as possible
+ Since our microreactor is composed of hollow fibers, exchange does 378 happen through the 
+2 m pores on the fibers in the microreactor
+ During hold, MSCs continue to 379 produce materials and some of this accumulated material could be contributing to clot formation
+ To 380 assess this, we developed a flush protocol and measured steep drops in known coagulation markers
+ 381 Consequently, flushing resulted in slower CFTs at higher MSC doses
+  Future studies will assay whether 382 flushing also affects immunomodulatory potential relative to unflushed reactors []
+ 383 Despite the microreactors measured effect of prolonging CFT, it did not completely abrogate the cellular 384 contribution to shortened CFT
+ In clinical setting anticoagulation protocols will likely be integrated to 385 ensure designated perfusion times are met
+ Our in vitro experiments and in vivo canine studies showed 386 that heparin administration could effectively prevent any cellular induced clot formation during 387 perfusion
+ However, many of the patients suffering from systemic inflammation, including those with 388 COVID-19, present with hypercoagulable plasma that will require anticoagulation prior to MSC 389 administration
+ Our pig model represented a more physiologically relevant condition in which inflamed 390 animals were perfused with a device scaled for human use
+ Under these acute injury conditions, no 391 clotting was observed in animals perfused with devices loaded with 750M MSCs and for 12 hours
+ The 392 lack of additional heparin requirement suggests that patients set to undergo MSC-bioreactor perfusion 393 may not need more heparin than a sham control undergoing the same procedure
+ Future studies 394 comparing direct infusion of MSCs to bioreactor housed MSCs would be useful to evaluate both for 395 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    Given the slower CFT in the microreactor groups relative to the direct injection groups, it is possible that 397 a lower dose of heparin could be administered to the microreactor groups
+ Future dose testing will be 398 required to verify this
+ Such a finding would be clinically relevant, as reduction in the amount of heparin 399 required to be delivered to critically ill patients may help prevent unintended health consequences
+ 400 Further, patients which are medically restricted from systemic heparin administration for risk of internal 401 bleeding could potentially be anticoagulated regionally with citrate
+ Citrate could be introduced and 402 equilibrated within the MSC bioreactor circuit, allowing MSC factors to be released but without exposing 403 In the unfortunate circumstances of the COVID-19 pandemic, interest in MSC based therapies has 405 increased markedly
+ Case reports, first from China and then worldwide, showed promising 406 improvements in patient health following intravenous MSC infusion, even in severely ill patients [10, 55, 407 ]
+ While larger studies are now needed to more completely support these findings, it is clear that 408 intravenous infusion of MSCs for systemic inflammatory conditions such as COVID-19 infection or GvHD 409 continues to have therapeutic potential Remestemcel-L, an ex-vivo culture-expanded adult human MSC 410 suspension for intravenous infusion, which has received positive recommendations from the FDA for 411 steroid-refractory acute graft-versus-host disease in pediatric patients based on an open-label study 412 compared to historical controls []
+ The novel delivery approach described here could potentially 413 reduce risk of clot formation from IV administered MSCs, making treatment potentially safer and more 414 We conclude that immobilization of MSCs in a hollow fiber filter contributes to a reduced clot initiation 417 potential relative to directly injected MSCs
+ Further removal of cellular byproducts through saline 418 flushing of the bioreactor further reduces the MSC based clot formation potential Additional heparin 419 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    does not appear to be required to maintain a designated ACT value relative to acellular perfusion 420 circuits
+ Taken together, combined integration of these approaches may make MSC therapies which 421 require systemic MSC exposure at less risk for coagulation-related events for a larger population, 422 The opinions or assertions contained herein are the private views of the author and are not to 426 be construed as official or as reflecting the views of the Department of the Army or the 427 JB and AC are United States government employees with no financial disclosures relevant to 429 BOR, SN, AT, RNB are employees and equity shareholders of Sentien Biotechnologies
+ BP is 431 an equity shareholder and inventor of the technology with licensed patents to Sentien for 432 The data that support the findings of this study are available from the corresponding author 438 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    [1] Liu L, Wong CW, Han M, Farhoodi HP, Liu G, Liu Y, et al Meta-analysis of preclinical studies of 443 [2] Beegle JR, Magner NL, Kalomoiris S, Harding A, Zhou P, Nacey C, et al Preclinical evaluation of 445 mesenchymal stem cells overexpressing VEGF to treat critical limb ischemia
+ Molecular therapy Methods 446 [3] Huang YZ, Gou M, Da LC, Zhang WQ, Xie HQ
+ Mesenchymal Stem Cells for Chronic Wound Healing: 448 Current Status of Preclinical and Clinical Studies
+ Tissue engineering Part B, Reviews 
+ 449 [4] Torres Crigna A, Daniele C, Gamez C, Medina Balbuena S, Pastene DO, Nardozi D, et al Stem/Stromal 450 Cells for Treatment of Kidney Injuries With Focus on Preclinical Models
+ Frontiers in medicine 451 [5] Parekkadan B, Milwid JM
+ Mesenchymal stem cells as therapeutics
+ Annual review of biomedical 453 [6] Chamberlain G, Fox J, Ashton B, Middleton J
+ Concise review: mesenchymal stem cells: their 455 phenotype, differentiation capacity, immunological features, and potential for homing
+ Stem cells 456 [7] Uccelli A, Moretta L, Pistoia V
+ Mesenchymal stem cells in health and disease
+ Nature reviews 458 [8] Hoogduijn MJ, Lombardo E
+ Mesenchymal Stromal Cells Anno 2019: Dawn of the Therapeutic Era? 460 [9] Snchez-Guijo F, Garca-Arranz M, Lpez-Parra M, Monedero P, Mata-Martnez C, Santos A, et al 462 Adipose-derived mesenchymal stromal cells for the treatment of patients with severe SARS-CoV-2 463 pneumonia requiring mechanical ventilation
+ A proof of concept study: EClinicalMedicine
+ 2020 Jul 464 [10] M T
+ Mesoblasts Stem Cell Therapy Shows 83% Survival in Ventilator-Dependent COVID-19 466 [11] Coppin L, Sokal E, Stphenne X
+ Thrombogenic Risk Induced by Intravascular Mesenchymal Stem 468 [12] Silachev DN, Goryunov KV, Shpilyuk MA, Beznoschenko OS, Morozova NY, Kraevaya EE, et al Effect 470 of MSCs and MSC-Derived Extracellular Vesicles on Human Blood Coagulation
+ Cells ;
+ 471 [13] Jung JW, Kwon M, Choi JC, Shin JW, Park IW, Choi BW, et al Familial occurrence of pulmonary 472 embolism after intravenous, adipose tissue-derived stem cell therapy
+ Yonsei medical journal 473 [14] Moll G, Rasmusson-Duprez I, von Bahr L, Connolly-Andersen AM, Elgue G, Funke L, et al Are 475 therapeutic human mesenchymal stromal cells compatible with human blood? Stem cells (Dayton, Ohio) 476 [15] Mackman N
+ The role of tissue factor and factor VIIa in hemostasis
+ Anesthesia and analgesia 478 [16] Christy BA, Herzig MC, Montgomery RK, Delavan C, Bynum JA, Reddoch KM, et al Procoagulant 480 activity of human mesenchymal stem cells
+ The journal of trauma and acute care surgery 2017;83:S164-481 [17] George MJ, Prabhakara K, Toledano-Furman NE, Wang YW, Gill BS, Wade CE, et al Clinical Cellular 483 [18] Chance TC, Rathbone CR, Kamucheka RM, Peltier GC, Cap AP, Bynum JA
+ The effects of cell type and 485 culture condition on the procoagulant activity of human mesenchymal stromal cell-derived extracellular 486 vesicles
+ The journal of trauma and acute care surgery ;:S-s
+ 487 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    [19] Lentz BR
+ Exposure of platelet membrane phosphatidylserine regulates blood coagulation
+ Progress 488 [20] Israels SJ, Rand ML, Michelson AD
+ Neonatal platelet function
+ Seminars in thrombosis and 490 [21] Spronk HM, ten Cate H, van der Meijden PE
+ Differential roles of tissue factor and 492 phosphatidylserine in activation of coagulation
+ Thrombosis research 2014;133 Suppl :S-
+ 493 [22] Morrissey JH
+ Tissue factor: a key molecule in hemostatic and nonhemostatic systems
+ International 494 [23] Moll G, Drzeniek N, Kamhieh-Milz J, Geissler S, Volk HD, Reinke P
+ MSC Therapies for COVID-19: 496 Importance of Patient Coagulopathy, Thromboprophylaxis, Cell Product Quality and Mode of Delivery 497 [24] Tang N, Li D, Wang X, Sun Z
+ Abnormal coagulation parameters are associated with poor prognosis 499 in patients with novel coronavirus pneumonia
+ Journal of thrombosis and haemostasis : JTH 500 [25] Zhang Y, Xiao M, Zhang S, Xia P, Cao W, Jiang W, et al Coagulopathy and Antiphospholipid 502 Antibodies in Patients with Covid-
+ The New England journal of medicine ;:e
+ 503 [26] Klok FA, Kruip M, van der Meer NJM, Arbous MS, Gommers D, Kant KM, et al Incidence of 504 thrombotic complications in critically ill ICU patients with COVID-
+ Thrombosis research 2020;191:145-505 [27] Franois M, Copland IB, Yuan S, Romieu-Mourez R, Waller EK, Galipeau J
+ Cryopreserved 507 mesenchymal stromal cells display impaired immunosuppressive properties as a result of heat-shock 508 [28] Caplan H, Olson SD, Kumar A, George M, Prabhakara KS, Wenzel P, et al Mesenchymal Stromal Cell 510 Therapeutic Delivery: Translational Challenges to Clinical Application
+ Frontiers in immunology 511 [29] Ocansey DKW, Pei B, Yan Y, Qian H, Zhang X, Xu W, et al Improved therapeutics of modified 513 mesenchymal stem cells: an update
+ Journal of translational medicine ;:
+ 514 [30] Mennan C, Garcia J, Roberts S, Hulme C, Wright K
+ A comprehensive characterisation of large-scale 515 expanded human bone marrow and umbilical cord mesenchymal stem cells
+ Stem cell research & 516 [31] Giri J, Galipeau J
+ Mesenchymal stromal cell therapeutic potency is dependent upon viability, route 518 [32] Allen A, Vaninov N, Li M, Nguyen S, Singh M, Igo P, et al Mesenchymal Stromal Cell Bioreactor for 520 Ex Vivo Reprogramming of Human Immune Cells
+ Scientific reports ;:
+ 521 [33] Trevisan BM, Porada CD, Atala A, Almeida-Porada G
+ Microfluidic devices for studying coagulation 522 [34] Tilley D, Levit I, Samis JA
+ Development of a microplate coagulation assay for Factor V in human 524 [35] Suidan GL, Singh PK, Patel-Hett S, Chen ZL, Volfson D, Yamamoto-Imoto H, et al Abnormal clotting 526 of the intrinsic/contact pathway in Alzheimer disease patients is related to cognitive ability
+ Blood 527 [36] Gleeson BM, Martin K, Ali MT, Kumar AH, Pillai MG, Kumar SP, et al Bone Marrow-Derived 529 Mesenchymal Stem Cells Have Innate Procoagulant Activity and Cause Microvascular Obstruction 530 Following Intracoronary Delivery: Amelioration by Antithrombin Therapy
+ Stem cells (Dayton, Ohio) 531 [37] Liao L, Shi B, Chang H, Su X, Zhang L, Bi C, et al Heparin improves BMSC cell therapy: Anticoagulant 533 treatment by heparin improves the safety and therapeutic effect of bone marrow-derived mesenchymal 534 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    [38] Coppin L, Najimi M, Bodart J, Rouchon MS, van der Smissen P, Eeckhoudt S, et al Clinical Protocol to 536 Prevent Thrombogenic Effect of Liver-Derived Mesenchymal Cells for Cell-Based Therapies
+ Cells ;
+ 537 [39] Cronin RE, Reilly RF
+ Unfractionated heparin for hemodialysis: still the best option
+ Seminars in 538 [40] Galipeau J, Sensb L
+ Mesenchymal Stromal Cells: Clinical Challenges and Therapeutic 540 [41] Moll G, Ankrum JA, Kamhieh-Milz J, Bieback K, Ringdn O, Volk HD, et al Intravascular 542 Mesenchymal Stromal/Stem Cell Therapy Product Diversification: Time for New Clinical Guidelines
+ 543 [42] Lalu MM, McIntyre L, Pugliese C, Fergusson D, Winston BW, Marshall JC, et al Safety of cell therapy 545 with mesenchymal stromal cells (SafeCell): a systematic review and meta-analysis of clinical trials
+ PloS 546 [43] Yong KW, Choi JR, Wan Safwani WK
+ Biobanking of Human Mesenchymal Stem Cells: Future 548 Strategy to Facilitate Clinical Applications
+ Advances in experimental medicine and biology 2016;951:99-549 [44] Kabat M, Bobkov I, Kumar S, Grumet M
+ Trends in mesenchymal stem cell clinical trials 2004-2018: 551 Is efficacy optimal in a narrow dose range? Stem cells translational medicine ;:-
+ 552 [45] Brger V, Weiss DJ, Anderson JD, Borrs FE, Bussolati B, Carter DRF, et al ISEV and ISCT statement 553 on EVs from MSCs and other cells: considerations for potential therapeutic agents to suppress COVID-554 [46] Godoy JAP, Paiva RMA, Souza AM, Kondo AT, Kutner JM, Okamoto OK
+ Clinical Translation of 556 Mesenchymal Stromal Cell Therapy for Graft Versus Host Disease
+ Frontiers in cell and developmental 557 [47] Elgaz S, Kui Z, Kui S, Bnig H, Bader P
+ Clinical Use of Mesenchymal Stromal Cells in the Treatment 559 of Acute Graft-versus-Host Disease
+ Transfusion medicine and hemotherapy : offizielles Organ der 560 [48] Horbett TA
+ Fibrinogen adsorption to biomaterials
+ Journal of biomedical materials research Part A 562 [49] Biran R, Pond D
+ Heparin coatings for improving blood compatibility of medical devices
+ Advanced 564 [50] Maul TM MM, Wearden PD
+ ECMO biocompatibility: surface coatings, anticoagulation, and 566 [51] Nilsson B, Korsgren O, Lambris JD, Ekdahl KN
+ Can cells and biomaterials in therapeutic medicine be 569 [52] Antebi B, Asher AM, Rodriguez LA, 2nd, Moore RK, Mohammadipoor A, Cancio LC
+ Cryopreserved 571 mesenchymal stem cells regain functional potency following a 24-h acclimation period
+ Journal of 572 [53] Moll G, Alm JJ, Davies LC, von Bahr L, Heldring N, Stenbeck-Funke L, et al Do cryopreserved 574 mesenchymal stromal cells display impaired immunomodulatory and therapeutic properties? Stem cells 575 [54] Szamosfalvi B, Yessayan L
+ Innovations in CKRT: individualized therapy with fewer complications
+ 577 [55] Liang B, Chen J, Li T, Wu H, Yang W, Li Y, et al Clinical remission of a critically ill COVID-19 patient 579 treated by human umbilical cord mesenchymal stem cells: A case report
+ Medicine ;:e
+ 580 [56] Leng Z, Zhu R, Hou W, Feng Y, Yang Y, Han Q, et al Transplantation of ACE2(-) Mesenchymal Stem 581 Cells Improves the Outcome of Patients with COVID-19 Pneumonia
+ Aging and disease ;:-
+ 582 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    [57] Limited M
+ U
+ S
+ FDA Advisory Committee Votes Nine to One in Favor of Remestemcel-L (Ryoncil) 583 for Efficacy in Children With Steroid-Refractory Acute Graft Versus Host Disease
+ GlobeNewswire
+ 584 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    Figure 
+ Clot Formation Assay Experimental Setup
+ MSCs were thawed from cryopreservation and were either (A) immediately combined into fresh-frozen pooled plasma-based (FFPP), perfused in the circuit and read, (B) cultured for 24 hours then resuspended into FFPP, perfused in the circuit and read, or (C) seeded into micro bioreactors (MR), allowed to attach to the hollow-fiber filters for 2 hours, room temperature incubated for 24 hours then attached to perfusion circuits loaded with FFPP, perfused and read
+ Perfusion of the MR circuits lasted 5 minutes before samples were collected and read on the spectrophotometer at 405nm to assess fibrin formation
+ (D) Resulting spectrophotometric optical density (OD) readouts were graphed over time
+ (E) Formula used for the calculation of the clot formation time (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    Figure 
+ Increased MSC Exposure Shortens Clot Formation Time
+ 0, 1 x isolated for inclusion in each respective group
+ Freshly thawed MSCs were used in direct injection (DI) groups
+ MSCs used in MR groups were first incubated for 2hours at 37C followed by a 24hour hold at room temperature prior to perfusion
+ After each groups cells were prepared warmed fresh frozen pooled plasma was perfused through circuit for 5 minutes then subjected to spectrophotometric measurements
+ (A) Measurements of fibrin clot formation in plasma were made every 10 seconds over a 45-minute period (grey shaded region) following 5 minutes of perfusion (aqua shaded region)
+ Groups which clotted during perfusion are designated with an x at the time at which the clot was noted to be visibly obstructing perfusion
+ As clots formed, absorbance increased resulting in the designated curves
+ (B) Values for CFT were determined
+ Resulting values were graphed and analyzed with an unpaired students t-test
+ N=3 runs per group
+ **=p<
+005; ***= p= 
+0005; ****= p< 
+ 
+ Error bars represent  standard deviation
+ DI = direct injection (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    Figure 
+ The Effect of Cell Washing and Cell Recovery on CFT
+ 1 x in each respective group
+ Recovered cells were cultured for 24 hours and dissociated from the culture plate immediately prior to use
+ (A) Cells collected immediately after thaw and cells collected after recovery were subjected to staining and flow cytometry
+  Each curve represents the outcome of 3 pooled samples
+ (B) Direct injection groups were either thawed directly into plasma, washed with saline, or recovered with 24 hrs of culture at C
+ Microreactor groups were seeded with MSCs and either immediately used or allowed to attach for 2hours at 37C followed by a 24hour hold at room temperature prior to perfusion
+ Values for CFT were determined  and resulting values were graphed and analyzed with an unpaired students t-test
+ N=3 runs per group
+ ****= p< 
+ 
+ Error bars represent  standard deviation
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    Figure 
+ Flushing of Soluble Factors Affects CFT
+ Microreactors were seeded with MSCs and allowed to attach for 2hours at 37C followed by a 24hour hold at room temperature
+ (A) Samples taken from the extracapillary space of microreactors with either 0 or 1 x were subjected to staining and flow cytometry for known pro-coagulation markers phosphatidylserine (Annexin V) and tissue factor (CD)
+ Each curve represents the outcome of 3 pooled samples
+ (B) Warmed fresh frozen pooled plasma was perfused through circuits with either 0, 1 or 3 x without a flushing procedure) for 5 minutes then subjected to spectrophotometric measurements
+ Measurements of fibrin clot formation in plasma were then made every 10 seconds over a 45-minute period
+ Values for CFT were determined and values were graphed and analyzed with an unpaired students t-test
+ N2 runs per group
+ *= p< 
+ 
+ Error bars represent  standard deviation
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    Figure 
+ Effect of Heparin on CFT
+ 0, 1 x in each respective group
+ MSCs for direct injection groups were thawed directly into plasma then used, while microreactor groups were seeded with MSCs and allowed to attach for 2hours at 37C followed by a 24hour hold at room temperature prior to perfusion
+ Innovin (thromboplastin) was added to the 0M group as a positive control
+ After each groups cells were prepared, warmed FFPP was perfused through circuit for 5 minutes then subjected to spectrophotometric measurements
+ Measurements of fibrin clot formation in plasma were made every 10 seconds over a 45-minute period
+ Values for CFT were determined and resulting values were graphed and analyzed with an unpaired students t-test
+ Samples which showed no increase in absorbance through the course of the experiment were designated to have not clotted
+ N2 runs per group
+ - - + - + - + - + - + - +(which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    Figure 
+ Pig AMI Model Perfusion
+ (A) Pigs were sedated, occluded of their left anterior descending coronary artery, re-perfused for 1 hour, and administered the designated bioreactor (acellular or cellular) for 12 hours of perfusion
+ (B,C)  Comparative measurements of induced stress were done through serum sampling of Troponin I levels at the 12 hour mark, as well as morphological analysis of % infarct area at sacrifice
+ (D,E) Heparin was administered over the course of 12 hours to maintain an ACT of approximately 300 seconds
+ N=4 pigs per group
+ Error bars represent  standard deviation
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 24, 
+ ;    

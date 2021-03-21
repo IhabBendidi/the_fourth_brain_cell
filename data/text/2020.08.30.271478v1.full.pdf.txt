@@ -1,0 +1,521 @@
+Title: Gonadectomy and blood sampling procedures in small size teleost models 1 Physiology Unit, Faculty of Veterinary Medicine, Norwegian University of Life Sciences, 7 Laboratory of Physiology, Atmosphere and Ocean Research Institute, The University of 9 Department of Biological Sciences, Graduate School of Science, The University of Tokyo, 11 Centre of Reproduction, Development and Aging (CRDA), Faculty of Health Sciences, 13 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    The article describes a quick protocol to gonadectomize and sample blood from small 33 teleost fish, using medaka (Oryzias latipes) as a model, to investigate the role of sex 34 Sex steroids, produced by the gonads, play an essential role in the neuroendocrine 38 control of reproduction in all vertebrates by providing feedback to the brain and pituitary
+ 39 Sex steroids also play an important role in tissue plasticity by regulating cell proliferation 40 in several tissues including the brain and the pituitary
+ Therefore, investigating the role of 41 sex steroids and mechanisms by which they act is crucial to better understand both 42 feedback mechanism and tissue plasticity
+ Teleost fish, which possess a higher degree of 43 tissue plasticity and variations in reproduction strategies compared to mammals, appear 44 to be useful models to investigate these questions
+ The removal of the main source of sex 45 steroid production using gonadectomy together with blood sampling to measure steroid 46 levels, have been well-established and fairly feasible in bigger fish and are powerful 47 techniques to investigate the role and effects of sex steroids
+ However, small fish such as 48 zebrafish and medaka, which are particularly good model organisms considering the well-49 developed genetic toolkit and the numerous protocols available to investigate their 50 biology and physiology, raise challenges for applying such protocols due to their small 51 size
+ Here, we demonstrate the step-by-step procedure of gonadectomy in both males 52 and females followed by blood sampling in a small sized teleost model, the Japanese 53 medaka (Oryzias latipes)
+ The use of these procedures combined with the other 54 advantages of using these small teleost models will greatly improve our understanding of 55 feedback mechanisms in the neuroendocrine control of reproduction and tissue plasticity 56 In vertebrates, sex steroids, which are mainly produced by the gonads, play 62 important roles in the regulation of the Brain-Pituitary-Gonadal (BPG) axis through 63 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    Despite a relatively good knowledge in mammals, mechanism of BPG axis 68 regulation mediated by sex steroids is far from being understood in non-mammalian 69 species, leading to poor understanding of evolutionary conserved principles (reviewed in 70 )
+ Besides, there is still a limited number of studies documenting the role of sex steroids 71 on brain and pituitary plasticity, thus raising the need for further investigations of the 72 role and effects of sex steroids on diverse vertebrate species
+ 73 Among vertebrates, teleosts have become powerful model animals in addressing 74 numerous biological and physiological questions, including stress response (reviewed in 75 )
+ Teleosts, in which sex steroids are mostly represented by estradiol (E2) in 77 experimental models for investigating the general principle of reproduction across 79 species
+ Also, teleosts possess unique characteristics in their hypothalamus and pituitary, 80 which are sometimes convenient for the elucidation of regulatory mechanisms
+ For 81 instance, they show direct pituitary innervation of hypophysiotropic neurons in the brain 82 their gonadotropins (luteinizing and follicle stimulating hormones) are produced in two 84 to both laboratory and field experiments, teleosts offer many advantages compared to 88 other organisms
+ They are relatively inexpensive to purchase and maintain (reviewed in 89 )
+ In particular, small teleost models, such as zebrafish and medaka, are species with 90 very high fecundity and relatively short life cycle enabling rapid analysis of gene function 91 and disease mechanisms , thus providing even greater advantages in addressing a 92 developed protocols and genetic tools available for these species (reviewed in (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    In numerous studies, the removal of gonads (gonadectomy), the main source of 95 sex steroid production, has been used as a method for investigating many physiological 96 questions, including its impact in vertebrate reproductive physiology, including in 97 aimed for quantifying circulating hormone levels, including those of sex steroids Together, these two techniques have shown their importance in a great number of 100 studies, including the investigation of feedback mechanisms and the effect of sex steroids 101 easy to perform in bigger species, such as European sea bass , they raise challenges when applied in smaller fishes, such as zebrafish 104 and medaka
+ Therefore, a clear protocol demonstrating every step of gonadectomy and 105 Here, we use Japanese medaka (Oryzias latipes) as a model, a small freshwater 107 fish native to East Asia, and similar to zebrafish in many aspects (size, genome sequenced, 108 molecular and genetic tools available)
+ However, medaka has a smaller genome size than 109  and a genetic sex determination system allowing for investigation of 110 sexual differences before second sexual characters or gonads are well developed 111 This paper demonstrates gonadectomy and blood sampling in small teleost 113 models, a technique that takes only 8 minutes in total and that will complete the list of 114 detailed video protocols already existing for this species that included labeling of blood 115 
+ This technique will allow the research community to investigate and better 117 understand the roles of sex steroids in feedback mechanisms as well as brain and 118 All experimentations and animal handling were conducted in accordance with the 122 recommendations on the experimental animal welfare at Norwegian University of Life 123 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    Sciences
+ Experiments using gonadectomy were approved by the Norwegian Food Safety 124 
+ 
+ 
+ Dilute 
+6 g of Tricaine in 100 ml of 10X Phosphate Buffer Saline (PBS)
+  128 
+ 
+ 
+ Distribute 800 l of the tricaine stock solution into several 
+5 ml plastic tubes 129 
+ 
+ Prepare recovery water (
+9% NaCl solution) by adding 18 g of NaCl into 2 L of 132 aquarium water
+ Store the solution at room temperature until use
+ 133 
+ 
+ Prepare the incision tools by breaking a razor diagonally to get a sharp point 135 
+ 
+ Prepare blood anti-coagulant solution (
+05 U/l of sodium heparin) by diluting 25 138 l of sodium heparin into 500 l of 1X PBS
+ Store the anti-coagulant solution at 4 
+ 
+ Prepare two glass needles from a 90 mm long glass capillary by pulling a glass 142 capillary with a needle puller (Figure 1B) following the instructions of the 143 NOTE: The outer diameter of the glass needle is 1 mm, while the inner diameter is 
+6 146 
+ 
+ Prepare a 
+5 ml plastic tube lid by cutting the lid and make a hole that fits with 149 the needle outer diameter (Figure C)
+ To make the hole, heat one end of the 9-mm 150 glass capillary and stab the heated glass capillary through the lid
+ Alternatively, use a 151 needle to stab through the lid until the diameter of the hole fits with the 9-mm glass 152 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    
+ 
+ Prepare 
+02% of anesthesia solution (MS-222) by diluting one tube of Tricaine 156 NOTE: Depending on the size of the fish, additional Tricaine stock can be added, but final 158 In our experience, most cases that fish did not recover after surgery were due to over 160 exposure to high concentration of anesthesia, probably not due to the mistake in surgery
+  161 
+ 
+ Prepare dissection tools including one ultra-fine and two fine forceps (one with 163 relatively wide tip), small scissors, nylon thread and razor as described in step 
+ 
+ 164 
+ 
+ Anesthetize the fish by putting it into the 
+02% anesthesia solution, and make 166 sure that the fish is anesthetized enough to be operated
+ 167 NOTE: To ensure that the fish is fully anesthetized, the fish body can be pinched gently 168 using forceps
+ If the fish does not react, the gonadectomy can be started
+ 169 
+ 
+ 
+ Remove oviposited eggs (eggs hanging outside the female body) if any, and 174 
+ 
+ 
+ Incise gently the incision area between the ribs (Figure 2A) using the razor 177 blade, pinch gently the fish abdomen while taking out the ovary little by little 178 
+ 
+ 
+ Cut the end of the ovary using fine forceps and put aside the ovary (Figure B)
+ 181 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    NOTE: It is important to take care not to break the ovarian sac as possible
+ In case of 182 breaking the ovarian sac, it is important to remove as completely as possible without 183 
+ 
+ 
+ After making an incision with the razor blade, incise gently between the ribs 187 (Figure 2A) and open up the incision slowly using fine forceps
+  188 
+ 
+ 
+ Grab the testis gently using the fine forceps and take out the testes slowly
+ 190 Afterwards, cut the end of the testis to remove testis completely (Figure B)
+ 191 NOTE: For male orchidectomy, all preparations are similar to in females until the incision 193 part
+ Incision area of males should be more dorsal side of the abdomen (Figure A)
+ 194 When grabbing the testes, sometimes we obtain only the fat resembling the testes
+ 195 However, after restoring the fat, it is possible to try to find the testes again
+ (Figure B)
+ 196 NOTE: For both males and females, it is important to minimize the incision size in the 198 abdomen to prevent excessive damage that can lead to mortality
+ Sometimes the 199 intestines may also appear through the incision along with the gonads, so make sure they 200 are properly returned inside the incision before closure
+ It is important to understand 201 where ovaries or testes are localized in medaka abdomen by dissection
+ 202 
+ 
+ Suture the incision similarly in males and females (Figure )
+ 204 
+ 
+ 
+ Place the nylon thread beside the incision area, inject the right side of incision 205 part from inner body cavity using ultra-fine forceps to take the thread in with 206 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    
+ 
+ 
+ Inject the left side of incision part from outer body cavity to take out the 209 
+ 
+ 
+ Close the incision opening and make two knots and cut the excessive thread 212 
+ 
+ 
+ Put the fish directly into the recovery water
+  214 NOTE: The suture should be adequately tight, and the remaining thread on the fish 215 should be long enough to prevent the disattachment of the suture
+ 216 
+ 
+ Prepare the tools including glass needle, silicone capillary, a plastic tube with a 219 hole, an empty 
+5 ml plastic tube, a 
+5 ml plastic tube containing 1X PBS, mini 220 
+ 
+ Anesthetize the fish using 
+02% MS-222 solution as described in step 
+1, and 223 place the fish under a dissection microscope in a vertical position (Figure A)
+ 224 NOTE: It is highly recommended to place the fish on a bright surface to ease visualization 225 
+ 
+ Install the blood drawer by attaching a glass needle to the silicone tubing (Figure 228 B)
+ Break the tip of the needle with forceps with wide tip, and coat the anti-229 NOTE: Make sure that the opening of the needle tip is sufficiently large to allow drawing 231 
+ 
+ Direct the needle toward the peduncle area of the fish, aim at the caudal peduncle 234 vein (Figure 5A) and draw the blood using mouth until at least one fourth the total 235 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    NOTE: It is important to stop suctioning when removing the needle from fish body
+ 237 
+ 
+ Release the needle and put a piece of tape on it
+ Place the lid with a hole on a 239 reservoir tube and put the needle inside the tube through the hole with the needle 240 
+ 
+ Spin down the blood to collect the blood in the tube 243 
+ 
+ Proceed directly to downstream applications, or store the blood at -20 oC until 245 NOTE: The blood analysis is dependent on what outcome is required
+ For sex steroid 247 analysis such as E2 or 11KT, 1 ul of collected blood is adequate for the analysis
+ The 248 blood can be diluted in 1X PBS and extract steroids with diethyl ether or 249 dichloromethane if necessary
+  In many previous studies, clot was removed, however, as 250 the volume of blood is so small that we can ignore the effects in most cases
+ 251 This protocol describes every step for performing gonadectomy and blood 255 sampling in small sized teleosts, using the Japanese medaka as a model
+ The survival rate 256 of the fish after ovariectomy (OVX) in females is 100% (10 out of 10 fish) while 94% (17 257 out of 18 fish) of the males survived after orchidectomy
+ Meanwhile, after blood sampling 258 Sham-operated females show oviposition (Figure 6A) and all the eggs are fertilized 260 and allow for embryonic development (Figure B)
+ Sham operated males are also able to 261 fertilize eggs after only a couple of weeks
+ Similarly, partly-gonadectomized females 262 reared with partly-gonadectomized males also show oviposition and showed 100% of 263 fertilized eggs after 2 months
+ In contrast, no oviposition in females or fertilization by 264 males could be observed in fully gonadectomized fish, even after 4 months
+  265 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    When performed correctly, the body shape of the fish slightly changes (Figure A)
+ 266 If performed correctly, no piece of gonad should remain after the gonadectomy 267 (Figure 8), and after 4 months, all gonadectomized fish still showed healthy phenotype, 270 E2 and 11-KT blood concentrations measured with ELISA following the 272 manufacturers instructions revealed that E2 levels in OVX females (0,36  0,2 ng/ml) are 273 significantly lower than in sham-operated females (4,15  0,5 ng/ml) 24 hours after 274 surgery (Figure A)
+ Likewise, 11-KT concentrations in orchidectomized males (0,4  0,2 275 ng/ml) are also significantly lower than in sham-operated males (
+38  
+32 ng/ml) 24 276 hours after surgery (Figure B)
+ There is no statistical difference in blood levels of E2 and 277 11KT in gonadectomized fish after 4 months compared to the levels of those after 24 278 In contrast to fully OVX females, partly OVX fish, where only 1/3 to 1/2 of the 280 gonad was removed, showed no difference in E2 levels (3,37  0,6 ng/ml) compared to 281 sham-operated fish (Figure A)
+ However, in males there is a difference observed 282 between 11KT levels of sham-operated fish and partly orchidectomized fish (
+37  
+92 283 ng/ml) (Figure B)
+ However, partly orchidectomized males, where only 1/3 to 1/2 of the 284 gonad was removed, showed significantly higher levels of 11KT compared to in fully 285 As reported in previous literature, gonadectomy and blood sampling have long 289 been used in other model species to investigate questions related to the role of sex 290 steroids in regulation of the BPG axis
+ However, these techniques seem to be amenable 291 only for bigger animals
+ Considering the small size of the most used teleost models, we 292 hereby describe detailed protocols for gonadectomy and blood sampling that are feasible 293 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    The fact that the survival rate of gonadectomized fish reached almost 100% 295 indicates that the gonadectomy procedure is feasible to be applied on small fish
+ 296 Similarly, the procedure of blood sampling does not affect the survivability of the fish as 297 shown by the 100% survival after undergoing this procedure
+ In addition, sham-operated 298 females reared together with sham-operated males show oviposition and 100% fertilized 299 eggs, indicating that the incision and suture procedure do not affect the reproduction of 300 the fish
+ In other words, they were healthy enough to spawn
+ Meanwhile, as shown in 301 Figure 7, the incision and suture mark on the fish completely disappeared 4 weeks post-302 gonadectomy and the fish are still alive and look healthy 4 months after surgery, 303 indicating that the operation procedure is safe for the fish for long term purpose 304 gonadectomy and does not affect the life span of the fish
+ In addition, after 4 months no 305 gonads are observed
+ This is confirmed by the low levels of E2 and 11KT which are still 306 similar to that of those found in gonadectomized fish after 24 hours
+ 307 Partly gonadectomized fish showed comparable concentrations of sex steroids to 308 sham-operated fish, and as a consequence, resulted in oviposition in the females and 309 fertilization of eggs
+ These results suggest that the procedure of gonadectomy should be 310 performed with high precision, meaning that the ovary or testes should be completely 311 removed
+ Furthermore, since this procedure does not rely on Fish Anesthesia Delivery 312 as possible to prevent mortality during surgery
+ Indeed, the use of FADS enables us to 314 maintain the rhythm of operation since this tool allows continuous anesthetic condition 315 to the fish despite being exposed to the air
+ Nonetheless, due to its lower feasibility in 316 smaller teleosts, the use of FADS cannot be performed with these sized fish
+ Many factors 317 can affect the success rate of the procedure, including anesthesia period, the wideness of 318 incision, the accuracy and tidiness of the suture and fish handling during the procedure
+ 319 Since the protocol relies so much on the quick and clean procedure, some training is 320 highly recommended until reaching high success rate, indicated by high survival rate of 321 the fish after gonadectomy as well as complete removal of the gonads (see the difference 322 of morphological and anatomical appearance of the fish before and after successful 323 gonadectomy in Figure )
+ Another important point is that one should prepare healthy 324 fish by maintaining the fish optimally prior to performing the protocol
+ 325 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    With respect to blood sampling procedure, the steroid extraction is generally 326 performed using diethyl ether or dichloromethane
+ Meanwhile, the evaluation of sex 327 steroid concentrations is commonly carried out by using Enzyme-linked Immunosorbent 328 Assay (ELISA) kit, and there have been many ELISA kits commercially available for 329 different types of sex steroids
+ Due to the low amount of blood collected during blood 330 sampling, the assays performed to evaluate sex steroid concentrations in small teleosts is 331 not aimed for serum, but whole blood
+ This might influence the results obtained from the 332 blood can slightly differ from that of serum
+ Therefore, the comparison between plasma 334 and blood concentrations of sex steroids should be investigated for each assay in order to 335 determine whether measured concentrations from the assay should be re-calculated to 336 As documented in previous studies with different animal models, the protocol 338 described here will allow us to investigate questions related to reproductive physiology 339 using small teleosts as model
+ In fact, these techniques have already contributed to 340 answer questions concerning the regulation of the BPG axis and its feedback 341 mechanisms, such as the involvement of kiss1 (kisspeptin gene type 1) expressing 342 neurons in nucleus ventralis tuberis (NVT), and kiss2 (kisspeptin gene type 2) expressing 344 hormone beta sub-unit gene) in esr2a (estrogen receptor gene) knock out (KO) fish well as the profile of circadian rhythm of E2 in female fish studies demonstrated that sex steroids also affect the proliferation of gonadotropic cells 348 , it would be intriguing to investigate the effects of sex 349 steroid clearance after gonadectomy on pituitary plasticity
+ Besides, due to the fact that 350 the protocol can also be applied for blood glucose measurements as demonstrated in 351 , it may also be expanded to address research questions in 352 Finally, the protocols described here are intended and optimized for adult 354 medaka, and the outcomes due to different size of fish and materials used during the 355 procedures may vary
+ Also, as medaka left and right ovaries/ testes are fused, which 356 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    might provide an important advantage for gonadectomy, this protocol might need few 357 small adaptations before to be used in other species where this is not the case such as in 358 zebrafish
+ Thus, an optimization according to the choice of laboratory equipment and fish 359 size should be taken into account before testing these protocols
+ 360 The authors thank Ms Lourdes Carreon G Tan for her assistance in the fish husbandry
+ 365 This work was funded by NMBU, Grants-in-Aid from Japan Society for the Promotion of 366 Science (JSPS) (Grant number 18H04881 and 18K19323), and grant for Basic Science 367 1 Weltzien, F
+ -A
+, Andersson, E
+, Andersen, 
+, Shalchian-Tabrizi, K
+ & Norberg, B
+ The 370 brainpituitarygonad axis in male teleosts, with special emphasis on flatfish 371 2 Yaron, Z
+ & Levavi-Sivan, B
+ J
+ E
+ o
+ f
+ p
+ f
+ g
+ t
+ e
+ Endocrine regulation of fish reproduction
+  374 3 Goldman, B
+ D
+ The circadian timing system and reproduction in mammals
+ Steroids
+ 64 376 4 Taranger, G
+ L
+ et al Control of puberty in farmed fish
+ General and Comparative 378 5 Messinis, I
+ E
+ Ovarian feedback, mechanism of action and possible clinical implications
+ 380 6 Diotel, N
+ et al Steroid Transport, Local Synthesis, and Signaling within the Brain: Roles in 382 Neurogenesis, Neuroprotection, and Sexual Behaviors
+ Frontiers in Neuroscience
+ 12 84, 383 7 Diotel, N
+ et al The brain of teleost fish, a source, and a target of sexual steroids
+ Front 385 8 Larson, T
+ A
+ Sex Steroids, Adult Neurogenesis, and Inflammation in CNS Homeostasis, 387 9 Fontaine, R
+ et al Gonadotrope plasticity at cellular, population and structural levels: A 390 comparison between fishes and mammals
+ General and Comparative Endocrinology
+ 287 391 10 Fontaine, R
+ et al Direct and indirect effects of sex steroids on gonadotrope cells 393 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    11 Kanda, S
+ Evolution of the regulatory mechanisms for the hypothalamic-pituitary-gonadal 395 axis in vertebrateshypothesis from a comparative view
+ General and Comparative 396 12 Schreck, C
+ B
+ Stress and fish reproduction: The roles of allostasis and hormesis
+ General 398 13 Wendelaar Bonga, S
+ E
+ J
+ P
+ r
+ The stress response in fish
+  77 (3), 591-625 ()
+ 401 14 Mommsen, T
+ P
+ Paradigms of growth in fish
+ Comparative Biochemistry and Physiology 402 15 Won, E
+ & Borski, R
+ Endocrine Regulation of Compensatory Growth in Fish
+  4 (74), 405 16 MacKenzie, D
+ S
+, VanPutte, C
+ M
+ & Leiner, K
+ A
+ Nutrient regulation of endocrine 407 17 Rnnestad, I
+, Thorsen, A
+ & Finn, R
+ N
+ Fish larval nutrition: a review of recent advances 409 in the roles of amino acids
+ Aquaculture
+ 177 (1), 201-216, doi:
+1016/S0044-410 18 Borg, B
+ Androgens in teleost fishes
+ Comparative Biochemistry and Physiology Part C: 412 19 Rege, J
+ et al Circulating 11-oxygenated androgens across species
+ The Journal of Steroid 415 20 Blzquez, M
+, Bosma, P
+ T
+, Fraser, E
+ J
+, Van Look, K
+ J
+ W
+ & Trudeau, V
+ L
+ Fish as models 418 Biochemistry and Physiology Part C: Pharmacology, Toxicology and Endocrinology
+ 119 420 21 Zambrano, D
+ Innervation of the teleost pituitary
+ General and Comparative 422 22 Weltzien, F
+ -A
+, Hildahl, J
+, Hodne, K
+, Okubo, K
+ & Haug, T
+ M
+ Embryonic development of 424 gonadotrope cells and gonadotropic hormones  Lessons from model fish
+ Molecular and 425 23 Nelson, J
+ S
+, Grande, T
+ C
+ & Wilson, M
+ V
+ H
+ in Fishes of the World     128-129 (John 427 24 Volff, J
+ N
+ Genome evolution and biodiversity in teleost fish
+ Heredity
+ 94 (3), 280-294, 429 25 Powers, D
+ Fish as model systems
+  246 (4928), 352-358, doi:
+ /science
+2678474 %J 431 26 Harris, M
+ P
+, Henke, K
+, Hawkins, M
+ B
+ & Witten, P
+ E
+ Fish is Fish: the use of 433 experimental model species to reveal causes of skeletal diversity in evolution and disease
+ 434 Zeitschrift fur angewandte Ichthyologie = Journal of applied ichthyology
+ 30 (4), 616-629, 435 27 Naruse, K
+, Tanaka, M
+ & Takeda, H
+ Medaka: A Model for Organogenesis, Human 437 28 Briggs, J
+ P
+ The zebrafish: a new model organism for integrative physiology
+  282 (1), R3-439 29 Green, P
+ G
+ et al Sex Steroid Regulation of the Inflammatory Response: 441 Sympathoadrenal Dependence in the Female Rat
+  19 (10), 4082-4089, 442 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    30 Pakarinen, P
+ & Huhtaniemi, I
+ Gonadal and sex steroid feedback regulation of 444 gonadotrophin mRNA levels and secretion in neonatal male and female rats
+  3 (2), 139, 445 31 Purves-Tyson, T
+ D
+ et al Testosterone regulation of sex steroid-related mRNAs and 447 dopamine-related mRNAs in adolescent male rat substantia nigra
+ BMC Neuroscience
+ 13 448 32 Adkins-Regan, E
+ & Ascenzi, M
+ Sexual differentiation of behavior in the zebra finch: Effect 450 of early gonadectomy or androgen treatment
+ Hormones and Behavior
+ 24 (1), 114-127, 451 33 McCreery, B
+ R
+ & Licht, P
+ Effects of gonadectomy and sex steroids on pituitary 453 agonist in the bullfrog, Rana catesbeiana
+ General and Comparative Endocrinology
+ 54 (2), 455 34 Maran, R
+ R
+ M
+ et al Transient Neonatal Hypothyroidism Alters Plasma and Testicular Sex 457 Steroid Concentration in Puberal Rats
+ Endocrine Research
+ 26 (3), 411-429, 458 35 Gangula, P
+ R
+ R
+, Wimalawansa, S
+ J
+ & Yallampalli, C
+ Pregnancy and sex steroid 460 36 Coddington, E
+ J
+ & Cree, A
+ Effect of Acute Captivity Stress on Plasma Concentrations of 463 Corticosterone and Sex Steroids in Female Whistling Frogs, Litoria ewingi
+ General and 464 37 Adkins-Regan, E
+, Abdelnabi, M
+, Mobarak, M
+ & Ottinger, M
+ A
+ Sex steroid levels in 466 developing and adult male and female zebra finches (Poephila guttata)
+ General and 467 38 de Gier, J
+ et al Effects of gonadotropin-releasing hormone administration on the 469 pituitary-gonadal axis in male and female dogs before and after gonadectomy
+ 470 39 Smith, J
+ T
+, Clifton, D
+ K
+ & Steiner, R
+ A
+ Regulation of the neuroendocrine reproductive 472 axis by kisspeptin-GPR54 signaling
+  131 (4), 623, doi:
+ /rep
+ 
+00368, ()
+ 473 40 Elsaesser, F
+ & Parvizi, N
+ Estrogen Feedback in the Pig: Sexual Differentiation and the 474 Effect of Prenatal Testosterone Treatment
+ Biology of Reproduction
+ 20 (5), 1187-1193, 475 41 Alvarado, M
+ V
+ et al Actions of sex steroids on kisspeptin expression and other 477 reproduction-related genes in the brain of the teleost fish European sea bass
+  219 (21), 478 42 Godwin, J
+, Crews, D
+ & Warner, R
+ R
+ Behavioural sex change in the absence of gonads in 480 a coral reef fish
+ Proceedings: Biological Sciences
+ 263 (1377), 1683-1688, 481 43 Jenkins, N
+ & Dodd, J
+ M
+ Effects of ovariectomy of the dogfish Scyliorhinus canicula L
+ on 483 circulating levels of androgen and oestradiol and on pituitary gonadotrophin content
+  21 484 44 Senthilkumaran, B
+ & Joy, K
+ P
+ Effects of ovariectomy and oestradiol replacement on 486 Heteropneustes fossilis: a study correlating plasma oestradiol and gonadotrophin levels
+ 488 45 Manickam, P
+ & Joy, K
+ P
+ Changes in hypothalamic catecholamine levels in relation to 490 season, ovariectomy, and 17-estradiol replacement in the catfish, Clarias batrachus (L
+ )
+ 491 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    46 Kasahara, M
+ et al The medaka draft genome and insights into vertebrate genome 494 47 Hori, H
+      1-16 ()
+ 496 48 Fontaine, R
+ & Weltzien, F
+ -A
+ Labeling of Blood Vessels in the Teleost Brain and Pituitary 497 Using Cardiac Perfusion with a DiI-fixative
+ JoVE
+ (148), e59768, doi:doi:
+3791/59768, 498 49 Fontaine, R
+, Hodne, K
+ & Weltzien, F
+ -A
+ Healthy Brain-pituitary Slices for 500 Electrophysiological Investigations of Pituitary Cells in Teleost Fish
+ JoVE
+ (138), e57790, 501 50 Zhao, Y
+ & Wayne, N
+ L
+ Recording Electrical Activity from Identified Neurons in the Intact 503 51 Ager-Wick, E
+ et al Preparation of a High-quality Primary Cell Culture from Fish 505 52 Sladky, K
+ K
+ & Clarke, E
+ O
+ Fish Surgery: Presurgical Preparation and Common Surgical 507 Procedures
+ Veterinary Clinics of North America: Exotic Animal Practice
+ 19 (1), 55-76, 508 53 Kayo, D
+, Oka, Y
+ & Kanda, S
+ Examination of methods for manipulating serum 17-510 Estradiol (E2) levels by analysis of blood E2 concentration in medaka (Oryzias latipes)
+ 511 54 Kanda, S
+ et al Identification of KiSS-1 Product Kisspeptin and Steroid-Sensitive Sexually 514 Dimorphic Kisspeptin Neurons in Medaka (Oryzias latipes)
+ Endocrinology
+ 149 (5), 2467-515 55 Kanda, S
+, Karigo, T
+ & Oka, Y
+ Steroid Sensitive kiss2 Neurones in the Goldfish: 517 Evolutionary Insights into the Duplicate Kisspeptin Gene-Expressing Neurones
+  24 (6), 518 56 Mitani, Y
+, Kanda, S
+, Akazome, Y
+, Zempo, B
+ & Oka, Y
+ Hypothalamic Kiss1 but Not Kiss2 520 Neurons Are Involved in Estrogen Feedback in Medaka (Oryzias latipes)
+ Endocrinology
+ 521 57 Kayo, D
+, Zempo, B
+, Tomihara, S
+, Oka, Y
+ & Kanda, S
+ Gene knockout analysis reveals 523 essentiality of estrogen receptor 1 (Esr2a) for female reproduction in medaka
+ Scientific 524 58 Fontaine, R
+, Ager-Wick, E
+, Hodne, K
+ & Weltzien, F
+ -A
+ Plasticity in medaka gonadotropes 526 via cell proliferation and phenotypic conversion
+  245 (1), 21, doi:
+1530/joe-19-0405, 527 59 Fontaine, R
+, Ager-Wick, E
+, Hodne, K
+ & Weltzien, F
+ -A
+ Plasticity of Lh cells caused by cell 529 proliferation and recruitment of existing cells
+  240 (2), 361, doi:
+1530/joe-18-0412, 530 60 Zang, L
+, Shimada, Y
+, Nishimura, Y
+, Tanaka, T
+ & Nishimura, N
+ Repeated Blood Collection 532 for Blood Tests in Adult Zebrafish
+ JoVE
+ (102), e53272, doi:doi:
+3791/53272, ()
+ 533 61 Hasebe, M
+, Kanda, S
+ & Oka, Y
+ Female-Specific Glucose Sensitivity of GnRH1 Neurons 534 Leads to Sexually Dimorphic Inhibition of Reproduction in Medaka
+ Endocrinology
+ 157 535 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    Fig 
+ Razor blade for gonadectomy (A), glass needle for blood extraction (B), and plastic tube together with a lid with a hole for blood collection (C)
+ Fig 
+ Location of the incision area
+ A) Drawing of the incision area located between the ribs in females (left panel) and males (right panel); B) gonad removal in females (left panel) and males (right panel), white circles showing the joint part, white arrow showing the testis and (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    Figure 
+ The procedure of suture
+ 1) a hole is made on the right side of the incision using fine forceps
+ 2) the nylon thread is passed through the skin using the hole made in 
+ 3) a hole is made in the left side of the incision
+ 4) the nylon thread is passed through the hole made in 
+ 5) an overhand knot is made twice to close the incision
+ 6) excess thread is cut
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    Fig 
+ Fish position during blood sampling (A), the installation of glass needle with the Fig 
+ The suction area of blood sampling (A), drawn blood (B) and blood collection steps (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    Fig 
+ Sham-operated fish shows spawning
+ Oviposition of eggs (A) and fertilized eggs (B)
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    Fig 
+ Morphological (A) and anatomical (B) appearance of intact and gonadectomized fish (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    Fig 
+ Blood levels of E2 in female (A) and 11KT in male (B) medaka, 24 hours after sham operation (control), partly gonadectomy or gonadectomy, and 4 months after gonadectomy (OVX, ovariectomy in females; Cas, castrated in males) (Data in the graph are provided as mean + SD; n = )
+ Different letters (a-c) show statistically significant differences
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted August 31, 
+ ;    

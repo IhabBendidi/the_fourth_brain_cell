@@ -1,0 +1,267 @@
+Attentional Bias Modification is associated with fMRI Response towards Negative Stimuli in Residual Depression: A Randomized Controlled TrialE
+ Hilland1,2, N
+ I
+ Landr1,2, C
+ J
+ Harmer1,3, M
+ Browning4,5, L
+ A
+ 1Clinical Neuroscience Research Group, Department of Psychology, University of Oslo, Oslo, Department of Psychiatry, University of Oxford, Oxford, UK
+ 5Oxford health NHS Trust, Oxford, UK
+ 6NORMENT, KG Jebsen Centre for Psychosis Research, Division of Mental Health and Addiction, Oslo University Hospital & Institute of Clinical Medicine, University of Oslo, Norway
+ not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    Modification of attentional biases (ABM) may lead to more adaptive emotion perception and emotion regulation
+ Understanding the neural basis of these effects may lead to training has so far not been investigated in depression
+ The main aim of the RCT was to explore differences in brain activity after ABM training in response to emotional stimuli
+  A total of 134 previously depressed individuals were randomized into 14 days of ABM- or a placebo training followed by an fMRI emotion regulation task
+ Depression symptoms and subjective ratings of perceived negativity during fMRI was examined between the training groups
+ Brain activation was explored within predefined areas (SVC) and across the whole brain
+ Activation in areas associated with changes in attentional biases (AB) The ABM group showed reduced activation within the amygdala and within the anterior cingulate cortex (ACC) when passively viewing negative images compared to the placebo group
+ No group differences were found within predefined SVCs associated with with degree of change in AB and with degree of depressive symptoms in ABM versus The findings should be replicated in other samples of depressed patients and in studies using designs that allow analyses of within-group variability from baseline to follow-up
+  ABM training has an effect on brain function within circuitry associated with emotional not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    A number of effective treatments exist for major depressive disorder
+ However, following successful treatment relapse is common with 50-70% of patients relapsing within 5 years
+1,2 Residual symptoms are among the strongest predictors for relapse in recurrent for emotional stimuli plays a key role in development and relapse in depression
+4 Despite mixed findings, clinically depressed subjects, as well as currently euthymic previously depressed subjects, have repeatedly been reported to orient their attention toward negative faces rather than neutral or positive faces
+5-10 Attentional biases (AB) and deficits in cognitive control may interfere with emotion regulation and mood state
+ Negative cognitive biases in depression are thought to be facilitated by increased Although there is debate about the true effect size of ABM in depression13,14 some studies have reported reduced depressive symptoms after successful modification of AB
+15-18 The neural basis of changes in AB, which is believed to be the mechanism of change behind symptom improvement after ABM training, has so far not been investigated
+ The for appraisal, generation of affective states and emotion regulation
+ The amygdala and insular cortex are particularly important within a ventral system linked to the emotional significance of stimuli, and the production of affective states
+ The ventral ACC plays a main role in automatic regulation of emotional responses
+ A dorsal system includes the dorsal ACC and prefrontal regions and is argued to be involved in effortful regulation of The neural effects of a single session ABM in healthy individuals include lateral dorsal neurocircuitry in emotion perception
+ One fMRI study in young women with sub-threshold depression found differences between ABM and placebo in measures of spontaneous fluctuations within the right anterior insula and right middle frontal not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    gyrus,22 areas critical for emotion generation and automatic emotion regulation of emotional responses
+ In a study with clinically depressed participants differences in resting state connectivity between ABM and placebo was found within the middle frontal gyrus and dorsal ACC, a neural system important for cognitive control over emotions, along with changes in a network associated with sustained attention to visual information in the placebo group
+23 Overall, these early results provide some evidence that ABM modifies function in emotional regulatory systems although the small study sample sizes and variety of approaches used may underpin the absence of  consistent No study has investigated ABM-induced changes in emotion processing using fMRI in a large clinical sample after multiple training sessions
+ In this pre-registered clinical trial (NCT02931487) we used a sample of 134 participants previously treated for depression and with various degrees of residual symptoms
+ A main aim was to explore the neural effects of ABM within both ventral- and dorsal emotion perception circuitry
+  We attempted to actively regulate their emotional response
+ Brain activation in response to passive viewing of negative stimuli was explored across the whole brain and within the bilateral amygdala
+ Furthermore, we examined how changes in AB, the mechanism by which ABM is believed to work, and changes in symptoms differed between ABM as Participants and Screening procedures: Patients that had been treated for at least one previous episode of MDD were randomized into two treatment conditions with either a positive ABM- or a closely matched active placebo training condition
+ Block randomization (1:1) was performed at inclusion to ensure equal numbers of participants and similar characteristics for the two groups
+ Participants were invited to be part of the fMRI study immediately after training and preferably within one week after ABM training
+ The current clinical trial (NCT02931487) is an extension of a larger double-history of depression
+ A total of 136 eligible participants between 18-65 years old were not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    The main recruitment site was an outpatient clinic in the Department of Psychiatry, Diakonhjemmet Hospital in Oslo
+ Participants were also recruited from other clinical sites and via social media
+ Individuals diagnosed with current- or former neurological deficit disorder, or head trauma were excluded via pre-screening
+ Informed consent was obtained before enrolment
+ The procedure was approved by The Regional Ethical Committee for Medical and Health Research for Southern Norway (2014/217/REK sr-Inclusion criteria were individuals that had experienced more than one depressive (depressed mood) and/or A2a (loss of interest or pleasure) criteria, more than 5 positive items on A3 and filling the A5 criterion (DSM 
+ -
+36 Recurrent/ ICD-10 F
+ x)
+ To assess both clinically- and self-rated of symptoms Beck Depression Inventory (BDI-Attentional bias modification procedure: The ABM task was a computerized visual dot-probe procedure developed by Browning and coworkers
+15 A fixation cross was initially displayed followed by two images (the stimuli) presented concurrently on the top and bottom of the computer screen
+ Following stimulus onset, a probe (one or two dots) immediately appeared on the same location as one of the image stimuli and remained on the screen until the participant responded
+ The types of stimuli were pictures of emotional faces of three valences; positive (happy), neutral, or negative (angry and fearful)
+ A single session of the task involved 96 trials with equal numbers of the three stimulus pair types
+ In addition, equal numbers of trials were randomly presented for 500- or 1000 ms before the probe was displayed
+ In each trial of the task, stimuli from two valences were displayed, in one of the following pairing types: positive-neutral, behind positive stimuli in 87 % of the trials (valid trials), as opposed to 13% with probes should implicitly learn to deploy their attention toward positive stimuli, and in this way develop a more positive AB when completing the task
+ The neutral ABM placebo condition was otherwise identical, except the location of the probe, which was located not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    behind the positive (valid trials) stimuli in 50% of the trials
+ Participants completed two sessions (96 trials) of ABM daily during the course of fourteen days (28 sessions in total) on identical notebook computers (14" HP EliteBook 840, 1600x900, 8GB, Intel Core i-MRI Scan acquisition: Scanning was conducted on a 3T Philips Ingenia whole-body scanner, with a 32 channel Philips SENSE head coil (Philips Medical Systems)
+ Functional images were obtained with a single-shot T2* weighted echo planar imaging sequence (repetition time (TR): 2000 ms; slice echo time (TE): 30 ms; field of view (FOV): 240x240x117; imaging matrix: 80x80; flip angle 90, 39 axial slices, interleaved at 3 mm thickness, no gap, voxel size 3x3x3 mm)
+ The scanning session consisted of 340 volumes, synchronized to the onset of the experiment
+ Slice orientation was adjusted to the line running from the anterior to posterior commissure
+ A T1-weighted anatomical image with a voxel size of 1x1x1 mm was recorded for registration of the functional images (TR: 
+5 ms; TE: 
+3 ms; FOV: 256x256x184; flip angle: 7;184 sagittal slices)
+  experiment
+ Participants were scanned as they were viewing sequences of negative and neutral images while carrying out instructions either to down-regulate their emotional responses using a reappraisal strategy, or to simply allow themselves to attend to the pictures without trying to influence their emotional reactions
+ After each image the participants provided a rating of the intensity of their emotional state using a visual analogue scale (VAS) ranging from neutral to negative
+ Stimuli were selected from the International Affective Picture System 27 and the Emotional Picture Set
+28 Negative and ratings (see Supplemental information for more detail)
+ Each trial started with a fixation cross followed by a written instruction, (Attend or Regulate)
+ The instruction was presented for 2000 ms
+ A negative or neutral image was presented for 6000 ms, followed by a rating screen time-locked to 6000 ms
+ Between stimuli there was a temporal jitter randomized from 2000-8000 ms (mean ISI; 3,700 ms) to optimize statistical efficiency in the event related design
+29 The task consisted of blocks of 18 trials with a 20 second null-trial between the two blocks
+ The procedure was completed in two independent runs during the scanning session, 72 trials in total In each block 12 items were neutral and 24 items were negative, giving three counterbalanced experimental not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    each block was interspersed pseudo-randomly from 12 unique lists
+ The total duration of one single functional scanning run was 11 minutes, and total scan time~22 minutes
+ Stimuli were presented using E-Prime 
+0 software (Psychology Software Tools)
+ An MRI compatible monitor for fMRI was placed at the end of the scanner behind the participants head
+ Participants watched the monitor using a mirror placed at the head coil
+ Responses were collected with a response grip with two response buttons
+ Physiological data (heart and respiration curves) were recorded at 1000 Hz using a Training and instruction procedures: A written protocol with detailed instructions was used to introduce the emotion regulation experiment
+ The protocol was dictated for each participant by the researcher outside the MRI- scanner in order to standardize the verbal instructions
+ The fMRI experiment had three in-scanner exercise trials before scan start in order to make participants familiar with the instructions, timing, response buttons and VAS scale
+ The training procedure was repeated before the second run of the Symptom change and subjective ratings of negativity: Changes in self-rated and clinician rated symptoms were analyzed in PASW 
+0 (IBM) using a repeated measures ANOVA with intervention (ABM versus placebo training) as a fixed factor
+ Symptoms at baseline and at two weeks follow-up (time) were the dependent variable
+ To investigate self-reported emotional reactivity (VAS scores) during fMRI a factor based on the three fMRI analyses: Whole brain analysis used the AttendNegative > AttendNeutral contrast to tests whether ABM influences overall brain activity in response passive viewing of used as covariate
+ Spatial smoothing FWHM was set to 5 mm
+ Featquery was used for FEAT result interrogation
+ Mean local percent signal change was extracted to explore performed in order to test whether areas within the brain respond differently in ABM not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    Small volume correction (SVCs) used regions from a recent meta-analysis on downregulation of negative affect
+ Buhle et al30 reported seven clusters related to contrasted to passive viewing of negative images
+ The clusters were situated in left and right middle frontal gyrus, right inferior frontal gyrus, right medial frontal gyrus, left and right superior temporal lobe, and left middle temporal gyrus (See Supplemental)
+ The bilateral amygdala, but no other brain regions was reported for the opposite from passive viewing of negative images as compared to passive viewing of neutral Binary spheres with a 5 mm radius based on MNI coordinates of peak voxels were used for the predefined regions
+ Two single masks were created for the emotion regulation seven cortical spheres and the two subcortical spheres respectively were combined into two single binary SVCs
+ Z- threshold was set to 
+3 and cluster p-threshold was 
+ 
+ Mean local percent signal change was extracted from the two SVCs to explore individual symptoms at baseline was demeaned and used as covariate also in the SVC analysis
+  fMRI data preprocessing and noise reduction: The FMRIB Software Library version fMRI data
+ FMRI data processing was carried out using FEAT (FMRI Expert Analysis Tool) Version 
+00, part of FSL (FMRIB's Software Library, www
+ fmrib
+ ox
+ ac
+ uk/fsl)
+ In conjunction with FEAT FSL-PNM, 34 EVs were applied to regress out physiological noise from pulse and respiration
+33 Registration to high resolution structural and/or standard space images was carried out using FLIRT
+34,35 Registration from high resolution structural to standard space was then further refined using FNIRT nonlinear Time-series statistical analysis was carried out using FILM with local autocorrelation correction
+37 Linear registration was conducted with 12 DOF
+ Z (Gaussianised T/F) not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    statistic images were thresholded using clusters determined by Z>
+3 and a (corrected) cluster significance threshold of P=
+ 
+38 Two participants were excluded from the analyses due to signal loss caused by a technical problem with the head coil
+ Time series from each subjects two first level runs were combined using an intermediate fixed effect model in FEAT before submission to second level analysis
+ A total of 134 participants, 64 from the ABM group and 70 from the placebo group were included in the intermediate - Table 1 shows means, standard deviations (SD) or numbers (%)
+ISCED= International Standard Classification of Education
+ SSRI= any current usage of an antidepressant belonging to the Selective Serotonin Reuptake Inhibitors Symptom change after ABM: There was a statistically significant effect of the intervention (time) for rater-evaluated depression as measured by the change in HRSD, with lower symptoms of depression in the ABM group [F (,)=
+277,  = 
+03, p= 
+ ]
+ The means and standard deviations at baseline in ABM was (
+56 (
+38)) and not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    placebo (
+53 (
+69)) and changed to (
+93 (
+90)) and (
+77 (
+76)) at two weeks follow-up
+  No statistically significant effect was found for self-reported symptoms as measured by the BDI-II [F (,)=
+048, p= 
+ ]
+ The means and standard deviations at baseline in ABM was (
+12 (
+62)) and placebo (
+09 (
+66)) and changed to (
+25 (
+04)) and (
+82 (
+72)) at two weeks follow-up
+ There was a general symptom improvement in both the ABM and placebo group as measured by the BDI-II from baseline to post training [F (,)=
+775, = 
+18, p< 
+ ]
+  This is in accordance with the results from the sample in which this smaller cohort of subjects is drawn ()
+ Subjective ratings of perceived negativity: We found a statistically significant difference between self-reported emotional reactivity measured by VAS scores during the fMRI experiment between task conditions
+ The repeated measures ANOVA showed that mean VAS scores were lowest when viewing neutral images (M=
+ (
+8)) followed by when (M=
+8 (
+9)), and highest for the passive viewing of negative images (
+ (
+3)) [F= (,)=
+074, = 
+93, p< 
+ ]
+ A post hoc test showed that the differences between the passive and regulate viewing conditions for negative stimuli was large and statistically significant F (1,133)= 
+81, = 
+60, p< 
+ ]
+ VAS ratings did not differ between Effects of ABM from whole brain analyses: Passive viewing of negative images revealed greater placebo activation in a cluster within the pregenual ACC, the paracingulate  and the medial cortex bilaterally, extending to the right frontal orbital cortex and the frontal pole compared to ABM
+ The peak activation for the cluster was found in the left frontal medial cortex (MNI coordinates x y z =-16 36 -10, Z=
+86, p=
+001) (Figure 
+) not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    Figure 1 shows cluster activation (Z>
+3) for Placebo over ABM for negative images (left), together with Effects of ABM within predefined SVCs: Analyses masked across predefined emotion regulation circuitry revealed more activation placebo as compared to ABM within the right- (MNI x y z = -18 -6 -20, size=8, Z=
+89, p=
+032) and left amygdala (MNI x y z = 28 0 -16, size= 3, Z = 
+55, p= 
+040) for the passive viewing contrast (AttendNegative > Figure 2 shows amygdala mean activation (left) for placebo and ABM (red) and peak voxels where placebo had more activation compared to ABM for negative images (yellow) and distribution of individual not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    No differences between ABM and placebo was found for the emotion regulation revealed activation within two SVCs in the left inferior frontal gyrus (MNI x y z = -30 -2 -54, size=75, Z=
+5, p=
+017) and right middle frontal gyrus (MNI x y z = 60 26 6, revealed increased bilateral amygdala activation in both the ABM- and placebo group
+ The largest cluster was found within the left amygdala (MNI x y z = -18 0 -14, size=75, Z=
+93; p=
+006) and a smaller cluster was found within the right amygdala (MNI x y z =  Two distinct clusters were associated with the interaction between the passive viewing of negative images (AttendNegative > AttendNeutral), the intervention and degree of AB change (MNI x y z = 54 -24 8, size=1061; Z=
+05, p<
+001) and (MNI x y z =-50 0 10, Figure 3 shows areas activated in association to the interaction between AB and the intervention (left)
+  The scatter plot (right) shows the regression lines and individual distribution in the ABM and the placebo intervention, and degree of symptom change (HRSD) were found within the right planum temporale and insular cortex (MNI x y z = 50 -10 18, size=872; Z=
+28, p<
+001) not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    Figure 4 shows areas activated in association to the interaction between HRSD and the intervention (left)
+  The scatter plot (right) shows the regression lines and individual distribution in the ABM and the placebo Our results revealed intervention dependent fMRI changes after two weeks of ABM within areas consistently associated with emotional appraisal and the generation of affective states, areas within a circuitry known to be altered in depression
+4,19,20 The placebo group showed more pronounced activation for negative images within the amygdala, in midline structures, and in the pregenual ACC
+ Analysis of the mechanism of change showed that degree of changes in AB was linearly linked to activity in the insular cortex bilaterally
+ Symptom improvement after ABM was linearly associated with activation in the right insular cortex, areas involved in the generation of affective activation within the left inferior frontal gyrus and right middle frontal gyrus across groups
+30 The amygdala was also more activated during passive viewing versus active regulation of negative stimuli, but did not differ between the ABM and placebo group
+ In line with these results, we found no differences between ABM and placebo training as measured by subjective ratings (VAS) of perceived negativity
+ This is consistent with the primary outcomes from the clinical trial that found an ABM effect restricted to blinded not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    clinician-rated, but not self-rated symptoms
+39 Together, the results may imply that the early effects of ABM are restricted to changes in emotion generation and appraisal, as opposed to more conscious forms of emotion regulation linked to the dorsal system
+  have shown altered activity in areas that distinguished ABM and placebo in the current study including the insula and ACC
+40-42 In a study by Horn et al43 increased connectivity between pregenual ACC and insula was found in severely depressed patients compared to mildly depressed patients and healthy controls
+ Functional connectivity in the insula connectivity has been linked to maladaptive rumination45 in depression
+ Midline brain structures including the pregenual ACC has been linked to self-referential processing,46 hopelessness,47 anhedonia48 and impaired emotion processing49 as well as with in studies of functional connectivity  and depression
+ Notably, the ACC and insula are together with the amygdala core areas of the salience network, which determines the significance of external stimuli
+ The salience network has been hypothesized to play a role in switching between task positive- and negative networks50,51 and may well play a role in symptom improvement after ABM as found in this study
+  The insula and the amygdala are among core brain areas that respond preferentially to negative stimuli in healthy individuals, and activation in the insula and ACC has repeatedly been reported across a range of experiments using emotional tasks with cognitive demand and mental imagery
+52,53 Neural responses to negative stimuli within the amygdala, insula and ACC are found to be more pronounced in depressed patients versus healthy controls
+54  Ma 55 describes an emotional circuit including the insula, bilateral amygdala and ACC affected by antidepressant medication by decreasing activity been hypothesized to work by remediating negative affective biases, i
+ e
+ targeting the same mechanism as when applying an ABM procedure
+56-58 Similarly, the moderation of awareness towards negative stimuli via ABM (the mechanism of change) may alter may lead to altered parasympathetic responses via circuitry involving the amygdala and ACC
+ The translation of these changes into improved subjective mood may take some time as the individual learns to respond to this new and more positive social and not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    emotional perspective of the world
+ However, neural correlates of early changes in the processing of emotional stimuli might be a marker of a process leading to symptom improvement
+ This model is consistent with cognitive theories of depression4,59 which the ABM procedure builds on
+ Accordingly, studies on cognitive behavioral therapy (CBT) shows that pregenual ACC is positively correlated with the degree of symptom improvement
+60-65 Moreover, given that that the pregenual ACC is believed to play an found in this study may reflect more adaptive emotion processing after ABM
+ Worldwide, there is a pressing demand for evidence-based treatments in mental health
+ It has been argued that psychotherapy research does not provide explanations for how or why even the most commonly used interventions produce change
+68 In a recent tomorrows science the authors argue that there is an acute need to improve treatment and thus clinical trials should focus not only on efficacy, but also on identification of the addressing such mechanisms by targeting changes in AB, which is believed to be the The current study is based on an RCT with a larger sample of patients that found an ABM effect on clinician-rated symptoms
+ It uses a well validated emotion perception task and follows a stringent pre-registered research protocol which represents a strength
+ This study exploits the link between a psychological mechanism, clinical measures and underlying brain function measured by fMRI, thus the results should have translational potential The current trial is the largest study that has investigated changes in emotion A key limitation related to the research design is that fMRI assessment after ABM does not allow statistical modeling of within-individual variance from baseline to follow-up
+ There is an unexpected difference in symptom degrees at baseline that could be associated with group differences in brain activation
+ Adding symptom degree as a covariate in the fMRI analysis will regress out variance related to this particular variable
+ The sample consist of patients with previous depression and various degrees of residual not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    symptoms, and needs to be replicated in studies with other patient groups
+ Brain activation related to ABM may also be conditionally mediated by multiple biological- This study demonstrates alterations in brain circuitry linked to passive viewing, but not conscious regulation of emotional stimuli and represent the first experimental evidence not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    Acknowledgements: We want to thank our fMRI research assistant Dani Beck
+ Further, we thank Diakonhjemmet Hospital, Division of Psychiatry, for help and support during the recruiting period and the Intervention Center, OUS for radiological assistance in MRI protocols, data acquisitions and screening for unexpected neuropathological findings
+ We thank Tor Endestad for establishing invaluable infrastructure We also thank our external recruitment sites; Unicare, Coperiosenteret AS, Torgny Syrstad, MD , Synergi Helse AS and Lovisenberg Hospital The project is supported by the South-Eastern Norway Regional Health Authority, grant number: 2015052 (to NIL), Research Council Norway, grant number: 229135 (to NIL) and Conflicts of interest: CJH has received consultancy fees form Johnson and Johnson Inc, P1 vital and Lundbeck
+ MB hold a part time position at P1 vital Ltd and owns shares in P1 vital products Ltd
+ MB has received travel expenses from Lundbeck and has acted as a consultant for J&J, and NIL has received consultancy fees and travel expenses from Lundbeck
+ EH, LM and RJ reports no biomedical financial not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 19, 
+ ;    

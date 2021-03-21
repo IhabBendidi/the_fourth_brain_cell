@@ -1,0 +1,719 @@
+Post-hoc analyses of Surrogate Markers of Non-Alcoholic Fatty Liver Disease (NAFLD) 1 and Liver Fibrosis in Patients with Type 2 Diabetes in a Digitally-Supported Continuous 2 Eduardo Vilar-Gomez1, Shaminie J
+ Athinarayanan2, Rebecca N
+ Adams2, Sarah J
+ Hallberg2,3, 5 Nasir H
+ Bhanpuri2, Amy L
+ McKenzie2, Wayne W
+ Campbell4, James P
+ McCarter2,5, Stephen D
+ 6 1 Division of Gastroenterology and Hepatology, Indiana University School of Medicine, 8 2 Virta Health, 535 Mission Street, San Francisco, CA, USA 10 4 Department of Nutrition Science, Purdue University, West Lafayette, IN, USA 12 5 Department of Genetics, Washington University School of Medicine, St
+ Louis, MO, USA 13 6 Department of Human Sciences, The Ohio State University, Columbus, OH, USA  14 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    Mailing address: 702 Rotary Cir, Suite 225, Indianapolis, IN 46202  22 DATA SHARING: Data sets and statistical code used for the current study are available from 27 CCI, continuous care intervention; UC, usual care; NAFLD, non-alcoholic fatty liver disease;; 31 N-LFS, non-alcoholic liver fatty score; NFS, non-alcoholic fatty liver disease fibrosis score; 32 CLD, chronic liver disease; HCC, hepatocellular carcinoma; T2D, type 2 diabetes; NASH, non-33 alcoholic steatohepatitis; BMI, body mass index; LCHF, low-carbohydrate high-fat; ALT, 34 weight loss; EOT, end-of-treatment; HDL, high density lipoprotein; RCT, randomized 38 controlled trial; LCD, low-carbohydrate diet; KD, ketogenic diet; HFD, high-fat diet
+ 39 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    Objective:  One-year of comprehensive continuous care intervention (CCI) through nutritional 45 ketosis improves HbA1c, body weight and liver enzymes among type 2 diabetes (T2D) patients
+ 46 Here, we report the effect of the CCI on surrogate scores of non-alcoholic fatty liver disease 47 Methods: This was a non-randomized longitudinal study, including adults with T2D who were 49 self-enrolled to the CCI (n=262) or to receive usual care (UC, n=87) during one year
+ A NAFLD 50 liver fat score [N-LFS] > -
+640 defined the presence of fatty liver
+ A NAFLD fibrosis score 51 [NFS] of > 
+675 identified subjects with advanced fibrosis
+ Changes in N-LFS and NFS at one 52 Results: At baseline, NAFLD was present in 95% of patients in the CCI and 90% of patients in 54 the UC
+ At one year, weight loss of  5% was achieved in 79% of patients in the CCI vs
+ 19% of 55 patients in UC (P<
+ )
+ N-LFS mean score was reduced in the CCI group (-
+ 
+22, 56 P<
+001) whereas it was not changed in the UC (
+ 
+41, P=
+26) (CCI vs
+ UC, P<
+ )
+ 57 NFS was reduced in the CCI group (-
+ 
+06, P<
+001) compared with UC (
+ 
+11, 58 P=
+02) (P<
+001 between two groups)
+ In the CCI group, the percentage of individuals with a 59 low probability of advanced fibrosis increased from 18% at baseline to 33% at 1 year (P<
+ )
+   60 Conclusions: One year of a digitally-supported CCI significantly improved surrogates of 61 NAFLD and advanced fibrosis in patients with type 2 diabetes
+  (Word count: 249) 62 Key words: Type 2 diabetes, very-low carb diet, ketogenic diet, non-alcoholic fatty liver 63 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;     This study highlights the beneficial effect of the CCI on NAFLD in high risk patients 68  This study also identifies positive associations between glycemic improvements and 70  The assessment of resolution of steatosis and fibrosis is limited by the sensitivity and 72  The patients were restricted in their carbohydrate intake and monitored for their 74 nutritional ketosis state, but dietary energy, macronutrient and micronutrient intakes were 75 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    Non-alcoholic fatty liver disease (NAFLD) is an important cause of chronic liver disease 87 (CLD), hepatocellular carcinoma (HCC) and liver transplant worldwide, and is associated with 88 increased risk of heart disease, diabetes, chronic kidney disease and malignancies[-]
+ NAFLD 89 is highly prevalent (~70%) among patients with obesity and type 2 diabetes (TD)[]
+ T2D is 90 usually associated with the more aggressive form of NAFLD, including non-alcoholic 91 steatohepatitis (NASH, indicating significant hepatocellular injury) and advanced fibrosis[6] and 92 is linked with high risk for all-cause and liver-related mortality[-]
+ Currently, there are no 93 approved pharmacological interventions for NASH
+ Weight loss via lifestyle changes including 94 dietary modification and exercise is the first-line intervention used in treating and improving 95 NAFLD/NASH[11, ]
+ However, the majority of patients do not achieve or sustain targeted 96 weight loss goals[11, ]
+ Previous studies show a close relationship between the degree of 97 weight reduction and improvements in most of the NASH-related features, including steatosis, 98 inflammation, fibrosis, insulin resistance and elevated liver enzymes, irrespective of the type of 99 diet consumed[-]
+ However, there is an intense debate about what types of diet are most 100 effective for treating NASH and, to date, the optimal degree of energy restriction and 101 macronutrient composition of dietary interventions in subjects with NASH and T2D are not well 102 Low-carbohydrate, high-fat (LCHF) and ketogenic diets have demonstrated a superior 104 weight loss effect to low-fat, high-carbohydrate (LFHC) diets in adults with overweight and 105 obesity[23-26] and short-term interventions with very low-carbohydrate diets are associated with 106 improved insulin sensitivity and glycemic control[27, ]
+ Lower consumption of carbohydrate, 107 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    LCHF and ketogenic diets improve appetite control, satiety and/or reduce daily food intake 108 helping to limit dietary energy consumption while maintaining patient-perceived vigor[]
+ In 109 patients with NAFLD, the beneficial effects of LCHF diets on liver enzymes and intrahepatic 110 lipid content (IHLC) have been explored with contradictory results
+ Among studies with varied 111 carbohydrate intakes, some reported a significant reduction of aminotransferases[16, 30-32], 112 while others did not report significant changes in these enzymes[17, 33, ]
+ A recent meta-113 analysis of pooled data from 10 clinical trials reported that low carbohydrate diet (LCD) in 114 patients with NAFLD led to a significant reduction in IHLC[]
+  115 continuous care intervention (CCI) with carbohydrate restriction-induced ketosis and behavior 117 change support significantly reduced HbA1c level and medication usage in patients with 118 TD[]
+ The effectiveness of the CCI relies in maintaining a carbohydrate-restricted diet, and 119 monitoring compliance with the dietary regimen by assessing the patients nutritional ketosis by 120 blood tests during the year
+ We also demonstrated that one year of the CCI was effective in 121 aminotransferase (AST) and alkaline phosphatase (ALP) were reduced by 29%, 20% and 13%, 123 all P<
+01, respectively
+ These findings not only highlight the beneficial effect of the CCI on 124 diabetes management, but also in ameliorating the liver-related injury
+ These changes were not 125 reported in the usual care (UC) patients receiving standard diabetes care treatment
+ Therefore, in 126 the current post-hoc analysis, we assessed one-year within- and between-group (CCI vs
+ usual 127 care; UC) differences in non-invasive liver markers of steatosis (NAFLD liver fat score) and 128 fibrosis (NAFLD fibrosis score) in the full study sample (CCI and UC cohorts)
+ In addition, we 129 assessed these outcomes, in the subgroup of patients with abnormal ALT at baseline (ALT levels 130 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    of > 30 U/L in men and >19 U/L in women)
+ Among all patients, ancillary aims included 131 assessing if changes in weight and HbA1c were associated with ALT and metabolic parameter 132 improvements, and potential relationships between changes in the ALT with other metabolic 133 The design and primary results of this study were previously published, and the current 136 results are based on a 1-year post-hoc analysis using the data collected from the same cohort in 137 that clinical study (Clinical trials
+gov identifier: NCT)[]
+ A brief description of the 138 study design, participants and interventions are listed in the supplementary appendix (Methods 139 section)
+ Briefly, this was a non-randomized and open-label controlled longitudinal study, 140 including patients 21 to 65 years of age with a diagnosis of T2D and a BMI > 25 kg/m
+ Further, 141 patients were excluded if they had significant alcohol intake (average consumption of three or 142 more alcohol-containing beverages daily or consumption of more than 14 standard drinks per 143 week), presence of any other cause of liver disease or secondary causes of NAFLD and 144  Patients were not involved in the design and implementation of the study
+ Patient 147 participants have been thanked for their participation in all resulting manuscripts and will receive 148 Patients participating in the CCI had access to a remote care team consisting of a personal 151 health coach and medical providers (physician or nurse practitioner)
+ The participants in the CCI 152 self-selected between two different educational modes; either via on-site education classes 153 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    (n=136, CCI-onsite) or via web-based educational content (n=126, CCI-virtual)
+ The CCI 154 patients were routinely assessed for nutritional ketosis based on blood beta-hydroxybutyrate 155 (BHB) concentrations
+ We also recruited and followed a cohort of UC patients with T2D (n=87) 156 who received a standard diabetes care treatment from their primary care physician or 157 Primary outcomes-NAFLD liver fat and liver fibrosis by non-invasive surrogate markers 160 NAFLD liver fat score (N-LFS) is a surrogate marker of fatty liver which includes the 161 presence of the metabolic syndrome, type 2 diabetes, fasting serum insulin, AST and the 162 AST/ALT ratio
+ An N-LFS cutoff of > -
+640 predicts liver fat (> 
+56 % of hepatocytes) with a 163 sensitivity of 86% and specificity of 71% [38, ]
+ NAFLD fibrosis score (NFS) is a widely 164 validated biomarker for identifying patients at different risks of fibrosis severity
+ NFS is derived 165 from age, BMI, hyperglycemia, the AST/ALT ratio, platelet and albumin
+ The NFS threshold of 166 < -
+455 can reliably exclude patients with advanced fibrosis (negative predictive value  92%) 167 and > 
+675 can accurately detect subjects with advanced fibrosis (positive predictive value  168 %)[-]
+ The equations for calculating both scores are displayed in the supplementary 169  Results from other metabolic (HbA1c, fasting glucose, fasting insulin, HOMA-IR, 172 triglycerides, total cholesterol, HDL cholesterol and LDL cholesterol), liver (ALT, AST, ALP), 173 kidney (creatinine, eGFR), beta-hydroxybutryrate (BHB) and high sensitivity C-reactive protein 174 (hsCRP) parameters were previously published in the full CCI and UC cohort []
+ These 175 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    additional biochemical markers were assessed in the subset analyses of patients with abnormal 176 First, we examined the assumptions of normality and linearity
+ According to Klines 180 (2011) guidelines [44], seven outcomes (i
+ e
+, N-LFS, ALT, AST, fasting insulin, triglycerides, c-181 reactive protein, beta hydroxybutyrate) were positively skewed
+ We explored two approaches to 182 handling the skewed variables: natural log-transformations and removing the top 1% of values
+ 183 For N-LFS which includes both positive and negative values, a modulus log-transformation[45] 184 was performed instead of a natural log-transformation
+ For every variable except triglycerides, 185 both approaches resulted in new skew and kurtosis values falling within the acceptable range
+ 186 We conducted sensitivity analyses related to our first aim to compare the two approaches
+ The 187 results did not differ between the two approaches, and to make interpretation feasible, we report 188 results from the approach of removing the top 1% of values for the LMM analyses
+ For 189 triglycerides, analyses were performed on the log-transformed variable; p-values reported are 190 based on analyses with the transformed variable but the means and standard errors reported were 191 computed from the original variable without any adjustments
+ For both ANCOVA and 192 correlation analyses, the natural or modulus log-transformed variables were used to determine 193 The first aim of the study was to examine (1) within-group changes in the study outcomes 195 from baseline to 1 year, and (2) between-group differences (CCI vs
+ UC) in the study outcomes 196 at 1 year
+ The on-site and virtual CCI patients were grouped together for analyses since no 197 significant differences were observed in biochemical markers between these two modes of 198 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    educational delivery[]
+ We performed linear mixed-effects models (LMMs) in SPSS statistics 199 software to estimate the within- and between-group differences
+ The LMMs included fixed 200 effects for time, group (CCI vs
+ UC), and time by group interaction
+ Covariates included baseline 201 age, sex, race (African American vs
+ other), diabetes duration, body mass index (BMI), and 202 insulin use
+ This maximum likelihood-based approach uses all available repeated data, resulting 203 in an intent-to-treat analysis
+ An unstructured covariance structure was specified for all models to 204 account for correlations between repeated measures
+ Most analyses were conducted on a 205 subsample of participants with abnormal (>30 U/L in men and >19 U/L in women) [46] ALT at 206 baseline (195 of 347; 157 CCI and 38 UC)
+ We also conducted analyses assessing changes in N-207 LFS, NFS, albumin, and platelets on the full study sample because results were not previously 208 reported
+  In addition, we examined changes in the proportions of participants meeting clinically-209 relevant cut-offs for N-LFS, NFS, and ALT
+ Within-group changes in the proportions from 210 baseline to 1 year were assessed using McNemars test
+ Between-group differences in 211 proportions were assessed using Chi-Square test
+ For this set of analyses, multiple imputation (20 212 imputations) was used to replace missing values from baseline and 1 year with a set of plausible 213 The second study aim was to explore relationships between (1) changes in weight loss 215 and HbA1c categories and its associations with ALT and metabolic parameters improvements 216 and (2) changes in ALT and metabolic variables
+ Multiple imputation was also used to handle 217 missing data for aim 2 analyses
+ We performed one-way longitudinal ANCOVA analyses for 218 comparisons between different cutoffs of weight loss (<5%, 5-10% and >10%) and with changes 219 in diabetes- and liver-related continuous variables
+ Covariates included baseline value of the 220 dependent variables and body mass index (BMI)
+  Trend analyses were performed using Mantel-221 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    Haenszel 2 tests to assess changes in the proportions of patients meeting clinical cut-offs (for 222 ALT, N-LFS and NFS normalization) within different weight and HbA1c categories
+ An 223 adjusted odds ratio was calculated to measure the strength of association between HbA1c 224 changes and ALT normalization using logistic regression (Figure B)
+ The logistic regression 225 analysis was adjusted by BMI, age, gender and baseline dependent covariates
+ Unadjusted and 226 adjusted Pearsons correlations were performed to identify relationships between changes in 227 ALT levels and changes in metabolic- and lipid-related parameters from baseline to 1 year
+ 228 Adjusted correlations were also performed while controlling for baseline dependent covariates, 229 baseline age, sex, race (African American vs
+ other), diabetes duration, body mass index (BMI), 230 and insulin use
+ All confidence intervals, significance tests, and resulting P values were two-231 sided, with an alpha level of 
+ 
+ A Bonferroni correction was applied to each set of analyses 232 (LMM or ANCOVA) to control the family-wise error rate (FWER)
+ The Bonferroni adjusted p-233 value =
+05/19 variables = 
+0025 was used to determine statistical significance for each set of 234 Recruitment and baseline results were published previously[]
+ Briefly, between August 238 2015 and April 2016, 262 and 87 patients were enrolled in the CCI and UC groups, respectively
+ 239 Supplemental Figure 1 shows the flow of patients through the study
+ At baseline, average age 240 was 
+4  
+7 years and 226 participants (65%) were female
+ The average time since T2D 241 diagnosis was 
+3  
+2 years and 314 subjects (90%) were obese with a mean BMI of 
+ []
+ 242 Two-hundred and ninety-three participants (84%) were on medication for diabetes and 118 243 (34%) were insulin users[]
+ The proportion of patients with abnormal ALT was higher in CCI 244 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    (58%) compared to the UC (%)
+ At baseline, 330 subjects (95%) had suspicion of NAFLD and 245 fewer patients (69 of 349 [20%]) had a NFS threshold of < -
+455 indicating low probability of 246 advanced fibrosis
+ Compared to UC, mean baseline BMI was significantly higher in patients in 247 the CCI
+ The remaining patient demographics and baseline features were generally not different 248 After one year, the CCI decreased N-LFS and NFS for the full cohort and among patients with 253 abnormal ALT at baseline, whereas no changes were observed in the UC full cohort or subset 254 (Table )
+ There were significant between group (CCI vs
+ UC) differences in N-LFS and NFS 255 observed in both the full and abnormal baseline ALT cohort at one year (Table )
+ Notably, the 256 proportion of patients with suspected steatosis reduced from 95% to 75% at 1 year in the CCI 257 whereas no change occurred in UC
+ At 1 year, the proportion of patients without fibrosis 258 increased from 18% to 33% in CCI group, P<
+001, but no change occurred in the UC
+ Similar 259 to the full cohort, the proportion of patients with suspected steatosis was reduced from 99% to 260 76%, P<
+001 and proportion of those without fibrosis increased from 20% to 37%, P<
+001 261 through one year among CCI patients with abnormal ALT levels (Table )
+ Between-group (CCI 262 vs
+ UC) differences at 1 year are listed in Table 
+  263  At 1 year, beneficial changes observed in the metabolic parameters of the full CCI 266 cohort[35,44] were also reported in the subset of patients with abnormal baseline ALT, including 267 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    reduction of HbA1c, fasting glucose, fasting insulin, HOMA-IR, triglycerides (All, P<
+001), 268 and increase of HDL-C (P<
+001) (Table )
+  No changes in metabolic parameters were observed 269 in the UC group
+ Between-group (CCI vs
+ UC) differences at 1 year are listed in Table 
+  270 Among CCI patients with abnormal ALT at baseline, significant reductions in the liver 273 enzymes were observed (Table 1), as previously reported in the full CCI cohort
+ No changes in 274 liver-related tests were observed in the UC group
+ Among patients with increased ALT levels at 275 baseline, 93 (61%) of 153 participants enrolled in the CCI vs
+ 3 (8%) of 38 patients in UC had 276 ALT normalization at 1 year (Table )
+ Significant within-CCI changes were observed for 277 albumin and platelet in the full CCI cohort, whereas in the subsample of patients with abnormal 278 baseline ALT, there was only a significant decrease in the platelet (Table )
+ As reported in the 279 full CCI cohort [35], significant changes in c-reactive and beta-hydroxybutyrate concentrations 280 were found in the subset of CCI patients with abnormal baseline ALT over 1 year
+ These 281 changes were not found in the UC group
+ When adjusted for multiple comparisons, no significant 282 changes in creatinine or eGFR were found in either the CCI or UC group
+ Between-group 283 differences at 1 year are listed in Table 
+  284 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    Table 
+ Estimated marginal means and mean changes in metabolic, liver-related and non-invasive markers at baseline and after one  286 Note
+ Unless otherwise noted, estimates reported were obtained from linear mixed-effects models which provide marginal means and mean changes,  290 adjusting for baseline age, gender, race, diabetes duration, body mass index, and insulin use
+  291 This maximum likelihood-based approach uses all available repeated data, resulting in an intent-to-treat analysis
+  292 Abbreviations: SE, standard error; ALT, alanine aminotransferase; AST, aspartate aminotransferase; ALP, alkaline phosphatase;  293 HbA1c, Glycosylated hemoglobin; HDL, high-density lipoprotein; LDL, low-density lipoprotein; eGFR, estimated glomerular filtration rates;  294 CKD-EPI, chronic kidney disease-epidemiological collaboration equation; BHB, beta-hydroxybutyrate; NAFLD, nonalcoholic fatty liver disease;  295 a Subgroup analysis of participants with abnormal ALT at baseline
+ Abnormal ALT refers to >19 U/L for women and 30 U/L for men
+ 298 c Variable was positively skewed and after removing the top 1% of values, skew and kurtosis values fell within acceptable ranges
+  300 Analyses were conducted on data excluding the top 1% of values for each variable, although due to the maximum likelihood approach all cases  301 d Variable was positively skewed and a natural log transformation was performed
+ The linear mixed-effects model analysis including covariates  303 was conducted on the transformed variable and significance values provided are from the transformed analysis
+  304 However, because transformed numbers are difficult to interpret, non-transformed and unadjusted means, mean changes, and standard errors 305  for participants who completed the study visit were computed and provided in the table
+  306 Table 
+ Resolution of abnormal ALT, steatosis and fibrosis (as estimated using non-invasive liver markers cut-off) from baseline to 310 Variables Baseline 1 year P valuea Baseline 1 year P valuea Between-groups Abnormal ALT, n (%)  153 (58%) 60 (23%) 
+1x10-11 38 (44%) 35 (40%) 
+664 
+006    > -
+640 250 (95%) 197 (75%) 
+9x10-10 80 (92%) 79 (91%) 
+678 
+002    < -
+455 46 (18%) 87 (33%) 
+9x10-7 23 (26%) 22 (25%) 
+0 
+139    > -
+640 151 (99%) 117 (76%)   
+8x10-7 35 (92%) 37 (97%) 
+625 
+007    < -
+455 30 (20%) 56 (37%) 
+1x10-5 11 (29%) 11 (29%) 
+0 
+266 NAFLD-LFS cutoff > -
+640 for detecting liver fat > 
+56 % (sensitivity 86% and specificity %)
+  312 NAFLD fibrosis score < -
+455 corresponds with low probability of advanced fibrosis (NPV  92%) and > 
+675 indicates high probability of  313  Abnormal ALT refers to >19 U/L for women and 30 U/L for men
+  315 Associations between weight loss and study outcomes in the CCI group 319 At one year, weight loss of > 5% was achieved in 79% of CCI patients with 54% 320 achieving weight loss of > %
+ The proportion of patients losing weight was lower in the UC 321 group with only 17 UC participants (
+5%) achieving >5% weight loss and only 4 (6%) with 322 >10% weight loss (Supplementary Figure )
+ In the CCI group, there was a trend toward 323 greater mean percentage weight loss (WL) by higher baseline BMI classification, especially in 324 patients losing more than 5% or 10% of body weight (Supplementary Table )
+ As shown in 325 Table 3, there were relationship trends between the degree of 1-year of WL (%) and changes in 326 liver, metabolic and non-invasive markers of steatosis and fibrosis among CCI participants
+ At 1 327 year, the CCI patients who achieved WL  10% showed the greatest reductions in N-LFS 328 (P<
+001) and NFS (P<
+001), whereas no statistically significant differences were found 329 between patients with WL from 5%-10% versus <%
+ Similarly, patients who achieved WL  330 10% also showed decreases in HbA1c (P<
+001) and triglycerides (P<
+001) from baseline to 1 331 year
+ The one-year probability of suspected fatty liver (N-LFS >-
+64) was lower (66%) among 332 patients with WL  10% compared to the other WL groups (<5% [85%] and 5%-10% [%])
+ 333 The proportion of patients with low likelihood of fibrosis at 1 year was higher among patients 334 with WL > 10% (41%) vs
+ patients with WL of 5-10% (26%) and <5% (%)
+ 335 Correlation analyses between changes in ALT levels with changes in 337 In the CCI group, changes in HbA1c, weight and fasting glucose from baseline to 1 year 339 were associated with changes in ALT levels in the full cohort (HbA1c, r=
+148, P=
+03; weight, 340 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    r=
+198, P=
+004; fasting glucose, r=
+176, P=
+004), and among patients with abnormal levels 341 of ALT at baseline (HbA1c, r=
+253, P=
+005; weight, r=
+278, P=
+003, fasting glucose, 342 r=
+305, P<
+001) (Table )
+ Changes in other lipid markers did not correlate with changes in 343 ALT levels (Table )
+ Figures 1A-1D displays 1-year associations between change in HbA1c 344 and normalization of ALT levels
+ In the full CCI group, 141 (70%) of 201 patients with HbA1c 345 reductions of  
+5% at 1 year had normal ALT levels (Figure A)
+ Among CCI patients with 346 abnormal ALT levels at baseline, 77 (65%) of 119 patients with a reduction of  
+5% in HbA1c 347 showed normalization of ALT levels (Figure B)
+ One-year reduction of  
+5% in HbA1c 348 increased the odds of ALT normalization 
+4 fold (95% CI: 
+ -
+3) after controlling for 349 baseline levels of HbA1c, BMI, ALT, diabetes duration, insulin use and weight loss (%) at 1 350 year
+ Given that weight reductions ( 5%) can be associated with changes in HbA1c level, we 351 sought to explore whether a reduction of  
+5% in HbA1c was still associated with ALT 352 normalization, independent of weight loss ( 5%) (Figures C-D)
+ A reduction of  
+5% in 353 HbA1c was associated with higher rates of ALT normalization, regardless of whether or not 5% 354 Adverse events during this trial were previously reported[]
+ Mean platelet count was 357 reduced in the CCI (-
+9  
+3, P<
+001) vs
+ UC group (-
+1  
+9, P=
+005); however, the 358 proportion of patients with a platelet count below 150 x 109 L was not different between groups
+ 359 There was no hepatic decompensation (variceal hemorrhage, ascites or hepatic encephalopathy) 360 or ALT flare-up (>5 times the upper limit of normal) reported during the trial in either the CCI or 361 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    Table 
+ One-year associations between weight loss (%) and changes in  365  ALT (U/L)b -
+99  
+83  -
+30  
+32 -
+52  
+41 
+01  Platelet (x 109) b -
+36  
+32 -
+33  
+38 -
+5  
+24 
+656  ALP (U/L) b -
+36  
+18 -
+70  
+93 -
+45  
+45* 
+007  HbA1c (%)b -
+92  
+21 -
+25  
+16 -
+58  
+13* 
+002  Triglycerides (mg/dl) b -
+25  
+3 -
+63  
+8 -
+8  
+9* 
+007  Cholesterol (mg/dl) b 
+34  
+22 - 
+17  
+78 
+07  
+83 
+134  HDL cholesterol (mg/dl) b -
+84  
+8 
+17  
+51** 
+41  
+07* 
+6x10-8  LDL cholesterol (mg/dl) b 
+42  
+14 
+53  
+15 
+41  
+79 
+183  Creatinine (mg/dl) b -
+023  
+022 -
+008  
+019 -
+065  
+017 
+039  NAFLD-LFS b -
+197  
+86 -
+291  
+65 -
+805  
+44* 
+5x10-7  NAFLD fibrosis score b 
+055  
+13 -
+351  
+10 -
+014  
+08* 
+6x10-15  CRP (mg/dl) b  -
+506  
+66 -
+831  
+0 -
+970  
+42 
+012  BHB (mmol/l) b 
+017  
+06 
+061  
+03 
+203  
+03* 
+8x10-4 Abbreviations: ALT, alanine aminotransferase; ALP, alkaline phosphatase, HbA1c, Glycosylated hemoglobin; HDL, 368 high density lipoprotein; LDL, low density lipoprotein; eGFR, estimated glomerular filtration rates; CKD-EPI, chronic 369 kidney disease-epidemiological collaboration equation; BHB, beta-hydroxybutyrate; NAFLD, nonalcoholic fatty liver 370 The sign +/- means Ses
+ P values represent difference between groups
+  means change from baseline
+  372  b Analysis of covariance (ANCOVA) while controlling by BMI and baseline values for each analyzed covariate
+  374 * Significant difference (P<
+001) between WL > 10% as compared with WL 5-10% and < %
+ ** Significant 375 difference (P<
+001) between WL >10% and WL 5-10% as compared with WL <%
+  376 All ANCOVA analyses were adjusted by Bonferroni test for multiple comparisons (P<
+0025) 377 Table 
+ Correlations* change in ALT and changes in metabolic parameters
+  393 Unadjusted r P value* Adjusted r P value* Unadjusted r P  Body weight (%) 
+191 
+043 
+198 
+004 
+253 
+056 
+278 
+003  Fasting glucose (mg/dl) 
+124 
+118 
+176 
+004 
+184 
+051 
+305 
+2x10-4  Triglycerides (mg/dl) 
+032 
+741 
+025 
+490 
+091 
+428     
+106 
+163  HDL cholesterol (mg/dl) -
+115 
+160 -
+069 
+219 -
+145 
+182 -
+118 
+207  LDL cholesterol (mg/dl) -
+049 
+526 -
+022 
+476 -
+042 
+669 -
+032 
+690 Abbreviations: ALT, alanine aminotransferase; HbA1c, glycosylated hemoglobin; HDL, high-density lipoprotein; LDL, low-density lipoprotein
+   394 * Unadjusted and adjusted Pearsons correlations
+ Adjustments while controlling for individual baseline covariate levels, age, sex, race (African American vs
+ 395 other), diabetes duration, body mass index (BMI), and insulin use    396  ALT levels > 19 in women and > 30 in men
+ 397 The findings of the current analysis show that one year of a digitally-supported CCI 400 reduced risk of fatty liver and advanced liver fibrosis in overweight and obese adults with TD
+ 401 Improvements were concurrent with improved glycemic status, reduction in cardiovascular risk 402 factors and decreased use of medications for diabetes and hypertension[,]
+ The beneficial 403 effects extended to patients with increased levels of aminotransferase, thus indicating that remote 404 care medically-supervised ketosis is also effective in patients at risk of liver disease progression
+ 405 The influence of carbohydrate restriction and nutritional ketosis on liver histology of patients 406 with biopsy-proven NASH remains largely unexplored in the context of a well-designed RCT
+ A 407 pilot study including five patients with biopsy-proven NASH showed that 6-months of KD (less 408 than 20 grams per day of carbohydrate) induced significant WL (mean of 13 kg) and four of five 409 patients reduced liver fat, inflammation, and fibrosis []
+ The current study provides evidence 410 that a remote-care medically-supervised KD can improve NASH and even fibrosis
+ A recent 411 meta-analysis of ten studies reported the effects of LCD on liver function tests in patients with 412 NAFLD, and concluded that LCD reduced IHLC, but did not improve liver enzymes[35], 413 although heterogeneity among NAFLD populations and interventions were observed across the 414 Among CCI participants, correlations were also found between the improvements in 416 HbA1c and ALT changes, even after controlling for WL and changes in insulin use
+ Among 417 subjects with abnormal ALT levels at baseline, a reduction of  
+5% in HbA1c was associated 418 with increased rates of ALT normalization
+ This finding suggests that liver enzyme 419 improvements may be related to improvements in glycemic control and insulin concentration in 420 addition to weight loss
+ Importantly, few studies have directly compared the metabolic 421 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    advantages of different diets for the treatment of NAFLD[15, 32, 48], and the impact of dietary 422 macronutrient composition remains largely unknown
+ Three studies have shown that low-423 carbohydrate and low-fat diets reduced liver fat, transaminases and insulin resistance to similar 424 degrees[15, 21, 48], whereas another study reported that a moderate hypocaloric low-425 carbohydrate diet in insulin resistant patients improved ALT levels more than a hypocaloric low-426 fat diet, despite equal weight loss[]
+ Among patients with T2D, a moderate-carbohydrate 427 modified Mediterranean diet (35% carbohydrates, 45% high monounsaturated fat) showed 428 greater ALT reductions than two other higher carbohydrate hypocaloric diets including the 2003 429 Our results also demonstrated that non-invasive risk scores for fatty liver and fibrosis 431 were improved in patients who underwent CCI as compared to the UC control, and greater 432 reductions were observed in patients with the largest reductions in body weight ( %)
+  Our 433 results are consistent with previous studies reporting that LCD reduce intrahepatic lipid 434 accumulation[15, 16, 21, 32, ]
+ Likewise, 1-year liver fibrosis as assessed by NFS improved in 435 the CCI group, and the proportion of patients with low likelihood of fibrosis increased from 18% 436 to 33% at 1 year of intervention
+ Similar to previous studies addressing the impact of weight loss 437 on NASH-related fibrosis[13, 50], we showed a relationship between the degree of weight loss 438 LCD or KD have been proposed to more effectively reduce all features of the metabolic 440 syndrome, which is present in approximately 80% of NAFLD patients, compared to low-fat diets 441 [51, 52]; however, the physiological mechanisms are not fully established[-]
+ In line with 442 our findings, Holland et al[56] showed that irrespective of physical exercise, rats fed a ketogenic 443 formulation had lower liver triglycerides and lower activation of the pro-inflammatory NF-kB 444 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    pathway compared to rats fed Western and standard chow diets
+ Likewise, a recent human study 445 using a two-week isocaloric carbohydrate restricted diet, not only demonstrated a drastic 446 reduction of hepatic steatosis, but a shift in lipid metabolism pathway from de-novo lipogenesis 447 to -oxidation and increased BHB production[]
+ This shift in the lipid homeostasis following a 448 short-term ketogenic diet occurred in conjunction with a shift in gut microbia towards increased 449 folate production as well as decreased expression of key serum inflammatory markers[]
+   450 Strengths and weaknesses of this clinical trial have been previously described[]
+ Some 451 strengths of this study include a large cohort of patients with T2D and high suspicion of NAFLD, 452 an intervention with one-year of digitally-supported continuous care including monitored 453 adherence to nutritional ketosis, and a control group of patients with T2D provided usual care 454 with standard nutritional recommendations[]
+ Relative to prior outpatient interventions, the 455 current study is unusual in the degree of health coach and physician support, the degree of 456 prescribed carbohydrate restriction and the use of BHB as a blood biomarker of dietary 457 adherence
+ These attributes may contribute to superior outcomes observed in the intervention 458 group when compared to UC patients
+ The multi-component approach used in the intervention, 459 not only encouraged the patient to adapt carbohydrate restriction through continuous monitoring 460 of nutritional ketosis but also provided behavioral support through interaction with their health 461 Some weaknesses of this study include the absence of imaging- or biopsy-proven 463 NAFLD or NASH diagnosis and lack of random allocation to assign patients to intervention and 464 control groups
+ Food was not provided for participants so dietary macronutrient and 465 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    In conclusion, one year of a digitally-supported continuous care intervention including 467 individualized nutritional ketosis led to significant improvement in non-invasive markers of liver 468 fat and fibrosis together with sustained weight loss in overweight and obese type 2 diabetes 469 patients
+ A relationship was observed between the degree of weight loss and improvements in 470 liver- and non-liver-related outcomes with greater benefits in patients losing more than 10% of 471 body weight
+ A reduction of  
+5% in HbA1c was independently associated with ALT 472 normalization even after controlling for weight loss
+ Medical interventions incorporating 473 ketogenic diets appear effective for improving NAFLD, and therefore, may be an effective 474 approach for reversing the natural history of NAFLD progression, although further studies are 475 needed to confirm potential beneficial effect in patients with biopsy-confirmed NASH
+ 476 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    Authors thank Drs
+ Marwan Ghabril and Raj Vuppalanchi for their helpful discussions with 494 various analyses
+ The authors also thank the study participants for their active involvement in the 495 Competing Interests Statement: SJA, SJH, NHB, ALM, RNA, JPM, and SDP are employees 497 of Virta Health Corp
+ and have been offered stock options
+ SDP and JSV are founders of Virta 498 Health Corp
+ EVG, WWC and NC have nothing relevant to declare
+ 499 E
+ V
+G, S
+ J
+A, R
+ N
+A, J
+ P
+M and N
+ P
+C wrote the manuscript
+ A
+ L
+M, N
+ H
+B, S
+ J
+H and S
+ J
+A 502 participated in data acquisition
+ E
+ V
+G and S
+ J
+A analyzed the data
+ N
+ P
+C, S
+ J
+H, N
+ H
+B, A
+ L
+M, 503 W
+ W
+C, J
+ P
+M, S
+ D
+P and J
+ S
+V supervised this particular analysis and edited the manuscript
+ All 504 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    
+ Estes C, Razavi H, Loomba R, et al Modeling the epidemic of nonalcoholic fatty liver 518 disease demonstrates an exponential increase in burden of disease
+ Hepatology 519 
+ Younossi ZM, Koenig AB, Abdelatif D, et al Global epidemiology of nonalcoholic fatty 521 
+ Byrne CD, Targher G
+ NAFLD: a multisystem disease
+ J Hepatol ;:S-
+ 524 
+ Adams LA, Anstee QM, Tilg H, et al Non-alcoholic fatty liver disease and its 525 
+ Portillo-Sanchez P, Bril F, Maximos M, et al High Prevalence of Nonalcoholic Fatty 528 Liver Disease in Patients With Type 2 Diabetes Mellitus and Normal Plasma 529 
+ Hazlehurst JM, Woods C, Marjot T, et al Non-alcoholic fatty liver disease and diabetes
+ 531 
+ Angulo P, Kleiner DE, Dam-Larsen S, et al Liver Fibrosis, but No Other Histologic 533 Features, Is Associated With Long-term Outcomes of Patients With Nonalcoholic Fatty 534 
+ Ekstedt M, Hagstrom H, Nasr P, et al Fibrosis Stage Is the Strongest Predictor for 536 Disease-Specific Mortality in NAFLD After Up to 33 Years of Follow-Up
+ Hepatology 537 
+ Adams LA, Lymp JF, St Sauver J, et al The natural history of nonalcoholic fatty liver 539 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    
+ Vilar-Gomez E, Calzadilla-Bertot L, Wai-Sun Wong V, et al Fibrosis severity as a 541 determinant of cause-specific mortality in patients with advanced nonalcoholic fatty liver 542 
+ Chalasani N, Younossi Z, Lavine JE, et al The diagnosis and management of 544 nonalcoholic fatty liver disease: Practice guidance from the American Association for the 545 
+ European Association for the Study of the L, European Association for the Study of D, 547 European Association for the Study of O
+ EASL-EASD-EASO Clinical Practice 548 Guidelines for the management of non-alcoholic fatty liver disease
+ J Hepatol 549 
+ Vilar-Gomez E, Martinez-Perez Y, Calzadilla-Bertot L, et al Weight Loss Through 551 
+ Zelber-Sagi S, Kessler A, Brazowsky E, et al A double-blind randomized placebo-554 controlled trial of orlistat for the treatment of nonalcoholic fatty liver disease
+ Clin 555 
+ Haufe S, Engeli S, Kast P, et al Randomized Comparison of Reduced Fat and Reduced 557 Carbohydrate Hypocaloric Diets on Intrahepatic Fat in Overweight and Obese Human 558 
+ Browning JD, Baker JA, Rogers T, et al Short-term weight loss and hepatic triglyceride 560 reduction: evidence of a metabolic advantage with dietary carbohydrate restriction
+ Am J  561 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    
+ Ryan MC, Itsiopoulos C, Thodis T, et al The Mediterranean diet improves hepatic 563 steatosis and insulin sensitivity in individuals with non-alcoholic fatty liver disease
+ J 564 
+ Eckard C, Cole R, Lockwood J, et al Prospective histopathologic evaluation of lifestyle 566 modification in nonalcoholic fatty liver disease: a randomized trial Therap Adv 567 
+ Wong VW, Chan RS, Wong GL, et al Community-based lifestyle modification 569 programme for non-alcoholic fatty liver disease: a randomized controlled trial J Hepatol 570 
+ Trovato FM, Catalano D, Martines GF, et al Mediterranean diet and non-alcoholic fatty 572 liver disease: the need of extended and comprehensive interventions
+ Clin Nutr 573 
+ Kirk E, Reeds DN, Finck BN, et al Dietary Fat and Carbohydrates Differentially Alter 575 
+ Promrat K, Kleiner DE, Niemeier HM, et al Randomized Controlled Trial Testing the 577 
+ Tobias DK, Chen M, Manson JE, et al Effect of low-fat diet interventions versus other 579 diet interventions on long-term weight change in adults: a systematic review and meta-580 
+ Sackner-Bernstein J, Kanter D, Kaul S
+ Dietary Intervention for Overweight and Obese 582 Adults: Comparison of Low-Carbohydrate and Low-Fat Diets
+ A Meta-Analysis
+ Plos 583 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    
+ Mansoor N, Vinknes KJ, Veierod MB, et al Effects of low-carbohydrate diets v
+ low-fat 585 diets on body weight and cardiovascular risk factors: a meta-analysis of randomised 586 
+ Gardner CD, Kiazand A, Alhassan S, et al Comparison of the Atkins, Zone, Ornish, and 588 LEARN diets for change in weight and related risk factors among overweight 589 premenopausal women: the A TO Z Weight Loss Study: a randomized trial JAMA 590 
+ Goday A, Bellido D, Sajoux I, et al Short-term safety, tolerability and efficacy of a very 592 low-calorie-ketogenic diet interventional weight loss program versus hypocaloric diet in 593 patients with type 2 diabetes mellitus
+ Nutr Diabetes 2016;6: e
+ doi: 594 
+ Wheeler ML, Dunbar SA, Jaacks LM, et al Macronutrients, Food Groups, and Eating 596 Patterns in the Management of Diabetes A systematic review of the literature, 
+ 597 
+ Johnstone AM, Horgan GW, Murison SD, et al Effects of a high-protein ketogenic diet 599 on hunger, appetite, and weight loss in obese men feeding ad libitum
+ Am J Clin Nutr 600 
+ Volynets V, Machann J, Kuper MA, et al A moderate weight reduction through dietary 602 intervention decreases hepatic fat content in patients with non-alcoholic fatty liver 603 
+ Kani AH, Alavian SM, Esmaillzadeh A, et al Effects of a novel therapeutic diet on liver 605 enzymes and coagulating factors in patients with non-alcoholic fatty liver disease: A 606 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    
+ de Luis DA, Aller R, Izaola O, et al Effect of two different hypocaloric diets in 608 transaminases and insulin resistance in nonalcoholic fatty liver disease and obese 609 
+ Tendler D, Lin SY, Yancy WS, et al The effect of a low-carbohydrate, ketogenic diet on 611 nonalcoholic fatty liver disease: A pilot study
+ Dig Dis Sci ;:-
+ 612 
+ Huang MA, Greenson JK, Chao C, et al One-year intense nutritional counseling results 613 in histological improvement in patients with non-alcoholic steatohepatitis: A pilot study
+ 614 
+ Haghighatdoost F, Salehi-Abargouei A, Surkan PJ, et al The effects of low carbohydrate 616 diets on liver function tests in nonalcoholic fatty liver disease: A systematic review and 617 
+ Hallberg SJ, McKenzie AL, Williams PT, et al Effectiveness and safety of a novel care 619 model for the management of type 2 diabetes at 1 year: an open-label, non-randomized, 620 
+    Standards of Medical Care in Diabetes-2015: Summary of Revisions
+ Diabetes Care 622 
+ Kotronen A, Peltonen M, Hakkarainen A, et al Prediction of Non-Alcoholic Fatty Liver 624 Disease and Liver Fat Using Metabolic and Genetic Factors
+ Gastroenterology 625 
+ Machado MV, Cortez-Pinto H
+ Non-invasive diagnosis of non-alcoholic fatty liver 627 
+ Angulo P, Hui JM, Marchesini G, et al The NAFLD fibrosis score: a noninvasive system 629 that identifies liver fibrosis in patients with NAFLD
+ Hepatology ;:-
+ 630 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    
+ Vilar-Gomez E, Chalasani N
+ Non-invasive assessment of non-alcoholic fatty liver 631 disease: Clinical prediction rules and blood-based biomarkers
+ J Hepatol ;:-
+ 632 
+ Sun W, Cui H, Li N, et al Comparison of FIB-4 index, NAFLD fibrosis score and BARD 633 score for prediction of advanced fibrosis in adult patients with non-alcoholic fatty liver 634 
+  Prati D, Taioli E, Zanella A, et al Updated Definitions of Healthy Ranges for Serum 636 
+  Kline RB
+ Convergence if structural equation modeling and multilevel modeling
+ In 638 
+ John JA, Draper NR
+ An alternative family of transformations
+ Appl Statist 1980; 29: 641 
+ Kim WR, Flamm SL, Di Bisceglie AD, et al Serum activity of alanine aminotransferase 643 (ALT) as an indicator of health and disease
+ Hepatology 2008; 47: -
+ 644 
+ Bhanpuri NH, Hallberg SJ, Williams PT, et al Cardiovascular Disease Risk Factor 645 Responses to a Type 2 Diabetes Care Model Including Nutritional Ketosis Induced by 646 Sustained Carbohydrate Restriction at One Year: An Open Label, Non-Randomized, 647 
+ Ryan MC, Carter S, Abbasi F, et al Serum alanine aminotransferase levels decrease 649 further with carbohydrate than fat restriction in insulin-resistant adults
+ Diabetes Care 650 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    
+ Fraser A, Abel R, Lawlor DA, et al A modified Mediterranean diet is associated with the 652 greatest reduction in alanine aminotransferase levels in obese type 2 diabetes patients: 653 
+ Glass LM, Dickson RC, Anderson JC, et al Total body weight loss of >/= 10 % is 655 associated with improved hepatic fibrosis in patients with nonalcoholic steatohepatitis
+ 656 
+ Volek JS, Fernandez ML, Feinman RD, et al Dietary carbohydrate restriction induces a 658 
+ Volek JS, Phinney SD, Forsythe CE, et al Carbohydrate Restriction has a More 661 Favorable Impact on the Metabolic Syndrome than a Low Fat Diet
+ Lipids 2009;44:297-662 
+ Samaha FF, Iqbal N, Seshadri P, et al A low-carbohydrate as compared with a low-fat 664 
+ Foster GD, Wyatt HR, Hill JO, et al A randomized trial of a low-carbohydrate diet for 666 
+ Yancy WS, Jr
+, Olsen MK, Guyton JR, et al A low-carbohydrate, ketogenic diet versus a 668 low-fat diet to treat obesity and hyperlipidemia: a randomized, controlled trial Ann Intern 669 
+ Holland AM, Kephart WC, Mumford PW, et al Effects of a ketogenic diet on adipose 671 tissue, liver, and serum biomarkers in sedentary rats and rats that exercised via resisted 672 voluntary wheel running
+ Am J Physiol Regul Integr Comp Physiol ;:R-
+ 673 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    
+ Mardinoglu A, Wu H, Bjornson E, et al An integrated understanding of the rapid metabolic 674 benefits of a carbohydrate-restricted diet on hepatic steatosis in humans
+ Cell Metab 2018; 675 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    ure 
+ Association between reduction in HbA1c (%) and normalization of ALT* levels at 1 year of intervention in CCI grouher proportion of patients with ALT normalization were observed in HbA1c (%) reduction categories 
+5-10%; 71% and >her proportion of patients with ALT normalization were observed in HbA1c (%) reduction categories 
+5-1%; 67% and >usted OR for change in HbA1c > 
+5% = 
+4 (95% CI: 
+ -
+3), P=
+029 ong patients with weight loss > 5%, higher levels of ALT normalization (85%) were observed in patients with HbA1c (%) rCCI patients with increased levels of ALT at baseline and weight loss  5% (n=)
+ ong patients with weight loss > 5% and abnormal ALT levels at baseline, higher levels of ALT normalization (86%) were oLT levels < 19 in women and < 30 in men
+ not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 21, 
+ ;    

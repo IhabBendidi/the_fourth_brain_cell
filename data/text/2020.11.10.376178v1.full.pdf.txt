@@ -1,0 +1,436 @@
+Mads Kjolby1,2,3*#, Karen Marie Pedersen1,3*, Peter Breining1,3*, Niels Wellner1,3, Karen Marie Juul Srensen1,3,4, Dorthe Maria Vittrup3, Anette Marianne Prior Gjesing5, Dovile Januliene4, Arulmani Manavalan6, Maarten Rotman6,  Gangadaar Thotakura6, Sune Skeldal3, Peder Madsen3, Sren Thirup4, Guido Hermey7, Christian B
+ Vaegter3, Arne Mller4,8, Olof Asplund9, Rashmi B
+ Prasad9,  Edwin T
+ Parlevliet10, Patrick C
+ N
+ Rensen10, Ernst Martin Fchtbauer11, Andreas Nygaard Madsen12, Birgitte Holst12, Olav M
+ Andersen1,3, Torben Hansen5 , and Anders Nykjaer1,3,6, ,#
+  Aarhus University Hospital, Denmark and Danish Diabetes Academy;  3Department of Biomedicine, Aarhus University, Denmark; 4Department of Molecular Biology, Aarhus University;  5Novo Nordisk Foundation Center for Basic Metabolic Research, Copenhagen University, Denmark; 6Department of Neuroscience, Mayo Clinic, Florida, USA; 7Institute for Molecular and Cellular Cognition, Center for University, Frankfurt Am Main Area, Germany; 9Lund University Diabetes Centre, Malm, Sweden;  Dept
+ Medicine, Div
+ Endocrinology, and Einthoven Laboratory for Experimental Vascular Medicine, Leiden University Medical Center (LUMC), Leiden, The Netherlands; 11Department of Molecular Biology and Genetics, Aarhus University, Denmark; 12RMPC, Department of Biomedical Sciences, (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    Word count: 2579 words, excluding title, authors, figure legends and references
+  (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    Type II diabetes mellitus (T2DM) has reached endemic levels and comprises a substantial burden 1 to the patient and the society
+ Along with lifestyle factors, a number of genetic loci predisposing to 2 T2DM have been suggested including SORCS1 that encodes a type-1 transmembrane receptor
+ 3 Here we establish SorCS1 as a high-affinity binding partner for the insulin receptor (IR) that 4 increases insulin affinity, Akt activation, and peripheral glucose uptake
+ Mice lacking full-length 5 SorCS1 develop age-dependent insulin resistance characterized by increased plasma glucose and 6 insulin levels and a blunted response to exogenous insulin
+ SorCS1 exists in three forms; as a 7 transmembrane monomer and dimer, and as a truncated soluble form (sol-SorCS1) produced in 8 adipose tissue and is present in plasma
+ Whereas dimeric SorCS1 engages the proform of the 9 insulin receptor (proIR) during biosynthesis and supports its maturation, the monomeric form 10 stabilizes the mature IR at the plasma membrane
+ In its soluble form, SorCS1 positively correlates 11 with body mass index and inversely with plasma glucose in diabetic patients, and in mouse models 12 of insulin resistance, overexpression or exogenous administration of the monomeric soluble 13 receptor domain restores insulin sensitivity
+ We conclude that SorCS1 is a critical regulator of 14 peripheral insulin sensitivity operating in both a cell autonomous and endocrine manner, and we 15 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    The mechanisms controlling insulin sensitivity and glucose metabolism are fundamental to all 17 vertebrates
+ Skeletal muscle is essential to acutely buffer high plasma glucose and reduced insulin 18 sensitivity is affected very early on in the development of type 2 diabetes,
+ The downstream signaling 19 pathways of IR in skeletal muscle (e
+ g
+ Akt and mTOR) are well described, but whether insulin sensitivity 20 may be dynamically regulated at the level of the plasma membrane through interaction with co-receptors 21 or other membrane proteins is unknown-
+ The existence of such a molecular thermostat to adapt insulin 22 sensitivity to the metabolic state would transform our conceptual understanding on how key metabolic 23 SorCS1 is a member of the Vps10p-domain family of sorting receptors that also comprises 25 sortilin, SorLA, SorCS2, and SorCS,
+ Several studies have identified SORCS1 as a risk locus for type 26 2 diabetes mellitus that is conserved in women8-10, and in female rats11 and mice
+ Recently, SorCS1 27 was shown to facilitate the biogenesis of insulin containing secretory granules, but a function outside the 28 b-cells was not studied
+ The structurally related receptor sortilin can function in the secretory pathway 29 by assisting hepatic lipoprotein export14-16, while in neurons it physically interacts with tropomyosin 30 receptor kinases (Trks) to enable their surface exposure and signaling capacity
+ We hypothesized that 31 SorCS1 likewise may engage a tyrosine kinase receptor to promote its activity
+ Given the genetic 32 association with T2DM we here asked whether this tyrosine kinase receptor could be IR
+  33  SorCS1 exists in several isoforms comprising an identical extracellular domain encoded by 34 exons 1-24 but with at least four distinct sorting competent cytoplasmic tails (a, b, c, and d)18,19 resulting 35 from alternative splicing from exons 25 to 28 (exon 25 also encodes the transmembrane domain) 36 (Extended Data Fig
+ )
+ Regardless the isoform, the extracellular domain (sol-SorCS1) can be efficiently 37 liberated from the plasma membrane by ADAM17/TACE mediated cleavage20 but the biological 38 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    relevance of this is unknown
+ To investigate the function specifically of the full-length receptor variants 39 we generated a mouse model (Sorcs1D25-28), in which exons 25-28 had been deleted leaving the first 24 40 exons intact to allow production of only sol-SorCS1 (Extended Data Fig
+ )
+ RT-PCR for Sorcs1 in 41 brain, adipose tissue and muscle extracts confirmed that exons 25-28 had been deleted whereas the 42 Starting from 23 weeks of age, female Sorcs1D25-28 mice fed a normal chow developed 44 hyperglycemia
+ This was paralleled by elevated plasma insulin levels (Fig
+ a-b)
+ The hyperinsulinemia 45 progressively increased as animals aged, reaching 
+6-fold higher insulin levels in 50 weeks old 46 compared 10 weeks old mice, and twice the concentration in wildtype controls at 50 weeks
+ Consistent 47 with genetic studies in mice, rats and humans8-12, the glycemic phenotype was present only in female 48 Sorcs1D25-28 mice inasmuch plasma glucose in the male transgenics remained normal up till 60 weeks of 49 age (Extended Data Fig
+ )
+ An oral glucose tolerance test (OGTT) confirmed that glucose handling 50 was impaired in the females
+ Hence, in 14 months old Sorcs1D25-28 mice plasma glucose peaked at 
+7 51 mM compared to 
+ 6 mM for their littermate controls and it returned slower to baseline, corresponding 52 to a 45% increase in the area under the curve (282 vs
+ 506 mM*min) (Fig
+ 1 c-d)
+  53 The perturbed glucose homeostasis was most pronounced when comparing littermates from 54 heterozygous breeding on a mixed C57BL/6BomTac x 129sv genetic background (Fig
+ a-d)
+ However, 55 reduced peripheral insulin sensitivity was also evident in 47 weeks old C57BL/6BomTac congenic 56 female mutant mice when subjected to hyperinsulinemic euglycemic clamp21,22 (Fig
+ 1e-f and Extended 57 Figs
+ a-b)
+ At the beginning of the experiment, plasma glucose did not differ between genotypes and 58 neither did peripheral glucose uptake nor hepatic glucose production
+ However, when continuously 59 infusing a similar concentration of insulin (Extended Data Fig
+ 3c) we observed a 37% weaker glucose-60 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    suppressing effect at euglycemic levels in the Sorcs1D25-28 mutants compared to wildtype mice (Fig
+ e)
+ 61 This difference was solely accounted for by reduced peripheral glucose uptake since hepatic glucose 62 production had been fully shutdown (Fig
+ 1f and Extended Fig
+ b)
+  63 To assess peripheral glucose uptake, we examined the role of SorCS1 on IR signaling in 64 muscle extracts, in primary differentiated myocytes, and in the myocyte-derived cell line CC
+ In 19 65 weeks old normoglycemic female mice administration of an insulin bolus potently stimulated IR 66 phosphorylation (pIRb) in skeletal muscle of both Sorcs1D25-28 mutant animals and their littermate 67 controls
+ In marked contrast, at 50 weeks of age, when Sorcs1D25-28 mice were diabetic, pIR was now 68 substantially compromised (Fig
+ a)
+ A blunted insulin response was also present in primary Sorcs1D25-69 28 myocyte cultures, as more than 10-fold higher insulin concentrations were required to activate IR in 70 the mutant cultures compared to those from wildtype mice (Fig
+ b)
+ Finally, we studied insulin 71 stimulated AKT signaling in C2C12 cells after CRISPR/Cas9 knockout of Sorcs
+ Corroborating the data 72 in the primary myocytes, C2C12 knockout cells were less insulin responsive as the EC50 curve for pAKT 73 was right-shifted approximately five-fold (Fig
+ c)
+ In the mutant Sorcs1D25-28 myocyte cultures we 74 observed a band with a molecular weight smaller than that of the IRb-chain (Fig
+ b)
+ Surface 75 biotinylation experiments revealed that this band was restricted to the interior of the cells indicating a 76 degradation product of proIR or IR
+ Possibly as a consequence, IRb expression at the plasma membrane 77 was reduced by up to 60% in the Sorcs1D25-28 cultures (Fig
+ d)
+ Impaired N-glycosylation of proIR 78 prevents two-chain processing and leads to degradation of the pro-receptor
+ In the mutant myocytes we 79 observed in addition to mature proIR a species of lower molecular weight (Fig
+ e)
+ Treatment with 80 PNGase F to remove N-linked oligosaccharides identified this protein as immature non-glycosylated 81 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    proIR
+ Taken together the data argue that intracellular SorCS1 facilitates glycosylation and maturation 82 We next asked whether surface exposed SorCS1 may also control IR activity
+ To this end, 84 IR was overexpressed in HEK 293 cells alone or in combination with SorCS1-b, an isoform that is 85 enriched at the plasma membrane and incapable of endocytosis and sorting
+ Co-expression with SorCS1 86 increased insulin affinity to IR by approximately five-fold (Fig
+ a)
+ To assess whether a physical 87 interaction between SorCS1 and IR could be involved we employed surface plasmon resonance (SPR) 88 analysis using the extracellular domains of SorCS1 (sol-SorCS1) and IR
+ The SPR analysis showed that 89 sol-SorCS1 binds to immobilized IR with an estimated affinity of 5 nM (Fig
+ b)
+ Importantly, binding 90 of insulin to IR did not inhibit its interaction with SorCS1, indicating formation of a trimeric complex 91 (Fig
+ c)
+ No binding was observed for insulin, pro-insulin, glucagon, or glucagon-like peptide 1 (GLP-92 1) to SorCS1 (Extended Data Fig
+ a)
+ To demonstrate that SorCS1, IR, and insulin can physically 93 interact at the plasma membrane we performed immunoprecipitation (IP) experiments in HEK293 cells 94 co-transfected with SorCS1 and IR in the absence or presence of insulin (Fig
+ d)
+ Antibodies against IR 95 co-precipitated SorCS1 and vice versa and this interaction was unaffected by preincubation with 100 nM 96 insulin
+ Notably, IP of SorCS1 also co-precipitated proIR, which supports its role in facilitating N-linked 97 SorCS1 exists as a non-covalent dimer and in a monomeric form, the conformational state 99 of which is regulated by the level of glycosylation
+ While unglycosylated receptor is a dimer, 100 maturation with N-linked oligosaccharides converts it into a monomer
+ We asked whether the 101 stoichiometric state may regulate the preference of SorCS1 for proIR or IR
+ To elucidate this, HEK293 102 cells expressing endogenous IR were co-transfected with two SorCS1 constructs where the cytoplasmic 103 tail had been substituted by a FLAG- and Myc-tag, respectively
+ The cells were then subjected to 104 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    sequential co-immunoprecipitation, first with anti-FLAG and after elution from the beads subsequently 105 with anti-Myc (Fig
+ 3e, Extended Data Fig
+ b)
+ Immunoprecipitation with anti-FLAG-coated beads 106 precipitates receptor populations that comprise a mixture of monomers (SorCS1-FLAG) and dimers 107 (SorCS1-FLAG/FLAG and SorCS-FLAG/Myc)
+ After elution from the beads followed by the second 108 round of IP using anti-Myc antibodies only dimeric SorCS1 will be left (SorCS1-FLAG/Myc) (Fig
+ e)
+ 109 Anti-FLAG immunoprecipitated in addition to the Myc-tagged SorCS1 both proIR and mature IR
+ 110 However, following the successive co-IP with anti-Myc to select for dimeric SorCS1, only proIR was 111 now co-immunoprecipitated
+ We conclude that dimeric SorCS1 is specific for proIR whereas monomeric 112 SorCS1 can bind mature IR
+ To explore the spatial distribution of these interactions, we used a 113 bimolecular fluorescence complementation (BiFC) assay
+ HEK293-IR cells were transfected with two 114 human SorCS1 constructs each containing one-half of the Venus fluorescent protein
+ When SorCS1 115 dimerizes the two Venus fragments unite to elicit a green fluorescent signal that echoes the subcellular 116 distribution of dimeric SorCS
+ First, we stained the cells with an antibody that recognizes both 117 monomeric and dimeric SorCS1 and found that only monomeric SorCS1 is present at the plasma 118 membrane as the BiFC-positive signal was restricted to intracellular compartments (Fig
+ f)
+ We next 119 combined the BiFC signal with proximity ligation assay (PLA) for SorCS1 and IR
+ In this assay a red 120 fluorescent signal will appear when the receptors are in close proximity (<30 nm)
+ In unpermeabilized 121 cells we observed a strong PLA signal at the plasma membrane that was BiFC-negative, indicating 122 binding of monomeric SorCS1 to mature IR (Fig
+ g)
+ In contrast, in permeabilized cells a strong PLA 123 signal was present in BiFC-positive intracellular structures compatible with the Golgi-compartment and 124 the endoplasmatic reticulum that is dispersed throughout the cytosol (Fig
+ h)
+ Because these 125 compartments are enriched in proIR, the combined data suggest that monomeric SorCS1 engages IR at 126 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    the plasma membrane whereas the dimeric and not fully glycosylated receptor binds proIR in the 127 Both humans and mice express SorCS1 in skeletal muscle and adipose tissue (Figs
+ 4a and 129 Extended Data Fig
+ c)
+ We previously reported that up to 95% of SorCS1 is shed per hour from the 130 plasma membrane by ADAM17/TACE mediated cleavage,
+ Given SorCS1 and IR can bind each other 131 through an interaction in their extracellular domains (cf
+ Fig
+ 3b and c), we hypothesized that soluble 132 SorCS1 could have a glycemic regulatory function
+ To address this, we studied IR signaling in 133 differentiated myocyte cultures from Sorcs1D25-28 mice after insulin stimulation in the presence of 134 increasing concentrations of exogenous sol-SorCS1 (Fig
+ b)
+ Sol-SorCS1 augmented insulin induced 135 phosphorylation of IR and Akt and did so in a concentration dependent manner
+ No effect was observed 136 in the absence of insulin demonstrating that sol-SorCS1 is not an insulin mimetic
+ To establish a function 137 of sol-SorCS1 in vivo, we first compared the plasma concentration in a cohort of T2DM patients with 138 normoglycemic healthy individuals
+ In the diabetic group, but not among healthy individuals, plasma 139 glucose inversely correlated with sol-SorCS1 (Fig
+ c)
+ Since differentiated 3T3-L1 adipocytes potently 140 liberates sol-SorCS1 (Fig
+ 4d) and human and murine adipose tissue express SorCS1 (Fig
+ 4a, Extended 141 data Fig
+ 5) alongside ADAM17/TACE20, we examined, whether body mass index (BMI) associates 142 with the plasma concentration of sol-SorCS
+ We found that BMI positively correlates with measures of 143 sol-SorCS1 both in diabetic individuals and healthy controls (Extended Data Fig
+ )
+ The data suggested 144 that sol-SorCS1 may act as an adipokine to counteract the increased plasma glucose levels that commonly 145 To establish a glucose lowering and insulin sensitizing effect of sol-SorCS1 in vivo, we 147 injected an adenovirus encoding human sol-SorCS1 (AV-sol-SorCS1) or AV-LacZ (encoding -148 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    galactosidase) as a negative control into the tail vein of obese leptin receptor knockout mice (db/db) that 149 develop severe TDM
+ One week later, plasma glucose was increased by 55% and insulin by 65% in the 150 LacZ group due to the gradual worsening of the diabetic phenotype (Fig
+ e-f)
+ Remarkably, in the AV-151 sol-SorCS1 treated mice, plasma glucose remained unchanged and this despite a decrease in plasma 152 insulin
+ In an intraperitoneal glucose tolerance test (IPGTT), AV-sol-SorCS1 mice responded markedly 153 stronger with lower plasma glucose levels at all timepoints corresponding to a reduction in the area under 154 the curve (AUC) by 
+5% (Fig
+ g-h)
+ The treated animals also exhibited superior ability in mobilizing 155 insulin compared to the control group (Fig
+ i)
+  A similar glucose and insulin reducing effect was 156 obtained in adenovirus treated male mice with dietary induced T2DM (Extended Data Fig
+ )
+ Next we 157 performed hyperinsulinemic euglycemic clamp
+ AV-sol-SorCS1 mice showed lower basal plasma 158 glucose and increased capacity for glucose uptake compared to AV-LacZ treated animals (Fig
+ 4j and 159 k)
+ Glucose tracer studies revealed that this effect was accounted for by increased insulin sensitivity in 160 peripheral tissues (Fig
+ 4l, Extended Fig
+ )
+ Notably, three weeks post injection, glycated hemoglobin 161 (HbA1c) had increased considerably in the AV-LacZ group but it stayed unchanged in the AV-sol-162 SorCS1 group indicating a long-lasting beneficial effect of the soluble receptor in reducing plasma 163 In cells, full-length dimeric SorCS1 binds exclusively to the proIRs whereas monomeric 165 SorCS1 recognizes mature IR (Fig e-h)
+ Hence, we speculated that the active form of sol-SorCS1 166 liberated by ADAM17 mediated cleavage is the monomer
+ To demonstrate this, we purified monomeric 167 and dimeric sol-SorCS1 from transfected CHO cells and injected db/db mice with each form 168 intraperitoneally 10 hrs and 1 hr prior to glucose tolerance test
+ Intriguingly, monomeric sol-SorCS1, but 169 not the dimeric receptor, profoundly improved glucose tolerance (Fig
+ n)
+ Hence, the AUC for plasma 170 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    glucose was reduced by approximately 60% (from 1060 to 393 mM*min, P<
+05) in animals treated with 171 In conclusion, we have demonstrated that full-length SorCS1, expressed in peripheral 173 tissues augments insulin sensitivity by engaging proIR and IR; the dimeric SorCS1 binds intracellular 174 proIR and the monomeric receptor the surface exposed mature IR
+ As a soluble protein, monomeric 175 SorCS1 can target tissues remote from where it is being produced (Extended Data Fig
+ )
+ Given SorCS1 176 is expressed in adipose tissue, that it can be shed from adipocytes, and that its plasma concentration 177 positively correlates with BMI, we propose sol-SorCS1 as a novel adipokine to enhance insulin 178 The study was funded by the Lundbeck Foundation grant no
+ R248-2017-431 (AN) , DANDRITE-R248-182 2016-2518 (AN), R90-2011-7723 (AN); The Independent Research Fund Denmark grant no
+ DFF-7016-183 00261 (AN); The Novo Nordisk Foundation grant no
+ NNF16OC0020984 (AN); The Danish National 184 Research Foundation grant no
+ DNRF133 (AN); The Danish Diabetes Academy (MK)
+ We thank 185 Benedicte Vestergaard, Anja Aagaard and Anne Kerstine Thomassen for excellent technical assistance
+ 186 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    Figure 1: Insulin resistance and T2DM in Sorcs1D25-28 mice
+  189 a, Plasma glucose and, b, insulin concentrations in aging female Sorcs1D25-28 mice (wildtype n=4, 190 Sorcs1D25-28 n=)
+ c, Impaired glucose tolerance in 50 weeks old female Sorcs1D25-28 mice
+ d, AUC of the 191 data in c calculated minus baselines at t=0 (wildtype n=7, Sorcs1D25-28 n=)
+ e, In hyperinsulinemic 192 euglycemic clamp, glucose infusion rate (GIR) is lower in Sorcs1D25-28 female mice at steady state (t=60-193 90 min)
+ f, The insulin resistance is peripheral (wildtype n=7, Sorcs1D25-28 n=)
+ Data are presented as 194 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    Figure 2: Impaired insulin receptor signaling in Sorcs1D25-28 muscle
+  199 a, IR phosphorylation is reduced in 50 but not in 19 weeks old female mutant mice, 15 min post insulin 200 injection
+ b, Impaired insulin-induced IR phosphorylation in differentiated primary myocytes from 201 Sorcs1D25-28 mice
+ Expression of desmin confirms the cultures are equally differentiated
+ c, Reduced 202 phosphorylation of AKT in Sorcs1-/- C2C12 cells
+ d, Surface biotinylation of Sorcs1D25-28 primary 203 myocytes shows reduced IRb expression at the plasma membrane and accumulation of an intracellular 204 IRb immunoreactive fragment
+ Asterisk indicate the low molecular weight band
+ e, PNGase treatment 205 reveals reduced N-linked glycosylation of proIR in Sorcs1D25-28 myocyte cultures
+ DG proIR designates 206 Insulin (nM) 0    
+1  
+0  10 0    
+1  
+0  (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    a, SorCS1 overexpression in HEK293 cells increases insulin affinity to IR
+ b, SPR analysis demonstrates 210 dose-dependent binding of sol-SorCS to IR
+ c, Complex formation of SorCS1, IR, and insulin determined 211 by SPR
+ At 1200 sec, the additive signals for Sol-SorCS1 (blue) and insulin (red) equals the response 212 units obtained when IR is incubated with both proteins simultaneously (black)
+ d, Co-213 immunoprecipitation between SorCS1 and proIR/ IR
+ The interaction is independent on the presence of 214 saturating concentrations of insulin (100 nM)
+ e, Binding of dimeric SorCS1 is restricted to proIR, but 215 monomeric SorCS1 can bind mature IR
+  f, SorCS1 dimers that are BiFC-positive (green) are confined 216 to cytosolic compartments, whereas monomeric and BiFC-negative SorCS1 (red), is present at the cell 217 surface (f, inset)
+ g, In non-permeabilized HEK293, PLA for SorCS1 and IR (red) demonstrates binding 218 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    between monomeric SorCS1 (BiFC-negative) and IR
+ h, Dimeric SorCS1 (BiFC-positive, green) 219 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    a, mRNA expression of SorCS1 in human tissues (n=/group)
+ b, Insulin-induced activation of IR and 224 AKT in Sorcs1D25-28 primary myocytes correlates with sol-SorCS1 concentration
+ c, In diabetic patients 225 sol-SorCS1 in plasma negatively correlates with fasting plasma glucose (-value -
+6E-3, P<
+ )
+ d, 226 Expression of full-length SorCS1 and shedding of its soluble form in 3T3-L1 adipocytes
+  e, Treatment 227 with AV-sol-SorCS1, but not AV-LacZ, reduces plasma glucose levels and, f, plasma insulin in 7 weeks 228 old db/db mice
+ g, Enhanced glucose uptake determined by IPGTT in AV-sol-SorCS1 treated db/db mice 229 shown in real-time and, h, as AUC (n=/group)
+ i, Plasma insulin in the IPGTT shown in g-h
+ j, Lower 230 fasting plasma glucose but, k, higher infusion rate in euglycemic hyperinsulinemic clamp of AV-sol-231 SorCS1 treated db/db mice (n=/group)
+ l, The higher infusion rate is accounted for by increased 232 peripheral glucose uptake
+ m, Reduced HbA1c in db/db mice 21 days after infection with AV-sol-SorCS1 233 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    infection
+ n, Intraperitoneal injection of recombinant monomeric, but not dimeric, sol-SorCS1 increases 234 glucose tolerance (IPGTT) in db/db mice
+ o, AUC of the data displayed in panel n
+ Data are presented as 235 means  SEM, * = P<
+05, ** = P<
+01, ***=P<
+ 
+  236 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    
+ Shanik, M
+ H
+, et al Insulin resistance and hyperinsulinemia: is hyperinsulinemia the cart or the 238 
+ Warram, J
+ H
+, Martin, B
+ C
+, Krolewski, A
+ S
+, Soeldner, J
+ S
+ & Kahn, C
+ R
+ Slow glucose removal 240 rate and hyperinsulinemia precede the development of type II diabetes in the offspring of diabetic 241 
+ Kim, S
+ J
+, et al mTOR complex 2 regulates proper turnover of insulin receptor substrate-1 via 243 the ubiquitin ligase subunit Fbw
+ Mol Cell 48, 875-887 ()
+ 244 
+ Tremblay, F
+, et al Identification of IRS-1 Ser-1101 as a target of S6K1 in nutrient- and obesity-245 induced insulin resistance
+ Proc Natl Acad Sci U S A 104, 14056-14061 ()
+ 246 
+ Blagosklonny, M
+ V
+ TOR-centric view on insulin resistance and diabetic complications: 247 perspective for endocrinologists and gerontologists
+ Cell Death Dis 4, e964 ()
+ 248 
+ Willnow, T
+ E
+, Petersen, C
+ M
+ & Nykjaer, A
+ VPS10P-domain receptors - regulators of neuronal 249 
+ Willnow, T
+ E
+, Kjolby, M
+ & Nykjaer, A
+ Sortilins: new players in lipoprotein metabolism
+ Curr 251 
+ He, Y
+, Fang, Z
+ & Yu, G
+ Sortilin-related VPS10 domain containing receptor 1 and Alzheimer's 253 disease-associated allelic variations preferentially exist in female or type 2 diabetes mellitus 254 
+ Paterson, A
+ D
+, et al A genome-wide association study identifies a novel major locus for 256 glycemic control in type 1 diabetes, as measured by both A1C and glucose
+ Diabetes 59, 539-549 257 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    
+ Goodarzi, M
+ O
+, et al SORCS1: a novel human type 2 diabetes susceptibility gene suggested by 259 
+ Granhall, C
+, Park, H
+ B
+, Fakhrai-Rad, H
+ & Luthman, H
+ High-resolution quantitative trait locus 261 analysis reveals multiple diabetes susceptibility loci mapped to intervals<800 kb in the species-262 conserved Niddm1i of the GK rat
+ Genetics 174, 1565-1572 ()
+ 263 
+ Clee, S
+ M
+, et al Positional cloning of Sorcs1, a type 2 diabetes quantitative trait locus
+ Nat Genet 264 
+ Kebede, M
+ A
+, et al SORCS1 is necessary for normal insulin secretory granule biogenesis in 266 metabolically stressed beta cells
+ J Clin Invest 124, 4240-4256 ()
+ 267 
+ Kjolby, M
+, et al Sort1, encoded by the cardiovascular risk locus p
+3, is a regulator of hepatic 268 
+ Kjolby, M
+, Nielsen, M
+ S
+ & Petersen, C
+ M
+ Sortilin, encoded by the cardiovascular risk gene 270 SORT1, and its suggested functions in cardiovascular disease
+ Curr Atheroscler Rep 17, 496 271 
+ Mortensen, M
+ B
+, et al Targeting sortilin in immune cells reduces proinflammatory cytokines 273 
+ Vaegter, C
+ B
+, et al Sortilin associates with Trk receptors to enhance anterograde transport and 275 
+ Hermey, G
+, et al SorCS1 variants and amyloid precursor protein (APP) are co-transported in 277 neurons but only SorCS1c modulates anterograde APP transport
+ J Neurochem 135, 60-75 ()
+ 278 
+ Savas, J
+ N
+, et al The Sorting Receptor SorCS1 Regulates Trafficking of Neurexin and AMPA 279 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    
+ Hermey, G
+, Sjogaard, S
+ S
+, Petersen, C
+ M
+, Nykjaer, A
+ & Gliemann, J
+ Tumour necrosis factor 281 
+ Ayala, J
+ E
+, et al Standard operating procedures for describing and performing metabolic tests 284 of glucose homeostasis in mice
+ Dis Model Mech 3, 525-534 ()
+ 285 
+ Graae, A
+ S
+, et al ADAMTS9 Regulates Skeletal Muscle Insulin Sensitivity Through 286 
+ Hwang, J
+ B
+ & Frost, S
+ C
+ Effect of alternative glycosylation on insulin receptor processing
+ J 288 
+ Hermey, G
+, et al Characterization of sorCS1, an alternatively spliced receptor with completely 290 different cytoplasmic domains that mediate different trafficking in cells
+ J Biol Chem 278, 7390-291 
+ Januliene, D
+, et al Hidden Twins: SorCS Neuroreceptors Form Stable Dimers
+ J Mol Biol 429, 293 
+ Kerppola, T
+ K
+ Design and implementation of bimolecular fluorescence complementation (BiFC) 295 assays for the visualization of protein interactions in living cells
+ Nat Protoc 1, 1278-1286 ()
+ 296 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    Insulin (nM) 0    
+1  
+0  10 0    
+1  
+0  (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    IR                = nM(which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted November 10, 
+ ;    

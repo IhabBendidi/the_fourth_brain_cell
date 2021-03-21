@@ -1,0 +1,609 @@
+In vitro screening of herbal medicinal products for their supportive curing potential in the context of SARS-CoV-(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    Background: Herbal medicinal products have a long-standing history of use in the therapy of 26 common respiratory infections
+ In the COVID-19 pandemic, they may have the potential  for 27 symptom relief in non-severe or moderate disease cases
+  Here we describe the results derived by 28 in	vitro screening of five herbal medicinal products with regard to their potential to i) interfere 29 with the binding of the human Angiotensin-converting enzyme 2 (ACE2) receptor with the SARS-30 CoV-2 Spike S1 protein, ii) modulate the release of the human defensin HBD1 and cathelicidin LL-31 37 from human A549 lung cells upon Spike S1 protein stimulation and iii) modulate the release of 32 IFN- from activated human peripheral blood mononuclear cells (PBMC)
+	 The investigated 33 extracts were:	 Sinupret extract (SINx), Bronchipret thyme-ivy (BRO TE), Bronchipret thyme-34 Methods:	The inhibitory effect of the herbal medicinal products on the binding interaction of 36 Spike S1 protein and the human ACE2 receptor was measured by ELISA
+ The effects on 37 intracellular IFN- expression in stimulated human PBMCs were measured by flow cytometry
+ 38 Regulation on HBD1 and LL-37 expression and secretion was assessed in 25d long-term cultured 39 human lung A549 epithelial cells by RT-PCR and ELISA
+  40 Results: IMU and BRO TE concentration-dependently inhibited the interaction between spike 41 protein and the ACE2 Receptor
+ However, this effect was only observed in the cell-free assay at a 42 concentration range which was later on determined as cytotoxic to human PBMC
+  SINx, TOP and 43 BRO TP significantly upregulated the intracellular expression of antiviral IFN from stimulated 44 PBMC
+ Co-treatment of A549 cells with IMU or BRO TP together with SARS-CoV-2 spike protein 45 significantly upregulated mRNA expression (IMU) and release (IMU and BRO TP) of HBD1 and LL-46 Conclusions:	 The in	 vitro screening results provide first evidence for an immune activating 48 potential of some of the tested herbal medicinal extracts in the context of SARS-CoV-
+  Whether 49 these could be helpful in prevention of SARS-CoV-2 invasion or supportive in  recovery from SARS-50 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    All over the world the population is struggling with the outbreak of COVID-
+ Effective 53 antiviral therapies are unavailable so far, comprehensive vaccination has yet to be achieved and 54 various mutants of the enveloped, single-stranded RNA virus SARS-CoV2 have emerged (Greaney 55 et al, )
+ Thus it is of critical importance to search for compounds, which could help in fighting 56 the virus pandemic
+ Testing the effectiveness of different drug types used previously in the 57 treatment of other diseases is here one strategy to accelerate the development
+ Herbal medicinal 58 products have the potential to interfere with various steps of the viral replication cycle  (Brendler 59 and Al-Harrasi, 2020; Mani et al, )
+ Besides, they have been reported to exhibit an anti-60 inflammatory and immune modulating potential and thus may also be supportive in prevention 61 or attenuation of mild to moderate SARS-CoV-2 infections (Glatthaar-Saalmller B, 2011; Seibel 62 et al, 2015; Seibel et al, )
+ In this pilot screening study, five herbal medicinal products, 63 marketed for the treatment against respiratory infections (Bachert, 2020; Rossi et al, 2012; Seibel 64 et al, 2015; Seibel et al, 2018), were explored for their potential to i) interfere with the binding 65 of the human Angiotensin-converting enzyme 2 (ACE2) receptor with the SARS-CoV-2 spike 66 protein
+ The ACE2 receptor found in various organs including type I and II pneumocytes, 67 endothelial cells, oral and nasal mucosa but also intestinal tissues, liver, kidney, or brain 68 (Hamming et al, 2004; Xu et al, 2020) has been identified as the key cellular receptor, which 69 facilitates uptake of the SARS-CoV-2 virus into the host cell (Ortiz et al, )
+ Drugs targeting the 70 interaction between the spike protein receptor binding domain of SARS-CoV-2 and ACE2 receptor 71 may thus offer some protection against this novel viral infection (Hu et al, 2020) (Yang et al, 72 )
+ ii) We investigated whether the extracts can modulate the release of the defensin HBD1 73 and cathelicidin LL-37 from human A549 lung cells upon SARS-CoV-2 spike protein stimulation
+ 74 In the innate immune system, these antimicrobial peptides (AMPs), have a non-enzymatic 75 inhibitory effect on a broad spectrum of microorganisms (Wilson et al, )
+ Human beta 76 defensins (HBDs) have known antiviral effects on both enveloped and non-enveloped viruses 77 (Ding et al, )
+ Due to the relative nonspecificity of the targets of defensins compared to those 78 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    of the adaptive arm, antiviral applications of defensins are conceptually ideal for protection 79 against different viral infections (Holly et al, 2017; Wilson et al, )
+ iii) We investigated 80 whether the plant extracts could modulate the activated immune system in terms of regulating 81 anti-viral interferon gamma (IFN-) production
+ This type II interferon is produced by T 82 lymphocytes and NK cells and essential for antiviral defense
+ It suppresses virus replication and 83 activates T cell cytokine production (Levy and Garca-Sastre, )
+  84 All plant extract mixtures were provided by Bionorica SE either in dried or fluid form
+ The dried 88 extracts were used in different dilutions
+ The following extracts (Bionorica SE, Neumarkt in der 89 Bronchipret thyme-ivy (BRO TE), an extract of thyme herb (Thymus	vulgaris	L
+ or Thymus	zygis 91 L
+) and ivy leaves (Hedera	helix L
+ )
+ BRO-TE is a mixture of fluid extracts of thyme herb (extractant: 92 ammonia solution 10% (m/m) / glycerol (85%) (m/m) / ethanol 90% (v/v) / water 93 (1:20:70:109); drugextract ratio (DER): :
+5) and ivy leaves (extractant: ethanol 70% (v/v); 94 DER: 1:1) as contained in Bronchipret syrup with a thyme/ivy fluid extract ratio of :
+ In order 95 to minimise ethanol content in the test system the extract mixture was dealcoholised by rotary 96 evaporation to a final ethanol content of 1% (v/v)
+ To control for loss of volatile ingredients, 97 Bronchipret thyme-primrose (BRO TP), an extract of thyme herb (Thymus	vulgaris	L
+ or Thymus	99 zygis L
+) and primrose root (Primula	veris L
+ or Primula	elatior (L
+) HILL)
+ BRO-TP is a mixture of 100 genuine dry extracts of thyme herb (extraction solvent: ethanol 70% (v/v); DER: 610:1) and 101 primrose root (extractant: ethanol 47% (v/v); DER 67:1) as contained in Bronchipret TP film-102 coated tablets without excipients and with a final thyme/primrose dry extract ratio of 
+ :
+ A 103 stock solution of 100 mg/ml was prepared in 50% EtOH 104 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    Imupret (IMU), 100 g Imupret oral drops contain: 29 g of an ethanolic-aequous extract 105 (extraction solvent: Ethanol 59 Vol
+-%) out of Marshmellow root	 (Altheae	 officinalis	 L
+) 
+4 g, 106 Chamomille flowers (Matricaria	 recutita	 L
+) 
+3 g, Horsetail herb (Equisetum avense L
+) 
+5 g, 107 Walnut leafs (Juglans	regia	L
+ 
+) 
+4 g, Yarrow herb (Achillea	millefolium	L
+) 
+4 g, Oak bark (Quercus	108 robur	 L
+) 
+2 g, Dandelion herb (Taraxacum	 officinale	F
+ H
+ WIGGERS) 
+4 g
+ Total-ethanol 19 % 109 (v/v)
+ 
+ In order to minimise ethanol content in the test system the extract mixture was 110 dealcoholised (> 
+5% (v/v)) by rotary evaporation
+ The content quality of the dealcoholized test 111 item complied with Imupret oral drops as checked by identity tests and quantitative analysis
+  112 Sinupret extract (SINx), combined genuine dry extract (BNO 1011) of gentian root (Gentiana	113 lutea L
+), primrose flower (Primula	veris	L
+), sorrel herb (Rumex	crispus L
+), elder flower 114 (Sambucus	nigra L
+) and verbena herb (Verbena	officinalis L
+) with a ratio of 1:3:3:3:3 (extraction 115 solvent: ethanol 51% (v/v); DER 36:1) as contained in Sinupret extract coated tablets without 116 Tonsipret (TOP), homeopathic dilution for tonsillitis tablets containing 
+5% Dilution Capsicum 118 D3 (Capsicum	 annuum L
+), 
+5% Dilution Guajacum D3 (Guaiacum	 officinale L
+/ Guaiacum	119 sanctum L
+) and 
+0% mother tincture Phytolacca (Phytolacca	americana	L
+ )
+ In order to minimise 120 ethanol content in the test system the mixture was dealcoholized (> 
+5% (v/v)) by rotary 121 evaporation
+ The quality of the dealcoholised test item complied with the corresponding 122 manufacturing stage of the herbal medicinal product Tonsipret as checked by identity analyses
+  123 All extracts were centrifuged (
+000 x g, 3 min, RT) and the supernatant was used for the 124 experiments
+ The final concentration of the solvent (ethanol) was less than 
+5% in all assays
+  125 The human lung adenocarcinoma A549 cell line was purchased from DSMZ (Germany)
+ For the 128 experiments, cells were used at low passage number after thawing
+ Cells were cultured in RPMI 129 medium containing 10% heat inactivated FCS, 1% penicillin/streptomycin and 1% L-glutamine 130 for 25 days for differentiation according to the protocol by Cooper et al, 2016(Cooper et al, )
+ 131 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    After 25 days, cells were exposed to the extracts for different time points either with or without 132 For PBMC isolation, blood was taken in Li-Heparin vacutainers from healthy volunteers at the 134 University of Freiburg - Medical Center after written informed consent
+ The study was approved 135 by the Ethics Committee of the University of Freiburg and carried out according to their guidelines 136 and regulations (ethical vote /)
+ PBMC isolation was done by centrifugation on a 137 cells were then washed twice with PBS and viability and concentration was determined using the 139 The capacity of extracts to inhibit the SARS-CoV-2-Spike-ACE2 binding was tested using the SARS-143 CoV-2 (COVID-19) Inhibitor screening kit (BioCat GmbH, Heidelberg, Germany) according to the 144 manufacturers instructions
+ This colorimetric ELISA assay measures the binding between 145 immobilized SARS-CoV-2 Spike protein RBD and biotinylated human ACE2 protein
+ The 146 colorimetric detection is done using streptavidin-HRP followed by TMB incubation
+  147 A549 cells were treated with extracts with/without Sars-CoV-2 Spike S1 protein (Trenzyme, 150 Germany) for different time points
+ Total RNA was isolated from the cells using the RNeasy mini 151 isolation kit from Qiagen (Germany) with a purification step using the RNase-free DNase kit 152 (Qiagen) according to the manufacturers instructions
+ The quantity and quality of RNA were 153 determined by a NanoDrop ND-1000 spectrophotometer (Thermo Scientific, Germany)
+ 25 ng 154 RNA was used for qPCR reaction
+ Changes in mRNA levels were measured by qRT-PCR as 155 described previously (Nam et al, 2006; Pierson et al, )
+ 156 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    HBD1 and LL-37 peptide release was quantified in supernatants from 25 day long-term cultured 159 A549 cells using a human BD-1 Standard ABTS ELISA Development Kit (PeproTech, Germany) and 160 LL-37 human ELISA kit (HycultBiotech, Germany) according to the manufacturers instructions
+ 161 PBMC were treated with extracts for 6h and co-stimulated with 50 ng/ml phorbol 12-myristate 164 13-acetate (PMA), 1 g/ml ionomycin, and a SARS-CoV-2 S peptide pool (Miltenyi Biotec, 165 Germany) for immune reaction together with 10 g/ml brefeldin A
+ Cells were then collected and 166 processed for intracellular staining with anti-IFN--FITC monoclonal antibody (Miltenyi Biotec, 167 Germany)
+ Changes in the subset of lymphocyte cells and cytokine production (IFN-) were 168 The LIVE/DEAD Fixable Far Red Dead Cell Stain Kit (Thermo Fisher Scientific, Germany) and the 172 LDH-Glo Cytotoxicity Assay (Promega, Germany) were used to determine cytotoxicity of extracts 173 in PBMC and A549 cells, respectively after 24 hour exposure, according to the manufacturers 174 Results were analysed using the GraphPad Prism 
+0 software (La Jolla, California, USA)
+ Data 178 were presented as means + SD
+ Statistical significance was determined by the one way ANOVA test 179 followed by Holm-Sidak's correction
+ P values <
+05 (*) were considered statistically significant 180 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    The inhibitory potential of the extracts between the SARS-CoV-2 spike protein and the ACE2 186 receptor was tested in a cell free assay
+  A concentration-dependent inhibitory effect on spike 187 binding to ACE2 was seen with extract IMU (maximum of 86%  
+3), extract BRO TP (maximum 188 of 44%  
+8) and extract BRO TE (maximum of 77%  
+ )
+ For extracts TOP, no relevant effect 189 (data not shown) and for SINx minor effects were observed (figure )
+ 190 First, cytotoxicity of the extracts was quantified after 24 h exposure in human PBMC
+ Relevant 193 toxicity (i
+ e
+ >10%) was evident for extract IMU at  1:40 dilution, for extract BRO-TP at  
+25 194 mg/ml and for BRO-TE at  1:200 dilution
+ For TOP and SINx, no relevant toxicity could be seen 195 in the applied in	vitro model
+ Upon stimulation with a mixture of SARS-CoV-2 S peptide pool, PMA 196 and ionomycin, a significant increase in intracellular IFN- expression (in range of 7-15%) could 197 be seen (see figure )
+ Compared to control cells, a significant increase in IFN- expression could 198 be seen in stimulated PBMC with extract TOP (145%  27 at a 1:60 dilution), extract SINx (169% 199  26 at 
+25 mg/ml) and extract BRO TE (157%  31 at a 1:1000 dilution) (figure )
+ For extract 200 IMU and BRO TP, no additional increase in IFN- expression was seen
+ In contrast, at  
+167 201 mg/ml, extract BRO TP had an inhibitory effect on INF-, which is likely due to beginning 202 For first insights into the effects of the test items on cellular defense mechanisms we analysed the 206 mRNA expression and secretion of HBD-1 and LL-37 in human A549 cells
+ Based on the findings 207 in human PBMC, the absence of relevant cytotoxicity (i
+ e
+ > 10%) upon extract exposure was first 208 confirmed in 25d long-term cultured A549 cells using the LDH-Glo cytotoxicity assay (data not 209 shown)
+ We then treated the cells with Sars-CoV-2 Spike S1 protein together with the extracts for 210 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    24 h
+ Thereafter, a significant increase in HBD1 mRNA expression was measured for IMU (154% 211  33 at 1:100 dilution) and extract SINx (144%  27 at 
+67mg/ml) as compared to control (figure 212 )
+ A similar trend was observed in LL-37 regulation upon co-treatment with IMU (184%68 at 213 1:60 dilution), BRO-TP (161%  17 at 
+167 mg/ml) or BRO-TE (130%  2 at 1:400 dilution) 214 together with the SARS-CoV-2 spike protein
+  Additionally, the extract-induced secretion of HBD1 215 and LL37 was analysed by ELISA in presence and absence of the spike protein at different time 216 points (figure )
+ Both extracts, IMU and BRO TP, could significantly trigger also the secretion of 217 HBD1 peptide with or without S1 spike protein co-treatment from A549 cells
+ Extract BRO TP 218 could also significantly trigger the secretion of LL-37 either with S1 spike protein co-treatment or 219 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    Herbal extracts are known to induce diverse cellular defense mechanisms following viral infection 224 of human cells (Khare et al, 2020; Kim et al, )
+ Using different screening assays, we show 225 here that extracts of marketed herbal medicinal products elicit potential beneficial effects in	vitro	226 in terms of cellular defense activation upon challenge with SARS-CoV-2 spike protein or peptide 227 The first step of viral infection is the interaction of the virus with the host cell
+ In case of SARS229 CoV-2 the spike protein interacts with the ACE2 receptor on the surface of epithelial cells such as 230 from in the oral cavity or respiratory tract (Mani et al, 2020; Tay, 2020; Xu et al, )
+ In our 231 study, extracts from IMU and BRO TE were able to interfere with the binding between the S1 spike 232 protein and the human ACE2 receptor
+ Computational binding studies show that common herbal 233 secondary metabolites like luteolin or quercetin could be able to bind and block the ACE2 receptor 234 (Khare et al, 2020; Mani et al, 2020; Muchtaridi et al, 2020), and also bind the SARS-CoV-2 spike 235 protein
+ A demonstration of interference with SARS-CoV-2 spike ACE2 binding using cell-free or 236 in	vitro assays is missing for most of them, though
+ So, for quercetin and its metabolites, inhibition 237 of recombinant human ACE2 (rhACE2) activity has been reported in	vitro (Liu et al, )
+ The 238 rhACE2 activity was then inhibited by rutin, quercetin-3-O-glucoside, tamarixetin, and 3,4-239 dihydroxyphenylacetic acid by %
+ With an IC50 of 
+48 M, quercetin was the most potent 240 rhACE2 inhibitor tested in this study
+ The herbal extracts investigated here contain high amounts 241 of these plant metabolites (Assessment report on Quercus robur L
+; EMA, 2013; 242 EMA/HMPC/136583/2012 Assessment report on Primula veris L
+ and/or Primula elatior (L
+) Hill, 243 2012; EMA/HMPC/342334/2013 Assessment report on Thymus vulgaris L
+ and L
+, 2012; Seibel 244 et al, 2015; Seibel et al, )
+ Thus, these constituents could account or add to the inhibitory 245 effect observed by the two herbal extract mixtures IMU and BRO TE and it will be important to 246 further ascertain this hypothesis in ongoing studies
+ The products are mixtures made from several 247 medicinal plants, thus it might also be helpful to determine the plant with the largest share on this 248 effect
+ This is the more important as the inhibition was observed at a concentration range which 249 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    turned out to be cytotoxic to human PBMC and which is not relevant for the direct use in practice
+ 250 But, IMU and BRO TP also activated the human innate immune defense by increasing the level of 251 defensin HBD1 and/or cathelicidin LL37 upon SARS-CoV-2 spike protein stimulation and this was 252 evident at much lower concentrations
+ By regulating chemokine and cytokine production, both 253 AMPs help to maintain homeostasis of the immune system and display antiviral properties, as for 254 example evidenced by gene regulation upon viral challenge or expression in cells involved in viral 255 defense (Wilson et al, )
+ LL-37, consisting of 37 amino acids and an overall positive net 256 charge (+6) can also eliminate microbes directly by electrostatic binding to negatively charged 257 molecules on microbial membranes (PrePrint Roth et al, )
+ In secretions from lung and nose 258 it was found that LL-37 could reach high concentrations indicating to a relevant role in lung 259 immune defense mechanisms (Kim et al, 2003; Mansbach et al, 2017; Schaller-Bals et al, )
+ 260 Defensins can be detected in the mucosa of all respiratory tissues, including pharynx (22, )
+ The 261 effect of AMPs on virus infections appear to be specific to the virus, AMP, and also target cell and 262 to our knowledge, a direct antiviral efficacy of HBD-1 or LL-37 against SARS-CoV-2 has not been 263 shown so far (Ding et al, )
+ However, interestingly, for LL-37 a binding to the SARS-CoV-2 264 spike protein and an inhibitory action of LL-37 on the spike protein to its entry receptor have been 265 reported using binding competition studies (PrePrint Roth et al, )
+ In another study, high 266 structural similarity of LL-37 to the N-terminal helix of the receptor-binding domain of SARS-267 CoV-2 was reported (PrePrint Kiran Bharat Lokhande, )
+ There is also currently 268 speculation that vitamin D, by upregulation of LL-37, could be beneficial on the course of COVID-269 19 disease (Crane-Godreau et al, 2020) and LL-37 even has been proposed by some researchers 270 for treatment of COVD-19 patients (PrePrint Zhang et al, )
+ Thus, stimulating LL37 271 expression, as observed here in	vitro with BRO TP, might have several advantages during early 272 phase of SARS-CoV-2 entry, but this hypothesis, again, needs further verification
+  273 BRO TE and SINx extracts could be shown in the present study to further boost the immune 274 response of PBMC in terms of intracellular IFN- expression, which was activated by a mixture 275 including SARS-CoV-2 spike peptides
+ Once a virus has entered the cell and is replicated, a host 276 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    immune response starts to combat viral infection (Tay, )
+ An early interferon response of the 277 host has been reported to be essential for an effective defense against SARS-CoV-2 infection (Liao 278 et al, 2020; Tay, )
+ In turn, a decrease of IFN positive T-helper cells might increase the risk 279 for severe courses of COVID-19 (Pierce et al, 2020; Sattler et al, )
+ The here reported in	vitro 280 findings provide a first hint that BRO TE and SINx may help in further IFN expression during 281 infection
+ On the one hand, INF- is essential for the antiviral defense, but on the other hand 282 persistant high levels of INF- have been reported to worsen the systemic inflammation, 283 intensifying tissue injury and organ failure (Wang et al, 2020) during COVID-19 disease
+ This yet 284 known ambiguous role of IFN- in the course of SARS-CoV-2 infection here also asks for special 285 In conclusion, the marketed herbal medicinal products tested in this study demonstrate a range 287 of potential support of the human immune defense against SARS-CoV-2 infection
+ Whether the 288 observed effects could be relevant for the systemic use in man or limited to local effects e
+ g
+ in the 289 oral cavity, needs to be investigated
+ Further confirmatory mechanistic studies are necessary to 290 gain a deeper understanding of the reported observations and the transferability of the in	vitro 291 results to the clinical situation needs to be tested
+  292 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    The study on human PBMC was approved by the Ethics Committee of the University of Freiburg 298 and carried out according to their guidelines and regulations (ethical vote /)
+ 299 Not applicable
+ This article does not contain data from any individual person
+  302 The datasets used and/or analyzed during the current study are available from the 305 The study was funded by a grant from Bionorica SE
+  313 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    Study design: E
+ L
+ 
+All authors contributed to the study conception, Design of experiments, data 315 acquisition, analysis of data: H
+ T
+T, E
+ L
+ The first draft of the manuscript was written by H
+ T
+ T
+ 316 and E
+ L
+ All authors commented on previous versions of the manuscript
+  317 protein RBD coated plate was incubated with plant extracts and biotinylated human ACE2 for 1 h
+ 322 Thereafter, the plate was washed thoroughly and incubated with Streptavidin- HRP followed by 323 colorimetric detection using a multiplate reader from Tecan (Germany)
+ Bars are means +SD of at 324 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    Figure	 2:	 Intracellular	 IFN	 expression	 from	 stimulated	 human	 PBMC	 upon	 extract	328 treatment
+ Cells were stimulated with a mixture of SARS-CoV-2 S peptide pool, PMA and 329 ionomycin and treated with the extracts for 6 hours
+ Brefeldin A was used to enhance 330 staining without (left) and after (right) stimulation are given
+ Bars are means +SD of at least 332 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    Figure	 3:	 Effect	 of	 extracts	 on	 HBD1	 and	 LL37	 mRNA	 expression	 in	 Spike	 protein	338 stimulated	A	lung	cells
+ A549 cells were cultured for 25 days and co-treated with extracts 339 and SARS-CoV-2 Spike S1 protein for h
+  Bars are mean values +SD of at least three independent 340 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    Figure	 4:	 Effects	 of	 extracts	 on	 HBD1	 and	 LL37	 peptide	 section	 measured	 by	 ELISA	346 technique
+ Human A549 lung cells were cultured for 25 days and exposed to A) IMU or B) BRO 347 TP for different time points with and without Sars-CoV-2 Spike S1 protein stimulation
+ Bars are 348 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    Assessment report on Quercus robur L
+, Q
+ p
+ M
+ L
+, Quercus pubescens Willd
+, cortex 353 Assessment report on Quercus robur L
+, Quercus petraea (Matt
+) Liebl
+, Quercus pubescens 354 Willd
+, cortex EMA/HMPC/3206/2009 Committee on Herbal Medicinal Products (HMPC)  355 Bachert, C
+ ()
+ Evidence-based management of acute rhinosinusitis with herbal products
+ 356 Brendler, T
+, and Al-Harrasi, A
+ ()
+ Botanical drugs and supplements affecting the 358 immune response in the time of COVID-19: Implications for research and clinical practice
+ 359 Cooper, J
+ R
+, Abdullatif, M
+ B
+, Burnett, E
+ C
+, Kempsell, K
+ E
+, Conforti, F
+, Tolley, H
+, 360 Collins, J
+ E
+, and Davies, D
+ E
+ ()
+ Long Term Culture of the A549 Cancer Cell Line 361 Promotes Multilamellar Body Formation and Differentiation towards an Alveolar Type II 362 Crane-Godreau, M
+ A
+, Clem, K
+ J
+, Payne, P
+, and Fiering, S
+ ()
+ Vitamin D Deficiency 364 and Air Pollution Exacerbate COVID-19 Through Suppression of Antiviral Peptide LL
+ 365 Ding, J
+, Chou, Y
+ Y
+, and Chang, T
+ L
+ ()
+ Defensins in viral infections
+ Journal of innate 367 EMA ()
+ Assessment report on Juglans regia L
+, folium
+ 9 July 2013 369 EMA/HMPC/136583/2012 Assessment report on Primula veris L
+ and/or Primula elatior (L
+) 371 )
+ Assessment report on Primula veris L
+ and/or Primula elatior (L
+) Hill, flos
+ 373 EMA/HMPC/342334/2013 Assessment report on Thymus vulgaris L
+, v
+ z
+, and L
+, h
+ ()
+ 374 Glatthaar-Saalmller B, R
+ U
+, Rode S, Haunschild J, Saalmller A
+ ()
+ Antiviral activity 378 in vitro of two preparations of the herbal medicinal product Sinupret against viruses causing 379 Greaney, A
+ J
+, Starr, T
+ N
+, Gilchuk, P
+, Zost, S
+ J
+, Binshtein, E
+, Loes, A
+ N
+, Hilton, S
+ K
+, 381 Huddleston, J
+, Eguia, R
+, Crawford, K
+ H
+ D
+, et al ()
+ Complete Mapping of Mutations 382 to the SARS-CoV-2 Spike Receptor-Binding Domain that Escape Antibody Recognition
+ Cell 383 Hamming, I
+, Timens, W
+, Bulthuis, M
+ L
+, Lely, A
+ T
+, Navis, G
+, and van Goor, H
+ ()
+ 385 Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus
+ A first 386 Holly, M
+ K
+, Diaz, K
+, and Smith, J
+ G
+ ()
+ Defensins in Viral Infection and Pathogenesis
+ 388 Hu, B
+, Guo, H
+, Zhou, P
+, and Shi, Z
+ -L
+ ()
+ Characteristics of SARS-CoV-2 and 390 Khare, P
+, Sahu, U
+, Pandey, S
+ C
+, and Samant, M
+ ()
+ Current approaches for target-392 specific drug discovery using natural compounds against SARS-CoV-2 infection
+ Virus Res 393 Kim, S
+ T
+, Cha, H
+ E
+, Kim, D
+ Y
+, Han, G
+ C
+, Chung, Y
+ S
+, Lee, Y
+ J
+, Hwang, Y
+ J
+, and Lee, 395 H
+ M
+ ()
+ Antimicrobial peptide LL-37 is upregulated in chronic nasal inflammatory 396 Kim, Y
+, Narayanan, S
+, and Chang, K
+ O
+ ()
+ Inhibition of influenza virus replication by 398 Kiran Bharat Lokhande, T
+ B
+, K
+ Venkateswara Swamy, Manisha Deshpande ()
+ An in 400 Silico Scientific Basis for LL-37 as a Therapeutic and Vitamin D as Preventive for Covid-
+ 401 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    Levy, D
+ E
+, and Garca-Sastre, A
+ ()
+ The virus battles: IFN induction of the antiviral 403 state and mechanisms of viral evasion
+ Cytokine Growth Factor Rev 12, -
+ 404 Liao, D
+, Zhou, F
+, Luo, L
+, Xu, M
+, Wang, H
+, Xia, J
+, Gao, Y
+, Cai, L
+, Wang, Z
+, Yin, P
+, et 405 al ()
+ Haematological characteristics and risk factors in the classification and prognosis 406 evaluation of COVID-19: a retrospective cohort study
+ The Lancet Haematology 7, e671-407 Liu, X
+, Raghuvanshi, R
+, Ceylan, F
+ D
+, and Bolling, B
+ W
+ ()
+ Quercetin and Its 409 Mani, J
+ S
+, Johnson, J
+ B
+, Steel, J
+ C
+, Broszczak, D
+ A
+, Neilsen, P
+ M
+, Walsh, K
+ B
+, and 412 Naiker, M
+ ()
+ Natural product-derived phytochemicals as potential agents against 413 Mansbach, J
+ M
+, Hasegawa, K
+, Ajami, N
+ J
+, Petrosino, J
+ F
+, Piedra, P
+ A
+, Tierney, C
+ N
+, 415 Espinola, J
+ A
+, and Camargo, C
+ A
+ ()
+ Serum LL-37 Levels Associated With Severity of 416 Muchtaridi, M
+, Fauzi, M
+, and Khairul Ikram, N
+ K
+ ()
+ Natural Flavonoids as Potential 418 Nam, H
+ Y
+, Ahn, E
+ K
+, Kim, H
+ J
+, Lim, Y
+, Lee, C
+ B
+, Lee, K
+ Y
+, and Vallyathan, V
+ ()
+ 420 kappaB-mediated pathway in human lung epithelial cells
+ Particle and fibre toxicology 3, 
+ 422 Ortiz, M
+ E
+, Thurman, A
+, Pezzulo, A
+ A
+, Leidinger, M
+ R
+, Klesney-Tait, J
+ A
+, Karp, P
+ H
+, 423 Tan, P
+, Wohlford-Lenane, C
+, McCray, P
+ B
+, Jr
+, and Meyerholz, D
+ K
+ ()
+ Heterogeneous 424 expression of the SARS-Coronavirus-2 receptor ACE2 in the human respiratory tract
+ 425 Pierce, C
+ A
+, Preston-Hurlburt, P
+, Dai, Y
+, and Aschner, C
+ B
+ ()
+ Immune responses to 427 SARS-CoV-2 infection in hospitalized pediatric and adult patients
+  
+ 428 Pierson, T
+, Learmonth-Pierson, S
+, Pinto, D
+, and van Hoek, M
+ L
+ ()
+ Cigarette smoke 429 extract induces differential expression levels of beta-defensin peptides in human alveolar 430 Rossi, A
+, Dehm, F
+, Kiesselbach, C
+, Haunschild, J
+, Sautebin, L
+, and Werz, O
+ ()
+ The 432 novel Sinupret dry extract exhibits anti-inflammatory effectiveness in vivo
+ Fitoterapia 83, 433 Roth, A
+, Ltke, S
+, Meinberger, D
+, Hermes, G
+, Sengle, G
+, Koch, M
+, Streichert, T
+, and 435 Klatt, A
+ R
+ ()
+ LL-37 fights SARS-CoV-2: The Vitamin D-Inducible Peptide LL-37 436 Inhibits Binding of SARS-CoV-2 Spike Protein to its Cellular Receptor Angiotensin 437 Sattler, A
+, Angermair, S
+, Stockmann, H
+, Heim, K
+ M
+, Khadzhynov, D
+, Treskatsch, S
+, 439 Halleck, F
+, Kreis, M
+ E
+, and Kotsch, K
+ ()
+ SARS-CoV-2-specific T cell responses and 440 correlations with COVID-19 patient predisposition
+ J Clin Invest 130, -
+ 441 Schaller-Bals, S
+, Schulze, A
+, and Bals, R
+ ()
+ Increased levels of antimicrobial peptides 442 in tracheal aspirates of newborn infants during infection
+ Am J Respir Crit Care Med 165, 443 Seibel, J
+, Pergola, C
+, Werz, O
+, Kryshen, K
+, Wosikowski, K
+, Lehner, M
+ D
+, and 445 Haunschild, J
+ ()
+ Bronchipret syrup containing thyme and ivy extracts suppresses 446 Seibel, J
+, Wonnemann, M
+, Werz, O
+, and Lehner, M
+ D
+ ()
+ A tiered approach to 449 investigate the mechanism of anti-inflammatory activity of an herbal medicinal product 450 containing a fixed combination of thyme herb and primula root extracts
+ Clinical Phytoscience 451 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    Tay, M
+ Z
+ P
+, C
+ M
+ Rnia, L
+ ()
+ The trinity of COVID-19: immunity, inflammation and 453 Wang, F
+, Hou, H
+, Luo, Y
+, Tang, G
+, Wu, S
+, Huang, M
+, Liu, W
+, Zhu, Y
+, Lin, Q
+, Mao, L
+, 455 et al ()
+ The laboratory tests and host immunity of COVID-19 patients with different 456 Wilson, S
+ S
+, Wiens, M
+ E
+, and Smith, J
+ G
+ ()
+ Antiviral mechanisms of human 458 Xu, H
+, Zhong, L
+, Deng, J
+, Peng, J
+, Dan, H
+, Zeng, X
+, Li, T
+, and Chen, Q
+ ()
+ High 460 expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral mucosa
+ 461 Yang, J
+, Petitjean, S
+ J
+ L
+, Koehler, M
+, Zhang, Q
+, Dumitru, A
+ C
+, Chen, W
+, Derclaye, S
+, 463 Vincent, S
+ P
+, Soumillion, P
+, and Alsteens, D
+ ()
+ Molecular interaction and inhibition of 464 SARS-CoV-2 binding to the ACE2 receptor
+ Nature Communications 11, 
+ 465 Zhang, H
+, Zhao, Y
+, Jiang, X
+, Zhao, Y
+, Yang, L
+, Chen, L
+, Dong, M
+, Luan, Z
+, Yan, C
+, 466 Jiao, J
+, et al ()
+ Preliminary evaluation of the safety and efficacy of oral human 467 antimicrobial peptide LL-37 in the treatment of patients of COVID-19, a small-scale, single-468 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is The copyright holder for this this version posted March 1, 
+ ;    

@@ -1,0 +1,11 @@
+SARS-CoV- entry to host cells are initiated by binding with its receptor, angiotensin converting enzyme (ACE) , and the ACE abundance is thought to reflect the susceptibility to infection
+Among  approved drugs that we have previously identified a tricyclic antidepressant, was found to suppress SARS-CoV- invasion and infection remdesivir, suggesting the potential as a breakthrough treatment for severe COVID-
+These results suggest that clomipramine could be repurposed for the treatment with COVID- by inhibiting ACE Clinically, it is important whether drug treatment after SARS-CoV- infection is effective
+Treatment with clomipramine simultaneously and  hour after SARS-CoV- infection also suppressed the intracellular viral RNA level (Figure D)
+These results suggest that clomipramine prevents internalized cells due to S protein exposure was suppressed by clomipramine in a (which was not certified by peer review) is the author/funder
+The receptor binding domain (RBD) of S protein reportedly activates the ACE-mediated endocytic signal pathway, by which SARS-CoV- virus enters the susceptible cells
+This result may explain why clomipramine potently suppresses SARS-CoV- virus (which was not certified by peer review) is the author/funder
+In silico docking analysis predicts that clomipramine interacts with the S protein at the end of the RBD domain, binding is weak and therefore this might not fully explain the potent inhibitory effect on SARS-CoV- infection by clomipramine
+Further study is necessary to identify a molecular target by which clomipramine inhibits ACE internalization caused by SARS-(which was not certified by peer review) is the author/funder
+Identification of clomipramine as a potent inhibitor of SARS-CoV- (which was not certified by peer review) is the author/funder
+(H) Combined effect of VeroE cells without () or with () clomipramine ( M)  hour after SARS-CoV- infection

@@ -1,0 +1,697 @@
+Effects of varenicline and cognitive bias modification on neural response to smoking-related cues: a randomised control trialEffects of varenicline and cognitive bias modification on neural response to 5 Angela S
+ Attwood*1, 2, 3, Tim M
+ Williams4, F
+ Joseph McClernon5, Rachel Kozink5, 8 1 MRC Integrative Epidemiology Unit at the University of Bristol, United Kingdom 12 2 UK Centre for Tobacco and Alcohol Studies, University of Bristol, United Kingdom 13 3 School of Psychological Science, University of Bristol, United Kingdom 14 5 Psychiatry and Behavioral Sciences, Duke University School of Medicine, USA 16 7 Avon and Wiltshire Mental Health Partnership NHS Trust, United Kingdom 18 Angela S
+ Attwood PhD, School of Psychological Science, University of Bristol, 12a 23 Priory Road, Bristol BS8 1TU, United Kingdom
+ T: +
+ 
+ 
+7450; F: 24 Author email addresses: Tim Williams - tim
+ williams@nhs
+net, F
+ Joseph McClernon - 27 Funding: Investigator Initiated Research Grant, Pfizer Ltd
+ Grant number WS
+ 33 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    Key words: smoking, cognitive bias modification, cue reactivity, attentional bias, 38 Trial Registration: Current Controlled Trials ISRCTN
+  Date of registration: 41 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    Drug-related cognitive biases have been positively associated with drug-craving and 45 increased likelihood of relapse
+ Cognitive bias modification paradigms have been 46 developed to attenuate cognitive biases but there have been few studies that 47 examined neural responses to these paradigms
+ This study compared neural 48 responses following CBM and explored whether CBM effects were potentiated by 49 varenicline administration
+ This was a double-blind placebo-controlled study with two 50 between subject factors of drug (varenicline, placebo) and CBM (attend towards 51 smoking cues, train away from smoking cues, control training) that recruited daily (> 10 52 cigarettes per day) non-treatment seeking smokers
+ Participants (n = 67, 53% female) 53 were randomised to one-week of drug administration (varenicline or placebo) before 54 attending a study session at which they were randomised to CBM condition, and 55 underwent an fMRI scan were they were presented with smoking and neutral cues
+ 56 Neural response to smoking (vs
+ neutral) cues, cognitive bias, craving and mood were 57 assessed
+ There was no evidence of CBM effects on any outcomes
+ There was 58 evidence of effects of varenicline on craving, with greater reductions in craving in the 59 week preceding the study session in the varencline group (p = 
+04, pwas also evidence of a drug by CBM interaction for neural responses (z = 
+78, p 61 <
+ )
+ Compared to placebo, varenicline was associated with greater activation in 62 the right temporal middle gyrus in the CBM control condition, compared to an opposite 63 effect in the CBM attend towards condition
+ These data suggest that CBM does not 64 modify cognitive bias, subjective craving and mood, or neural response to smoking 65 cues
+ There was also no evidence that CBM effects were potentiated by varenicline
+  66 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    Smoking remains the leading cause of preventable death worldwide, with an 68 estimated 6 million tobacco-related deaths occurring every year (World Health 69 Organization, )
+ Despite many smokers reporting wanting to quit, few achieve 70 long-term abstinence
+ This may be partly due to the presence of smoking-related cues 71 in the environment, which through repeated and contingent pairing with drug 72 and drug seeking (Foltin & Haney, 2000; Gray, LaRowe, & Upadhyaya, 2008; 74 McClernon et al, 2016; Mucha, Pauli, & Angrilli, 1998; Muntaner et al, )
+  75 attention allocation to drug cues, have been reported in users of a number of drugs 77 and have been positively associated with drug craving (Field, Munafo, & Franken, 78 2009; Wakefield, Germain, & Henriksen, 2008), future drug use (Cox, Pothos, & 79 Hosier, 2007), approach behaviours to drug-related cues (Franken, 2003) and 80 increased likelihood of relapse (Marissen, Franken, Blanken, van den Brink, & 81 Hendriks, )
+ Of particular importance, the drug-stimulus learning that is believed to 82 underlie these biases is long-lasting, which makes an individual vulnerable to relapse 83 long after initial cessation
+ In smokers, increased reactivity to smoking cues has been 84 found to predict decreased likelihood of cessation (Abrams, Monti, Carey, Pinto, & 85 Jacobus, 1988; Niaura, Abrams, Demuth, Pinto, & Monti, 1989; Waters et al, )
+ 86 Consequently, reduction in cognitive bias is a potential target for therapeutic 87 There is evidence that it is possible to reduce cognitive biases using computer-89 based cognitive bias modification (CBM) paradigms that train individuals to allocate 90 attention away from disorder-relevant cues
+ CBM has been shown to reduce cognitive  91 and has also been associated with reduction in other symptoms such as low mood 92 (Baert, De Raedt, Schacht, & Koster, )
+ Attwood and colleagues (Attwood, 93 O'Sullivan, Leonards, Mackintosh, & Munafo, 2008) reported decreased cognitive bias 94 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    in a group of smokers following one session of stimulus-avoidance CBM using a 95 modified dot probe task
+ Compared to a group who had been trained to attend to 96 smoking cues, there was evidence that the avoid group also showed attenuated 97 craving in response to in vivo smoking cues in a subsequent cue exposure test (male 98 participants only)
+ A subsequent study in tobacco smokers found similar decreases in 99 cognitive bias following CBM, but did not observe generalisation of these effects of 100 other relevant behaviours (e
+ g
+, cigarette craving) or novel (untrained) stimuli (Field, 101 Duka, Tyler, & Schoenmakers, )
+ The weak effects may be due to the limited 102 number of sessions used in laboratory-based studies and that multiple session 103 approaches may be more efficacious than single session CBM (Lopes, Pires, & 104 Bizarro, 2014; McHugh, Murray, Hearon, Calkins, & Otto, 2010; Unrod et al, )
+ 105 Taken together, the research suggests CBM may have some clinical utility but the 106 effects are compromised by small effect sizes and issues with generalisation of the 107 There has been growing interest in the development of combination drug-109 behavioural therapies, in which a drug is used to augment the outcomes of a 110 behavioural intervention (Swerdlow, )
+ This may offer a solution to the low efficacy 111 and reliability of CET effects, if a suitable pharmacological agent can be identified
+ The 112 smoking cessation pharmacotherapy varenicline acts as a partial agonist of the 42 113 nicotinic acetylcholine receptor and aids cessation by reducing cigarette craving and 114 withdrawal symptoms
+ However, it has also been associated with a reduction in cue-115 related craving in humans (Ray et al, 2013), particularly following chronic 116 administration (Brandon et al, 2011), and reductions in cue-induced reinstatement of 117 drug taking in animals (Le Foll et al, 2012; Wouda et al, )
+ Therefore, varenciline 118 may be a useful adjunct to CBM, particularly as it is already licensed as a smoking 119 The current study replicated earlier work by examining the effects of CBM on 121 behavioural measures of cognitive bias (visual dot probe and modified Stroop), and 122 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    extended the work in two important ways
+ First, we examined whether 7-day pre-123 treatment of varenicline enhanced the effects of CET on smoking cue reactivity and 124 attentional bias
+ Second, using fMRI, we examined the neural responses to smoking 125 biases are the result of a failure of cognitive regulatory systems to increase control in 127 the presence of salient cues that increase processing in the reward and emotional 128 centres of the brain (e
+ g
+, striatum, amygdala) (Hester & Luijten, )
+ Therefore, 129 these additional measures offer important insight into the mechanisms underlying the 130 effects of CBM, particularly as computer-based measures of cognitive bias are known 131 to lack reliability (Ataya et al, 2012; Field & Christiansen, )
+ 132 apart
+ Participants were randomised to receive either 7-day treatment of varenicline or 134 matched placebo, prior to completion of 1-hour of CBM training
+ For CBM training, 135 participants were further randomised (stratified by drug group) to one of three 136 conditions: 1) training towards smoking cues (attend), 2) training away from smoking 137 cues (avoid), or 3) control training (control)
+ After training, participants underwent a cue 138 reactivity task during an fMRI scan
+ We hypothesised that participants in the CBM-139 avoid condition would show a decrease in cognitive bias and neural response to 140 smoking-related cues compared to those in the CBM-attend and CBM-control 141 conditions, and that changes in cognitive bias and neural response, would be greatest 142 in individuals trained to avoid smoking-related cues and treated with varenicline
+ 143 Daily smokers (10 cigarettes or 15 roll ups/day who smoke within one hour 147 of waking) were recruited from the staff and students at the University of Bristol and 148 the general population through existing participant databases, posters, online flyers 149 and word of mouth
+ Participants were required to be between 18 and 40 years of 150 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    age, fluent in English and registered with a General Practitioner
+ Exclusion criteria 151 were pregnancy, breast feeding or at risk of pregnancy (i
+ e
+, females not using 152 units/week if female or >50 units/week if male) or caffeine consumption (> 8 cups of 154 caffeinated beverage per day), current or past psychiatric disorder, clinically 155 (participants were required to be 8 weeks clear of any prescribed medication), 157 known hypersensitivity to varenicline, high blood pressure or heart rate 158 (systolic/diastolic >140/90 mmHg or heart rate >90 bpm), uncorrected visual or 159 auditory impairment, and any condition that would make MRI scanning unsafe (e
+ g
+, 160 metallic implants) or intolerable
+ The study was approved by the National Research 161 gave written informed consent and were reimbursed 70 at the end of the study
+ 163 This was a double-blind, placebo-controlled study that used a 2  3 between-166 subjects design, comprising one factor of drug (varenicline, placebo) and one factor 167 of CBM group (attend, avoid, control)
+ For the behavioural assessments of cognitive 168 bias (dot probe, modified Stroop), there was an additional within-subjects factor of 169 Following initial consent and screening on day 0, varenicline (or matched 173 placebo) was prescribed by a medical doctor for one week
+ Participants were told to 174 take one tablet (
+5 mg) daily on days 1 - 3, two tablets daily (total 1 mg) on days 4 - 175 6, and one tablet (
+5 mg) on day 7, consistent with standard dosing regimen for 176 smoking cessation
+ Participants completed daily diaries detailing the time at which 177 the tablets were taken and any side effects
+ Participants attended their second 178 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    session on day 7 (i
+ e
+, their last drug day) and were asked to take the drug in the 179 Participants were randomly assigned to drug and CBM groups (stratified by 183 gender), but equal numbers of participants per group were maintained
+ Drugs were 184 supplied by Pfizer and shipped to University Hospitals Bristol Pharmacy who 185 prepared two batches of 36 bottles (one for male and one for females)
+ Within each 186 group of 36 bottles, 18 bottles contained 10 varenicline tablets (
+5 mg each) and 18 187 bottles contained 10 tablets of matched placebo
+ Each bottle was given a numeric 188 identifier that enabled study staff involved in data collection to be fully blinded to 189 In addition, an experimental collaborator (who had no direct contact with the 191 study participants) prepared a numeric code using random number assignment 192 software to further randomise participants to CBM groups
+ Randomisation was 193 stratified so that equal numbers of male and female participants (n = 12) were 194 allocated across the six experimental cells (drug treatment [2]  CBM group [])
+ 195  Materials: Stimuli for the CBM and the fMRI cue exposure task comprised 198 cues consisted of full-colour pictures of people smoking
+ Control cues consisted of 200 full-colour pictures of people engaged in everyday activities (e
+ g
+, talking on the 201 telephone, writing)
+ Equal numbers of females and males were represented in each 202 category
+ The set of cues pictures is the same as used in previous imaging studies 203 (McClernon, Kozink, Lutz, & Rose, 2009; McClernon, Kozink, & Rose, )
+ For the 204 cognitive bias modification task, an additional 4 picture pairs, unrelated to smoking, 205 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    modified visual dot probe task designed to induce a biased cognitive response away 208 from (avoid: n = 24), or towards (attend: n = 24) smoking-related cues, or a control 209 condition (control: n = )
+ Each task version comprised 768 trials
+ Each trial began 210 with a fixation cross (500 ms), before a picture pair (smoking image, neutral image) 211 was presented on a computer screen
+ The picture pair stayed on screen for 500 ms 212 and then was replaced by a probe (small square or circle) in a location previously 213 occupied by one of the pictures
+ Participants were required to identity whether the 214 probe was a square or circle by pressing designated keyboard keys
+  215 The majority of trials (n = 512) were training trials, presented in four blocks, 216 and the remainder of trials (n = 256) were test trials
+ Half of the test trials (n = 128) 217 were presented prior to the training trials (baseline test), and half (n = 128) after the 218 training trials, in order to assess the effect of the CBM on cognitive bias
+ In the test 219 trials, the probe appeared with equal frequency in the location of the smoking-related 220 or neutral picture
+ In the training trials, the probe appeared in the location of the 221 neutral picture on 75% of trials in the avoid condition, or the smoking-related picture 222 on 75% of trials in the attend condition, or with equal frequency in the location of 223 neutral and smoking-related pictures in the control condition
+ The inter-trial interval 224 jittered between 750 ms and 1,250 ms
+ The tasks were programmed and presented 225 using EPrime version 2 software (Psychology Software Tools Inc
+, Pittsburgh PA), 226 Cognitive Bias Generalisation Test (modified Stroop): A pictorial version of the 228 modified Stroop task was used to investigate the effect of dot-probe CBM on a different 229 measure of cognitive bias
+ The task began with 16 practice trials followed by two 230 experimental blocks, each comprising 8 buffer and 96 experimental trials (i
+ e
+, 208 231 trials in total)
+ For each trial a picture was presented (smoking-related or neutral) 232 centrally on screen
+ The picture was surrounded by a coloured border and the 233 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    participant was required to identify the colour of the border (red, blue, yellow or green) 234 Questionnaire  Revised (EPQ-R) (Eysenck & Eysenck, 1991), the Questionnaire of 237 Smoking Urges - Brief (QSU-Brief) (Tiffany & Drobes, 1991), the Minnesota Nicotine 238 Withdrawal Scale (MNWS) (Hughes & Hatsukami, 1986) and visual analogue scales 239  fMRI Acquisition: An anatomical and a fMRI scan were performed on the test 241 day (Day 7) with a Siemens Magnetom Skyra 3T scanner
+ BOLD images were 242 acquired using an EPI sequence (36 slices, TR = 2,500 ms, TE = 30 ms, FOV = 
+2 243 cm, matrix = 64  64, flip angle = 90o, slice thickness = 3 mm, resulting in 3 mm3 244 isotropic voxels)
+ A T1-weighted structural image was acquired using an MP-RAGE 245 sequence with a 
+9 mm3 isotropic voxel size and 192 slices
+ During the fMRI cue 246 exposure procedure, smoking-related and control cues were presented in a boxcar 247 design with four blocks per category
+ Participants were required to make a button 248 press on each stimulus presentation to confirm they had seen the image (this did not 249 terminate viewing time)
+ Each block lasted 40 s, during which time 8 cues were 250 presented
+ Before and after each block, a crosshair was presented for 5 s
+ 251 Participants were then asked to rate cigarette craving on an 8-point scale (none at 252 all to extreme)
+ The scale was presented for 10 s followed by a crosshair for 253 another 10 s
+ Thus, the total interblock-interval was 25 s
+ The sequence of events 254 was controlled using EPrime version 2 software (Psychology Software Tools Inc
+, 255 Pittsburgh PA), and total task time was approximately 10 min
+  256 Individuals who responded to study advertisements were sent the full 259 information sheet and completed a telephone screening to assess basic eligibility
+ 260 Eligible participants were then booked in for a screening and baseline assessment 261 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    session (Day )
+ At this session full written informed consent was taken by a trained 262 researcher, and then the screening procedure was completed
+ This included 263 measures of expired breath alcohol and carbon monoxide, height, weight, blood 264 pressure and heart rate
+ A urine screen was performed to test for recent drug use 265 (all) and pregnancy (females)
+ A medical doctor then completed a general physical 266 and psychiatric health assessment, and prescribed the study medication if 267 appropriate
+ Then participants completed a baseline assessment of cognitive bias 268 and withdrawal (QSU, MNWS) and mood (VASs), and a practice version of the task 270 that they would completed during the fMRI scan at the second visit (Day )
+ 271 Participants were then sent away with the study medication, medication 272 packaging information and a drug diary (which they were required to complete and 273 return at the next visit)
+ The second session (test day) was then scheduled for 274 approximately one week later
+ This session fell on day 7 of their drug regimen
+ 275 On the test day (Day 7), participants returned with their drug diaries and any 276 untaken medication
+ Prior to the scan, they completed the Stroop task followed by a 277 short visual dot probe task that measured baseline cognitive bias
+ Participants then 278 completed one version of CBM (avoid, attend, control) per the study randomisation
+ 279 The test version of the dot-probe task was run again immediately post-CBM in order 280 to assess changes in cognitive bias
+ Following this, participants completed a 4-281 minute anatomical scan and then the cue-exposure test during a 15 minute fMRI 282 scan
+ After scanning, participants completed the modified Stroop task and 283 questionnaires (QSU, visual analogue scales) again
+ At the end of the test session, 284 The protocol for this study was published in Trials in October 2014 (Attwood, 288 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    Cognitive bias analyses (visual dot probe test of CBM and Stroop): All data 290 were examined for outliers (defined as scores three or more standard deviations 291 above or below the group mean)
+ Removals are noted in text
+ Data were assessed 292 for normality and transformed using log 10 transformations (or square root where 293 data include zero scores) where deviations from normality were observed
+ 294 Mean reaction time data were extracted for each of the four variables from 295 the visual dot probe tests that were completed before and after CBM training (pre-296 Cognitive bias scores were calculated by subtracting RTs to probes that replaced 298 smoking-related pictures from RTs to probes that replaced neutral pictures, so that 299 positive scores represent a bias towards smoking cues and negative scores 300 represent a bias towards neutral cues
+ These bias scores were used to examine 301 cognitive training effects in a 2 (pre-, post-CBM)  2 (varenicline, placebo)  3 302 A similar procedure was applied to Stroop data (test of cognitive bias 304 generalisation)
+ Mean reaction times and errors were extracted for smoking and 305 neutral images during tasks completed before and after CBM training
+ Bias scores 306 were calculated for each variable and used in the same 3-way mixed model ANOVA 307 (detailed above), with exception that the subtraction was reversed (i
+ e
+, neutral 308 scores were subtracted from smoking scores)
+ This was done for ease of 309 interpretation as (unlike the visual dot probe) slower scores represent cognitive bias 310 on the Stroop task
+ Therefore, for Stroop data presented here positive scores 311 data were analysed in two time phase analyses using ANOVA
+ We first assessed tonic 314 craving (QSU) defined as craving during drug treatment
+ This analysis used baseline 315 data from sessions one and two in a 2 (pre-drug, post-drug treatment)  2 (varenicline, 316 placebo) mixed model ANOVA
+ We then examined craving and mood change across 317 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    CBM (i
+ e
+, on test day) in a series of 2 (pre-, post-CBM)  2 (varenicline, placebo)  3 318 fMRI analysis: BOLD signal pre-processing was conducted in FSL version 320 
+ 
+1 (Jenkison et al, 2012) to remove noise and artefacts
+ The first two volumes of 321 each run were discarded to allow for T1 stabilization
+ All functional images were 322 corrected for head motion using rigid-body transformations (MCFLIRT; Jenkinson et 323 al, 2002) and acquisition timing
+ Additional pre-processing steps included spatial 324 smoothing using an 8 mm FWHM Gaussian filter, high-pass filtering, and registration 325 Each participants fMRI data was then entered into a first-level voxel-by-voxel 327 analysis using the general linear model
+ Each cue block (smoke, control) was 328 modelled as a boxcar function convolved with a double- hemodynamic response 329 function that begins at the onset of the first cue in the block and ends at the end of 330 the block (duration = 40 s)
+ A smoking>control cue contrast image was created and 331 input into a random effects analysis
+ A 2 (varenicline, placebo)  3 (attend, avoid, 332 control) mixed-model whole-brain ANOVA was used to examine smoking cue 333 reactivity (smoking greater than control) between each group
+ Activation was 334 evaluated within an a priori mask of anatomical brain regions identified in a meta-335 analysis of cue reactivity (Tang, Fellows, Small, & Dagher, 2012): nucleus 336 insula, posterior cingulate cortex, inferior frontal gyrus, and angular gyrus
+ Resulting 338 activations within the mask were considered significant at p<
+001 (uncorrected) 339 with a minimum cluster extent threshold of 20 contiguous voxels
+ Smoking cue 340 greater than control cue contrast images for each participant were input into random 341 Sample size determination: The effects of cognitive bias on brain responses to 344 smoking cues have not been evaluated in previous research
+ Data from our previous 345 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    studies (Attwood et al, 2008) indicated a likely increase in cognitive bias index of 30 346 ms in the attend group, and a decrease of 30 ms in the avoid group
+ We assumed that 347 the change in the control condition would be intermediate (i
+ e
+, 0 ms)
+ Using these 348 estimates, we calculated that we would achieve greater than 80% power to detect a 349 linear effect across the three study groups on change in cognitive bias index with a 350 total sample size of n = 30, at an alpha level of 
+ 
+ Due to an additional factor of drug 351 group (varenicline vs
+ placebo), the actual sample size we recruited was n = 72, with n 352 Four participants withdrew from the study (two from varenicline/control CBM 357 condition, and two from placebo/avoid CBM condition) and therefore the final sample 358 comprised 68 participants (53% female)
+ Participants were aged between 18 and 39 359 years (M = 23, SD = 5) and smoked between 10 and 25 cigarettes per day (M = 15, SD 360 = )
+ Alcohol Use Disorders Identifier Test scores ranged between 5 and 24 (M = 13, 361 SD = )
+ EPQ-R scores ranged between 3 and 17 (M = 8, SD = 3) for psychoticism, 0 362 and 20 (M = 7, SD = 4) for neuroticism, and 10 and 23 (M = 18, SD = 3) for 363 extraversion
+ See Table 
+ for participant characteristics by drug and CBM condition
+ 364 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    Table 
+ Mean (SD) participant characteristics, baseline craving and nicotine 367 Values represent mean (SD)
+  SD = standard deviation; Varen
+ = varenicline, CPD = cigarettes 371 per day; AUDIT = Alcohol Use Disorder Identifier Test; QSU = Questionnaire of smoking urges; 372 MNWS = Minnesota Nicotine Withdrawal Scale; EPQ-R = Eysenck Personality Questionnaire-373 Revised, Neu = neuroticism; Psy = psychoticism; Ext = extraversion
+ 374 Due to computer malfunction, post-training CBM data were not recorded for 377 participant completed the allocated CBM training and therefore their data have been 379 retained in all other analysis
+ Prior to the calculation of bias scores, reaction time data 380 of the four primary variables (pre-training neutral, pre-training smoking, post-training 381 neutral, post-training smoking) were assessed for normality, and there was evidence of 382 positive skewness on three of the four variables
+ Therefore log 10 transformation was 383 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    applied to the data prior to the bias calculations being performed
+ The 2 (pre-, post-384 CBM)  2 (varenicline, placebo)  3 (attend, avoid, control) mixed model ANOVA 385 showed no main effects or interactions (ps >
+ )
+ These findings did not change if 386 For error data, three participants were identified as outliers in the pre-CBM 390 condition and one participant was identified as an outlier in the post-CBM condition
+ 391 These data were removed from main analysis
+ After data removal error data were not 392 normally distributed and a square root transformation was applied to these data
+  393 There was weak evidence of a drug  CBM interaction (F [1, 57] = 
+74, p = 394 2 = 
+09) for errors, reflecting a bias towards smoking (versus neutral) cues in 395 the attend CBM condition (compared to avoid and neutral conditions) but only in 396 individuals who had received placebo
+ In contrast, participants who received 397 varenicline showed a bias towards neutral in the attend condition (compared to avoid 398 and neutral conditions)
+ The evidence for this effect was weaker when untransformed 399 data were used (p = 
+18) and when outliers were included (p = 
+ )
+ There was no 400 evidence of any other main effects or interactions for Stroop error (ps >
+13) or reaction 401 Withdrawal across drug treatment: There was weak evidence of an effect of 405 2 = 
+05) with lower nicotine withdrawal in the drug (M 406 = 
+0, SD = 
+3) compared to placebo group (M = 
+8, SD = 
+ )
+ There was no clear 407 evidence of an effect of time or time by drug interaction (ps > 
+ )
+ 408 Tonic craving across drug treatment: For QSU data, there was evidence of 409 effects of time (F [1,65] = 
+61, p < 
+001, p2 = 
+34) and drug (F [1,65] = 
+06, p = 
+017, 410 2 = 
+09), which were subsumed under a time  drug interaction (F [1,65] = 
+37, p = 411 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    2 = 
+ )
+ Post-hoc paired samples t-tests showed that there was a decrease in 412 craving from session one (pre-drug) to session two (post-drug) in both drug groups, but 413 this effect was larger in the varenicline group (see Table )
+ For cigarette craving VAS 414 data, the main effects of time (F [1,61] = 
+62, p < 
+001, p2 = 
+21) were replicated but there were no other effects or 416 Mood (VAS) across drug treatment: There was evidence of effects of time for 418 2 = 
+07), drowsiness (F [1,62] = 
+78, p = 
+057, 419 2 = 
+06), depression (F [1,62] = 
+93, p = 
+003, p2 = 
+14), anxiety (F [1,62] = 
+22, p = 420 2 = 
+05) and irritability (F [1,62] = 
+56, p = 
+005 phappiness, and increases in drowsiness, depression, anxiety and irritability
+ There was 422 also evidence of an effect of drug for anxiety (F [1,62] = 
+01, p = 
+004, plower anxiety reported in the varenicline group
+ There was no clear evidence of any 424 Table 2: Craving (QSU) scores from pre- to post drug administration in varenicline and 427 Withdrawal across CBM (pre-CBM to post-scan): There was evidence of a main effect 431 = 
+6, SD = 
+3) to post-CBM (M = 
+3, SD = 
+ )
+ There was no clear evidence for 433 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    Craving (QSU) across CBM (pre-CBM to post-scan): For QSU data, there was 436 evidence of effects of time (F [1,62] = 
+6, p < 
+001, p2 = 
+13), indicating increases in craving from pre-CBM (M = 
+7, SD = 438 
+1) to post scan (M = 
+5, SD = 
+8) and higher craving in the placebo group (M = 439 
+9, SD = 
+7) compared to varenicline group (M = 
+3, SD = 
+ )
+ There was no 440 strong evidence of other main effects or interactions (ps > 
+ )
+ The main effects of 441 2 = 
+48) and drug (F [1,62] = 
+32, p < 
+001, p
+21) were replicated using craving VAS data, and there was no clear evidence of any 443  Mood across CBM session (pre-CBM to post-scan): There was evidence of 445 main effects of time for happiness (F(1,61) = 
+24, p = 
+044, p2 = 
+17), energy (F(1,61) = 
+24, p = 
+006, pand increases in drowsiness and irritability across the session
+ There was evidence of 449 a main effect of drug (F(1,61) = 
+46, p = 
+014, p2 = 
+09) for anxiety, with higher anxiety in the placebo group 451 (M = 
+4, SD = 
+9) compared to varenicline group (M = 
+1, SD = 
+ )
+ Post-hoc 452 paired t-tests indicated a decrease in anxiety across the session in the placebo group 453 (t = 
+35, df = 33, p = 
+025, dz = 
+40), but not the varenicline group (t = -
+25, df = 32, p 454 = 
+22, dz = 
+ )
+ Finally there was evidence of a drug  CBM interaction for happiness 455 happiness than the placebo group but only in the attend CBM condition
+ 457 1 in the control-placebo group) were excluded from fMRI imaging analysis (2 due to 461 excessive motion and 1 due to poor signal quality)
+ There was no evidence of main 462 effects of drug or CBM within the a priori mask
+ There was strong evidence of a drug  463 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    CBM interaction in one cluster (k = 32) in the right middle temporal gyrus (peak voxel: x 464 = 58, y = -58, z = 12; z = 
+78, p <
+ )
+ The placebo group exhibited greater 465 temporal gyrus activation to smoking cues than the varenicline group in the control 466 CBM condition (t = 
+86, p = 
+006) but less activation than the varenicline group in the 467 toward CBM condition (t = 
+41, p = 
+02) (Figure )
+  468 Figure 1: Neural response to smoking cues (% BOLD signal) in the right 472 temporal gyrus across the three CBM groups following 1-week administration of 473 Cognitive bias data from the visual dot probe task used in the regression 476 analysis were transformed as described above
+ One subject with useable imaging data 477 was excluded from the analysis due to incomplete behavioural data
+ Correlation 478 between post-training bias scores and smoking cue reactivity (i
+ e
+, smoking greater 479 than control cue contrasts) were put into a regression analysis
+ There was no clear 480 Away                    Control                    Towardswas not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    We investigated the effects of CBM and one-week varenicline treatment on 484 neural response to smoking-related cues in current smokers
+ There was no evidence 485 that CBM training alone altered cognitive bias (post-CBM visual dot probe, Stroop), 486 mood, craving or neural response to smoking-cues
+ There was evidence of reduced 487 craving in the varenicline group as evinced by several drug by time interactions
+ Across 488 the drug administration phase of the study (i
+ e
+, the six days preceding the study 489 session), there was a greater reduction in QSU scores for the varenicline compared to 490 placebo group
+ A main effect of drug was also evident for VAS craving scores (i
+ e
+, 491 lower craving in varenicline group); however, the drug by time interaction was not 492 replicated
+ The lower reports of craving in the varenicline group were also evident at 493 the study session, during which CBM was administered
+ Finally, there was weak 494 evidence that varenicline may have attenuated CBM-induced smoking bias, as there 495 was an increase in smoking bias following CBM attend training, but only in the placebo 496 group
+ There was no evidence of an interaction between varenicline and CBM on 497  There was evidence of a drug by CBM interaction on neural responses in one 499 region within our a priori cue-reactivity mask
+ In right middle temporal gyrus (rMTG), 500 activation in response to smoking relative to neutral cues was greater in the placebo as 501 compared to the varenicline condition in the control CBM condition; the opposite 502 pattern was observed in the toward CBM condition
+ Whereas the rTMG has been 503 shown to be active in response to viewing smoking cues in meta-analyses (Tang et al, 504 2012), little has been reported regarding its potential role in processing conditioned 505 smoking cues
+ Activation in the specific rTMG location we observed, has also been 506 observed in studies of Theory of Mind, or the social-cognitive ability to infer the 507 emotional and motivational experience (Vollm et al, 2006), where it may be involved in 508 retrieval of memories associated with the behaviour of others
+ In the context of the 509 present study, varenicline in the control CBM condition may decrease the degree to 510 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    which such memories are accessed due to decreased tonic craving
+  Why toward CBM 511 training would reverse such effects is unclear from the data, which suggests that 512 additional research is needed to fully understand the influence of CBM on the 513  Taken together these findings support a benefit of varenicline on tonic craving 515 and neural response to smoking cues (which may be driven by the craving effects)
+ 516 While the effects of varenicline may be small, they are meaningful given the fact that 517 the dosing regime delivered in the study is substantially lower than the clinically 518 prescribed dose (i
+ e
+, 1 week compared to a standard 12-week course)
+ However, we 519 found no evidence of a benefit of CBM on any outcomes, and little evidence that 520 varenicline would be a useful adjunct to smoking-related CBM
+  The CBM by drug 521 interaction that was observed for the fMRI data, indicated that the effects of varenicline 522 may have been attenuated for active CBM (i
+ e
+, the effects were only observed in the 523 control training group)
+ However, numbers are small and therefore this effect requires 524  It is noteworthy that we did not find effects of CBM on measures of cognitive 526 bias (visual dot probe and Stroop)
+ There are known issues with the reliability of 527 cognitive bias tests (Ataya et al, 2012), and therefore this may be a failure of the 528 measure rather than a lack of effect
+ However, this indicates that the CBM may not 529 have been effective, and these findings should be interpreted with this in mind
+ We 530 hypothesised that effects of CBM would be potentiated by varenicline and our failure to 531 observe such effects may be due to there being no CBM effects to strengthen
+ It is 532 plausible that varenicline may potential effects of CBM if these effects can be reliably 533  There are some limitations of this study that should be considered when 535 interpreting these findings
+ First, our sample size was small for the analysis of 536 interactions
+ Our planned recruitment of 72 participants was achieved but not all 537 participants were tested to completion, and our final sample was lower (n = 67 for 538 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    subjective and cognitive data; n = 64 for fMRI data)
+ We also have a computer 539 malfunction for one of the conditions that was not identified until data were extracted
+ 540 We had to replace a number of participants in one CBM condition (avoid) and therefore 541 these individuals were tested outside of the randomisation sequence
+ We do not 542 however expect that this had a substantial effect on outcomes as these individuals 543 were testing in close time proximity to the rest of the sample
+ Furthermore, the 544 researchers collecting data were not aware of the reason for additional recruitment, 545 and therefore double-blinding was maintained
+ Third, our study recruited non-treatment 546 seeking smokers, and it is plausible that effects of CBM may be stronger in individuals 547  This study investigated neural responses to smoking cues following varenicline 549 and CBM treatment
+ There was little evidence of neural effects of either drug or CBM
+ 550 However, there was evidence of reductions in craving among smokers who completed 551 one-week of varenicline treatment
+ Drug by CBM interactions were exploratory due to 552 small sample sizes, but we observed an interaction on right temporal gyrus activity
+ 553 Specifically, varenicline appeared to attenuate cue-related activity in the right temporal 554 gyrus that was presented in the placebo group
+ However, this effect should be 555 replicated in future research
+ In summary, this study finds little evidence of clinical 556 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    Revised; MNWS: Minnesota Nicotine Withdrawal Scale; RT: reaction time: VAS: visual 562 MRM and ASA have received grant funding from Pfizer Ltd
+ FJM received partial salary 566 support (
+5%) from an unrestricted grant funded by Philip Morris from April 2009 to 567 MRM, FJM, SA and ASA contributed to the conception and design of the trial, and 571 plans for data analysis
+ SA and ASA participated in data collection and project 572 management
+ FJM and RK analysed and interpreted fMRI data
+ TW leads the clinical 573 team (including DC, AG and KS) for subject recruitment
+ ASA drafted the manuscript, 574 and all authors discussed, read and revised the manuscript
+ All authors approved the 575 This study was supported by a Pfizer Ltd
+ Investigator Initiated Grant (grant ID: 579 WS)
+ MRM, ASA and SA are members of the UK Centre for Tobacco and 580 Alcohol Studies, a UKCRC Public Health Research Centre of Excellence
+ ASA and 581 MRM are members of the MRC Integrative Epidemiology Unit at the University of 582 Bristol
+ We thank Aileen Wilson, Emma Howell, Alexander Davidson, George Stothart 583 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    Abrams, D
+ B
+, Monti, P
+ M
+, Carey, K
+ B
+, Pinto, R
+ P
+, & Jacobus, S
+ I
+ ()
+ 587 Reactivity to smoking cues and relapse: two studies of discriminant validity
+ 588 Ataya, A
+ F
+, Adams, S
+, Mullings, E
+, Cooper, R
+ M
+, Attwood, A
+ S
+, & Munafo, M
+ R
+ 590 ()
+ Internal reliability of measures of substance-related cognitive bias
+ Drug 591 Attwood, A
+ S
+, O'Sullivan, H
+, Leonards, U
+, Mackintosh, B
+, & Munafo, M
+ R
+ ()
+ 593 Attentional bias training and cue reactivity in cigarette smokers
+ Addiction, 594 Attwood, A
+ S
+, Williams, T
+, Adams, S
+, McClernon, F
+ J
+, & Munafo, M
+ R
+ ()
+ 596 Effects of varenicline and cognitive bias modification on neural response to 597 smoking-related cues: study protocol for a randomized controlled study
+ Trials, 598 Baert, S
+, De Raedt, R
+, Schacht, R
+, & Koster, E
+ H
+ ()
+ Attentional bias training in 600 depression: therapeutic effects depend on depression severity
+ J Behav Ther 601 Brandon, T
+ H
+, Drobes, D
+ J
+, Unrod, M
+, Heckman, B
+ W
+, Oliver, J
+ A
+, Roetzheim, R
+ 603 C
+, 
+ 
+ 
+ Small, B
+ J
+ ()
+ Varenicline effects on craving, cue reactivity, and 604 Cox, W
+ M
+, Pothos, E
+ M
+, & Hosier, S
+ G
+ ()
+ Cognitive-motivational predictors of 607 Eysenck, H
+ J
+, & Eysenck, S
+ B
+ G
+ ()
+ The Eysenck Personality Questionnaire - 610 Field, M
+, & Christiansen, P
+ ()
+ Commentary on, 'Internal reliability of measures of 612 Field, M
+, Duka, T
+, Tyler, E
+, & Schoenmakers, T
+ ()
+ Attentional bias modification 615 Field, M
+, Munafo, M
+ R
+, & Franken, I
+ H
+ ()
+ A meta-analytic investigation of the 617 Foltin, R
+ W
+, & Haney, M
+ ()
+ Conditioned effects of environmental stimuli paired 621 with smoked cocaine in humans
+ Psychopharm
+ (Berl), 149(1), -
+  622 Franken, I
+ H
+ ()
+ Drug craving and addiction: integrating psychological and 623 Gray, K
+ M
+, LaRowe, S
+ D
+, & Upadhyaya, H
+ P
+ ()
+ Cue reactivity in young 627 Hester, R
+, & Luijten, M
+ ()
+ Neural correlates of attentional bias in addiction
+ CNS 631 Hughes, J
+ R
+, & Hatsukami, D
+ ()
+ Signs and symptoms of tobacco withdrawal 633 Le Foll, B
+, Chakraborty-Chatterjee, M
+, Lev-Ran, S
+, Barnes, C
+, Pushparaj, A
+, 635 Gamaleddin, I
+, 
+ 
+ 
+ Goldberg, S
+ R
+ ()
+ Varenicline decreases nicotine self-636 rats when a long pretreatment time is used
+ Int J Neuropsychopharmacol
+, 638 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    Lopes, F
+ M
+, Pires, A
+ V
+, & Bizarro, L
+ ()
+ Attentional bias modification in smokers 640 trying to quit: a longitudinal study about the effects of number of sessions
+ J 641 Marissen, M
+ A
+, Franken, I
+ H
+, Blanken, P
+, van den Brink, W
+, & Hendriks, V
+ M
+ 643 ()
+ Cue exposure therapy for the treatment of opiate addiction: results of a 644 McClernon, F
+ J
+, Conklin, C
+ A
+, Kozink, R
+ V
+, Adcock, R
+ A
+, Sweitzer, M
+ M
+, 648 Addicott, M
+ A
+, 
+ 
+ 
+ DeVito, A
+ M
+ ()
+ Hippocampal and Insular Response 649 McClernon, F
+ J
+, Kozink, R
+ V
+, Lutz, A
+ M
+, & Rose, J
+ E
+ ()
+ 24-h smoking 653 McClernon, F
+ J
+, Kozink, R
+ V
+, & Rose, J
+ E
+ ()
+ Individual differences in nicotine 657 McHugh, R
+ K
+, Murray, H
+ W
+, Hearon, B
+ A
+, Calkins, A
+ W
+, & Otto, M
+ W
+ ()
+ 661 Attentional bias and craving in smokers: the impact of a single attentional 662 Mucha, R
+ F
+, Pauli, P
+, & Angrilli, A
+ ()
+ Conditioned responses elicited by 664 experimentally produced cues for smoking
+ Can J Physiol Pharmacol, 76(3), 665 Muntaner, C
+, Cascella, N
+ G
+, Kumor, K
+ M
+, Nagoshi, C
+, Herning, R
+, & Jaffe, J
+ 667 ()
+ Placebo responses to cocaine administration in humans: effects of prior 668 Niaura, R
+, Abrams, D
+, Demuth, B
+, Pinto, R
+, & Monti, P
+ ()
+ Responses to 670 smoking-related stimuli and early relapse to smoking
+ Addict Behav, 14(4), 419-671 Ray, L
+ A
+, Lunny, K
+, Bujarski, S
+, Moallem, N
+, Krull, J
+ L
+, & Miotto, K
+ ()
+ The 673 effects of varenicline on stress-induced and cue-induced craving for cigarettes
+ 674 Tang, D
+ W
+, Fellows, L
+ K
+, Small, D
+ M
+, & Dagher, A
+ ()
+ Food and drug cues 680 activate similar brain regions: a meta-analysis of functional MRI studies
+ Physiol 681 Tiffany, S
+ T
+, & Drobes, D
+ J
+ ()
+ The development and initial validation of a 683 questionnaire on smoking urges
+ Br J Addict, 86(11), -
+  684 Unrod, M
+, Drobes, D
+ J
+, Stasiewicz, P
+ R
+, Ditre, J
+ W
+, Heckman, B
+, Miller, R
+ R
+, 
+ 
+ 
+ 685 Brandon, T
+ H
+ ()
+ Decline in cue-provoked craving during cue exposure 686 Vollm, B
+ A
+, Taylor, A
+ N
+, Richardson, P
+, Corcoran, R
+, Stirling, J
+, McKie, S
+, 
+ 
+ 
+ 689 Elliott, R
+ ()
+ Neuronal correlates of theory of mind and empathy: a 690 functional magnetic resonance imaging study in a nonverbal task
+ Neuroimage, 691 Wakefield, M
+, Germain, D
+, & Henriksen, L
+ ()
+ The effect of retail cigarette pack 693 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    Waters, A
+ J
+, Shiffman, S
+, Sayette, M
+ A
+, Paty, J
+ A
+, Gwaltney, C
+ J
+, & Balabanis, 696 M
+ H
+ ()
+ Cue-provoked craving and nicotine replacement therapy in 697 World Health Organization
+ ()
+ WHO Global Report: Mortality Attributable to 700 Wouda, J
+ A
+, Riga, D
+, De Vries, W
+, Stegeman, M
+, van Mourik, Y
+, Schetters, D
+, 
+ 
+ 
+ 702 De Vries, T
+ J
+ ()
+ Varenicline attenuates cue-induced relapse to alcohol, 703 was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted December 21, 
+ ;    

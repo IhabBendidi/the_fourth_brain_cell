@@ -1,0 +1,605 @@
+Modelling the impact of clot fragmentation on the microcirculation after thrombectomyWahbi K
+ El-Bouri1,2*, Andrew MacGowan1, Tams I
+ Jzsa1, Matthew J
+ Gounis3, Stephen J
+ Payne1 3 1 Institute of Biomedical Engineering, Department of Engineering Science, University of Oxford, 4 2 Liverpool Centre for Cardiovascular Science, Department of Cardiovascular and Metabolic Medicine, 6 3 New England Center for Stroke Research, Department of Radiology, University of Massachusetts 8 Many ischaemic stroke patients who have a mechanical removal of their clot (thrombectomy) do not 13 get reperfusion of tissue despite the thrombus being removed
+ One hypothesis for this no-reperfusion 14 phenomenon is micro-emboli fragmenting off the large clot during thrombectomy and occluding 15 smaller blood vessels downstream of the clot location
+ This is impossible to observe in-vivo and so we 16 here develop an in-silico model based on in-vitro experiments to model the effect of micro-emboli on 17 brain tissue
+ Through in-vitro experiments we obtain, under a variety of clot consistencies and 18 microcirculation is modelled for statistically accurate voxels of brain microvasculature including 20 penetrating arterioles and capillary beds
+ A novel micro-emboli algorithm, informed by the 21 experimental data, is used to simulate the impact of micro-emboli successively entering the penetrating 22 arterioles and the capillary bed
+ Scaled-up blood flow parameters  permeability and coupling 23  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    coefficients  are calculated under various conditions
+ We find that capillary beds are more susceptible 24 to occlusions than the penetrating arterioles with a 4x greater drop in permeability per volume of vessel 25 occluded
+ Individual microvascular geometries determine robustness to micro-emboli
+ Hard clot 26 fragmentation leads to larger micro-emboli and larger drops in blood flow for a given number of micro-27 emboli
+ Thrombectomy technique has a large impact on clot fragmentation and hence occlusions in the 28 microvasculature
+ As such, in-silico modelling of mechanical thrombectomy predicts that clot specific 29 factors, interventional technique, and microvascular geometry strongly influence reperfusion of the 30 brain
+ Micro-emboli are likely contributory to the phenomenon of no-reperfusion following successful 31 After an ischaemic stroke - one where a clot blocks a major artery in the brain - patients can undergo a 34 procedure where the clot is removed mechanically with a stent - a thrombectomy
+ This reopens the 35 blocked vessel, yet some patients dont achieve blood flow returning to their tissue downstream
+ One 36 hypothesis for this phenomenon is that the clot fragments into smaller clots (called micro-emboli) which 37 block smaller vessels downstream
+ However, this cant be measured in patients due to the inability of 38 clinical imaging resolving the micro-scale
+ We therefore develop a computational model here, based on 39 experimental thrombectomy data, to quantify the impact of micro-emboli on blood flow in the brain 40 after the removal of a clot
+ With this model, we found that micro-emboli are a likely contributor to the 41 no-reflow phenomenon after a thrombectomy
+ Individual blood vessel geometries, clot composition, 42 and thrombectomy technique all impacted the effect of micro-emboli on blood flow and should be taken 43 into consideration to minimise the impact of micro-emboli in the brain
+ Furthermore, the computational 44 model developed here allows us to now build large-scale models of blood flow in the brain, and hence 45 simulate stroke and the impact of micro-emboli on the entire brain
+ 46  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    Stroke is the second largest cause of mortality and of adult disability globally []
+ Ischaemic stroke  48 the physical occlusion of a cerebral artery by a blood clot (embolus) restricting blood supply to a part 49 of the brain  is the most common form of stroke, occurring in approximately 85% of strokes []
+ Time 50 is critical in stroke, with every hour of delay without treatment causing a loss of neurons equivalent to 51 3-4 years of ageing [2] and a 6% reduction in positive outcome once the patient is treated []
+ 52 Since 2015, the use of intra-arterial thrombectomy  the mechanical removal of a clot via a stent  has 53 become the standard of care for patients with acute ischaemic stroke caused by large vessel occlusion 54 [,]
+ Despite this, many patients do not recover full perfusion in their tissue downstream of the 55 recanalized vessel []
+ This observation, commonly known as the no-reflow or no-reperfusion 56 phenomenon, has been documented in numerous studies involving both animals and humans []
+ 57 Hypotheses for this phenomenon include: changes in the ultrastructure of the microvasculature and 58 spontaneous blood clotting [7], capillary stalling and leukocyte adhesion [10,1315], breakdown of the 59 blood-brain barrier leading to tissue swelling and vessel collapse [12,16,17], vasoconstriction of the 60 capillary vessels due to pericyte death [10,18,19], oxidative stress and inflammatory responses [11], 61 and micro-emboli fragments post-recanalization blocking micro-vessels downstream of the clot [,]
+ 62 One of the above hypotheses for the no-reflow phenomenon  a micro-emboli shower fragmenting 63 off the clot  is of interest due to the clear clinical treatment pathway via thrombolysis
+ There is indirect 64 evidence that micro-emboli can fragment off clots and lead to worse patient outcomes
+ Patients who 65 undergo endarterectomy (surgical removal of a plaque in the vasculature) with stenting in the carotid 66 artery are 3 times as likely to have lesions appear in diffusion weighted MRI scans, and have non-67 disabling strokes, than those who only had an endarterectomy []
+ There is therefore a potential link 68 between clot fragmentation and the potential for microvascular occlusions and worse patient outcomes
+ 69  As part of the INSIST (IN-silico clinical trials for treatment of acute Ischaemic STroke) consortium 70 (www
+ insist-h
+eu) we are developing full brain models of blood flow and oxygen transport in 71  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    health, after an ischaemic stroke, and post-thrombectomy/thrombolysis []
+ The goal of INSIST is to 72 advance in-silico clinical stroke trials for biomedical products for the treatment of ischaemic stroke
+ As 73 such, an accurate model of clot fragmentation during thrombectomy is required to simulate the effect 74 of micro-emboli on reperfusion post-recanalization
+ This will help in deducing whether micro-emboli 75 Due to the intrinsically microvascular nature of the no-reflow phenomenon, it is impossible to assess 77 the impact of micro-emboli showers in humans, with most microinfarcts being < 1 mm in size making 78 in-vivo detection of them challenging []
+ However, silicone in-vitro models of human cerebral 79 vasculatures have been used to quantify how a clot fragments during thrombectomy using a range of 80 removal techniques and different clot consistencies [,]
+ Most other experimental works analysing 81 the impact of occlusions on the microvasculature come from mouse models []
+ Recently, an in-82 silico study on a mouse cortex microvascular network found that the severity of micro-strokes in the 83 capillary bed were heavily influenced by the local network topology, with decreases in flow of up to 84 On the macro-scale, full organ models of blood flow in the brain have been developed [,]
+ These 86 models treat the microvasculature in the brain as a continuous porous medium, effectively smoothing 87 out the local topology and variations in blood flow
+ Crucially, these models are parameterized by 88 simulations of blood flow in the microvasculature []
+ As such, in order to achieve the aim of 89 simulating a micro-emboli shower in the microvasculature and to determine its effect on the large-scale 90 blood flow, a multi-scale model of micro-occlusions will be developed here
+ This model will link the 91 blood flow in the microvasculature to the parameters used to model full brain blood flow and the effect 92 of thrombectomy on the microcirculation, both at the penetrating vessel scale and the capillary scale
+ 93 To the best of our knowledge no models of micro-emboli occlusions have been developed for post-94 This paper then seeks to answer, through modelling informed by in-vitro experiments, the following 96 questions: To what extent is clot fragmentation responsible for the post-thrombectomy no-reflow 97  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    phenomenon? Can the changes in the blood flow modelling parameters due to micro-emboli showers 98 be accurately quantified such that they can be used in the full organ models? What impact do 99 thrombectomy technique and clot consistency have on downstream blood flow post-thrombectomy? 100 In order to investigate the effects of micro-emboli on the cerebral microvasculature, a modelling 103 framework must first be developed
+ There are two main ways in which the cerebral microvasculature 104 can be modelled  either as a network of individual vessels [3537], or as an averaged porous medium 105 [,,,]
+ We model the microvasculature as a porous medium in order to allow large regions of 106 The microvasculature will be parameterised following on from previous research developed by our 108 group [,,]
+ Firstly, statistical models are developed which match morphological properties of the 109 human cerebrovascular network []
+ The microvasculature is then split into 2 different spatial 110 scales  the capillary bed, and the penetrating arterioles
+ In order to scale up the microvasculature to 111 larger regions, the capillary bed blood flow is parameterised with a permeability, as are the penetrating 112 arterioles
+ The flow from the penetrating arterioles to the capillary bed is parameterised through 113 coupling coefficients  which represent the conductance of the pre-capillary arterioles
+ The 114 parameterisation method is explained in Section 
+ 
+ Example networks of the different microvascular 115 scales and their coupling can be seen in Fig 
+ 116  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    Fig 
+ a) An example of a statistically accurate capillary network, b) An example of a voxel used 118 to simulate flow through the penetrating arterioles
+ The grey region represents the homogenized 119 capillary bed to which the terminal vessels of the trees couple
+ The red planes denote the dividing 120 planes between the 6 layers of the voxel over which the blood flow characteristics will be 121 Previous in-vitro studies generated micro-emboli distributions from thrombectomy procedures
+ In brief, 124 a silicone cerebrovascular model built from clinical imaging data was used in a flow loop with a 125 peristaltic pump to simulate blood flow through the cerebral vasculature [,]
+ A thrombus was 126 injected into the cerbrovascular replica to form a middle cerebral artery (MCA) occlusion
+ The thrombus 127 was either defined as a soft or hard clot, and validated for bulk mechanical properties based on clinical 128 specimens []
+ Four different clot removal techniques (thrombectomy) were then deployed to remove 129 the clot from the MCA
+ Specifics on the 4 thrombectomy techniques  abbreviated as ADAPT, 130 Solumbra, BGC, and GC at cervical ICA  can be found in Chueh et al []
+ The number and size 131 distribution of the clot fragments that break off the thrombus during thrombectomy are quantified using 132 a Coulter counter (Beckman Multisizer 4, Brea, California)
+ Each removal technique is repeated 8 times 133 for each clot type, resulting in 64 sets of clot fragment data
+ 134  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    When sampling from this data for our in-silico models the 8 experimental micro-emboli density 135 distributions (for a given removal technique and clot type) are averaged such that for any given 136 technique and clot type there is only one average set of micro-emboli results relating number density 137 and particle size
+ The smallest clot measurable, due to the aperture used in the Coulter counter, was 138 
+034 m in diameter, with smaller clots binned under this size
+ 139 Prior work has shown how blood flow can be simulated in a coupled model of the penetrating vessels 141 and a porous representation of the capillary bed []
+ This model is adapted here such that it can be 142 used to determine the permeability of the penetrating arterioles in health and with micro-emboli 143 An example voxel, where the penetrating arterioles are coupled to the capillary bed, is shown in Fig b
+ 145 Flow through the penetrating vessels is assumed to be steady-state, non-pulsatile (Womersley number 146 << 1) and fully developed, hence approximated by Poiseuille flow: 147 where  is the blood flow through the vessel,  is the radius of the vessel,  is the pressure drop across 149 that vessel,  is the length of the vessel, and () is the apparent viscosity of blood in the vessel 150 correcting for the Fhrus-Lindqvist effect with a constant discharge haematocrit of 
+45 []
+ 151 As flow is conserved at each bifurcation node , the net flow at each node in the tree is zero except for 152 the one inlet node and the multiple terminal nodes that end in the capillary bed
+ Therefore, the flow 153 through each internal node for  nodes can be written as: 154  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    where  is the flow conductance between nodes  and  and is defined as conductance is zero unless there is a vessel between nodes  and 
+   and  are the pressures at nodes 157  and  respectively
+ The inlet flow and terminal flows are handled by the boundary conditions at the 158 inlet to the arteriole and at the coupling points to the capillary bed
+ This set of  equations can be written 159 in matrix form and solved as in Su et al []
+ 160 The capillary bed can be modelled as a porous medium using a volume-averaged form of Darcys law 161 where  is the volume averaged capillary velocity,  is the permeability (as the permeability is 164 isotropic this can be treated as a scalar), and  is the pressure gradient across the capillary bed
+ The 165 permeability  encapsulates the micro-scale geometry of the capillary bed in one averaged parameter, 166 hence allowing for large-scale regions to be modelled computationally efficiently
+ This equation can be 167 where  is the volumetric source/sink term [m3 s-1 m-3] that comes from the terminal nodes of the 170 penetrating vessels
+ The healthy capillary permeability value has previously been found be 
+28x10-4 171 mm3 s-1 kg-1 []
+ Equation (4) is the Poisson equation that can be solved for capillary pressure over an 172 The coupling between the penetrating vessel terminal nodes and the porous capillary bed has a 175 mathematical singularity at the point of coupling between 1D flow and 3D tissue
+ Previous models have 176 approximated the Dirac delta singularity with a function that is spatially variant yet maintains mass 177 conservation [30]; have approximated the pressure drop in the vicinity of the coupling point to deal with 178 the strong pressure gradients that appear there [49]; or have simply taken the discretised element nearest 179  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    the terminal node as the outlet region [,]
+ Here, we use a spatially variant function to approximate 180 the volumetric source terms []
+ A shape function is introduced that replaces the Dirac delta singularity 181 with an exponential in the vicinity of the source
+ The shape function, , is defined as 182 where  is the distance measured from the source/sink node and  is the radius of the sphere over which 184 the flow will be distributed from the arteriole source to the capillary bed (here set as 15 m)
+  is a 185 constant that acts to normalise  to ensure mass conservation across the capillary bed elements coupled 186 to the terminal tree node
+ Therefore, the volumetric source term for each finite element within  radius 187 where  is the volumetric source term for one element within  radius of the terminal node and  is 190 the coordinate of the terminal node
+ A summation is used to account for the potential that multiple 191 terminal nodes may feed an individual element
+ As the shape function  conserves mass, () = 1 192 The voxel size chosen to simulate the flow is 2 x 2 x 
+5 mm (on the order of an MRI voxel), with 8 195 arterioles /mm2 penetrating into the voxel []
+ This voxel was situated in a capillary bed of 
+25 x 
+25 196 x 
+5 mm to avoid terminal nodes being at the face of the voxel (Fig b)
+ As the parameterisation of 197 micro-emboli occluding the penetrating arterioles was primarily of interest here, the venules were not 198 included in the simulation
+ As well as this, the permeability of the capillary bed was chosen such that 199 the maximum possible flow could be obtained through the arterioles (in this case  was set to 
+x5 mm3 s kg-)
+ The arterioles have a mean diameter of 20 m  5 m, with a mean length of 
+25 mm  201  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    
+31 mm
+ An inlet pressure of 
+3 kPa is imposed at the tree inlets []
+ Dirichlet boundary conditions 202 were imposed at the top and bottom of the voxel with  = 
+3  at  = 0 and  = 8  203 at  = 
+5 , with periodic boundary conditions on the 4 other faces
+ 204 The finite element method is used to simulate the capillary bed partial differential equation using 205 FEniCS, an open source finite element solver []
+ Equation (4) is solved with the parameters and 206 boundary conditions using 870,000 linear Lagrangian elements to obtain the pressure in the capillary 207 bed
+ The equations above were solved iteratively
+ The pseudo-algorithm below details the solution 208 
+ Set Dirichlet boundary conditions on the top and bottom of the voxel and periodic boundary 211 
+ For all tree outlets coupled to capillary bed, determine elements in mesh coupled to the outlet 213 
+ Set desired inlet pressures for penetrating vessels and set initial terminal outlet pressures = 0 215 
+ Solve for the pressure in the trees using equations (1) and (2), hence solve for the outlet flows 216 from the trees into the capillary bed weighting the volumetric source terms using equations (5) 217 
+ Set the volumetric source terms in equation (4) and solve for the capillary bed pressure using 219 
+ Update penetrating vessel terminal node pressure values using an  weighted average of the 221 
+ Go to step 4 and repeat, unless a steady state is reached where pressures in terminal nodes and 223 capillary bed have converged to a tolerance of 1x10-3 Pa; 224  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    In order to simulate the effect of micro-emboli on the microvasculature, an algorithm is presented here 227 that samples from the in-vitro experimental thrombectomy data and occludes vessels sequentially
+ The 228 A clot technique and clot consistency are chosen from one of our 8 clot distributions as described in 232 Section 
+ 
+ The algorithm initially runs the healthy flow solver above to establish baseline healthy 233  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    blood flow
+ A clot size is then sampled pseudo-randomly using Pythons inbuilt random module from 234 A penetrating arteriole is randomly chosen on the pial surface through which the clot is sent through
+ 236 The clot is assumed to be perfectly spherical A check is then made to determine whether the clot is 237 larger than the diameter of the vessel it is entering
+ If the clot is smaller than the vessel, the clot is 238 assumed to travel until the next bifurcation
+ At the bifurcation, the clot enters one of the two daughter 239 branches based on a probability that is linearly weighted by the blood flow in the daughter branches
+ 240 For example, if one daughter vessel has 3 times as much flow as the other daughter vessel, the clot has 241 a 75% chance of going down the vessel with more flow
+ 242 The clot continues to travel through vessels if its diameter is smaller than the diameter of the vessel it 243 is entering
+ If the clot enters a vessel with a smaller diameter, it is assumed that the clot completely 244 occludes that vessel
+ When that occurs, it is assumed no blood can enter the occluded vessels or any 245 vessels downstream of the occluded vessel
+ The algorithm recalculates a baseline blood flow and 246 If the clot reaches a terminal vessel, and it is still smaller than the vessel, it is assumed that the clot 248 generates no occlusions in the penetrating vessels and enters the capillary bed
+ As we are trying to 249 quantify the damage done by micro-emboli to the penetrating vessels, we do not create capillary bed 250 occlusions in this simulation
+ The effect of micro-emboli on the capillary bed is thus considered 251 separately in Section 
+ 
+ As such, no vessels in the penetrating tree are occluded, and a new clot is 252 The algorithm described, shown in Fig 2, is repeated until only one penetrating vessel remains or until 254 50,000 clots have been sampled, whichever comes first
+ The large number of maximum clots is chosen 255 such that we can ensure that all the vessels are eventually occluded, allowing us to track the damage 256  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    There are 2 specific parameters of interest when attempting to model the penetrating vessels over a 259 large scale  the permeability and the coupling coefficients
+ The permeability of the penetrating vessels 260 represents the ability of the trees to drive blood flow deeper into the grey cortex due to their 1-261 dimensional nature [54], and the coupling coefficients represent the pre-capillary arterioles ability to 262 deliver blood to the capillary bed
+ These parameters are necessary to simulate large regions of the human 263 brain blood flow efficiently []
+ However, these parameters also effectively average out the micro-264 scale fluctuations in the vasculature, replacing a complex network with one parameter
+ This can be 265 problematic with the penetrating vessels when considering, for example, the terminal nodes of the trees
+ 266 It is highly unlikely they are distributed evenly through the grey matter with depth
+ It is also highly 267 unlikely that the permeability of the trees is constant with depth through the voxel
+ We mitigate this 268 problem by splitting the voxel into 6 layers, similar to other approaches [,]
+ Permeabilities and 269 coupling coefficients are then calculated for each of the 6 layers through the voxel, increasing the 270 Permeability
+ As the permeability of interest is defined as the ability of the penetrating vessels to 272 drive blood flow deeper into the cortex, it is calculated in the vertical direction only
+ The angle that 273 every vessel makes with the vertical is calculated (situating the vertical at the vessel node where flow 274 enters the vessel)
+ The vertically projected flow of the vessel, ,, is then calculated as 275 where  is the angle between the vessel and the vertical, and  is the absolute flow through the vessel
+ 277 The arterial blood flow, ,, through each of the six layers is then summed separately and the 278  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    where  = , through layer , , is the arteriolar permeability in layer ,  is the cross-sectional 281 area through which the blood flows (in this case the area of the voxel), and  is the pressure gradient 282 across the layer
+ Using this method provides 6 different estimates of arteriolar permeability at 6 different 283 Coupling coefficients
+ The method to calculate the coupling coefficients can be found in Hyde et al 285 []
+ The coupling coefficients can be thought of as a conductance (or 1/resistance) to flow from the 286 arteriolar compartment to the capillary compartment via the pre-capillary arterioles
+ This can be written 287 where  is the coupling coefficient between the arteriolar and capillary compartments,  is the 290 volume averaged pressure of compartment , and  is the flow of the arterioles which terminate in the 291 where the bracket  term refers to the values in layer 
+ The volume averaged flow in layer , (), can 294 be calculated using equation ()
+ The volume averaged pressure of the arteriolar compartment () 295 where  is the average nodal pressure of vessel  in layer , and  is the volume of vessel  in layer 298 
+ Six values of average pressure are calculated, one for each layer
+ 299 Finally, the volume averaged capillary pressure at each layer () is calculated by taking the volume 300 average of the pressures in the finite element mesh of the capillary bed
+ This allows for the permeability 301 and coupling coefficients of the penetrating vessels to be fully characterised
+ In order to be able to 302 characterise the variable permeabilities and coupling coefficients calculated above, a polynomial least 303  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    squares fit is used to derive a function of how these coefficients vary with depth which is then fitted 304 over the 100 simulations conducted on the statistically accurate voxels
+ 305 Based on the pipeline previously presented, we now seek to investigate whether the different micro-308 emboli distributions from thrombectomy have an impact on the permeability (and hence perfusion) of 309 the penetrating arterioles following the introduction of micro-emboli
+ The micro-emboli algorithm is 310 therefore used to simulate an emboli shower for 8 different scenarios  4 techniques used on hard or 311 As well as this, we investigate the impact that differing microvasculatures have on the resulting drops 313 in permeability and coupling coefficients
+ Each of the 100 statistically accurate voxels can be thought 314 of as an individual microvasculature
+ We randomly choose 3 of these voxels and, for each voxel, we 315 simulate 100 different sampled clot distributions entering the penetrating vessels
+ These simulations are 316 compared to another simulation where we take our 100 voxels and run the same sampled clot 317 distribution through each voxel  this is done for 3 different sampled clot distributions
+ The question 318 that we seek to answer is whether it is the microvasculature or the clot distributions that primarily 319 determine microvascular robustness to drops in perfusion
+ Differences between distributions are 320 quantified using the correlation matrix distance (CMD) on the covariance matrices of each distribution 321 Finally, the effect of micro-emboli on capillary beds is considered
+ Previously, we demonstrated how 324 statistically accurate models of capillary beds can be homogenized into a porous medium []
+ This 325 method is combined here with a vessel occlusion algorithm to simulate the effect of micro-emboli 326 entering the capillary bed
+ The decrease in permeability as a function of the vessel fraction lost, surface 327  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    area fraction lost, and volume fraction lost are all quantified
+ This allows for the scaling up of partially 328 Details of the blood flow simulation and homogenization of the capillary bed can be found in El-Bouri 330 & Payne []
+ In brief, Poiseuille flow is assumed through the capillary vessels, with the capillary 331 network being periodic
+ A pressure gradient is imposed in one direction and the permeability  the ratio 332 of the volume-averaged flow and the pressure gradient  is calculated
+ This is repeated for the 3 333 principal directions of the capillary network
+ The result is a 3x3 tensor, with 3 principal permeabilities 334 (the permeability in the direction of the pressure gradient) and 6 cross-permeabilities
+ 335 As the smallest measurable clot was 
+034 m, and the average diameter of a capillary is 
+23  
+3 m 336 [40], the micro-emboli algorithm above could not be used on the networks as they would always occlude 337 the inlet vessel
+ As such, a random vessel was chosen in the network and this vessel was fully occluded, 338 with the permeability being recalculated after every occlusion
+ Three cube sizes were used to simulate 339 the micro-occlusions with lengths of 375, 500, and 625 m
+ Normalised permeability changes are 340 calculated, and the effect of the micro-emboli on the capillary bed is quantified such that it can be used 341 in full-brain simulations
+ Constrained least squares optimization is used to fit a line of best fit with the 342 where  is the permeability fraction,  is the change in either vessel fraction, volume fraction, or 345 surface area fraction of the networks, and  is the gradient
+ All parameters calculated for the capillary 346 bed are based on 500 statistically accurate capillary networks at each cube size (1500 total)
+ 347  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    Blood flow was simulated in 100 statistically accurate voxels of the cerebral microvasculature
+ The 350 permeability and coupling coefficients were quantified for the penetrating arterioles in the no-351 occlusion scenario
+ The permeability results are shown in Fig 
+  352 Fig 
+ a) A scatter plot of the permeability of the 100 voxels at each of the 6 depth layers
+ The cyan 354 triangle indicates the median permeability of the capillary bed
+ The mean arteriolar permeability 355 is indicated with a red star at each layer
+ b) A quadratic line of best fit over the median 356 permeabilities at each layer  error bars are interquartile ranges 357 The permeability increases with depth until the middle layers before dropping off towards the bottom 358 layers, as not all penetrating vessels penetrate the full depth of the grey matter (Fig a)
+ The mean value 359 of the permeability across the layers is approximately 50 times the capillary permeability
+ At each layer 360 the average permeability ranges from around 30x at the top layer, to 75x in layer 3, to 9x at the bottom 361 layer
+ A quadratic curve fit is used to derive a function that models arteriolar permeability with depth, 362 such that it can be used in future porous model implementations (Fig b)
+ The permeability distribution 363 at each layer can also be characterised as log-normal (Shapiro-Wilks test,  = 
+05) up to and including 364  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    The coupling coefficients demonstrate a similar drop from the top layers to the bottom layers, driven 366 by the fact that there are fewer terminal nodes at the bottom layers []
+ The variability in the coupling 367 coefficients from voxel-to-voxel is larger than the permeability variability (S1 Fig)
+ The median values 368 of the coupling coefficients are 
+8x10-5, 
+4x10-5, 
+3x10-5, 
+7x10-5, 
+1x10-5, and 
+3x10-6 Pa-1 s-1 369 (from layers 1  )
+ A quadratic curve-fit is used to derive a function that models the coupling 370 coefficients with depth for future porous model implementations (S1 Fig)
+ The coupling coefficient 371 distribution can be characterised as log-normal (Shapiro-Wilks test,  = 
+05) up to and including layer 372 The above results parameterise the healthy penetrating vessels so they can be scaled up to large regions 374 of the brain
+ More importantly, however, these healthy results provide a baseline from which the effect 375 
+2 The arterioles are robust to micro-emboli at the population level 377 As there are 4 thrombectomy techniques used with 2 clot consistencies to give 8 different micro-emboli 378 distributions to choose from, a baseline must be chosen to conduct the following simulations
+ Here we 379 choose the ADAPT technique with a hard clot to present the following results
+ A comparison with other 380 techniques and clot consistencies can be found in Sections 
+4, 
+ 
+ 381 The variable of interest here is the fractional drop in permeability
+ This is defined as the permeability 382 divided by the initial healthy permeability
+ We compare this independent variable against 3 dependent 383 variables  the fraction of vessels occluded, the fraction of vessel surface area occluded, and the fraction 384 of vessel volume occluded
+ The surface area and volume drops have been calculated as these geometric 385 parameters control oxygen transport in the microvasculature and can in future be used for validation
+ 386 Fig 4 shows these results for 2 different layers  the top-most grey matter layer, and the middle layer 387 (from 
+25  
+67 mm depth)
+ An example of the permeability decrease against volume fraction decrease 388 in all 6 layers can be found in S2 Fig
+ 389  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    Fig 
+ a,b) The fractional drop in permeability against the fraction of vessels blocked where a) is 393 in the top layer of the voxel and b) is the middle layer
+ c,d) The fractional drop in permeability 394 against the fraction of vessel surface area blocked where c) is in the top layer of the voxel and d) 395 is the middle layer
+ e,f) The fractional drop in permeability against the fraction of vessel volume 396  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    blocked where e) is in the top layer of the voxel and f) is the middle layer
+ The middle layer is at 397 a depth of 
+25  
+ mm
+ A line of best fit is plotted in black, with the fit equation in the top right 398 corner of each graph, with the bottom left of the graph giving the coefficients of the line of best 399 The permeability is generally robust with vessel fraction blocked, up to around 50 % of the vessels 401 before the permeability starts to drop more rapidly
+ This can be explained by the fact that many small 402 vessels are occluded first  due to 98% of all emboli having a diameter of < 20 m for this configuration 403 of clot consistency and thrombectomy technique  which has a relatively small impact on the 404 permeability
+ On the other hand, the permeability drops almost linearly with volume fraction blocked 405 Interestingly, in the middle layer for all 3 dependent variables, the permeabilitys robustness to 407 occlusions appears to improve over the first 40-50% of vessel/volume occlusions
+ As the vessels 408 continue to be occluded, however, the drop off in permeability is quicker than in the topmost layers
+ 409 The variability increases with depth until by the time the bottom two layers are reached, there is almost 410 a dichotomous choice between a permeability of 1 and 0 (S2 Fig)
+ This is due to the sparse number of 411 vessels in the lower layers, leading to them being vulnerable to very few micro-emboli
+ 412 The permeability, and its drops with successive micro-emboli, can thus be characterised as a 2-413 dimensional surface
+ The equation for the healthy permeability distribution with depth can be 414 multiplied, at each depth layer, by the respective permeability drop equation for that depth layer
+ An 415 example of a 2-dimensional surface generated with volume fraction as the dependent variable, ADAPT 416 as the thrombectomy technique, and a hard clot can be found in Fig 5 (calculated using the healthy 417 permeability equation from Fig b)
+ These 2-dimensional functions can be calculated for all the 418 different possible combinations of thrombectomy, clot, and dependent variable
+ This provides a simple 419 look-up table to determine the change in permeability for a given technique, clot, depth, and fraction 420  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    Fig 
+ A 2-dimensional surface plot for the ADAPT thrombectomy technique removing a hard 423 clot
+ The permeability is plotted against voxel depth and volume fraction of the vessels occluded
+ 424 The coupling coefficients also display non-linear behaviour with micro-emboli occlusions, but this 425 behaviour is far more variable than the permeability results
+ This is due to blood being rerouted as 426 occlusions occur, leading to coupling coefficients increasing as well as decreasing from the baseline
+ 427 As well as this, the coupling coefficients are also dependent on the pressure in the capillary beds and 428 terminal arterioles (Eq ())
+ An example of the change in coupling coefficients with depth and volume 429 
+3 The microvascular geometry dictates robustness to micro-emboli smaller than the 431 To investigate the role of the microvasculature on robustness to micro-emboli, 3 voxels were chosen 433 from our 100 voxels
+ Each voxel had 100 micro-emboli simulations with each simulation having a 434 different clot distribution sampled
+ Fig 6 shows the changes of permeability for these 3 voxels for the 435 middle-layer
+ As can be seen, it appears that the microvascular topology dictates the response to micro-436 emboli, with clear banded regions with non-linear jumps for some voxels, whilst other voxels have an 437  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    Fig 
+ A comparison of the permeability drop against volume fraction occluded for 3 different 441 voxel geometries simulated with 100 different clot distributions (for the ADAPT technique, hard 442 clot) a) Voxel 1, b) Voxel 4, c) Voxel 31 443 In comparison, we simulated 100 different voxels but with the same sampled clot distribution entering 444 each voxel (we fix the random seed sampling the clot distribution to be the same for each voxel)
+ The 445 aim of this was to investigate the effect of the sampled clot distribution variability on perfusion 446 characteristics (similar to how we investigated the effect of microvascular variability in Fig )
+ There 447 was little visual difference found for the 3 sampled clot distributions (S4 Fig)
+ Similar behaviour is 448 also seen for the coupling coefficients, with linear drops in coupling coefficients seen for some voxels 449  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    Quantifying the statistical differences between these distributions was complicated by the bivariate 451 nature of the distributions
+ As such, to provide a simple comparison, we use the correlation matrix 452 difference (CMD) to compare the covariances of each distribution against the baseline distribution 453 (Fig f)
+ The CMD has a value of 0 when the covariance matrices are identical and a value of 1 when 454 they are orthogonal When comparing the 3 constant microvascular simulations the range of the CMD 455 was 1x10-4 to 
+ x-
+ For the constant clot simulations, the range was 7x10-6 to 3x10-4 indicating 456 that variability and robustness to micro-emboli is dominated by the microvascular geometry
+ 457 
+4 Hard clot micro-emboli lead to larger drops in permeability 458 The above analysis has all been conducted using hard clot fragmentation data
+ We now simulate soft 459 clot fragmentation and the effect of these micro-emboli on flow characteristics
+ We are interested to 460 Visually, there is no discernible difference for the relationship between permeability and the dependent 462 variable on the population level, but certain voxels display changes in their permeability relationship 463 (S6 Fig)
+ Comparing individual microvascular geometries in both hard and soft clot simulations, the 464 CMD score ranges between 3x10-4 and 7x10-3, indicating a similar variability to that found between 465 voxel comparisons
+ The results are similar for the coupling coefficients
+ 466 Regardless of whether there was a visual difference or not, all voxels with soft clot simulations required 467 on average twice as many occluding clots to develop the same drops in perfusion as for the hard clots
+ 468 As well as this, around 
+5% of the clots sampled from the hard clot distributions went into occluding 469 penetrating vessels (the rest passed through the arterioles into the capillary bed)
+ For the soft clots, this 470 was only 
+5% (Table )
+ Clearly, for a given number of micro-emboli the smaller clot fragments of the 471 Table 
+ Summary of the differences between thrombectomy technique and clot consistency when 473 considering total micro-emboli sampled and those micro-emboli that occlude vessels
+ The values 474  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    are averaged over the 100 voxel simulations
+ The percentage of sampled clots occluding vessels is 475 
+5 Thrombectomy technique has a large impact on clot fragmentation and downstream 477 The last variable of interest here is the thrombectomy technique
+ In the in-vitro experiments, 4 479 techniques were used; these are abbreviated as ADAPT, BGC, GC at cervical ICA, and Solumbra []
+ 480 The emboli distributions from these 4 techniques used on hard and soft clots were used to simulate 481  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    occlusions in the penetrating vessels
+ The results are shown in Fig 7 where the scatter plots have been 482 binned into deciles with mean and standard deviation for ease of viewing
+ 483 Fig 
+ Comparison of the permeability drops against volume fraction blocked in the middle layer 485 for 4 different thrombectomy techniques: a) removing hard clots and b) removing soft clots  486 Despite there being little visual difference between the 4 techniques, when analysing the numbers of 487 clots required to reach similar drops in permeability, large differences emerge (summarised in Table )
+ 488 We measured: the average number of micro-emboli sampled in total to fully occlude the voxel (column 489 3 of Table 1); the average number of these micro-emboli that occlude a penetrating vessel (column 4 of 490 Table 1); and hence the percentage of sampled clots that occluded the penetrating vessels (column 5 of 491 Table )
+ Simulating the Solumbra technique on a hard clot resulted in the fewest clots required to fully 492 occlude the voxel; on average over the 100 voxels 
+6 clots (and hence 26% of sampled clots) sent 493 through the penetrating vessels were required to fully occlude the voxel
+ The BGC technique had the 494 next fewest clots required with 26 clots and 14% of the sampled clots
+ The GC at cervical ICA 495 technique, on the other hand required 29 clots and 
+9% of the sampled clots
+ 496 In contrast, when using the soft clots, the numbers of clots required to achieve similar permeability 497 drops drastically increased  except for GC at cervical ICA which had similar results compared to when 498 using the hard clots
+ Both the Solumbra and ADAPT techniques saw a doubling of the clots required
+ 499  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    Clearly, there is a trade-off between the number of emboli that fragment off a clot, the size of these 500 emboli, and the impact they have on downstream flow
+ The BGC and Solumbra techniques were 501 previously reported to minimise the fragmentation of hard clots [20], but this also means that these clots 502 are larger and hence more prone to occlude larger vessels (as indicated by our large percentage of clots 503 that occlude vessels in the above results)
+ On the other hand, the ADAPT and Solumbra techniques used 504 on soft clots lead to twice as many clots being required to occlude the penetrating vessels to achieve 505 
+6 Occlusions in the capillary bed lead to large drops in permeability 507 Finally, we simulated micro-emboli occluding capillary bed networks
+ These were simulated for 500 508 statistically accurate networks at 3 different cube length sizes (375 m, 500 m, and 625 m)
+ As the 509 results were not statistically different over the 3 sizes, only the 375 m results are presented in Fig 
+ 510 The permeability maintained its isotropy in the presence of micro-emboli hence it is presented here as 511 Fig 
+ The drops in permeability over 500 statistically accurate capillary networks with a cube 514 length of 375 m
+ Lines of best fit are in black, with the gradient  in the top right corner of 515 each graph
+ a) The fractional drop in permeability with fraction of vessels occluded ( = 
+), 516 b) the fractional drop in permeability with vessel volume occluded ( = 
+ )
+ 517  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    The permeability drop in the capillary bed was large in comparison to the drop in the penetrating vessels: 518 -8 % / % surface area lost, -
+2 % / % vessel blocked, and -
+1 % / % volume blocked (see Fig )
+ This 519 is in line with a previous study where a -
+5 % drop in CBF/ % vessels blocked was found in simulations 520 of occlusions in mouse and human vascular networks, as well as mouse synthetic networks []
+ It 521 should be noted that the synthetic networks used in [13] had uniform diameter and length, unlike the 522 networks in this paper which have length and diameter distributions that match physiological 523 Assuming a micro-emboli shower is spread evenly over the MCA territory (approx
+ 100 mL of tissue), 525 
+5% of this volume is capillary vessels, and a vessel density of 8000 vessels/mm3, around 120,000 526 micro-emboli would have to enter the capillary bed to cause a 4% drop in permeability (note that this 527 is an overestimate as micro-emboli are not likely to spread evenly over the brain tissue)
+ Depending on 528 thrombectomy technique, the number of micro-emboli fragmenting off the clot can vary from a few 529 thousand to over 500,000 []
+ It therefore appears that if micro-emboli enter the capillary bed there is 530 We return to the questions posed at the end of the introduction
+ First, can the changes in the blood flow 533 modelling parameters due to micro-emboli showers be accurately quantified such that they can be used 534 in the full organ models? Using a combination of in-vitro experiments of clot fragmentation and in-535 silico blood flow modelling, we have developed simulations of micro-emboli occluding vessels in the 536 penetrating arterioles and capillary bed
+ Using these models we characterised averaged flow 537 parameters, such as permeability and coupling coefficients, in healthy conditions and under micro-538 emboli showers, for a range of thrombectomy techniques and clot consistencies
+ This now enables us 539 to simulate the impact of these micro-emboli showers  after a thrombectomy  on the downstream 540  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    Second, what impact do thrombectomy technique and clot consistency have on downstream blood flow 542 post-thrombectomy? Clot consistency and thrombectomy techniques have been shown here to have a 543 large impact on the blood flow parameters
+ Whilst the relationship between permeability and volume 544 of vessel occluded was similar, the numbers of micro-emboli required were substantially different, with 545 soft clots on average requiring twice as many micro-emboli to reach similar drops in permeability
+ The 546 Solumbra and BGC techniques used on hard clots resulted in larger micro-emboli entering the 547 microvasculature, and hence fewer vessels needing to be occluded to reach large drops in permeability
+ 548 Therefore, whereas the Solumbra and BGC techniques result in fewer emboli fragmenting off the clot 549 [20], these emboli can cause more damage to the microvasculature due to their larger sizes
+ 550 In addition to this we investigated the impact of microvascular morphometry on blood flow parameters
+ 551 Microvascular morphometry determined the robustness of penetrating vessels to occlusions, not the 552 sampled micro-clot distribution
+ Therefore, if we can measure the microvasculature, even if only 553 indirectly, we can determine whether the microvasculature will be robust to a micro-emboli shower
+ 554 Characterising the microvasculature and its robustness, e
+ g
+ through the residue function [34], will be 555 Finally, we compared drops in permeability for the penetrating vessels and capillary bed
+ Whilst the 557 penetrating vessels had an approximately 1:1 relationship between volume lost and permeability drop, 558 the capillary bed lost 4% of permeability per 1% volume drop
+ This lack of robustness to occlusions in 559 the capillary bed is surprising but has previously been reported elsewhere with capillary stalling in 560 mouse capillary beds
+ In blood flow simulations, Cruz-Hernandez et al found that for every 1% of 561 vessels stalled, the flow drops by 
+5% []
+ Our results indicate a 
+2% drop in permeability (a 562 surrogate for flow) for every 1% of vessels blocked, which show good agreement for early studies
+ 563 Permeability is a more robust metric than CBF here due to CBF being dependent on the volume of 564 tissue simulated
+ As well as this, Schmid et al found that the severity of a micro-occlusion in the 565 capillary bed depends on the connectivity and original flow rate of the occluded vessel, with large 566 reductions in flow for specific types of connectivities []
+ As we found for the penetrating vessels, 567 morphometry of the microvasculature plays a large role in robustness to micro-occlusions
+ 568  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    The smallest micro-emboli sizes available from our experimental data were 8 m
+ While this was 569 sufficient for micro-emboli occlusions in the penetrating vessels, we did not have information on 570 smaller micro-emboli that would occlude the capillary vessels
+ This meant we could not track emboli 571 through the capillary bed
+ In future, data on micro-emboli < 8 m in diameter would help in more 572 clearly understanding how micro-emboli affect the capillary bed
+ The diameters measured were the 573 Feret diameters of the micro-emboli, however we used these diameters to assume spherical micro-574 emboli
+ It is therefore possible that our drops in permeability are over-estimated, as the clot could orient 575 It should be noted that a limitation of the analysis presented here is the separate treatment of the 577 penetrating arterioles and capillary bed
+ This was done for two reasons
+ Firstly, to provide a comparison 578 to previous studies, as discussed above
+ Primarily, however, this was done to fit into our full brain 579 modelling framework where the capillary bed and penetrating arterioles are treated as separate 580 compartments coupled together via coupling coefficients
+ The effects of extravasation of the micro-581 emboli in the capillary bed have also been neglected, and these will likely result in restoration of flow 582 over several days []
+ This model is also purely passive, with no hyperaemia or regulation of vascular 583 tone, which likely impact passage of micro-emboli through the microvasculature
+  584 The final question posed was: To what extent is clot fragmentation responsible for the post-585 thrombectomy no-reflow phenomenon? We only analysed the impact of micro-emboli in voxels, or 586 cortical columns of microvasculature
+ In order to fully understand the impact of micro-emboli on the 587 vasculature, a full brain simulation is required
+ In future, we will use the work developed here to 588 simulate micro-emboli showers in a full-brain in-silico simulation of thrombectomy
+ Blood flow 589 parameters in the full-brain model will be updated using the parameters derived here, and the impact of 590 micro-emboli in a region of the brain can be compared and validated against CT perfusion and MR 591 scans of patients pre- and post-thrombectomy
+ Furthermore, we will investigate further the impact of 592 microvascular morphometry on blood flow drops and how this can potentially be used to infer patient 593  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    
+  Owens Johnson C, Nguyen M, Roth GA, Nichols E, Alam T, Abate D, et al Global, regional, and national 596 burden of stroke, 1990-2016: a systematic analysis for the Global Burden of Disease Study 
+ 2019; 597 
+  Saver JL
+ Time is brain - Quantified [Internet]
+ Stroke
+ Lippincott Williams & Wilkins; 
+ pp
+ 263599 
+  Fransen PSS, Berkhemer OA, Lingsma HF, Beumer D, van den Berg LA, Yoo AJ, et al Time to 601 Reperfusion and Treatment Effect for Acute Ischemic Stroke: A Randomized  Clinical Trial JAMA 602 
+  Berkhemer OA, Fransen PSS, Beumer D, van den Berg LA, Lingsma HF, Yoo AJ, et al A Randomized 604 Trial of Intraarterial Treatment for Acute Ischemic Stroke
+ N Engl J Med
+ Massachusetts Medical Society; 605 
+  Jovin TG, Chamorro A, Cobo E, de Miquel MA, Molina CA, Rovira A, et al Thrombectomy within 8 607 Hours after Symptom Onset in Ischemic Stroke
+ N Engl J Med
+ Massachussetts Medical Society; 608 
+  Behme D, Tsogkas I, Colla R, Gera RG, Schregel K, Hesse AC, et al Validation of the extended 610 thrombolysis in cerebral infarction score in a real world cohort
+ PLoS One
+ Public Library of Science; 611 
+  Ames A 3rd, Wright RL, Kowada M, Thurston JM, Majno G
+ Cerebral ischemia
+ II
+ The no-reflow 613 
+  Molina CA
+ Reperfusion Therapies for Acute Ischemic Stroke: Current Pharmacological and Mechanical 615 
+  Kurre W, Vorlaender K, Aguilar-Perez M, Schmid E, Bzne H, Henkes H
+ Frequency and relevance of 617 anterior cerebral artery embolism caused by mechanical thrombectomy of middle cerebral artery 618 occlusion
+ Am J Neuroradiol
+ American Journal of Neuroradiology; 2013;34: 
+ 619  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    
+  Kloner RA, King KS, Harrington MG
+ No-reflow phenomenon in the heart and brain
+ Am J Physiol Hear 621 
+  Bai J, Lyden PD
+ Revisiting cerebral postischemic reperfusion injury: New insights in understanding 623 reperfusion failure, hemorrhage, and edema
+ International Journal of Stroke
+ Blackwell Publishing Ltd; 624 
+  Mohamed Mokhtarudin MJ, Payne SJ
+ Mathematical model of the effect of ischemia-reperfusion on brain 626 capillary collapse and tissue swelling
+ Math Biosci
+ Elsevier Inc
+; 2015;263: 
+ 627 
+  Cruz Hernndez JC, Bracko O, Kersbergen CJ, Muse V, Haft-Javaherian M, Berg M, et al Neutrophil 629 adhesion in brain capillaries reduces cortical blood flow and impairs memory function in Alzheimers 630 disease mouse models
+ Nat Neurosci
+ Nature Publishing Group; 2019;22: 
+ doi:
+1038/s41593-631 
+  Erdener E, Tang J, Kl K, Postnov D, Giblin JT, Kura S, et al Dynamic capillary stalls in reperfused 633 ischemic penumbra contribute to injury: A hyperacute role for neutrophils in persistent traffic jams
+ J 634 Cereb Blood Flow Metab
+ SAGE Publications Ltd STM; 2020; X
+ 635 
+  Ritter LS, Orozco JA, Coull BM, McDonagh PF
+ Leukocyte accumulation and hemodynamic changes in 637 the cerebral microcirculation during early reperfusion after stroke
+ Stroke
+ Lippincott Williams and 638 
+  Kloner RA
+ No-reflow phenomenon: maintaining vascular integrity
+ J Cardiovasc Pharmacol Ther
+ United 640 
+  Granger DN, Kvietys PR
+ Reperfusion therapyWhats with the obstructed, leaky and broken 642 
+  OFarrell FM, Attwell D
+ A role for pericytes in coronary no-reflow
+ Nature Reviews Cardiology
+ Nature 644  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    
+  Yemisci M, Gursoy-Ozdemir Y, Vural A, Can A, Topalkara K, Dalkara T
+ Pericyte contraction induced 646 by oxidative-nitrative stress impairs capillary reflow despite successful opening of an occluded cerebral 647 
+  Chueh J-Y, Puri AS, Wakhloo AK, Gounis MJ
+ Risk of distal embolization with stent retriever 649 
+  Bonati LH, Jongen LM, Haller S, Flach HZ, Dobson J, Nederkoorn PJ, et al New ischaemic brain lesions 652 on MRI after stenting or endarterectomy for symptomatic  carotid stenosis: a substudy of the International 653 
+  Konduri PR, Marquering HA, van Bavel EE, Hoekstra A, Majoie CBLM
+ In-Silico Trials for Treatment 656 of Acute Ischemic Stroke
+ Front Neurol
+ Frontiers Media S
+ A
+; 2020;11: 
+ 657 
+  van Veluw SJ, Shih AY, Smith EE, Chen C, Schneider JA, Wardlaw JM, et al Detection, risk factors, 659 and functional consequences of cerebral microinfarcts
+ Lancet Neurol
+ 2017;16: 
+ 660 
+  Chueh J-Y, Khn AL, Puri AS, Wilson SD, Wakhloo AK, Gounis MJ
+ Reduction in Distal Emboli With 662 
+  Nishimura N, Schaffer CB, Friedman B, Lyden PD, Kleinfeld D
+ Penetrating arterioles are a bottleneck 665 in the perfusion of neocortex
+ Proc Natl Acad Sci U S A
+ National Academy of Sciences; 2007;104: 365666 
+  Schaffer CB, Friedman B, Nishimura N, Schroeder LF, Tsai PS, Ebner FF, et al Two-Photon Imaging of 668 Cortical Surface Microvessels Reveals a Robust Redistribution in Blood Flow after Vascular Occlusion
+ 669  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    
+  Shih AY, Blinder P, Tsai PS, Friedman B, Stanley G, Lyden PD, et al The smallest stroke: Occlusion of 672 one penetrating vessel leads to infarction and a cognitive deficit
+ Nat Neurosci
+ Nat Neurosci; 2013;16: 673 
+  Van Der Wijk AE, Lachkar N, De Vos J, Grootemaat AE, Van Der Wel NN, Hordijk PL, et al 675 Extravasation of Microspheres in a Rat Model of Silent Brain Infarcts
+ Stroke
+ Lippincott Williams and 676 
+  Schmid F, Conti G, Jenny P, Weber B
+ The severity of microstrokes depends on local vascular topology 678 
+  Hodneland E, Hanson E, Svareid O, Nvdal G, Lundervold A, oltszov V, et al A new framework 680 for assessing subject-specific whole brain circulation and perfusion using mri-based measurements and a 681 multiscale continuous flow model
+ PLoS Comput Biol
+ Public Library of Science; 2019;15: e
+ 682 
+  Jozsa TI, Padmos RM, Samuels N, El-Bouri WK, Hoekstra AG, Payne SJ
+ A porous circulation model of 684 the human brain for in silico clinical trials in ischaemic stroke
+ Interface Focus
+ 2020;In Press
+  685 
+  El-Bouri WK, Payne SJ
+ Multi-scale homogenization of blood flow in 3-dimensional human cerebral 686 
+  El-Bouri WK, Payne SJ
+ Investigating the effects of a penetrating vessel occlusion with a multi-scale 688 microvasculature model of the human cerebral cortex
+ Neuroimage
+ Academic Press; 2018;172: 
+ 689 
+  Park CS, Payne SJ
+ A generalized mathematical framework for estimating the residue function for 691 
+  Linninger AA, Gould IG, Marinnan T, Hsu CY, Chojecki M, Alaraj A
+ Cerebral Microcirculation and 694 Oxygen Tension in the Human Secondary Cortex
+ Ann Biomed Eng
+ Springer US; 2013;41: 
+ 695 
+  Lorthois S, Cassot F, Lauwers F
+ Simulation study of brain blood flow regulation by intra-cortical 697  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    arterioles in an anatomically accurate large human vascular network
+ Part II: flow variations induced by 698 global or localized modifications of arteriolar diameters
+ Neuroimage
+ United States; 2011;54: 2840699 
+  Schmid F, Tsai PS, Kleinfeld D, Jenny P, Weber B
+ Depth-dependent flow and pressure characteristics in 701 cortical microvascular networks
+ PLOS Comput Biol
+ Public Library of Science; 2017;13: e
+ 702 
+  Gkontra P, ElBouri WK, Norton K, Santos A, Popel AS, Payne SJ, et al Dynamic Changes in 704 Microvascular Flow Conductivity and Perfusion After Myocardial Infarction Shown by ImageBased 705 
+  El-Bouri WK, Payne SJ
+ A statistical model of the penetrating arterioles and venules in the human cerebral 707 
+  Cassot F, Lauwers F, Fouard C, Prohaska S, Lauwers-Cances V
+ A novel three-dimensional computer-709 assisted method for a quantitative study of microvascular networks of the human cerebral cortex
+ 710 
+  Cassot F, Lauwers F, Lorthois S, Puwanarajah P, Cances-Lauwers V, Duvernoy H
+ Branching patterns 712 for arterioles and venules of the human cerebral cortex
+ Brain Res
+ //
+ 2010;1313: 
+ 713 
+  Lauwers F, Cassot F, Lauwers-Cances V, Puwanarajah P, Duvernoy H
+ Morphometry of the human 715 
+  Cassot F, Lauwers F, Lorthois S, Puwanarajah P, Duvernoy H
+ Scaling laws for branching vessels of 718 human cerebral cortex
+ Microcirculation
+ //
+ 2009;16: 33144, 2 p following 
+ 719 
+  Chueh JY, Wakhloo AK, Gounis MJ
+ Neurovascular modeling: small-batch manufacturing of silicone 721 
+  Chueh JY, Wakhloo AK, Hendricks GH, Silva CF, Weaver JP, Gounis MJ
+ Mechanical Characterization 723  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    of Thromboemboli in Acute Ischemic Stroke and Laboratory Embolus Analogs
+ Am J Neuroradiol
+ 724 
+  Pries AR, Secomb TW
+ Microvascular blood viscosity in vivo and the endothelial surface layer
+ Am J 726 
+  Su SW, Catherall M, Payne S
+ The influence of network structure on the transport of blood in the human 728 
+  Shipley RJ, Chapman SJ
+ Multiscale Modelling of Fluid and Drug Transport in Vascular Tumours
+ Bull 731 
+  Peyrounette M, Davit Y, Quintard M, Lorthois S
+ Multiscale modelling of blood flow in cerebral 733 microcirculation: Details at capillary scale control accuracy at the level of the cortex
+ PLoS One
+ Public 734 
+  Rohan E, Luke V, Jonov A
+ Modeling of the contrast-enhanced perfusion test in liver based on the 736 multi-compartment flow in porous media
+ J Math Biol
+ 2018;77: 
+ doi:
+1007/s00285-018-1209-737 
+  Risser L, Plouraboue F, Cloetens P, Fonta C
+ A 3D-investigation shows that angiogenesis in primate 739 cerebral cortex mainly occurs at capillary level
+ Int J Dev Neurosci
+ //
+ 2009;27: 
+ 740 
+  Tamaki K, Heistad DD
+ Response of cerebral arteries to sympathetic stimulation during acute 742 
+  Logg A, Mardal KA, Wells GN
+ Automated solution of differential equations by the finite element 744 method
+ Lect Notes Comput Sci Eng
+ 2012;84 LNCSE: 
+ doi:
+1007/978-3-642-23099-8_1 745 
+  Schmid F, Barrett MJP, Jenny P, Weber B
+ Vascular density and distribution in neocortex
+ Neuroimage
+ 746 
+  Duvernoy HM, Delon S, Vannson JL
+ Cortical blood vessels of the human brain
+ Brain Res Bull
+ Elsevier; 748  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    
+  Hyde ER, Michler C, Lee J, Cookson AN, Chabiniok R, Nordsletten D a, et al Parameterisation of multi-750 scale continuum perfusion models from discrete vascular networks
+ Med Biol Eng Comput
+ 2013;51: 557751 
+  Herdin M, Czink N, zcelik H, Bonek E
+ Correlation matrix distance, a meaningful measure for 753 evaluation of non-stationary MIMO channels
+ IEEE Vehicular Technology Conference
+ 
+ pp
+ 136754 S1 Table
+ The main statistics for the distribution of permeabilities in each layer of the healthy 758 voxels (for 100 voxels)
+ The first 4 layers can be approximated as log-normal The p-value is the Mann-759 Whitney U-test between adjacent layers to determine if adjacent layers have similar distributions of 760 permeability
+ For comparison, the capillary bed permeability is 
+28x10-4 mm3 s kg-1 761 S2 Table
+ The main statistics for the distribution of coupling coefficients in each layer of the 762 healthy voxels (for 100 voxels)
+ The first 4 layers can be approximated as log-normal The p-value is 763 the Mann-Whitney U-test between adjacent layers to determine if adjacent layers have similar 764 S1 Fig
+ a) A scatter plot of the coupling coefficients of the 100 voxels at each of the 6 depth layers
+ 766 The mean arteriolar coupling coefficient is indicated with a red star at each layer
+ b) A quadratic 767 line of best fit over the median coupling coefficients at each layer  error bars are interquartile 768 S2 Fig
+ a-f) The drop in permeability with respect to volume fraction blocked over the 6 layers, 770 starting with the top layer a) and ending at the bottom layer f)
+ 771  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    S3 Fig
+ a-f) The change in coupling coefficients with respect to volume fraction blocked over the 772 6 layers, starting with the top layer a) and ending at the bottom layer f) 773 S4 Fig
+ Permeability drops for 3 different sampled clot distributions over 100 voxel geometries
+ 774 Results are shown for the middle layer in the voxels
+ 775 S5 Fig
+ A comparison of the coupling coefficient drop against volume fraction occluded for 3 776 different voxel geometries simulated with 100 different clot distributions (for the ADAPT 777 technique, hard clot) a) Voxel 1, b) Voxel 4, c) Voxel 31 778 S6 Fig
+ A comparison of the effect of hard and soft clots on permeability drops with respect to 779 volume fraction occluded a) Hard clot for all 100 voxels b) Soft clot for all 100 voxels, c) Hard 780 clot for Voxel 1 simulated with 100 clot distributions, d) Soft clot for Voxel 1 simulated with 100 781 clot distributions, e) Hard clot for Voxel 4 simulated with 100 clot distributions, f) Soft clot for 782  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted November 30, 
+ ;    

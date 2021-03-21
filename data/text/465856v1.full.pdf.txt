@@ -1,0 +1,575 @@
+child development interventions to improve child health and development: rationale, trial Dr Stella M
+ Hartinger, School of Public Health and Administration, Universidad Peruana not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    Background: Exposure to unhealthy environments and poor cognitive development are the main risk factors that affect childrens health and wellbeing in low- and middle-income countries
+ Interventions that simultaneously address several risk factors at the household level have great potential to reduce these negative effects
+ We present the design and baseline findings of a cluster-randomised controlled trial to evaluate the impact of an outcomes in children under 36 months of age living in resource-limited rural Andean Peru
+  status and demography as well as microbial contamination in drinking water
+ In a sub-sample of households, we measured indoor and personal 24-hour air concentration levels of Results: We recruited and randomised 317 children from 40 community-clusters to four study arms
+ At baseline, all arms had similar health and demographic characteristics, and the developmental status of children was comparable between arms
+ The analysis revealed that more than 25% of mothers completed primary education, a large proportion of children were stunted and diarrhoea prevalence was above %
+ Fifty-two percent of drinking water samples tested positive for thermo-tolerant coliforms and the occurrence of E
+coli was evenly distributed between arms
+ The mean levels of kitchen PM
+5 and CO concentrations Conclusions: The trial arms are balanced with respect to most baseline characteristics, such as household air and water pollution, and child development
+ These results ensure the possible estimation of the trial effectiveness
+ This trial will yield valuable information for assessing synergic, rational and cost-effective benefits of the combination of home-based not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    Children in low- and middle-income countries are frequently exposed to cumulative health and developmental risks often rooted in unhealthy environments []
+ Nearly 3 billion people worldwide still use solid fuels for cooking, a major source of household air pollution (HAP) []
+ HAP exposure drastically increment the risk of acute respiratory infections (ARI) [3], pneumonia [4] and other adverse outcomes such as cognitive deficits in children []
+ Eleven percent of the world population still rely on unimproved drinking water sources and 36% on unsafe sanitation []
+ Exposure to inadequate drinking water, sanitation and personal hygiene  increases the risk for diarrhoea [7] and malnutrition []
+ Early child development (ECD) generates opportunities that shape childs lifelong health and developmental status []
+ However, today two hundred million children worldwide are not developing their full cognitive potential []
+ This disparity has lifetime adverse consequences and impacts Having access to safe drinking water (i
+ e
+ piped public taps) decreased school absenteeism []
+ Effective household water treatments combined with safe storage provided protection against diarrhoea []
+ Hand-washing with soap reduced diarrhoea by 40% []
+ The use of improved cookstoves (ICS) lessened HAP exposure and improved health []
+ ECD interventions enhanced health status [16] and development in children [16, ]
+ The reduction of poor health and development requires integrated approaches addressing the underlying risks and structural determinants at the household level []
+ Multiple studies demonstrated that low-cost interventions focused on various health risks factors simultaneously had a synergic effect and increased opportunities for a sustained use over time [17, ]
+ Integrating ECD and home-hygiene interventions is promising, as they both target young children within their homes []
+ The home-based approach enhances the effects of ECD interventions, which could also lead to improvements of childrens general health and affection, and mothers mental health [21, ]
+ Furthermore, home-based interventions can help reducing the use of material and human resources, providing a more In this article, we describe the design and baseline results of a cluster-randomised controlled trial seeking to develop an integrated cost-effective home-based package of environmental not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    The trial was conducted in the San Marcos and Cajabamba provinces, Cajamarca region, Andean Peru
+ We chose the locations based on the coverage of the national ECD programme (Programa Nacional Cuna Mas (PNCM)) and on-going relationships with local stakeholders who partook in a previous cluster-randomised controlled trial conducted in the region
+ The results of our previous research endeavours enhanced the implementation of this new trial (IHIP-2 trial in the following) [17, ]
+ Both sites are high altitude rural resource-limited locations with chronic malnutrition and illiteracy []
+ The majority of the population are small-scale farmers living in 2-3 roomed houses with earthen floors and adobe walls, with We implemented a 2x2 factorial design trial applying two interventions individually and in combination: i) an environmental health package comprising a certified ICS, kitchen sink and hygiene education (IHIP); and ii) an early child development programme (ECD)
+ This design led to four potential experimental conditions: i) IHIP & ECD (IHIP+ in the following), ii) IHIP, iii) ECD and iv) Control
+ We chose this design because it randomises communities instead of We enrolled all families complying with the following inclusion criteria: i) had at least one child <
+5 months living at the household; ii) used solid fuels as main energy source for cooking/heating; iii) had access to piped water in the yard; iv) did not have moving plans for the next 24 months; and iv) did not participate in the PNCM
+ We calculated the sample size using the formula proposed by Hayes & Bennett for cluster-randomised trials [25], assuming three episodes of diarrhoea per child-year, a 25% reduction of the incidence compared to the control arm, and a coefficient of variation of 
+ 
+ With 10 person-years of follow-up in each cluster, we calculated 16 clusters for the intervention and control arm to detect the anticipated reduction of incidence with a power of 80% at the 5% two-sided significance level
+ To account for potential loss to follow-up, we included 40 clusters with an average of 
+5 person-years of follow-up
+ For the ECD intervention, we used the ECD outcome (percentage of tasks solved above the mean of the study population) of our previous intervention study [17] and assumed 60% above mean for the intervention and 40% above mean in the control arm
+ Using the equivalent formula for proportions, we calculated that 15 clusters for intervention and control with ten children
+ Of note, the trial is not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    sufficiently powered to compare each intervention against its control arm but does not We carried out a census in 2015 to identify potential communities, children and pregnant women in their second and third trimester in collaboration with the Peruvian Ministry of Health (MINSA)
+ Participants were enrolled between September 2015 and January 
+ If multiple eligible children were found in a household, we selected the youngest child
+ We enrolled 82 eligible communities, which we aggregated into 40 community-clusters because of their partly close proximity to each other
+ After the enrolment, we allocated the communities into the four study arms using a covariate-based constrained randomisation as proposed by Moulton []
+ Based on geographic distance, we first divided the clusters into 8 strata of 4 clusters each and 1 stratum of 8 clusters
+ We then generated two million random allocation sequences and selected those for which the maximum difference between arms was i)  5 in terms of number of villages; ii) 10 for the number of children; iii) median village size (number of households) 10; iv) median altitude 250; v) proportion of households with a health post in the community 10 %-points; vi) proportion of households with a school within the community 10 %-points; and vii) proportion of households living in villages having an electricity connection  10 %-points
+ Of the 164 allocation sequences that Between May and July 2015, we consulted communities on their preference on three pre-selected ICS
+ Forty-eight women were asked to cook with each ICS model for three consecutive days (9 in total)
+ Participant women selected the ICS OPTIMA model and recommended further modifications before its installation
+ The modified stove was certified by the Peruvian national industrial certification authority (SENCICO)[]
+ Kitchen sinks and stove parts were purchased locally to increase scalability
+ Both interventions were installed not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    The ECD intervention was based on the PNCM []
+ The PNCM was launched in 2012 to improve the cognitive, social and emotional development of infants <3 years of age living in poverty
+ In addition, the programme sought to improve families knowledge and practices regarding caregiving, and strengthens the bond between mothers and children
+ The PNCM provides a home-visiting intervention in rural areas (Acompaamiento a Familias (AAF)) as opposed to a day-care service in urban settings
+ The AAF was implemented and evaluated in Mother facilitators (MF) were trained women living in the participating communities and caretakers) and the child
+ MFs were selected using PNCM guidelines and received a one-day training session and monthly re-trainings
+ MFs were supervised by a technical assistant team (TA), which mentored and assisted MFs in the planning of the weekly sessions according to the PNCM guidelines
+ In addition, the TA team organised bi-monthly group sessions with participant mothers to share experiences, lessons or concerns of the ECD intervention
+ The TA team received a one-week training from PNCM experts in planning and delivering of the ECD sessions
+ All participating household received a set of age-specific toys to stimulate childs psychomotor and cognitive development every two months (six packages in total)
+ abilities and to teach mothers plays and games for daily interactions
+ We assessed childhood diarrhoea and ECD status as primary outcomes
+ We defined diarrhoea according to the World Health Organization (WHO) standards, passing of at least three loose stools within 24 hours [29], and ECD outcomes as an age standardised mean The secondary outcomes included: i) ARI, defined as presence of cough and fever reported by the primary caretaker, according to the WHO standards [30]; ii) severe cases of diarrhoea defined as persistent diarrhoea for more than 14 days or bloody diarrhoea; iii) household and personal exposure to carbon monoxide (CO) and particle matter (PM
+5) in a sub-sample  of 40 participants (sentinel sub-sample in the following); iv) presence of E
+coli in drinking water samples; and v) compliance linked to the use of the interventions
+ We assessed compliance on stove and sink use and hygiene through spot check observations, 24-hour not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    recall data and direct observations in the sentinel sub-sample
+ ECD compliance was defined as the total number of MFs visits and mothers satisfaction associated to the MFs visits
+ We carried out active and passive surveillance to collect diarrhoea and ARI morbidity data during the 12-month follow-up
+ The fieldworker team (FW) visited all households weekly and collected daily and weekly information from the mother or caretaker about the occurrence of signs and symptoms of child diarrhoea and ARI
+ The FW was instructed to obtain two measurements of respiratory rates, which increased the specificity for a diagnosis without a loss of sensitivity []
+ To define the severity of the disease, for diarrhoea we collected additional information on observed blood in the stools
+ For ARI, we measured respiratory rate, heart rate and oxygen saturation in blood (SpO2) with portable pulse oximeters (PPOs) (Masimo iSpO2 Rx) and multisite reusable sensors (Masimo M-LNCS YI SpO2) connected to tablets (Lenovo TAB 2 A-)
+ We used the lambdanative framework to provide a real-time diagnostics of ARI and its severity []
+ Respiratory rate was recorded using the RRate app module []
+ Severely ill children were referred to the local healthcare facility for further evaluation
+ The FW received a five-day initial training for morbidity data collection with monthly re-training sessions of two hours
+ All the surveillance devices and tools were tested on a daily-basis between February and April 
+ In addition, the passive surveillance team (PS) collected health data from our study participants monthly at their local community-based health centres (22 in total)
+ To ensure that they were also collecting SpO2 in each evaluation, we provided PPOs, sensors and tablets to local health centres
+ During the visits, the PS also trained local health personnel on the maintenance and use of The environmental team (EV) collected household air pollution and drinking water samples
+ The EV received a seven-day initial training and monthly re-training sessions
+ We collected 24-hour kitchen and personal CO and PM
+5 exposure data
+ We installed one EL-USB-CO (LACAR Electronics) monitor and one HAP measuring device for indoor use APROVECHO-5000 at a one-meter distance from the ICS and at standard breathing height (
+5 meters)
+ To measure personal exposure, mothers were carrying a vest equipped with one EL-USB-CO (LASCAR Electronics) monitor and one micro personal aerosol exposure monitor (RTI-INTERNATIONAL) fitted
+ We asked mothers to wear the vest for 24 hours only taking them not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    We obtained drinking water samples from the child's main drinking source, and then transported to the field stations laboratory in San Marcos in cooled thermal bags
+ At the laboratory, the samples were analysed for thermotolerant (faecal) coliforms using a membrane-filtration method from the Oxfam DelAgua water testing kit []
+ All yellow colonies forming units were considered positive for E
+coli growth
+ These were then collected and placed in transportation vials media and send to Lima for further phenotypic and HAP data were obtained from the sentinel sub-sample five times (before and after ICS installation and three times during follow-up)
+ Water samples were collected at the baseline and end of study for all study participants and in the sentinel sub-sample four additional To assess ECD status, the TA carried out an assessment using the nationally validated Peruvian Infant Development Scale (ESDI) tool [36] at baseline and end of study
+ The TA received a one-week training from PNCM experts
+ For evaluating ECD improvements, the TA also implemented the ESDI tool at end of study
+ In parallel, a group of specialised psychologists conducted the Bayley Scales of Infant and Toddler Development (BSID) [37] Finally, the capacity building team (CBT) was responsible for re-training participants on hygiene, hand-washing, boiling practices and ICS maintenance
+ The CBT conducted monthly reinforcement visits and collected data on the IHIP intervention condition
+ A local ICS constructor was hired in case additional maintenance of the intervention was required
+ During their visits, the FW, CBT and TA conducted regular spot check observations and collected maternal reports on the usage and quality of the interventions as well as The FW implemented a socio-economic questionnaire at baseline and end of study
+ The general stove use, and household water management
+ We conducted the baseline assessment between September 2015 and February 
+ The FW received a one-week of The field coordinator team revised information collected on a daily basis to reduce the not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    chance of missing data
+ They also trained the field staff, double-checked questionnaires and conducted regular household quality visits monthly
+ Ten percent of all data collected in the trial was double entered to ensure data quality
+ To reduce the possibility of courtesy bias, household data collection routes of FW were changed every two months
+   From the screening census, we identified 102 communities with 574 potential children
+ During enrolment we found that 237 families were no longer eligible because i) they participated in another social programme (N=167); ii) they did not fulfil the inclusion criteria (N=34), and iii) they rejected participation (N=)
+ We re-enrolled between January and February 2016 because 28 children were not available or rejected to participate in the project at the beginning of the follow-up
+ In total, 317 households in 10 clusters per arm drinking water quality and levels of ECD indicators for each participant
+ We measured The four arms were balanced in most of the domains (Table )
+ Mothers from the four arms were of similar mean age, had similar levels of primary education and years of schooling
+ The majority of household had adobe walls, earthen floors, tiled roofs, and piped water system
+ We observed differences among trial arms in the proportion of children below 1 year
+ This imbalance disappears comparing IHIP versus no-IHIP or ECD versus no-ECD arms
+ We also observed imbalance in the proportion of households with electricity
+ Although living in villages having an electricity connection was a randomisation constraint it did not ensure balance at household level (in villages with connection the proportion of households with not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    Children in all arms had similar weight at birth
+ Imbalance was observed in the prevalence of stunting, with the highest proportion in the ECD arm (
+ %)
+ Two-week diarrhoea prevalence was balanced between arms, as were two-week prevalence of cough and fever
+ However, we did observed differences between the health insurance coverage between arms, with the highest lack of coverage in the IHIP+ (
+3%) and the lowest in the control arm (
+ %)
+ Vaccination coverage, varied between arms (Table )
+ The highest complete doses of vaccines for children between 6-11 months were in the ECD, and the lowest in the control arm (%)
+ These percentages change when we look at children between 12-24 months, where coverage levels in the ECD arm increase up to 70% and the four arms are balanced
+ SpO2 and respiratory rate levels were similar in all arms (Table )
+ We obtained 314 water samples
+ Some 
+9% (N=166) tested positive for thermo-tolerant bacteria
+ The number of positives and the occurrence of E
+coli and Enterobacter were evenly distributed between arms
+ We observed imbalances in the occurrence of Klebsiella and We measured indoor PM
+5 and CO concentrations stationary from the kitchen environments and personal exposure (CO only) before the installation of the ICS
+ Data was collected from  33 households
+ The average household PM
+5 and CO concentration were 213 g/mnot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    Child psychomotor and cognitive development indicators of 305 study children indicated We present the baseline results of a cluster-randomised trial evaluating an integrated home-environmental intervention package and an ECD programme to improve diarrhoea, ARI and childhood developmental outcomes in children under 36 months of age living in resource-limited rural Andean Peru
+ This trial uses a robust 2x2 factorial design that allows the assessment of two interventions in a single study without increasing sample size []
+ For the ECD intervention, we implemented one component of the Perus national ECD The trial included 317 rural families living in 82 communities from two Peruvian provinces
+ Baseline results indicate the trial arms are balanced with respect to most baseline characteristics, but given the limited number of clusters and the amount of characteristics presented, we also found a few imbalances
+ Imbalances observed will be considered in the primary trial analysis comparing each intervention separately with its counterfactual, i
+ e
+ IHIP versus no-IHIP to assess the impact of the IHIP intervention, and ECD versus no-ECD arms to evaluate the effects of the ECD intervention
+ While the ECD performance measurements at baseline appear to be inaccurately high, results are robust to no difference in ECD status between trial arms
+ We also found that households across all arms share a water does not comply with the Peruvian and WHO standards of zero viable coliforms in potable water samples [39, ]
+ Indoor and personal 24-hour CO air pollution measurements in our study meet WHO guidelines [41], but PM
+5 levels exceed the threshold of 25 g/mThere is an important need for implementing effective national ECD programmes to address the burden of poor development in early childhood []
+ Experiences demonstrate that implementing ECD programmes in low- and middle-income countries is feasible and cost-effective [43, ]
+ Our trial offers an ideal opportunity to generate strong evidence regarding the PNCM-programmes efficacy and support the Peruvian national government in its not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    The use of active surveillance in this trial will maximize sensitivity while passive surveillance increases the likelihood that true cases will be diagnosed, increasing specificity []
+ To synchronise ARI diagnosis with new national guidelines (stipulated by the MINSA) and address potential limitations of passive ARI surveillance, we equipped all the health centres in our working area with PPOs
+ Both, health and project field staff were trained, monitored and supervised monthly in the use of PPOs to assess ARI cases equally
+ PPOs have been underutilised in resource-limited health care settings for a variety of reasons, including high cost, inadequate supply and lack of training []
+ Our design overcomes these limitations and enhances the research of the usefulness and effectiveness of PPOs for ARI case assessments
+ In addition, PPOs show to be optimal tools for identifying children with hypoxemia, an indicator for severe respiratory diseases []
+ Previous research indicated that the reference SpO2 thresholds for hypoxemia are lower at high altitudes in comparison to those at sea level []
+ A median SpO2 hypoxemia threshold of 96% for children below 5 years living at 2500 m
+ a
+ s
+l has been proposed []
+ Our SpO2 results in healthy children living between 2250-3900 m
+ a
+ s
+l are lower than the suggested threshold
+ Hence, pondering specific SpO2 hypoxemia thresholds for children living in high altitudes becomes a challenge
+ Our systematic health data collection using PPOs may further pave the way for assessing SpO2 hypoxemia threshold values at high altitude settings for children with and without Little attention has been paid to users perspectives and preferences in the design of ICS interventions in the past []
+ We conducted a community consultation to select an ICS model that was both locally accepted and efficient
+ According to recent evidence, those who participate in community consultations to select ICS models have a higher odd of increasing Our study has some limitations
+ Because of the nature of the trial design, interventions could not be blinded
+ The use of tablet-based technologies to measure pulse oximetry was a challenge for both, health centre and field staff
+ We trained the health centre personnel on the correct use and benefits of introducing PPOs in their daily work in two group sessions
+ However, due to frequent changes of health centres personnel, we had to retrain individually new staff on-site on a monthly basis
+ Baseline ECD evaluation and the age-specific assessment tools were not as straight forward to apply as we had experienced previously []
+ Despite the assertion from the PNCM programme experts that also novices could apply the ESDI tool, we found that the lack of familiarity and experience among the field staff consistently produced unusually high scores in all individuals (at baseline)
+ not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    However, in the context of this baseline assessment, the screening was conduct to assess the relative ECD status between study arms as opposed to estimate absolute differences in ECD psychomotor and cognitive indicators
+ Hence, overall high scores do not invalidate our conclusion that randomisation was successful given study arms had similar ECD levels at baseline
+ To diminish any further potential bias at the end of study, we will apply both the We believe despite the limitations, the IHIP-2 trial will generate needed evidence on the We actively sought to involve national and governmental actors (i
+ e
+ PNCM, SENCICO, MINSA) in developing our interventions and throughout the study to foster sustainability In this paper, we present the baseline results of a factorial cluster-randomised trial development intervention in children under 36 months of age living in rural Andean Peru
+ The trial arms were balanced with respect to most baseline characteristics, air and water contamination and childs developmental status
+ Baseline results determine that the trials randomisation was successful and study arms are comparable for analysis at the end of study
+ The results of this trial will yield valuable information for assessing synergic, rational not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    The study (trial registry: ISRCTN-26548981) was approved by the Cajamarca Regional Health Community leaders and local authorities from the study area signed a collaborative agreement with the UPCH before study implementation
+ Families who agreed to participate in the study signed an informed consent
+ No incentives were given to foster participation
+ The datasets used and/or analysed during the current study are available from the The author(s) declare(s) that there is no conflict of interest regarding the publication of this not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    This study received financial support of the UBS Optimus Foundation and the Grand Challenges, Canada
+ The sponsors had no involvement in the study design, data collection and analysis, writing or the decision to submit the article for publication
+ DM and SH designed the study and obtained the funding; SH, NNM and HV collected data; SH, NNM, HV and MO were in charge of implementing interventions; JH provided with essential statistical advice and with HV generated the randomisation for the study
+ SH, HV, NNM, JH analysed and interpreted the data; SH wrote the first draft manuscript; DM, HV, NNM, JH and MO interpreted the data, performed critical revisions of the manuscript and contributed to the writing; SH, DM, HV, MO provided administrative, technical and material The authors would like to express their appreciation to the study families for their kind participation and the local authorities for their continuous support
+ We also express our gratitude to the field coordinators, especially to Mrs
+ Angelica Fernandez and Ms
+ Maria 
+ Lakshmi AS, Jamal S: Assessing Vulnerability of Women to Indoor Air Pollution
+ 
+ Bonjour S, Adair-Rohani H, Wolf J, Bruce NG, Mehta S, Prss-Ustn A, Lahiff M, Rehfuess EA, Mishra V, Smith KR: Solid Fuel Use for Household Cooking: Country 
+ Smith KR, Bruce N, Balakrishnan K, Adair-Rohani H, Balmes J, Chafe Z, Dherani M, Hosgood HD, Mehta S, Pope D et al: Millions Dead: How Do We Know and What Does It Mean? Methods Used in the Comparative Risk Assessment of Household 
+ Lim S, Vos T, Flaxman A, Danaei G: A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990U2010: a systematic analysis for the global burden of disease study not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    
+ Lanphear B: The impact of toxins on the developing brain
+ Annual Review of Public 
+ World Health Organization, United Nations Childrens Fund Progress on Drinking 
+ Das JK, Salam RA, Bhutta ZA: Global burden of childhood diarrhea and 
+ Dangour A, Watson L, Cumming O, Boisson S, Che Y, Velleman Y: Interventions to improve water quality and supply, sanitation and hygiene practices, and their effects on the nutritional status of children
+ In
+: Cochrane Database of Systematic 
+ Irwin LG, Siddiqi A, Hertzman C: Early Child Development: A Powerful Equalizer
+ Final report for the World Health Organization's Commission on the Social 
+ Grantham-McGregor S, Cheung Y, Cueto S, Glewwe P, Richter L, Strupp B: Developmental potential in the first 5 years for children in developing countries
+ 
+ Walker SP, Wachs TD, Grantham-McGregor S, Black MM, Nelson CA, Huffman SL, Baker-Henningham H, Chang SM, Hamadani JD, Lozoff B et al: Inequality in early childhood: risk and protective factors for early child development
+ The Lancet 
+ Freeman MC, Greene LE, Dreibelbis R, Saboori S, Muga R, Brumback B, Rheingans R: Assessing the impact of a school-based water treatment, hygiene and sanitation 
+ Clasen T: Household Water Treatment and Safe Storage to Prevent Diarrheal 
+ Fewtrell L, Kaufmann RB, Kay D, Enanoria W, Haller L, Colford JM, Jr
+: Water, not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    
+ Thomas E, Wickramasinghe K, Mendis S, Roberts N, Foster C: Improved stove interventions to reduce household air pollution in low and middle income 
+ Petrovic O, Yousafzai AK: Promoting Care for Child Development in Community Health Services, A Summary of the Pakistan Early Child Development Scale-up (PEDS) Trial Main findings, delivery strengths and the path forward
+ In
+ New York: 
+ Hartinger SM, Lanata CF, Hattendorf J, Wolf J, Gil AI, Obando MO, Noblega M, Verastegui H, Mausezahl D: Impact of a child stimulation intervention on early child development in rural Peru: a cluster randomised trial using a reciprocal control 
+ Ngure FM, Reid BM, Humphrey JH, Mbuya MN, Pelto G, Stoltzfus RJ: Water, child development: making the links
+ Annals of the New York Academy of Sciences 
+ Vazir S, Engle P, Balakrishna N, Griffiths PL, Johnson SL, Creed-Kanashiro H, dietary intake, growth and development among rural Indian toddlers
+ Maternal & 
+ Hartinger S, Lanata C, Hattendorf J, Verastegui H, Gil A, Wolf J, Musezahl D: Improving household air, drinking water and hygiene in rural Peru: a community-
+ Singla DR, Kumbakumba E, Aboud FE: Effects of a parenting intervention to address 
+ Aboud FE, Singla DR, Nahil MI, Borisova I: Effectiveness of a parenting program in Bangladesh to address early childhood health, growth and development
+ Soc Sci 
+ Instituto Nacional de Estadstica e Informtica: Per: Mapa de pobreza provincial y distrital 
+ In
+ Lima: Instituto Nacional de Estadstica e Informatica; 2015: 
+ not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    
+ Hartinger S, Lanata C, F
+  , Gil A, I
+ , Hattendorf J, Hector V, Musezahl D: Combining drinking water and kitchen clothes to improve home hygiene in rural Peru Field 
+ Hayes RJ, Bennett S: Simple sample size calculation for cluster-randomized trials
+ 
+ SENCICO: Reglamento para la evaluacin y certificacin de la cocina mejorada
+ In
+ 
+ Programa Nacional Cuna Mas: Escala de desarrollo infantil
+ Manual de aplicacin
+ 
+ World Health Organization: The Treatment of Diarrhoea
+ A manual for physicians 
+ Lanata CF, Rudan I, Boschi-Pinto C, Tomaskovic L, Cherian T, Weber M, Campbell H: 
+ Petersen CL, Gorges M, Dunsmuir D, Ansermino M, Dumont GA: Experience report: 
+ Karlen W, Gan H, Chiu M, Dunsmuir D, Zhou G, Dumont GA, Ansermino JM: 
+ Bayley N: Bayley Scales of Infant and Toddler Development: Bayley-III
+ San Antonio, not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    
+ Montgomery AA, Astin MP, Peters TJ: Reporting of factorial trials of complex 
+ Ministerio de Salud: Reglamento de la calidad de Agua para Consumo Humano
+ In
+ 
+ World Health Organization: Guidelines for Drinking Water Quality
+  3rd Edition
+ 
+ 
+ World Health Organization: WHO guidelines for indoor air quality: selected 
+ World Health Organization: WHO Air quality guidelines for particulate matter, ozone, nitrogen dioxide, and sulfur dioxide: Global update 
+ Geneva: World 
+ Richter LM, Daelmans B, Lombardi J, Heymann J, Boo FL, Behrman JR, Lu C, Lucas JE, Perez-Escamilla R, Dua T et al: Investing in the foundation of sustainable development: pathways to scale up for early childhood development
+ The Lancet 
+ Gowani S, Yousafzai AK, Armstrong R, Bhutta ZA: Cost effectiveness of responsive Pakistan
+ Annals of the New York Academy of Sciences 2014, :-
+ 
+ Hirve S, Singh SP, Kumar N, Banjara MR, Das P, Sundar S, Rijal S, Joshi A, Kroeger A, Varghese B et al: Effectiveness and feasibility of active and passive case detection in the visceral leishmaniasis elimination initiative in India, Bangladesh, and Nepal 
+ Spence H, Baker K, Wharton-Smith A, Mucunguzi A, Matata L, Habte T, Nanyumba D, 
+ Ginsburg AS, Delarosa J, Brunette W, Levari S, Sundt M, Larson C, Tawiah Agyemang C, Newton S, Borriello G, Anderson R: mPneumonia: Development of an Innovative 
+ Schult S, Canelo-Aybar C: Oxygen saturation in healthy children aged 5 to 16 years residing in Huayllay, Peru at 4340 m
+ High altitude medicine & biology 2011, not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    
+ Rojas-Camayo J, Mejia CR, Callacondo D, Dawson JA, Posso M, Galvan CA, Davila-Arango N, Bravo EA, Loescher VY, Padilla-Deza MM et al: Reference values for oxygen saturation from sea level to the highest human habitation in the Andes in 
+ Moreo M, Tshaus L, Zhang J, Hartinger SM, Musezahl D, Karlen W: Physiologically 
+ Rehfuess EA, Puzzolo E, Stanistreet D, Pope D, Bruce NG: Enablers and barriers to large-scale uptake of improved solid fuel stoves: a systematic review
+ Environ 
+ Wolf J, Mausezahl D, Verastegui H, Hartinger SM: Adoption of Clean Cookstoves after Improved Solid Fuel Stove Programme Exposure: A Cross-Sectional Study in not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    Table 
+ Demographic and household characteristics of households in rural Andean Peru Number of inhabitants per household   
+9 (
+5)  
+1 (
+7)  
+8 (
+4)  
+0 (
+5) Child sex (female)  
+6% (34)  
+6% (40)  
+2% (42)  
+6% (45)   
+5 (
+5)  
+5 (
+5)  
+7 (
+5)  
+7 (
+5)   
+5% (16)  
+3% (16)  
+1% (8)  
+9% (8) Age of caretaker (years)  
+3 (
+1)  
+4 (
+4)  
+2 (
+6)  
+0 (
+9) None   
+4% (5)  
+5% (2)  
+1% (4)  
+4% (6) completed    
+8%  (24)  
+9% (26)  
+9% (22)  
+5% (19) Secondary level completed   
+8% (17)  
+3 % (5)  
+7% (14)  
+6%  (7) Higher degrees completed   0% (0)  
+8% (3)  
+1% (4)  
+2% (1)     
+1 (
+5)  
+1 (
+3)  
+9 (
+5)  
+6 (
+2) Adobe wall type   
+7% (70)  
+4% (73)  
+7% (74)  100% (81) Earthen floor type   
+3% (65)  
+9% (71)  
+9% (75)  
+8% (76) Roof tile type   
+1% (64)  
+3% (69)  
+1% (68)  
+1% (77) Household with latrines     
+1% (43)  
+2% (42)  
+2% (46)  
+7% (50) Piped water supply   
+4% (76)  
+7% (78)  100% (79)  
+8% (80) Electricity   
+4% (51)  
+3% (65)  
+2% (61)  
+2% (69) For higher degrees, we assumed: Non-university education not completed (
+5 years), non-university education completed (14 years), university education not completed (
+5 years) and university not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    Table 
+ Childrens health status and vaccination coverage in rural Andean Peru Height-for-age, Z-values  64 -
+3 (
+1) 50 -
+0 (
+9) 64 -
+5 (
+1) 61 -
+4 (
+8) Stunting 64 
+2% (11) 50 
+8% (5) 64 
+9% (24) 61 
+0% (11) Weight-for-age, Z-scores  64 -
+4 (
+0) 51 -
+1 (
+8) 65 -
+6 (
+9) 61 -
+5 (
+9) Underweight 64 
+3% (4) 51 
+0% (1) 65 
+8% (7) 61 
+9% (3) Weight at birth  
+1 (
+6)  3 (
+5)  
+1 (
+5)  
+1 (
+4) 
+4% (14)  
+8% (18)  19% (15)  
+3% (21) Fever, two-weeks prevalence    
+8% (17)  
+5% (17)  
+3% (20)   
+5% (19) Cough, two-weeks prevalence    
+1% (27)  
+7% (25)  
+2% (31)  
+1% (23) 
+3% (8)  
+1% (8)  
+1% (4)  
+2% (1) Tuberculosis (BCG) 77 
+6% (69)  
+1% (72)  
+9% (75)  
+1% (77) Measles  77 
+7% (39) 78 
+3% (47) 77 
+5% (52)  
+2% (52)  dose 77 
+1% (74)  
+9% (75)  
+7% (78)  
+1% (77)  dose 73 
+4% (66) 77 
+6% (69)  
+5% (77) 79 
+7% (74)  dose  64 
+5% (56) 69 
+7% (55) 72 
+1% (67) 73 
+2% (60)  dose 77 
+1% (74)  
+2% (76)  
+7% (78)  
+3% (78)  dose 73 
+0% (65) 77 
+9% (70)  
+5% (77) 79 
+7% (74)  dose  64 
+1% (50) 69 
+7% (55) 72 
+3% (65) 73 
+3% (55) Influenza 77 
+3% (48)  
+3% (50)  
+0% (64)  
+1% (56) Hepatitis B 77 
+3% (48)  
+4% (43)  
+8% (63)  
+1% (56)   
+6% (16)  
+7% (17)  
+5% (21)  40% (6) No vaccines  0% (0)  
+1% (2)  0% (0)  0% (0)  
+3% (28)  
+7% (29) 46 
+8% (39)  
+7% (41) No vaccines  
+4% (1)  
+9% (2)  
+1% (1)  0% (0) Oxygen saturation (SpO2)  
+5 (
+8)  
+2 (
+5)  
+8 (
+8)  
+8 (
+8) Respiratory rate per/min
+  
+7 (
+7)  
+4 (
+0)  
+2 (
+7)  
+3 (
+1)  December 2015 (31 days)
+ If several estimates within the range were available, the one  It includes BCG (one dose), DTP (three doses) and OPV (three doses)
+   It includes BCG (one dose), DTP (three doses), OPV (three doses) and measles (one dose)
+ Results from children with no observable danger signs, fever, cough and difficulty to breath at the time of the not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    Table 
+ Thermo-tolerant bacteria from household drinking water samples in rural Andean Peru  N % (N) N % (N) N % (N) N % (N) N % (N) E
+coli  
+1% (27)  
+0% (27)  
+1% (28)  
+9% (35)  
+5% (117) Klebsiella  
+5% (4)  
+1% (3)  
+9% (9)  
+8 (9)  
+1% (25) Enterobacter  
+5% (4)  
+8% (4)  
+3% (4)  
+3% (4)  
+7% (16) Citrobacter  
+9% (3)  
+1% (3)  
+7% (2)  0% (0)  
+8% (8) not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;     N Mean (95% IC) Median (95% IC) Geometric mean (95% IC) )  213 (
+9  
+2) 
+5 (
+5  
+6) 
+1 (
+5  
+7) CO (ppm)  
+8 (
+5  
+2) 
+1 (
+7  
+7) 
+3 (
+0  
+7) CO (ppm)  
+4 (
+8  
+0) 0 (0  0) 
+4 (
+9  
+1) not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 14, 
+ ;    

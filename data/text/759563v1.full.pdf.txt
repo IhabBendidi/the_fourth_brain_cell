@@ -1,0 +1,125 @@
+Does body position before and during blood sampling influence the athlete biological passport variables?was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 11, 
+ ;    blood	 biomarker	 variations	 with	 changes	 in	 body	 position	 during	 blood	 sample	 collection
+	 Ten		in	 three	 situations	 (seated,	 after	 a	 50	 m	 walk,	 and	 supine)	 were	 collected	 and	 analyzed	 via	 flow		was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 11, 
+ ;    tracks blood markers longitudinally and based on changes in these variables, helps identifying 	of	 haemoglobin	 while	 reducing	 the	 chances	 of	 being	 tested	 positive	 (Hamilton	 and	 Coyle	 )
+		Therefore,	 accurate	 and	 precise	measurement	 of	 blood	 variables	with	 low	 bias	 are	 paramount	 to		plasma	 volume	 may	 inevitably	 alter	 variables	 for	 which	 concentration	 values	 are	 reported	 (e
+ g
+,		occur	 with	 endurance	 training	 periods	 (Sawka,	 Convertino	 et	 al	 2000),	 repeated	 sauna	 bathing		exposure	 with	 a	 high	 individual	 variability	 (Young,	 Karl	 et	 al	 )
+	 Overall,	 this	 underlines	 the		Doping	 Agency	 (WADA)	 enacted	 specific	 blood	 collection	 guidelines	 (WADA	 2016)	 in	 addition	 to		posture	 upon	 blood	 volume	 and	 composition	 have	 been	 extensively	 investigated	 (Thompson,		Thompson	 et	 al	 )
+	 Recent	 updates	 highlight	 the	 need	 for	 standardization	 because	 position		recommends	 to	 make	 the	 patient	 comfortable	 in	 a	 supine	 position	 (if	 possible)	 (World	 Health		was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 11, 
+ ;    Organisation	 )
+	 The	 latter	 is	 however,	 not	 the	 standard	 for	 blood	 collection	 in	 an	 antidoping		The	 aim	 of	 this	 study	 was	 thus	 to	 investigate	 the	 influence	 of	 body	 position	 prior	 to	 and	 during		divers	 with	 a	 regular	 practice	 of	 apnea	 training	 (i
+ e
+	 at	 least	 two	weekly	 training	 sessions	with	 or		running,	 triathlon,	 ski-cross	 country)	 not	 exceeding	 4	 hours
+	 Participants	 living	 permanently	 at	 an		To	mimic	 as	 closely	 as	 possible	 an	 ABP	 blood	 sample	 collection,	 the	 current	WADA	 guidelines	 on		is	 illustrated	 in	 Figure	 
+	 At	 least	 2	 hours	 after	 any	 physical	 activity	 or	 exercise	 training,	 subjects		was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 11, 
+ ;    access	 using	 a	 butterfly	 was	 preferred	 to	 reduce	 hemolysis	 (Barnaby,	 Wollowitz	 et	 al	 )
+	 A		in	 the	 antecubital	 vein	 and	 fixed	with	medical	 tape
+	 Tourniquet	 time	was	 approx
+	 25	 s	 and	 never		B1 B2     B3      B4      B5                       B6      B7       B8      B9                 Bwas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 11, 
+ ;    Blood	 variables	were	determined	 via	 flow	 cytometry	 using	 a	 fully	 automated	 cell	 counter	 (Sysmex		and	 total	 hemoglobin	 mass	 (Hbmass))	 was	 measured	 with	 a	 carbon	 monoxide	 (CO)	 rebreathing		[Hb]	 and	Hct	measured	 at	 B2	 (i
+ e
+	 after	 10	min	 seated)	were	 used	 as	 reference	 baseline	 values;	 t		assumed	 and	 the	 Geisser-Greenhouse	 correction	 was	 used
+	 Baseline	 variables	 were	 compared		target	 variables	 where	 subjects	 represented	 random	 effects;	 time,	 sex	 and	 group	 were	 the	 fixed		effects
+	 The	 F	 statistic	 was	 used	 to	 test	 for	 significant	 fixed	 effects
+	 The	 repeated	measures	were		P<
+ 
+	 All	 statistical	 analyses	were	 performed	 using	 the	 Jamovi	 open-source	 dedicated	 statistical		was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 11, 
+ ;    Anthropometrical	 data,	 variables	 measured	 at	 baseline	 (or	 after	 all	 blood	 samples	 for	 total		When	 compared	 to	 the	 B2	 reference	 value,	 significant	 differences	 were	 observed	 after	 the	 initial		There	 was	 a	 Group	 effect	 on	 [Hb]	 (P<
+05)	 indicating	 that	 the	 cyclists	 had	 higher	 values	 when		compared	 to	 the	 apnea	 divers	 and	 controls;	 and	 similarly,	 an	 interaction	 of	 Sex	 on	 [Hb]	 and	 Hct		was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 11, 
+ ;    was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 11, 
+ ;    Figure	 2	 	 Box	 plots	 at	 successive	 timepoints	 (B1	 to	 B10)	 for	 hemoglobin	 concentration	 (A),		** P = 
+01, *** P < 
+001 for difference with B2 Reference valuewas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 11, 
+ ;    Figure	 3	 	 Difference	 between	 different	 timepoints	 and	 B2	 reference	 values	 for	 hemoglobin		** P < 
+01, *** P < 
+001 for difference with Baselinewas not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 11, 
+ ;    plasma	 volume	 shifts
+	 Practically,	 however,	 if	 an	 athlete	 has	 to	 change	 seats	 (e
+ g
+,	 walking	 a	 few		Our	 results	 are	 in	 line	 with	 the	 initial	 study	 by	 Ahlgrim	 et	 al	 showing	 that	 posture	 significantly		increase	 up	 to	 12%	 in	 supine	 position	were	 reported	 	 (Hinghofer-Szalkay	 and	Greenleaf	 )
+	 An		increased	 capillary	 pressure	 in	 the	 feet	 (that	 can	 exceed	 12kPa)	 causing	 an	 outward	 filtration	was		a	 shift	 of	 approximately	 500-1000ml	 of	 blood,	 representing	 approximately	 12%	 of	 blood	 volume			was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 11, 
+ ;    [Hb]	 and	 Hct	 indicate	 that	 the	 initial	 circulating	 volume	 and	 total	 haemoglobin	 content	 does	 not		other	 factors	 have	 to	 be	 considered	 to	 ensure	 the	 quality	 of	 the	 measurements
+	 For	 instance,		extravascular	 space	 (Kuipers,	 Brouwer	 et	 al	 )
+	 The	 stable	 Ret%	 values	 obtained	 over	 the	 		In	 conclusion,	 our	 study	 indicates	 that	 standing	 up	 shortly	 during	 an	 antidoping	 blood	 collection		values	 in	 athletes	 and	healthy	 subjects
+	Values	however	 stabilized	 after	 5	min	upon	 returning	 in	 a		affect	 an	 ABP	 profile
+	 Blood	 samples	 for	 anti-doping	 purposes	 in	 the	 context	 of	 the	 ABP	 should		was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 11, 
+ ;    was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 11, 
+ ;    ()
+	 "Are	 10	min	 of	 seating	 enough	 to	 guarantee	 stable	 haemoglobin	 and	 haematocrit		Bloomer,	 R
+	 J
+	 and	 T
+	 M
+	 Farney	 ()
+	 "Acute	 plasma	 volume	 change	 with	 high-	Imelik,	 O
+	 I
+	 and	 K
+	 K
+	Mustimets	 ()
+	 "[Change	 in	 blood	 plasma	 volume	 during		Lombardi,	 G
+,	 P
+	 Lanteri,	 A
+	 Colombini,	 G
+	 Lippi	 and	 G
+	 Banfi	 ()
+	 "Stability	 of		was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 11, 
+ ;    Murphy,	 W
+	 G
+	 ()
+	 "The	 sex	 difference	 in	 haemoglobin	 levels	 in	 adults	 -		blood	 volume:	 effects	 of	 exogenous	 erythrocyte	 volume	expansion
+"	 J	 Appl	 Physiol	 ()		Sottas,	 P
+	 E
+,	 N
+	 Robinson,	 O
+	 Rabin	 and	 M
+	 Saugy	 ()
+	 "The	 athlete	 biological		Vernec,	 A
+	 R
+	 ()
+	 "The	 Athlete	 Biological	 Passport:	 an	 integral	 element	 of		was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (whichthis version posted September 11, 
+ ;    

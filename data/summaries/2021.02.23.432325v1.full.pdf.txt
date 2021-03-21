@@ -1,0 +1,23 @@
+These studies provide an easy and precise system to investigate the intercellular exchange stage of NP delivery, and shed the first light in the importance of EVs in NP transport (which was not certified by peer review) is the author/funder
+Our results showed that a significant number of NPs are transferred from one cell (donor) to another (recipient) in membrane-enclosed structures, which we hypothesized to be either secreted extracellular vesicles (EVs) or through direct cell-cell contact
+In all our studies, donor cells were incubated with CPP-AgNPs and etched in bulk, and then evenly aliquoted into different experimental groups
+Plus, this allows us to simplify the analysis, and directly define the intercellular exchange efficiency as the total AgNPs that can reach The first version of our assay simply cultured the donor/recipient cell mixture in ultra-low binding plates, which is vastly different from the physiological conditions of cell growth
+Several parameters were further optimized to maximize the intercellular exchange, such as cell number, donor/recipient ratio, and incubation time (Fig
+Interestingly, we observed little difference in the intercellular exchange efficiency when plating donor cells on top either as monolayer or when encapsulated in a separate collagen layer (Fig
+We speculate three possible routes of intercellular exchange: CPP-NPs are exported as free agents (direct release), or are exocytosed into EVs, or are exchanged via direct contact between donor and recipient cells
+The collagen gap between donor and recipient cells, however, exhibited little effect on the intercellular exchange of NPs, regardless of constant etching
+Besides silver nanoparticles, we found that the intercellular exchange of TAT-conjugated gold nanoparticles (T-AuNPs), which is not etchable, could also be decreased by Second, we isolated EVs secreted by donor cells after CPP-NP internalization and etching
+These results demonstrate that these inhibitors can effectively block the re-entry of freely released CPP-NPs into recipient cells, while NP-carrying EVs are resistant to them
+These data support the notion that while freely released CPP-NPs still rely on the same ligand-receptor interaction for cell entry, NP-carrying EVs (which was not certified by peer review) is the author/funder
+Overall, our results call for more careful design of ligand-functionalized NPs when aiming at solid organs/tissues like tumors, and highlights the importance of EV biology (surface proteomics, transport dynamics and cell uptake specificity) in improving the tissue penetration (which was not certified by peer review) is the author/funder
+After recipient layer and gap layer were polymerized,  L of donor layer mixture was added on top of the collagen gap and incubated at  C for  min to (which was not certified by peer review) is the author/funder
+Fluorescence images were taken using EVOS M (Thermo Fisher Scientific) microscope and the To study the penetration of EVs in collagen matrix, a single layer of PC-GFP cells were seeded in  Chamber Polystyrene Vessel Tissue Culture Treated Glass Slide (Falcon, cat
+Fluorescence images were taken using EVs isolated from donor cell culture medium were washed with PBS and calibrated to the same amount of protein for different groups
+(B) Percentage of CPP-AgNPs positive recipient cells in the intercellular exchange assay
+Intercellular exchange assay of T-AgNPs and R-AgNPs from PC- to PC-GFP cells was carried out as described in Methods, respectively
+;    (A-D) The D intercellular exchange assays with different pairs of donor/recipient cells
+After  h incubation under the indicated conditions (x axis), intercellular exchange efficacy of T-AgNPs (A) and R-AgNPs (B) from PC- to PC-GFP cells was quantified as described in Methods and normalized to that of under constant etching with collagen gap (y axis)
+Intercellular exchange efficacy of T-AgNPs (C) and R-AgNPs (D) from HUVEC to PC-GFP cells was quantified as described in Methods and normalized to that of under constant etching with collagen gap (y axis)
+(E) Intercellular exchange efficacy of T-AgNPs from PC- to PC-GFP cells with gaps of different collagen concentration (x axis) under constant etching
+(F) Intercellular exchange efficacy of  nm and  nm T-AgNPs from PC- to PC-GFP cells was quantified as described in Methods and the result was normalized to that of  nm T-AgNPs (y axis)
+Intercellular exchange efficacy of T-AgNPs (A) and R-AgNPs (B) from PC- to PC-GFP cells with indicated GW concentrations (x axis) was quantified as described in Methods and normalized to that of without GW treatment (y axis)

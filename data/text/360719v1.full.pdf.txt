@@ -1,0 +1,313 @@
+Clinical data specification and coding for cross-analyses with omics data in autoimmune disease trialsClinical data specification and coding for cross-analyses with omics data in 1 Unit de recherche clinique, UMR 942, Univ Paris 07, Hpitaux Saint Louis Lariboisire, 15 UMR 974, UPMC, Department of Internal Medicine and Clinical Immunology, Hpital Piti-18 Department of Diabetology, Hpital Piti-Salptrire, AP-HP, France; Faculty of Medicine, 20 Sorbonne Universit; Institute of Cardiometabolism and Nutrition (ICAN), Paris, France;  21 Sorbonne Universit, INSERM, UMR_S 933, Department of Internal Medecine Hpital 26 Sorbonne Universit; INSERM, UMR_S 1155, Paris, France; Hpital Tenon, AP-HP, 28 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted July 5, 
+ ;    UMR 974, UPMC, Department of Internal Medicine and Clinical Immunology, Hpital Piti-30 Department of Gastroenterology, Hpital Saint Antoine, AP-HP, and GRC-UPMC 03, 32 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted July 5, 
+ ;    Objectives: Autoimmune and inflammatory diseases (AIDs) form a continuum of 38 autoimmune and inflammatory diseases, yet AIDs nosology is based on syndromic 39 classification
+ The TRANSIMMUNOM trial (NCT02466217) was designed to re-evaluate AIDs 40 nosology through clinic-biological and multi-omics investigations of patients with one of 19 41 selected AIDs
+ To allow cross-analyses of clinic-biological data together with omics data, we 42 needed to integrate clinical data in a harmonized database
+ Materials and Methods: We 43 assembled a clinical expert consortium (CEC) to select relevant clinic-biological features to 44 be collected for all patients and a cohort management team comprising biologists, clinicians 45 and computer scientists to design an electronic case report form (eCRF)
+ The eCRF design 46 and implementation has been done on OpenClinica, an open-source CFR-part 11 compliant 47 electronic data capture system
+ Results: The CEC selected 865 clinical and biological 48 parameters
+ The CMT selected coded the items using CDISC standards into 5835 coded 49 values organized in 28 structured eCRFs
+ Examples of such coding are check boxes for 50 clinical investigation, numerical values with units, disease scores as a result of an automated 51 calculations, and coding of possible treatment formulas, doses and dosage regimens per 52 disease
+ Discussion: 21 CRFs were designed using OpenClinica v
+14 capturing the 5835 53 coded values per patients
+ Technical adjustment have been implemented to allow data 54 entry and extraction of this amount of data, rarely achieved in classical eCRFs designs
+ 55 Conclusions: A multidisciplinary endeavour offers complete and harmonized CRFs for AID 56 clinical investigations that are used in TRANSIMMUNOM and will benefit translational 57 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted July 5, 
+ ;    Autoimmune and auto-inflammatory diseases (AID) are the third cause of morbidity and 62 
+ The development of more effective and better tolerated treatments 63 for these chronic and severely disabling diseases is an important public health issue
+ 64 Recently, genetic studies have highlighted altered biological processes that are common to 65 , and others studies have shown that an imbalance between effector T cells 66 and regulatory T cells resulting in the rupture of immune tolerance is associated with AIDs 
+ This collection of evidence is in line with the proposed reclassification of AIDs to form a 68 continuum of diseases ranging from pure autoimmune to pure inflammatory diseases with a 69 number of diseases displaying variable degrees of both autoimmune and inflammatory 70 
+ This is further sustained by immune markers common to several diseases, such 71 diseases, due to the various genetic and environmental factors as well as patient 73 heterogeneity, prompted the scientific community to reconsider research practices with a 74 view to a more integrative approach
+ In particular, AIDs are associated with multiple and 75 variable immune-related disorders, including dysregulation of the innate immune response 76 or of the adaptive immune response or of both
+ Systems biology approaches raise the hope 77 that a more comprehensive understanding of cells and tissues in health and disease will 78 disease taxonomies from syndromic classification to molecular classification, and their 80 combination, and will allow physicians to select optimal therapeutic regimens for individual 81 
+ Recent studies have successfully identified molecular signatures associated with 82 Those results led us to setup an observational clinical trial, TRANSIMMUNOM, 85 (NCT02466217) the main goal of which was to revisit the nosology of AIDs through a 86 with one out of 19 selected AIDs or one out of 5 control diseases (Figure 1), and healthy 88 donors with no history of autoimmune disorders
+ The systems immunology approach used a 89 repertoire, cytokine expression) and microbiome NGS studies
+ Importantly, classic routine 91 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted July 5, 
+ ;    biology assays as well as clinical investigations are fully part of the data collection strategy
+ 92 Our aim was to integrate all these data (biology, routine biology and clinical data) so as to 93 allow further cross-analysis of all patients and data to better characterize the immunome of 94 each patient regardless of the initial diagnosis
+ A similar strategy was initiated by the 95 National Institute of Allergy and Infectious Diseases (NIAID) under the Human Immunology 96 Therefore, we needed to develop data integration approaches to efficiently record and 99 store collected data such that we could easily analyze them afterwards through 100 computational biology approaches
+ The first challenges of the project were to implement a 101 comprehensive case report form (CRF) covering all diseases in terms of clinical data and 102 biomarkers and to provide a user-friendly, vocabulary-controlled and not expensive 103 platform with standard vocabulary to record all data collected by the clinical assistant during 104 patient interviews
+ To meet these challenges, we assembled the multidisciplinary Cohort 105 Management Team (CMT) composed of clinicians from different specialties, nurses, biology 106 medical doctors, clinical trial methodologists, immunologists and computer scientists
+  107 Here we present our electronic CRF (eCRF), designed using an open-source electronic data 108 capture (EDC) tool, capturing more than 5000 multiparametric coded values from 865 109 harmonized clinical and biological parameters per subject included in a multi-disease clinical 110 trial focusing on 24 diseases, 22 areas of clinical investigation and one vast set of routine 111 biology assays
+ Altogether, we believe that this effort could be of interest for small cohort 112 studies for which the commercially available eCRF services are not accessible
+ 113 Patients with one of the following AIDs, of the AID continuum are recruited for 116 TRANSIMMUNOM trial (Figure 1): familial mediterranean fever (FMF), ulcerative colitis, 117 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted July 5, 
+ ;    rheumatoid arthritis (RA), type-1-diabetes and systemic lupus erythematosus (SLE)
+ We also 122 included patients with diseases exhibiting symptoms similar to those of some AIDs but 123 linked to different gene mutations (control diseases), such as TRAPS and CAPS as a control 124 for FMF, or diseases with a similar autoimmune mechanism with overlapping 125 clinical/biological features, such as antiphospholipid syndrome (APLS) as a control of for SLE, 126 or degenerative diseases that do not have the same mechanism as AIDs such as 127 osteoarthritis for RA and muscular dystrophy for myositis
+ Finally, healthy volunteers are 128 Set up to interact with a Clinical Expert Consortium (CEC), a Cohort Management Team 131 (CMT) of biological experts, routine laboratory personnel, clinical trial methodologists and 132 clinical investigation centre harmonized the clinical and laboratory outcomes/results
+ The 133 CMT ensured that all required data are collected in an appropriate format for analyses and 134 that the questions are unambiguous
+ The computer scientist defined the data and metadata 135 structure required to minimize non-controlled data entry and to specify the expected 136 values
+ The overall design was supervised by an immunologist involved in the scientific part 137 of the clinical trial, who liaised between the clinicians and the computer scientist
+ 138 Each clinician received an Excel form to be filled in with the description of the item to be 140 recorded in a standardized manner: item ID, item value type (string, decimal); list of pre-141 determined item values; item value unit (if applicable); item value range (if applicable)
+ 142 Afterwards, all the data collected from the different specialties were grouped and 143 Given the amount of data to be collected across 19 AIDs and 5 control diseases, OpenClinica 146 v
+14, an open-source CFR-part 11 compliant electronic data capture platform has been 147 selected for the design and capture of selected clinico-biological data
+ A test and production 148 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted July 5, 
+ ;    instances have been installed on dedicated and secured CentOS virtual machines with 16Go 149 RAM, 8 cores and 15 Go disk space each
+ OpenClinica's application server (Tomcat v
+ 
+6) 150 and database server (PostgreSQL v
+ 
+5) parameters have been upgraded to fit multiple 151 simultaneous data entry and data extraction, in particular JAVA_OPTS for heap memory 152 have been upgraded to 8 Go instead of 1Go Mo by default
+  153 To have completely anonymized subjects who are also unique (no double entries for the 155 same subject in our database because of anonymity) we developed the Anonymized Subject 156 Unification (ASU) system as a completely autonomous system that can be used for any 157 clinical trial Briefly, ASU takes advantage of a unique identifier of each subject (like Paris 158 Hospital patient number [NIP] or French healthcare registration number [INSEE]) to produce 159 a simple 4-letter code by using a one-way encryption technique
+ 160 The TRANSIMMUNOM observational trial targeted recruitment of 1,000 patients suffering 164 from one out of 24 diseases and healthy controls
+ During a single visit, patient medical 165 history and clinical investigations are performed together with the collection of samples 166 (blood, serum and feces) for further multi-omics analyses
+ The goal of the trial is to revisit 167 the nosology of AIDs by defining groups/clusters of patients based on clinical and molecular 168 signatures that cut across disease classification
+ To deal with the expected amount of 169 heterogeneous (such as disease severity scores, imaging data, biological measures) from 170 routine clinical investigations, and to allow the cross-evaluation of clinical and omics data, 171 we needed to develop an eCRF with a system that allows further omics data integration
+ We 172 selected OpenClinica (OC) as an electronic data capture (EDC) tool to support our eCRF 173 design
+ OC is an open-source CRF-part 11 compliant EDC able to design complex eCRFs for 174 
+ One of the major features of OC is to rely on Clinical Data Acquisition 175 Standards Harmonization (CDASH) from the Clinical Data Interchange Standards Consortium 176 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted July 5, 
+ ;    , which allows the harmonization of clinical and biological data coding
+ Finally, OC 177 includes the mandatory validation of all recorded data to ensure data quality the main strategy of TRANSIMMUNOM is to cross-analyze data from multiple AIDs, each of 179 which is usually characterized by particular clinical investigation records and biological data 180 measures
+ We anticipated the final cross-analysis, which would require the same 181 information for all the diseases
+ Finally, the eCRF had to follow regulatory guidelines and 182 Good Clinical Practices to ensure data entry, traceability and integrity throughout the 183 patient recruitment period
+ Although installation and implementation of OC is not trivial, as 184 it requires computer science expertise and time, we decided to favour the landscape of 185 
+2 A multidisciplinary workflow ensuring the design of a robust 187 Expertise in different but converging fields was pooled in the CMTs, each of which 189 participated in a 3-step workflow to (1) define the protocol, (2) design and (3) validate the 190 eCRF (Figure )
+ The first step of protocol definition involved a Clinical Expert Consortium 191 (CEC) to define the list of items for all the patients with the aim of collecting exactly the 192 same information regardless of the disease
+ All the clinical specialists together selected a 193 sample of items per specialty so that the CRF was reasonably comprehensive and synthetic
+ 194 Biology lab experts were also questioned to ensure the feasibility of sample drawing and of 195 the required biology assays
+ Upon collection and validation of the actual items to be 196 recorded, the specification of the database started with the design of an e-template where 197 the computer scientist structured the information for each item by imposing the format of 198 the data and metadata
+ Once the e-template was defined, we proceeded to the eCRF 199 design: the CEC, in close collaboration with the computer scientist, designed the clinical 200 coding of clinical investigation data following an unambiguous format for each item with 201 maximized use of a predefined list of responses in order to avoid erroneous data entry
+ 202 Biology lab experts defined for each parameter measured the value type (string, integer, 203 decimal, Boolean), as well as the unit and range, when applicable
+ All the information was 204 summarized in a spreadsheet and converted by the computer scientist into a PostgreSQL 205 relational database following the OpenClinica structure
+ Finally, clinical research technicians 206 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted July 5, 
+ ;    evaluated the user-friendliness of the eCRF, the clinical research assistant evaluated the 207 item relationship constraints, and finally the CMT validated the eCRF with a patient Zero 208 As AIDs belong to different medical specialities, the CEC comprised clinicians working in 211 biology, nephrology and genetics who ensured the feasibility of data collection in terms of 213 cost, patient morbidity and examination invasiveness
+ The list of information to be collected 214 for all the participants was organized in 4 categories
+ For each recorded item, we defined 215 the type of value such as free text field, free numerical field, automated calculation, check-216 box, drop-down list and calendar/date field (Figure )
+ The first group of CRFs was built 217 under the Patient description category and included classic clinical information required 218 to assess the biology and social environment of the patient
+ Altogether, we selected 70 219 items organized as 7 CRFs (Figure 3A & Supplementary material)
+ Each CRF collects 4 to 30 220 different items
+ The second set of CRFs focuses on Common clinical monitoring and was 221 organized as 5 CRFs collecting generic clinical data at the day of the visit and accounting in 222 all for 88 items (Figure 3B & Supplementary material)
+ The third category explore the 223 Routine biology monitoring (Figure 3C, Supplementary material & Table 1) and covered a 224 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted July 5, 
+ ;    Table 1: List of routine biology assay in the TRANSIMMUNOM trial 226 Table abbreviation legend: ALT -  alanine aminotransferase, ANA - antinuclear antibodies, ANCA - anti-227 neutrophil cytoplasmic antibodies, Anti-CCP - anti-cyclic citrullinated peptide antibodies, Anti-dsDNA - Anti-228 double stranded DNA antibodies, Anti-EJ - anti-glycyl-transfer RNA synthetase antibodies, Anti-ENA - anti-229 extractable nuclear antigens antibodies, Anti-GAD - anti-glutamic acid decarboxylase antibodies, Anti-HMGCR - 230 Anti-Jo1 - anti-histidyl tRNA synthetase antibodies, Anti-Ku - anti- Ku antigen antibodies, Anti-MDA5 - 232 melanoma differentiation-associated gene 5 antibodies, Anti-MI2 - antiMi-2 antibodies, Anti-OJ - anti- 233 isoleucyl-tRNA synthetase antibodies, Anti-PL7 - anti-threonyl-tRNA synthetase antibodies, Anti-PL12 - anti-234 alanyl-tRNA synthetase antibodies, Anti-PM/Scl - anti- nucleolar macromolecular complex PM/Scl, Anti-RNP - 235 gamma  anti-transcriptional intermediary factor 1-gamma antibodies, Anti-ZnT8 -anti-zinc transporter 8 237 antibodies, ASCA - anti-Saccharomyces cerevisiae antibodies, AST -  aspartate aminotransferase, C3 - 238 complement fraction 3, C4 - complement fraction 4, CH50 - total complement activity, CPK -  Creatinine 239 phosphokinase, ESR - erythrocyte sedimentation rate, GGT -  gamma-glutamyl transferase, HDL -  high-density 240 lipoprotein, HIV - Human Immunodeficiency Virus, HLA-B27-B51-DR4-DR8 Human leukocyte antigen -B27-B51-241 DR4-DR8, LDL -  low-density lipoprotein, MCH -  mean corpuscular haemoglobin, MCHC -  mean corpuscular 242 hemoglobin concentration, MCV -  mean corpuscular volume, us-CRP -  ultrasensitive c-reactive protein
+  243 These included biological assessment of organ function (liver, kidney, bone marrow) and of 245 inflammation state and safety, organized in 6 CRF and covering 91 parameters
+ Finally, the 246 last set of CRFs recorded Disease-specific monitoring data and was subdivided into 3 CRFs 247 (Figure 3D & Supplementary material) capturing 616 items, including disease activity scores 248 as described in Table 
+ This is thought to be as wide as possible in identifying clinical 249 parameters not usually collected in a particular disease including imaging and histology 250 features to allow the identification of disease profile, disease severity and features possibly 251 shared by diseases
+ Each clinician of the CEC identified a collection of features observed in 252 his/her specialty as classic or rare parameters
+ The CMT gathered all the parameters from 253 the different specialties and listed them in the clinical status and clinical evaluation CRFs
+ 254 Altogether, we selected 865 parameters to describe each patient regardless of the disease
+ 255 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted July 5, 
+ ;    Because of the heterogeneity of the selected parameters, clinical coding was designed as an 258 unambiguous format based on CDASH standards with maximized use of a predefined list of 259 responses, and was developed as a pragmatic, clinically-validated medical terminology with 260 an emphasis on ease-of-use data entry, retrieval and data analysis
+ We therefore defined 261 and validated for each parameter, wherever possible, the data-type (numerical, text, date, 262 predefined lists of options, value ranges) and units (when applicable) for all the parameters 263 identified in order to harmonize the information regardless of the collection time and 264 person and to avoid errors due to mistyping
+ Examples are Yes/No check boxes for clinical 265 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted July 5, 
+ ;    investigation, numerical values with a list of relevant units according to the parameter, 266 disease scores as a result of the automated sum of several scores, treatment description 267 including the coding of possible formulas, doses and dosage regimens (Table )
+ We then 268 coded all the possible/expected values that each item could take and identified 1 to 8 269 possible variables per item coded as one of the value type
+ This work was especially critical 270 for the description of patient treatments
+ The list of all possible treatments regimen within 271 each specialty was fully generated with clinicians and is available in the database as a menu 272 list of 637 variables
+ Altogether, we built a database with 3815 uniquely coded variables
+ 273 However, since clinical status and evaluation of several diseases share identical CRFs, we 274 reached 5835 possible variables per patient
+ Altogether, we designed a collection of 21 275 CDASH harmonized CRFs recording 865 parameters with 5835 coded variables systemically 276 for all the patients and healthy donors included in the TRANSIMMUNOM trial 277 For 5 exemplary eCRF, a coded question and expected coded answer are described with the type of values to 279 Clinical data management is of utmost importance for any clinical study
+ This includes 282 clinical information collection, validation and storage, usually completed through the use of 283 CRFs
+ While generally clinical research organizations (CROs) propose and use eCRFs, most 284 academic sponsored clinical studies still take advantage of the cost-benefit of paper versions 285 although convenient, lack validation and data traceability
+ In addition, they do not usually 287 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted July 5, 
+ ;    use harmonized vocabulary and allow free text data entry
+ These drawbacks were 288 particularly counterproductive in our multi-disease clinical trial from several points of view
+ 289 First, the main goal of our trial is cross-analysis of multi-omics data obtained with clinical 290 and lab biology data from 1,000 patients selected for one out of 24 AIDs or control diseases
+ 291 Therefore, we needed an efficient and homogenized set of clinical and routine biology lab 292 for all the patients, which led to the selection of 865 parameters and to the coding of more 293 than 5000 values
+ This vast amount of data would have been unmanageable using classic 294 paper CRFs and spreadsheets
+ Second, the amount of information to be collected requires a 295 thorough validation with automated rules and limited free text data entry to avoid 296 mistyping and errors
+ Again, this cannot be handled using classic methods
+ Third, for cross-297 analysis, we need to be able to extract clinical and routine biology data efficiently so that we 298 can filter for parameters as variables of interest (such as gender, BMI, disease activity, 299 autoantibody level)
+ Again, considering the number of patients to be recruited in the 300 TRANSIMMUNOM trial, this would have been impossible
+ And finally, as regards the disease 301 heterogeneity, it would have been too expensive and complicated to ask an eCRF provider 302 to design such integrated CRFs
+ For all these reasons, we decided to take advantage of an 303 open-source EDC, Open-Clinica, for the implementation of our eCRFs
+ Although we 304 anticipated that the design and computer-based requirements would be time-consuming, 305 we found in this tool a number of advantages that allow (i) the integration of a very 306 significant amount of multi-parametric data, (ii) the possibility to design constraints rules 307 between entries to control data entry errors, associated with red flags in the  case of errors 308 (for instance a man cannot be pregnant), (iii) the validation of the data entry by a third 309 person who double-checks (the latter advantages being CFR 21 - part 11 compliant) and (iv) 310 the addition of short instructions on the CRF page when needed to guide the data entry and 311 explain to the investigator how to fill in the eCRFs
+ 312 Altogether, this choice allowed the design of a controlled series of CRFs using harmonized 313 vocabulary to record data across 19 AID patients, 5 control disease patients and healthy 314 donors
+ This was made possible by the workflow we dedicated to the project, going from 315 the selection of parameters to be collected for all patients regardless of the disease to the 316 coding of all possible values per parameter in a harmonized manner based on CDASH 317 coding
+ 26 persons were involved in the process, including 14 clinicians, 1 computer 318 scientist, 7 scientists, 3 clinical research technician and assistant as well as 2 medical 319 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted July 5, 
+ ;    biologists for more than 100 hours of meetings and discussion over a year and a half
+ Clinical 320 data coding has the enormous advantages that it (i) pools reported terms in medically 321 meaningful groups, (ii) facilitates identification of common data sets for evaluation of 322 clinical information, (iii) supports consistent retrieval of specific cases or medical conditions 323 from a clinical database and (iv) smooths electronic data interchange of clinical safety 324 Finally, our CRFs covers a wide spectrum of clinical and routine biology data of interest for 326 most AIDs, offering the community a pre-designed set of CRFs that can be used together or 327 individually
+ Although clinical safety was not added to our set of CRFs, because of the non-328 interventional nature of the TRANSIMMUNOM trial, this could easily be done if needed
+ This 329 complex set of data has been harmonized and the database designed to store and query 330 efficiently the massive amount of data stored
+ Altogether, a truly multidisciplinary 331 endeavour led to the design and implementation a collection of 21 CRFs capturing more 332 than 5000 coded values that are now used in TRANSIMMUNOM and could benefit the 333 Acknowledgments: We are grateful to Frdric Mariotti as an informatic subcontractor for 335 helping in the implementation and maintenance of the OpenClinica instance and to the 336 OpenClinica community, in particular Gerben Rienk Visser from Trial Data Solution for 337 Funding: The work of RL, ID, CR, SH, CA, DK, EMF is funded by the LabEx Transimmunom 339 (ANR-11-IDEX-0004-02) as well as by Assistance Publique-Hpitaux de Paris and Sorbonne 340 Author contributions: RL, ID, CR, CA, AS, DK and EMF composed the Cohort Management 342 Team (CMT) for the design and implementation of the eCRF
+ RL, ED, PC, AH, BB, DS, FB, GG, 343 PR, OB, KM, JS, PS, MR, CB formed the Clinical Expert Consortium (CEC) and defined the 344 selected clinical and biological data
+ RL and CR wrote the CRF in agreement with the CMT 345 recommendations
+ ID performed the computer science part of the work
+ CM, SH, TO worked 346 on the eCRF validation
+ EMF coordinated the design and implementation
+ EMF and RL wrote 347 the manuscript with input from all authors
+ EMF and DK conceived and supervised the 348 Competing interests: Authors have no competing interests to declare
+  350 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted July 5, 
+ ;    Figure 1: TRANSIMMUNOM selected AIDs and control diseases share immune markers and 353 This table shows the list of AIDs selected for the TRANSIMMUNOM trial, belonging to the AID continuum and 355 their association with cytokines modulation (red) as well as immunotherapies targeting immune markers 356 (grey)
+ Abbreviation legend: Diseases: APLS  anti-phospholipid syndrome, CAPS cryopyrin associated periodic 357 syndromes, FMF familial mediterranean fever, IBD - inflammatory bowel disease, MD muscular dystrophy, OA 358 osteoarthritis, RA rheumatoid arthritis, SLE systemic erythematosus lupus, SpA spondyloarthritis, T1D type 1 359 diabetes, TRAPS tumor necrosis factor receptor-associated periodic syndrome
+  Cytokines : IFN  interferon,  IL-1 360 interleukin-1, IL-6 interleukin-6, IL-12 interleukin-12, IL-17 interleukin-17, IL-23 interleukin-23, TNF- tumor 361 necrosis factor alpha
+ Immunotherapies: AntiBLyS anti-BLyS monoclonal antibody, AntiCD20 anti-CD20 362 monoclonal antibody,  AntiIL-23 anti-interleukin-23 monoclonal antibody, Anti-TNF  tumor necrosis factor 365 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted July 5, 
+ ;    The figure represents the 3-steps workflow adopted for the eCRF design and implementation: (1) Protocol 370 design, (2) eCRF design and (3) eCRF validation
+ In each box are listed the actions, its aim and the person in 371 charge of it
+ Color code: Blue: clinical team, purple: biological team, green: computer scientist, and orange: the 372 trial monitor team and brown the Core management team (see methods for description)
+  373 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted July 5, 
+ ;    Four categories of eCRFs were designed (A-D)
+ Each category is composed of several eCRFs (form icon), each of 377 which contained the indicated number of items for which 1 to 8 variables were coded
+ The type of values are 378 indicated in the square boxes (see legend), so as to check-box, free text field, drop-down list, free numerical 379 field, automatic calculation and calendar/date field
+ Altogether, 865 items were coded resulting in 5835 380 variables organized in 21 eCRFs
+ See Supplementary material for details on eCRF 381 
+ Getts DR et al Immunol
+ Rev
+ 255, 197209 ()
+ 383 
+ Allenbach Y et al Am J Pathol 174, 
+ ()
+ 385 
+ Allenbach Y et al PLoS One 9, e88788 ()
+ 386 
+ Rosenzwajg M et al Curr
+ Diab
+ Rep
+ 14, 553 ()
+ 388 
+ McGonagle D et al PLoS Med
+ 3,  ()
+ 389 
+ Magyari L et al World J
+ Orthop
+ 5, 516536 ()
+ 390 
+ Moran EM et al Clin
+ Exp
+ Immunol
+ 178, 405415 ()
+ 391 
+ Germain RN et al Annu
+ Rev
+ Immunol
+ 29, 527585 ()
+ 392 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted July 5, 
+ ;    
+ Pepperkok R et al Genome Biol
+ 9, 314 ()
+ 393 
+ Bielekova B et al Front
+ Neurol
+ 5,  ()
+ 394 
+ Chaussabel D et al Nat
+ Rev
+ Immunol
+ 14, 271280 ()
+ 395 
+ Saadoun D et al N
+ Engl
+ J
+ Med
+ 365, 20672077 ()
+ 397 
+ Terrier B et al Arthritis Rheum
+ 64, 20012011 ()
+ 398 
+ Nehar-Belaid D et al J
+ Immunol
+ 196, 678690 ()
+ 400 
+ Querec TD et al Nat
+ Immunol
+ 10, 116125 ()
+ 401 
+ Franklin JD et al J
+ Biomed
+ Inform
+ 44, S103S108 ()
+ 402 
+ Leroux H et al Stud
+ Health Technol
+ Inform
+ 168, 8995 ()
+ 403 
+ Livneh A et al Arthritis Rheum
+ 40, 18791885 ()
+ 405 
+ Piram M et al Ann
+ Rheum
+ Dis
+ 73, 21682173 ()
+ 406 
+ Lewis JD et al Inflamm
+ Bowel Dis
+ 14, 16601666 ()
+ 407 
+ Harvey RF et al Lancet Lond
+ Engl
+ 1, 514 ()
+ 408 
+ Rudwaleit M et al Ann
+ Rheum
+ Dis
+ 68, 777783 ()
+ 409 
+ van der Linden S et al Arthritis Rheum
+ 27, 361368 ()
+ 410 
+ Garrett S et al J
+ Rheumatol
+ 21, 22862291 ()
+ 411 
+ International Team for the Revision of the International Criteria for Behets Disease 412 (ITR-ICBD) J
+ Eur
+ Acad
+ Dermatol
+ Venereol
+ JEADV 28, 338347 ()
+ 413 
+ Masi AT et al Arthritis Rheum
+ 33, 10941100 ()
+ 414 
+ Quartuccio L et al Rheumatol
+ Oxf
+ Engl
+ 53, 22092213 ()
+ 415 
+ Leavitt RY et al Arthritis Rheum
+ 33, 11011107 ()
+ 416 
+ Arend WP et al Arthritis Rheum
+ 33, 11291134 ()
+ 417 
+ Stone JH et al Arthritis Rheum
+ 44, 912920 ()
+ 418 
+ Kerr GS et al Ann
+ Intern
+ Med
+ 120, 919929 ()
+ 419 
+ Aletaha D et al Arthritis Rheum
+ 62, 25692581 ()
+ 420 
+ Kellgren JH et al Ann
+ Rheum
+ Dis
+ 16, 494502 ()
+ 421 
+ van der Heijde DM et al Ann
+ Rheum
+ Dis
+ 49, 916920 ()
+ 422 
+ American Diabetes Association Diabetes Care 35 Suppl 1, S11-63 ()
+ 423 
+ Mortensen HB et al Diabetes Care 32, 13841390 ()
+ 424 
+ Petri M Rheum
+ Dis
+ Clin
+ North Am
+ 31, 245254, vi ()
+ 425 
+ Bombardier C et al Arthritis Rheum
+ 35, 630640 ()
+ 428 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted July 5, 
+ ;    

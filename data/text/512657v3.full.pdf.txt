@@ -1,0 +1,614 @@
+Human extinction learning is accelerated by an angiotensin antagonist via ventromedial prefrontal cortex and its connections with basolateral amygdalaClinical Hospital of Chengdu Brain Science Institute, MOE Key Laboratory for Autism Clinic for Translational Research, Brain and Mind Centre, Central Clinical Youth Mental Health Unit, Brain and Mind Centre, Central Clinical School, Faculty of not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    coupled with impaired neuroplasticity in patients strongly impede the efficacy of renin-angiotensin (RA) system in both these processes
+ However, the efficacy of pharmacological modulation of the RA system to enhance threat extinction in humans pre-extinction administration of the angiotensin II type 1 receptor antagonist losartan On the neural level the acceleration of extinction was accompanied by threat-signal analysis further revealed that that losartan reduced the neural threat expression, particularly in the vmPFC, and confirmed that acceleration of extinction critically provide the first evidence for a pivotal role of the RA system in extinction learning in humans and suggest that adjunct losartan administration can be leveraged to facilitate not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    Extinction learning refers to the attenuation of a previously learned defensive response when the threat predictive stimulus is repeatedly encountered in the absence disorders and are considered an efficient therapy in these illnesses []
+ A significant number of patients however does not adequately respond to exposure therapy [2] and lack of therapeutic efficacy []
+ Anxiety-related disorders are highly prevalent and associated with significant psychosocial impairments and societal costs []
+ As such, innovative strategies to improve the efficacy or shorten the duration of exposure role of the infra-limbic cortex (IL), which is homologous to the human ventromedial prefrontal cortex, vmPFC, and its interactions with the amygdala in extinction not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    learning [-]
+ The vmPFC is critically engaged in the reduction of threat expression during extinction [3, 9, 13] and governs the amygdala inhibition of conditioned threat primarily known for its role as a blood pressure and renal absorption regulator,  represents a promising target to facilitate extinction []
+ Central angiotensin receptors are densely expressed in limbic and prefrontal brain regions and are critical to changes in neuroplasticity and extinction [-]
+ Initial studies in rodents have facilitating extinction using the selective competitive angiotensin II type 1 antagonist losartan (LT) [19, ]
+ LT is an approved treatment for high blood pressure with an RA system can facilitate extinction in humans
+ To uncover the underlying neural not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    goal was to determine the potential of LT (50mg, single-dose, p
+ o
+) as a therapeutic candidate for the clinical augmentation of extinction learning
+ Based on previous translational research we expected that LT would (1) accelerate attenuation of the mediated by two neural processes: (2) increased activation in the vmPFC and attenuation of its threat expression in the context of (3) stronger functional interaction experiment [for similar approach see ref
+ ]
+ Due to technical issues (SCR recording failure n = 3) or absence of threat acquisition (n = 8) data from 11 subjects were excluded leading to n = 30 LT- and n = 29 PLC-treated subjects for the evaluation of the primary study hypotheses
+ For exclusion criteria and a description of the study sample The experiment consisted of three sequential stages: (1) acquisition, (2) treatment not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    administered either a single 50mg (p
+ o
+) dose of the selective, competitive angiotensin II type 1 receptor antagonist losartan (LT, Cozaar; Merck, USA) or placebo (PLC), packed in identical capsules
+ Consistent with the pharmacodynamic profile of LT [27] effects of single-dose LT on cardiovascular activity or mood [18, 27, 28], these indices were monitored to primarily control for unspecific effects of treatment and not focused on behavior per se
+ The experimental time-line is provided in Fig
+ 1a (for the  The study was approved by the local institutional ethics committee and adhered to During the acquisition stage, participants were repeatedly presented with two different pseudo-randomly paired with a mild electric shock (US, 2ms) with 43% contingency, , 4s) was never paired with a US
+ Acquisition was followed by extinction, where the same cues were presented without US (Supplementary methods)
+ To enhance threat memory acquisition as well as to increase the statistical power to determine treatment effects, both learning phases included two subsequent runs of the task [for a similar approach see ref
+ ])
+ Prior to each run, subjects were not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    informed that the experimental runs are independent and you may or may not receive the electric shock thus subjects were unable to predcit the presence or absence of the Skin conductance responses were computed as done in previous studies [9, -]
+ effects were determined employing a phase (early, late)  run (run1, run2)  treatment MRI data were acquired using a Siemens TRIO 3-Tesla system with a 12-channel head and late (second half) of extinction were defined (details see Supplementary Effects of LT on extinction were assessed using a whole-brain phase (early, late)  run (run1, run2)  treatment (LT, PLC) 3-way mixed ANOVA with the CSnot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    disentangled by two independent post hoc approaches to warrant both high threshold of P < 
+001 (two-tailed) and an extent threshold of P < 
+05 (two-tailed) Due to the critical role of the vmPFC in extinction [8, 34-37] and our a priori regional early extinction
+ To this end, activity estimates were extracted from an Following Reddan, et al [36], a neural pattern of threat was developed to differentiate not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    extinction activation to determine treatment effects on the neural threat expression inhibition of the amygdala as a key extinction mechanism [10-12, 34], a functional connectivity analysis [40] was employed to determine treatment effects on the not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    Consistent with previous studies [18, 27, 28], no effects of drug or placebo on cardiovascular and affective indices were observed, which together with the chance level guesses for treatment, argues against unspecific confounding effects of treatment exhibited successful threat acquisition on the psychophysiological (Figs
+ 1b,c) as well extinction learning as a dependent variable, demonstrated a significant main effect of compared to run1 and a marginally significant main effect of phase (F(1, 57) = 
+387, P learning
+ Moreover, a significant treatment  phase interaction effect (F(1, 57) = 
+017, P that relative to the PLC group, the LT group exhibited decreased psychophysiological threat responses during early extinction learning across both runs (t(57) = -
+179, P = 
+034, d = -
+567, d indicates effect size in terms of Cohens d, see insert Fig
+ in Fig
+ not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    confirmed that LT-treatment enhanced early extinction learning during both initial as well as repeated extinction learning (run1 t(57) = -
+805, P = 
+038, d = -
+470; run2 t(57) = -
+012, P = 
+024, d = -
+525; two-sample t-tests comparing the treatment groups, one-tailed, Fig
+ d)
+ No further significant main or interaction effects were observed on the psychophysiological threat responses (all Ps > 
+4) 
+ Nor were any effects of the threat-specific effects of LT and the absence of unspecific treatment effects on the Whole-brain analysis revealed a significant treatment  phase interaction effect on -12], F(1,57) = 
+582, PclusterFWE = 
+011, k = 187) (Fig
+ a)
+ Regional-specificity of demonstrating increased vmPFC activity following LT relative to PLC during early (peak MNIxyz = [6, 48, -3], t(57) = 
+505, PclusterFWE = 
+013, two-tailed, k = 139), but not late extinction (Fig
+ b)
+ Results from the LOSO-CV procedure further demonstrated that LT - relative to PLC - increased vmPFC activation during early (t(57) = 
+417, P = 
+001, d = 
+890), but not late (t(57) = -
+556, P = 
+125, d = -
+405), extinction (Fig
+ 2c, not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    extraction of beta estimates, revealed significant main effects of stimulus type and run, as well as a significant treatment  stimulus type interaction effect (details see LT enhanced threat-specific vmPFC reactivity during both the initial (run1 t(57) = 
+141, P = 
+037, d = 
+557) and the repeated extinction (run2 t(57) = 
+126, P = 
+038, d = 
+554), in the absence of effects on the safety signal (CSConsistent with our hypothesis on accelerated extinction by LT, an exploratory increased vmPFC activation during initial trials of re-exposure to the threat stimulus (q psychophysiological threat reactivity (r(57) = 
+571, P < 
+001) and confirmed functional relevance of the neural expression of threat []
+ Second, relative to PLC, (t(57) = -
+091, P = 
+041, d = -
+544, two-sample t-test), confirming attenuated neural not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    threat expression during early extinction
+ Based on our a priori regional hypothesis, and the key role of the vmPFC in extinction [3, 8, 9, 13], a vmPFC-focused partial during early extinction (t(57) = -
+410, P = 
+001, d = -
+888) (see Supplementary basis
+ Conjunction effects (paths a, b and a  b) were observed in a vmPFC cluster (peak MNIxyz = [-3, 45, -15], Z = -
+692, q < 
+05, FDR-SVC corrected in the anatomical vmPFC, k = 138), demonstrating that LT increased vmPFC activation (path a), while activation in this region was associated with stronger suppression of psychophysiological threat independent of treatment (path b)
+ Importantly the a  b mediated the effects of LT on extinction acceleration (Fig
+ 4a, details see Supplementary Results)
+ To test the robustness and visualize the mediation effect, the critical contribution of the vmPFC (Fig
+ 4B; a  b effect, bootstrapped P value = not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    and the right amygdala (peak MNIxyz = [24, -3, -24], t(57) = 
+557, q < 
+05, one-tailed, FDR-SVC corrected in the amygdala, k = 
+ This was cytoarchitectonically [41] mapped to the basolateral amygdala BLA, Fig
+ a)
+ Subsequent examination of The present study demonstrated that LT treatment accelerated the attenuation of a activity and stronger functional coupling of the vmPFC with the BLA
+ These findings were further paralleled by a pattern classification approach showing that LT-treatment accelerated attenuation of the neural threat expression, particularly in the vmPFC
+ Overall, the present findings provide first evidence for an important contribution of the RA system to fear extinction in humans and the potential of LT to accelerate extinction through effects on the vmPFC and its inhibitory connections with the BLA
+  not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    in response to the threat signal [35, 37, ]
+ In the present study LT-treatment reduced found not only during the initial extinction learning (i
+ e
+, run1), but also in the following new learning process (for extinction run2, participants were told that the two extinction runs were independent, and thus they could not predict the absence of the US during the extinction run)
+ The findings resemble previously observed LT-enhanced extinction learning in rodents [19, 20] and further confirm the important effects of LT-treatment on vmPFC activation revealed that reactivity to the safety [43-45], whereas inactivation or lesion of this region critically impede threat reduction during extinction ([for reviews see refs
+ 8, ])
+ Compatible with the present findings, can enhance early extinction learning in humans [46], albeit unspecific effects on CSConverging evidence from different research focuses suggests that the vmPFC, or the homologous IL in rodents, critically contributes to the reduction of threat not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    expression during extinction learning [3, 8, 13, 34] and regulates amygdala output to inhibit the conditioned threat response [8, ]
+ Consonant with the proposed threat responses during early extinction were accompanied by an attenuated neural previous studies that showed critical contributions of the vmPFC to extinction enhancement [43-45] as well as associations between activity in this region and analysis was carried out
+ It revealed that higher vmPFC activation was associated with On the network level, LT-accelerated threat reduction during early extinction was demonstrated a critical role of the BLA in threat processing [49] and of the vmPFC in inhibiting amygdala threat responses by exerting top-down control over this region formation [10-12] and suggest that vmPFC inputs to the amygdala, instruct threat not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    memory formation and/or gate the expression of conditioned threat [10] during early modulatory role of angiotensin signaling on vmPFC regulation of the amygdala
+ Previously, animal models demonstrated that stimulation of vmPFC inputs to the amygdala promotes the formation of extinction memories []
+ We suggest the notion that enhanced transmission in this pathway may possibly reflect a core mechanism densely expressed in limbic and prefrontal regions critically engaged in extinction [16-18] and are considered to modulate learning-related neuroplasticity
+ LT is a selective competitive antagonist of the angiotensin II type 1 receptor but also increases availability of angiotensin II-converted angiotensin IV-an agonist at the AT4 receptor subtype
+ The AT4 system is thought to play a role in neuroplasticity and learning and memory [16, 17, 28, 51], a mechanism that is suggested to likely contribute to Consistent with previous animal models demonstrating the potential of LT to enhance extinction in rodents [19, 20], the present study successfully demonstrated the potential of a single, low-dose administration of LT to facilitate extinction learning in humans
+ In the context of recent findings suggesting a direct association current results indicate that LT represents a highly promising candidate to augment the efficacy of exposure-based interventions in therapeutic settings
+ On the neural not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    level the effects of LT were mediated by circuits consistently involved in anxiety with decreased vmPFC activation and dysfunction in the vmPFC-BLA circuit [6, 8, 11, ]
+ Importantly, dysregulations in this circuitry normalize during the course of elements rather than stable - markers and consequently promising targets for that LT improves threat discrimination in high anxious individuals [18] and together with LTs excellent safety record in clinical applications [22], the currently observed make this drug an attractive candidate for augmenting the effects of exposure therapy
+   However, despite these initial promising results subsequent studies need to (1) examine effects of LT on subsequent extinction consolidation and recall in humans [as previously demonstrated in rodents 19], (2) determine the generalization of the effects to female subjects and, finally, (3) evaluate its potential to enhance Overall, the present results indicate an important regulatory role of the RA system in fear extinction learning in humans that are mediated by modulatory effects on vmPFC threat processing and its interaction with the amygdala
+ From a clinical perspective adjunct LT-treatment may represent an innovative strategy to enhance the not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    We would like to thank Marianne Cumella Reddan for assistance with the threat expression analysis
+ This work was supported by grants from National Natural Science F
+ Z
+ and B
+ B
+ designed the study, analyzed the data and wrote the manuscript
+ F
+ Z
+, Y
+ G
+, F
+ X
+, J
+ L
+, P
+ F
+, C
+L, and W
+ Z
+ conducted the experiment
+ P
+ F
+, T
+ F
+, A
+ G
+, R
+ E
+ not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    
+ Taylor S, Thordarson DS, Maxfield L, Fedoroff IC, Lovell K, Ogrodniczuk J
+ 
+ Loerinc AG, Meuret AE, Twohig MP, Rosenfield D, Bluett EJ, Craske MG
+ Response rates for CBT for anxiety disorders: Need for standardized criteria
+ 
+ Quirk GJ, Mueller D
+ Neural mechanisms of extinction learning and retrieval 
+ Kessler RC, Berglund P, Demler O, Jin R, Merikangas KR, Walters EE
+ 
+ Morrison FG, Ressler KJ
+ From the neurobiology of extinction to improved 
+ Milad MR, Quirk GJ
+ Fear extinction as a model for translational neuroscience: ten years of progress
+ Annual review of psychology 2012; 63: -
+ 
+ Milad MR, Quirk GJ
+ Neurons in medial prefrontal cortex signal memory for 
+ Giustino TF, Maren S
+ The role of the medial prefrontal cortex in the 
+ Schiller D, Monfils M-H, Raio CM, Johnson DC, LeDoux JE, Phelps EA
+ 
+ Bukalo O, Pinard CR, Silverstein S, Brehm C, Hartley ND, Whittle N et al not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    
+ Dejean C, Courtin J, Rozeske RR, Bonnet MC, Dousset V, Michelet T et al 
+ Delgado MR, Beer JS, Fellows LK, Huettel SA, Platt ML, Quirk GJ et al 
+ Sotres-Bayon F, Cain CK, LeDoux JE
+ Brain mechanisms of fear extinction: 
+ Fragale JE, Khariv V, Gregor DM, Smith IM, Jiao X, Elkabes S et al 
+ Sylvester C, Corbetta M, Raichle M, Rodebaugh T, Schlaggar B, Sheline Y et al 
+ Chai SY, Bastias MA, Clune EF, Matsacos DJ, Mustafa T, Lee JH et al Distribution of angiotensin IV binding sites (AT4 receptor) in the human forebrain, midbrain and pons as visualised by in vitro receptor autoradiography
+ 
+ Wright JW, Harding JW
+ The brain reninangiotensin system: a diversity of 
+ Reinecke A, Browning M, Breteler JK, Kappelmann N, Ressler KJ, Harmer CJ et al Angiotensin regulation of amygdala response to threat in high-trait 
+ Marvar PJ, Goodman J, Fuchs S, Choi DC, Banerjee S, Ressler KJ
+ Angiotensin type 1 receptor inhibition enhances the extinction of fear memory
+ Biological 
+ do Nascimento Lazaroni TL, Bastos CP, Moraes MFD, Santos RS, Pereira GS
+ not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    
+ Khoury NM, Marvar PJ, Gillespie CF, Wingo A, Schwartz A, Bradley B et al 
+ Goldberg AI, Dunlay MC, Sweet CS
+ Safety and tolerability of losartan 
+ Garcia NM, Walker RS, Zoellner LA
+ Estrogen, progesterone, and the menstrual cycle: A systematic review of fear learning, intrusive memories, and 
+ Hwang MJ, Zsido RG, Song H, Pace-Schott EF, Miller KK, Lebron-Milad K et 
+ Zeidan MA, Igoe SA, Linnman C, Vitalo A, Levine JB, Klibanski A et al 
+ Eckstein M, Becker B, Scheele D, Scholz C, Preckel K, Schlaepfer TE et al 
+ Ohtawa M, Takayama F, Saitoh K, Yoshinaga T, Nakashima M
+ 
+ Mechaeil R, Gard P, Jackson A, Rusted J
+ Cognitive enhancement following 
+ Feng P, Becker B, Feng T, Zheng Y
+ Alter spontaneous activity in amygdala not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    
+ Koizumi A, Amano K, Cortese A, Shibata K, Yoshida W, Seymour B et al Fear 
+ Taschereau-Dumouchel V, Cortese A, Chiba T, Knotts J, Kawato M, Lau H
+ 
+ Marstaller L, Burianov H, Reutens DC
+ Adaptive contextualization: a new role for the default mode network in affective learning
+ Human brain mapping 2017; reversal and regulation of fear
+ Trends in cognitive sciences 2010; 14(6): 
+ Schiller D, Kanen JW, LeDoux JE, Monfils M-H, Phelps EA
+ Extinction during 
+ Reddan MC, Wager TD, Schiller D
+ Attenuating Neural Threat Expression with 
+ Milad MR, Wright CI, Orr SP, Pitman RK, Quirk GJ, Rauch SL
+ Recall of fear 
+ Wager TD, Davidson ML, Hughes BL, Lindquist MA, Ochsner KN
+ 
+ Wager TD, van Ast VA, Hughes BL, Davidson ML, Lindquist MA, Ochsner KN
+ Brain mediators of cardiovascular responses to social threat, part II: 
+ McLaren DG, Ries ML, Xu G, Johnson SC
+ A generalized form of not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    
+ Eickhoff SB, Stephan KE, Mohlberg H, Grefkes C, Fink GR, Amunts K et al A 
+ Phelps EA, Delgado MR, Nearing KI, LeDoux JE
+ Extinction learning in humans: role of the amygdala and vmPFC
+ Neuron 2004; 43(6): -
+ 
+ Orsini CA, Maren S
+ Neural and cellular mechanisms of fear and extinction Quirk GJ
+ Revisiting the role of infralimbic cortex in fear extinction with 
+ Guhn A, Dresler T, Andreatta M, Mller LD, Hahn T, Tupak SV et al Medial 
+ Dittert N, Huettner S, Polak T, Herrmann MJH
+ Augmentation of fear 
+ Becker B, Mihov Y, Scheele D, Kendrick KM, Feinstein JS, Matusch A et al Fear processing and social networking in the absence of a functional amygdala
+ 
+ Motzkin JC, Philippi CL, Wolf RC, Baskaya MK, Koenigs M
+ Ventromedial prefrontal cortex is critical for the regulation of amygdala activity in humans
+ 
+ Braszko JJ, Walesiuk A, Wielgat P
+ Cognitive effects attributed to angiotensin II may result from its conversion to angiotensin IV
+ Journal of the not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    
+ Ball TM, Knapp SE, Paulus MP, Stein MB
+ Brain activation during fear 
+ Milad MR, Rosenbaum BL, Simon NM
+ Neuroscience of fear extinction: not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    responses
+ (a) Experimental timeline and schematic synopsis of fMRI tasks
+ (b) not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    P < 
+05, one-tailed; *P < 
+05, two-tailed, error bars represent standard errors
+ The filled curve indicates the null-hypothesis distribution of the difference of means () and the 95% confidence interval of  is illustrated by the black line
+ not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    learning
+ (a) vmPFC activity showed significant treatment by phase interaction effect
+ (b) Losartan specifically increased vmPFC activity during early extinction learning
+ (c) not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    that losartan increased vmPFC activity during early, but not late, extinction learning
+ (d) Overlay of all 59 leave-one-subject-out (LOSO) cross-validation (CV) ROIs
+ All ROIs were created leaving out one subject at the group-level statistic (cluster-level family-wise error (FWE)-corrected )
+ Statistical images were thresholded at P < 
+05 
+001 (two-tailed)
+ Examples of unthresholded patterns are presented in the insets; significance at PclusterFWE < 
+ 
+ n
+ s
+ represents not significant; *P < 
+ 
+ The filled curve indicates the null-hypothesis distribution of the difference of means () and the 95% confidence interval of  is illustrated by the black line
+ vmPFC, ventromedial not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    , in the early extinction phase in both runs
+ n
+ s
+ represents not significant; *P < 
+05; and ***P < 
+001, error bars represent standard errors
+ (b) Single trial analysis confirmed that losartan increased vmPFC activity to CStrials during extinction learning
+ *q < 
+05, FDR corrected
+ Data are represented as group mean  SEM
+ (c) vmPFC ROI
+ vmPFC, ventromedial prefrontal cortex
+ not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    response to the losartan treatment in yellow (path a), regions whose activity controlling for the treatment effect in green (path b), and regions whose activity showed significant mediation (a  b) effect in blue
+ All images were thresholded at q < 
+05, FDR corrected within the vmPFC mask
+ (b) Mediation path diagram with the brain activity in the vmPFC ROI
+ (c) Examples of each path in the mediation path diagram
+ *P < 
+05; **P < 
+01; ***P < 
+ 
+ The filled curve indicates the null-hypothesis distribution of the difference of means () and the 95% confidence interval of  is illustrated by the black line
+ vmPFC, ventromedial prefrontal cortex
+ not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    and BLA
+ The image was thresholded at q < 
+05, FDR corrected within the amygdala mask
+ (b) Extracted gPPI parametric estimates in the bilateral BLA showed that during fear-associated stimulus presentation
+ n
+ s
+ represents not significant; *P < 
+ 
+ The filled curve indicates the null-hypothesis distribution of the difference of means () and the 95% confidence interval of  is illustrated by the black line
+ vmPFC, not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    Zhou et al, Human extinction learning is accelerated by an angiotensin antagonist not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    We recruited 70 healthy male university students in the present study
+ Exclusion criteria included color blindness; systolic/diastolic blood pressure > 130/90 mmHg or < substance or medication use; current or history of medical or psychiatric disorders; any line with previous studies targeting extinction processes [1] n = 8 participants (LT group, n = 3) who failed to acquire a conditioned threat response (average CS SCR during acquisition) were excluded
+ Three additional participants (LT group, n = 2) were excluded due to incomplete SCR data (technical issues)
+ During acquisition of the primary neural outcome assessment (extinction) no subjects showed excessive head motion (> 3 mm translation or 3 rotation) leading to a final sample of n = 30 LT- and n = 29 PLC-treated subjects for the evaluation of the primary hypotheses of the present study
+ One participant (LT) was excluded from the fMRI analyses of the acquisition phase due to excessive head motion during acquisition
+ The sample size is potential of pharmacological agents (n = 31 per group [2]) and previous studies examining the effects of LT on memory (n = 15 per group [3]) and fear-associated brain activity (n = 15 per group [4], see also sample size and power calculation in not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    Losartan crosses the blood-brain barrier [5, 6], and following oral administration peak plasma levels are reached after 90 minutes [7, ]
+ Whereas effects on cardiovascular indices only become apparent after 3 hours, effects at central receptors following intravenous administration have been observed after 30 minutes []
+ In line with the pharmacodynamic profile of LT [7, 9] and previous studies examining the cognitive enhancing properties of LT in healthy subjects [3] the experimental paradigm a lack of effects of single-dose LT administration on cardiovascular activity 3h after treatment [7], blood pressure and heart rate were assessed before drug administration, as well as before and after the extinction paradigm to further control for potential confounding effects of LT on cardiovascular activity (Fig
+ )
+ Throughout the Positive and Negative Affective Scale (PANAS) before drug administration and after the extinction paradigm [10, 11]) were acquired to control for unspecific emotional , 4s) coincided with a mild electric shock (US, 2ms) to the right wrist with 43% contingency, whereas the other differentially colored square , 4s) was never paired with the US
+ Acquisition included two runs and each run not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    Schiller, et al [12] first trial during acquisition was a reinforced one and we included served as low level baseline
+ Before the experiment participants were instructed to pay attention to the stimuli and find out the relationship between the stimuli and the shocks
+ The extinction procedure consisted 2 runs with each run encompassing 10 CSand the range of ISI were identical to the acquisition phase
+ No trial-type was repeated more than two times in a row during either acquisition or extinction
+ The stimulus maximize design efficiency
+ Two color sets were used and balanced across subjects to control for effects of the designated colors (color set A: red = CSA mild electric shock (2ms duration) generated by a Biopac stimulator module STM100C and a STIMSOC adapter (Biopac Systems, Inc
+) served as US
+ Shocks were not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    attached to the subjects right wrist
+ Immediately before the start of the experiment, shock intensity levels were adjusted on an individual level by delivering gradually increasing shocks until the shock reached the level that participants reported as highly uncomfortable, but not painful
+ SCRs were assessed at a sampling rate of 1kHz from attached to the first and second fingers of the left hand between the first and second phalanges via Biopac Module EDA100C-MRI module attached to a MP150 (Biopac The level of a skin conductance response per se was defined as the maximum of the low-pass filtered (
+1Hz) conductance signal during a time window beginning 1 second and ending 5 seconds after stimulus onset minus baseline (the mean conductance in the 2s immediately before the onset of the stimulus)
+ Responses below 
+02S were encoded as zero [-]
+ To account for individual variability, the raw SCR scores were square root transformed and range corrected by dividing each response by the mean square root transformed US response during initial acquisition[15, ]
+ Following previous procedures [13, 15, 16], we divided both CSof each run into early (first half) and late (last half) phases and the mean SCR for CS) was regarded as the psychophysiological threat response to the conditioned fear stimulus
+ To initially test whether the threat responses were equally acquired to the conditioned threat between LT and PLC groups, we performed two-sample t-tests on not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    the mean psychophysiological threat responses during acquisition
+ Note that we only were excluded from SCR analyses
+ To initially examine whether LT had unspecific effects on the SCR signal two-sample t-tests on the mean SCR for CSextinction were conducted
+ To test whether LT had an effect on extinction learning, a 2  2  2 mixed-design analysis of variance (mixed ANOVA) model with the within-subject factors phase (early, late) and run (run1, run2), the between-subject variable treatment (LT, PLC) and the mean differential SCR during extinction as dependent variable was performed
+ All statistical analyses were performed in SPSS Significant main or interaction effects were further disentangled using appropriate post Functional MRI data was acquired using a T2*-weighted echo-planar imaging (EPI) pulse sequence (33 transverse slices, repetition time = 2s, echo time = 30ms, slice thickness = 3mm, gap = 
+6mm, field of view = 200  200mm, resolution = 64  64, flip angle = 90, voxel size = 
+1  
+1  
+ mm)
+ To improve spatial normalization and sequence (176 sagittal slices, repetition time = 1900ms, echo time = 
+52ms, slice not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    thickness = 1mm, field of view = 256  256mm, acquisition matrix = 256  256, flip angle = 9, voxel size = 1  1  mm)
+ Functional MRI data was preprocessed using SPM
+ The first five volumes of each run were discarded to allow MRI T1 equilibration
+ The remaining volumes were spatially realigned to the first volume and unwarped to correct for nonlinear distortions possibly related to head motion or magnetic field inhomogeneity, co-registered to the structural image, normalized to the Montreal Neurological Institute (MNI) space using (interpolated to 3  3  3mm voxel size), and spatially smoothed using an 8-mm full-width at half maximum gaussian kernel
+ For the multivariate voxel pattern A two-level random effects general linear model (GLM) analysis was conducted on the fMRI signal for statistical analyses
+ For the threat acquisition phase, the first-level model included three boxcar regressors, one for each stimulus type: reinforced CS) were defined at 4 stages: early run1 (first half of run1), late run1 (second half of run1), early run2 (first half of run2) and late run2 (second half of run)
+ Each regressor was convolved with a canonical hemodynamic response function with its time derivative to reduce unexplained noise and better fit for the model
+ not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    The fixation cross epoch was used as an implicit baseline, and a high-pass filter of 128 seconds was applied to remove low frequency drifts
+ Other regressors of non-interest [17]), and indicator vectors for spikes in head movements identified based on obtained and then modeled at the second-level random effects analysis
+ For the participants, and (2) group differences on the contrasts of non-reinforced CSWe employed a LOSO-CV procedure [19] to examine the robustness of the LT effect
+ Briefly, for every participant the same group-level analyses were performed excluding the participants data and the resultant clusters showing the significant interaction effect were used to obtain subject-specific masks, thus the remaining subjects served as an independent localizer for the subject left out
+ Next, individual mean beta values were extracted from corresponding contrasts within the subject-specific mask for each that the data used to define the subject-specific masks were independent from the data not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    The anatomical vmPFC was created by combining the subcallosal cortex, frontal inferior to the genu of the corpus callosum and medial to x = 20 and x = -20 []
+ To independent of the neural activity patterns in the present study by centering a 9mm-radius sphere around the centroid coordinates (MNIxyz = [0, 34, -15]) of the anatomical-defined vmPFC mask
+ Note that we also thresholded the atlas at 0% probability and the resultant centroid coordinates were similar (MNIxyz = [0, 34, -16]) Based on our hypothesis that LT would accelerate extinction leaning trial-wise vmPFC with separate regressors for each trial was constructed with each aligned to either the sensitive to movement artifacts and noise that occur during one trial, we excluded trials with variance inflation factor > 4 or grand mean  estimate > 3 or < 3 standard deviation (SD) from the grand mean [21, ]
+ One subject (PLC) was excluded from the single trial analysis given the high number of excluded trials (n = 14) with > 3 SD from the mean
+ Number of excluded trials for the remaining subjects was small and did not significantly differ between the treatment groups (LT, mean  SD = 
+233  not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    
+942; PLC, mean  SD = 
+536  
+732, P = 
+ )
+ To compute the mean beta values in the vmPFC ROI for each threat stimulus, the mean beta values in the same for each run separately
+ Next the resultant beta values for each threat stimulus (across the two runs) were subjected to trial-specific two-sample t-tests
+ To control for the multiple comparisons, the P values were further false discovery rate (FDR) corrected
+ Due to limited reliability of the noisy single-trial SCRs (e
+ g
+, easily affected by stimulus unrelated movement and concurrent breathing) [23], we did not perform Following Reddan, et al [24], we used a linear support vector machine (C = 1) the Spider toolbox) to develop a multivariate pattern classifier for threat (CSTo avoid overfitting, the classification performance was evaluated by a LOSO-CV procedure
+ Next we used the pattern expression values, generated by taking the participant-specific brain activity maps, to evaluate effects of LT-treatment during the early extinction phase with a two-sample t-test
+ To avoid circularity, the pattern expression estimates for each individual were obtained from patterns trained on other not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    participants data
+ In line with a previous study [24] the pattern expression was variable (X) and a dependent variable (Y) could be explained by a third variable (M)
+ Significant mediation is obtained when inclusion of M in a path model of the effect of X on Y significantly alters the slope of the XY relationship
+ That is, the difference between total (path c) and direct (non-mediated, path c) effects of X on Y (i
+ e
+, c - c), which could be performed by testing the significance of the product of the path coefficients of path a  b, is statistically significant
+ We performed voxel-wise treatment effects on fMRI activation (path a) and fMRI correlates of psychophysiological threat responses controlled for treatment effect (path b), and the a  b mediation effect were explored on the voxel-level
+ Significance estimates were calculated at each voxel for each path as well as mediation effect through bootstrapping (10,000 replacements)
+ Based on our a priori regional hypothesis and the key role of the vmPFC in extinction [15, 25-27], bootstrapped two-tailed P-values for each vmPFC voxel were corrected for multiple testing (small volume correction, not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    In parallel to the voxel-wise mediation analysis, we employed an independent the treatment (X) induced acceleration of early extinction learning on the To examine the effects of LT on the functional interplay of regions involved in conducted
+ Similar to previous studies [see e
+ g
+ ref
+ 28], we used a group-constrained subject-specific approach to define individual volume of interest (VOI) seed regions extinction within the significant vmPFC cluster showing LT effects)
+ Four PLC any voxel within the cluster and so the VOIs were centered at the group-level A two-sample t-test was then conducted using FSLs Randomise Tool to examine extinction
+ Based on our a priori hypothesis the voxel-wise FDR correction was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    threat acquisition
+ On the neural level acquisition of threat was accompanied by  responses in the threat acquisition networks [see e
+ g
+ refs
+ 1, 29] A more detailed examination of the treatment effects by means of extraction of  the ROI additionally revealed significant main effects of stimulus type (F(1, 57) = 
+630, P in run2 in relative to run1), as well as a significant treatment  stimulus type extinction
+ Post hoc comparisons between the treatment groups demonstrated that the interaction effect during early extinction was driven by a LT-induced selective  (t(57) = 
+777, P = 
+007, d = 
+723), in the  (t(57) = -
+098, P = 
+277, d = -
+ )
+ Post hoc comparisons between the stimulus types showed that in the PLC group the BOLD not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    d = -
+ )
+ In contrast, LT-treated subjects exhibited a comparable vmPFC BOLD addition, in line with previous studies [30, 31] exploratory post-hoc paired sample t-tests showed conditioned threat responses with a decrease in BOLD signal for the CS in early extinction in PLC-treated subjects in both run1 (t(28) = -
+917, P < 
+001, d = -
+727) and run2 (t(28) = -
+829, P < 
+001, d = -
+897), reflecting To test whether LT-treatment reduces neural threat response during early extinction, a classification accuracy of 
+93% (P < 
+001) and sensitivity and specificity to threat were 
+862 (CI: 
+ -
+944) and 
+897 (CI: 
+ -
+967) respectively suggesting that samples) and corrected for multiple comparisons (q < 
+05, FDR corrected), the network including the vmPFC, insula, dorsal anterior cingulate cortex, thalamus and not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    in the present as well as previous studies [overview see ref
+ 29] (Supplementary Figs
+ Based on our a priori regional hypothesis and the key role of the vmPFC in the reduction of threat expression during extinction [15, 25-27] an additional analysis specifically focused on the effects of LT on the vmPFC partial threat expression
+ anatomical vmPFC mask and next applied to early extinction activation maps with the higher partial pattern expression chosen as the threat stimulus (i
+ e
+, a forced-choice test)
+ Results revealed that only the PLC group (accuracy = 
+66%, P < 
+001) but not the LT group (accuracy = 
+67%, P = 
+585) exhibited neural threat experience A key question is how LT-treatment leads to accelerated extinction learning as on previous studies indicating crucial contributions of the vmPFC to extinction and the psychophysiological threat responses (path c; t(57) = -
+179, P = 
+034) and enhanced vmPFC activation (path a; peak MNIxyz = [6, 36, -21], Z = 
+616, q < 
+05, SVC-FDR corrected in pre-defined vmPFC mask, k = 544, Figure 4A in yellow)
+ Furthermore, a not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    threat responses (path b; controlled for treatments, peak MNIxyz = [-6, 48, -15], Z = -
+882, q < 
+05, SVC-FDR corrected, k = 221, Figure 4A in green) as well as a significant negative mediation effect in the vmPFC (peak MNIxyz = [-3, 45, -18], Z = -
+795, q < 
+05, SVC-FDR corrected, k = 139, Figure 4A in blue) were observed
+ (path a) and fear expression (path b) as well as a mediation effect (peak MNIxyz = [-3, 45, -15], Z = -
+692, q < 
+05, SVC-FDR corrected, k = 138), suggesting that expression (path a, b = -
+007, Z = -
+41, P < 
+001) and that lower vmPFC neural as an adjustor (path b, b = 
+511, Z = 
+323, P < 
+ )
+ More important, a significant mediation effect was found (a  b, b = -
+066, Z = -
+715, P < 
+ )
+ In summary, these results suggested that LT enhanced early extinction learning through vmPFC not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    
+ Boeke EA, Moscarello JM, LeDoux JE, Phelps EA, Hartley CA
+ Active 
+ Eckstein M, Becker B, Scheele D, Scholz C, Preckel K, Schlaepfer TE et al 
+ Mechaeil R, Gard P, Jackson A, Rusted J
+ Cognitive enhancement following 
+ Reinecke A, Browning M, Breteler JK, Kappelmann N, Ressler KJ, Harmer CJ et al Angiotensin regulation of amygdala response to threat in high-trait 
+ Thne-Reineke C, Steckelings U, Unger T
+ Angiotensin receptor blockers and 
+ Culman J, von Heyer C, Piepenburg B, Rascher W, Unger T
+ Effects of 
+ Ohtawa M, Takayama F, Saitoh K, Yoshinaga T, Nakashima M
+ 
+ Lo M-W, Goldberg MR, McCrea JB, Lu H, Furtek CI, Bjornsson TD
+ 
+ Das A, Dhanure S, Savalia A, Nayak S, Tripathy S
+ Human bioequivalence 
+ Spielberger C, Gorsuch R, Lushene R, Vagg P, Jacobs G
+ Manual for the not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    
+ Watson D, Clark LA, Tellegen A
+ Development and validation of brief measures of positive and negative affect: the PANAS scales
+ Journal of 
+ Schiller D, Raio CM, Phelps EA
+ Extinction training during the reconsolidation 
+ Taschereau-Dumouchel V, Cortese A, Chiba T, Knotts J, Kawato M, Lau H
+ 
+ Marstaller L, Burianov H, Reutens DC
+ Adaptive contextualization: a new role for the default mode network in affective learning
+ Human brain mapping 2017; 
+ Schiller D, Monfils M-H, Raio CM, Johnson DC, LeDoux JE, Phelps EA
+ 
+ Koizumi A, Amano K, Cortese A, Shibata K, Yoshida W, Seymour B et al Fear 
+ Friston KJ, Williams S, Howard R, Frackowiak RS, Turner R
+ Movement
+ Power JD, Barnes KA, Snyder AZ, Schlaggar BL, Petersen SE
+ Spurious but 
+ Koenigs M, Grafman J
+ Posttraumatic stress disorder: the role of medial 
+ Atlas LY, Bolger N, Lindquist MA, Wager TD
+ Brain mediators of predictive not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    
+ Obrien RM
+ A caution regarding rules of thumb for variance inflation factors
+ 
+ Reddan MC, Wager TD, Schiller D
+ Attenuating Neural Threat Expression with 
+ Quirk GJ, Mueller D
+ Neural mechanisms of extinction learning and retrieval 
+ Sotres-Bayon F, Cain CK, LeDoux JE
+ Brain mechanisms of fear extinction: 
+ Giustino TF, Maren S
+ The role of the medial prefrontal cortex in the 
+ Nielsen JD, Madsen KH, Wang Z, Liu Z, Friston KJ, Zhou Y
+ Working memory 
+ Fullana M, Harrison B, Soriano-Mas C, Vervliet B, Cardoner N, vila-Parcet A et al Neural signatures of human fear conditioning: an updated and extended 
+ Phelps EA, Delgado MR, Nearing KI, LeDoux JE
+ Extinction learning in humans: role of the amygdala and vmPFC
+ Neuron 2004; 43(6): -
+ 
+ Schiller D, Kanen JW, LeDoux JE, Monfils M-H, Phelps EA
+ Extinction during 
+ Orsini CA, Maren S
+ Neural and cellular mechanisms of fear and extinction not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    Quirk GJ
+ Revisiting the role of infralimbic cortex in fear extinction with 
+ Ho J, Tumkaya T, Aryal S, Choi H, Claridge-Chang A
+ Moving beyond P not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    acquisition, across both experimental groups
+ Images displayed at P < 
+05, not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    threat acquisition
+ The map shows weights that exceed a threshold (q < 
+05, FDR corrected based on bootstrapped 10,000 samples) for display only
+ dACC, dorsal positive weights and cold color indicates negative weights
+ (b) ROC plot
+ The neural reduced the partial threat pattern expression of the vmPFC
+ **P < 
+ 
+ The filled curve indicates the null-hypothesis distribution of the difference of means () and the 95% confidence interval of  is illustrated by the black line
+ not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 12, 
+ ;    

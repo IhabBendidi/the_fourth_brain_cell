@@ -1,0 +1,317 @@
+Louise A Organ PhD1, Anne-Marie R Duggan MSc2, Eunice Oballa MSc2, Sarah C Taggart MSci2, Juliet K Simpson PhD2, Arthur R Kangombe MSc 2, Rebecca Braybrooke RGN1, Philip L Molyneaux MD PhD 3,4, Diana J Leeming PhD5, Morten A Karsdal PhD5, Carmel B Nanthakumar PhD2, William A Fahy MD2, Richard P Marshall MD PhD2, R Gisli Jenkins MD PhD*1, Toby M Maher MD PhD*3,4 
+ Fibrosis Research Group, National Heart and Lung Institute, Imperial College, E-mail: t
+ maher@imperialac
+uk  Tel: +44 207 351 8018 Fax: +44 207 351 8951 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    E-mail gisli
+ jenkins@nottingham
+ ac
+uk Tel: +44 115 823 1711 Fax +44 115 823 1946 This study demonstrates that synthesis neoepitopes for collagen type 3 and 6, but not the N-terminal pro-peptide of collagen type 1, distinguish individuals with IPF not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    (ECM) deposition and remodelling
+ Measuring this activity provides an opportunity to change in markers of ECM synthesis was assessed in 145 newly-diagnosed type 3 and 6), were elevated in IPF compared with controls at baseline, and PRO-C6 p=
+ )
+ Assessment of rate of change in neoepitope levels from baseline to 3 months (defined as slope to month 3: HIGH slope, slope > 0 vs
+ LOW slope, slope <=0) demonstrated no relationship with mortality for these markers (PRO-C3 (HR 
+62, p=
+080); PINP (HR 
+76, p=
+309); PRO-C6 (HR 
+14, p=
+ ))
+ As C3M, C6M and CRPM were associated with an increased risk of overall mortality (HR=
+84, CI 
+03  
+27, p=
+038, HR=
+44, CI 
+ 
+31, p=
+002; HR= 
+19, CI Elevated levels of PRO-C3 and PRO-C6 associate with IPF disease progression
+ clinical trials in IPF and may inform prognostic assessment and therapeutic decision not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    Idiopathic pulmonary fibrosis (IPF) is a fatal condition with a dismal untreated prognosis and despite the approval of two anti-fibrotic therapies remains a major clinical challenge
+ At present there are no available measures for stratifying individuals with IPF to specific therapies nor, importantly, to determine response to therapy
+ Furthermore, although forced vital capacity (FVC) is accepted as a measures to change in fibrosis necessitates studies with a minimum duration of 52 weeks []
+ Therefore, there is an urgent need to identify biomarkers for various aspects of disease behaviour in IPF; particularly those that detect individuals at greater risk of progression and which stratify individuals into better defined endotypes (as a path to enabling effective targeting of therapies to individuals most Excessive extracellular matrix (ECM) deposition is central to the pathogenesis of IPF
+ The production, deposition and remodelling of collagen, a major component of ECM, is a dynamic process []
+ In healthy lung, there is a balance between degradation and synthesis of collagen and other ECM proteins [2], which is disturbed in the lungs of individuals with fibrosis [-]
+ During collagen turnover, distinct peptides are generated as by-products of both collagen breakdown and synthesis
+ The pro-peptide of pro-collagen is cleaved before collagen is incorporated into the matrix
+ This results in the release of unique fragments for each individual cleavage neo-epitopes are released into the circulation and can be detected in the not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    (Prospective Observation of Fibrosis in the Lung Clinical Endpoints) study, that serum levels of neoepitopes are higher in individuals with IPF when compared with changes in serum concentrations of several neo-epitopes track with progression of fibrosis and, by three months, can predict mortality in individuals with IPF []
+ In the current study, we assessed collagen formation markers for their prognostic utility in IPF in a separate cohort of individuals recruited into the PROFILE study
+ We also observational cohort study that recruited individuals with IPF and fibrotic NSIP from two co-ordinating UK centres; Nottingham and Royal Brompton [7, ]
+ Participants were enrolled if they had an incident diagnosis confirmed at multidisciplinary individuals used in the current study represents a sub-group of 145 participants from PROFILE; none of whom were included in the previous PROFILE study on neo-epitopes [7] and all of whom had at least 1 year of follow up at the time neoepitope analyses were performed
+ A total of 50 physician-verified control participants without history of respiratory disease were recruited from primary care clinics
+ Samples from not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    20 of these subjects were used in our earlier study []
+ All participants provided written informed consent
+  The PROFILE study is registered on ClinicalTrials
+gov, Serum samples collected from study participants at baseline, 1, 3, and 6 months, and a single serum sample from controls were stored at 80 C until assayed
+ Study-specific operating procedures for collection of the serum were used to ensure free, serum separation tubes, with coated silica as the clot activator (Becton Dickenson, Winnersh, UK)
+ All samples were processed within 2h of collection
+ Samples were allowed to clot at RT for 30min and serum was then isolated through Serum samples from patients were analysed using competitive ELISAs for the formation markers of type 1 collagen (P1NP) [10], type 3 collagen (PRO-C3) [11] assessment of matrix metalloproteinase (MMP) degraded biglycan (BGM), - type 1 collagen (C1M) [13], -type 3 collagen (C3M) [14], -type 6 collagen (C6M) [15] and C-reactive protein -(CRPM) [16]; was undertaken as previously described []
+ A single aliquot for each subject at each time-point was used for all assays to avoid repeated freeze/thaw of samples
+ Samples were analysed blinded to the associated clinical not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    Lung function measurements for forced vital capacity (FVC) and diffusion capacity for carbon monoxide (DLCO) were performed on participants at baseline, 6 months are based on the European Coal and Steel Board reference equations using age and As previously described, progressive disease was defined as 10% decline in FVC and/or death within 12 months
+ Missing lung function data were not imputed
+ Where no lung function data beyond baseline was available and the subject had not died within the relevant period, progression status was adjudicated by the responsible physician, after case note review and blinded to biomarker data at the time of adjudication
+ A total of 9 subjects were adjudicated for progression: 1 of these subjects were adjudicated as progression and 8 were adjudicated as stable
+  In cases where biomarker data were below the lower limit of detection, values were imputed to be half the lower limit of detection
+ Values above the upper limit were conservatively imputed as the upper limit of detection
+ Imputation rates ranged between 
+9% to below 10% for all markers except C3M that had approximately 19% transformed where the biomarker is treated as response and log2 where the not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    A linear regression model adjusted for gender and age was used to evaluate the association between patient group (healthy controls and IPF subjects) and biomarker values at baseline
+ Adjusted estimates of group means, 95% CIs and p-values of the estimated mean difference are reported
+ For serial biomarker data, change from baseline for each participant is represented by a gradient on a linear model where the single explanatory variable is the number of months between the baseline visit and subsequent visits using the recorded visit date
+ We used a linear mixed-effects (progression vs stable), visit, visit by progression status (controls are not included in the model)
+ This analysis was adjusted for age, site, gender and smoking status
+ within a participant
+ Adjusted estimates of biomarker means (95% CIs) by progression status at each visit and p-values of the test of mean differences between progression vs
+ stable at each visit are reported
+ Apart from biomarker data above or below the limits of quantification, all other missing biomarker data was not imputed and was assumed Missing at Random (MAR) implying that after adjusting for important covariates in the model the missing data was independent of the observed Univariate analysis was conducted to examine the effect of baseline biomarker measures on overall survival Two separate procedures were used; the Kaplan-Meier method for survival curves and a proportional hazards model to derive Hazard A proportional hazards model was used to evaluate association between time to event (overall survival) as response and continuous biomarker value as a covariate
+ not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    Similarly, in a separate model, baseline % predicted FVC and separately % predicted DLco were included as covariates
+ A proportional hazards model was used to evaluate association between time to event (overall survival) as response and biomarker slope as a factor (defined as slope to month 3: HIGH (rising concentrations, slope > 0) versus LOW (stable or falling concentrations, slope <=)
+ Hazard ratios represent either risk of mortality for a 2-fold increase in the biomarker value or risk of mortality in participants with rising neoepitope concentrations relative significant at the 5% level
+ All statistical analyses were conducted with SAS (version 145 IPF participants recruited in the PROFILE study were assessed in the current analysis
+ As expected, participants were predominantly male (81%) with a mean age of 
+7 years (SD 
+7) and moderate lung function impairment; FVC 
+8 (SD 
+4) presented in Table 
+ The 50 control subjects were 80% male with a mean age of At baseline, levels of PRO-C3 and PRO-C6 but not P1NP, were significantly elevated in individuals with IPF compared with healthy controls (Figure )
+ To enable previously linked with disease progression and survival in the PROFILE study [7] not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    were measured
+ These included the three degradation neoepitopes which pair with the synthesis markers assessed; C1M (pairs with P1NP), C3M (PRO-C3) and C6M (PRO-C6) and two additional neoepitopes from our previous study, CRPM and BGM
+  In keeping with our previously presented data, C1M, C3M, C6M and CRPM neoepitopes were significantly elevated in the serum of subjects with IPF compared 73 subjects had progressive disease whilst 71 had stable disease
+ Levels of both PRO-C3 and PRO-C6 were higher in individuals with progressive disease compared with those with stable disease at baseline and they remained consistently and significantly higher in individuals with progressive disease at all visits (1,3 and 6 months) (Figure )
+ There were no significant differences between stable and Consistent with our previously reported findings, C1M, C3M, C6M and CRPM were also significantly higher in those with progressive disease compared with individuals with stable disease across all time-points (baseline, 1, 3 and 6 months) (see Figure significantly lower in participants with progressive disease from 1 month onwards participants with stable disease at each time point compared with progressive disease (Figure )
+ There were no significant differences between stable and progressive disease at any timepoint for the ratio of PRO-C6:C6M (Figure )
+ not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    In an unadjusted univariate analysis, baseline concentrations of PRO-C3 (H
+ R
+ 
+49 (
+ -
+13), p = 
+030) and P1NP:C1M ratio (H
+ R
+ 
+67 (
+ -
+85), p=
+001) were predictive of survival (Table )
+ As expected, % predicted FVC at baseline (H
+ R
+ 
+22 (
+ -
+39, p<
+0001) and % predicted DLco at baseline (H
+ R
+ 
+16 (
+ -
+30), None of the three synthesis markers were significantly associated with overall Figure )
+ By contrast, and in keeping with our previously published observations, individuals with rising levels of CRPM, C1M and C6M were at high risk of death compared with those with falling/stable levels (HIGH vs LOW) of CRPM (HR 
+13 [95% CI 
+21  
+75] p=
+009, C1M (HR 
+84 [CI 95% 
+03  
+27] P=
+038) and Figure )
+ In addition, we also found that rising levels of C3M were associated with higher risk of mortality; (HR 
+44 [CI 95% 
+39  
+31] p=
+002) whilst rising levels of the ratio of PRO-C6:C6M was associated with lower mortality (HR 
+55 [
+ -
+95], p=
+032), however, no relationship was observed with levels of P1NP:C1M or PRO-Remodelling of extracellular matrix is pivotal to the development and progression of IPF and results in distinct alterations in collagen turnover
+ In the current study, we measured synthesis markers of three collagens important in the development of IPF; namely collagen type-1 (P1NP), -3 (PRO-C3) and -6 (PRO-C6) [4, 18, ]
+ Given not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    that fibrogenesis in IPF likely reflects an imbalance between synthesis and degradation of collagen, we also measured paired markers of degradation for the same collagens: type-1 (C1M), -3 (C3M) and -6 (CM)
+ For comparison with our prior observations [7], we also measured degradation of the matrix molecule biglycan (BGM) and C reactive protein (CRPM)
+ Our data demonstrate that synthesis markers for type-3 (PRO-C3) and-6 (PRO-C6) collagen are elevated in subjects with IPF Collagen type-3, a fibrillar collagen, forms a major component of the lung interstitial extracellular matrix and is synthesised by activated fibroblasts []
+ Our findings support earlier studies demonstrating that synthesis of collagen type-3 is increased in IPF, with high levels of type-3 pro-collagen peptide reported in serum [18] and lavage fluid [21, ]
+ In the case of collagen type-3, the synthesis neoepitope, PRO-C3, appears to be a better biomarker of progressive disease than the paired degradation biomarker, CM
+ Interestingly, in subjects with more stable disease, the ratio of PRO-C3 to C3M is significantly lower; supporting the idea that synthesis, and increased turnover in general, may be reflective of active remodelling and disease Alongside collagen type-3, our data suggests that changes in collagen type-6 are also informative of disease behaviour in IPF and may be an important driver of fibrosis
+ Collagen type-6 filaments are an integral component found at the interface between the basement membrane and interstitial matrix of the lung, and act as an important network for attachment of basement membranes, collagen fibres and cells
+ Our results support the importance of this collagen in the development of fibrosis
+ not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    properties during wound healing and fibrogenesis and may drive poorer outcomes in fibrotic diseases []
+ Compared with other collagens, type-6 collagen has been shown to be a potent inducer of the differentiation and activation of fibroblasts to highly synthetic myofibroblasts; a key pathway leading to the production of collagen and ECM proteins []
+ In addition, increased levels of serum collagen type-6 markers have been demonstrated to act as an early predictor of fibrosis in the liver []
+  This evidence, coupled with data from the current study, suggest that collagen type-6 may in itself be a driver of the fibrotic process, which in turn serves as a Intriguingly, whilst increases in collagen type-1 production are associated with TGF- activation of IPF fibroblasts [25], and have been observed in IPF lung [26], we did not find elevated levels of collagen type 1 synthesis neoeptiopes in the serum of IPF subjects
+ However, collagen type-1 is also the predominant collagen found in bone and it has been estimated that 90% of the synthesis of this collagen measurable in serum is bone derived []
+ This may explain why there was no difference observed in P1NP, the measured marker of collagen type-1 synthesis, between IPF subjects and health controls and why differences were not seen between stable and progressive disease
+ In contrast to P1NP, the serum degradation marker of collagen type-1, C1M, does not measure bone-derived degradation as the epitope is denatured in bone by osteoclast-released cathepsin K []
+ This disparity in the pools of collagen type-1 being measured may account for the differences observed Consistent with our previous study, baseline levels of C1M, C3M, C6M and CRPM were elevated in subjects with IPF compared with healthy controls
+ Furthermore, not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    from stable disease from as early as one month after recruitment
+ In our previous study BGM, C1M, C3M and C6M were also different between individuals with stable and progressive IPF, but these differences only became significant at 6 months
+ Interestingly, in the current study, the levels of C1M and C6M were significantly Rising levels over 3 months of matrix synthesis markers were not predictive of mortality
+ This is in distinct contrast with changing levels of the degradation markers CRPM, C1M, C3M and C6M; for each of these markers rising levels over 3 months identified subjects with an increased risk of death
+ The predictive value of these markers, as shown by the hazard ratios, was consistent with previous results []
+ A changing ratio over 3 months of synthesis and degradation markers for type 6 collagen, PRO-C6:C6M, was also predictive of mortality albeit less strongly than C6M alone
+ It is possible that the different characteristics of the synthesis and degradation markers may reflect the specific location of individual collagens within the fibrotic lung and their susceptibility to degradation as fibrosis progresses
+ Alternatively, as is likely to be the case for P1NP, other anatomical pools of collagen turnover, including bone [27] and liver [15], may dilute the serum signal for individual neoepitopes thus limiting their suitability as markers of IPF severity or disease The absence of reliable and validated short-term measurements that predict disease progression, survival and response to treatment represent a major obstacle in the primary method for monitoring IPF disease progression in both registration clinical trials and clinical practice [28, ]
+ Whilst changes in lung function are likely to not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    remain a gold standard for assessing IPF progression, there are several short-comings of these measurements
+ Firstly, they are relatively insensitive to subtle weeks in clinical trials) before disease progression can be reliably determined
+ Although a recent study has demonstrated that daily home spirometry is predictive of disease progression within 3 months, there are some potential limitations with this slow decline in FVC making determination of treatment response in individuals almost impossible
+ Serum biomarkers, such as those measured in the current study, have the potential to overcome some of these challenges, by providing a minimally invasive, short-term readout that could supplement FVC measurements to give a We have shown that neoepitopes reflecting collagen synthesis and degradation in IPF are informative of prognosis, are able to distinguish progressive from non-progressive disease and provide a 3-month read out of change in disease severity
+ The utility of these observations is currently being tested in a randomised placebo control trial of nintedanib in individuals with IPF and preserved lung function (NCT)
+ If neo-epitopes can be shown to change with therapy, then these markers may be of use in shortening future clinical trials and for determining A major strength of our study is the prospective longitudinal design, which enabled blood sampling to be standardised and enabled collection of robust outcome data
+ Furthermore, the PROFILE cohort is representative of real-world patients with IPF and includes many subjects who would not have been enrolled in clinical trials
+ As not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    such our findings are more translatable to clinical practice than insights derived from clinical trial cohorts
+ The main weakness of this current study is that we undertook analysis of synthesis neoepitopes in a single cohort and did not adhere to a discovery-validation design
+ However, as this is the only longitudinal study that are aware of, external replication of this study is not currently possible
+ We feel that this limitation is offset by our demonstration that degradation neo-epitopes behave in a way entirely consistent with our previous observations, which were performed in discovery, and validation sample sets
+ As such we believe that this confirmation of the usefulness of collagen degradation biomarkers provides indirect validation of our findings and supports our conclusions regarding the potential utility of collagen In conclusion, this study demonstrates that collagen type-3 and -6 synthesis biomarkers are elevated in individuals with IPF compared with controls and differ in neoepitopes
+ In addition, this study re-confirms the value of a panel of ECM degradation biomarkers that are predictive of disease progression and survival in IPF
+ This panel of biomarkers provides informative insights into matrix turnover and prognostic value of change in these biomarkers is discernible within 3 months, providing much needed short-term measurements to assist the identification of at-risk IPF patients, which could be used to supplement physiological assessment to not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    designed the study; RB, PLM and participated in recruitment of study patients and collected their data
+ DJL and MAK developed and undertook the neoepitope assays
+ EO, AMD, ST, ARK, CBN, LO, WAF, RGJ, and TMM undertook the data analysis
+ L
+O, T
+M prepared manuscript
+ All authors agree  Conflicts of interest: WAF, JKS, EO, CBN, ARK are employees and shareholders of GSK
+ ST and AMD are working on behalf of GSK  Support statement: This study was funded by GlaxoSmithKline R&D and the not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    Data are mean (SD) or n (%), unless otherwise stated
+ BMI=body-mass index
+ not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    Table 
+ Univariate analysis of overall survival in relation to baseline measures of collagen synthesis neoepitopes for collagen-type 1 (P1NP), -type 3 (PRO-C3) and -type 6 (PRO-C6), the ratio of collagen synthesis: degradation  ratios for collagen-type 1 (P1NP:C1M), -type 3 (PRO-C3: C3M), and type 6 (PRO-C6: C6M) and lung function measurements (% predicted FVC and % predicted The data are expressed as mean hazard ratio (HR) with 95% CIs for all thresholds and represent the associated change in mortality risk based on a 2-fold increase in not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    concentrations for collagen-type 1 (P1NP), -type 3 (PRO-C3) and -type 6 (PRO-Plots represent mean and 95% CI (error bars) adjusted for age and gender
+  markers in healthy control and participants with stable and progressive IPF, measured at baseline, 1, 3 and 6 months after baseline for collagen-type 1 Plots represent mean and 95% CI (error bars) adjusted for age, sex, site and smoking status
+ Disease progression was defined as all-cause mortality or 10% decline in forced vital capacity at 12 months
+ The number of evaluable samples available for analysis at each time point are provided in the graph
+ P values are progressive disease at a particular time point
+ Triangles represent which groups were compared at each time point on the graph, based on colour
+  Figure 
+ Comparisons of absolute values in the ratio of neoepitope collagen stable and progressive IPF, measured at baseline, 1, 3 and 6 months for: Plots represent mean and 95% CI (error bars) adjusted for age, sex, site and smoking status
+ Disease progression was defined as all-cause mortality or 10% decline in forced vital capacity at 12 months
+ The number of evaluable samples available for analysis at each time point are provided in the graph
+ P values are progressive disease at a particular time point
+ Triangles represent which groups were compared at each time point on the graph, based on colour
+  Figure 
+ Effect of 3 month change in neoepitope concentrations on overall Subjects with IPF were dichotomised into HIGH or LOW groups, to determine the effect of 3-month change in neoepitope concentration on overall survival, where: HIGH = rising (0>ng/mL per month) neoepitope concentrations from baseline to month 3, >or LOW = stable or falling (0ng/mL per month) neoepitope concentration from baseline to month 
+ For ratio values, the slope values were derived following the creation of the ratio variables and subjects were dichotomised into HIGH or LOW slope groups
+ Hazard ratio represents the mortality risk in participants with rising neoepitope concentrations relative to those with stable or falling concentrations
+ Data not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    shown in: top panel - collagen synthesis markers P1NP, PRO-C3, PRO-C6; mid and PRO-C6:C6M; bottom panel -BGM, C1M, C3M, C6M, CRPM)
+ The number of deaths in each group is shown for each biomarker
+ P values presented relate to the primary endpoints in phase 3 clinical trials
+ Am J Respir Crit Care Med 2013: 187(11): 
+ Hynes RO
+ The extracellular matrix: not just pretty fibrils
+ Science 2009: 
+ Selman M, Montano M, Ramos C, Chapela R
+ Concentration, biosynthesis and degradation of collagen in idiopathic pulmonary fibrosis
+ Thorax 1986: 41(5): -
+ 
+ Kulkarni T, O'Reilly P, Antony VB, Gaggar A, Thannickal VJ
+ Matrix Remodeling in Pulmonary Fibrosis and Emphysema
+ American journal of respiratory cell and molecular 
+ Leeming DJ, Sand JM, Nielsen MJ, Genovese F, Martinez FJ, Hogaboam CM, Han MK, Klickstein LB, Karsdal MA
+ Serological investigation of the collagen degradation profile of patients with chronic obstructive pulmonary disease or idiopathic pulmonary 
+ McKleroy W, Lee T-H, Atabai K
+ Always cleave up your mess: targeting collagen degradation to treat tissue fibrosis
+ American Journal of Physiology-Lung Cellular and 
+ Jenkins RG, Simpson JK, Saini G, Bentley JH, Russell A-M, Braybrooke R, Molyneaux PL, McKeever TM, Wells AU, Flynn A
+ Longitudinal change in collagen 
+ Maher TM, Oballa E, Simpson JK, Porte J, Habgood A, Fahy WA, Flynn A, Molyneaux PL, Braybrooke R, Divyateja H
+ An epithelial biomarker signature for idiopathic pulmonary fibrosis: an analysis from the multicentre PROFILE cohort study
+ 
+ Raghu G, Collard HR, Egan JJ, Martinez FJ, Behr J, Brown KK, Colby TV, Cordier J-FF, Flaherty KR, Lasky JA, Lynch DA, Ryu JH, Swigris JJ, Wells AU, Ancochea J, Bouros D, Carvalho C, Costabel U, Ebina M, Hansell DM, Johkoh T, Kim DS, King TE, Kondoh Y, Myers J, Mller NL, Nicholson AG, Richeldi L, Selman M, Dudden RF, Griss BS, Protzko American journal of respiratory and critical care medicine 2011: 183(6): -
+ 
+ Leeming DJ, Larsen D, Zhang C, Hi Y, Veidal S, Nielsen R, Henriksen K, Zheng Q, Barkholt V, Riis B
+ Enzyme-linked immunosorbent serum assays (ELISAs) for rat and 
+ Nielsen MJ, Nedergaard AF, Sun S, Veidal SS, Larsen L, Zheng Q, Suetta C, Henriksen K, Christiansen C, Karsdal MA
+ The neo-epitope specific PRO-C3 ELISA measures true formation of type III collagen associated with liver and muscle 
+ Nedergaard A, Sun S, Karsdal MA, Henriksen K, Kjr M, Lou Y, He Y, Zheng Q, muscle mass and anabolic response to loading in young men
+ Journal of cachexia, 
+ Leeming DJ, He Y, Veidal S, Nguyen Q, Larsen D, Koizumi M, Segovia-Silvestre T, Zhang C, Zheng Q, Sun S
+ A novel marker for assessment of liver matrix remodeling: an not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    enzyme-linked immunosorbent assay (ELISA) detecting a MMP generated type I collagen 
+ Barascuk N, Veidal S, Larsen L, Larsen D, Larsen M, Wang J, Zheng Q, Xing R, Cao Y, Rasmussen LM
+ A novel assay for extracellular matrix remodeling associated with 
+ Veidal SS, Karsdal MA, Vassiliadis E, Nawrocki A, Larsen MR, Nguyen QHT, Hgglund P, Luo Y, Zheng Q, Vainer B
+ MMP mediated degradation of type VI collagen is highly associated with liver fibrosisidentification and validation of a novel biochemical 
+ Skjt-Arkil H, Schett G, Zhang C, Larsen DV, Wang Y, Zheng Q, Larsen MR, Nawrocki A, Bay-Jensen A-C, Henriksen K
+ Investigation of two novel biochemical of C-reactive protein, in patients with ankylosing spondylitis
+ Clinical and experimental 
+ Cotes J, Chinn D, Quanjer PH, Roca J, Yernault J-C
+ Standardization of the 
+ Kirk J, Bateman E, Haslam P, Laurent GJ, Turner-Warwick M
+ Serum type III 
+ Specks U, Nerlich A, Colby TV, Wiest I, Timpl R
+ Increased expression of type VI collagen in lung fibrosis
+ American journal of respiratory and critical care medicine 1995: 
+ Frantz C, Stewart KM, Weaver VM
+ The extracellular matrix at a glance
+ J Cell Sci 
+ Low RB, Giancola MS, King T, Chapitis J, Vacek P, Davis GS
+ Serum and 
+ Bjermer L, Lundgren R, Hllgren R
+ Hyaluronan and type III procollagen peptide 
+ Karsdal M, Nielsen S, Leeming D, Langholm L, Nielsen M, Manon-Jensen T, Siebuhr A, Gudmann N, Rnnow S, Sand J
+ The good and the bad collagens of fibrosisTheir role in signaling and organ function
+ Advanced drug delivery reviews 2017: 121: 
+ Naugle JE, Olson ER, Zhang X, Mase SE, Pilati CF, Maron MB, Folkesson HG, Horne WI, Doane KJ, Meszaros JG
+ Type VI collagen induces cardiac myofibroblast 
+ Ramos C, Montao M, Garca-Alvarez J
+ Fibroblasts from idiopathic pulmonary fibrosis and normal lungs differ in growth rate, apoptosis, and tissue inhibitor of 
+ Raghu G, Striker LJ, Hudson LD, Striker GE
+ Extracellular matrix in normal and 
+ Leeming D, Alexandersen P, Karsdal M, Qvist P, Schaller S, Tanko L
+ An update on biomarkers of bone turnover and their utility in biomedical research and clinical 
+ Lee SH, Shim HS, Cho SH, Kim SY, Lee SK, Son JY, Jung JY, Kim EY, Lim JE, Lee KJ, Park BH, Kang YA, Kim YS, Kim SK, Chang J, Park MS
+ Prognostic factors for 
+ du Bois R, Nathan S, Richeldi L, Schwarz M, Noble P
+ Idiopathic pulmonary fibrosis: lung function is a clinically meaningful endpoint for phase III trials
+ Am J Respir 
+ Russell A-M, Adamali H, Molyneaux PL, Lukey PT, Marshall RP, Renzoni EA, Wells AU, Maher TM
+ Daily home spirometry: an effective tool for detecting progression in not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    idiopathic pulmonary fibrosis
+ American journal of respiratory and critical care medicine not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted December 21, 
+ ;    

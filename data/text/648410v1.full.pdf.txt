@@ -1,0 +1,526 @@
+*Keira Markey PhD1, *James Mitchell MBChB1,2,3, *Hannah Botfield PhD4, Ryan S Ottridge5, Andreas Yiangou MBChB1,2,3, Pushkar Shah FRCOphth8, Caroline Rick PhD5, Natalie Ives5, Angela E Taylor PhD1,2, Lorna C Gilligan PhD1,2, Carl Jenkinson PhD1,2, Wiebke Arlt MD1,2, William Scotton MBChB1,2,3, Rebecca Fairclough D
+Phil9, Rishi Singhal FRCS10, Paul M Stewart MD11, Jeremy W Tomlinson PhD12, Gareth G Lavery PhD1,2, Susan P Mollan 
+ Institute of Metabolism and Systems Research, College of Medical and Dental Sciences, 
+ Institute of Inflammation and Ageing, College of Medical and Dental Sciences, 
+ Birmingham Clinical Trials Unit, Institute of Applied Health Research, College of Medical and Dental Sciences, University of Birmingham, Birmingham, B15 2TT, UK;  
+ Department of Neurology, The Walton Centre NHS Foundation Trust, Liverpool, L9 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    
+ Institute of Neurological Sciences, Queen Elizabeth University Hospital, NHS Greater 
+ Emerging Innovations Unit, Scientific Partnering and Alliances, IMED Biotech Unit, 
+ Upper GI Unit and Minimally Invasive Unit, Heartlands Hospital, University Hospitals 
+ Oxford Centre for Diabetes, Endocrinology & Metabolism (OCDEM), NIHR Oxford College of Medical and Dental Sciences, University of Birmingham, Birmingham, B15 2TT, certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Treatment options for idiopathic intracranial hypertension are limited
+ The enzyme -hydroxysteroid dehydrogenase type 1 has been implicated in regulating cerebrospinal fluid secretion, and its activity is associated with alterations in intracranial pressure in idiopathic investigate indicators of in vivo efficacy of the 11-hydroxysteroid dehydrogenase type 1 inhibitor AZD4017 compared to placebo in idiopathic intracranial hypertension
+ A multicenter, UK, 16-week phase II randomized, double-blind, placebo-controlled trial of 12-weeks treatment with AZD4017 or placebo was conducted
+ Women aged 18 to 55 years with active idiopathic were included
+ Participants received 400mg twice daily of oral AZD4017 compared to matching placebo over -weeks
+ The outcome measures were initial efficacy, safety and tolerability
+ The primary clinical outcome was lumbar puncture opening pressure at 12 weeks analysed by headache and anthropological measures
+ In vivo efficacy was evaluated in the central nervous system and systemically
+ 31 subjects (mean age 
+2 (SD=
+9) years and BMI 
+2 (SD=
+6) kg/m2) were randomized to AZD4017 (n=17) or placebo (n=)
+ At 12 weeks, lumbar puncture pressure was lower in the AZD4017 group (
+7 cmH2O) compared with placebo (
+3 cmH2O), but the difference between groups was not statistically significant (mean difference: -
+8, 95% confidence interval: -
+ -
+5; p=
+ )
+  An exploratory analysis assessing mean change in lumbar puncture pressure within each group found a significant decrease in the AZD4017 group (mean change: -
+3 cmH2O (SD=
+7); p=
+009) but not in the placebo group (mean change: -
+3 cmH2O (SD=
+9); p=
+ )
+ AZD4017 was safe, with no withdrawals related to adverse effects
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Nine transient drug-related adverse events were reported
+ One serious adverse event occurred in the placebo group (deterioration requiring shunt surgery)
+ In vivo biomarkers of -prednisolone generation and CSF cortisone to cortisol ratios) demonstrated significant enzyme inhibition
+ This is the first phase 2 randomized controlled trial in idiopathic intracranial hypertension evaluating a novel therapeutic target
+ AZD4017 was safe, well-tolerated and inhibited 11-hydroxysteroid dehydrogenase type 1 activity in vivo
+ Possible clinical benefits were noted in this small cohort
+ A longer, larger study would now be of interest
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Idiopathic intracranial hypertension (IIH) is a debilitating condition characterized by raised intracranial pressure (ICP), papilledema with risk of permanent visual loss,(Mollan et al, 2018b) and chronic headaches which reduce quality of life
+(Mulla et al, 2015) IIH predominately affects obese women between the ages of 25-36 years with a distinct androgen excess signature recently identified
+(Daniels et al, 2007; Markey et al, 2016; O'Reilly et al, 2019) Incidence is increasing in line with escalating worldwide obesity rates
+(Mollan et al, 2018a)  Surgical treatment is recommended when vision rapidly declines,(Mollan et al, 2014; Mollan et al, 2018c) but the majority of patients (93%) are managed conservatively
+(Hoffmann et al, 2018; Mollan et al, 2018a; Mollan et al, 2018b) Dietary interventions are an effective treatment,(Sinclair et al, 2010a) however, meaningful and sustained weight loss is difficult to achieve
+(Colquitt et al, 2014; Manfield et al, 2017) Pharmacotherapy in IIH is limited,(Piper et al, 2015) with only two previous randomized controlled trials (RCTs) in IIH previously reported, both evaluating acetazolamide
+(Ball et al, 2011; Committee et al, 2014) New We have previously demonstrated that the enzyme 11-hydroxysteroid dehydrogenase type 1 (11-HSD1) is expressed and active in the choroid plexus (CP) to amplify cortisol availability and acts to regulate cerebrospinal fluid (CSF) production
+(Gathercole et al, 2013),(Sinclair et al, 2007; Sinclair et al, 2010c) In patients with IIH, resolution of disease (reduced ICP, activity,(Sinclair et al, 2010a; Sinclair et al, 2010c) with a study suggesting that inhibition of 11-HSD1 with a non-selective inhibitor lowered intraocular pressure
+(Rauz et al, 2003) certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Importantly, 11-HSD1 expression and activity is dysregulated in obesity
+(Sandeep et al, 2005) Selective inhibitors of 11-HSD1 have been developed as treatments for obesity, hepatic steatosis, metabolic syndrome and type 2 diabetes
+(Boyle, 2008; Stefan et al, 2014) Based on these data, 11-HSD1 could represent a therapeutic target for lowering CSF pressure
+ AZD4017 is a highly selective, fully reversible, competitive 11-HSD1 inhibitor
+ It has been tested over short time intervals in healthy males (9 days), and abdominally obese subjects (10 days), and found to be safe and tolerable
+(AstraZeneca, 2000-[01 March 2017]-a, b, c, d, 2000-[01 March ]
+) The ability of AZD4017 to penetrate the blood-brain-barrier (BBB) is not established; however, the CP lies outside the BBB and consequently can be targeted directly following oral We hypothesised that inhibition of 11-HSD1 could be therapeutically beneficial in IIH
+ To test this we conducted a multicenter phase 2 double-blind, placebo-controlled RCT in IIH using the selective 11-HSD1 inhibitor AZD4017, aiming to assess therapeutic efficacy, safety and tolerability, and investigate in vivo systemic and central nervous system efficacy
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    The study was conducted from March 2014 to December 2016 in three UK hospitals
+ The National Research Ethics Committee York and Humber-Leeds West gave ethical approval (/YH/)
+ All patients provided written informed consent in accordance with the delaration of Helsinki
+ Detailed clinical trial methodology has been published
+(Markey et al, 2017a)  Women (18-55 years) were eligible if they had a clinical diagnosis of active IIH meeting the updated, modified Dandy criteria (ICP>25cmH2O and active papilledema) and normal brain imaging (including magnetic resonance venography or CT with venography) at recruitment (for detailed eligibility criteria see Suppl
+ Table )
+(Friedman et al, 2013; Markey et al, 2017b) A 16-week phase II, double-blind placebo-controlled RCT with a 12-week dosing duration and Participants were allocated to either drug or placebo
+ Patients were allocated a trial number randomly by phone, using block-of-6 randomization
+ Participants and investigators were masked An oral selective 11-HSD1 inhibitor, AZD4017, at 400mg twice daily for 12-weeks, compared to a matched placebo
+ Trial dosing was added to existing therapy for IIH, other drugs were certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Participants completed follow-up assessments at 1, 2, 3, 4, 6, 8, 10, 12 and 16 weeks (Figure The primary outcome for clinical efficacy was the difference in ICP between AZD4017 and placebo, as measured by LP at 12 weeks
+ Secondary outcomes included: IIH symptoms, visual function (visual acuity (VA) measured using LogMAR (log of the minimum angle of resolution), perimetric mean deviation (PMD) using Humphrey 24-2 central threshold automated perimetry and contrast sensitivity assessed by MARs charts (Mars Perceptrix, USA)), Engineering) to quantify the peripapillary retinal nerve fibre layer (RNFL) average and maximal values
+ Papilledema was graded from fundus photographs by three masked neuro-ophthalmologists using the Frisn classification (0 denotes no papilledema to grade 5 severest disability questionnaire (HIT-6), headache severity (verbal rating score 0 to 10), frequency (days per month), duration and analgesic use (days per month)
+(Bayliss et al, 2003) Pill counting at In the original grant application and early versions of the protocol, the primary outcome measure was stated as the change in ICP between baseline and 12 weeks
+  Following adoption of the study by the Birmingham Clinical Trials Unit, the primary outcome was changed to ICP at 12 weeks, with adjustment for baseline ICP in the analysis
+  This change was made blind to any certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Adverse events and safety bloods were monitored (timeline Figure 1A) including renal function stimulating hormone, free thyroxine) and creatine kinase
+ Hypothalamic pituitary adrenal (HPA) Samples were collected and stored at -C
+ Cortisol and cortisone levels in serum and CSF University of Birmingham, as previously described
+(Hassan-Smith et al, 2015; Long et al, 2016) Plasma and CSF AZD4017 levels were quantified by an external laboratory (Alderley Global 11-HSD1 activity was evaluated through quantification of 24 hour urinary ((5THF+THF):THE) alongside a stable ratio of total urinary cortisol (F): total urinary cortisone Inhibition of hepatic 11-HSD1 activity was informed by measuring first-pass metabolism of 10mg of oral prednisone to prednisolone
+ Serum prednisone and prednisolone were measured certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    every 20 minutes over 4 hours using LC-MS/MS
+(Richards et al, 2012; Hassan-Smith et al, Subcutaneous adipose biopsies (100-150 mg distributed to triplicate experiment) incubated in at room temperature with 100 nM cortisone (Sigma-Aldrich, Dorset, UK), with three media controls (without adipose) for 24 hours
+ Steroid conversion was quantified using LC-Subcutaneous and omental adipose explants (1-2g in triplicate) were obtained from IIH patients undergoing bariatric surgery
+ Samples were incubated with either 2000nM, 200nM or 20nM of AZD4017 and 100nM of cortisone alongside three controls (without AZD4017) for 24 hours
+ Steroid conversion was quantified using LC-MS/MS
+(Juhlen et al, 2015; Mooij et al, 2015) Analysis of the clinical data was based on the full analysis set according to the statistical data from all available randomized participants used
+ The primary comparison was between AZD4017 versus placebo at 12 weeks
+ The majority of data was continuous, so groups were compared using linear regression models with baseline measurements included as a covariate in the model
+ IIH symptom data was binary and was analyzed using log-binomial models with baseline symptom included as a covariate in the model
+ The primary analysis of visual data included data from both eyes, using a linear mixed model with participant included as a random effect
+ We also analyzed data from the most affected eye at baseline as defined by certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    PMD
+(Friedman et al, 2014) Statistical significance was set at p<
+05, with no adjustment for multiple comparisons made
+ Clinical data was analyzed using SAS (version 
+4) and STATA Analysis of laboratory data was performed using SPSS (version 24, IBM, New York, USA)
+ An unpaired t-test was used for normally distributed data (Mann-Whitney U test for non-parametric data)
+ For related groups, either the paired t-test or Wilcox signed-rank test was used for parametric and non-parametric data respectively
+ We reported means and standard deviations To detect a difference between groups of 14% in ICP (assuming a standard deviation of 10% for ICP) with 90% power and two-sided alpha=
+05, required 12 participants per group
+ Allowing The trial is registered at Clinicaltrials
+gov NCT02017444; European Clinical Trials Database (EudraCT Number: --)
+ The data that support the findings of this study are certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    31 participants were recruited; 17 were randomized to AZD4017 and 14 to placebo (Figure B)
+ Baseline characteristics demonstrate a cohort of IIH patients with active disease were recruited At 12 weeks, the mean ICP was 
+7 cmH2O (SD=
+2) in the AZD4017 group compared with 
+3 cmH2O (SD=
+7) in the placebo group (adjusted mean difference:-
+8 cmH2O, 95% confidence interval (CI): -
+ -
+5; p=
+2) (Figure A)
+ An exploratory analysis assessed the mean change in ICP within each group
+  ICP decreased from 
+7 (SD=
+3) at baseline to 
+7 cmH2O (SD=
+2) at 12 weeks in the AZD4017 group (mean change: -
+3 cmH2O (SD=
+7); p=
+009) and from 
+7 (SD=
+8) to 
+3 cmH2O (SD=
+7) in the placebo group (mean change: At weeks 12 and 16, there were no statistically significant differences between the two treatment groups in IIH symptoms (Suppl
+ Table )
+ At 12 and 16 weeks, the Humphrey Visual Field Analyzer PMD (worst eye) was not significantly different between groups (adjusted mean difference at 12 weeks: 
+3dB, 95% CI: -
+ -
+7, p=
+8) (Figure 2D, E, F; Table 2, Suppl
+ Table )
+ However, within group analysis showed that the PMD improved from -
+1 dB (SD=
+4) at baseline to -
+4 dB (SD=
+2) (mean change 
+7 dB (SD=
+3), p=
+04) at 12 weeks in the AZD4017 group and from -
+4 dB (SD=
+8) to -
+2 dB (SD=
+1) (mean change 
+3 dB (SD=
+0), p=
+0) in the placebo group
+  There were also no statistically significant differences certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    between groups at either 12 or 16 weeks in visual acuity, contrast sensitivity, OCT average and maximal RNFL (Table 2; Figure 2G ,H,I maximum RNFL, Figure 2J,K,L average RNFL, Suppl
+ Table )
+ At 12 weeks, the mean Frisn grade in the worst eye was 
+56 (SD=
+96) in the AZD4017 group and 
+25 (SD=
+87) in the placebo group (adjusted mean difference: -
+7, 95% All headache outcomes were not statistically significantly different between AZD4017 and placebo at weeks 12 or 16 (Suppl
+ Table )
+  There were also no statistically significant Study medication was well tolerated with participants in both arms taking on average 98% of the total 168 study medication doses (mean doses taken were 164 (range 146  168) and 165 (range 158-168) in the AZD4017 and placebo group respectively)
+ There were no participant withdrawals due to adverse effects
+ Nine adverse events (in 6 participants) were deemed related to AZD4017, none were serious and 3 were due to non-clinically relevant fluctuations in serum cortisol
+ Adverse events are shown in Suppl
+ Table 
+ One serious adverse event was reported in the placebo arm and deemed unrelated (fulminant deterioration in IIH necessitating CSF No differences were noted between treatment groups for the safety blood tests (Suppl
+ Table )
+ As expected, there was a rise in the HPA stimulatory hormone, ACTH, over 12 weeks in the AZD4017 group (mean difference at 12 weeks: 
+36ng/l, 95%CI: -
+ -
+ )
+ There was no difference in serum cortisol, testosterone or androstenedione, although serum DHEAS, a marker of adrenal androgen production was higher at 12 weeks in the AZD4017 group (mean difference certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    at 12 weeks: 
+44nmol/l, 95%CI, 
+ -
+79); levels returned to normal 4 weeks after treatment AZD4017 concentrations were detected in the serum after one week of treatment and sustained at week 12 (n=)
+ The presence of AZD4017 in the CSF was 
+5% that of the serum (Suppl
+ Table )
+ No AZD4017 was detected in the placebo group at any time point
+ There was no correlation between serum or CSF drug levels and LP pressure (serum: r=
+03; p=
+0; CSF: r=-
+2; p=
+7) or visual field mean deviation (serum: r=-
+2; p=
+7; CSF: r=-
+04; p=
+ )
+  Serum and CSF cortisol and cortisone were examined in the placebo and AZD4017 groups at baseline and at 12 weeks
+ The serum cortisol:cortisone ratio was not significantly different between arms at weeks 0 (p=
+6) and 12 (p=
+5) (Figure A)
+ The CSF cortisol:cortisone ratio did not differ between arms at baseline (p=
+9); however, at week 12 there was a significant decrease in the CSF cortisol:cortisone in the AZD4017 group compared to placebo (p=
+002), and the AZD4017 group between baseline and 12 weeks (p=
+03) (Figure 3B), implying local HSD1 activity was significantly reduced in AZD4017 vs
+ placebo groups at week 1 (
+ 
+04 versus 
+ 
+36, p<
+0001) and week 12 (
+ 
+29 versus 
+ 
+28; p<
+ )
+ By contrast, the ratios did not differ between the two treatment groups at baseline (p=
+6) and 4 weeks after certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    the end of treatment (week 16, p=
+ )
+ 11-HSD type 2 activity as assessed by urinary cortisol over cortisone remained unchanged and similar in both groups throughout the 12 weeks of treatment (p=
+ )
+ These data imply that AZD4017 was effective at inhibiting 11-HSD1 (Figure C)
+ No correlation was found between the change in (5THF+THF):THE and ICP The placebo group had robust capacity to generate prednisolone following oral prednisone at both baseline and after 12 weeks
+ The baseline prednisolone generation curve for the AZD4017 group was indistinguishable from the placebo curve; however at 12 weeks the AZD4017 group were essentially unable to generate prednisolone (Figure 3D,E), indicating effective inhibition of hepatic 11-HSD1 activity
+  Area under the curve analysis of the mean time points at 12 weeks (22899 vs 1738142; p<
+0001), an 
+9% reduction (p<
+0001) in overall prednisolone generating capacity after 12 weeks (Figure D,E)
+ There was no correlation between the change in the area under the curve for prednisolone and ICP (r=
+1; p=
+8) or PMD (r=
+4; p=
+ )
+ While AZD4017 effectively inhibited hepatic 11-HSD1, we were unable to show impaired capacity to generate cortisol from cortisone in explanted subcutaneous adipose biopsies
+ At baseline and following 12 weeks of oral AZD4017, there was no significant change in total cortisol vs
+ placebo (
+ 
+6 vs 
+ 
+9 nmol; p=
+3) or percentage conversion of cortisone to cortisol (2314 vs 2718 %; p>
+99) (Figure F)
+ However, AZD4017 was able to significantly certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    inhibit 11-HSD1 activity when added to ex vivo adipose explants from subcutaneous and omental depots
+ 20nM AZD4017 significantly impaired conversion of cortisone to cortisol (>70% vs
+ control), 200nM onwards was sufficient to effectively block cortisol generation, certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    We report the first phase 2 RCT assessing 11-HSD1 inhibitor AZD4017 for the treatment of IIH
+ We have shown some possible clinical benefit for AZD4017, and that it was well tolerated and safe
+  We found evidence for effective in vivo 11-HSD1 inhibition
+  Our primary hypothesis stated that 11-HSD1 inhibition in IIH patients would reduce CSF secretion and lower ICP while being safe and tolerable following 12 weeks of treatment
+ ICP was the primary clinical outcome measure, representing the hallmark of the disease driving clinical sequelae
+ At 12 weeks, although ICP was lower in the AZD4017 group compared to placebo, the difference between groups was not statistically significant
+  Exploratory analyses of the mean change within groups found a significant improvement in ICP in the AZD4017 group between baseline and 12 weeks, but not in the placebo group
+ Previous trials have noted that ICP reduction below the cut off of 25 cmH2O is not universally required to translate into resolution of IIH clinical features
+(Sinclair et al, 2010b) A minimal clinically important change in ICP in IIH has not been determined, and establishing one would be useful for future trials
+   The visual field perimetric assessment is another clinically meaningful measure and has been selected as the primary outcome measures in previous IIH trials
+ We found no difference between groups in PMD at 12 weeks, however, there was significant improvement over time in the AZD4017 arm but not in the placebo arm
+ This may reflect the pragmatic recruitment of all degrees of PMD at enrolment whilst other trials have enrolled a selected cohort (e
+ g
+ -2 to -5 dB)
+(Wall et al, 2014) Additionally, his small trial was not powered to determine significant in certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Headache is a key disabling feature in IIH
+(Mulla et al, 2015) We did not detect differences between the groups in any of the headache assessments at 12 weeks, although data from the patient completed HIT-6 favoured the AZD4017 group
+ Evaluating the effect of AZD4017 on headache measures over a longer treatment duration would be of interest
+ Previous trials showed that 11-HSD1 inhibition leads to adaptive changes in HPA stimulatory hormone ACTH and the adrenal androgen precursor DHEA
+ Our data support these findings, but with no significant change in downstream effector hormones (cortisol and testosterone)
+  In vivo evaluation of our patients demonstrated that AZD4017 was a highly effective systemic and hepatic 11-HSD1 inhibitor, in line with previous studies using11-HSD1 inhibitors in humans(Schwab et al, 2017),(Courtney et al, )
+ Systemic efficacy may modify metabolic aspects of IIH with indirect benefits on ICP
+(Hornby et al, 2018)  While AZD4017 effectively inhibited 11-HSD1 when applied to subcutaneous and omental adipose tissue explants, we were unable to prove inhibition in vivo, and propose that 11-HSD1 activity recovers over the assay period once removed from AZD4017, a reversible competitive Blood-brain-barrier AZD4017 penetrance was low, with levels in the CSF 
+5% those of plasma levels, but were associated with reduced CSF cortisol:cortisone ratio suggesting that 11-HSD1 may contribute to cortisol availability in the CSF
+ The unchanged serum cortisol:cortisone is certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    We were unable to directly evaluate 11-HSD1 inhibition at the choroid plexus, the tissue responsible for CSF secretion
+ We have evaluated efficacy of other IIH drugs using rodent ICP monitoring models,(Botfield et al, 2017; Scotton et al, 2018) but AZD4017 is only effective in humans and primates, thus limiting our ability to evaluate its action in rodent models
+ The trial duration was likely too short
+ A duration of 12 weeks was chosen for evaluation of safety and tolerability and represented the longest duration of dosing to date with AZ
+ This may not have been sufficient for meaningful evaluation of clinical outcomes with other IIH RCTs evaluating drugs over a 6 month period
+(Committee et al, 2014) The enrolment criteria for the study were deliberately broad allowing inclusion of a spectrum of IIH patients with active disease and ensuring generalizability of results; however, this did not allow evaluation in disease subgroups such as those with mild visual loss vs
+ those with severe irreversible visual loss
+ Finally, the sample size (31 participants) is small which may have limited meaningful evaluation of clinical measures and the trial was not design to establish significant changes in the secondary This is the first phase II study evaluating the novel pharmacological therapy AZD4017 in IIH
+ We demonstrate safety, tolerability and provide strong in vivo evidence for effective 11-HSD1 inhibition
+ There was a significant reduction in ICP in the AZD4017 and not the placebo group certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    over the treatment duration (exploratory within group analysis); however, the primary analysis evaluating the difference between groups at 12 weeks did not reach statistical significance
+ The data suggest that 11-HSD1 inhibition may have utility for reducing the effects and consequences of raised ICP in patients with IIH
+ Further evaluation of these therapeutic strategies in this disabling disease, for which few useful medical options exist, would be certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    KM, JM & HB made major contributions to the acquisition, and interpretation of data; and RW & NI made substantial contributions to the clinical statistics and undertook the data analysis SM, RO, TM, AK, PS, CR, WS & AY made substantial contributions to the clinical data AT, LG, CJ & WA were responsible for steroid analysis in serum, CSF and tissue by LC-RS & CW made substantial contributions to the adipose data acquisition and drafting of the PS, JT & GL were involved in conceptualization of the hypothesis and drafting and revision of AS conceptualized the hypothesis and led on study design, oversight, interpretation of data and All authors approved the final version to be submitted for review
+ Conflict of Interest Disclosures: No authors contributing have a conflict of interest in the Funding: The trial was funded by the Medical Research Council, UK (MR/K/)
+ AS is certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    this study, through their chosen CMO (Almac), with the study medication AZD4017 and We acknowledge Birmingham Clinical Trials Unit for trial coordination, data management and clinical data analysis
+ We thank Peter Nightingale, Statistician, NIHR/Wellcome Trust Clinical 2TH, UK, for help with the exploratory analyses
+ We acknowledge the support of the National Institute of Health Research Clinical Research Network (NIHR CRN) and the nurses and staff of the NIHR/Wellcome Trust Clinical Research Facilities where IIH:DT was performed
+ The views expressed in this publication are those of the authors and not necessarily those of the MRC, NIHR or the Department of Health
+ We thank AstraZeneca for the AZD4017 compound and for their helpful advice, specifically from Madeleine Brady, K
+ Jane Escott, Rebecca J Fairclough, Alison Holt, James Sylvester, Lorraine C
+ Webber and Chris Wilks
+ We acknowledge Almac certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    AstraZeneca
+ Phase I Study in Healthy Volunteers to Assess the Safety, Tolerability, AstraZeneca
+ A phase IIa study to assess the tolerability, safety and efficacy of AZD4017 for raised intra-ocular pressure
+  2000-[01 March 2017]-b  [cited; Available from: AstraZeneca
+ Study to Investigate Safety and Tolerability Single Ascending Doses of AZD
+  AstraZeneca
+ Study to Investigate Safety and Tolerability Single Ascending Doses of AZD
+  AstraZeneca
+ Study to Evaluate Methods That Assess the Effect of AZD4017 in Adipose Tissue
+  Ball AK, Howman A, Wheatley K, Burdon MA, Matthews T, Jacks AS, et al A randomised controlled trial of treatment for idiopathic intracranial hypertension
+ J Neurol 2011; 258(5): -Bayliss MS, Bjornerm JB, Kosinski M, Dahlf CGH, Dowson A, Cady RK
+ Development of HIT-6, a paper-based short form for measuring headache impact
+ In: Olesen  J, Steiner  TJ, Lipton  RB Frontiers in Headache Research  Reducing the Burden of Headache  New York: certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Botfield HF, Uldall MS, Westgate CSJ, Mitchell JL, Hagen SM, Gonzalez AM, et al A glucagon-like peptide-1 receptor agonist reduces intracranial pressure in a rat model of Boyle CD
+ Recent advances in the discovery of 11beta-HSD1 inhibitors
+ Curr Opin Drug Discov Colquitt JL, Pickett K, Loveman E, Frampton GK
+ Surgery for weight loss in adults
+ Cochrane Committee NIIHSGW, Wall M, McDermott MP, Kieburtz KD, Corbett JJ, Feldon SE, et al Effect of acetazolamide on visual function in patients with idiopathic intracranial hypertension and mild visual loss: the idiopathic intracranial hypertension treatment trial JAMA 2014; Courtney R, Stewart PM, Toh M, Ndongo M-N, Calle RA, Hirshberg B
+ Modulation of -00915275, a Selective 11HSD1 Inhibitor
+ The Journal of Clinical Endocrinology & Daniels AB, Liu GT, Volpe NJ, Galetta SL, Moster ML, Newman NJ, et al Profiles of obesity, weight gain, and quality of life in idiopathic intracranial hypertension (pseudotumor cerebri)
+ Davson H
+ Formation and drainage of the cerebrospinal fluid
+ The Scientific basis of medicine Eftekhari S, Salvatore CA, Johansson S, Chen T-b, Zeng Z, Edvinsson L
+ Localization of CGRP, CGRP receptor, PACAP and glutamate in trigeminal ganglion
+ Relation to the bloodbrain certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Friedman DI, Liu GT, Digre KB
+ Revised diagnostic criteria for the pseudotumor cerebri Friedman DI, McDermott MP, Kieburtz K, Kupersmith M, Stoutenburg A, Keltner JL, et al The Frisen L
+ Swelling of the optic nerve head: a staging scheme
+ J Neurol Neurosurg Psychiatry Gathercole LL, Lavery GG, Morgan SA, Cooper MS, Sinclair AJ, Tomlinson JW, et al -Hassan-Smith ZK, Morgan SA, Sherlock M, Hughes B, Taylor AE, Lavery GG, et al Gender-Specific Differences in Skeletal Muscle 11beta-HSD1 Expression Across Healthy Aging
+ The Hoffmann J, Mollan SP, Paemeleire K, Lampl C, Jensen RH, Sinclair AJ
+ European headache federation guideline on idiopathic intracranial hypertension
+ The journal of headache and pain Hornby C, Mollan SP, Botfield H, O'Reilly MW, Sinclair AJ
+ Metabolic Concepts in Idiopathic Juhlen R, Idkowiak J, Taylor AE, Kind B, Arlt W, Huebner A, et al Role of ALADIN in human adrenocortical cells for oxidative stress response and steroidogenesis
+ PloS one 2015; 10(4): certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Long JE, Drayson MT, Taylor AE, Toellner KM, Lord JM, Phillips AC
+ Morning vaccination Manfield JH, Yu KKH, Efthimiou E, Darzi A, Athanasiou T, Ashrafian H
+ Bariatric Surgery or Non-surgical Weight Loss for Idiopathic Intracranial Hypertension? A Systematic Review and Markey KA, Mollan SP, Jensen RH, Sinclair AJ
+ Understanding idiopathic intracranial Markey KA, Ottridge R, Mitchell JL, Rick C, Woolley R, Ives N, et al Assessing the Efficacy and Safety of an 11beta-Hydroxysteroid Dehydrogenase Type 1 Inhibitor (AZD4017) in the Idiopathic Intracranial Hypertension Drug Trial, IIH:DT: Clinical Methods and Design for a Phase II Randomized Controlled Trial JMIR research protocols 2017a; 6(9): e
+ Markey KA, Ottridge R, Mitchell JL, Rick C, Woolley R, Ives N, et al Assessing the Efficacy and Safety of an 11-Hydroxysteroid Dehydrogenase Type 1 Inhibitor (AZD4017) in the Idiopathic Intracranial Hypertension Drug Trial, IIH:DT: Clinical Methods and Design for a Phase II Randomized Controlled Trial JMIR Research Protocols 2017b; 6(9): e
+ Mollan SP, Aguiar M, Evison F, Frew E, Sinclair AJ
+ The expanding burden of idiopathic Mollan SP, Davies B, Silver NC, Shaw S, Mallucci CL, Wakerley BR, et al Idiopathic certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Mollan SP, Hornby C, Mitchell J, Sinclair AJ
+ Evaluation and management of adult idiopathic Mollan SP, Markey KA, Benzimra JD, Jacks A, Matthews TD, Burdon MA, et al A practical Mooij CF, Parajes S, Rose IT, Taylor AE, Bayraktaroglu T, Wass JA, et al Characterization of Mulla Y, Markey KA, Woolley RL, Patel S, Mollan SP, Sinclair AJ
+ Headache determines quality of life in idiopathic intracranial hypertension
+ The journal of headache and pain 2015; 16: O'Reilly MW, Westgate CS, Hornby C, Botfield H, Taylor AE, Markey K, et al A unique androgen excess signature in idiopathic intracranial hypertension is linked to cerebrospinal fluid Piper RJ, Kalyvas AV, Young AM, Hughes MA, Jamjoom AA, Fouyas IP
+ Interventions for Rauz S, Cheung CM, Wood PJ, Coca-Prados M, Walker EA, Murray PI, et al Inhibition of 11beta-hydroxysteroid dehydrogenase type 1 lowers intraocular pressure in patients with ocular Richards J, Lim AC, Hay CW, Taylor AE, Wingate A, Nowakowska K, et al Interactions of abiraterone, eplerenone, and prednisolone with wild-type and mutant androgen receptor: a certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    rationale for increasing abiraterone exposure or combining with MDV
+ Cancer research Sagmeister MS, Taylor AE, Fenton A, Wall NA, Chanouzas D, Nightingale PG, et al inflammation and glycaemic control in chronic kidney disease: a cross-sectional study
+ Clinical Sandeep TC, Andrew R, Homer NZ, Andrews RC, Smith K, Walker BR
+ Increased in vivo regeneration of cortisol in adipose tissue in human obesity and effects of the beta-Schwab D, Sturm C, Portron A, Fuerst-Recktenwald S, Hainzl D, Jordan P, et al Oral Scotton WJ, Botfield HF, Westgate CS, Mitchell JL, Yiangou A, Uldall MS, et al Topiramate is more effective than acetazolamide at lowering intracranial pressure
+ Cephalalgia : an Sinclair A, Burdon M, Ball A, Nightingale N, Good P, Matthews T, et al Low energy diet and Sinclair AJ, Burdon MA, Nightingale PG, Ball AK, Good P, Matthews TD, et al Low energy diet and intracranial pressure in women with idiopathic intracranial hypertension: prospective certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Sinclair AJ, Onyimba CU, Khosla P, Vijapurapu N, Tomlinson JW, Burdon MA, et al Sinclair AJ, Walker EA, Burdon MA, van Beek AP, Kema IP, Hughes BA, et al Cerebrospinal fluid corticosteroid levels and cortisol metabolism in patients with idiopathic intracranial hypertension: a link between 11beta-HSD1 and intracranial pressure regulation? The Journal of Stefan N, Ramsauer M, Jordan P, Nowotny B, Kantartzis K, Machann J, et al Inhibition of 11beta-HSD1 with RO5093151 for non-alcoholic fatty liver disease: a multicentre, randomised, double-blind, placebo-controlled trial The lancet Diabetes & endocrinology 2014; 2(5): -
+ Tomlinson JW, Stewart PM
+ Cortisol metabolism and the role of 11beta-hydroxysteroid Wake DJ, Walker BR
+ 11 beta-hydroxysteroid dehydrogenase type 1 in obesity and the Wall M, McDermott MP, Kieburtz KD, Corbett JJ, Feldon SE, Friedman DI, et al Effect of acetazolamide on visual function in patients with idiopathic intracranial hypertension and mild visual loss: the idiopathic intracranial hypertension treatment trial Jama 2014; 311(16): -certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Figure 1: Participant visits (A) and CONSORT diagram (B)
+ GC, glucocorticoids, CSF, Figure 
+ Clinical outcomes following treatment with AZD4017 and placebo for 12 weeks  (A) Absolute LP pressure
+ (B) Change in LP pressure
+ (C) Percentage of patients with better, same or worse LP pressure at 12 weeks
+ (D) Absolute visual field mean deviation (dB)
+ (E) Change in visual field mean deviation
+ (F) Percentage of patients with better, same or worse visual field mean deviation at 12 weeks
+ (G) Absolute maximum optical coherence tomography (OCT) retinal nerve fibre layer (RNFL) height (m)
+  (H) Change in maximum OCT RNFL height
+ (I) Percentage of patients with better, same or worse maximum OCT RNFL height at 12 weeks
+ (J) Average OCT RNFL height (m)
+ (K) Change in average OCT RNFL height
+ (L) Number of patients with better, same or worse average OCT RNFL height at 12 weeks
+ Data is presented as mean  95% confidence index
+ *<
+05, ** < 
+ 
+  Figure 
+ In vivo and ex vivo analysis of 11-HSD activity after 12 weeks treatment with  (A) Serum cortisol:cortisone ratio
+ (B) CSF cortisol:cortisone ratio
+ (C) Urinary 11-HSD1 activity ((5-THF+THF):THE) at weeks 0, 1, 12 and 
+ (D) Change in prednisolone area under the curve (AUC) (see E)
+ (E) Hepatic 11-HSD1 activity (mean blood prednisolone concentration after conversion from prednisone) over 4 hours
+ (F) Subcutaneous adipose -HSD1 activity (percentage change from cortisone to cortisol) ex vivo
+ (G) Ex vivo subcutaneous adipose (H) Omental adipose 11-HSD1 activity (cortisol production from cortisone) after 24 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    hours incubation with either 0, 20, 200 or 2000 nM of AZD4017 in vitro
+ Data presented as certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Asian/Asian British  Other Asian 1 (7) 0 (0) 1 (3) Opening LP pressure, cmH2O (SD) 
+7 (
+8) 
+7 (
+3) 
+3 (
+6) BMI (weight (kg)/ height (m2) (SD) 
+2 (
+6) 
+3 (
+2) 
+2 (
+6) Perimetric mean deviation, dB (SD) -
+4 (
+8) -
+1 (
+4) -
+8 (
+1) Average retinal nerve fibre layer  
+4 (
+0) 
+0 (
+7) 
+4 (
+8) certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Visual data is from the worst eye only
+ BMI, body mass index; dB, decibels; HIT-6, headache impact test -6; LP, lumbar puncture; OCT, optical coherence tomography; SD, standard certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Table 2: Visual function and optic nerve head at baseline and week 12   All measures shown in the table are of worst eye
+  Negative values in the adjusted mean difference between treatment arms favour AZD
+ C
+I: confidence interval; OCT: optical certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    

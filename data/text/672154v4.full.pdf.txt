@@ -1,0 +1,815 @@
+Functional connectivity changes with rapid remission from moderate-to-severe major depressive disorderXiaoqian Xiao 1#, Brandon S
+ Bentzley1#, Eleanor J
+ Cole 1, Claudia Tischler1, Katy H
+ Stimpson 1,3, Dalton Duvio 1, James H
+ Bishop, Danielle D
+ DeSouza 2, Alan Schatzberg 1, Corey Keller1, Keith D
+ Sudheimer1, 1Department of Psychiatry & Behavioral Sciences, Stanford University, Palo Alto, California, USA
+ 2Department of Neurology & Neurological Sciences, Stanford University, Palo Alto, California, USA
+ NRW and KDS have filed intellectual property on the methodology discussed in this manuscript
+  Author Contributions 
+ B
+ S
+B and X
+ X
+ designed experiments, analyzed data, interpreted data analyses, and             prepared the manuscript
+ E
+ J
+ C
+, C
+ T
+, K
+ H
+ S
+, and D
+ D
+ collected data
+ J
+ H
+ B
+, A
+ S
+, and C
+ K
+ assisted in                interpreting data analyses
+ K
+ D
+S co-designed and executed the algorithm used to define the optimal              stimulation targets
+ N
+ R
+W invented the stimulation methodology, co-designed the algorithm used to define the              optimal stimulation targets, designed the trial, acted as study MD, and mentored the writing of the manuscript Abbreviations : AI: anterior insula, BLA: basolateral amygdala, CMA: centromedian amygdala, dACC: dorsal            anterior cingulate cortex, DLPFC: dorsolateral prefrontal cortex, DMN: default mode network, exeS: executive             striatum, FC: functional connectivity, HAMD: Hamilton Depression Rating Scale, Ins: insula, limS: limbic             striatum, MADRS: Montgomery Asberg Depression Rating Scale, MDD: major depressive disorder, SA:            superficial amygdala, sgACC: subgenual anterior cingulate cortex, SN: salience network, VLPFC: ventrolateral            certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    Major depressive disorder (MDD) is prevalent and debilitating, and development of improved treatments is              limited by insufficient understanding of the neurological changes associated with disease remission
+ In turn,              efforts to elucidate these changes have been challenging due to disease heterogeneity as well as limited                effectiveness, delayed onset, and significant off-target effects of treatments
+ We developed a form of repetitive               transcranial magnetic stimulation of the left dorsolateral prefrontal cortex (lDLPFC) that in an open-label study               was associated with remission from MDD in 90% of individuals in 1-5 days (Stanford Accelerated Intelligent                Neuromodulation Therapy, SAINT)
+ This provides a tool to begin exploring the functional connectivity (FC)              changes associated with MDD remission
+ Resting-state fMRI scans were performed before and after SAINT in               18 participants with moderate-to-severe, treatment-resistant MDD
+ FC was determined between regions of            interest defined a priori by well-described roles in emotion regulation
+ Following SAINT, FC was significantly               decreased between subgenual cingulate cortex (sgACC) and 3 of 4 default mode network (DMN) nodes
+               Significant reductions in FC were also observed between the following: DLPFC-striatum, DLPFC-amygdala,            larger decreases in FC between DLPFC-amygdala and DLPFC-insula, as well as smaller decreases in FC               between sgACC-DMN
+ Greater clinical improvements were correlated with lower baseline FC between            DMN-DLPFC, DMN-striatum, and DMN-ventrolateral prefrontal cortex
+ The multiple, significant reductions in           FC we observed following SAINT and remission from depression support the hypothesis that MDD is a state of                  hyper-connectivity within these networks, and rapid decoupling of network nodes may lead to rapid remission               certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    Major depressive disorder is common and debilitating
+ It has been difficult to study the brain changes                associated with recovery from depression, because treatments take weeks-to-months to become effective, and             symptoms fail to resolve in many people
+ We recently developed a type of magnetic brain stimulation called                 SAINT
+ SAINT leads to full remission from depression in 90% of people within 5 days
+ We used SAINT and                   functional magnetic resonance imaging to determine how the brain changes with rapid remission from              depression
+ We found changes in areas of the brain associated with emotion regulation
+ This provides a                significantly clearer picture of how the non-depressed brain differs from the depressed brain, which can be                certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    Major depressive disorder (MDD) is the leading cause of disability worldwide (1, 2) and is increasingly common                 with a lifetime prevalence in the United States of more than 20% ()
+ Combating this endemic disease will                  require improvements in prophylaxis and treatments; however, the development of both is limited in part by                Investigating the network-level changes associated with remission from MDD has been particularly            challenging due to disease heterogeneity of MDD (4, 5), as well as antidepressant medications requiring               weeks-to-months to induce remission (6) with limited efficacy (7, )
+ Conventional repetitive transcranial             magnetic stimulation (rTMS) has been used to investigate functional connectivity changes that occur with              remission (9); however, conventional rTMS also requires several weeks to induce remission with less than half                of patients remitting ()
+ Electroconvulsive therapy (ECT) has greater efficacy and more rapid onset of action                than antidepressant medications; however, mean onset is still >2 weeks (11), open-label remission rates occur               in only 50-65% of patients (7), and there are numerous significant off-target effects, including cognitive               disturbances (12) and effects on the motor system (13), making it difficult to determine which network changes                 are specific to remission from depression
+ Ketamine induces brief remission rapidly but only in a third of                 patients (14, 15) and with significant off-target effects (16, )
+ Incipient investigations of potent 5-HT2a               agonists demonstrate high rates of rapid remission (18, 19); yet, the off-target effects are profound ()
+ We                 recently developed a form of repetitive transcranial magnetic stimulation (rTMS) that was associated with              remission in 90% of individuals (n=21) with moderate-to-severe, treatment-resistant MDD in a mean of ~3 days                without off-target effects in an open-label study (21, )
+ This treatment provides a new opportunity to                We chose to begin our investigation at the network level with a resting-state functional connectivity (FC)                analysis, because neuroimaging-based approaches that assess resting-state FC have demonstrated some           success in investigating neurocircuit-level dysfunction of MDD
+ These approaches have been used to             investigate neurophysiological subtypes of MDD (4, 5) and predict treatment efficacy of rTMS (23, 24, 4,                )
+ Given the promise of this approach, we performed resting state FC analyses on participants before                and after SAINT
+ For this initial investigation, we restricted our analysis to brain regions involved in emotion                 Several lines of evidence suggest dysfunction of emotion regulation in MDD (31) with neural correlates               observed with fMRI (32, )
+ The neural basis of emotion regulation includes emotional reactivity: amygdala               and striatum; explicit control of emotion  central executive network (CEN): dorsolateral prefrontal cortex              (dlPFC), ventrolateral PFC (vlPFC); and implicit emotion regulation  default mode network (DMN), salience              certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    affective network (SN) and insula
+ For review, see Etkin et al ()
+ Specifically, dysfunction within the DMN,                 CEN, and SN has repeatedly been reported in individuals with MDD ()
+ Numerous fMRI studies have                demonstrated that individuals with MDD have altered frontal connectivity with amygdala (4044) and striatum              (23, 4547); hyperconnectivity between DMN and amygdala (4851); and alterations in insular connectivity             Following the emotional dysregulation hypothesis of depression, stimulation of the CEN at the lDLPFC              node, via rTMS (37, 54, 55) and transcranial direct current stimulation (56), has been hypothesized to produce                 antidepressant effects by enhanced regulation of emotion
+ This is in line with Chen et als seminal interleaved                 TMS/fMRI study demonstrating causal interactions between CEN and DMN, such that increased activity in              CEN results in suppression of DMN (57), and this has led others to hypothesize that improved accuracy of                  targeting these networks might produce better treatment efficacy (2729, 5860), as only a third or less of                 participants remit from their depressive episode with rTMS stimulation of the lDLPFC, a CEN node ()
+                We hypothesized that individualized targeting and enhanced stimulation techniques could improve outcomes            (22), and we developed Stanford Accelerated Intelligent Neuromodulation Therapy (SAINT)
+ In our initial             open-label trial of SAINT in patients (n=21) with moderate-to-severe, treatment-resistant depression, we            observed a strikingly high remission rate of 90% with a mean of ~3 days of treatment to produce remision ()
+                    Thus, FC changes that occur following SAINT may reflect generalized network-level changes associated with              remission from depression
+ Herein, we report our first investigation of the resting-state FC changes that occur                Eighteen participants [9 males, mean age 
+ 
+6 (meanSD)] were recruited for the study and              received viable MRI scans before and after SAINT
+ Participants had a diagnosis of MDD with a mean Hamilton                  Depression Rating Scale 17-item (HAMD-17) score of 
+ 
+2 and a treatment history of not responding to a                 mean of 
+ 
+7 antidepressant and 
+ 
+5 augmentation medications
+ Please refer to the parent clinical trial               for more detail on participant characteristics and specific psychotropic medications ()
+ Participants received             a 5-day treatment course under the SAINT protocol
+ Stimulation location was depth-corrected (64) and chosen               based on an algorithm that selected the area within the left dorsolateral prefrontal cortex (lDLPFC) with the                 most negative FC with sgACC ()
+ Ten sessions per day of intermittent theta-burst stimulation [iTBS, 60                cycles of 10 bursts of 3 pulses at 50Hz delivered in 2-second trains with an 8-second inter-train interval] were                   delivered hourly at 90% resting motor threshold for 5 consecutive days for a total of 90,000 pulses
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    Mean HAMD-17 significantly decreased from 
+280 (
+909, range 20-35) at baseline to 
+722            (
+599, range 0-16) after treatment (t ()=
+275, p<
+001 )
+ Mean MADRS significantly decreased from            
+220 (
+208, range 27-44) at baseline to 
+833 (
+813, range 0-19) after treatment (t()=
+915, p<
+ )
+              Baseline HAMD-17 and MADRS scores were highly correlated (r=
+817, p<
+001), as were the            percent-change scores from baseline to post-treatment (r=
+948, p<
+ )
+ MADRS was used as the primary             clinical outcome for all FC analyses, and all results are equivalent for HAMD-
+ We examined FC changes that occurred with SAINT
+ Paired t-tests (FDR-corrected) demonstrated            significant decrease in FC between lsgACC and 3 of 4 DMN nodes (lsgACC-fDMN: t()=
+335, q =
+036;                lsgACC-mDMN: t()=
+027, q=
+008; lsgACC-rDMN: t()=
+660, q=
+ )
+ A similar trend was found for FC             FC reductions were also observed between rDLPFC and amygdala (t()=
+303, q=
+036), and striatum             (rDLPFC-limS: t()=
+354, q=
+032), between SN nodes and amygdala (AI-lCMA: t()=
+601, q=
+002;           AI-rCMA: t()=
+167, q=
+006; dACC-rBLA: t()=
+515, q=
+023; AI-rBLA: t()=
+206, q=
+045), between DMN           and amygdala (fDMN-rCMA: t()=
+491, q=
+024; fDMN-rSA: t()=
+520, q=
+023), between DMN and striatum            striatum: t()=
+279, q=
+039), between left insula and amygdala (linsula-lCMA: t()=
+177, q=
+049,           q=
+024; rCMA-rSA: t()=
+481, q=
+040) (Figure )
+ Select non-significant results are also included in Figure              We assessed the relationship between changes (percent change from baseline) in FC and depression              symptoms using standard linear regression techniques adjusted for multiple comparisons (FDR)
+  Changes in FC between lDLPFC and other ROIs were significantly associated with changes in MADRS               scores with better clinical outcomes correlated with greater decreases in FC between lDLPFC and lCMA               changes in FC between insula and amygdala were significantly associated with changes in MADRS scores               with better clinical outcomes correlated with greater decreases in FC between rinsula and rBLA (R=
+215, t                In contrast, smaller magnitude reductions (and larger magnitude increases) in FC between sgACC and              DMN nodes were associated with better clinical outcomes
+ Specifically, greater depression symptom            certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    improvements were correlated with increased FC between rsgACC and lDMN (R=
+225, t()=-
+437, q=
+027)             and FC between lsgACC and mDMN (R=
+219, t()=-
+399, q=
+ )
+ Although the overall group mean FC               decreased with SAINT (see prior section), larger magnitude percent-reductions in MADRS scores were             associated with smaller reductions and larger increases in FC between sgACC and DMN
+ The same               relationship was found for FC between linsula and rSA (R=
+291, t()=-
+827, q=
+012) (Figure )
+ Gender and age were not found to be confounders (all ps>
+05), and all significant effects remained                 when including gender and age as covariates in multiple-regression models (all qs<
+ )
+ We assessed the association between baseline FC and changes in MADRS scores with a similar linear                regression approach
+ Larger improvements in MADRS scores were correlated with lower baseline FC between              q=
+026) and between lDMN and striatum (limbic striatum-lDMN: R=
+312, t()=
+951; q=
+009; executive            Gender and age were not found to be confounders (all ps>
+05), and all significant effects remained                when including gender and age as covariates in multiple-regression models (all qs<
+ )
+ Please see Supplementary Figure S1 for heat maps depicting all FC changes that were observed               following SAINT
+ All pairwise comparisons for changes in FC following SAINT can be found in Supplementary                Table 
+ All linear regressions between change in FC and changes in MADRS are reported in Supplementary                 Table 
+ All linear regressions between baseline FC and changes in MADRS are reported in Supplementary                The development of SAINT has provided us with a unique opportunity to assess the FC changes that                 occur during rapid remission from moderate-to-severe, treatment-resistant MDD
+ The analysis we undertook in             this initial report focused on brain regions associated with emotion regulation, and we found that FC                significantly decreases between several of these regions following remission from MDD, with the magnitude of               FC change often correlating with symptom improvement
+ Moreover, we found pre-treatment connectivity            between several regions to be predictive of the magnitude of this improvement
+  Notably, we observed a significant reduction in mean sgACC-DMN connectivity after SAINT, and this              reduction was present between sgACC and 3 of 4 DMN nodes, with a nearly significant trend in the remaining                   certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    node
+ In previous studies of depression, hyper-activity/connectivity within DMN has been considered as             evidence of dysfunction of rumination and self-referential processing, and antidepressant treatment is            hypothesized to normalize DMN activity and connectivity (24, 37, )
+ Our results support this hypothesis               and raise another important question: Does the magnitude of overall suppression of DMN FC track with                antidepressant treatment efficacy? Prior studies have reported significant reductions in FC between sgACC             and 1 to 2 nodes of DMN (24, 37, 6567); whereas, we observed significant reduction in FC in nearly all DMN                     nodes
+ Bearing in mind that open-label SAINT was associated with remission in 90% of participants in 1-5 days                  Moreover, this hypothesis builds on some of the earliest neuroimaging studies in the field of psychiatry,                which reported increased sgACC activity in patients during depressive episodes ()
+ This has been              hypothesized to be causally related to reductions in lDLPFC activity (69) and reinforced by observations that                antidepressant treatments lead to reductions in sgACC activity ()
+ For review, see Hamani et al ()
+                Early investigators concomitantly reported observations of hypometabolism and hypoperfusion in the lDLPFC            of patients with MDD ()
+ Later investigators demonstrated that lDLPFC activity is restored with treatment               of MDD (70, 71, 8287), and this early data prompted investigators to begin hypothesizing a major role of                  This led to the conception of depression as dysregulation in corticolimbic systems ()
+ In recent years,                this concept has continued to evolve to include neural networks and their interactions
+ Several groups have                reported evidence that depression is associated with increased FC between sgACC and DMN (35, 36, 53,                9094), and others have shown that stimulation of lDLPFC potentiates upstream neural circuits to normalize               sgACC-DMN connectivity (24, 37, )
+ This does not seem to be limited to individuals with depression, as                 rTMS of lDLPFC also has been shown to improve mood and reduce connectivity between sgACC and DMN in                  never-depressed participants ()
+ Thus, we hypothesize that the significant reduction in FC in nearly all DMN                nodes that we observed in SAINT may reflect the normalization of DMN hyper-connectivity associated              Interestingly, at the group level, FC between sgACC and DMN significantly decreased following SAINT              in our cohort; however, individual changes in FC magnitude showed that participants with increased FC               between sgACC and DMN actually had the greatest clinical improvement
+ One interpretation is that              normalization of FC between sgACC and DMN is more complex than magnitude of FC change between 2                 nodes
+ Alternately, disease heterogeneity may be related to changes in FC that are challenging to predict at                 the individual level with current approaches
+ Others have reported the opposite direction of association with the                largest improvements in depression being associated with the largest reductions in FC between sgACC and               mDMN (67); however, their patient cohort had comorbid post-traumatic stress disorder, which may respond              certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    differently to rTMS of the lDLPFC ()
+ Further, both Philip et al (67) and our current report found an overall                    reduction in mean FC between sgACC and DMN in participants with improved depressive symptoms
+ This               possible discrepancy could also be due to the limited variability in post-treatment MADRS scores in our                sample
+ Also, we do not know how FC changed throughout the treatment course
+ Those who responded the earliest generally had larger reductions in MADRS scores; thus, there could                be a staged, non-monotonic change in FC whereby FC initially decreases until symptoms remit and then                increases with continued treatment
+ A similar non-monotonic time course has been reported for psilocybin,              whereby acute administration decouples sgACC from DMN (97), but this connectivity increases from baseline              in the days following treatment ()
+ Thus, additional studies will be crucial to determine the validity, reliability,                 Our assessment of the association between baseline FC and clinical improvements in depression             scores also revealed a central role of the DMN
+ Greater clinical improvements were associated with lower                baseline FC between DMN and DLPFC, striatum, and ventrolateral prefrontal cortex
+ Although FC between              DLPFC and DMN predicts efficacy of ECT (98), other studies with similar findings could not be located with                  extensive database searching
+ Past studies that have utilized FC to predict response have found that FC                between stimulation site lDLPFC and striatum predicts TMS (23, 25), and several groups have reported that                FC between stimulation site and sgACC that is more negative results in greater reductions in depressive                symptoms with rTMS (28, 29, )
+ In our current study, we optimized targeting by stimulating the portion of                  lDLPFC with maximum anticorrelation with sgACC; thus, it is possible that this may underlie the striking                reductions in depression symptoms we observed
+ Finally, in contrast to antidepressant medications (30), intact              baseline connectivity between DMN and ACC was not related to outcomes following SAINT
+ Considering that               depressive disorders may be distinguished based on intrinsic connectivity (99), it is interesting to note that                SAINT was largely effective regardless of intrinsic connectivity, which may indicate that its mechanism of               In addition to reduced FC between sgACC and DMN, we observed several other notable changes in                FC
+ Specifically, we found reductions in connectivity between DLPFC and amygdala, insula, and limbic              striatum to be associated with clinical improvement in depression
+ For rDLPFC-left amygdala FC, in addition to                finding reduced positive FC, we also found that greater clinical improvement was associated with larger               decreases in FC
+ Several fMRI studies have demonstrated that individuals with MDD have altered frontal               connectivity with amygdala ()
+ Depressed individuals may have increased positive connectivity between            rDLPFC and left amygdala (100, 101), and individuals with depression have an impaired ability to regulate                negative emotions ()
+ Considering that non-depressed individuals can better suppress amygdala activity (43,             44), our results here could represent a partial normalization of connectivity related to improved emotion               certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    regulation, i
+ e
+ baseline positive FC between rDLPFC-amygdala is pathological, a reduction in positive FC is               improved, and negative FC is normalized; however, our experimental design did not include never-depressed              participants, so this remains speculative
+ Our combined findings of changes in FC with sgACC and amygdala                following DLPFC stimulation with SAINT is supported by recent work with interwoven TMS and fMRI that                Similarly, we found that greater clinical improvements were associated with larger decreases in FC              between lDLPFC and insula
+ Insula has a well-known role in interoception (103, 104), and insula activity is                 correlated with abnormal interoception in MDD ()
+ Insula metabolism has been linked to predicting              antidepressant treatment response, and has thus been proposed as a depression biomarker ()
+ Our results               here are similar to other reports
+ Theta-burst rTMS stimulation of lDLPFC has been reported to reduce the                 magnitude of FC between lDLPFC and right insula (107) with baseline FC between these structures predicting                clinical response ()
+ Interestingly, individuals with subthreshold depression have lower FC between DLPFC             (laterality not specified) and left insula compared to non-depressed individuals ()
+ This apparent directional              mismatch highlights the importance of determining the causality of mechanism using within-subject analyses             prior to using these findings as biomarkers to optimize treatment efficacy
+  We also observed reduced FC in rDLPFC-limbic striatum following SAINT
+ Increased rDLPFC-dorsal            caudate connectivity has been reported to correlate with increased depression severity (110), and FC between               rDLPFC and ventral rostral putamen has been shown to decrease following depression treatment ()
+              Similarly, Furman et al found that depressed individuals have greater FC between DLPFC and dorsal caudate,                and this FC was significantly correlated with depression severity, but they did not specify laterality ()
+ This                 association has also been reported for lDLPFC-ventral striatum FC
+ Avissar et al reported that improvement in                depression correlated with more reduction in lDLPFC-ventral striatum FC following treatment with rTMS of              lDLPFC ()
+ Thus, reducing DLPFC-striatum FC may be an important route to inducing remission from               depression
+ The combined results show consistent association between significant changes in DLPFC FC with              limbic structures following SAINT, which supports the hypothesis that regulation of emotion plays a central role                This hypothesis is further supported by our observation that following SAINT we found a significant               decoupling of SN nodes, i
+ e
+ reduced FC between amygdala-insula, amygdala-dACC, amygdala-limbic           striatum, and between amygdala subregions
+ Increased SN FC has been reported to be associated with               decreased anticipated pleasure (112) and MDD ()
+ Further, other groups have reported that individuals with               MDD have greater FC between insula and amygdala (105, 114) and amygdala and striatum ()
+ This                dysfunction in SN FC may underlie the biased reactivity to negative emotions observed in individuals with MDD                 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    Some results we observed are more challenging to interpret
+ For example, following SAINT, FC              significantly decreased between fDMN and multiple subregions of right amygdala and between multiple DMN              nodes and striatum
+ rTMS of the lDLPFC has previously been shown to reduce FC between DMN and striatum                  in non-depressed individuals ()
+ However, other reports suggest the opposite association for mDMN             (posterior cingulate cortex and precuneus): Individuals with depression have reduced FC between amygdala             and precuneus compared to non-depressed controls (116), and connectivity between amygdala and posterior             cingulate cortex is greater in less depressed individuals ()
+ Our finding that FC between DMN and striatum                 decreased after SAINT is consistent with groups who have observed a similar change with antidepressant               (118) and ECT treatment ()
+ Others have reported that FC between mDMN and caudate is reduced in                 depressed individuals (120), indicating this may be a compensatory mechanism; however, this is complicated              by reports that reduced FC between DMN and ventral striatum is associated with impaired reward responsivity                ()
+ Thus, a causal association between these changes in FC with depression is difficult to infer at this time
+  Our observations should be considered in the context of the studys weaknesses
+ Foremost, the              open-label design without a sham or standard-of-care rTMS control group limits our ability to determine if FC                 changes were due to SAINT, remission from MDD, or the passage of time
+ Sham-controlled, double-blinded               assessment of SAINT is currently underway to address this important question
+ A strength and weakness of                our analysis is the low variability in treatment-associated changes in depressive symptoms
+ Ninety percent of               individuals were in remission from MDD following SAINT, with only 2 participants not remitting in this cohort,                 linear-regression assessments demonstrated floor-effects, likely eliminating the potential to observe possible           associations between changes in FC and clinical response
+ The small sample size further limited our likelihood                of observing inter-individual differences
+ On the other hand, the high proportion of remitters increases our               confidence in mean changes in functional connectivities across the group
+ Follow-up controlled trials will be               helpful in determining the reliability of the findings we observed here
+ A limitation of our neuroimaging methods                 is that our resolution was insufficient to explore the role of the hippocampus and its sub-regions
+ As the                  hippocampus has numerous reports describing an important role in depression (122), future studies of SAINT               would benefit from assessment of FC related to this important structure
+ Finally, we included ROIs with multiple                 prior reports demonstrating a role in emotion regulation; however, we did not confirm that the changes in FC                  that we observed were associated with changes in emotion regulation beyond standardized depression scales
+ Depression remains a major public health problem with current treatments taking weeks to months to               induce remission, and there are millions of people who are not effectively treated with current methods
+                Development of improved treatments could be accelerated by a better understanding of the neural changes               that are necessary and sufficient to achieve disease remission
+ Our recent development of SAINT, which               certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    produces rapid and high rates of remission from MDD, provides an opportunity to begin searching for these                 neural changes
+ Our initial analysis of brain regions associated with emotion regulation demonstrates MDD              remission is associated with a significant reduction in FC between sgACC and almost all major nodes of the                  DMN, bolstering prior hypotheses of the central role this network plays in MDD
+ We also found that decoupling                  of SN nodes was correlated with depression improvement, highlighting the role of other networks as well
+ As                 our current study is based on an open-label trial of SAINT, controlled trials will be necessary to determine                  which observed changes in FC are unique to SAINT and disease remission in order to prioritize network-level                 Detailed information regarding the participants, SAINT protocol, experimental design, and behavioral           data analysis can be found in our prior report ()
+ Briefly, participants treated with SAINT had a diagnosis of                   treatment-resistant MDD and complete MRI scans both pre- and post-SAINT
+ Diagnosis of MDD was              confirmed with the Mini International Neuropsychiatric Interview (MINI)
+ Participants were required to have a              Hamilton Depression Rating Scale 17-item (HDRS-17) score higher than 20 and not have responded to at                least 1 antidepressant medication (minimum trial duration of 6 weeks) to be eligible for the study
+ Participants                 had no history of a psychotic disorder, substance use disorder, major systemic illness, current mania               (assessed using the Young Mania Rating Scale), lesional neurological disorder, or any contraindications to              rTMS or MRI (such as implanted metal or history of seizures)
+ All participants provided written informed                consent, and the study was approved by the Stanford University Institutional Review Board and in accordance                Participants received a 5-day treatment course under the SAINT protocol
+ Stimulation location was             chosen based on an algorithm that selected the area within the left dorsolateral prefrontal cortex (lDLPFC) with                 the most negative FC with sgACC
+ This is described in detail in our prior report ()
+ A MagVenture MagPro                   X100 (MagVenture A/S, Denmark) system was used to deliver sessions of intermittent theta-burst stimulation              (iTBS): 60 cycles of 10 bursts of 3 pulses at 50Hz were delivered in 2 second trains (5Hz) with an 8 second                      inter-train interval Stimulation sessions were delivered hourly
+ Ten sessions were applied per day (18,000              pulses/day) for 5 consecutive days (90,000 pulses in total)
+ Stimulation was delivered at 90% resting motor                threshold (rMT)
+ A depth correction (64) was applied to the resting motor threshold to adjust for differences in                  the cortical depth of the individuals functional target compared to the primary motor cortex in order to                 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    consistently achieve 90% rMT in the intended functional target, but stimulation was never delivered above               120% rMT for safety
+ A Localite Neuronavigation System (Localite GmbH, Sankt Augustin, Germany) was              used to position the TMS coil over the individualized stimulation target
+ All participants in this reports subset                 Participants depressive symptoms were assessed using the Hamilton Depression Rating Scale-17 item            (HAMD-17) (123) and Montgomery-Asberg Depression Rating Scale (MADRS) (Montgomery and Asberg,           )
+ HAMD-17 and MADRS assessments were performed 1-4 days before SAINT (baseline) and 1-4 days               after the 5-day SAINT treatment (post-treatment) in concordance with MRI scans
+ All participants were screened for MRI safety prior to any scanning procedures
+ MRI scans were               acquired approximately 72hrs before SAINT (baseline) and approximately 72hrs after the 5-day SAINT             treatment (post-treatment)
+ Each participant underwent identical baseline and post-treatment MRI scans           consisting of structural and resting-state functional MRI acquisitions
+ All MRI scans were acquired using a 3T                GE Discovery MR750 scanner with a 32-channel head-neck imaging coil at the Center for Cognitive and                were acquired for the whole brain (FOV=256x256mm; matrix=256x256 voxel; slice thickness=
+9mm;           During the 8-min resting state scans, participants were instructed to keep their eyes open and their                attention focused on a central fixation point, which consisted of a black screen with a white fixation cross
+                  Participants were also instructed to let their minds wander freely and to avoid any repetitive thoughts such as                  counting
+ Whole-brain resting-state scans were collected with a 3X simultaneous multi-slice (i
+ e
+ multiband)             acquisition echo planar imaging (EPI) sequence: TR=2000ms, TE=30ms, flip angle=77, slice           contiguous axial slices parallel to the anterior commissure - posterior commissure line, yielding >
+4M voxels               every 2 seconds
+ Head motion of participants was effectively minimized with the use of memory foam and                 inflatable padding
+ Participant alertness during the resting state task was monitored using in-scanner video              The MRI data were preprocessed using FMRIPREPR version 
+ 
+3 (124) [RRID:SCR_]
+ Each            T1-weighted volume was corrected for intensity non-uniformity with NBiasFieldCorrectionv
+ 
+0 (125) and          skull-stripped using antsBrainExtraction
+ shv
+ 
+0 (using the OASIS template)
+ Spatial normalization to the         certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    ICBM 152 Nonlinear Asymmetrical template version 2009c (126) [RRID:SCR_008796] was performed through            nonlinear registration with the antsRegistration tool of ANTs v
+ 
+0 (127) [RRID:SCR_004757], using          brain-extracted versions of both T1-weighted volume and template
+ Brain tissue segmentation of cerebrospinal             fluid, white matter, and gray matter, was performed on the brain-extracted T1-weighted volume using fast (128)              The resting state data were motion corrected and then transformed into standard space (MNI)
+              Physiological noise regressors were extracted applying CompCor ()
+ Framewise displacement (130) was            calculated using the implementation of Nipype
+ Unsteady state volumes detected by FMRIPREPR were             censored out (range 3 ~ 9, mean=
+12, SD=
+ )
+ Independent component analysis-based Automatic Removal             Of Motion Artifacts was used to non-aggressively denoise the data ()
+ Next nuisance signal regression was                applied with signals from white matter and cerebrospinal fluid
+ All the volumes with framewise displacement               (FD) greater than 
+2mm were excluded; this resulted in exclusion of 1 participant, as greater than half of the                   dataset had FD>
+ mm
+ All the data were spatially smoothed (6-mm-full-width, half-maximal Gaussian kernel)             and temporal bandpass filtered (
+ -
+01 Hz)
+ Data were detrended using Nilearn ()
+ For this initial analysis, we restricted our ROIs to brain regions that have consistently been reported to                 play a role in MDD and emotion regulation: DLPFC, VLPFC, DMN, sgACC, SN, insula, amygdala and striatum
+ In line with prior studies (26, 37, 78, 133, 134), the DLPFC (BA9, BA46), VLPFC (BA44, BA45, BA47),                  and the sgACC (BA25) were defined by Brodmann areas (BA), using the Talairach atlas ()
+ The 4 nodes of                   DMN were extracted from the Multi-Subject Dictionary Learning (MSDL) atlas
+ DMN nodes were labeled using               MSDL nomenclature: fDMN (Frontal DMN: medial prefrontal cortex), mDMN (median DMN: posterior cingulate             cortex and precuneus), lDMN (left DMN: left angular gyrus), rDMN (right DMN: right angular gyrus) ()
+ The                 nodes of the SN, including anterior insula (AI) and dorsal anterior cingulate cortex (dACC), and insula were                 also obtained from MSDL
+ The striatum and amygdala are large nuclei with heterogeneous functions (23,               137141); hence, we constructed our ROIs of these structures by subregions
+ The executive and limbic               (striatum-con-label-thr25-3sub) ()
+ Amygdala and its subregions were extracted using the Julich histological            atlas: centromedian amygdala (CMA), basolateral amygdala (BLA), and superficial amygdala (SA) ()
+ All statistical analyses were conducted with R ()
+ FC was calculated as the correlation (Pearson) of                the activity pattern across time between ROIs
+ All Pearson correlation coefficients were then transformed into               Fisher's Z score for further analysis
+ Changes in mean MADRS, HAMD-17, and FC were assessed with paired                 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    t-tests
+ Changes in MADRS and FC were expressed as percent change from baseline:             improvement in depression symptoms
+ Linear regression models were used to test the relationship between              FC and depression scores with R2 values adjusted using the Wherry Formula ()
+ Statistical significance was                corrected for multiple comparisons across all comparisons using false discovery rate (FDR, threshold q=
+ )
+              This included correcting across 231 correlations between FC and MADRS changes, 231 correlations between              The authors kindly thank the following for supporting this study: Charles R
+ Schwab, The Marshall and                Dee Ann Payne Fund, the Lehman Family, Neuromodulation Research Fund, Still Charitable Fund, Avy L
+ and                Robert L
+ Miller Foundation, Stanford Psychiatry Chairmans Small Grant, Stanford CNI Innovation Award, NIH              T32 035165, NIH UL1 TR001085, Stanford Medical Scholars Research Scholarship, NARSAD Young            Investigator Award, the Gordie Brookstone Fund, and the Stanford Department of Psychiatry & Behavioral              
+ Friedrich MJ
+ Depression Is the Leading Cause of Disability Around the World [Internet]
+ JAMA 
+ World Health Organization
+ Depression and Other Common Mental Disorders [Internet];
+ 
+ Hasin DS et al Epidemiology of Adult DSM-5 Major Depressive Disorder and Its Specifiers in the United 
+ Drysdale AT et al Resting-state connectivity biomarkers define neurophysiological subtypes of depression
+ 
+ Dinga R et al Evaluating the evidence for biotypes of depression: attempted replication of Drysdale et
+al 
+ Trivedi MH et al Evaluation of outcomes with citalopram for depression using measurement-based care in certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    
+ Heijnen WT, Birkenhger TK, Wierdsma AI, van den Broek WW
+ Antidepressant pharmacotherapy failure and response to subsequent electroconvulsive therapy: a meta-analysis
+ J
+ Clin
+ Psychopharmacol
+ 
+ Rush AJ et al Acute and longer-term outcomes in depressed outpatients requiring one or several treatment 
+ Fettes PW et al Abnormal Functional Connectivity of Frontopolar Subregions in Treatment-Nonresponsive 
+ Carpenter LL et al Transcranial magnetic stimulation (TMS) for major depression: a multisite, naturalistic, observational study of acute treatment outcomes in clinical practice
+ Depress
+ Anxiety ;():
+ 
+ Fink M
+ What was learned: studies by the consortium for research in ECT (CORE) 1997-2011 [Internet]
+ 
+ Semkovska M, McLoughlin DM
+ Objective cognitive performance associated with electroconvulsive therapy 
+ Williams NR et al Unilateral ultra-brief pulse electroconvulsive therapy for depression in Parkinsons 
+ Xu Y et al Effects of Low-Dose and Very Low-Dose Ketamine among Patients with Major Depression: a 
+ Lener MS, Kadriu B, Zarate CA
+ Ketamine and Beyond: Investigations into the Potential of Glutamatergic 
+ Wan L-B et al Ketamine safety and tolerability in clinical trials for treatment-resistant depression
+ J
+ Clin
+ 
+ Correia-Melo FS et al Rapid infusion of esketamine for unipolar and bipolar depression: a retrospective 
+ Carhart-Harris RL et al Psilocybin for treatment-resistant depression: fMRI-measured brain mechanisms
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    
+ Ross S et al Rapid and sustained symptom reduction following psilocybin treatment for anxiety and depression in patients with life-threatening cancer: a randomized controlled trial [Internet]
+ J
+ 
+ Griffiths RR et al Psilocybin occasioned mystical-type experiences: immediate and persisting dose-related 
+ Cole EJ et al Stanford Accelerated Intelligent Neuromodulation Therapy for Treatment-Resistant 
+ Williams NR et al High-dose spaced theta-burst TMS as a rapid-acting antidepressant in highly refractory 
+ Avissar M et al Functional connectivity of the left DLPFC to striatum predicts treatment response of 
+ Baeken C et al Accelerated HF-rTMS in treatment-resistant unipolar depression: Insights from subgenual anterior cingulate functional connectivity
+ World J
+ Biol
+ Psychiatry Off
+ J
+ World Fed
+ Soc
+ Biol
+ Psychiatry 
+ Du L et al Stimulated left DLPFC-nucleus accumbens functional connectivity predicts the anti-depression and anti-anxiety effects of rTMS for depression [Internet]
+ Transl
+ Psychiatry ;():
+ 
+ Fox MD, Buckner RL, White MP, Greicius MD, Pascual-Leone A
+ Efficacy of transcranial magnetic stimulation targets for depression is related to intrinsic functional connectivity with the subgenual cingulate
+ 
+ Siddiqi SH et al Repetitive Transcranial Magnetic Stimulation with Resting-State Network Targeting for Treatment-Resistant Depression in Traumatic Brain Injury: A Randomized, Controlled, Double-Blinded Pilot 
+ Weigand A et al Prospective Validation That Subgenual Connectivity Predicts Antidepressant Efficacy of 
+ Cash RFH et al Subgenual functional connectivity predicts antidepressant treatment response to certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    transcranial magnetic stimulation: independent validation and evaluation of personalization
+ Biol
+ Psychiatry 
+ Goldstein-Piekarski AN et al Intrinsic functional connectivity predicts remission on antidepressants: a randomized controlled trial to identify clinically applicable imaging biomarkers
+ Transl
+ Psychiatry ;():
+ 
+ Joormann J, Vanderlind WM
+ Emotion regulation in depression: The role of biased cognition and reduced 
+ Rive MM et al Neural correlates of dysfunctional emotion regulation in major depressive disorder
+ A systematic review of neuroimaging studies
+ Neurosci
+ Biobehav
+ Rev
+ 2013;37(10 Pt ):
+ 
+ Sheline YI et al The default mode network and self-referential processes in depression
+ Proc
+ Natl
+ Acad
+ 
+ Etkin A, Bchel C, Gross JJ
+ The neural bases of emotion regulation [Internet]
+ Nat
+ Rev
+ Neurosci
+ 
+ Greicius MD et al Resting-state functional connectivity in major depression: abnormally increased 
+ Hamilton JP, Farmer M, Fogelman P, Gotlib IH
+ Depressive Rumination, the Default-Mode Network, and 
+ Liston C et al Default Mode Network Mechanisms of Transcranial Magnetic Stimulation in Depression 
+ Sheline YI, Price JL, Yan Z, Mintun MA
+ Resting-state functional MRI in depression unmasks increased connectivity between networks via the dorsal nexus
+ Proc
+ Natl
+ Acad
+ Sci
+ U
+ S
+ A
+ 
+ Wise T et al Instability of default mode network connectivity in major depression: a two-sample 
+ Almeida JRC de et al Abnormal Amygdala-Prefrontal Effective Connectivity to Happy Faces Differentiates certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    
+ Beauregard M, Paquette V, Lvesque J
+ Dysfunction in the neural circuitry of emotional self-regulation in 
+ Erk S et al Acute and sustained effects of cognitive emotion regulation in major depression
+ J
+ Neurosci
+ 
+ Greening SG, Osuch EA, Williamson PC, Mitchell DGV
+ The neural correlates of regulating positive and negative emotions in medication-free major depression
+ Soc
+ Cogn
+ Affect
+ Neurosci
+ ;():
+ 
+ Stephanou K, Davey CG, Kerestes R, Whittle S, Harrison BJ
+ Hard to look on the bright side: neural correlates of impaired emotion regulation in depressed youth [Internet]
+ Soc
+ Cogn
+ Affect
+ Neurosci
+ 
+ Furman DJ, Hamilton JP, Gotlib IH
+ Frontostriatal functional connectivity in major depressive disorder
+ Biol
+ 
+ Pan PM et al Ventral Striatum Functional Connectivity as a Predictor of Adolescent Depressive Disorder in 
+ Redlich R et al Reward Processing in Unipolar and Bipolar Depression: A Functional MRI Study
+ 
+ de Kwaasteniet B et al Relation between structural and functional connectivity in major depressive 
+ Li W et al Amygdala network dysfunction in late-life depression phenotypes: Relationships with symptom 
+ Pannekoek JN et al Aberrant resting-state functional connectivity in limbic and salience networks in 
+ Peters AT, Burkhouse K, Feldhaus CC, Langenecker SA, Jacobs RH
+ Aberrant resting-state functional connectivity in limbic and cognitive control networks relates to depressive rumination and mindfulness: A pilot study among adolescents with a history of depression
+ J
+ Affect
+ Disord
+ ;:
+ 
+ Connolly CG et al Resting-state functional connectivity of the amygdala and longitudinal changes in certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    
+ Kaiser RH et al Dynamic Resting-State Functional Connectivity in Major Depression
+ 
+ De Raedt R et al Neurocognitive effects of HF-rTMS over the dorsolateral prefrontal cortex on the attentional processing of emotional information in healthy women: an event-related fMRI study
+ Biol
+ Psychol
+ 
+ Lantrip C, Gunning FM, Flashman L, Roth RM, Holtzheimer PE
+ Effects of Transcranial Magnetic Stimulation on the Cognitive Control of Emotion: Potential Antidepressant Mechanisms
+ J
+ ECT 
+ Wolkenstein L, Plewnia C
+ Amelioration of cognitive control in depression by transcranial direct current 
+ Chen AC et al Causal interactions between fronto-parietal central executive and default-mode networks in 
+ Fischer AS, Keller CJ, Etkin A
+ The Clinical Applicability of Functional Connectivity in Depression: 
+ Fox MD, Halko MA, Eldaief MC, Pascual-Leone A
+ Measuring and manipulating brain connectivity with resting state functional connectivity magnetic resonance imaging (fcMRI) and transcranial magnetic stimulation 
+ Luber BM et al Using neuroimaging to individualize TMS treatment for depression: Toward a new 
+ George MS et al Daily left prefrontal transcranial magnetic stimulation therapy for major depressive 
+ Levkovitz Y et al Efficacy and safety of deep transcranial magnetic stimulation for major depression: a certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    
+ OReardon JP et al Efficacy and Safety of Transcranial Magnetic Stimulation in the Acute Treatment of Major Depression: A Multisite Randomized Controlled Trial [Internet]
+ Biol
+ Psychiatry ;():
+ 
+ Stokes MG et al Simple metric for scaling motor threshold based on scalp-cortex distance: application to 
+ Baeken C, Duprat R, Wu G-R, De Raedt R, van Heeringen K
+ Subgenual Anterior CingulateMedial Orbitofrontal Functional Connectivity in Medication-Resistant Major Depression: A Neurobiological Marker for Accelerated Intermittent Theta Burst Stimulation Treatment? [Internet]
+ Biol
+ Psychiatry Cogn
+ Neurosci
+ 
+ Philip NS, Barredo J, Aiken E, Carpenter LL
+ Neuroimaging Mechanisms of Therapeutic Transcranial Magnetic Stimulation for Major Depressive Disorder
+ Biol
+ Psychiatry Cogn
+ Neurosci
+ Neuroimaging 
+ Philip NS et al Network Mechanisms of Clinical Response to Transcranial Magnetic Stimulation in 
+ George MS, Ketter TA, Post RM
+ SPECT and PET imaging in mood disorders
+ J
+ Clin
+ Psychiatry 1993;54 
+ Ito H et al Hypoperfusion in the limbic system and prefrontal cortex in depression: SPECT with anatomic standardization technique
+ J
+ Nucl
+ Med
+ Off
+ Publ
+ Soc
+ Nucl
+ Med
+ ;():
+ 
+ Koenigs M, Grafman J
+ The functional neuroanatomy of depression: distinct roles for ventromedial and 
+ Mayberg HS et al Regional metabolic effects of fluoxetine in major depression: serial changes and 
+ Dougherty DD et al Cerebral metabolic correlates as potential predictors of response to anterior 
+ Drevets WC, Savitz J, Trimble M
+ The Subgenual Anterior Cingulate Cortex in Mood Disorders [Internet]
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    
+ Goldapple K et al Modulation of cortical-limbic pathways in major depression: treatment-specific effects of 
+ Mayberg HS et al Deep brain stimulation for treatment-resistant depression
+ Neuron ;():
+ 
+ Mottaghy FM et al Correlation of cerebral blood flow and treatment effects of repetitive transcranial 
+ Nobler MS et al Decreased regional brain metabolism after ect
+ Am
+ J
+ Psychiatry ;():
+ 
+ Hamani C et al The subcallosal cingulate gyrus in the context of major depression
+ Biol
+ Psychiatry 
+ Baxter LR et al Reduction of prefrontal cortex glucose metabolism common to three types of depression 
+ Drevets WC et al Subgenual prefrontal cortex abnormalities in mood disorders
+ Nature 
+ Martinot J et al Left prefrontal glucose hypometabolism in the depressed state: a confirmation [Internet]
+ 
+ Brody AL et al Brain metabolic changes associated with symptom factor improvement in major depressive 
+ Kito S, Fujita K, Koga Y
+ Regional Cerebral Blood Flow Changes after Low-Frequency Transcranial Magnetic Stimulation of the Right Dorsolateral Prefrontal Cortex in Treatment-Resistant Depression [Internet]
+ 
+ Loo CK et al High (15 Hz) and low (1 Hz) frequency transcranial magnetic stimulation have different acute effects on regional cerebral blood flow in depressed patients [Internet]
+ Psychol
+ Med
+ ;():
+ 
+ Mayberg HS et al Reciprocal limbic-cortical function and negative mood: converging PET findings in 
+ Nahas Z et al Brain Effects of TMS Delivered Over Prefrontal Cortex in Depressed Adults: Role of certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    
+ Speer AM et al Opposite effects of high and low frequency rTMS on regional brain activity in depressed 
+ Goodwin GM
+ Neuropsychological and neuroimaging evidence for the involvement of the frontal lobes in 
+ Mayberg HS
+ Limbic-cortical dysregulation: a proposed model of depression [Internet]
+ J
+ Neuropsychiatry 
+ Berman MG et al Depression, rumination and the default network
+ Soc
+ Cogn
+ Affect
+ Neurosci
+ 
+ Chai XJ et al Altered Intrinsic Functional Brain Architecture in Children at Familial Risk of Major 
+ Hamilton JP et al Default-mode and task-positive network activity in major depressive disorder: 
+ Philippi CL, Motzkin JC, Pujara MS, Koenigs M
+ Subclinical depression severity is associated with distinct patterns of functional connectivity for subregions of anterior cingulate cortex
+ J
+ Psychiatr
+ Res
+ 
+ Zhu X et al Evidence of a dissociation pattern in resting-state default mode network connectivity in 
+ Singh A et al Personalized repetitive transcranial magnetic stimulation temporarily alters default mode 
+ Yesavage JA et al Effect of Repetitive Transcranial Magnetic Stimulation on Treatment-Resistant Major Depression in US Veterans: A Randomized Clinical Trial JAMA Psychiatry ;():
+ 
+ Carhart-Harris RL et al Neural correlates of the psychedelic state as determined by fMRI studies with 
+ Moreno-Ortega M et al Resting state functional connectivity predictors of treatment response to certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    
+ Price RB, Gates K, Kraynak TE, Thase ME, Siegle GJ
+ Data-Driven Subgroups in Depression Derived from Directed Functional Connectivity Paths at Rest
+ Neuropsychopharmacol
+ Off
+ Publ
+ Am
+ Coll
+ 
+ Han K, Chapman SB, Krawczyk DC
+ Altered Amygdala Connectivity in Individuals with Chronic Traumatic 
+ Liu L et al The Comorbidity Between Internet Gaming Disorder and Depression: Interrelationship and 
+ Oathes DJ et al Individualized non-invasive brain stimulation engages the subgenual anterior cingulate 
+ Critchley HD, Wiens S, Rotshtein P, hman A, Dolan RJ
+ Neural systems supporting interoceptive 
+ Zaki J, Davis JI, Ochsner KN
+ Overlapping activity in anterior insula during interoception and emotional 
+ Avery JA et al Major Depressive Disorder Is Associated With Abnormal Interoceptive Activity and 
+ McGrath CL et al Toward a neuroimaging treatment selection biomarker for major depressive disorder
+ 
+ Iwabuchi SJ et al Targeted transcranial theta-burst stimulation alters fronto-insular network and prefrontal 
+ Iwabuchi SJ, Auer DP, Lankappa ST, Palaniyappan L
+ Baseline effective connectivity predicts response to 
+ Hwang JW et al Subthreshold depression is associated with impaired resting-state functional connectivity certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    
+ Kerestes R et al Specific functional connectivity alterations of the dorsal striatum in young people with 
+ Wang Z et al Acupuncture treatment modulates the corticostriatal reward circuitry in major depressive 
+ Rzepa E, McCabe C
+ Decreased anticipated pleasure correlates with increased salience network resting state functional connectivity in adolescents with depressive symptomatology
+ J
+ Psychiatr
+ Res
+ 
+ Manoliu A et al Insular dysfunction within the salience network is associated with severity of symptoms and aberrant inter-network connectivity in major depressive disorder
+ Front
+ Hum
+ Neurosci
+ ;:
+ 
+ Jacobs RH et al Decoupling of the amygdala to other salience network regions in adolescent-onset 
+ Strigo IA, Simmons AN, Matthews SC, Craig ADB, Paulus MP
+ Association of major depressive disorder with altered functional brain response during anticipation and processing of heat pain
+ Arch
+ Gen
+ Psychiatry 
+ Wang Y, Yang S, Sun W, Shi Y, Duan H
+ Altered functional interaction hub between affective network and cognitive control network in patients with major depressive disorder
+ Behav
+ Brain Res
+ 2016;298(Pt 
+ Zhang X, Huettel SA, Mullette-Gillman OA, Guo H, Wang L
+ Exploring common changes after acute mental stress and acute tryptophan depletion: Resting-state fMRI studies
+ J
+ Psychiatr
+ Res
+ 
+ Wang L et al Duloxetine effects on striatal resting-state functional connectivity in patients with major depressive disorder
+ Hum
+ Brain Mapp
+ [published online ahead of print: May 8, 2019]; doi:
+ /hbm
+24601 
+ Leaver AM et al Desynchronization and Plasticity of Striato-frontal Connectivity in Major Depressive 
+ Bluhm R et al Resting state default-mode network connectivity in early depression using a seed certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    
+ Sharma A et al Common Dimensional Reward Deficits Across Mood and Psychotic Disorders: A 
+ Liu W et al The Role of Neural Plasticity in Depression: From Hippocampus to Prefrontal Cortex
+ Neural 
+ Hamilton M
+ A rating scale for depression [Internet]
+ J
+ Neurol
+ Neurosurg
+ Psychiatry ;:
+ 
+ Esteban O et al fMRIPrep: a robust preprocessing pipeline for functional MRI
+ Nat
+ Methods 
+ Tustison NJ et al N4ITK: Improved N3 Bias Correction [Internet]
+ IEEE Trans
+ Med
+ Imaging 
+ Fonov V, Evans A, McKinstry R, Almli C, Collins D
+ Unbiased nonlinear average age-appropriate brain 
+ Avants B, Epstein C, Grossman M, Gee J
+ Symmetric diffeomorphic image registration with cross-correlation: Evaluating automated labeling of elderly and neurodegenerative brain [Internet]
+ Med
+ Image 
+ Zhang Y, Brady M, Smith S
+ Segmentation of brain MR images through a hidden Markov random field model and the expectation-maximization algorithm [Internet]
+ IEEE Trans
+ Med
+ Imaging ;():
+ 
+ Behzadi Y, Restom K, Liau J, Liu TT
+ A component based noise correction method (CompCor) for BOLD 
+ Power JD et al Methods to detect, characterize, and remove motion artifact in resting state fMRI 
+ Pruim RHR et al ICA-AROMA: A robust ICA-based strategy for removing motion artifacts from fMRI data 
+ Abraham A et al Machine learning for neuroimaging with scikit-learn [Internet]
+ Front
+ Neuroinformatics certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    
+ Li C-T et al Structural and cognitive deficits in remitting and non-remitting recurrent depression: A 
+ Siegle GJ et al Toward Clinically Useful Neuroimaging in Depression Treatment: Prognostic Utility of Subgenual Cingulate Activity for Determining Depression Outcome in Cognitive Therapy Across Studies, 
+ Lancaster JL et al Automated Talairach atlas labels for functional brain mapping
+ Hum
+ Brain Mapp
+ 
+ Varoquaux G, Gramfort A, Pedregosa F, Michel V, Thirion B
+ Multi-subject dictionary learning to segment an atlas of brain spontaneous activity
+ Inf
+ Process
+ Med
+ Imaging Proc
+ Conf
+ ;:
+ 
+ Ball T et al Response Properties of Human Amygdala Subregions: Evidence Based on Functional MRI 
+ Fareri DS et al Normative development of ventral striatal resting state connectivity in humans [Internet]
+ 
+ Fullana MA et al Basolateral amygdalaventromedial prefrontal cortex connectivity predicts cognitive behavioural therapy outcome in adults with obsessivecompulsive disorder [Internet]
+ J
+ Psychiatry Neurosci
+ 
+ Qin S et al Amygdala Subregional Structure and Intrinsic Functional Connectivity Predicts Individual 
+ Tziortzi AC et al Connectivity-Based Functional Analysis of Dopamine Release in the Striatum Using 
+ Eickhoff SB et al Assignment of functional activations to probabilistic cytoarchitectonic areas revisited 
+ R Core Team
+ R: A Language and Environment for Statistical Computing [Internet]
+ Vienna, Austria: R certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    
+ Yin P, Fan X
+ Estimating R2 Shrinkage in Multiple Regression: A Comparison of Different Analytical certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    F igure 
+ Statistically-significant changes in functional connectivity following SAINT in 18 participants with              non-statistically-significant results demonstrating observed negative FC with DMN and increase in           FC between lDLPFC and sgACC
+ DLPFC: dorsolateral prefrontal cortex, sgACC: subgenual           anterior cingulate cortex, DMN: default mode network, SN: salience network, dACC: dorsal anterior             cingulate cortex, AI: anterior insula, CMA: centromedian amygdala, BLA: basolateral amygdala, SA:            superficial amygdala
+ Preceding r: right, preceding l: left
+ Paired t-tests were corrected for multiple              comparisons using FDR (q<
+ )
+ Error bars indicate within-subject error
+ **q<
+01, *q<
+05,           certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    Figure 
+ Statistically significant associations between changes in MADRS scores and FC changes following            SAINT in 18 participants
+ A: Visualizations of the associations between changes in MADRS and              changes in FC
+ The edges represent adjusted R2 values of the regression model - the greater the R2,                  the thicker the edge
+ Nodes are coded by color with arbitrary size
+ A1: sagittal image, A2: axial                 image, A3: coronal image
+ B: FC changes significantly associated with MADRS changes were             observed between lDLPFC and insula, and amygdala subregions (B1), between sgACC and DMN             nodes (B2), and between insula and amygdala subregions (B)
+ FC: functional connectivity,            sgACC: subgenual anterior cingulate cortex, DMN: default mode network, CMA: centromedian           amygdala, BLA: basolateral amygdala, SA: superficial amygdala
+ Preceding r: right, preceding l: left
+             The 95% confidence region is depicted by gray shading
+ All results were corrected for multiple               comparisons using false discovery rate (q<
+ )
+  postT reatment baseline)/baseline 100% = (   *   certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    Figure 
+ Baseline FC association with MADRS scores following SAINT
+ A: Visualizations of the associations                between baseline FC and MADRS scores
+ The edges represent the adjusted R2 values of the               regression model - the greater the R2, the thicker the edge
+ Nodes are coded by color with arbitrary                  size
+ A1: sagittal image, A2: axial image, A3: coronal image
+ B: Baseline FC between lDMN and                frontal cortex (B1, B2), and between lDMN and striatum subregions (B3, B4) were significantly              Depression Rating Scale, DLPFC: dorsolateral prefrontal cortex, DMN: default mode network,           VLPFC: ventrolateral prefrontal cortex, limS: limbic striatum, exeS: executive striatum
+ Preceding r:            right, preceding l: left
+The 95% confidence region is shaded gray
+ All results were corrected for               certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    Figure S
+ A: Functional connectivity changes ( ) between each pair of all 22      ostT reatment baseline = p          ROIs
+ B: Adjusted R2 for the linear models relating functional connectivity changes to clinical score               changes for each pair of all 22 ROIs
+ C: Adjusted R2 for the linear models relating baseline                 functional connectivity to clinical score changes for each pair of all 22 ROIs
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted June 18, 
+ ;    

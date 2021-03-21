@@ -1,0 +1,810 @@
+AN INTEGRATIVE APPROACH DISCOVERS A NOVEL ANTI-LEUKEMIC PEPTIDE FROM HUMAN MILKAN INTEGRATIVE APPROACH DISCOVERS A NOVEL ANTI-LEUKEMIC PEPTIDE FROM HUMAN MILK 1 1 Pediatric Translational Research Unit, Department of Pediatrics, Faculty of Medicine 9 2 Division of Hematology and Oncology, Department of Pediatrics, Faculty of Medicine 12 3 Research Center, Faculty of Medicine Ramathibodi Hospital, Mahidol University, 16 4 Division of Neonatology, Faculty of Medicine Ramathibodi Hospital, Mahidol 18 5 Laboratory of Biochemistry, Chulabhorn Research Institute, Bangkok 10210 Thailand
+ 21 6 Applied Biological Sciences Program, Chulabhorn Graduate Institute, Bangkok 10210 23 7 Department of Clinical Epidemiology and Biostatistics, Faculty of Medicine 25 8 Chakri Naruebodindra Medical Institute, Faculty of Medicine Ramathibodi Hospital, 27 Chemotherapy in childhood leukemia is associated with late morbidity in leukemic 41 survivors, while certain patient subsets relatively resistant to standard chemotherapy
+ 42 Identifying new agents with the sensitivity and selectivity toward leukemic cells with less 43 systemic toxicity is a warrant
+ Peptide-based therapeutics is gaining attention during the last 44 few years
+ Here, we used an integrative workflow combining mass spectrometric peptide 45 library construction, in silico anticancer peptide screening, and in vitro leukemic cell studies 46 to discover a novel anti-leukemic peptide owning 3+charges and alpha-helical structure, 47 namely HMP-S7, from human breast milk
+ HMP-S7 showed cytotoxic activity against four 48 distinct leukemic cell lines in a dose-dependent manner but had no affected on solid 49 malignancies or representative normal cells
+ HMP-S7 induced leukemic cell death by 50 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 8, 
+ ;    penetrating the plasma membrane into the cytoplasm, causing lactate dehydrogenase 51 leakage, thereby defining membranolytic action
+ In conclusion, HMP-S7 is the selective 52 anti-leukemic peptide promising for further validation in preclinical and clinical studies
+  53 Keywords: Anticancer peptide; Cancer cytotoxicity; Human breast milk; Leukemia; Peptidomics; 55 Cancer is a significant cause of death in children and adolescence during the last few 61 years in Asia, Central and South America, Northwest Africa, and the Middle East ()
+ 62 predominant, accounting for 30% of childhood cancer ()
+ Optimization of 64 chemotherapeutic regimens during the past decades has resulted in more than 90% 65 remission rate in childhood ALL ()
+ However, the burden of late morbidity due to 66 chemotherapeutic treatments, which occur in two-thirds of pediatric cases (4), has become 67 important considerations as the number of long-term leukemic survivors increases ()
+ 68 Moreover, specific subsets of pediatric ALL are relatively resistant to standard 69 chemotherapy and have a high risk of relapse ()
+ These challenges pose the need to further 70 improve current treatment while identifying new agents should also be concerned with the 71 sensitivity and selectivity toward leukemic cells with less-to-no toxicity to normal cells
+ 72 Peptide-based drugs, or anticancer peptides, can be a new strategy for cancer 73 treatment
+ Although the exact mechanism and selectivity criteria have yet to be elucidated, 74 anticancer peptides may have oncolytic effects depending on peptide characteristics and 75 target membrane features in selectivity and toxicity ()
+ Cancer cells have high negative 76 outer surface area), the net negative charge from anionic molecules on the surface
+ In 78 contrast, normal cells are electrically neutral (-)
+ These negative charges on the cancer 79 cell membrane are attractive to the positive charge peptides to disturb membrane stability, 80 causing the loss of electrolyte and cell death (8), while high cholesterol contents of the 81 normal cell membrane can protect cell fluidity and block cationic peptide entry ()
+ 82 Common strategies for anticancer peptide discovery are; i) activity-guided purification from 83 biological/natural products (13); ii) examination of antimicrobial peptides for cancer 84 sensitivities (14, )
+ The former approach tends to deliver positive results, but it is 85 associated with labor-intensive and time-consuming processes
+ The latter strategy is 86 relatively cost- and time-effective but still limited to antimicrobial peptides known a priori
+ 87 Investigation of anticancer peptides has progressed slowly in the past decades, indicating 88 gaps for improvement, particularly on the selection of peptide sources, screening methods, 89 Human milk is a promising source of therapeutic peptides
+ Bioactive milk peptides 91 are released from sourced proteins by enzymatic hydrolysis, fermentation with a proteolytic 92 starter culture, and proteolysis with proteolytic microorganisms (16, )
+ Although human 93 milk has rarely been investigated for anticancer activities, studies have showed human milk-94 derived peptides could exhibit various biological effects such as antimicrobial (18, 19) and 95 activities, and cell proliferation of human preadipocytes ()
+ These bioactive peptides have 98 differed in amino acid compositions and sequences, and the peptide length can vary from 99 two to twenty amino acid residues ()
+ It is anticipated that human milk also contains 100 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 8, 
+ ;    anticancer peptides as that of bovine milk
+ PGPIPN hexapeptide of bovine b-casein can 101 inhibit invasion and migration of human ovarian cancer cells ()
+ ACFP, an anti-102 cancer fusion peptide derived from bovine b-casein and lactoferrin, can inhibit viability and 103 promote apoptosis in primary ovarian cancer cells ()
+ Interestingly, breastfeeding for six 104 months or longer was associated with a 19% lower risk of all childhood leukemia than 105 shorter breastfeeding or none (25, )
+ Identifying novel anti-leukemic peptides from human 106 milk is a warrant for the future development of non-allergic and non-toxic peptide-based 107  This study aimed to discover a novel anti-leukemic peptide with less cytotoxicity 109 toward normal cells from human milk
+ We applied a robust workflow integrating the 110 occurring human milk peptide library in silico screening based on physicochemical, 112 structural, and predictive anticancer properties by machine learning algorithms to prioritize 113 candidates for functional studies of synthetic peptides to determine anti-leukemic activity 114 and the mode of action
+ By this strategy, a novel anti-leukemic peptide was identified from 115  To separate human milk peptides and test their cytotoxicity to leukemic cells, ten 119 healthy mothers aged between 25 and 36 years old (
+ 
+27 years old) donated breast milk 120 at once during 6-129 days (
+ 
+97 days) after delivery (details in Table S)
+ After 121 multiple steps of centrifugation to remove cells, lipids, and extracellular vesicles, and then 122 ultrafiltration (3-kDa cutoff) to remove proteins, the small molecules (<3-kDa), except the 123 peptides, passed through the C18 SPE
+ Moreover, the C18 bound peptides were eluted by 124 various acetonitrile concentrations and then performed their cytotoxicity
+ The conceptual 125 framework of this study is illustrated in Figure 
+  126 Figure 
+ A conceptual framework of the integrative strategy for discovering a novel 130 human milk-derived anti-leukemic peptide
+ This strategy combines the strengths of mass 131 spectrometry for high-throughput peptide identification, in silico screening for prioritizing 132 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 8, 
+ ;    Most human milk peptide fractions had cytotoxic effects on leukemic and normal cell lines 137  After C18 bound peptide elution, the crude milk peptide fraction was tested to 138 observe cytotoxic effects against Jurkat (T lymphoblastic leukemia) and FHs74Int cells (the 139 representative normal intestinal epithelium), respectively (Figure A)
+ The crude milk 140 peptides showed a potent cytotoxic effect on Jurkat but had less impact on FHs74Int cells
+ 141 The coarse milk peptide fraction was then fractionated by C18 SPE with the step-wise ACN 142 elution, in which the chromatogram was demonstrated by the peptide amounts (Figure B)
+ 143 These eluted peptides by 15%-80% ACN were treated to Jurkat leukemic cells and FHs74Int 144 normal cells to observe cell survival as shown in Figure C
+   The low peptide amount in 145 15%-30% ACN eluted peptide fractions could decrease Jurkat cell survival more than the 146 highest peptide amount (45% ACN eluted peptide fraction)
+ This indicated that the 147 elimination of Jurkat leukemic cells depended on the specific peptide sequence with 148 Figure 
+ Human milk peptide fractionation and cytotoxicity profiles against leukemic 152 and normal cells
+ (A) After centrifugation and passing through <3 kDa cut-off column, the 153 milk solution (20 mL) was passed through the C18 column
+ The milk peptides were bound 154 to the C18 SPE column, eluted with 80% ACN (1 mL), and dried using a SpeedVac 155 concentrator
+ The crude milk peptides were resuspended in the culture medium and then 156 treated to Jurkat and FHs74Int cells for 1-3 days (n=3 biological replication)
+ The graph 157 shows % cell survival (meanSEM)
+ Peptides were then fractionated into 10 fractions by 158 C18 SPE column with the step-wise acetonitrile elution
+ An equal volume (20 ml) of the 159 individual human milk supernatant (<3 kDa) was flown through the C18 SPE column
+ The 160 human milk peptides in the supernatant were bound to the column and eluted by equal 161 volume (1 mL) of 15%, 20%, 25%, 30%, 35%, 40%, 45%, 50%, 55%, and 80% ACN in 162 subsequently
+ These peptides were subjected to LC-MS/MS to generate the peptide library
+ 163 (B) The fractionated peptides were resuspended in deionized distilled water and then 164 quantitated using Bradfords assay
+ The peptide amount in each fraction was calculated as 165 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 8, 
+ ;    mean  SEM
+ (C) Also, Jurkat and FHs74Int cells were treated with the 10 eluted fractions 166 of human milk peptides of 3 individual volunteer mothers for 1-3 days
+ The remaining live 167 cells after the 10 peptide fraction treatment were detected by WST-1 solution at 440 nm
+ 168 The OD was subtracted by culture medium without cells (blank)
+ The percentage of cell 169 survival was calculated by (OD of the sample)/(OD of non-treatment)
+ *; p<
+05 170 comparing to non-treatment condition (n=3 individual milk specimens with 3 technical 171 Peptide identification, library construction, and in silico anti-cancer peptide screening 174 Eleven fractions (from one crude and ten step-wised ACN eluates) of human milk 175 peptides were identified by LC-MS/MS
+ A total of 142 naturally occurring human milk 176 peptides with unique sequences were collected into the peptide library, ready for further 177 analyses (Table S)
+ The distribution of all identified peptides by fractions, peptide length, 178 pI, and the net charge was shown in Figure 3A (upper panel)
+ Overall, most identified natural 179 occurring-milk peptides had less than 20 amino acids in length, contained zero and anionic 180 net charge with inclining acid property
+ The most frequently detected pattern was the natural 181 peptides with proline-rich sequence (Figure S)
+ This proline-rich peptide is probably crucial 182 to some biological effects of human milk
+ For example, a ligand containing a proline-rich 183 sequence or a single proline residue is involved in protein-protein interaction ()
+ Proline-184 rich sequence-contained antimicrobial peptides can kill microorganisms by interacting with 185 In silico screening of the natural-occurring human milk peptide library was performed 187 by a robust workflow
+ Firstly, we screened the library by physicochemical properties, i
+ e
+, 188 length, pI, and net charge (as shown in Figure 3A) since most of the known anticancer 189 peptides are small cationic peptides (commonly 5-30 amino acid length with net charge +2 to 190 +9) that bind to the negative charge of phosphatidylserine and sialic acid on the cancer cell 191 membrane (12, 29, )
+ Secondly, the secondary structure of the peptides were predicted by 192 the PEP-FOLD3 webserver (Figure B)
+ Peptides can form alpha-helix, beta-sheet, and 193 random coils ()
+ However, most of the known anticancer peptides shared the alpha-helix 194 structure ()
+ Thirdly, the identified peptides were predicted for anticancer properties using 195 machine learning prediction software
+ Since ACP prediction software could provide different 196 results depending on the algorithms and training datasets, four online-accessible software 197 were then applied in this study, including ACPpred-FL (33), antiCP 
+0 (34), MLACP (35), 198 and mACPpred (36) (Figure C)
+ As a result, eight human milk peptides and one bovine milk 199 peptide (as a positive ACP control) from various prioritization based on net charges, 200 secondary structures, and the predicted anticancer properties were selected for further 201 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 8, 
+ ;    Distribution of the unique human milk peptides identified by LC-MS/MS
+ (B) the 208 distribution and the secondary structure of all identified peptides predicted by PEP-FOLD3 209 software
+ (C) Proportions of the predicted ACP vs
+ non-ACP peptides by four ACP 210 machine learning programs, including ACPpred-FL, antiCP 
+0, MLACP, and mACPpred
+ 211 The percentage of ACP (black) and non-ACP (gray) was calculated by (number of ACP 212 or non-ACP prediction/number of total identified peptides in individual fraction) %
+ 213 Full results of in silico ACP screening was provided in Table S
+ 214 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 8, 
+ ;    HMP-S7 killed leukemic cells but not normal cells or solid tumor cell lines 218 Figure 4A illustrated eight selected human milk-derived peptides and a known bovine 219 milk-derived anticancer peptide synthesized for cancer cytotoxicity screening using trypan 220 blue staining
+ These results showed that HMP-S7, the highest cationic charged peptide (+3 221 net charge) with -helical structure, had higher inhibitory activity than the other human milk-222 derived peptides against four leukemic cell lines, including Jurkat, Raji, RS4;11, and Sup-223 B15 cells (Figure B)
+ To elucidate the selectivity of HMP-S7, the effect of HMP-S7 was 224 further observed on normal cells, i
+ e
+, T cells and HEK293T embryonic kidney cells, and solid 225 tumor cell lines, i
+ e
+, SH-SY5Y neuroblastoma, HepG2 hepatoblastoma, A549 lung 226 trypan blue staining (Figure C)
+ Compared to BMP-S6, the known anti-cancer peptide, 228 HMP-S7 had less cytotoxicity toward the normal cells and most cancer cells
+ This result 229 suggested that HMP-S7 was more selective to leukemic cells than the BMP-S
+ Although 230 HMP-S7 had no cytotoxicity on normal T cells, it showed a mild cytotoxic effect on 231 HEK293T cells
+ Based on these activity profiles, HMP-S7 was chosen to further examine the 232 IC50 against four leukemic cell lines (Figure A)
+ The results demonstrated anti-leukemic 233 activity of HMP-S7 was dose-dependent, with the IC50 ranged from 
+2 to 
+3 M 234 depending on leukemic cells to be tested
+ Furthermore, the inhibitory activity of the HMP-S7 235 treated Jurkat leukemic cell lines was confirmed by the colony-forming assay using soft agar, 236 as shown in Figure B
+ Because HMP-S7 could induce leukemic cell death; thereafter, its 237 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 8, 
+ ;    Figure 
+ Effect of the 8 synthetic human milk peptides on leukemic and non-241 leukemic cell lines
+ (A) After the combination of physicochemical properties with cationic 242 peptides, helical structure, and machine learning prediction, the 8 synthetic human milk 243 peptides (HMPs) and the positive control (BMP-S6) (the details of the selected peptides 244 were summarized in Table S3) were examined for anti-leukemic activity
+ (B) Four 245 leukemic cell lines, including Jurkat, Raji, RS4;11 and Sup-B15, were treated with 8 246 synthetic HMPs and BMP-S6 at 200 M to observe %cell death after 24 h treatment using 247 trypan blue exclusion assay under light microscope
+ The % cell death was calculated by 248 (number of death cells/total cell number) 
+ The percentage of cell death of all 4 249 leukemic cell lines after HMP-S7 treatment can significantly increase
+ (C) Besides 250 leukemic cell treatment, HMP-S7 was treated to non-hematological malignancy cell lines, 251 triple-negative breast cancer (MDA-MB-231), colon cancer (HT-29), and normal cells 253 including T cells and HEK293T embryonic kidney cells
+ Statistical significance was 254 calculated by %cell death of three biological replicates
+ *p<
+05, ** p<
+01 compared to 255 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 8, 
+ ;    Figure 
+ The inhibitory concentration of HMP-S7 treated leukemic cells
+ (A) Four 259 leukemic cell lines i
+ e
+, Jurkat, Raji, RS4;11, and Sup-B15 cells, were treated with HMP-260 S7 in various concentrations (0-400 M) for 24 h and their %cell death (mean  SD) was 261 counted by using trypan blue exclusion assay
+ (B) The number of the forming colony of 262 HMP-S7 (100 M, 200 M, and 400 M) treated Jurkat cells was confirmed the anti-263 leukemic activity of HMP-S
+ The positive control peptide was BMP-S6 at 200 M 264 concentration
+ After 24 h treatment, the cell suspension was equally volume taken into soft 265 agar to form colonies for 20 days
+ The colonies in the soft agar were stained with crystal 266 violet and counted
+ **, p<
+01 compared to non-treatment condition (n=3 biological 267   To elucidate whether HMP-S7 can act as the membranolytic peptide against 271 leukemic cells, Jurkat cells were treated with HMP-S7 (untagged or FITC-tagged) at the IC50 272 for 24 h
+ By confocal microscopy, PI staining of cytoplasmic RNA was observed in the 273 untagged HMP-7 and the positive control Triton X-100 (Figure A)
+ The FITC-tagged HMP-274 S7 was located in the cytoplasm as PI stain of cytoplasmic RNA
+ Flow cytometry showed 275 that the HMP-S7 could be more cumulative into cytoplasm when increasing the 276 concentrations from IC50 to 2IC50 (Figure 6B and C)
+ By lactate dehydrogenase (LDH) 277 release assay, intracellular LDH leakage into the cell culture supernatant was evidence at 24 278 h in HMP-S7-treated RS4;11 cells (at IC50 and 2IC50) and Triton X-100 treated cells 279 (Figure D)
+ Finally, HMP-S7-induced leukemic cell death was confirmed by flow cytometry 280 using Annexin V/PI co-staining
+ The number of apoptotic cells was significantly increased 281 compared to non-treatment condition, while a dose-response relationship was observed in 282 four leukemic cell lines with IC50 and 2IC50 of HMP-S7 treatment (Figure 6E and F)
+ 283 Taken together, our findings suggested that HMP-S7 attacked leukemic cells to form 284 micropores on cellular membranes and penetrated into the cytoplasm to perturb leukemic 285 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 8, 
+ ;    Figure 
+ HMP-S7 action on internalization and leukemic cell death
+ Jurkat cells were 289 treated with HMP-S7 conjugated with or without FITC at IC50 and 
+01% Triton X-100 290 (positive control) and stained with PI to observe membrane permeability (A)
+ The FITC 291 tagged HMP-S7 (at IC50 and 2IC50) were internalized into the cytoplasm of Jurkat cells
+ 292 (B) Flow cytometry of FITC tagged HMP-S7-treated Jurkat cells
+ (C) The bar graph showed 293 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 8, 
+ ;    flow cytometric results as %FITC-positive Jurkat cells
+ (D) LDH release assay
+ LDH level 294 was detected as the evidence of cellular membrane disruption in the culture supernatant of 295 HMP-S7-treated RS4;11 cells at IC50 and 2IC50 for 24 h
+ Triton X-100 treated cells were 296 the positive control
+ (E) Flow cytometric cell death assay using Annexin-V/PI co-staining
+ 297 Four leukemic cells, i
+ e
+, Jurkat, Raji, RS4;11, and Sup-B15 cell lines were treated with 298 HMP-S7 at IC50 and 2IC50 for 24 h
+ (F) Bar graphs showed %apoptotic cell death 299 composed of early apoptosis (upper left quadrant), late apoptosis (upper right quadrant), and 300 necrosis (lower right quadrant)
+ *p<
+05 and **p<
+01 compared to non-treatment 301 condition
+ All experiments were performed in three biological replicates
+ *p<
+05, 302 This study aimed to explore the novel ACP from naturally occurred-human milk 306 peptides
+ Several reasons supported human milk as a good source for this exploration
+ First, 307 there is evidence that human breast milk can significantly reduce leukemia in children with 308 more 6-month breastfeeding (25, )
+ Second, HAMLET (human alpha-lactalbumin made 309 lethal to tumor cells), a protein-lipid complex that induces apoptosis-like death in tumor cells, 310 was discovered from a human milk protein ()
+ Alpha1H (the alpha1 domain of -311 lactalbumin in complex with oleic acid), which was further developed from HAMLET, has 312 entered the First-in-Human trial in patients with bladder cancer (clinicaltrials
+gov identifier 313 NCT03560479) ()
+ Third, ACP has never been explored from human milk
+ Fourth, recent 314 identification from human milk, and in silico ACP prediction algorithms based on the peptide 316 amino acid sequences have been progressed during the last several years
+ 317 Therefore, this study developed an integrative workflow for ACP discovery by 318 combining the strengths of mass spectrometry, in silico screening, and experimental 319 validation
+ This strategy replaces labor-intensive and time-consuming processes of the 320 activity-guided purification by applying mass spectrometric peptide identification of the 321 fractionated human milk samples, and the results were compiled into the peptide library of 322 natural occurring-human milk peptides
+ Peptide amino acid sequences were subsequently fed 323 into in silico screening to shorten the time-to-discovery and lessen the cost burden of the 324 large-scale experiment
+ Finally, the prioritized peptide candidates could be validated for anti-325 To prioritize the peptides for experimental screening and validation, we hypothesized 327 that the consensus results from the physicochemical property (positive charge), secondary 328 peptide structure (alpha-helix), and ACP predictive results from different machine learning 329 models would provide the best chance of ACP identification from the given peptide library
+ 330 This hypothesis was grounded on previous evidence that; i) the net positively charged 331 peptides are attractive to the net negatively charged cancer cell membranes (39); ii) most 332 known oncolytic peptides share alpha-helical structure (32); iii) different machine learning 333 models were trained and tested upon various data sets of known ACPs (33-36), thereby these 334 models could have varied predictive performance against the new unknown peptide data set
+ 335 More votes would provide more confidence in the predictive results
+ Since it was unknown 336 at the initial stage of this study if this integrative approach would be successful, we, therefore, 337 explored each of the preferred ACP properties
+ For this reason, eight selected peptide 338 candidates were identified and screened for anti-leukemic effect (Figure 3 and Table S)
+ 339 BMP-S6, the positive control of the experimental validation, has met all three criteria and 340 showed the anti-leukemic effect with a trade-off of more toxicity toward normal cells
+ Six 341 out of eight selected peptide candidates were not met all three criteria and showed no activity 342 in vitro
+ HMP-S7 and HMP-S8 were the top 2 candidates that met all three criteria of the 343 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 8, 
+ ;    integrative workflow; nonetheless, only HMP-S7 had the cytotoxic effect against leukemic 344 cells
+ From this observation, we learned that this integrative approach is more accurate than 345 using a single preferred anticancer property to prioritize peptide candidates
+ When one 346 peptide candidate met all three criteria, the difference in one positive charge (and perhaps 347 two votes from machine learning models) did matter for the anti-leukemic prediction (Figure 348 )
+ In future studies, this integrative approach of ACP screening can be applied to larger data 349 sets, either the mass spectrometric-based or the in silico generated peptide libraries, to speed 350 Looking forward, HMP-S7 should be further validated in preclinical models
+ Further 352 peptide modifications using HMP-S7 as a prototype, for example, amino acid substitution 353 (40), homing motif tagging (41), and PEGylation (42), may improve its anticancer efficacy, 354 tumor targeting, and biocompatibility and stability
+ Furthermore, the human milk peptide 355 library can be expanded by further profiling relevant biospecimens or by in silico peptide 356 generation from the proteins of interest
+ Aforementioned in vitro study support, machine 357 learning for ACP prediction might be further improved by a combination of ensemble 358 This study had limitations
+ It was expected that milk peptides should present a more 360 significant number of unique identities than those identified in this study
+ Losing of peptides 361 during mass spectrometric detection because of their neutral net charge may be one reason
+ 362 Another possibility is that the milk peptides may be degraded during the fractionation 363 process
+ These limitations could be overcome by the combined methods using fractionations 364 and high-resolution mass spectrometry detection
+ The issues related to the small peptide 365 library because of experimental bottlenecks could be addressed by in silico generated 366 peptide database as aforementioned, given that the custom-made peptides are commercially 367 available and ready for anticancer activity screening
+ Lastly, it should be emphasized that 368 ex vivo experiments of HMP-S7 by using the patients derived leukemic cells should be 369 leukemic peptide derived from human breast milk
+ This anti-leukemic peptide is a cationic 374 and alpha-helical structure peptide that selectively kills leukemic cells but not normal cells
+ 375 Future research on peptide modification, together with the efficacy studies in preclinical 376 animal models or patients derived leukemic cells ex vivo, is warranted to develop HMP-S7 377 Human milk collection
+ Human milk (60 ml) from 10 healthy volunteer mothers of full-381 term infant, whose blood test has no infection of HIV, Hepatitis B or C viruses, and Syphilis, 382 were collected by a breast pump and stored in a freezer (-20C) as per the regulation of 383 Ramathibodi Human Milk Bank (RHMB) before transferring to the laboratory ()
+ All 384 subjects gave their informed consent for inclusion before they participated in the study
+ The 385 study was conducted in accordance with the Declaration of Helsinki, and the protocol was 386 approved by the Human Research Ethics Committee, Faculty of Medicine Ramathibodi 387 Peptide isolation and fractionation
+ Three pooled milk specimens were produced from 3, 390 3, and 4 individual specimens (Table S1) before further processing
+ Twenty milliliters of 391 pooled milk specimens were centrifuged at 4C, 1,500 g for 10 min, and then 5,000 g for 30 392 min twice to remove cells and lipids
+ The collected supernatant was centrifuged at 4C, 393 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 8, 
+ ;    12,000 g for 1 h, 32,000 g for 1 h, and finally, 200,000 g for 1 h to remove extracellular 394 vesicles, including microvesicles and exosomes
+ Thereafter, peptides (<3 kDa) were 395 separated from high molecular size proteins by a 3 kDa cutoff ultrafiltration column 396 (Amicon, Merck Millipore Ltd
+, Cork, Ireland)
+ The crude peptides (<3 kDa) in the flow-397 through fraction were injected into the C18 solid-phase extraction (SPE) column (Waters, 398 Waters Corporation, Massachusetts, USA)
+ The bound peptides were then step-wise eluted 399 by 1 mL each of 15%, 20%, 25%, 30%, 35%, 40%, 45%, 50%, 55%, and 80% acetonitrile 400 (ACN), respectively
+ The eluate peptides were dried by SpeedVac concentrator (Labconco, 401 Labconco Corporation, Missouri, USA)
+ The dried peptides were resuspended in deionized 402 (dI) water for peptide estimation using Bradfords assay (Bio-rad) ()
+ 403 Synthetic peptides
+ Nine synthetic peptides (>90% purity) (Table S3) were custom ordered 405 from GL Biochem (GL Biochem (Shanghai) Ltd
+, Shanghai, China) and resuspended in the 406 appropriate culture medium to the final concentration of 200 M before used
+  407 Cell culture
+ Cell lines were obtained from the American Type Culture Collection (ATCC)
+ 409 Jurkat (ATCC TIB-152), RS4;11 (ATCC CRL-1873) and Raji (ATCC CCL-86) 410 cells were maintained in RPMI-1640 medium (Gibco, Thermo Fisher Scientific, MA, USA) 411 supplemented with 10% fetal bovine serum (FBS) (Gibco) and 1 penicillin/streptomycin 412 (Gibco) in 5% CO2 at 37C, while Sup-B15 (ATCC CRL-1929) cells were cultured in 413 mercaptoethanol (Sigma) and 20% FBS (Gibco) and 1 penicillin/streptomycin (Gibco)
+ 415 CCL-185) cell lines were grown in Dulbecco's Modified Eagle's Medium (DMEM)-high 417 glucose (Gibco) supplemented with 10% FBS and 1 penicillin/streptomycin in 5% CO2 at 418 C
+ HT-29 cells (ATCC HTB-38) and HepG2 (ATCC HB-8065) were grown in 419 DMEM-F12 (Gibco) supplemented with 10% FBS and 1 penicillin/streptomycin in 5% 420 epithelial cells were cultured in Hybri-Care Medium (ATCC 46-X) supplemented with 423 30 ng/ml epidermal growth factor (EGF), 10% FBS (Gibco) and 1 penicillin/streptomycin 424 (Gibco) in 5% CO2 at C
+ HEK293T human embryonic kidney cells (ATCC CRL-425 3216) were maintained in DMEM-high glucose (Gibco) supplemented with 10% FBS 426 and 1 penicillin/streptomycin in 5% CO2 at C
+ Human peripheral blood mononuclear 427 cells (PBMCs) were prepared from 10 mL EDTA blood for T cell cultivation
+ The whole 428 blood was diluted in PBS at a ratio of 1:1, and then carefully layer the diluted blood into 429 Ficoll-Paque solution (Robbins Scientific Cooperation, Norway) with a ratio of 2:1 (diluted 430 blood:Ficoll-Paque solution)
+ The tube containing layer solution was centrifuged at 400 g, 431 20C for 35 min with no break
+ One million PBMCs were cultured in the OKT3 and CD28 432 coated plate
+ Briefly, 1 g each of OKT3 and CD28 was added into 1 ml PBS in a 24-well 433 plate and incubated at room temperature for 2 h
+ The coated well was washed with PBS 434 once before adding PBMCs
+ The PBMCs in coated well were cultured in RPMI-1640 435 supplemented with 100U/mL IL-2, 10% FBS and 1 penicillin/streptomycin in the presence 436 of OKT3 and CD28 for 3 days at 37C under a humidified atmosphere with 5% CO2 before 437 Human milk peptide identification by mass spectrometry
+ Dried human milk peptides 440 (2 g) were resuspended in 
+1% formic acid and centrifuged at 14,000 rpm for 30 min
+ The 441 supernatant was collected and injected into the C18 column (75 m i
+ d
+  100 mm) by using 442 Easy-nLC (Thermo Fisher Scientific, Inc
+) to desalt and concentrate
+ The peptides were 443 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 8, 
+ ;    separated with a gradient of 5-45% acetonitrile/
+1% formic acid for 30 min at a flow rate 444 of 300 nl/min
+ The isolated peptides were identified by the amaZon speed ETD ion trap 445 mass spectrometer (Bruker Daltoniks, Billerica, MA, USA)
+ Peptide sequences and 446 identification were interpreted using in-house MASCOT software version 
+ 
+0 with the 447 SwissProt database, against Homo sapiens, no fixed and no variable modifications, no 448 enzymatic digestion with no missed cleavage allowed, monoisotopic, 
+2 Da for peptide 449 tolerance, 
+6 Da for fragment ion tolerance, 2+ and 3+ charge state for ESI-TRAP 450 instrument
+ Identified peptides were provided ion scores higher than 20 (significance 451 In silico anticancer peptide screening
+ Physicochemical properties of all identified human 454 charge, isoelectric point (pI), and hydrophobicity
+ Peptide structures were predicted using 457 the PEP-FOLD3 De novo peptide structure prediction tool (-)
+ Anticancer properties 458 were predicted by four web-based machine learning programs, including i) ACPred-FL 459 (Tianjin University, School of Computer Science and Technology, China), a sequence base 460 predictor for identifying anti-cancer peptides from proteins, by using classification mode at 461 confidence 
+5 as default setting ( (33); ii) AntiCP 
+0, 462 Cytotoxicity assay
+ For cell treatment, the fractionated milk peptides (10 g/reaction) or 469 the synthetic peptides (varied concentrations as indicated) were resuspended in 100 L of 470 culture media with appropriated supplements
+ For floating cells, the peptide solution was 471 mixed with cell suspension (10,000 cells/10 L/well) in a well of 96-well plate flat bottom
+ 472 For adherent cells, 10,000 cells were seeded into a 96-well plate (flat bottom) and cultured 473 until they reached 80% confluence before adding 100 L of peptide solution into the well 474 containing 80% FHs 74 Int cell confluence (3 technical replication)
+ The peptide-treated 475 cells were incubated for 24, 48, or 72 h in 5% CO2 incubator at 37C with humidity as 476 indicated
+ Cell viability was measured by trypan blue exclusion or WST-1 assays (Roche 477 The two synthetic peptides at 200 M final concentration, i
+ e
+, HMP-S7 and BMP-479 S6 were selected to treat with normal (T cells and HEK293T (human embryonic kidney 480 Human peripheral blood mononuclear cells (PBMCs) were prepared from 10 mL 484 EDTA peripheral blood collection as aforementioned for T cell culture
+ The protocol was 485 approved by the Human Research Ethics Committee, Faculty of Medicine Ramathibodi 486 Hospital, Mahidol University, based on the Declaration of Helsinki (Protocol ID---)
+ 487 The 1104 floating cells (in 10 L), i
+ e
+, T cells, were added to 96-well plate, flat bottom 488 containing 100 L of their culturing medium with or without 200 M HMP-S7 and 200 M 489 BMP-S
+ While, 1104 adherent cells were seed in 96-well plate, flat bottom and then 490 cultured 1-2 overnight at 37C under a humidified atmosphere with 5% CO2 incubator until 491 90-100% cell confluent
+ The cultured medium was removed, and then added the medium 492 containing 200 M HMP-S7 and 200 M BMP-S
+ All treated and untreated cells were 493 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 8, 
+ ;    incubated for 24 h before trypsinization (for adherent cells) and split to cell death 494 Half maximum inhibitory concentration (IC50) by trypan blue assay
+ Four distinct 497 leukemic cell lines, i
+ e
+, Jurkat, Raji, RS4;11, and Sup-B15 cell lines were cultured in the 498 medium containing HMP-S7 in vary concentrations (0, 
+25, 
+5, 25, 50, 100, 200, and 400 499 M) in 96-well plate, flat bottom for 24 h (1104 cells/100 L/well)
+ The %cell death was 500 estimated by trypan blue exclusion assay using (cell death number/total cell number)  
+ 501 IC50 calculation used linear (y=ax+c) or parabolic (y=ax2+bx+c) equation for y=50 value 502 and x value= IC50 concentration
+ IC50 concentration of HMP-S7 to the 4 leukemic cell lines 503 Soft agar assay for colony formation
+ Base agar (
+5 mL of 
+5% agar containing 1RPMI 506 supplement with 10% FBS and 1 penicillin/streptomycin) were plated on each well of a 6-507 well plate and set aside for 5 min to allow the agar to solidify
+ Jurkat cells were treated with 508 100 M, 200 M, 400 M HMP-S7, and 200 M BMP-S6 in a 96-well plate (3 technical 509 replications, 100 L/10,000 cells/well) for 24 h
+ After 24 h, the treated/untreated cells in the 510 96-well plate were thoroughly mixed and equally taken (20 L) to mix in 1 mL of the top 511 agar solution (
+3% agarose containing 1RPMI supplement with 10% FBS and 1 512 penicillin/streptomycin)
+ The cell suspension was plated on top of the base agar (3 biological 513 replication) and then allowed agarose to form solid
+ The medium (
+5 mL) was added on 514 top of the agar to prevent agar dry
+ The plate was incubated at 37C in a humidified 515 incubator for 20 days with feed the medium twice a week
+ The agar was stained with 1 mL 516 of 
+005% crystal violet in 20% ethanol for 1 h, destained with 20% ethanol overnight, and 517 then counted the colonies under stereomicroscope SZ61 (Olympus Corporation, Tokyo, 518 Apoptosis assay
+ Four leukemic cell lines (1105 cells/500 L/well/cell type) were cultured 521 in 24 well-plate in the medium containing HMP-S7 with IC50 and 2IC50 concentrations and 522 non-treatment condition for 24 h (biological triplication)
+ The untreated cells were divided 523 into 3 tubes that are unstained, cells stained with FITC tagged annexin V (no propidium 524 iodide (PI)), and cells stained with PI (no FITC tagged annexin V) to set up compensation 525 and quadrants
+ The untreated and treated cells were collected and wash cells with cold PBS 526 twice
+ Thereafter, the cells were resuspended with 100 L of 1 binding buffer and then 527 added 5 L of FITC tagged annexin V and 5 L of PI
+ The cell suspensions were gently 528 mixed and incubated at room temperature for 15 min in dark
+ Then, 400 L of 1 binding 529 buffer was added to each tube, and then the cells were analyzed by using flow cytometry
+   530 Lactate dehydrogenase (LDH) release assay
+ RS4;11 leukemic cell lines (2105 cells/1 532 mL/well/cell type) were cultured in 24 well-plate in the complete medium containing HMP-533 S7 at IC50 and 2IC50 concentrations, without HMP-S7 condition (non-treatment), and 
+5% 534 Triton X-100 for 24 h incubation (biological triplication)
+ The cell suspension was collected 535 and centrifuged at 200 g for 5 min at room temperature
+ The 1 mL of supernatant was 536 collected and measured LDH isoenzyme by measuring lactate to pyruvate and NADH, 537 which increased absorbance at 340 nm using Abbott Architect C16000 clinical chemistry 538 analyzer (Holliston, MA, USA) at Clinical Chemistry Unit of Department of Pathology at 539 Ramathibodi Hospital, Thailand
+ LDH level (U/L) of the culture media was subtracted from 540 the background of the fresh medium and reported as meanSD
+ 541 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 8, 
+ ;    FITC tagged HMP-S7 internalized into leukemic cells
+ The 2104 Jurkat cells/100 543 l/well in the 96-well plate was treated with HMP-S7 tagged with/without FITC at IC50 for 544 24 h
+ Thereafter, the treated and untreated Jurkat cells were washed with 1PBS once before 545 staining with propidium iodide (PI) cell stain kit (Invitrogen) and Hoechst 33342 (Cell 546 Signaling Technology, Inc, Massachusetts, USA), for 30 min at room temperature in dark
+ 547 After incubation, the cells were centrifuged at 200 g for 5 min and removed the excess dye 548 solution before washing with 1PBS twice
+ The cell pellet was mixed with 20% 549 glycerol/PBS and mounted on a glass slide for confocal microscopy (Nikon Instruments, 550 Statistical Analysis
+ The number and percentage of death or live cells, OD and IC50, were 553 calculated and statistical testing using Student's t-test as statistical significance at p < 
+ 
+ 554 General: We would like to thank Mrs
+ Sirimon Kongthaworn, for assisting milk collection 557 at RHMB, and staff at the Laboratory of Biochemistry, Chulabhorn Research Institute, and 558 at Pediatric Department and Research Center at Faculty of Medicine Ramathibodi Hospital 559 Funding: This study was supported by BRAND'S Health Research Award 2017 (Cerebos 562 Award 2017 to W
+ C
+), Children Cancer Fund under the Patronage of HRH Princess 563 Soamsawali and Ramathibodi Foundation (to S
+ H
+), and the New Discovery and Frontier 564 Research Grant of Mahidol University (NDFR19/2563 to SC)
+ SC was financially supported 565 by the Faculty Staff Development Program of Faculty of Medicine Ramathibodi Hospital, 566 analysis, W
+ C
+, J
+ P
+, T
+ V
+, N
+ P
+, T
+ L
+, C
+ S
+, S
+ C
+; resources, P
+ N
+, S
+ S
+, J
+ S
+, S
+ H
+, S
+ C
+; 570 writing  original draft preparation, W
+ C
+, writing  review and editing, J
+ P
+, T
+ V
+, N
+ P
+, 571 T
+ L
+, P
+ N
+, S
+ S
+, C
+ S
+, J
+ S
+, S
+ H
+, S
+ C
+; visualization, W
+ C
+, S
+ C
+; supervision, J
+ S
+, S
+ H
+ All 572 authors have read and agreed to the published version of the manuscript
+ 573 Data and materials availability: The dataset used or analyzed during this study is included 577 
+ L
+ A
+ Torre, R
+ L
+ Siegel, E
+ M
+ Ward, A
+ Jemal, Global Cancer Incidence and Mortality Rates and 581 
+ R
+ L
+ Siegel, K
+ D
+ Miller, A
+ Jemal, Cancer statistics, 
+ CA Cancer J Clin 66, 7-30 ()
+ 583 
+ H
+ M
+ Kantarjian, M
+ J
+ Keating, E
+ J
+ Freireich, Toward the potential cure of leukemias in the next 584 
+ L
+ L
+ Robison, S
+ Bhatia, Late-effects among survivors of leukaemia and lymphoma during childhood 586 
+ D
+ A
+ Mulrooney, G
+ Hyun, K
+ K
+ Ness, N
+ Bhakta, C
+ H
+ Pui, M
+ J
+ Ehrhardt, K
+ R
+ Krull, D
+ B
+ Crom, 588 W
+ Chemaitilly, D
+ K
+ Srivastava, M
+ V
+ Relling, S
+ Jeha, D
+ M
+ Green, Y
+ Yasui, L
+ L
+ Robison, M
+ M
+ 589 Hudson, The changing burden of long-term health outcomes in survivors of childhood acute 590 lymphoblastic leukaemia: a retrospective analysis of the St Jude Lifetime Cohort Study
+ Lancet 591 
+ D
+ Bhojwani, S
+ C
+ Howard, C
+ H
+ Pui, High-risk childhood acute lymphoblastic leukemia
+ Clin 593 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 8, 
+ ;    
+ F
+ Harris, S
+ R
+ Dennison, J
+ Singh, D
+ A
+ Phoenix, On the selectivity and efficacy of defense peptides 595 with respect to cancer cells
+ Med Res Rev 33, 190-234 ()
+ 596 
+ N
+ Papo, Y
+ Shai, Host defense peptides as new weapons in cancer treatment
+ Cell Mol Life Sci 62, 784-597 
+ T
+ Utsugi, A
+ J
+ Schroit, J
+ Connor, C
+ D
+ Bucana, I
+ J
+ Fidler, Elevated expression of phosphatidylserine 599 in the outer membrane leaflet of human tumor cells and recognition by activated human blood 600 
+ K
+ Kozlowska, J
+ Nowak, B
+ Kwiatkowski, M
+ Cichorek, ESR study of plasmatic membrane of the 602 transplantable melanoma cells in relation to their biological properties
+ Exp Toxicol Pathol 51, 89-92 603 
+ M
+ Sok, M
+ Sentjurc, M
+ Schara, Membrane fluidity characteristics of human lung cancer
+ Cancer Lett 605 
+ F
+ Schweizer, Cationic amphiphilic peptides with cancer-selective toxicity
+ Eur J Pharmacol 625, 190-607 
+ I
+ Murota, S
+ Taguchi, N
+ Sato, E
+ Y
+ Park, Y
+ Nakamura, K
+ Sato, Identification of antihyperuricemic 609 peptides in the proteolytic digest of shark cartilage water extract using in vivo activity-guided 610 
+ X
+ Chen, L
+ Zhang, C
+ Ma, Y
+ Zhang, X
+ Xi, L
+ Wang, M
+ Zhou, J
+ F
+ Burrows, T
+ Chen, A novel 612 antimicrobial peptide, Ranatuerin-2PLx, showing therapeutic potential in inhibiting proliferation of 613 
+ R
+ Ma, S
+ W
+ Wong, L
+ Ge, C
+ Shaw, S
+ W
+ I
+ Siu, H
+ F
+ Kwok, In Vitro and MD Simulation Study to 615 Explore Physicochemical Parameters for Antibacterial Peptide to Become Potent Anticancer Peptide
+ 616 
+ A
+ Pihlanto, H
+ Korhonen, Bioactive peptides and proteins
+ Adv Food Nutr Res 47, 175-276 ()
+ 618 
+ D
+ P
+ Mohanty, S
+ Mohapatra, S
+ Misra, P
+ S
+ Sahu, Milk derived bioactive peptides and their impact on 619 human health - A review
+ Saudi J Biol Sci 23, 577-583 ()
+ 620 
+ Y
+ Fu, C
+ Ji, X
+ Chen, X
+ Cui, X
+ Wang, J
+ Feng, Y
+ Li, R
+ Qin, X
+ Guo, Investigation into the 621 antimicrobial action and mechanism of a novel endogenous peptide beta-casein 197 from human milk
+ 622 
+ D
+ C
+ Dallas, A
+ Guerrero, N
+ Khaldi, P
+ A
+ Castillo, W
+ F
+ Martin, J
+ T
+ Smilowitz, C
+ L
+ Bevins, D
+ 624 Barile, J
+ B
+ German, C
+ B
+ Lebrilla, Extensive in vivo human milk peptidomics reveals specific 625 proteolysis yielding protective antimicrobial peptides
+ J Proteome Res 12, 2295-2304 ()
+ 626 
+ I
+ Politis, R
+ Chronopoulou, Milk peptides and immune response in the neonate
+ Adv Exp Med Biol 606, 627 
+ X
+ Cui, Y
+ Li, L
+ Yang, L
+ You, X
+ Wang, C
+ Shi, C
+ Ji, X
+ Guo, Peptidome analysis of human milk from 629 women delivering macrosomic fetuses reveals multiple means of protection for infants
+ Oncotarget 7, 630 
+ H
+ Meisel, R
+ J
+ FitzGerald, Biofunctional peptides from milk proteins: mineral binding and 632 
+ M
+ Zhao, C
+ Wei, X
+ Yang, J
+ Zhou, J
+ Wang, F
+ Gu, T
+ Lei, Y
+ Qin, The milk-derived hexapeptide 634 PGPIPN inhibits the invasion and migration of human ovarian cancer cells by regulating the expression 635 of MTA1 and NM23H1 genes
+ Int J Oncol 48, 1721-1729 ()
+ 636 
+ J
+ Zhou, M
+ Zhao, Y
+ Tang, J
+ Wang, C
+ Wei, F
+ Gu, T
+ Lei, Z
+ Chen, Y
+ Qin, The milk-derived fusion 637 peptide, ACFP, suppresses the growth of primary human ovarian cancer cells by regulating apoptotic 638 gene expression and signaling pathways
+ BMC Cancer 16, 246 ()
+ 639 
+ V
+ B
+ Smulevich, L
+ G
+ Solionova, S
+ V
+ Belyakova, Parental occupation and other factors and cancer 640 risk in children: I
+ Study methodology and non-occupational factors
+ Int J Cancer 83, 712-717 ()
+ 641 
+ E
+ L
+ Amitay, L
+ Keinan-Boker, Breastfeeding and Childhood Leukemia Incidence: A Meta-analysis 642 
+ B
+ K
+ Kay, M
+ P
+ Williamson, M
+ Sudol, The importance of being proline: the interaction of proline-rich 644 motifs in signaling proteins with their cognate domains
+ FASEB J 14, 231-241 ()
+ 645 
+ L
+ Holfeld, D
+ Knappe, R
+ Hoffmann, Proline-rich antimicrobial peptides show a long-lasting post-646 antibiotic effect on Enterobacteriaceae and Pseudomonas aeruginosa
+ J Antimicrob Chemother 73, 933-647 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 8, 
+ ;    
+ D
+ Gaspar, A
+ S
+ Veiga, M
+ A
+ Castanho, From antimicrobial to anticancer peptides
+ A review
+ Front 649 
+ M
+ R
+ Felicio, O
+ N
+ Silva, S
+ Goncalves, N
+ C
+ Santos, O
+ L
+ Franco, Peptides with Dual Antimicrobial 651 
+ M
+ Mahlapuu, J
+ Hakansson, L
+ Ringstad, C
+ Bjorn, Antimicrobial Peptides: An Emerging Category of 653 
+ S
+ R
+ Dennison, M
+ Whittaker, F
+ Harris, D
+ A
+ Phoenix, Anticancer alpha-helical peptides and 655 structure/function relationships underpinning their interactions with tumour cell membranes
+ Curr 656 
+ L
+ Wei, C
+ Zhou, H
+ Chen, J
+ Song, R
+ Su, ACPred-FL: a sequence-based predictor using effective 658 feature representation to improve the prediction of anti-cancer peptides
+ Bioinformatics 34, 4007-4016 659 
+ P
+ Agrawal, D
+ Bhagat, M
+ Mahalwal, N
+ Sharma, G
+ P
+ S
+ Raghava, AntiCP 
+0: an updated model for 661 
+ B
+ Manavalan, S
+ Basith, T
+ H
+ Shin, S
+ Choi, M
+ O
+ Kim, G
+ Lee, MLACP: machine-learning-based 663 
+ V
+ Boopathi, S
+ Subramaniyam, A
+ Malik, G
+ Lee, B
+ Manavalan, D
+ C
+ Yang, mACPpred: A Support 665 Vector Machine-Based Meta-Predictor for Identification of Anticancer Peptides
+ Int J Mol Sci 20,  666 
+ C
+ Svanborg, H
+ Agerstam, A
+ Aronson, R
+ Bjerkvig, C
+ Duringer, W
+ Fischer, L
+ Gustafsson, O
+ 668 Hallgren, I
+ Leijonhuvud, S
+ Linse, A
+ K
+ Mossberg, H
+ Nilsson, J
+ Pettersson, M
+ Svensson, HAMLET 669 kills tumor cells by an apoptosis-like mechanism--cellular, molecular, and therapeutic aspects
+ Adv 670 
+ T
+ T
+ Hien, I
+ Ambite, D
+ Butler, M
+ L
+ Y
+ Wan, T
+ H
+ Tran, U
+ Hoglund, M
+ Babjuk, C
+ Svanborg, 672 Bladder cancer therapy without toxicity-A dose-escalation study of alpha-oleate
+ Int J Cancer 147, 673 
+ Q
+ Liu, H
+ Zhao, Y
+ Jiang, M
+ Wu, Y
+ Tian, D
+ Wang, Y
+ Lao, N
+ Xu, Z
+ Li, Development of a lytic 675 peptide derived from BH3-only proteins
+ Cell Death Discov 2, 16008 ()
+ 676 
+ C
+ Hu, X
+ Chen, W
+ Zhao, Y
+ Chen, Y
+ Huang, Design and Modification of Anticancer Peptides
+ Drug 677 
+ Z
+ J
+ Li, C
+ H
+ Cho, Peptides as targeting probes against tumor vasculature for diagnosis and drug 679 
+ V
+ Gupta, S
+ Bhavanasi, M
+ Quadir, K
+ Singh, G
+ Ghosh, K
+ Vasamreddy, A
+ Ghosh, T
+ J
+ Siahaan, S
+ 681 Banerjee, S
+ K
+ Banerjee, Protein PEGylation for cancer therapy: bench to bedside
+ J Cell Commun 682 
+ P
+ Kanaprach, N
+ Pongsakul, N
+ Apiwattanakul, C
+ Muanprasat, S
+ Supapannachart, P
+ Nuntnarumit, S
+ 684 Chutipongtanate, Evaluation of Fetal Intestinal Cell Growth and Antimicrobial Biofunctionalities of 685 Donor Human Milk After Preparative Processes
+ Breastfeed Med 13, 215-220 ()
+ 686 
+ S
+ Chutipongtanate, K
+ Watcharatanyatip, T
+ Homvises, K
+ Jaturongkakul, V
+ Thongboonkerd, 687 Systematic comparisons of various spectrophotometric and colorimetric methods to measure 688 concentrations of protein, peptide and amino acid: detectable limits, linear dynamic ranges, 689 
+ A
+ Lamiable, P
+ Thevenet, J
+ Rey, M
+ Vavrusa, P
+ Derreumaux, P
+ Tuffery, PEP-FOLD3: faster de novo 691 structure prediction for linear peptides in solution and in complex
+ Nucleic Acids Res 44, W449-454 692 
+ Y
+ Shen, J
+ Maupetit, P
+ Derreumaux, P
+ Tuffery, Improved PEP-FOLD Approach for Peptide and 694 Miniprotein Structure Prediction
+ J Chem Theory Comput 10, 4745-4758 ()
+ 695 
+ P
+ Thevenet, Y
+ Shen, J
+ Maupetit, F
+ Guyon, P
+ Derreumaux, P
+ Tuffery, PEP-FOLD: an updated de 696 novo structure prediction server for both linear and disulfide bonded cyclic peptides
+ Nucleic Acids Res 697 
+ J
+ S
+ Mader, A
+ Richardson, J
+ Salsman, D
+ Top, R
+ de Antueno, R
+ Duncan, D
+ W
+ Hoskin, Bovine 699 lactoferricin causes apoptosis in Jurkat T-leukemia cells by sequential permeabilization of the cell 700 membrane and targeting of mitochondria
+ Exp Cell Res 313, 2634-2650 ()
+ 701 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted March 8, 
+ ;    

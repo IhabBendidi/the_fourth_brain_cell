@@ -1,0 +1,585 @@
+Eleanor J
+ Cole1#, Ph
+D; Katy H
+ Stimpson1,2#, B
+S; Brandon S
+ Bentzley1#, M
+D Ph
+D; Merve Gulser1, B
+S; Kirsten Cherian12, Ph
+D; Claudia Tischler1, B
+S; Romina Nejad1, M
+S; Heather Pankow1, B
+S; Elizabeth Choi12, B
+S; Haley Aaron12, B
+S; Flint M
+ Espil1, Ph
+D; Jaspreet Pannu1, B
+S; Xiaoqian Xiao1, Ph
+D; Dalton Duvio1, B
+S; Hugh B
+ Solvason1, M
+D; Jessica Hawkins1, B
+A; Austin Guerra12, B
+A; Booil Jo1, Ph
+D; Kristin S
+ Raj1, M
+D; Charles Debattista1, M
+D; Jennifer Keller1, Ph
+D; Alan F
+ Schatzberg1, M
+D; Keith D
+ Sudheimer1&*, Ph
+D; Nolan R
+ Williams1&*, M
+D 1Department of Psychiatry & Behavioral Sciences, Stanford University, Palo Alto, California, Nolan Williams, 401 Quarry Road, Room 2360, Palo Alto, CA 94304, (650) 498-9111, Keith Sudheimer, 401 Quarry Road, Room 2108, Palo Alto, CA 94304, (650) 701-3674, NRW and KDS have filed intellectual property on the methodology discussed in this manuscript
+  certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    Background: Current treatments for depression are limited by suboptimal efficacy, delayed response, and frequent side effects
+ Intermittent theta-burst stimulation (iTBS) is a non-invasive Recent methodological advancements suggest iTBS could be improved through 1) treating with multiple sessions per day at optimally-spaced intervals, 2) applying a higher overall pulse-dose of stimulation and 3) precision targeting of the left dorsolateral prefrontal cortex (L-DLPFC) to subgenual anterior cingulate cortex (sgACC) circuit
+ We examined the feasibility, tolerability, and Methods: Twenty-one participants with TRD received open-label SAINT
+ FcMRI was used to individually target the region of L-DLPFC most anticorrelated with sgACC
+ Fifty iTBS sessions (1800 pulses per session, 50-minute inter-session interval) were delivered as 10 daily sessions over 5 consecutive days at 90% resting motor threshold (adjusted for cortical depth)
+ Results: Nineteen of 21 participants (
+48%) met criteria for remission (10 on the Montgomery-demonstrated no negative cognitive side-effects
+ There were no seizures or other severe adverse Discussion: Our accelerated, high-dose, iTBS protocol with fcMRI-guided targeting (SAINT) was well tolerated and safe
+ Efficacy was strikingly high, especially for this treatment-resistant population
+ Double-blinded sham-controlled trials are required to confirm the high remission rate certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    Depression is the leading cause of disability worldwide, and approximately 800,000 suicides are completed each year ()
+ Current FDA-approved antidepressant treatments do not achieve remission in the majority of patients with treatment-resistant depression (TRD) (46), are limited by tolerability (7) and have extended treatment durations, which do not match the imminent risk to suicidal patients ()
+ New antidepressant treatments are needed that are safe, tolerable, Repetitive transcranial magnetic stimulation (rTMS) delivered to the left dorsolateral prefrontal cortex (L-DLPFC) is an FDA-approved non-invasive brain stimulation technique for TRD ()
+ rTMS involves passing an electrical current through a magnetic coil placed superficial to the scalp, producing a high-intensity magnetic field that passes through the scalp, skull and meninges to excite neuronal tissue ()
+ Repeated high-frequency excitation of the same brain region results in strengthening of synapses through a process known as long-term potentiation (LTP) (13, 14), causing changes in functional connectivity (13, )
+ The antidepressant mechanism of rTMS is hypothesized to be mediated in part through indirect inhibitory functional connectivity from L-A more efficient form of rTMS, known as intermittent theta-burst stimulation (iTBS), has been developed, which has significantly shortened the duration of treatment sessions from 37 minutes to 3 minutes (18) and produces equivalent antidepressant responses (19, )
+ FDA-approved rTMS and iTBS courses involve daily stimulation sessions (600 iTBS pulses) for 6 weeks, achieving remission in 32% of patients and response in 49% ()
+ Studies suggest that the efficacy of iTBS could be improved by optimized iTBS session spacing, accelerated delivery (24), higher overall pulse-doses (10, 25, 26) and individualized targeting (15, )
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    We implemented all of these potential improvements on rTMS treatment of depression into an (fcMRI)-guided targeting
+ This protocol includes 5 consecutive days of 10-daily iTBS sessions (1800 pulses per session) delivered to the region of the L-DLPFC that is most functionally anticorrelated with the sgACC in each individual ()
+ Individualized fcMRI-guided targeting, optimized intersession interval spacing, accelerated delivery and high pulse-dose were predicted to collectively result in higher response and remission rates than current FDA-approved TMS (SAINT) to distinguish this protocol from other attempts at accelerating TMS protocols without individualized targeting, optimized intersession spacing or high pulse-dose (29, )
+ Our incipient investigation of SAINT demonstrated surprisingly high efficacy in a small cohort of participants with extremely severe and treatment refractory depression ()a
+ The study we describe herein builds upon our initial report by testing SAINT in a larger and more generalizable cohort of participants with TRD to examine the feasibility, safety and preliminary efficacy of this approach
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    Participants were required to be currently experiencing a non-psychotic, non-atypical major depressive episode as part of either bipolar II disorder or major depressive disorder (MDD) as defined by DSM-5 criteria and not responded to at least 1 antidepressant medication
+ At the time of screening, participants were required to have a Hamilton Depression Rating Scale 17-item (HDRS-17) score of 20 or higher, a negative urine drug screen and negative urine pregnancy test if female
+ Participants were excluded if they had any contraindications to rTMS such as history of seizures, metallic implants in the head, cardiac pacemakers or a neurological disorder
+ Participants were recruited through the Depression Research Clinic at Stanford University, study Twenty-three participants (aged 19-78, 13 female) were recruited for this study
+ One participant was screened out post-enrollment for having a very high motor threshold (>90% machine output) and 1 participant with a history of multiple prior therapeutic intolerances (anxiety leading to early discontinuation of intravenous ketamine infusions and conventional rTMS) dropped out after the first day of stimulation due to anxiety
+ This resulted in a final sample of 21 participants (aged -78, 12 female)
+ Nineteen participants had a diagnosis of MDD, and 2 participants had a diagnosis of bipolar II disorder currently in a depressive episode (>1 year)
+ See Table 1 for demographic information and treatment history
+ Participants were required to maintain their antidepressant regimen throughout study enrollment (see Supplementary Table 1 for medications taken during certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    Before the stimulation course, each participant had both structural MRI and resting-state fMRI scans
+ All MRI scans were acquired using a 3-tesla GE Discovery MR750 scanner with a -channel imaging coil at the Center for Cognitive and Neurobiological Imaging at Stanford, using a 3x accelerated multiband imaging sequence with a repetition time of 2 seconds
+ During the -minute resting state scans, participants were instructed to let their minds wander, avoid repetitive thoughts, keep their eyes open and their attention focused on a central fixation point
+ A MagVenture MagPro X100 (MagVenture A/S, Denmark) system was used to deliver sessions of iTBS; 60 cycles of 10 bursts of 3 pulses at 50Hz were delivered in 2-second trains (5Hz) with an 8-second inter-train interval Stimulation sessions were delivered hourly ()
+ Ten sessions were applied per day (18,000 pulses/day) for 5 consecutive days (90,000 pulses in total)
+ Stimulation was delivered at 90% resting motor threshold (rMT; )
+ A depth correction was applied (34) to consistently achieve 90% rMT at the depth of the functional target
+ Stimulation was never delivered above 120% rMT for safety ()
+ The Localite Neuronavigation System (Localite GmbH, Sankt Augustin, Germany) was used to position the TMS coil over the individualized stimulation target
+ See Figure 1 for differences between SAINT and the FDA-approved iTBS Before and after SAINT, depressive symptoms and suicidal ideation were assessed using clinical certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    Depression Inventory-II (BDI-II)]
+ At the end of each day of stimulation (10 sessions), depressive symptoms were assessed using the Hamilton Depression Rating Scale 6-item (HDRS-)
+ The Young Mania Rating Scale (YMRS) was completed daily to assess for hypomania ()
+  A neuropsychological test battery was administered before and after SAINT to capture any neurocognitive side effects
+ The Hopkins Verbal Learning Test  Revised (HVLT-R) (37), the Brief Visuospatial Memory Test  Revised (BVMT-R) (38), subtests from the Wechsler Adult Intelligence Scale (4th Ed
+; WAIS-IV) (39) and several tests from the Delis Kaplan Executive Function System (D-KEFS) (40) were used
+ See supplementary material for detailed information Personalized L-DLPFC targets were generated for each participant using the baseline resting-state scan
+ All analyses were conducted in a participants own brain space
+ Resting-state scans were pre-processed according to typical methods using Statistical Parametric Mapping (SPM12) scans were then co-registered with the resting-state scans
+ Next, the estimation parameters to warp the T1-weighted structural image into Montreal Neurological Institute (MNI) space were calculated using SPM segmentations based on tissue probability maps
+ These normalization parameters were inverted and applied to MNI space regions of interests (ROIs) for the L-DLPFC (Brodmann area 46) and the sgACC (BA25) to map these ROIs onto the individual participants brain
+ The participant-space ROIs were then resliced, smoothed, and binarized to match the The participant-space ROI for the L-DLPFC formed the search area for the optimal TMS coil placement
+ Two separate algorithms were used to determine coil placement
+ The first algorithm certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    sorted each of the L-DLPFC and bilateral sgACC voxels into functional sub-units using a hierarchical agglomerative clustering algorithm
+ Median time series were then created for each functional subunit, and the correlation coefficients were calculated between all median time series extracted from all functional subunits of the L-DLPFC and sgACC
+ The second algorithm determined the optimal L-DLPFC subunit to target based on 3 factors: the net correlation/anticorrelation of the L-DLPFC subunit with sgACC subunits, the size of the subunit and the spatial concentration of the subunit
+ See supplementary methods for more details on these algorithms
+ Three-dimensional maps of the whole brain correlation coefficient of the selected L-DLPFC subunit were then created and used to target the coil placement using the Localite TMS Navigation software (Localite GmbH, Sankt Augustin, Germany)
+ See Figure 2 for All statistical analyses were conducted using IBM SPSS Version 
+ The level of statistical significance was set at p=
+ 
+ Missing data were not imputed
+ Statistical analyses were planned independently by BSB and BJ and reviewed by AFS and NRW
+ Our primary outcome measure was change in MADRS scores from baseline to immediately following SAINT, and MADRS scores were used to calculate response and remission rates
+ Reductions in HDRS-17, HDRS-6 and BDI-II scores were used as secondary outcome measures of depression severity
+ Response was defined as 50% reduction in these scales
+ Remission was defined as MADRS score 10 (41), 7 on HDRS-17 (42), 4 on the HDRS-6 (43) and 12 on the BDI-II ()
+ A floor effect of SAINT treatment was observed across all scales, and initial linear mixed models produced residuals that were not normally distributed (Shapiro-Wilk)
+ Thus, certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    changes in MADRS, HDRS-17, and BDI-II were assessed with generalized linear mixed models (GLMM) that used a compound symmetry covariance structure, Satterthwaite approximation of degrees of freedom, and robust estimation of coefficients to handle violations of model assumptions
+ Fixed effects of time and a treatment history of non-response to conventional rTMS and their interaction were assessed
+ All post-hoc pairwise comparisons were Bonferroni-Daily HDRS-6 scores were used to calculate the number of days of stimulation required to reach responder criterion (50% reduction from baseline on HDRS-6) and remission criterion (4 on HDRS-)
+ Kaplan-Meier survival analysis using the Breslow test of equality of survival distributions was used to determine if there were significant differences in the number of days to reach response and remission criteria for participants who had a treatment history of conventional Suicidality was assessed using the suicidal ideation subscale of the C-SSRS, item 3 of the HDRS-17, and item 10 of the MADRS
+ Response was defined as 50% reduction in these scores from baseline, and remission was defined as a score of 
+ Response was only calculated if the baseline score was >
+ Scores were ordinal and changes in scores were assessed with generalized linear models (GLM) with a multinomial link, compound symmetry covariance structure, Satterthwaite approximation of degrees of freedom, and robust estimation of coefficients to handle violations of Scores on the neuropsychological tests before and after SAINT were compared using paired t-tests
+ The data for the HVLT-R total score, the BVMT-R-Delayed Recall and the number of rule violations on the D-KEFS Tower Test violated the assumption of normality, so non-parametric certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    (Wilcoxon signed-rank) tests were used to evaluate SAINT-induced changes in performance on these 3 measures
+ Neuropsychological test data were available for 17 participants
+ All research procedures were conducted in accordance with the ethical standards outlined in the Declaration of Helsinki
+ This study was approved by the Stanford University Institutional Review Board
+ All participants provided written informed consent before taking part in any study certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    No serious adverse events occurred
+ As stated in the Methods, 1 participant with a history of multiple prior therapeutic intolerances (anxiety leading to early discontinuation of intravenous ketamine infusions and conventional rTMS) dropped out after the first day of stimulation due to anxiety
+ The only side-effects other participants reported were fatigue and some discomfort at both the stimulation site and in the facial muscles during stimulation
+ The neuropsychological test improved on measures of cognitive inhibition [D-KEFS color-word inhibition task; t()=
+92, significance level p<
+ )
+ There were no significant changes on any of the other neurocognitive GLMM analysis revealed a significant effect of time (F,=
+423, p<
+001) on mean MADRS scores with all follow-up time points being significantly lower than baseline (Bonferroni-corrected pairwise comparisons, p<
+ )
+ These results were recapitulated for the HDRS-17 (F,=
+765, p<
+001) and the BDI-II (F,=
+040, p<
+ )
+ The response rate (50% reduction in MADRS) was 
+48%, and all responders were in remission (MADRS score )
+ Results were similar across all clinical assessments (see Table )
+ One month following SAINT, 70% of participants continued to meet responder criteria (see Supplementary Table 2 for response and remission certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    A hypothesis of SAINT is that conventional rTMS delivers insufficient cumulative stimulation to induce response and remission from depression for some patients
+ We tested this in part by including participants who had a history of non-response to conventional rTMS (rTMS non-responders, n=)
+ When comparing the non-responder group to the rest of the participants, we found that conventional rTMS non-responders had similar MADRS scores at baseline
+ TMS non-responders had greater mean MADRS scores at every time point after SAINT; however, neither the main effect of group (GLMM, F,=
+695, p=
+072, n
+ s
+) nor the group x time interaction reached statistical significance (F,=
+077, p=
+405, see Supplementary Table 3), indicating that participants with a history of conventional rTMS non-response had a similar treatment effect as The mean number of days of SAINT completed until participants met the response criterion (50% reduction in HDRS-6 score) was 
+30 (SD=
+13, ~23 10-minute treatments, n=20, daily HDRS-6 scores missing for 1 participant), and the mean number of days to achieve remission (HDRS-6 score 4) was 
+63 (SD=
+21, ~26 10-minute treatments, n=19, 1 participant did not achieve remission by the HDRS-6 criterion)
+ See Figure 3 for percentage change in HDRS-6 score with Kaplan-Meier survival analysis revealed that participants who had previously not responded to a 6-week rTMS treatment course (n=6) required more days of treatment to achieve responder criterion [=
+359, p=
+037, mean 
+00 days (SD=
+63), ~30 10-minute treatments] and this approached statistical significance for remission criterion as well [=
+558, p=
+057, mean 
+20 days (SD=
+84), ~32 10-minute treatments, n=5, 1 participant did not meet criteria for remission)
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    Of the 21 total participants at the time of screening, 19 reported some degree of suicidality on the C-SSRS, 20 reported suicidality on item 3 of the HDRS-17 and all 21 reported suicidality on item 10 of the MADRS
+ Changes in suicidality scales were assessed with GLM with a multinomial link
+ Following SAINT there were significant reductions in the C-SSRS (GLM, X()=
+398, p<
+001), item 3 of the HDRS-17 (GLM, X2(3)= 
+057, p<
+001), and item 10 of the MADRS (GLM, X()=
+855, p<
+001) at all follow up time points (X2, p<
+ )
+ See Table 
+ One month following SAINT, 80-100% of participants continued to be remitted on these measures (see certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    The aim of this study was to examine the safety, feasibility and preliminary efficacy of an accelerated, high-dose iTBS, fcMRI-guided treatment protocol (SAINT) for TRD
+ We found that SAINT significantly reduced depressive symptoms and suicidal ideation in patients with severe TRD within 5 days, without negative cognitive side-effects or other adverse events
+ The remission rate we observed is substantially higher than remission rates for open-label studies using standard FDA-approved rTMS treatment protocols (19, 45, )
+ This is also higher than the remission rates that have been reported for electroconvulsive therapy (ECT) treatment (~48%) (5) and for ketamine treatment of TRD (31%) ()
+ See Supplementary Table 4 for remission rates for interventions for TRD
+ This remission rate was observed despite the inclusion of participants who had previously not responded to FDA-approved rTMS
+ The high efficacy of SAINT may be The high efficacy of our SAINT protocol complements evidence from basic neuroscience research and human physiology data, which suggest that multiple optimally-spaced daily iTBS sessions have an enhanced effect compared to the same number of single daily sessions (2123, )
+ Multiple optimally-spaced stimulation sessions have also been shown to produce accumulating non-linear improvements in clinical symptoms (52, )
+ The duration of inter-session intervals appears to be vitally important as stimulation sessions with inter-session intervals of 50-90 minutes have been shown to have a cumulative effect on synaptic strengthening; whereas, sessions with inter-session intervals of 40 minutes or less do not show this cumulative effect ()
+ Similarly, some studies have shown that 2 theta-burst stimulation sessions delivered to the motor cortex 15 minutes apart do not increase cortical excitability compared to a single session (51, )
+ Finally, L-DLPFC activity has been shown to be correlated with sgACC activation 10 minutes after rTMS; this correlation was reduced 27 minutes following rTMS; and the correlation certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    between these regions reached its nadir 45 minutes after rTMS (17), i
+ e
+ the hypothetically optimal time for stimulation
+ Taken together, these data could explain the limited efficacy of a previously reported accelerated stimulation protocol for depression, which used an inter-session interval of The individualized targeting method used in our study may have also contributed to the high remission rate
+ The L-DLPFC is a large brain area that consists of several subregions, some of which are correlated and some anticorrelated with sgACC activity ()
+ A retrospective study found that the degree of anticorrelation between the stimulated subregion of the L-DLPFC and the sgACC accounted for over 70% of the variance in antidepressant efficacy of rTMS ()
+ A recent interleaved TMS-fMRI study showed that when using individualized functional connectivity-guided targeting, stimulation propagated from the L-DLPFC to the sgACC in all participants ()
+ In comparison, a separate study defined the L-DLPFC anatomically (border of BA9/BA46) and stimulation propagated to the sgACC in only 44% of participants ()
+ A trial in healthy individuals induced the desired change in functional connectivity between the L-DLPFC and the sgACC ()
+ Defining L-DLPFC using common techniques such as scalp-based measurements or structural MRI scans could result in stimulating a subregion of the L-DLPFC that is correlated rather than anticorrelated with the sgACC (58, )
+ The limited efficacy of prior iTBS treatment protocols (30, 60) could be explained in part by the use of this anatomical target (border of BA/BA)
+ By stimulating the subregion of the L-DLPFC that is most anticorrelated with the sgACC in each individual, we may have reduced this variability in signal propagation and maximized treatment The high efficacy of our SAINT protocol suggests that FDA-approved protocols could be under-dosing
+ Our protocol administered five-times the pulse-dose of the FDA-approved iTBS protocol certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    (90,000 pulses in comparison to the standard 18,000 iTBS pulses ())
+ Prior studies found that 61% of individuals who do not respond to an rTMS treatment course responded with additional rTMS treatment sessions (26), and higher pulse-doses are associated with higher efficacy (61, )
+ A recent report demonstrated non-asymptotic negative linear relationships between the number of rTMS treatments and depression symptom scores ()
+ Finally, the possible need for a higher pulse-dose is consistent with deep brain stimulation in other neuropsychiatric disorders, where ~500,000 pulses of stimulation are delivered each day ()
+ This suggests that additional rTMS treatments might further reduce depression symptoms
+ Our SAINT protocol applies the equivalent amount of stimulation as a 6-week standard iTBS treatment protocol (18,000 pulses) each day of stimulation ()
+ Thirty percent of participants in our study met responder criteria after the first day of stimulation (n=6/20, daily HDRS-6 missing for 1 participant), which is equivalent to response rates for iTBS/rTMS for this treatment-resistance level ()
+ None of the prior rTMS non-responders in our study responded after a single day of SAINT (see Figure 3); whereas, 83% of these prior rTMS non-responders did respond at the end of the 5-day protocol
+ The need for higher stimulation doses may have contributed to the limited efficacy of previous attempts at accelerated stimulation approaches, which delivered much lower daily and total pulse-doses ()
+ Our study administered the highest number of TMS pulses per day and highest overall TMS pulse-Prior rTMS non-responders in our study required more stimulation sessions to induce a clinically significant response
+ It is possible that depressed individuals with a higher degree of treatment-may require a higher pulse-dose to induce an antidepressant response, and individuals with the highest degree of treatment resistance may require maintenance iTBS therapy (70) or even an implanted cortical stimulator (71, 72) to induce and sustain antidepressant responses ()
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    The combined short duration of our SAINT protocol and the apparent lack of cognitive side-effects provide potential benefits over currently available treatments
+ Ketamine/esketamine and ECT are currently available alternatives for rapid antidepressant response but have several limitations
+ Remission rates for ketamine/esketamine are substantially lower than the remission rate we observed for SAINT (7376), approximately 11% of patients report the dissociative symptoms from ketamine as very disturbing (76), and the opioid mechanism of action may pose a potential risk for some ()
+ A large trial investigating the efficacy of esketamine showed a maximal 4-point average difference on the MADRS in comparison to placebo ()
+ Although ECT is safe and effective, its use has been limited to less than 2% of eligible patients due to restricted availability coupled with concerns regarding cognitive side-effects and stigma (79, )
+ Further, ECT often takes two weeks or longer to produce remission from suicidal ideation ()
+ Our study has several limitations, including an open-label design and small sample size
+ Without a sham-control group we cannot rule out that our results are primarily due to sham effect
+ However, a previous study found individuals with high treatment-refractoriness, like many of the participants in this study, show no sham response to iTBS sessions of 1800 pulses ()
+ Further, this study involved 500 minutes of stimulation; whereas, conventional rTMS involves 1200 minutes of stimulation time (10, )
+ Thus, it would be expected that with less time in treatment there would be less of an opportunity for a sham effect than in conventional rTMS treatment
+ The remission rate in this study is also substantially higher than previous open-label interventions for TRD; see Supplementary Table 
+ Greater sham remission rates would be expected for DBS as sham response magnitude is related to the degree of invasiveness of the procedure ()
+ The pooled open-label remission rate for DBS is 30% ()
+ The remission rate we found (
+48%) is substantially higher than this, suggesting that SAINT is either a more effective treatment or the SAINT procedure introduced an extremely high sham effect
+ An observational study monitoring 124 individuals with TRD receiving treatment as usual (medications, psychotherapy and ECT) certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    showed a 
+6% remission rate after 1 year (84) demonstrating the low incidence of spontaneous remission in this population
+ Regardless, a sham-controlled double-blinded study is required to define the effectiveness of our protocol in comparison to an identical schedule of sham stimulation Further methodological uncertainties include stimulation of a single brain region (85), fixed stimulation frequencies (63, 86), fixed inter-session intervals (86, 87) and the lack of state-dependent stimulation ()
+ Individualized stimulation frequencies may result in quicker and more durable responses (86, 89), and different cortical excitability profiles may require different inter-session intervals (87, )
+ Finally, recent studies have shown that applying stimulation in particular In conclusion, SAINT; our high-dose, accelerated and fcMRI-guided iTBS protocol is preliminarily safe, well-tolerated, feasible, and associated with a high rate of remission from depression, despite the inclusion of participants who had previously not responded to rTMS
+ Our data suggest that current FDA-approved TMS protocols may be under-dosing and could potentially benefit from individualized targeting methods and accelerated delivery of a high pulse-dose via optimally-spaced sessions
+ The efficacy of SAINT in treating suicidal ideation and the short duration of the protocol suggest SAINT could provide a means of rapidly ensuring the safety of suicidal patients
+ Larger, double-blinded, sham-controlled trials are required to confirm the promisingly high certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    EJC ran the experiment, collected the data, analyzed the data, created the figures and tables KHS set-up the experiment, ran the experiment, collected the data and edited the manuscript
+ BSB designed the experiment, analyzed the data, wrote the results section and edited the KC assisted with the design of the neuropsychological battery, performed neuropsychological HBS provided MD coverage for the TMS sessions and subject recruitment
+ KSR provided MD coverage for the TMS sessions and subject recruitment
+ CD provided MD coverage for the TMS sessions and subject recruitment
+ JK assisted with the design of the neuropsychological test battery and supervised students AFS helped with trial design, subject recruitment, and acted as unconflicted MD investigator certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    KDS designed and executed the algorithm used to define the optimal stimulation targets and NRW invented the stimulation methodology, designed the trial, acted as study MD, mentored the data analysis and the writing of the manuscript by EJC
+ We would like to thank all of the participants for their contributions
+ This work was supported by Charles R
+ Schwab, the Gordie Brookstone Fund, The Marshall and Dee Ann Payne Fund, the Lehman Family, Neuromodulation Research Fund, Still Charitable Fund, Avy L
+ and Robert L
+ Miller Foundation, Stanford Psychiatry Chairmans Small Grant, Stanford CNI Innovation Award, NIH T32 035165, NIH UL1 TR001085, Stanford Medical Scholars Research Scholarship, NARSAD Young Investigator Award and the Department of certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    
+ Reddy M
+ Depression: The disorder and the burden
+ Indian J
+ Psychol
+ Med
+ ;():
+ 
+ World Health Organisation
+ WHO | Suicide data
+ WHO Website 2016; 
+ Friedrich MJ
+ Depression Is the Leading Cause of Disability Around the World
+ JAMA 
+ Berlim MT, Van Den Eynde F, Tovar-Perdomo S, Daskalakis ZJ
+ Response, remission and treating major depression: A systematic review and meta-analysis of randomized, double-blind 
+ Heijnen WT, Birkenhger TK, Wierdsma AI, Van Den Broek WW
+ Antidepressant 
+ Sinyor M, Schaffer A, Levitt A
+ The Sequenced Treatment Alternatives to Relieve Depression 
+ Penn E, Tracy DK
+ The drugs dont work? antidepressants and the current and future 
+ Blier P
+ Optimal use of antidepressants: when to act?
+ J
+ Psychiatry Neurosci
+ ;():
+ 
+ Husain MM et al Speed of response and remission in major depressive disorder with acute electroconvulsive therapy (ECT): A consortium for research in ECT (CORE) report
+ J
+ Clin
+ 
+ Perera T et al The Clinical TMS Society Consensus Review and Treatment Recommendations for TMS Therapy for Major Depressive Disorder [Internet]
+ Brain Stimul
+ 
+ George MS, Talyor JJ, Short EB
+ The Expanding Evidence Base for rTMS Treatment of certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    
+ Hallett M
+ Transcranial magnetic stimulation and the human brain [Internet]
+ Nature 
+ Huerta PT, Volpe BT
+ Transcranial magnetic stimulation, synaptic plasticity and network 
+ Ogiue-Ikeda M, Kawato S, Ueno S
+ The effect of repetitive transcranial magnetic stimulation on long-term potentiation in rat hippocampus depends on stimulus intensity
+ Brain Res
+ 
+ Fox MD, Buckner RL, White MP, Greicius MD, Pascual-Leone A
+ Efficacy of transcranial magnetic stimulation targets for depression is related to intrinsic functional connectivity with the 
+ Kito S et al Transcranial Magnetic Stimulation Modulates Resting EEG Functional Connectivity Between the Left Dorsolateral Prefrontal Cortex and Limbic Regions in Medicated 
+ Singh A et al Intermittent theta burst stimulation at personalized targets reduces the functional connectivity of the default mode network in healthy subjects [Internet]
+  
+ Huang YZ, Rothwell JC
+ The effect of short-duration bursts of high-frequency, low-intensity 
+ Blumberger DM et al Effectiveness of theta burst versus high-frequency repetitive transcranial magnetic stimulation in patients with depression (THREE-D): a randomised non-
+ Blumberger DM et al Intermittent theta-burst versus 10 Hz left dorsolateral prefrontal rTMS for treatment resistant depression: preliminary results from a two-site, randomized, single blind certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    
+ Smolen P, Zhang Y, Byrne JH
+ The right time to learn: Mechanisms and optimization of 
+ Kramar EA et al Synaptic evidence for the efficacy of spaced learning [Internet]
+ Proc
+ Natl
+ 
+ Lynch G, Kramr EA, Babayan AH, Rumbaugh G, Gall CM
+ Differences between synaptic plasticity thresholds result in new timing rules for maximizing long-term potentiation [Internet]
+ 
+ Thomson AC et al No additive meta plasticity effects of accelerated iTBS with short inter-
+ George MS et al Mood improvement following daily left prefrontal repetitive transcranial magnetic stimulation in patients with depression: a placebo-controlled crossover trial
+ Am
+ J
+ 
+ Yip AG et al 61% of unmedicated treatment resistant depression patients who did not respond to acute TMS treatment responded after four weeks of twice weekly deep TMS in the 
+ Weigand A et al Prospective Validation That Subgenual Connectivity Predicts 
+ Williams NR et al High-dose spaced theta-burst TMS as a rapid-acting antidepressant in 
+ Desmyter S et al Accelerated Intermittent Theta Burst Stimulation for Suicide Risk in 
+ Duprat R et al Accelerated intermittent theta burst stimulation treatment in medication-resistant major depression: A fast road to remission?
+ J
+ Affect
+ Disord
+ ;:
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    
+ Chung SW et al Impact of different intensities of intermittent theta burst stimulation on the cortical properties during TMS-EEG and working memory performance
+ Hum
+ Brain Mapp
+ 
+ Chung SW, Hoy KE, Fitzgerald PB
+ Theta-burst stimulation: A new form of tms treatment for 
+ Alkhasli I, Sakreida K, Mottaghy FM, Binkofski F
+ Modulation of Fronto-Striatal Functional 
+ Stokes MG et al Simple Metric For Scaling Motor Threshold Based on Scalp-Cortex 
+ Blumberger DM et al Effectiveness of theta burst versus high-frequency repetitive transcranial magnetic stimulation in patients with depression (THREE-D): a randomised non-
+ Ozten E, Sayar GH, Karamustafalioglu O
+ Hypomanic shift observed during rTMS treatment of patients with unipolar depressive disorder: Four case reports
+ Ann
+ Gen
+ Psychiatry 
+ Oneil-Pirozzi TM, Goldstein R, Strangman GE, Glenn MB
+ Testre-test reliability of the Hopkins Verbal Learning Test-Revised in individuals with traumatic brain injury
+ Brain Inj
+ 
+ Benedict RHB, Groninger L, Schretlen D, Dobraski M, Shpritz B
+ Revision of the brief visuospatial memory test: Studies of normal performance, reliability, and, validity
+ Psychol
+ 
+ Delis DC, Kramer JH, Kaplan E, Holdnack J
+ Reliability and validity of the Delis-Kaplan certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    
+ Zimmerman M, Posternak MA, Chelminski I
+ Derivation of a definition of remission on the Montgomery-Asberg depression rating scale corresponding to the definition of remission on the 
+ Leucht S et al What does the HAMD mean?
+ J
+ Affect
+ Disord
+ ;():
+ 
+ Timmerby N, Andersen JH, Sndergaard S, stergaard SD, Bech P
+ A Systematic Review of the Clinimetric Properties of the 6-Item Version of the Hamilton Depression Rating Scale 
+ Schulte-Van Maaren YWM et al Reference values for major depression questionnaires: The 
+ Carpenter LL et al Transcranial magnetic stimulation (TMS) for major depression: A multisite, naturalistic, observational study of acute treatment outcomes in clinical practice 
+ Janicak PG et al Durability of clinical benefit with transcranial magnetic stimulation (TMS) in the treatment of pharmacoresistant major depression: Assessment of relapse during a 6-month, 
+ Lener MS, Kadriu B, Zarate CA
+ Ketamine and Beyond: Investigations into the Potential of 
+ Harris KM, Kater SB
+ Dendritic Spines: Cellular Specializations Imparting Both Stability and 
+ Tse NY et al The effect of stimulation interval on plasticity following repeated blocks of 
+ Goldsworthy MR, Pitcher JB, Ridding MC
+ The application of spaced theta burst protocols induces long-lasting neuroplastic changes in the human motor cortex
+ Eur
+ J
+ Neurosci
+ 
+ Nettekoven C et al Dose-Dependent Effects of Theta Burst rTMS on Cortical Excitability and Resting-State Connectivity of the Human Motor System [Internet]
+ J
+ Neurosci
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    
+ Goldsworthy MR, Pitcher JB, Ridding MC
+ The application of spaced theta burst protocols induces long-lasting neuroplastic changes in the human motor cortex [Internet]
+ Eur
+ J
+ 
+ Nyffeler T, Cazzoli D, Hess CW, Mri RM
+ One session of repeated parietal theta burst 
+ Chung SW, Rogasch NC, Hoy KE, Fitzgerald PB
+ The effect of single and repeated prefrontal intermittent theta burst stimulation on cortical reactivity and working memory 
+ Hoshi E
+ Functional specialization within the dorsolateral prefrontal cortex: A review of 
+ Oathes DJ et al Individualized non-invasive brain stimulation engages the subgenual anterior cingulate and amygdala
+  [published online ahead of print: 2018]; 
+ Vink JJT et al A novel concurrent TMS-fMRI method to reveal propagation patterns of 
+ Fox MD, Halko MA, Eldaief MC, Pascual-Leone A
+ Measuring and manipulating brain connectivity with resting state functional connectivity magnetic resonance imaging (fcMRI) and 
+ Mir-Moghtadaei A et al Concordance between BeamF3 and MRI-neuronavigated target sites for repetitive transcranial magnetic stimulation of the left dorsolateral prefrontal cortex
+ 
+ Li CT et al Efficacy of prefrontal theta-burst stimulation in refractory depression: A 
+ Kaster TS et al Efficacy, tolerability, and cognitive effects of deep transcranial magnetic certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    
+ Jorge RE, Robinson RG, OBrien JT
+ Top cited papers in international psychogeriatrics: 
+ a controlled study of repetitive transcranial magnetic stimulation as a treatment of depression in 
+ Kaster TS et al Trajectories of Response to Dorsolateral Prefrontal rTMS in Major 
+ Williams NR, Okun MS
+ Deep brain stimulation (DBS) at the interface of neurology and 
+ Fregni F et al Predictors of antidepressant response in clinical trials of transcranial 
+ George MS et al Daily left prefrontal transcranial magnetic stimulation therapy for major 
+ Levkovitz Y et al Efficacy and safety of deep transcranial magnetic stimulation for major 
+ OReardon JP et al Efficacy and Safety of Transcranial Magnetic Stimulation in the Acute Treatment of Major Depression: A Multisite Randomized Controlled Trial Biol
+ Psychiatry 
+ Pittenger C, Duman RS
+ Stress, Depression and Neuroplasticity: A Convergence of 
+ Pridmore S, Erger S, Rybak M, Kelly E, May T
+ Early relapse (ER) transcranial magnetic 
+ Williams NR et al Five-Year Follow-Up of Bilateral Epidural Prefrontal Cortical Stimulation certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    
+ Williams NR et al Optimization of epidural cortical stimulation for treatment-resistant 
+ Murrough JW et al Rapid and longer-term antidepressant effects of repeated ketamine 
+ Shiroma PR et al Augmentation of response and remission to serial intravenous 
+ Diamond PR et al Ketamine infusions for treatment resistant depression: A series of 28 patients treated weekly or twice weekly in an ECT clinic
+ J
+ Psychopharmacol
+ ;():
+ Correia-Melo FS et al Rapid infusion of esketamine for unipolar and bipolar depression: A 
+ Williams NR et al Attenuation of antidepressant effects of ketamine by opioid receptor 
+ Popova V et al Efficacy and Safety of Flexibly Dosed Esketamine Nasal Spray Combined With a Newly Initiated Oral Antidepressant in Treatment-Resistant Depression: A Randomized Double-Blind Active-Controlled Study
+ Am
+ J
+ Psychiatry [published online ahead of print: 2019]; 
+ Slade EP, Jahn DR, Regenold WT, Case BG
+ Association of electroconvulsive therapy with 
+ Sackeim HA
+ Modern electroconvulsive therapy: Vastly improved yet greatly underused
+ 
+ Kellner CH et al Relief of expressed suicidal intent by ECT: A consortium for research in certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    
+ Brim RL, Miller FG
+ The potential benefit of the placebo effect in sham-controlled trials: 
+ Zhou C et al A systematic review and meta-analysis of deep brain stimulation in treatment-
+ Dunner DL et al Prospective, long-term, multicenter study of the naturalistic outcomes of 
+ Feffer K et al 1 Hz rTMS of the right orbitofrontal cortex for major depression: Safety, 
+ Maeda F, Keenan JP, Tormos JM, Topka H, Pascual-Leone A
+ Interindividual variability of the modulatory effects of repetitive transcranial magnetic stimulation on cortical excitability
+ Exp
+ 
+ Du X, Summerfelt A, Chiappelli J, Holcomb HH, Hong LE
+ Individualized brain inhibition and excitation profile in response to paired-pulse TMS
+ J
+ Mot
+ Behav
+ ;():
+ 
+ Schaworonkow N, Triesch J, Ziemann U, Zrenner C
+ EEG-triggered TMS reveals stronger brain state-dependent modulation of motor evoked potentials at weaker stimulation intensities 
+ Chung SW et al The effects of individualised intermittent theta burst stimulation in the 
+ Oberman L et al Abnormal modulation of corticospinal excitability in adults with Aspergers 
+ Posner K et al The Columbia-suicide severity rating scale: Initial validity and internal consistency findings from three multisite studies with adolescents and adults
+ Am
+ J
+ Psychiatry 
+ Cash RFH et al Subgenual Functional Connectivity Predicts Antidepressant Treatment certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    
+ Peinemann A et al Long-lasting increase in corticospinal excitability after 1800 pulses of subthreshold 5 Hz repetitive TMS to the primary motor cortex
+ Clin
+ Neurophysiol
+ 
+ Volz LJ, Benali A, Mix A, Neubacher U, Funke K
+ Dose-dependence of changes in cortical protein expression induced with repeated transcranial magnetic theta-burst stimulation in the rat 
+ Okamoto M et al Three-dimensional probabilistic anatomical cranio-cerebral correlation via the international 10-20 system oriented for transcranial functional brain mapping
+ 
+ Neuroimage certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    Table 1: Demographic information and treatment history for all participants (n=21) *One participant remitted with conventional rTMS, all other participants did not respond  certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    Table 2: Clinical assessment scores for all participants immediately following SAINT; mean (SD, MADRS 
+86 (
+29, 21) 
+00 (
+37, 21) 
+48 (21) 
+48 (21) HDRS-17 
+90 (
+79, 21) 
+29 (
+43, 21) 
+48 (21) 
+95 (21) HDRS-6 
+90 (
+45, 21) 
+24 (
+10, 21) 
+71 (21) 
+71 (21) BDI-II 
+78 (
+68, 18) 
+47 (
+76, 15) 
+00 (12) 
+33 (15) C-SSRS4 
+42 (
+96, 19) 
+00 (
+00, 18) 
+00 (14) 
+00 (18) HDRS-Q3 
+38 (
+67, 21) 
+05 (
+22, 21) 
+00 (19) 
+24 (21) MADRS-Q10 
+38 (
+80, 21) 
+10 (
+44, 21) 
+24 (21) 
+24 (21) 2Remission defined 7 on HDRS-17 (42), 4 on HDRS-6 (43), 10 on MADRS (41), 12 on BDI-3Including the 1 participant who discontinued after the first day of treatment due to anxiety
+ Scale-17 item, HDRS-6: Hamilton Depression Rating Scale-6 item, BDI-II: Beck Depression certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    Figure 1: This figure illustrates the 3 factors that make SAINT different from current FDA-approved iTBS protocols: Individualized targeting (A), accelerated delivery of hourly sessions (B) and high pulse-dose [both per session (B) and overall (C)]
+ The FDA-approved iTBS protocol involves 1 daily stimulation session of 600 pulses to the L-DLPFC at an intensity of 120% RMT for 6 weeks
+ The location of the L-DLPFC is located using scalp measurements
+ In our study, A) we used fMRI scans to target the region of the L-DLPFC (1) with functional connectivity that was most anticorrelated with the sgACC ()
+ This was done, because previous neuroimaging findings suggest the higher the anticorrelation between the stimulated region of the L-DLPFC and the sgACC, the better the clinical outcome (15, 27, )
+ B) 10 sessions of 1800 pulses per day
+ 1800 pulses was chosen as this is the only pulse-dose that has been explored in a blinded iTBS trial ()
+ Additionally, 1800 pulses has been shown to produce long-lasting changes in cortical certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    excitability (93) and optimally produce intended cellular changes ()
+ C) The highest overall pulse-dose of any published study to date
+ A dose-response curve has not been created for TMS
+ A previous study showed 61% of non-responders to rTMS responded with further treatment (26) suggesting that FDA-approved protocols are under-dosing
+ Our SAINT protocol delivered five-times the FDA-approved pulse-dose
+ See supplementary material for more information regarding certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    Figure 2: Individual target locations used in this study in comparison to an average F3 coordinate (
+5, 
+4, 
+4) shown in blue ()
+ The colors of the targets represent the % change in MADRS score with dark red indicating greater change in MADRS score
+ Mean distance from F3 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    Figure 3: Mean Hamilton Depression Rating Scale score (6-item version, HDRS-6) with each day of stimulation for A) all participants B) participants excluding TMS non-responders, C) TMS non-responders
+ Dotted lines indicate remission criteria and error bars represent standard error
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted August 6, 
+ ;    

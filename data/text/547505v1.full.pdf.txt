@@ -1,0 +1,622 @@
+Comparison of three different eye-tracking tasks for distinguishing autistic from typically developing children and autistic symptom severityJuan Kou1*, Jiao Le1*, Meina Fu1, Chunmei Lan1, Zhuo Chen1, Qin Li1, Weihua 1The Clinical Hospital of Chengdu Brain Science Institute, MOE Key Laboratory for Address: The Clinical Hospital of Chengdu Brain Science, MOE Key Laboratory for was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    Altered patterns of visual social attention preference detected using eye-tracking and a variety of different paradigms are increasingly proposed as sensitive biomarkers for autism spectrum disorder
+ However, few eye tracking studies have compared the with typically developing children and their sensitivity to specific symptoms
+ To target this issue, the current study used three common eye tracking protocols contrasting social versus non-social stimuli in young (2-7 years old) Chinese autistic (n = 35) and typically developing (n = 34) children matched for age and gender
+ (dynamic light point walking human or cat) vs
+ non-biological motion (scrambled controls) and child playing with toy vs
+ toy alone
+ Although all three paradigms dynamic geometry pattern paradigm was the most effective, with autistic children preference in autistic children was correlated with the ADOS social affect score and had the highest discrimination accuracy
+ Our results therefore indicate that decreased visual preference for dynamic social stimuli may be the most effective visual attention-based paradigm for use as a biomarker for autism in Chinese children
+ Eye-tracking measures may be useful in aiding diagnosis and treatment of autism, although it is unclear which specific tasks are optimal Here we compare the ability of three different social eye-gaze tasks to discriminate between autistic and typically developing young Chinese children and their sensitivity to specific autistic symptoms
+ Our results show that a dynamic task comparing visual preference for social (individuals dancing) versus geometric patterns is the most effective both for was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    displayed from an early age [Kanner, ]
+ The prevalence of ASD has increased to 1/59 according to the Centers for Disease Control (CDC) in the United States [Christensen et al, 2016], although estimates vary considerably worldwide with 1/38 in South Korea [Kim et al, 2011] and 1/255 in China [Wang et al, ]
+ While ASD twin studies have demonstrated a strong genetic contribution to ASD with heritability estimates ranging between 64% and 91% [Tick, Bolton, Happ, Rutter, & Rijsdijk, 2016], no reliable genotype biomarker is current available
+ Thus, the current ASD diagnostics rely entirely on the assessment of behavioral symptoms based on two tools used for diagnosing of ASD is the Autism Diagnostic Observation Schedule [ADOS-2; Lord, Luyster, Gotham, & Guthrie, 2012; Lord et al, 2012] which is Randolph, & Farmer, 2008] and used in both clinical and research fields
+ The symptoms of social interest deficits (eg
+ social eye contact, social facial expressions and social motion) have been treated as important hallmarks of autism and used as diagnostic criteria in ADOS-2 [Lord et al 2012] as well as questionnaire-based assessments such as the Autism Diagnostic Interview [ADI-R - Rutter, Le Couteur, & Lord, 2003] and the social responsiveness scale [SRS - Constantino & Gruber ]
+ of social interest deficits are required to increase diagnostic accuracy and evaluate the Given the symptoms of social interest deficits in ASD, eye-tracking technology in particular has facilitated research in investigating altered social attentional biases in autistic individuals of all ages
+ One of the first studies to use this approach significantly less fixation time on the people shown and more on the background was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    scene [Donald, ]
+ Subsequent studies have further developed the use of biomarkers for ASD compared with typically developing (TD) controls primarily by contrasting visual attention towards social as opposed to non-social stimuli
+ Overall, they have shown that individuals with ASD tend to show reduced attentional Tanaka, Saito, Kosaka, & Tomoda, 2014; Klin, Lin, Gorrindo, Ramsay, & Jones, 2009; Moore et al, 2018; Pierce, Marinero, Hazin, Mckenna, & Barnes, 2015; Shi et al, 2015] and biological motion [Atkinson, 2009; Jones et al, 2011; Koldewyn, Whitney, & Rivera, 2010; Murphy, Brady, Fitzgerald, & Troje, 2009; Rutherford & Troje, 2012; Saygin, Cook, & Blakemore, ]
+ However, not all studies have reported positive are often hampered by small sample sizes [Atkinson, 2009; Jones et al, 2011; Koldewyn, Whitney, & Rivera, 2010; Murphy, Brady, Fitzgerald, & Troje, 2009; paradigms contrasting preference for social and non-social stimuli and the majority have also primarily involved Caucasian children
+ In the current study we have therefore compared the efficacy of three different protocols for firstly discriminating between young Chinese children with ASD compared with TD controls and secondly their sensitivity to ASD symptoms quantified by ADOS-
+ The three protocols chosen were firstly attention to dynamic geometric patterns versus individual dancing humans [Pierce et al, 2015; adapted to incorporate Chinese stimuli]; secondly a classical biological motion protocol (dynamic light point walking human (or cat) versus a scrambled control version) [Rutherford & Troje, 2012] and thirdly an adaptation of protocols [Chevallier et al, 2015; Frazier et al, 2018] investigating attentional bias towards children playing with a toy as opposed to the toy itself
+  was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    The experiment was approved by the Institutional Review Board, University of Electronic Science and Technology of China
+ The caregivers of participants provided 77 young children were enrolled in the study
+ 43 of the children were diagnosed as having autism spectrum disorder (ASD) by qualified clinicians and without co-morbid Childrens Hospital in Chengdu) childrens hospital The clinical diagnosis of ASD was based on either DSM-IV [APA, 1994] or ICD-10 [WHO, ]
+ However, (ADOS-2, Module T, 1, or 2) [Lord et al 2012] to assess whether all ASD children met the criteria for autism and 8 children did not and were therefore excluded resulting in a total of 35 children in the ASD group
+ The ADOS-2 assessment was performed by two certificated research reliable researchers (J
+ K
+, J
+ L
+ )
+ The 34 TD children were recruited from a local kindergarten by advertisement
+ The age and gender of the final ASD and TD groups were matched
+ All children, including the TD group, were assessed using a series of questionnaire-based measures including the Questionnaire [Rutter et al, 2003] (SCQ) completed by one of their caregivers
+ Table 1 shows demographic and questionnaire scores for the ASD and TD groups and ADOS-2 scores for the ASD group
+ The study was pre-registered as a clinical trial at Three eye-tracking paradigms were included in this study
+ The first paradigm is a Dynamic Visual Preference Task (Task 1) displaying dynamic dancing Chinese human versus dynamic geometry patterns
+ The second paradigm is an Abstract Animate Point Visual Exploration Task (Task 2) displaying point-light animate (walking human or cat) was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    and inanimate (randomly moving point-light) videos
+ The last paradigm is a Static Visual Preference Task (Task 3), comparing attention to static pictures showing a toy paradigm used in in previous eye-tracking studies on Caucasian children [Moore et al, 2018; Pierce, Conant, Hazin, & Stoner, 2011; Pierce et al, 2015] was adapted for use in Chinese children
+ Participants were presented with a movie consisting of two rectangular areas of interest which portrayed a single Chinese child or adult dancing on one side and a dynamic geometrical image on the other side (30 different pairs of images were each presented for 2 s and in a continuous sequence)
+ A fixation cross was displayed in the center of the screen for 3 s before the start of the task stimuli
+ The position of the two types of stimuli on the left or right side was counterbalanced
+  point-light) videos [Rutherford & Troje, ]
+ On the left and right side of the screen, animate (human or cat) stimuli vs
+ control inanimate (scrambled versions of the human and cat stimuli) were displayed simultaneously (8 pairs of stimuli with a 10 s presentation duration), and the position of the two types of stimuli on the left and right side was counterbalanced
+ There was a jittered interval (mean=3 s) between each pair of stimuli where a yellow star was displayed in the center of screen to help keep the Here we adapted previous tasks [Chevallier et al, 2015; Frazier et al, 2018] and presented pairs of static images, one showing a picture of a child with a happy face playing with a toy while looking outwards towards the subject (i
+ e
+ sharing their was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    enjoyment) and the other only including the same toy
+ In this paradigm 20 pairs of stimuli were each shown for 3 seconds
+ The position of the two types of stimuli on the left and right side was counterbalanced
+ There was a jittered interval (mean=3 s) between each pair of stimuli where a yellow star was displayed in the center of screen For the experiment children were either seated alone or on a caregivers lap in front of the presentation screen
+ A Tobii TX300 Binocular Eye Tracker used together with Tobii Studio software (version 
+ 
+8 Tobii, Stockholm, Sweden) to record visual attention and E-prime linked with the Tobii software used for stimulus presentation
+ The Tobii system used an I-VT fixation filter
+ The mean of the right and left eyes was used to calculate fixation
+ The eye-tracking monitor (TFT-LCD; 23", 19201080) had a refresh rate of 60 Hz
+ Brightness was 100 % and a five-point calibration procedure was used at the beginning of each experiment
+ The calibration process was repeated if the initial calibration quality was poor
+ The total duration of the experimental tasks was around 5 min, with short breaks in between each task
+  Social attention was quantified as the mean proportion of total fixation time children spent on looking at the social (vs
+ non-social) stimuli
+ This is a widely and uniformly reported measure in eye-tracking studies and meta-analyses [Frazier et al, 2018; Meia In Task 1, the proportion of total fixation time for children in the ASD and TD groups was investigated in each of the two rectangular areas of interest showing the dynamic social (DSI) and geometric (DGI) images
+ The proportion of the total fixation time on DSI was used as the dependent variable
+ In accordance with previous studies [Moore et al, 2018; Pierce et al, 2011, 2015], the dependent variable was calculated as follows: Total looking time = time spent on DSI + time spent on DGI; % was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    total fixation time on social stimuli = (time spent on DSI/Total looking time for DSI and DGI)  
+ Additionally, we measured the proportion of fixation counts and mean fixation durations between the different areas of interest
+ Childrens data was only included for analysis in this paradigm where they spent >40% of the time looking at the areas of interest [see Frazier et al, ]
+ In Task 2, the areas of interest were the two rectangular regions displaying the animate and inanimate light point videos
+ The proportion of the total fixation time on human stimuli (HBM) and cat stimuli (CBM) were calculated as follows: % of total fixation time on nonsocial animation = time spent on the cat animation/ (time spent on the cat animation + time spent on the scrambled cat stimulus control)  100; % of total fixation time on social animation= time spent on the human animation/ (time spent on the human animation + time spent on the scrambled human stimulus control)  
+ Fixation counts and durations were also measured
+ For this task children needed to spend >15% of the time looking at the areas of interest to be included in the analysis, In Task 3, the two rectangular area of interest regions included the boy playing with toy region (Social) and toy only (Nonsocial) one
+ Additionally, we also calculated fixation time on the boys face (Face) and the toy in the picture with the boy (Toy1) and the toy in the picture without the boy (Toy)
+ The proportion of the total fixation times were calculated as follows: % total fixation time on boy playing toy = (time spent on the boy playing with toy / total looking time on both rectangular areas of interest)  100; % total fixation time on boys face = (time spent on face/ time spent at both rectangular areas of interest)  100; % total fixation time on toy with boy = (time spent on the toy with boy / total looking time on both rectangular areas of interest)  100; % total fixation to toy without boy = (time spent on the toy without boy/ total looking time on both rectangular areas of interest)  
+ In addition, % time looking at the boys face compared to Toy 1 and % time looking at Toy 1 compared to Toy 2 were calculated
+ In all cases fixation counts and durations were also measured
+ For this task children also needed to spend >15% of the time looking at the areas of interest to be included in the analysis, as in previous studies was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    To compare proportion of total fixation time and fixation counts as well as mean individual fixation durations for DSI, HBM, CBM, Social, Face, Toy1, and Toy2 between the ASD and TD groups, independent T-tests were performed
+ For Tasks 2 and 3, 2-way ANOVAs were used to compare multiple variables followed by total fixation duration and fixation counts and mean individual fixation durations to the different stimuli and ADOS-2 scores was conducted using Pearson correlation analysis
+ All statistical analyses were performed using SPSS-
+ Effect sizes (partial eta-squared, 2 p for F statistics and Cohens d for t-tests) were reported with P-values analyses were used for investigating the ability of specific parameters in the three tasks for discriminating between the ASD and TD groups in order to compare the A total of 3 children in the ASD were excluded from analysis due to problems with eye-tracking data collection and in Tasks 2 and 3, 6 and 12 children respectively in the ASD group had to be excluded from analysis due to viewing the screen for < 15% of the time
+ Following these exclusions ASD children still spent significantly less total time than TD children looking at the display screen (Task 1 total task time = 63s: ASD mean  SD 
+17  
+12s, TD 
+56  
+22s, t64 = 
+05, p = 
+004; Task 2 total task time = 101s: ASD 
+81  
+14s, TD 
+81  
+51s, t61 = 
+68, p < 
+001; Task 3 total task time = 120s: ASD 
+14  
+52s, TD 
+74 
+52s, t55 = 
+514, p < 
+ )
+ Overall, children in both groups spent proportionately more time looking at the display screen in Task 1 than in Tasks 2 and 
+ In Tasks 2 and 3 during the fixation periods between stimuli children in both groups were particularly less attentive to the was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    Figure 2 shows that there was a significant difference in the proportion of total fixation time on the dynamic social images (DSI) between the two groups (ASD vs
+ TD, t64 = 
+85, p<
+001 Cohens d=
+ )
+ Whereas TD children spent equivalent proportions of time looking at DSI and DGI (
+4% on DSI and 
+6% on DGI) those with ASD spent a greater proportion of time looking at DGI compared with DSI (
+3% on DSI and 
+7% on DGI) (see Fig
+ A)
+ There was also a significant difference between ASD and TD groups for the proportion of fixation counts to the DSI as opposed to DGI (t64 = 
+24, p < 
+001 Cohens d = 
+07) due to the ASD group showing proportionately less fixations than the TD group for DSI (ASD: 
+9% on DSI and 
+1% on DGI; TD 
+2% on DSI and 
+8% on DGI) (see Fig
+ C)
+ There was no significant difference between the groups for mean individual fixation There was a significant association between the proportion of total fixation time on the DSI and ADOS-2 social affect scores (SA) (r = -
+40, p = 
+026) (see Fig
+2B) but not with the total ADOS-2 score (r =-
+20, p = 
+270) or Restricted and Repetitive Behavior score (RRB) (r =
+17, p = 
+ )
+ There was also a significant negative correlation between the proportion of fixation counts for DSI in children in the ASD group and their ADOS-2 SA scores (p = 
+013, r = -
+44) (see Fig
+2D) but not with their total ADOS-2 (r =-
+27, p = 
+133) or RRB scores (r =
+10, p = 
+ )
+ For proportion of total fixation time a two-way ANOVA with group and stimulus type (cat vs
+ human) revealed significant main effects of stimulus type (F1, 61 = 
+799, p = 
+032, 2 p = 
+073) and group (F1, 61 = 
+333, p = 
+024, 2 p = 
+080) but no significant interaction (F1, 61 = 
+436, p = 
+124, 2 p = 
+ )
+ An exploratory post-hoc analysis showed a significant difference for the proportion of time looking at was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    the cat animation between ASD and TD groups (p= 
+010, Cohens d =
+68) with the ASD group showing a greater visual preference (M  SD, 
+ 
+63%) than the TD group (M  SD, 
+ 
+ %)
+ While there was a significant difference between the proportion of time looking at the cat as opposed to the human animation in the TD group (p= 
+008, Cohens d =
+67) this was not the case in the ASD group (p= 
+670), with the TD group showing a greater preference for viewing the human animation (M  SD, human: 
+ 
+63%; cat: 
+ 
+90%) (see Fig
+ )
+ For proportion of fixation counts a two-way ANOVA revealed significant main effect of group (F1, 61 =
+966, p = 
+017, 2 p = 
+089), but not for stimulus type (F1, 61 = 
+00, p = 
+994) and no significant interaction (F1, 61 = 
+172, p = 
+ )
+ An exploratory post-hoc analysis showed a marginal difference for the proportion of fixation counts at the cat (p = 
+052) and human (p = 
+093) animations between ASD and TD groups, with the ASD group tending to have a higher fixation count than the TD group
+  There was no significant group difference of mean individual fixation durations There was no significant correlation found between and of the eye tracking measures and symptom severity (SA, RRB and ADOS-2 total scores) in the ASD For the proportion of fixation time a two-way ANOVA with group and stimuli (4 different AOIs: Social, Face, Toy1, Toy2) as factors revealed significant main effects of stimuli (F1, 55 = 
+918, p < 
+001, 2 p = 
+5654) and group (F1, 55 = 
+615, p < 
+001, 2 p = 
+221) but no significant interaction (F1, 55 = 
+630, p =
+597, 2 p = 
+ )
+ An exploratory post-hoc analysis showed a significant group difference for time looking at Toy1 (p= 
+018, Cohens d =
+67) with the TD group showing a greater proportion (M  SD, 
+ 
+41%) than the ASD one (M  SD, 
+ 
+ %)
+ There were no significant group differences for the proportion of time spent looking at the social picture (p = 
+105), the face alone in the social picture (p = 
+105) or Toy2 (p = 
+291) (see Fig
+ )
+ Additional group comparisons between the proportion was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    of time spent looking at Face vs Toy1 and between Toy1 vs
+ Toy 2 were also made but For the proportion of fixation counts a two-way ANOVA revealed significant main effects of stimuli (F1, 55 =
+850, p < 
+001, 2 p = 
+643) and group (F1, 55 = 
+417, p < 
+001, 2 p = 
+356) but no significant interaction (F1, 55 = 
+258, p=
+291, 2 p = 
+ )
+ An exploratory post-hoc analysis revealed no significant group difference for Social, Face and Toy2 (ps>
+06) but a significant group difference for Toy1 (p= 
+004, Cohens d =
+04), with the TD group showing a greater proportion (M  SD, 
+ 
+14) than the ASD group (M  SD, 
+ 
+ )
+ Additional group comparisons between the proportion of fixation counts for Face vs Toy1 and between Toy1 vs
+ Toy 2 were also made but revealed no differences (all ps > 
+ )
+ There was no significant group difference in mean individual fixation durations for any of the areas of interest (Social, Face, Toy1, Toy2) (ps>
+ )
+ and symptom severity in the ASD group were not significant (SA, RRB and ADOS The diagnostic utility for distinguishing ASD from TD children for the three different tasks was assessed by performing a receiver operating characteristic (ROC) analysis
+ For Task 1 the proportion of total fixation time for DSI revealed the area under the ROC curve was 
+743 (95% CI 
+ -
+860, p = 
+ )
+ For Task 2 the proportion of total fixation time for the cat animation revealed the area under the ROC curve was 
+691 (95% CI 
+ -
+829, p = 
+010) and for Task 3 the proportion of total fixation time for Toy1 revealed an area under the ROC curve of 
+687 (95% CI 
+ -
+831, p = 
+018) (see Fig
+ )
+ For Task 1 the proportion of fixation counts for DSI revealed an area under the ROC curve of 
+764 (95% CI 
+ -
+877, p<
+ )
+ For Task 2 the proportion of fixation duration for the cat animation revealed an area under the ROC curve of 
+640 (95% CI 
+ -
+783, p = 
+057) and for Task 3 the proportion of total fixation time for Toy1 revealed an area under the ROC curve of 
+710 (95% CI was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    The main objective of the current study was to compare and contrast the relative discriminating between Chinese ASD and TD children and secondly to show a our results show that a Chinese version of the dynamic dancing individuals versus (Pierce et al, 2011; 2015) was the most effective both for showing differences between ASD and TD children (with both large effect sizes and areas under the ROC curve) and for demonstrating associations with the severity of social affect symptoms
+ Importantly as well, all the ASD children paid attention to the display screen for almost the whole of the period of the task whereas in the other two tasks used many of them did not and had to be excluded
+ As such this specific dynamic task may be particularly suitable and sensitive for aiding both diagnosis and assessing social affect  In line with many previous studies [Moore et al, 2018; Pierce et al, 2011, 2015] children in the ASD group generally spent less time looking at the display screen than ones in the TD group and thus the most effective measure for group comparisons is the relative proportion of time spent viewing one stimulus compared with another
+ Indeed, in accordance with the original definition autistic children tend to shut out anything that comes to them from outside [Kanner, 1943], and therefore pay less, or an altered pattern of, visual attention to environment cues (including social and nonsocial) than TD children
+ Autistic individuals also tend to exhibit an enhanced self-focus [Burrows, Laird, & Uddin, 2016; Vasudeva & Hollander, 2017], it can result in reduced external attention
+ In the dynamic dancing versus geometric image task none of the ASD children needed to be excluded for insufficient attention (and with a higher threshold of >40%) to the display screen with the remainder looking at the screen on average for 89% of the time compared with 98% in TD children
+ After was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    exclusions in the other two tasks (and with a lower threshold of >15%) ASD children only spent 
+3% (Task 2) and 
+6% (Task 3) of the time looking at the screen compared with 
+1% and 
+8% in TD children
+ In these latter two tasks inattention was particularly during the jittered fixation intervals between stimuli which are not included in Task 1, and this suggests that such routine fixation periods may need to be dynamic dancing versus geometric stimuli task is clearly very effective in gaining the attention of both ASD and TD children, which further underlines its utility
+      In agreement with previous studies on Caucasian children (Franchini et al, 2017; Moore et al, 2018; Pierce et al, 2011; 2015) in the Dynamic Visual Preference Task ASD children show a greater attentional preference for dynamic geometrical patterns compared with individuals dancing/exercising whereas in TD children the opposite is the case
+ The strong association we found between the reduced interest in the dynamic social stimuli and the severity of social deficits in ASD is also in agreement with studies in Caucasian children
+ Importantly, both of these findings are not restricted to specific stimulus sets since those we used were different to ones in other previous studies
+ In the current study both the proportion of total fixation duration and also of fixation counts were sensitive measures but not mean durations of individual fixations
+ Thus children with ASD spend proportionately less time looking at the DSI because they show a reduced number of fixations to them rather and a reduced duration of individual fixations
+ It is possible that specific types of dynamic geometrical images may be more attractive than others to ASD individuals and that varying the number of individuals and type of movements they exhibit might also increase their attractiveness to TD individuals
+ A small-scale study for example found that displaying multiple dancing individuals was more effective than only one [Shi et al, ]
+ If so, then additional refinements to this paradigm might serve to further While a number of previous studies have reported than ASD individuals show et al, 2012; Falck-Ytter et al, 2013; Wang et al, 2015] we did not replicate this in the was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    present study
+ Indeed, ASD children were generally attracted by biological motion and even significantly more so that TD ones for the cat stimulus
+ Although this latter group different had a reasonable ability to discriminate between ASD and TD children (ROC area under the curve of 
+69) it was not associated with symptom severity
+ The only other difference was that TD children were significantly more interested in human than cat stimuli whereas ASD ones showed equivalent interest in them
+ Our findings with this paradigm are in line with a recent study that individuals with ASD can be more sensitive to the biological motion and both ASD and the TD groups are able to detect the perceptual information [Rosanna et al, ]
+ Many other studies have also failed to demonstrate significant differences between ASD and TD children using versions of this biological motion paradigm [Atkinson, 2009; Jones et al, 2011; Koldewyn, Whitney & Rivera, 2010; Murphy et al, 2009; Saygin, Cook, & Blakemore, ]
+ Thus, our overall conclusion is that this protocol in its current format may not be sufficiently robust for use as an ASD marker
+  Our findings using an adapted version of Static Visual Preference Task (Task 3) indicated that although there was no visual preference difference between the two groups for the face of the child playing with the toy, the ASD group spent proportionately less time looking at the toy the boy was holding in his hand
+ This could indicate that ASD children were less motivated to share the interest of the child in the picture for the toy
+ This pattern of altered preference also showed a reasonable ability to discriminate between ASD and TD individuals (ROC area under the curve of 
+67), however as with the biological motion paradigm findings it showed no failed to pay sufficient attention to the screen during the paradigm which make it In summary, our findings comparing the efficacy of three different eye-tracking paradigms as a marker for ASD in young Chinese children, together with the severity of its social symptoms have emphasized the utility of the dynamic paradigm appears to be effective both across cultures and stimulus sets and possibly further was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    research may be able to further refine its utility through choice of specific stimulus content and potentially also for use as a diagnostic aid in younger children at risk of This work was supported by grants from the National Natural Science Foundation of was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    Table 
+ Demographics, questionnaire and ADOS scores for ASD and TD groups SRS = social responsivity scale; CSQ = Caregiver Strains Questionnaire; SCQ =  Autism diagnosis observation schedule; SA = Social Affect component of ADOS and RRB Restricted and Repetitive Behavior component of ADOS
+ * indicates Chi Square Male/Female     26/6     25/9  
+454* - was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    Fig
+1 Examples of stimuli for each of the tasks: (A) Task 1: Dynamic Visual Preference Task (B) Task 2: Abstract Animate Point Visual Exploration Task (C) Task 3: Static Visual Preference Task (persons and faces in the stimulus material have been was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    Fig
+2 Differences between ASD and TD children in Task 1 (A) Group difference of the proportion of total fixation time on the dynamic social images (DSI)
+ (B) Negative correlation between social affect scores (ADOS-2) and total fixation time
+ (C) and (D) the same information for proportion of fixation counts, p<
+05*, p<
+01**, two-tailed was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    Fig
+3 Differences between ASD and TD children in Task 
+ Group differences for the proportion of total fixation time on animated human and cat stimuli compared with scrambled controls
+ p<
+05*, p<
+01**, two-tailed t-test
+ Bars indicate M  SE
+  was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    Fig
+ 4 Differences between ASD and TD children in Task 3 (A) Pictures show regions of interest used in Task 3 (B) Group differences in the proportion of total fixation time on the four different regions of interest in Task 
+ (C) Group differences in the proportion of fixation counts on the four different regions of interest in Task 
+ was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    Fig
+5 Receiver operating curves (ROC) for discrimination of ASD from TD children for proportion of total fixation time (%TFD) and fixation count (%FC) for (A) DSI in Task1 (B) Cat animation in Task 2 and (C) Toy 1 in Task 
+ was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    Annaz, D
+, Campbell, R
+, Coleman, M
+, Milne, E
+, & Swettenham, J
+ ()
+ Young children with autism spectrum disorder do not preferentially attend to biological Atkinson, A
+ P
+ ()
+ Impaired recognition of emotions from body movements is Brannan, A
+ M
+, Heflinger, C
+ A
+, & Bickman, L
+ ()
+ The Caregiver Strain Questionnaire: Measuring the impact on the family of living with a child with Burrows, C
+ A
+, Laird, A
+ R
+, & Uddin, L
+ Q
+ ()
+ Functional connectivity of brain regions for self- and other-evaluation in children, adolescents and adults with Chevallier, C
+, Parish-Morris, J
+, Mcvey, A
+, Rump, K
+ M
+, Sasson, N
+ J
+, Herrington, J
+ D
+, & Schultz, R
+ T
+ ()
+ Measuring social attention and motivation in Chita-Tegmark, M
+ ()
+ Social attention in ASD: a review and meta-analysis of Rubenstein, E
+, Schieve, L
+, Wiggins, L
+, Rice, C
+, Braun, K
+ V
+ N
+, Christensen, D
+, Durkind M
+, Daniels J
+, & Lee, L
+ C
+ ()
+ Trends in documented co-occurring Constantino, J
+ N
+, & Gruber, C
+ P
+ ()
+ The Social Responsiveness Scale (nd
+) Donald, A
+ K
+ W
+ J
+ R
+ S
+ F
+ V
+ ()
+ Visual Fixation Patterns During Viewing of was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    With Autism
+ Matters of Conflict: Material Culture, Memory and the First World Edey, R
+, Cook, J
+, Brewer, R
+, Bird, G
+, & Press, C
+ ()
+ Adults with autism spectrum disorder are sensitive to the kinematic features defining natural human Falck-Ytter, T
+, Blte, S
+, & Gredebck, G
+ ()
+ Eye tracking in early autism Franchini, M
+, Glaser, B
+, De Wilde, H
+ W
+, Gentaz, E
+, Eliez, S
+, & Schaer, M
+ ()
+ Social orienting and joint attention in preschoolers with autism spectrum Frazier, T
+ W
+, Klingemier, E
+ W
+, Parikh, S
+, Speer, L
+, Strauss, M
+ S
+, Eng, C
+, Hardan A
+ Y
+, & Youngstrom, E
+ A
+ ()
+ Development and Validation of Objective and Quantitative Eye Tracking- Based Measures of Autism Risk and Symptom Levels
+ Journal of the American Academy of Child & Adolescent Fujisawa, T
+ X
+, Tanaka, S
+, Saito, D
+ N
+, Kosaka, H
+, & Tomoda, A
+ ()
+ Visual attention for social information and salivary oxytocin levels in preschool children Jones, C
+ R
+ G
+, Swettenham, J
+, Charman, T
+, Marsden, A
+ J
+ S
+, Tregay, J
+, Baird, G
+, Simonoff, E
+, & Happ, F
+ ()
+ No evidence for a fundamental visual motion Kanne, S
+ M
+, Randolph, J
+ K
+, & Farmer, J
+ E
+ ()
+ Diagnostic and assessment findings: A bridge to academic planning for children with autism spectrum Kanner, L
+ ()
+ Autistic disturbances of affective contact
+ Nervous child, 2(3), Klin, A
+, Lin, D
+ J
+, Gorrindo, P
+, Ramsay, G
+, & Jones, W
+ ()
+ Two-year-olds was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    Kim, Y
+ S
+, Leventhal, B
+ L
+, Koh, Y
+ J
+, Fombonne, E
+, Laska, E
+, Lim, E
+ C
+, & Song, D
+ H
+ ()
+ Prevalence of autism spectrum disorders in a total population Koldewyn, K
+, Whitney, D
+, & Rivera, S
+ M
+ ()
+ The psychophysics of visual Lam, K
+ S
+, & Aman, M
+ G
+ ()
+ The Repetitive Behavior Scale-Revised: Lord, C
+, Elsabbagh, M
+, Baird, G
+, & Veenstra-Vanderweele, J
+ ()
+ Autism Lord, C
+, Luyster, R
+ J
+, Gotham, K
+, Guthrie, W
+ ()
+ Autism diagnostic Lord, C
+, Rutter, M
+, DiLavore, P
+ C
+, Risi, S
+, Gotham, K
+, & Bishop, S
+ L
+ ()
+ Chita-Tegmark, M
+ ()
+ Social attention in ASD: a review and meta-analysis of Moore, A
+, Wozniak, M
+, Yousef, A
+, Barnes, C
+ C
+, Cha, D
+, Courchesne, E
+, & Pierce, K
+ ()
+ The geometric preference subtype in ASD: Identifying a Murphy, P
+, Brady, N
+, Fitzgerald, M
+, & Troje, N
+ F
+ ()
+ No evidence for Pierce, K
+, Marinero, S
+, Hazin, R
+, Mckenna, B
+, & Barnes, C
+ C
+ ()
+ Archival as an Early Biomarker of an Autism Spectrum Disorder Subtype Associated with was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    Edey, R
+, Cook, J
+, Brewer, R
+, Bird, G
+, & Press, C
+ ()
+ Adults with autism spectrum disorder are sensitive to the kinematic features defining natural human Rutter, M
+, Bailey, A
+, & Lord, C
+ ()
+ The social communication questionnaire: Rutherford, M
+ D
+, & Troje, N
+ F
+ ()
+ IQ predicts biological motion perception in Rutter, M
+, Le Couteur, A
+, & Lord, C
+ ()
+ Autism diagnostic interview-revised
+ Saygin, A
+ P
+, Cook, J
+, & Blakemore, S
+ J
+ ()
+ Unaffected perceptual thresholds Shi, L
+, Zhou, Y
+, Ou, J
+, Gong, J
+, Wang, S
+, Cui, X
+, Lyu, H
+, Zhao, J
+, & Luo, X
+ ()
+ Different visual preference patterns in response to simple and complex Tick, B
+, Bolton, P
+, Happ, F
+, Rutter, M
+, & Rijsdijk, F
+ ()
+ Heritability of autism spectrum disorders: A meta-analysis of twin studies
+ Journal of Child Vasudeva, S
+ B
+, & Hollander, E
+ ()
+ Body dysmorphic disorder in patients with Wang, L
+, Chien, S
+ H
+, Hu, S
+, Chen, T
+, & Chen, H
+ ()
+ Research in Autism in action identification and lacking a preference for upright point-light biological Wang, F
+, Lu, L
+, Wang, S
+, Zhang, L
+, Ng, C
+ H
+, Ungvari, G
+ S
+, Cao, X
+, Lu, J
+, Hou, C
+, Jia, F
+, & Xiang, Y
+ ()
+ The prevalence of autism spectrum disorders in was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (whichthis version posted February 22, 
+ ;    

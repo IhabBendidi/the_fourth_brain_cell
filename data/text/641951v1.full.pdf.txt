@@ -1,0 +1,1176 @@
+Quadruplex qPCR for qualitative and quantitative analysis of the HIV-1 latent reservoirQuadruplex qPCR for qualitative and quantitative analysis of the HIV-1 latent reservoir Christian Gaebler1, Julio C
+ C
+ Lorenzi1, Thiago Y
+ Oliveira1, Lilian Nogueira1, Victor Ramos1, Ching-Lan Lu1, Joy A
+ Pai1, Pilar Mendoza1, Mila Jankovic1, Marina Caskey1 and Michel C
+ 1Laboratory of Molecular Immunology, The Rockefeller University, New York, NY and  certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    HIV-1 cure research seeks to decrease or eliminate the latent reservoir
+ The evaluation of such curative strategies requires accurate measures of the reservoir
+ Gaebler et al describe a combined multicolor qPCR and next generation sequencing method that enables the sensitive and specific HIV-1 infection requires life-long therapy with anti-retroviral drugs due to the existence of a latent reservoir of transcriptionally inactive integrated proviruses
+ The goal of HIV-1 cure research is to eliminate or functionally silence this reservoir
+ To this end there are numerous ongoing studies to of these studies requires sensitive and specific measures of the reservoir
+ Here we describe a relatively high throughput combined quantitative polymerase chain reaction (qPCR) and next generation sequencing method
+ Four different qPCR probes covering the packaging signal (PS), group-specific antigen (gag), polymerase (pol), and envelope (env) are combined in a single multiplex reaction to detect the HIV-1 genome in limiting dilution samples followed by sequence verification of individual reactions that are positive for combinations of any 2 of the 4 probes (QPCR)
+ This sensitive and specific approach allows for an unbiased characterization of the HIV-certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Like other retroviruses, HIV-1 integrates into the host genome where it is transcribed to produce infectious virions (Craigie and Bushman, )
+ Productive infection typically leads to cell death, however, in a small number of CD4+ T cells the integrated virus is silenced and becomes latent
+ Combination antiretroviral therapy (cART) is highly effective in suppressing HIV-1 infection and preventing disease progression, however, cART does not eliminate the virus due to the existence of the latent reservoir (Chun et al, 1997; Finzi et al, 1997; Wong et al, )
+ Longitudinal studies performed on individuals on cART indicate that the latent reservoir has a half-life of 44 months (Chun et al, 1999; Siliciano et al, )
+ Thus, treatment interruption leads almost invariably to rapid viral rebound and therapy with cART is required for the lifetime of the infected individual An important goal for HIV-1 research is to achieve a functional remission or cure by decreasing or eliminating the latent reservoir, and a number of clinical trials have been designed to test new approaches to this problem (Caskey et al, 2019; Cillo and Mellors, 2016; Gruell and Klein, 2018; Margolis et al, )
+ The evaluation of HIV-1 curative strategies requires sensitive, specific and precise assays to quantify and characterize the latent HIV-1 reservoir
+ Yet, to date most approaches show major discrepancies in infected cell frequencies (Eriksson et al, 2013; Sengupta and Siliciano, )
+ These inconsistencies constrain the accurate assessment of HIV-1 cure efforts and could obscure a meaningful intervention (Henrich et al, 2017; Sengupta and Siliciano, )
+ Here we report a relatively high throughput method for enumerating and characterizing intact latent proviral DNA by a combination of multicolor quantitative PCR (Q4PCR) and next certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    generation sequencing
+ We compare the new method to quantitative and qualitative viral outgrowth assays (Q2VOA) and near full-length (NFL) sequencing on paired peripheral blood samples obtained at 2 time points from the same 6 individuals enrolled in a clinical trial that involved analytical treatment interruption (ATI) after infusion of a combination of two broadly neutralizing monoclonal antibodies (Lu et al, 2018; Mendoza et al, )
+ To select primer/probe sets that maximize detection of HIV-1 we analyzed four previously characterized candidates in silico using intact proviral genomes from the Los Alamos HIV sequence database (Bruner and Siliciano, 2018; Bruner et al, 2019; Palmer et al, 2003; Schmid et al, )
+ The selected primer/probes cover conserved regions in the HIV-1 genome including the packaging signal (PS), group-specific antigen (gag), polymerase (pol), and envelope (env) (Fig
+ S)
+ Allowing for 1 and up to 4 mismatches (3 mismatches at the 5 end and 1 mismatch at the 3 end) in probes and primers respectively the PS, gag, pol and env primer/probes detected 72%, 83%, 94% and 92% of 578 intact clade B sequences in the Los Alamos HIV sequence database (Fig
+ 1A and Fig
+ S2) (Lefever et al, 2013; Rutsaert et al, 2018; Stadhouders et al, )
+ All genomes scored positive with at least one of the four primer/probe sets
+ Notably, the large majority (99%) of genomes were positive for at least one of the many combinations of two primer/probe sets
+ However, any single 2 probe combination was at best 86% sensitive (pol+env)
+ To test whether these primer/probe sets can discriminate between intact and defective proviruses we also performed the same in silico analysis on 1378 intact and defective HIV-1 sequences from certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    9 individuals that received a combination of two broadly neutralizing monoclonal antibodies during treatment interruption (Lu et al, )
+ In six out of nine patients we observed HIV-1 sequence polymorphisms that cause a predicted loss of signal for at least one of the primer/probe sets (Fig
+ B)
+ For example, intact viruses in individuals 9241, 9242, 9244, 9246 and 9255 are predicted to be negative for the PS primer/probe set
+ In addition to the problem of sensitivity, 2 probe combinations also have a potential problem with specificity since a number of defective viruses were predicted to be positive for several of the 2 probe combinations tested
+ The potential magnitude of this problem varies with the probe combination and the individual analyzed
+ For example, in 9252 80% of the viruses detected with the PS+env combination are defective, whereas in 9243 its 35% (Fig B)
+ Thus, the in silico data suggest that any single combination of 2 probes would not be sufficient for sensitive and specific reservoir measurements due to HIV-1 sequence To accommodate HIV-1 sequence diversity we developed a multiplex qPCR strategy for simultaneous detection of 4 probes, PS, gag, pol, and env using a 384-well format (QPCR)
+ Using this approach we analyzed samples from 2 separate time points from 6 individuals enrolled in a clinical trial that involved analytical treatment interruption after infusion of a combination of two broadly neutralizing monoclonal antibodies (Lu et al, 2018; Mendoza et al, )
+  Proviral genomes were amplified from DNA extracted from purified CD4+ T cells obtained 2 weeks before (wk-2) and 12 weeks (wk12) after treatment interruption
+ To determine overall HIV-1 proviral frequency, genomic DNA from CD4+ T cells was assayed for gag by qPCR
+ We found certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    gag+ proviruses with the expected variation between individuals at a median frequency of 417 out of 106 CD4+ T cells (Table S)
+ DNA from CD4+ T cells was diluted to a concentration equivalent to single copy of gag per reaction and assayed by Q4PCR (Fig
+ )
+ Individual reactions containing a single proviral copy were amplified to produce near full-length and subgenomic proviruses using 5 of gag and LTR primers (Ho et al, 2013; Li et al, )
+ Individual amplicons were then tested for reactivity with each of the 4 qPCR probes
+ Participant 9254 was excluded from the quantitative analysis because of inadequate sample availability
+ The number of samples showing reactivity with any one of the selected HIV-1 probes after near full-length amplification was similar (
+5-fold lower) to the number predicted from short segment gag qPCR performed before the amplification indicating that near full-length genome PCR There was substantial variation between individuals (see below), but the median frequency of proviruses reactive to 2 or more probes was 94 X 10-6 CD4+ T cells or approximately 4x less than gag DNA alone
+ The frequency of proviruses that scored positive with at least 3 or all 4 probes was lower still at 19 X 10-6 and 1 X 10-6 CD4+ T cells (Fig
+ 3A and Table S)
+  To determine which of the proviruses detected by Q4PCR were intact we performed next generation sequencing (Fig
+ )
+ Preliminary sequence analysis indicated that samples reacting with only a single primer/probe or only the PS+gag combination were defective, and these samples certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    were mostly omitted from further analysis
+ All other samples showing reactivity with 2 or more of 1832 proviruses were sequenced
+ On average we obtained 153 proviral sequences per time point per participant
+ Proviral sequences were scored as intact if they did not have deletions or insertions, were in frame, did not contain stop codons, and had intact packaging signals and major splice donors (MSDs) (Fig
+ S)
+ In total we found 237 intact and 1595 defective proviral sequences
+ Intact proviruses were found at a median frequency of 
+8X10-6 CD4+ T cells, a nearly 20-fold lower frequency than proviruses reacting with 2 or more qPCR probes (Fig 3A and B)
+ NFL sequencing and Q2VOA performed on the same samples showed 2-fold and 
+6-fold fewer intact and inducible proviruses per million CD4+ T cells than Q4PCR respectively (Lu et al, 2018; Mendoza et al, 2018)  (Fig
+ 3B and Table S)
+  Despite the limited sample size, there was a significant correlation between the number of viruses measured by outgrowth assays and Q4PCR (Fig C)
+ Furthermore, the detection of intact proviruses by Q4PCR was highly reproducible
+ In two sets of independent experiments performed on samples from 4 individuals there was a strong agreement (Pearson r=
+7764, P=
+0235) consistent with 
+5-fold variability in the assay (Fig
+ S)
+ To compare the intact proviruses obtained by Q4PCR with those obtained by Q2VOA and NFL sequencing we created Euler diagrams and phylogenetic trees using env sequences (Lu et al, 2018; Mendoza et al, 2018) (Fig
+ 4A, Fig
+ S5 and Table S)
+ There was a substantial overlap between env sequences identified by all three methods
+ Among all intact Q4PCR sequences 68% and 66% were identical to intact NFL and Q2VOA sequences, respectively
+ Thus, we have been unable to certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    detect a selection bias in the HIV-1 reservoir sequences obtained by Q4PCR compared to Q2VOA or NFL sequencing
+ In line with our previous observations from both Q2VOA and NFL sequencing, the new Q4PCR sequencing strategy was unable to detect a sequence match between intact proviral sequences and rebound viruses obtained by single genome analysis (SGA) at the To determine how integrated HIV-1 varied between individuals and time points within an individual we analyzed both defective and intact proviruses (Fig
+ 4B and Table S)
+ Defective viruses were further divided into those with defective packaging signals or MSDs, hypermutation, indels or nonsense mutations, and large deletions
+ The distribution of defective and intact viruses was relatively constant between the 2 time points in each individual with the exception of 9252 who showed a relative decrease in the number of intact proviruses and an increased representation of proviruses with defective packaging signals or MSDs between weeks -2 and 
+ Overall, large internal deletions were the most frequent source of defective proviruses followed by packaging site and/or MSD defects, indel/nonsense mutations and hypermutation
+ However, the contribution of intact proviruses and individual categories of defects varied significantly between individuals
+ For example, when the 2 time points are combined the fraction of intact proviruses in individual To examine individual probes and probe combinations for their ability to identify intact proviruses, we compared sequencing results with qPCR and determined the predictive value of each probe
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    The positive predictive value (PPV) is the probability that a sample that is reactive with a specific probe or combination of probes is associated with an intact proviral sequence
+   Of a total of 1832 samples assayed, the majority were positive for only 2 (n=908) followed by 3 (n=615), 1 (n=270) and 4 (n=39) probe signals (Fig
+ A)
+ Notably, no sample with an isolated single probe signal was associated with an intact proviral sequence, and only 6% of all samples that were positive for any combination of 2 probes contained intact proviruses
+ In contrast, 26% and 51% of all samples that were reactive with any combination of 3 or 4 probes respectively contained intact proviruses
+ Thus, the positive predictive value is directly correlated to the number To determine the contribution of combinations of individual probes, we determined the sensitivity and PPV for all possible probe combinations
+ Notably, whereas an isolated env signal fails to predict intact proviruses, env in combination with any other probe shows a very high sensitivity for the detection of intact proviruses, 98% of 237 intact sequences were env+
+ In contrast, the sensitivity of either pol, or PS or gag with any other probe was lower, 39%, 65% and 83% The combination of PS+env has the highest, and gag+pol the lowest positive predictive value of any 2 probe combinations (62% and 
+4% respectively, Fig 5D and Table S)
+ However, even the PS+env combination has a substantial false discovery rate
+ Overall 38% of PS+env positive samples are associated with defective proviral sequences, and 2 of the 6 individuals failed to show any signal with the PS primer/probe set (Fig
+ 6 and Table S)
+  In both of these cases the absence certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    of the signal was predicted and could be explained by sequence polymorphisms in proviral genomes (Fig
+1B and Fig
+ S)
+ Thus, polymorphisms limit the applicability of a diagnostic test based on any two probes including PS+env
+ Moreover, even in those individuals where the PS+env combination was effective, the positive predictive value varied from 
+1% to 96% between Samples positive for at least 3 probes show considerable improved predictive values
+ For example, samples that were positive for at least PS+gag+env predict intact proviruses at a rate of 78% (Fig D)
+ However, the requirement for hybridization with a third or fourth probe decreases the sensitivity of the assay and results in inability to detect 24% and 92% of all positive samples respectively, an effect that appears to be due to HIV-1 sequence variation (Table S)
+  Only the combination of any two Q4PCR primer/probe sets and next generation sequencing is both sensitive Accurate measurement of the size of the circulating latent reservoir is essential for evaluating therapeutic interventions that aim to eliminate it (Sengupta and Siliciano, )
+ The combination of Q4PCR and next generation sequencing is a relatively high throughput method that is both Several methods have been used to evaluate the latent HIV-1 reservoir
+ For example, total integrated proviral DNA can be measured by polymerase chain reaction using gag specific primers (Bieniasz et al, 1993; Christopherson et al, 2000; Palmer et al, )
+ This assay is simple and certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    quantitative
+ However, it does not distinguish between rare replication-competent and more abundant replication-defective proviruses (Bruner et al, 2016; Eriksson et al, 2013; Ho et al, )
+ Thus, the overwhelming background of defective proviruses would make any change in the replication competent latent reservoir difficult to detect using this assay
+ Viral outgrowth assays measure infectious viruses that can be recovered by CD4+ T cell activation in vitro (Chun et al, 1997; Lorenzi et al, )
+ However, these assays are very labor intensive, variable and not sensitive to any change below a factor of 6 (Crooks et al, 2015; Rosenbloom et al, )
+ In addition, these assays selectively underestimate the reservoir because only a fraction of latently infected cells can be induced after a single round of stimulation in vitro (Ho et al, 2013; Hosmane Sequencing near full-length proviral genomes from limiting dilution CD4+ T cell DNA samples allows relatively unbiased characterization of the proviral reservoir (Hiener et al, 2017; Ho et al, 2013; Lu et al, )
+ This technique is very labor intensive and requires interrogation of thousands of reactions per sample making these studies challenging
+ In addition there is some variation between the number of estimated intact genomes measured by DNA sequencing assays based on Sanger and next generation sequencing technologies  12-114 X 10-6 (Bruner et al, 2016; Ho et al, 2013) vs
+ 
+8-24 X 10-6 CD4+ T cells (Hiener et al, 2017; Lee et al, 2017; Lu et al, 2018; Sharaf et al, 2018; Vibholm et al, )
+ One possible explanation for the observed difference is the use of an empirical Bayesian model to estimate the number of intact proviral genomes in the Sanger-based studies necessitated by the absence of detected intact genomes in 13 out of 26 subjects (Bruner et al, 2016; Ho et al, )
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Intact Proviral DNA Assay (IPDA) is a high throughput method to measure integrated proviral DNA using droplet digital PCR to probe for the presence of PS+env in the proviral genome (Bruner et al, )
+ This method detects intact proviruses at a higher frequency than the sequencing methods (100 X 10-6 CD4+ T cells) (Bruner et al, )
+ The IPDA relies on amplification of two subgenomic regions that together sample 222bp or only 2% of the 
+7kb HIV-1 genome
+ As a result, a significant fraction of proviruses are incorrectly categorized as intact which leads to an overestimation of intact proviral DNA (Bruner et al, )
+ Moreover, our experiments indicate that polymorphisms lead to variation in the levels of sensitivity and specificity of the PS+env probe combination in different individuals suggesting that any single combination of 2 probes would not be sufficient for broadly applicable reservoir measurements
+ Most importantly, verification of intact proviruses is not possible in the IPDA and therefore the accuracy of this method will vary between individuals depending on the molecular composition of the reservoir
+ Nevertheless, the IPDA is a high throughput assay that is more accurate than the total proviral DNA assay, making it the most desirable currently available assay for large studies (Bruner et al, )
+ The advantage of combining multicolor qPCR and sequencing is that the method is relatively rapid, scalable, and both sensitive and specific
+ All intact viruses in the 6 individuals analyzed and 99% of the intact Clade B viral sequences in the Los Alamos data base were positive for any combination of 2 of the 4 probes in the Q4PCR reaction
+ Bar coding and next generation sequencing facilitates the analysis of large numbers of samples simultaneously and enables definitive identification of intact proviruses
+ In addition, the sequence data provides information on the clonal structure of the latent reservoir and on the nature of the defective proviruses
+  certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    In conclusion the combination of 4 probe qPCR and next generation sequencing is a highly sensitive and specific method for measuring intact proviruses in the HIV-1 latent reservoir
+ HIV-1-infected participants were enrolled at the Rockefeller University Hospital, New York, USA, and the University Hospital Cologne, Cologne, Germany, in an open-label phase 1b study )
+ All participants provided written informed consent before participation in the study and the study was conducted in accordance with Good Clinical Practice
+ The protocol was approved by the Federal Drug Administration in the USA, the Paul-Ehrlich-Institute in Germany, and the Institutional Review Boards (IRBs) at the Rockefeller University and the University of Cologne
+ Participants received the combination of two broadly neutralizing antibodies (3BNC117 and -1074) intravenously at a dose of 30 mg kg1 body weight of each antibody, at weeks 0, 3 and 6, unless viral rebound occurred
+ ART was discontinued 2 days after the first infusion of antibodies (day )
+ Leukapheresis was performed at the Rockefeller University Hospital or at the University Hospital Cologne at week 2 and week 
+ Peripheral blood mononuclear cells (PBMCs) were isolated by density gradient centrifugation and cells were cryopreserved in fetal bovine serum plus Previously characterized primers and probes were mapped to HXB2 to identify regions of binding (Althaus et al, 2010; Bruner and Siliciano, 2018; Bruner et al, 2019; Malnati et al, 2008; Palmer certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    et al, 2003; Schmid et al, )
+ Then, we selected all HIV-1 Clade B (n=578), Clade C (n=456) and Clade A (n=94) full-length intact proviral genomes from the Los Alamos HIV sequence sequence information for the packaging signal After alignment to the HXB2 reference sequence using MAFFT v
+ 
+309, we predicted binding and amplification signal for primer/probe sets with a maximum of one probe mismatch and four primer mismatches
+ Forward and reverse primers were further subdivided in a 5 and 3 end and a maximum of three mismatches at the 5 end and one mismatch at the 3 end was allowed for predicted binding and positive signal (Lefever et al, 2013; Rutsaert et al, 2018; Stadhouders et al, )
+ In addition, we used Geneious 11 and Primer3 to assess physical properties such as melting temperatures and secondary structures
+ Based on predicted binding and favorable physical properties for multiplex qPCR reactions we selected the packaging signal (PS) (Bruner and Siliciano, 2018), group-specific antigen (gag) (Palmer et al, 2003), polymerase (pol) (Schmid et al, 2010), and envelope (env) (Bruner et al, 2019) primer/probe sets
+ To test whether these primer/probe sets can discriminate between intact and defective proviruses we analyzed 1378 intact and defective near full-length HIV-1 sequences from Total CD4+ T cells were isolated from cryopreserved PBMCs by manual magnetic labeling and negative selection using the CD4+ T Cell Isolation Kit (Miltenyi Biotec)
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Genomic DNA from 1-10 Million CD4+ T cells was isolated using the Gentra Puregene Cell Kit (Qiagen)
+ In some experiments, DNA was isolated using phenol-chloroform (Klein et al, )
+ Briefly, CD4+ T cells were lysed in Proteinase K buffer [100 mM Tris (pH 8), 
+2% SDS, 200 mM NaCl, 5 mM EDTA] and 20 mg/mL Proteinase K at 56 C for 12 hours followed by genomic DNA 
+0 Fluorometer and Qubit dsDNA BR Assay Kit (Thermo Fisher Scientific) was used to measure Genomic DNA was assayed in a 384-well plate format using the Applied Biosystem QuantStudio 6 Flex Real-Time PCR System
+ HIV-1-specific primers and a probe targeting a conserved region in gag were used in a limiting dilution quantitative PCR (qPCR) reaction (Forward primer 5- Each qPCR reaction was carried out in a 10 l total reaction volume containing 5l of TaqMan Universal PCR Master Mix containing Rox (Applied Biosystems, Catalog no
+ 4304437), 1 l of diluted genomic DNA, nuclease free water and the following primer and probe concentrations: 337,5nM of Forward and Reverse primers with 93,75nm of gag internal probe
+ Gag qPCR conditions were 94C for 10 min; 50 cycles of 94C for 15 s and 60 C for 60 s
+ Genomic DNA was serially diluted to concentrations ranging from 2000 to 250 CD4+ T cells per l with a minimum of 24 reactions per concentration
+ We selected DNA dilutions wherein <30% of the gag PCR reactions were positive for further analysis because they have more than an 80% certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    probability of containing a single copy of HIV-1 DNA in each PCR reaction based on the Poisson We used a two-step nested PCR approach to amplify near full-length HIV-1 genomes
+ All reactions were carried out in a 20 l reaction volume using Platinum Taq High Fidelity polymerase (Thermo Fisher Scientific)
+ The outer PCR reaction was performed on genomic DNA at the previously m; then 94C for 30 s, 64C for 30 s, 68C for 10 m for 3 cycles; 94C for 30s, 61C for 30 s, 68C for 10 m for 3 cycles; 94C for 30 s, 58C for 30 s, 68C for 10 m for 3 cycles; 94C for 30 s, 55C for 30 s, 68C for 10 m for 41 cycles; then 68C for 10 m (Ho et al, 2013; Li et al, )
+ Undiluted 1 l aliquots of the near full-length 
+PCR product were subjected to a quadruplex qPCR reaction using a combination of four primer/probe sets that target conserved regions in the HIV-1 genome
+ Each primer/probe set consists of a forward and reverse primer pair as well as a certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Each quadruplex qPCR reaction was carried out in a 10 l total reaction volume containing 5l of TaqMan Universal PCR Master Mix containing Rox (Applied Biosystems, Catalog no
+ 4304437), 1 l of diluted genomic DNA, nuclease free water and the following primer and probe concentrations: Packaging Signal (PS) 675 nM of Forward and Reverse primers with 
+5 nM of PS internal probe, env 90 nM of Forward and Reverse primers with 25 nM of env internal probe, gag 
+5nM of Forward and Reverse primers with 
+75 nM of gag internal probe, pol 675 nM of Forward and Reverse primers with 
+5 nM of pol internal probe
+ qPCR conditions were 94C for 10 min; 40 cycles of 94 C for 15 s and 60 C for s
+ All qPCR reactions were performed in a 384-well plate format using the Applied Biosystem QuantStudio 6 Flex Real-Time PCR System
+ We used QuantStudio Real-Time PCR Software, Version 
+3 (Thermo Fisher Scientific), for data analysis
+ The same baseline correction (Start Cycle: 3, End Cycle: 10) and normalized reporter certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    signal (Rn) threshold (Rn threshold=
+025) was set manually for all targets/probes
+ Fluorescent signal above the threshold was used to determine the threshold cycle (Ct)
+  Samples with a Ct value between 10 and 40 of any probe or probe combination were identified
+ Preliminary sequence analysis indicated that samples reacting with only a single primer/probe or only the PS+gag combination were defective, and these samples were mostly omitted from further analysis
+ All other samples showing reactivity with two or more of the four qPCR probes were The nested PCR reaction was performed on undiluted 1 l aliquots of the near full-length 
+PCR product
+ Reactions were carried out in a 20 l reaction volume using Platinum Taq High Fidelity CTAGTTACCAGAGTCACACAACAGACG- 3) (Ho et al, 2013) at a concentration of nM
+ Touchdown cycling conditions were: 94C for 2 m; then 94C for 30 s, 64C for 30 s, 68C for 10 m for 3 cycles; 94C for 30s, 61C for 30 s, 68C for 10 m for 3 cycles; 94C for 30 s, 58C for 30 s, 68C for 10 m for 3 cycles; 94C for 30 s, 55C for 30 s, 68C for 10 m for 41 cycles; then All nested PCR products were subjected to library preparation without prior gel visualization
+  certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    The Qubit 
+0 Fluorometer and Qubit dsDNA BR Assay Kit (Thermo Fisher Scientific) was used to measure DNA concentrations
+ Samples were diluted to a concentration of -ng/l
+ Tagmentation reactions were carried out using 1l of diluted DNA, 0,25l Nextera TDE1 enzyme and 1,25l Nextera TD buffer (Illumina)
+ Tagmented DNA was ligated to unique i5/i7 barcoded primer combinations using the Illumina Nextera XT Index Kit v2 and KAPA HiFi HotStart ReadyMix (2X) (KAPA Biosystems), and then purified using AmPure Beads XP (Agencourt)
+ Three hundred eighty-four purified samples were pooled into one library and then subjected to paired-end sequencing using Illumina MiSeq Nano 300 V2 cycle kits (Illumina) at a concentration HIV sequence reconstruction was performed by our in-house pipeline called HIVA (HIV Assembler), a pipeline for the assembly of raw sequencing reads into annotated HIV genomes, capable of reconstructing thousands of genomes within hours
+ First, a quality-control check trims Illumina adapters and low-quality bases, followed by multiple assembly steps that combine two DBG is performed by SPAdes for initial de novo assembly of contigs which are aligned via BLAST to a database of HIV genome sequences to select the closest reference
+ OLC is performed by MIRA in two steps
+ First, a modified version of the closest reference is generated by alignment to the contigs produced by SPAdes
+ After, the modified reference is used as a scaffold for the final reference-guided assembly of the initial trimmed reads
+ Finally, the HIV genome sequence is annotated by alignment to HXB2 using ClustalW
+ Sequences with double peaks (cutoff consensus identity for any residue <75%) or limited reads (empty wells=<500 sequencing reads) were certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    omitted from downstream analyses
+ HIVA is constructed with Snakemake, a workflow management system, allowing reproducible data analyses and scalability to cluster and cloud All proviral sequences have been deposited in GenBank with the accession codes pending
+  Nucleotide alignments of intact env sequences were translation-aligned using ClustalW v
+ 
+148 under the BLOSUM cost matrix
+ Sequences with premature stop codons and frameshift mutations that fell in the gp120 surface glycoprotein region were excluded from all analyses
+ Maximum likelihood phylogenetic trees were then generated from these alignments with RAxML v
+ 
+ 
+950 Identical env sequences captured by each method (Q2VOA, NFL and Q4PRC) were considered as shared sequences
+ The number inside overlapping areas in the Euler diagram is the sum of all shared sequences
+  The fraction of shared sequence from individual methods is shown in Table S
+ Statistical analyses were performed using GraphPad Prism 
+0d for Mac OS X
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    We thank all study participants who devoted time to our research; The Rockefeller University Hospital Clinical Research Support Office and nursing staff, the Klein lab and the clinical study group of the Division of Infectious Diseases at the University Hospital Cologne, for help with sample processing; Lillian B
+ Cohn, Amy S
+ Huang and all members of the M
+ C
+ N
+ laboratory for helpful discussions and Zoran Jankovic for laboratory support
+ C
+ Gaebler is a fellow of the Robert S
+ Wennett and Mario Cader-Frech Foundation and was supported in part by grant # UL1 TR001866 from the National Center for Advancing Translational Sciences (NCATS, National Institutes of Health (NIH) Clinical and Translational Science Award (CTSA) program), and by the Shapiro-Silverberg Fund for the Advancement of Translational Research
+ This work was supported by the Bill and Melinda Gates Foundation Collaboration for AIDS Vaccine Discovery Research (1P30AI124414-01A1); BEAT-HIV Delaney Grant UM1 AI126620 (to M
+ Caskey); and the Robertson Fund
+ M
+ C
+ Nussenzweig is a Howard Hughes Medical Institute Investigator
+  There are patents on 3BNC117 and 10-1074, of which M
+ C
+ Nussenzweig is an inventor
+ M
+ C
+ Nussenzweig is a member of the Scientific Advisory Boards of Celldex and Frontier Author contributions: C
+ Gaebler, J
+ C
+ C
+ Lorenzi and M
+ C
+ Nussenzweig designed the research
+ C
+ Gaebler, J
+ C
+ C
+ Lorenzi, L
+ Nogueira, C-L
+ Lu and P
+ Mendoza performed the research
+ C
+ Gaebler, J
+ C
+ C
+ Lorenzi, T
+ Y
+ Oliveira, V
+ Ramos, J
+ Pai, M
+ Jankovic, M
+ Caskey and M
+ C
+ Nussenzweig analyzed the data
+ C
+ Gaebler, J
+ C
+ C
+ Lorenzi and M
+ C
+ Nussenzweig wrote the manuscript
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    (A) Horizontal bars represent the predicted detection of 578 intact clade B proviral sequences (Los Alamos HIV sequence database) by qPCR primer/probe sets that target PS (green), gag (blue), pol (yellow) and env (red) regions
+ Signal prediction for each individual proviral sequence is represented by the presence of the color of the respective primer/probe set
+ Sequences containing polymorphisms that prevent signal detection are represented by the absence of color
+ The percentage indicates the fraction of detected sequences for individual primer/probe sets or combinations of two primer/probe sets (brackets)
+ (B) Horizontal bars represent the predicted detection of 401 intact and 977 defective near-full length genomes from 9 individuals (Lu et al, 2018; Mendoza et al, )
+ The same primer/probe sets and color scheme is used as described above
+ The group of defective sequences includes near-full length genomes that carry small insertions, deletions and defects in the packaging site and/or major splice donor
+  The length of the Schematic representation of the Q4PCR protocol
+ Genomic DNA from CD4+ T cells was subjected to limiting dilution qPCR with a gag specific primer/probe set to determine overall HIV-1 proviral frequency
+ Near full-length proviral genomes were amplified from CD4+ T cell genomic DNA in samples diluted to single copy concentrations based on gag qPCR
+ An aliquot of the resulting amplicons was assayed by quadruplex qPCR using a combination of primer/probe sets covering certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    PS, gag, pol and env
+ Samples with positive signal for any combination of at least two primer/probe sets were collected and subjected to nested near full-length PCR, library preparation and next (A) Frequency per million CD4+ T cells of: gag+ proviruses amplified from genomic DNA and samples with any 1, or 2, or 3 or all 4 qPCR probe signals after near full-length amplification for the preinfusion (wk-2) and week 12 (wk12) time points
+ Horizontal bars indicate median values
+ For patient 9242 the frequency of env+ proviruses amplified from genomic DNA per million CD4+ T cells is plotted due to limited gag+ amplification signal (B) Comparison of frequencies of inducible proviruses (Q2VOA), intact proviruses obtained with NFL sequencing strategy (NFL Intact) and intact proviruses identified with Q4PCR (Q4PCR Intact) at preinfusion and week 12 time points for the same samples  (Lu et al, 2018; Mendoza et al, )
+ (C) Pearson correlation between frequency of intact proviruses identified with Q4PCR and inducible proviruses measured by Q2VOA at preinfusion and week 12 time points (Lu et al, 2018; Mendoza et al, )
+ Participant 9254 was excluded from the quantitative analysis because of inadequate sample availability
+ Individual patients are depicted in different colors
+ Time points are represented by (A) Euler diagrams representing the overlap between env sequences obtained from Q4PCR (white), Q2VOA (blue), NFL sequencing (yellow) and rebound plasma SGA or PBMC outgrowth certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    culture (red) from participants 9242, 9243, 9244, 9252, 9254 and 
+ (Lu et al, 2018; Mendoza et al, )
+ Q4PCR, Q2VOA and NFL sequences obtained from the preinfusion and week 12 time point were combined
+ Identical env sequences were considered as shared sequences
+ The number inside overlapping areas is the sum of all shared sequences
+ (B) Pie charts depict the distribution of intact and defective proviral sequences at the preinfusion (wk-2) and week 12 (wk12) time points
+ The number in the middle of the pie represents the total number of proviruses sequenced
+ Pie slices indicate the proportion of sequences that were intact or had different defects, including packaging signal defects and MSD site mutations (blue), premature stop codons mediated by hypermutation (yellow), single nucleotide indels or nonsense mutations (orange) and (A) Bar graphs showing the total number of sequenced samples that scored positive for any 1, or 2, or 3 or all 4 qPCR probes out of a total of 1832 assayed
+ (B) Stacked bar graphs showing the predictive value for intact (dark green) and defective (grey) proviral genomes of sequenced samples positive for any 1, or 2, or 3 or 4 qPCR probes respectively
+  (C) Stacked bar graphs showing the predictive value for intact (dark green) and defective (light grey) proviral genomes of sequenced samples positive for at least 1, or 2, or 3 and 4 qPCR probes respectively
+ The number of samples is depicted in white (intact) or black (defective) respectively
+ (D) Graphs showing the predictive value for intact and defective proviruses of individual probes and all possible combinations of at least 2, 3 or all 4 probes respectively
+ The predictive value for intact proviruses is colored for each individual probe (PS (green), gag (blue), pol (yellow) and env (red)) or as color combinations for specific probe combinations
+ The defective fraction is shown in grey
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Graphs showing the predictive value for intact and defective proviral genomes of individual probes and all possible combinations of at least 2, 3 or all 4 probes among participants 9242, 9243, 9244, 9252, 9254 and 9255 at the preinfusion (wk-2) and week 12 (wk12) time points
+ The predictive value for intact proviruses is colored for each individual probe (PS (green), gag (blue), pol (yellow) and env (red)) or as color combinations for specific probe combinations
+ The defective fraction is shown in grey
+ Blank spaces illustrate the absence of specific probe or probe combination signals certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Althaus, C
+ F
+, S
+ Gianella, P
+ Rieder, V
+ von Wyl, R
+ D
+ Kouyos, B
+ N
+ st, A
+ Schmid, K
+ J
+ Metzner, B
+ Joos, H
+ F
+ Gnthard, and M
+ Fischer
+ 
+ Rational design of HIV-1 Bieniasz, P
+ D
+, K
+ Ariyoshi, M
+ A
+ Bourelly, S
+ Bloor, R
+ B
+ Foxall, E
+ C
+ Harwood, and J
+ N
+ Weber
+ 
+ Variable relationship between proviral DNA load and infectious virus titre in the peripheral blood mononuclear cells of HIV-1-infected individuals
+ AIDS (London, Bruner, K
+ M
+, and R
+ F
+ Siliciano
+ 
+ Compositions and methods related to characterizing Bruner, K
+ M
+, A
+ J
+ Murray, R
+ A
+ Pollack, M
+ G
+ Soliman, S
+ B
+ Laskey, A
+ A
+ Capoferri, J
+ Lai, M
+ C
+ Strain, S
+ M
+ Lada, R
+ Hoh, Y
+ -C
+ Ho, D
+ D
+ Richman, S
+ G
+ Deeks, J
+ D
+ Siliciano, and R
+ F
+ Siliciano
+ 
+ Defective proviruses rapidly accumulate during acute HIV-1 Bruner, K
+ M
+, Z
+ Wang, F
+ R
+ Simonetti, A
+ M
+ Bender, K
+ J
+ Kwon, S
+ Sengupta, E
+ J
+ Fray, S
+ A
+ Beg, A
+ A
+ R
+ Antar, K
+ M
+ Jenike, L
+ N
+ Bertagnolli, A
+ A
+ Capoferri, J
+ T
+ Kufera, A
+ Timmons, C
+ Nobles, J
+ Gregg, N
+ Wada, Y
+ -C
+ Ho, H
+ Zhang, J
+ B
+ Margolick, J
+ N
+ Blankson, S
+ G
+ Deeks, F
+ D
+ Bushman, J
+ D
+ Siliciano, G
+ M
+ Laird, and R
+ F
+ Siliciano
+ 
+ A quantitative approach for measuring the reservoir of latent HIV-1 proviruses
+ Caskey, M
+, F
+ Klein, and M
+ C
+ Nussenzweig
+ 
+ Broadly neutralizing anti-HIV-1 Christopherson, C
+, Y
+ Kidane, B
+ Conway, J
+ Krowka, H
+ Sheppard, and S
+ Kwok
+ 
+ PCR-Based assay to quantify human immunodeficiency virus type 1 DNA in peripheral blood Chun, T
+ -W
+, R
+ T
+ Davey, D
+ Engel, H
+ C
+ Lane, and A
+ S
+ Fauci
+ 
+ Re-emergence of HIV Chun, T
+ W
+, L
+ Carruth, D
+ Finzi, X
+ Shen, J
+ A
+ DiGiuseppe, H
+ Taylor, M
+ Hermankova, K
+ Chadwick, J
+ Margolick, T
+ C
+ Quinn, Y
+ H
+ Kuo, R
+ Brookmeyer, M
+ A
+ Zeiger, P
+ Barditch-Crovo, and R
+ F
+ Siliciano
+ 
+ Quantification of latent tissue reservoirs and Cillo, A
+ R
+, and J
+ W
+ Mellors
+ 
+ Which therapeutic strategy will achieve a cure for HIV-1? Craigie, R
+, and F
+ D
+ Bushman
+ 
+ HIV DNA Integration
+ Cold Spring Harbor perspectives Crooks, A
+ M
+, R
+ Bateson, A
+ B
+ Cope, N
+ P
+ Dahl, M
+ K
+ Griggs, J
+ D
+ Kuruc, C
+ L
+ Gay, J
+ J
+ Eron, D
+ M
+ Margolis, R
+ J
+ Bosch, and N
+ M
+ Archin
+ 
+ Precise Quantitation of the Latent Eriksson, S
+, E
+ H
+ Graf, V
+ Dahl, M
+ C
+ Strain, S
+ A
+ Yukl, E
+ S
+ Lysenko, R
+ J
+ Bosch, J
+ Lai, S
+ Chioma, F
+ Emad, M
+ Abdel-Mohsen, R
+ Hoh, F
+ Hecht, P
+ Hunt, M
+ Somsouk, J
+ Wong, R
+ Johnston, R
+ F
+ Siliciano, D
+ D
+ Richman, U
+ O&apos;Doherty, S
+ Palmer, S
+ G
+ Deeks, and J
+ D
+ Siliciano
+ 
+ Comparative Analysis of Measures of Viral Reservoirs in HIV-1 Finzi, D
+, M
+ Hermankova, T
+ Pierson, L
+ M
+ Carruth, C
+ Buck, R
+ E
+ Chaisson, T
+ C
+ Quinn, K
+ Chadwick, J
+ Margolick, R
+ Brookmeyer, J
+ Gallant, M
+ Markowitz, D
+ D
+ Ho, D
+ D
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Richman, and R
+ F
+ Siliciano
+ 
+ Identification of a reservoir for HIV-1 in patients on Gruell, H
+, and F
+ Klein
+ 
+ Antibody-mediated prevention and treatment of HIV-1 infection
+ Henrich, T
+ J
+, S
+ G
+ Deeks, and S
+ K
+ Pillai
+ 
+ Measuring the Size of the Latent Human Hiener, B
+, B
+ A
+ Horsburgh, J
+ -S
+ Eden, K
+ Barton, T
+ E
+ Schlub, E
+ Lee, S
+ von Stockenstrom, L
+ Odevall, J
+ M
+ Milush, T
+ Liegler, E
+ Sinclair, R
+ Hoh, E
+ A
+ Boritz, D
+ Douek, R
+ Fromentin, N
+ Chomont, S
+ G
+ Deeks, F
+ M
+ Hecht, and S
+ Palmer
+ 
+ Identification of Genetically Intact HIV-1 Proviruses in Specific CD4+ T Cells from Effectively Treated Ho, Y
+ -C
+, L
+ Shan, N
+ N
+ Hosmane, J
+ Wang, S
+ B
+ Laskey, D
+ I
+ S
+ Rosenbloom, J
+ Lai, J
+ N
+ Proviruses in the Latent Reservoir Increase Barrier to HIV-1 Cure
+ Cell :-
+ Hosmane, N
+ N
+, K
+ J
+ Kwon, K
+ M
+ Bruner, A
+ A
+ Capoferri, S
+ Beg, D
+ I
+ S
+ Rosenbloom, B
+ F
+ Keele, Y
+ -C
+ Ho, J
+ D
+ Siliciano, and R
+ F
+ Siliciano
+ 
+ Proliferation of latently infected CD4 +T cells carrying replication-competent HIV-1: Potential role in latent Klein, I
+ A
+, W
+ Resch, M
+ Jankovic, T
+ Oliveira, A
+ Yamane, H
+ Nakahashi, M
+ Di Virgilio, A
+ Bothmer, A
+ Nussenzweig, D
+ F
+ Robbiani, R
+ Casellas, and M
+ C
+ Nussenzweig
+ 
+ Lee, G
+ Q
+, N
+ Orlova-Fink, K
+ Einkauf, F
+ Z
+ Chowdhury, X
+ Sun, S
+ Harrington, H
+ -H
+ Kuo, S
+ Hua, H
+ -R
+ Chen, Z
+ Ouyang, K
+ Reddy, K
+ Dong, T
+ Ndungu, B
+ D
+ Walker, E
+ S
+ Rosenberg, X
+ G
+ Yu, and M
+ Lichterfeld
+ 
+ Clonal expansion of genome-intact HIV-1 in functionally polarized Th1 CD4+ T cells
+ Journal of Clinical Investigation Lefever, S
+, F
+ Pattyn, J
+ Hellemans, and J
+ Vandesompele
+ 
+ Single-nucleotide Li, B
+, A
+ D
+ Gladden, M
+ Altfeld, J
+ M
+ Kaldor, D
+ A
+ Cooper, A
+ D
+ Kelleher, and T
+ M
+ Allen
+ Lorenzi, J
+ C
+ C
+, Y
+ Z
+ Cohen, L
+ B
+ Cohn, E
+ F
+ Kreider, J
+ P
+ Barton, G
+ H
+ Learn, T
+ Oliveira, C
+ L
+ Lavine, J
+ A
+ Horwitz, A
+ Settler, M
+ Jankovic, M
+ S
+ Seaman, A
+ K
+ Chakraborty, B
+ H
+ Hahn, M
+ Caskey, and M
+ C
+ Nussenzweig
+ 
+ Paired quantitative and qualitative proviral DNA
+ Proceedings of the National Academy of Sciences of the United States of Lu, C
+ -L
+, J
+ A
+ Pai, L
+ Nogueira, P
+ Mendoza, H
+ Gruell, T
+ Y
+ Oliveira, J
+ Barton, J
+ C
+ C
+ Lorenzi, Y
+ Z
+ Cohen, L
+ B
+ Cohn, F
+ Klein, M
+ Caskey, M
+ C
+ Nussenzweig, and M
+ Jankovic
+ 
+ Relationship between intact HIV-1 proviruses in circulating CD4+T cells and certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Malnati, M
+ S
+, G
+ Scarlatti, F
+ Gatto, F
+ Salvatori, G
+ Cassina, T
+ Rutigliano, R
+ Volpi, and P
+ Lusso
+ 
+ A universal real-time PCR assay for the quantification of group-M HIV-1 Margolis, D
+ M
+, and N
+ M
+ Archin
+ 
+ Proviral Latency, Persistent Human Immunodeficiency Virus Infection, and the Development of Latency Reversing Agents
+ The Journal of Margolis, D
+ M
+, R
+ A
+ Koup, and G
+ Ferrari
+ 
+ HIV antibodies for treatment of HIV infection
+ Mendoza, P
+, H
+ Gruell, L
+ Nogueira, J
+ A
+ Pai, A
+ L
+ Butler, K
+ Millard, C
+ Lehmann, I
+ Surez, T
+ Y
+ Oliveira, J
+ C
+ C
+ Lorenzi, Y
+ Z
+ Cohen, C
+ Wyen, T
+ Kmmerle, T
+ Karagounis, C
+ -L
+ Lu, L
+ Handl, C
+ Unson-O&apos;Brien, R
+ Patel, C
+ Ruping, M
+ Schlotz, M
+ Witmer-Pack, I
+ Shimeliovich, G
+ Kremer, E
+ Thomas, K
+ E
+ Seaton, J
+ Horowitz, A
+ P
+ West, P
+ J
+ Bjorkman, G
+ D
+ Tomaras, R
+ M
+ Gulick, N
+ Pfeifer, G
+ Ftkenheuer, M
+ S
+ Seaman, F
+ Klein, M
+ Caskey, and M
+ C
+ Nussenzweig
+ 
+ Combination therapy with anti-HIV-1 Palmer, S
+, A
+ P
+ Wiegand, F
+ Maldarelli, H
+ Bazmi, J
+ M
+ Mican, M
+ Polis, R
+ L
+ Dewar, A
+ Planta, S
+ Liu, J
+ A
+ Metcalf, J
+ W
+ Mellors, and J
+ M
+ Coffin
+ 
+ New real-time reverse immunodeficiency virus type 1 RNA in plasma
+ Journal of Clinical Microbiology Rosenbloom, D
+ I
+ S
+, P
+ Bacchetti, M
+ Stone, X
+ Deng, R
+ J
+ Bosch, D
+ D
+ Richman, J
+ D
+ Siliciano, J
+ W
+ Mellors, S
+ G
+ Deeks, R
+ G
+ Ptak, R
+ Hoh, S
+ M
+ Keating, M
+ Dimapasoc, M
+ Massanella, J
+ Lai, M
+ D
+ Sobolewski, D
+ A
+ Kulpa, M
+ P
+ Busch, and f
+ t
+ R
+ A
+ V
+ a
+ E
+ N
+ R
+ S
+ Group
+ 
+ Assessing intra-lab precision and inter-lab repeatability of outgrowth assays Rutsaert, S
+, W
+ De Spiegelaere, C
+ Van Hecke, M
+ -A
+ x
+ E
+ l
+ De Scheerder, M
+ Kiselinova, K
+ Vervisch, W
+ Trypsteen, and L
+ Vandekerckhove
+ 
+ In-depth validation of total HIV-1 DNA assays for quantification of various HIV-1 subtypes
+ Scientific Reports -
+ Schmid, A
+, S
+ Gianella, V
+ von Wyl, K
+ J
+ Metzner, A
+ U
+ Scherrer, B
+ Niederst, C
+ F
+ Althaus, P
+ Rieder, C
+ Grube, B
+ Joos, R
+ Weber, M
+ Fischer, and H
+ F
+ Gnthard
+ 
+ Profound Sengupta, S
+, and R
+ F
+ Siliciano
+ 
+ Targeting the Latent Reservoir for HIV-
+ IMMUNI Sharaf, R
+, G
+ Q
+ Lee, X
+ Sun, B
+ Etemad, L
+ M
+ Aboukhater, Z
+ Hu, Z
+ L
+ Brumme, E
+ Aga, R
+ J
+ Bosch, Y
+ Wen, G
+ Namazi, C
+ Gao, E
+ P
+ Acosta, R
+ T
+ Gandhi, J
+ M
+ Jacobson, D
+ Skiest, D
+ M
+ Margolis, R
+ Mitsuyasu, P
+ Volberding, E
+ Connick, D
+ R
+ Kuritzkes, M
+ M
+ Lederman, X
+ G
+ Yu, M
+ Lichterfeld, and J
+ Z
+ Li
+ 
+ HIV-1 proviral landscapes Siliciano, J
+ D
+, J
+ Kajdas, D
+ Finzi, T
+ C
+ Quinn, K
+ Chadwick, J
+ B
+ Margolick, C
+ Kovacs, S
+ J
+ Gange, and R
+ F
+ Siliciano
+ 
+ Long-term follow-up studies confirm the stability of the latent reservoir for HIV-1 in resting CD4+ T cells
+ Nature Publishing Group :-
+ Stadhouders, R
+, S
+ D
+ Pas, J
+ Anber, J
+ Voermans, T
+ H
+ M
+ Mes, and M
+ Schutten
+ 
+ The Effect of Primer-Template Mismatches on the Detection and Quantification of Nucleic Acids Using the 5 Nuclease Assay
+ The Journal of Molecular Diagnostics :-
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    Vibholm, L
+ K
+, J
+ C
+ C
+ Lorenzi, J
+ A
+ Pai, Y
+ Z
+ Cohen, T
+ Y
+ Oliveira, J
+ P
+ Barton, M
+ G
+ Noceda, C
+ -L
+ Lu, Y
+ Ablanedo-Terrazas, P
+ M
+ Del Rio Estrada, G
+ Reyes Teran, M
+ Tolstrup, Characterization of intact proviruses in blood and lymph node from HIV-infected Wong, J
+ K
+, M
+ Hezareh, H
+ F
+ Gunthard, D
+ V
+ Havlir, C
+ C
+ Ignacio, C
+ A
+ Spina, and D
+ D
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;           1            2            3            4             5            6            7            8            9            10            11            12     certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 31, 
+ ;    

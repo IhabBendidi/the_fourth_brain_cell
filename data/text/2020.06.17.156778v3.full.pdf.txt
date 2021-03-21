@@ -1,0 +1,214 @@
+Analysis of overlapping genetic association in type 1 and type 2 diabetes 1 5884) 1, Daniel J
+ M
+ Crouch1, Mark I
+ McCarthy (0000-0002-4393-0510) 3,$, Anubha 4 1 JDRF/ Wellcome Diabetes and Inflammation Laboratory, Wellcome Centre for 6 Human Genetics, Nuffield Department of Medicine, University of Oxford, Oxford, 7 2 Institute for Research in Genetics and Biomedicine (IRGB), Sardinia, Italy 9 3 Wellcome Centre for Human Genetics, Nuffield Department of Medicine, 10 Current address: $ Genentech, 1 DNA Way, South San Francisco, CA, 94080 12 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted January 25, 
+ ;    Aims/hypothesis: Given the potential shared aetiology between type 1 and type 27 2 diabetes, we aimed to identify any genetic regions associated with both 28 diseases
+ For associations where there is a shared signal and the allele that 29 increases risk to one disease also increases risk to the other, inference about 30 shared aetiology could be made, with the potential to develop therapeutic 31 strategies to treat or prevent both diseases simultaneously
+ Alternatively, if a 32 genetic signal colocalises with divergent effect directions, it could provide 33 valuable biological insight into how the association affects the two diseases 34 Methods: Using publicly available type 2 diabetes summary statistics from a 36 individuals (74,124 cases and 824,006 controls) and type 1 diabetes GWAS 38 summary statistics from a meta-analysis of studies on individuals from the UK 39 and Sardinia (7,467 cases and 10,218 controls), we identified all regions of 
+5 40 Mb that contained variants associated with both diseases (false discovery 41 rate<
+ )
+ In each region, we performed forward stepwise logistic regression to 42 type 1 diabetes signal with each type 2 diabetes signal using coloc
+ Any 44 association with a colocalisation posterior probability of 
+9 was considered a 45 Results: Of the 81 association signals from 42 genetic regions that showed 47 association with both type 1 and type 2 diabetes, four association signals 48 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted January 25, 
+ ;    Resistance Protein 1 (BCAR1), which has been previously identified; (ii) 51 chromosome p
+5, near the Insulin (INS) gene; (iii) chromosome p
+3, 52 near Phosphoglucomutase 1 (PGM)
+ In each of these regions, the effect of 54 genetic variants on type 1 diabetes was in the opposite direction to the effect on 55 type 2 diabetes
+ Use of additional datasets also supported the previously 56 identified colocalisation on chromosome p
+2, near the GLIS Family Zinc 57 Finger Protein 3 (GLIS3) gene, in this case with a concordant direction of effect
+ 58 between type 1 diabetes and type 2 diabetes are in opposite directions suggests 60 a complex genetic relationship between the two diseases
+   61 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted January 25, 
+ ;     Other than insulin, there are currently no treatments for both type 1 and 64  Findings that genetic variants near the GLIS3 gene increase risk of both 66 type 1 and type 2 diabetes have indicated shared genetic mechanisms at 67 there any more variants that affect risk of both diseases and could 71  At current sample sizes, there is evidence that five genetic variants in 75  However, four of these variants have the opposite direction of effect in 77 type 1 diabetes compared to type 2 diabetes, with only one, near GLIS3, 78 How might this impact on clinical practise in the foreseeable future? 80  Genetic findings have furthered research in type 1 and type 2 diabetes 81 current type 2 diabetes treatments into type 1 diabetes may not be 84 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted January 25, 
+ ;    There is a genetic component to both type 1 and type 2 diabetes, with 87 approximately 60 chromosome regions associated with type 1 diabetes 1 and 88 over 200 associated with type 2 diabetes 2 at genomewide significance
+ 89 Examination of regions associated with both diseases could lead to uncovering 90 signals that simultaneously alter disease risk for both diseases, termed 91 effective for both diseases
+ A recent analysis suggested that the same genetic 94 variant is altering risk of both type 1 and type 2 diabetes in five regions, near 95 Anti-Estrogen Resistance Protein 1 (BCAR1), GLIS Family Zinc Finger Protein 3 97 Here, we identified all regions across the genome that showed evidence of 100 association to both type 1 and type 2 diseases at false discovery rate  (FDR) 101 <
+01, and assessed colocalisation between the two diseases in each of these 102 regions
+ Furthermore, to account for the possibility of multiple causal variants 103 within an associated region, we extended the analysis to investigate 104 any of the associations with one disease colocalised with any associations in the 106 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted January 25, 
+ ;    Type 1 diabetes meta-analysis summary statistics were generated using genome 109 wide association study (GWAS) data from 3,983 cases and 3,994 controls from 110 the UK genotyped using the Illumina Infinium 550K platform, 1,926 cases and 111 3,342 controls from the UK genotyped using the Affymetrix GeneChip 500K 112 platform and 1,558 cases and 2,882 controls from Sardinia genotyped using the 113 Affymetrix 
+0 and Illumina Omni Express platforms, totalling 7,467 cases and 114 10,218 controls (ESM Table )
+ Genotypes were imputed using the Haplotype 115 Reference Consortium (HRC) reference panel for the UK collections 4, and a 116 custom Sardinian reference panel of 3,514 Sardinians for the Sardinian collection 117 Summary statistics for type 2 diabetes were from 74,124 cases and 824,006 119 controls of European ancestry, imputed using the HRC reference panel 
+ 120 Regions associated with both diseases were identified by selecting all variants 121 with type 1 diabetes and a type 2 diabetes association with FDR<
+01 (ESM  122 Type 1 diabetes GWAS)
+ In each such region, windows of approximately 
+5 Mb 123 were taken to examine colocalisation (ESM - Regions associated with both 124 carried out for both diseases, and conditional summary statistics were obtained 126 so each conditionally-independent signal from both diseases could be tested 127 against each other for colocalisation (ESM - Conditional analyses)
+  128 Colocalisation of signals was assessed using coloc 5, a Bayesian method that 129 enumerates the posterior probability that the association signals in a region are 130 shared between traits
+ The prior probability of association with either disease 131 was taken to be 110-4 and the prior probability that the association signal is 132 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted January 25, 
+ ;    shared across traits was taken to be 510-6, as recommended 
+ The threshold to 133 consider signals as colocalising was conservatively chosen at a posterior 134 probability 
+ 
+  Colocalisation was also examined using an alternative 135 approach, as a secondary analysis, eCAVIAR 7 (ESM  eCAVIAR)
+  136 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted January 25, 
+ ;    analyses were carried out across 42 chromosomal regions that showed 139 Four signals showed evidence of colocalisation using coloc, and they were also 141 probabilities (ESM Table )
+ The first was on chromosome q
+1, near CTRB1 143 and BCAR1, with a posterior probability of colocalisation (H4PP, hereafter) of 144 
+98 (ESM Figure )
+  The minor A allele at the type 2 diabetes index variant, 145 rs72802342 (C>A), is protective for type 2 diabetes (OR=
+87, p=
+0010-32) and 146 The second was on chromosome p
+5, near INS, where the primary type 2 148 diabetes association colocalised with the secondary type 1 diabetes association  149 (HPP=
+95, ESM Figure )
+ The direction of effect was opposite, with the minor 150 A allele at the type 2 diabetes index variant, rs4929965 (G>A), associated with 151 susceptibility to type 2 diabetes (OR=
+07, p=
+8010-25) and protection from 152 Thirdly, a region on chromosome p
+3 colocalised (HPP=
+97) (Figure 1), 154 near Transmembrane protein 129 (TMEM)
+  The minor T allele at the type 2 155 diabetes index variant, rs56337234 (C>T), was associated with decreased risk of 156 type 2 diabetes (OR=
+94, p=
+410-17) and increased risk of type 1 diabetes 157 Finally, a region on chromosome p
+3, near Phosphoglucomutase 1 (PGM1), 159 colocalised (HPP=
+91, ESM Figure 3), with the minor T allele at the type 2 160 diabetes index variant rs2269247 (C>T) decreasing risk of type 2 diabetes 161 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted January 25, 
+ ;    (OR=
+96, p=
+610-7) and increasing risk of type 1 diabetes (OR=
+15, 162 We did not replicate the finding that the chromosome regions near CENPW, 164 GLIS3, BCL11A or THADA colocalised between type 1 and type 2 diabetes (H4PP 165 CENPW=
+12, GLIS=
+29, BCLA=
+28, THADA not examined as no type 1 166 diabetes association existed in the region (FDR=
+ ))
+ To investigate these 167 discrepancies, we examined two other large type 2 diabetes meta-analyses: a 168 trans-ethnic study including 1,407,282 individuals 8 and a study of 433,540 169 individuals of East Asian ancestry 
+ For the CENPW and BCL11A regions, the type 170 2 diabetes signal is consistent with at least one of the other GWAS studies 171 (measured by linkage disequilibrium (LD) in Europeans to the other study index 172 variants, ESM Table 4); and, the type 1 diabetes index variant is not in strong LD 173 (r<
+41) with any of the index variants for type 2 diabetes across the three 174 GWAS studies
+ However, at GLIS3, there appears to be a distinct signal in the 175 European study 2 compared to the trans-ethnic and East Asian type 2 diabetes 176 studies (r=
+65), and the index variants from these two studies are in higher r2 177 with the type 1 diabetes signal in our analysis (r=
+68), and even higher r2 with 178 the index variant from a larger T1D genetic analysis 1 (r=
+99), indicating that 179 the signal near GLIS3 does colocalise between type 1 and type 2 diabetes with 180 concordant direction of effect, as previously identified 
+   181 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted January 25, 
+ ;    identified 42 regions that showed association with both type 1 and type 2 184 regions
+ Four signals (near CTRB1/BCAR1, INS, TMEM129 and PGM1) colocalised 186 between the diseases, including a signal at the complex INS region for the first 187 However, in all four cases, the allele increasing risk for one disease was 189 protective against the other
+ Examination of additional trans-ethnic and East 190 Asian type 2 diabetes genetic analyses, indicated that a fifth association, near 191 GLIS3, is likely to colocalise between diseases, with concordant direction of 192 Given the distinct mechanisms underlying -cell dysfunction and cell death 194 between the two diseases 11,  it is perhaps unsurprising that no additional signals 195 were detected with concordant direction of effect
+ However, the type 1 diabetes 196 GWAS was much smaller than the type 2 diabetes analysis, and therefore had 197 less statistical power to detect more subtle genetic effects
+ If a type 1 diabetes 198 GWAS were to be performed with similar power to the type 2 diabetes GWAS, 199 more regions might colocalise between the two diseases, but either the effects of 200 these additional regions on type 1 diabetes would be small compared to the 201 currently known associations, or they would be rare variants with larger effect 202 That four of five colocalisation signals had opposite directions of effect implies a 204 complex genetic relationship between the two diseases
+ Whilst the directional 205 discordance offers little hope for effective treatments for both diseases 206 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted January 25, 
+ ;    simultaneously at these particular targets, it can offer biological insight into the 207 disease pathways that these regions act upon, and even if there is directional 208 discordance, the genetics could be highlighting the same therapeutic target
+  209 We did not replicate the findings that the associations near BCL11A, CENPW and 210 THADA colocalise between the two diseases 3, despite overlapping samples and 211 similar numbers of cases and controls in the type 1 diabetes GWAS
+ This is likely 212 due to three reasons: i) the previous study 3 examined colocalisation using 213 weaker association signals, for example, the colocalisation near THADA was 214 based on a type 1 diabetes association p-value of 
+01; ii) we used a more 215 stringent prior for colocalisation between the two diseases, as recently 216 suggested 6 (510-6 vs
+ 110-5); and iii) we used a more stringent posterior 217 probability threshold to declare colocalisation (
+9 vs
+ 
+ )
+  Our increased 218 stringency compared to the previous analysis 3, whilst increasing the probability 219 that any identified shared signals will be true positives,  may have decreased our 220 sensitivity to detect all colocalisations
+ For example, by examining other large 221 type 2 diabetes GWAS analyses and a larger type 1 diabetes genetic analysis, we 222 conclude that the association near GLIS3 likely does colocalise between the two 223 In conclusion, with current GWAS sample sizes, just five associations appear to 225 colocalise between type 1 diabetes and type 2 diabetes, four with opposing 226 direction of effect
+ Larger sample sizes would be required to identify the depth of 227 genetically identified therapeutic targets to treat or prevent both diseases 228 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted January 25, 
+ ;    Table 1: Regions with a colocalisation posterior probability of 
+9 between type 1 diabetes and type 2 diabetes
+ Summary statistics 231 given from the perspective of the index type 2 diabetes variant and with respect to the ALT allele
+ T2D= type 2 diabetes, T1D= type 1 232 Figure 1:  Manhattan plots showing a) gene locations and log10p-value of 235 association for each variant by position along chromosome 4 (genome build 37) 236 in the TMEM129 region for b) type 2 diabetes and c) type 1 diabetes, coloured by 237 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted January 25, 
+ ;    We gratefully acknowledge all participants for allowing the analysis of their 241 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted January 25, 
+ ;    Type 1 diabetes summary statistics will be available through GWAS catalog 244 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted January 25, 
+ ;    This work was funded by the JDRF (9-2011-253, 5-SRA-2015-130-A-N) and 248 Additional funding was obtained from the Wellcome (090532, 098381, 106130, 251 212259) and the National Institute of Diabetes and Digestive and Kidney 252 Computation used the Oxford Biomedical Research Computing (BMRC) facility, a 254 joint development between the Wellcome Centre for Human Genetics and the Big 255 Data Institute supported by Health Data Research UK and the NIHR Oxford 256 Biomedical Research Centre
+ Financial support was provided by the Wellcome 257 Trust Core Award Grant Number /Z//Z
+ The views expressed are 258 those of the author(s) and not necessarily those of the NHS, the NIHR or the 259 Mark McCarthy has served on advisory panels for Pfizer, Novo Nordisk and Zoe 264 Global, has received honoraria from Merck, Pfizer, Novo Nordisk and Eli Lilly, 265 and research funding from Abbvie, Astra Zeneca, Boehringer Ingelheim, Eli Lilly, 266 Janssen, Merck, Novo Nordisk, Pfizer, Roche, Sanofi Aventis, Servier, and Takeda
+ 267 As of June 2019, Mark McCarthy is an employee of Genentech, and a holder of 268 Roche stock
+ Anubha Mahajan is an employee of Genentech since January 2020, 269 Jamie Inshaw is an employee of Exploristics since June 
+ 271 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted January 25, 
+ ;    John Todd serves on the advisory board of GSK
+  272 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted January 25, 
+ ;    JRJI carried out the type 1 diabetes meta-analysis and the colocalisation analyses, 274 AM carried out the type 2 diabetes meta-analysis and conditional analyses, 276 revised the article for intellectual content and approved the final version
+   277 CS and FC were involved in data collection in the Sardinia collection and carried 278 out the association testing in this collection, revised the article for intellectual 279 DC provided statistical advice and input, and made contributions to 281 interpretation of the data, revised the article for intellectual content and 282 MIS provided biological insight, contributed towards interpretation of the data, 284 revised the article for intellectual content and approved the final version
+  285 MM and JAT oversaw the research, contributed towards the conception, design 286 and data collection, revised the article for intellectual content and approved the 287 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted January 25, 
+ ;    
+ Onengut-Gumuscu, S
+ et al Fine mapping of type 1 diabetes susceptibility 292 loci and evidence for colocalization of causal variants with lymphoid gene 293 
+ Mahajan, A
+ et al Fine-mapping type 2 diabetes loci to single-variant 295 
+ Aylward, A
+, Chiou, J
+, Okino, M
+ -L
+, Kadakia, N
+ & Gaulton, K
+ J
+ Shared 298 genetic risk contributes to type 1 and type 2 diabetes etiology
+ Hum
+ Mol
+ 299 
+ Consortium, T
+ H
+ R
+ A reference panel of 64 , 976 haplotypes for genotype 301 
+ Guo, H
+ et al Integration of disease association and eQTL data using a 303 
+ Wallace, C
+ Eliciting priors and relaxing the single causal variant 306 
+ Hormozdiari, F
+ et al Colocalization of GWAS and eQTL Signals Detects 309 
+ Vujkovic, M
+ et al Discovery of 318 novel loci for type-2 diabetes and 311 
+ Spracklen, C
+ N
+ et al Identification of type 2 diabetes loci in 433 , 540 East 315 
+ Dooley, J
+ et al Genetic predisposition for beta cell fragility underlies type 317 1 and type 2 diabetes
+ Nat
+ Genet
+ 48, 519527 ()
+ 318 
+ Elzirik, D
+ L
+, Pasquali, L
+ & Cnop, M
+ Pancreatic beta-cells in type 1 and 319 type 2 diabetes mellitus: different pathways to failure
+ Nat
+ Rev
+ Endocrinol
+ 320 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted January 25, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted January 25, 
+ ;    

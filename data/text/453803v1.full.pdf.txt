@@ -1,0 +1,284 @@
+Multi-Center Study of Resectable Lung Lesions by Ultra-Deep Sequencing of Targeted Genes in Plasma Cell-Free DNA to Assess Nodule Malignancy and Detect Lung CancersTargeted Genes in Plasma Cell-Free DNA to Assess Nodule Malignancy and Muyun Peng1,#, Yuancai Xie2,#, Xiaohua Li3,#, Youhui Qian4, Xiaonian Tu3, Xumei Yao3, Fangsheng Cheng3, Feiyue Xu3, Deju Kong3, Bing He5, Chaoyu Liu3, Fengjun Cao6, Haoxian Yang7, Jiankui He8, Fenglei Yu1*, 1 Department of Thoracic Surgery, No
+2 Xiangya Hospital, Central South University, Changsha, 410011, 4 Department of Oncology, Shenzhen Second People's Hospital, The First Affiliated Hospital of Shenzhen 5 Department of Clinical Pharmacy, University of Michigan, Ann Arbor, MI, USA 6 Laboratory of Chinese Herbal Pharmacology, Oncology Center, Renmin Hospital, Hubei University of 7 Department of Thoracic Surgery, Sun Yat-sen University Cancer Center; State Key Laboratory of Oncology in South China;  Collaborative Innovation Center for Cancer Medicine
+ Guangzhou, China 8 Department of Biology, South University of Science and Technology of China, Shenzhen, 518055, China BACKGROUND Early detection of lung cancer to allow curative treatment remains challenging
+ Cell-free circulating tumor DNA (ctDNA) analysis may aid in malignancy assessment and early METHODS The multi-center clinical study enrolled 192 patients with operable occupying lung diseases
+ Plasma ctDNA, white blood cell genomic DNA (gDNA) and tumor tissue gDNA of each certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    patient were analyzed by ultra-deep sequencing to an average of 35,000X of the coding regions RESULTS The cohort consists of a quarter of benign lung diseases and three quarters of cancer patients with all histopathology subtypes
+ 64% of the cancer patients is at Stage I
+ Gene mutations detection in tissue gDNA and plasma ctDNA results in a sensitivity of 91% and specificity of %
+ When ctDNA assay was used as the test, the sensitivity was 69% and specificity %
+ As for the lung cancer patients, the assay detected 63%, 83%, 94% and 100%, for Stage I, II, III and IV, respectively
+ In a linear discriminant analysis, combination of ctDNA, patient age and a panel of serum biomarkers boosted the overall sensitivity to 80% at a specificity of %
+ 29 out of the 65 genes harbored mutations in the lung cancer patients with the largest number found in TP53 (30% plasma and 62% tumor tissue samples) and EGFR (20% and 40%, respectively)
+ CONCLUSION Plasma ctDNA was analyzed in lung nodule assessment and early cancer detection Lung cancer is the leading cause of cancer-related deaths, accounting for an estimated 
+6 million deaths each year globally ()
+ The prognosis of lung cancer is dependent on the stage of diagnosis, with 5-year overall survival rate decreasing dramatically from stage IA (85%) to stage IV disease (6%) (2, )
+ This makes it clearly a winning strategy to screen and diagnose lung cancer earlier to Current method for lung cancer screening is low-dose computed tomography (LDCT) ()
+ The National Lung Screening Trial (NLST) demonstrated a 20% reduction in lung cancer mortality for LDCT compared with X ray and a 
+7% all-cause mortality reduction ()
+ However, the imagery technique often results in indeterminate nodules (6) and the false positive results lead to unnecessary invasive diagnostic procedures and increased deaths from avoidable surgeries ()
+  Traditionally, biopsy is used to determine malignancy of lung nodules
+ This approach has significant limitations as being difficult or even impossible
+ Molecular tests using pervasive certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    biofluid samples, so called liquid biopsy, are promising and urgently needed in the thoracic clinic, as demonstrated in thyroid nodules assessment where a number of molecular tests are available ()
+ In pulmonary nodule malignancy assessment, there is also the report of blood proteomics In theory, ctDNA is exquisitely specific for an individual's tumor as by definition somatic mutations are identified by their presence in tumor DNA and absence in matched normal DNA
+ This bypasses the issues related to the false-positivity encountered with other biomarkers, such as protein biomarkers
+ This specific and promising early detection method has garnered tremendous attention for cancer in general and lung in particular (,)
+ The growing interest has drawn attention from international societies such as IASLC that has issued statement regarding liquid biopsy in the management of non-small cell lung cancer (NSCLC) ()
+ Early detection of cancer by blood test was shown possible even with microscopic tumor proceeding radiography ()
+ Most recently, a preliminary analysis of early to mid-stage (stage I-III) lung cancer patients as part of the Circulating Cancer Genome Atlas (CCGA) pan-cancer study In addition to mutation analysis, ctDNA epigenetics has also been evaluated and researched for early cancer detection
+ The studies examined DNA methylation regulation (15) or the hypermethylation of the promoter regions of genes (16) for the potential biomarkers of lung In this study, we report a multi-center clinical trial result on ultra-deep sequencing in patients that undergo surgical resection either benign nodules or with different stages of lung cancer
+  The clinical trial (ClinicalTrialgov NCT03081741) at four Tier A hospitals in China recruited patients with lung occupying diseases to be treated by surgery
+ Patients with benign lung nodules or cancers of Stage I to III planned for surgical resection were eligible for inclusion (Table S)
+ After informed consenting, certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    biological samples (two tubes of 10mL peripheral blood prior to surgery collected in a cell-free DNA (cfDNA) BCT blood collection tube (Streck, Omaha, US) and 10 slides of formalin fixed paraffin embedded (FFPE) tissues from surgery), and related clinical data including serum biomarkers were collected
+  The above collected DNA samples were analyzed by our proprietary Sec-Seq technique as described previously ()
+ Briefly, blood sample were processed to separate the plasma from blood cells by centrifugation
+ cfDNA, gDNA of WBC and FFPE were extracted using QIAamp Circulating Nucleic Aid Kit, DNA mini kit, DNA FFPE Tissue kit, respectively (Qiagen, Hilden, Germany)
+ The concentration of extracted DNA was measured using Qubit 
+0 dsDNA high-sensitivity assay (Life Technologies, Carlsbad, CA)
+  Capture probes were designed for 65 cancer-associated genes covering 241kb genomic regions (Table S2) and synthesized by IDT (MI, USA)
+ Indexed libraries were constructed using KAPA HyperPlus Kit (KK)
+ Barcoding was employed to reduce noise
+ Post-capture multiplexed libraries were amplified with Illumina backbone primers for 16 cycles of PCR using 1 KAPA HiFi Hot Start Ready Mix and sequenced on Illumina Horizons Partners Spike-in control (Horizon, Cambridge, UK) was used in a serial dilution (from 
+0005 to 1) using the wild-type reference genome and the provided reference standard
+ Reference variants include EGFR (L858R, T790M), KRAS (G12D), NRAS (Q61K, A59T) and PIK3CA (E545K), or NA12878 (12 mutations) Reads with quality score <30 or havinh > 5% of positions differ from the rest of the reads targeting the same region were removed
+ The results were then mapped to the human reference genome (hg19) using BWA (v
+ 
+ -r)
+ We used the start mapping positions, the length and the dual barcode on both side of merged paired-end fragments to form reads groups amplified from every primary cfDNA molecules and Variant calling for single nucleotide variation (SNV) or insertion/deletion (INDEL) was performed using samtools mpileup tool (v
+ 
+ )
+ For ctDNA samples, a variant was selected as a candidate somatic mutation when (1) two distinct paired reads (each redundantly sequenced at least three times) contained the mutation, (2) effective reads depth >500 (captured primary cfDNA molecules > 500) and (3) the certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    The variants were called by SnpEff (v
+3o), and annotated by COSMIC (v85), ExAc, ClinVar, and 1000 Genome
+ The following variants were eliminated: (1) intergenomic or intronic (except for splicing junction); (2) synonymous; (3) variant allele frequency (VAF) <
+2% in ctDNA or <1% in FFPE samples
+ Previously reported and confirmed pathogenic mutations in the clinical samples of lung cancer of all human races Data were summarized using descriptive statistics
+ Fishers exact test was used to compare any two subgroups
+ Wilcoxon rank sum test was used to compare median age between any two subgroups (Stage Linear discriminant analysis (LDA) was performed on improving mutation analysis
+ The model considers the age of the patients, ctDNA mutations, and the serum biomarkers
+ It was developed using the 10 fold cross validation by dividing the samples into training and validation subsets
+ The test sensitivity and In total, 192 patients with pulmonary space occupying lesions (136 malignant and 56 benign) pathologically diagnosed and surgically treated were included in this analysis
+ These patients were recruited from 4 clinical sites: Xiangya No
+2 Hospital in Changsha, Hunan Province, Beijing University Shenzhen Hospital, Shenzhen, Huizhou Peoples Hospital, Huizhou, and No
+2 Peoples Hospital in Shenzhen, Guangdong Province
+ Though excluded but due to delayed pathological The average age is 
+5 (range 26-79) years and male proportion is %
+ These numbers are 
+1 (26-73) years and 55% for the benign group, 
+1 (27-79) years and 60% for lung cancer group with a statistically significant difference
+ No difference was found between the two groups for smoke status (32% vs
+ 35%) and family history (7% vs
+ 8%) (Table )
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    For the benign lesions, the most common diseases diagnosed are pneumonia (n=14, 25%), tuberculosis (n=12, 21%), pulmonary fibrosis (n=4, 7%), and necrosis granuloma (n=3, %)
+  Lung cancer distribution was 87, 29, and 17 in Stages I, II and III, respectively
+ The average size of the nodules for lung cancer patients is 
+9 (range 
+5  
+0) cm, and for each subgroup: (1) Stage I: 
+2 (
+5 - 
+0) cm; (2) Stage II: 
+8 (
+0 - 
+0) cm; and (3) Stage III: 
+0 (
+3 - 
+0) cm (Table )
+ The average size of the nodules in the benign group is 
+3 (
+3 - 
+0) cm which is statistically All of the patients are with solitary pulmonary nodules, except for two patients who had two For each patient, three biospecimen samples including plasma ctDNA, WBC and FFPE tumor tissue were sequenced
+ For ctDNA, the average sequencing depth is 35000 with 1350 unique In total, 312 occurrences and 274 unique somatic mutations were found in 29 genes from either plasma ctDNA or tissue DNA in 120 cancer and 5 benign cases
+ No mutations were found in 14 In the benign lesions, 2 out of 56 patients (
+6%) had 4 non-driver gene mutations in ctDNA, and Among the lung cancer patients, 88% (120 out of 136 patients) were found to harbor at least one mutation in ctDNA or tumor tissue
+ When analyzed by stage of cancer, the class, that is whether driver or non-driver mutation, and number of mutations increase as the stage advances (Figure Mutations were found in 9 known lung cancer genes of ALK, BRAF, EGFR, HER2, KRAS, MET, NRAS, PIK3CA, and ROS1 (Fig
+ 2) out of the 12 genes defined as drivers for lung cancer (Ref
+ )
+ The most commonly mutated genes in the lung cancer patients are TP53 (44%) and EGFR (35%) certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    The most commonly occurred mutation is EGFR L858R (found in 24 samples) followed by EGFR exon 19 deletion (in 15 samples)
+ The largest number of mutations was found in a patient who Concordance is defined as at least one gene mutation is the same in both the plasma ctDNA and the FFPE tumor tissue gDNA of a patient
+ When completely no mutations were found in both the blood ctDNA and tissue gDNA, it is also considered as concordant of the two samples
+ Among the 136 malignant cases, the overall concordance rate is %
+ Among the concordant patients, 35 of them share at least one mutation in blood and tissue samples, and 15 of them had no mutations in either the ctDNA or tissue samples
+ Concordance was higher in the driver genes, %
+ The shared mutation rate increases as the stage of the cancer advances: 32%, 78%, 50%, and 67% at Stage I, II, III, and IV, respectively (Figure S)
+ A panel of six serum protein tumor biomarkers was also analyzed which has a sensitivity of 51% with a specificity of 83% (Table )
+ These markers include NSE, CYFRA 21-1, CEA, ProGRP, CA-125, and SCC
+ When the most sensitive marker of CYFRA 21-1 was considered alone, the sensitivity In comparison, the profiling by ctDNA showed a higher sensitivity in detecting lung cancer
+ The sensitivity increases as the stage advances and ctDNA outperform the serum biomarkers in all The mutation profiling classifies the lung nodules from benign to malignant (Figure )
+ The benign samples harbor very little to no mutations
+ The cancer patients have increasing level of mutations both in terms of category and numbers as stage progresses
+ From Stage I to IV, there are more certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    For lung cancer detection, the overall sensitivity of plasma ctDNA was 68% at the specificity of %
+ Slightly higher detection rate was observed in tissue DNA which reached 78% (Table )
+ According to cancer stages, the sensitivity rate is 60%, 69%, 94%, and 100% for Stage I, II, III, and We further conducted a linear discriminant analysis where patient age, smoking status, and serum protein markers were considered (Figure S)
+ The combined model of ctDNA mutations and serum biomarkers improved the sensitivity and specificity to 80% and 99% respectively Lung cancer screening recommended by the guidelines targets populations at high risk of developing lung cancer, such as patients aged above 55 years, heavy smokers and having chronic obstructive pulmonary disease (COPD) and with family history of lung cancer
+ In general, by definition of 50  500 mm3 (19), screening by imagery techniques could result in about 30-40% indeterminate nodules that need to be further evaluated
+ In our cohort, we have >60% nodules in this size range making it an urgent need for malignancy assessment
+ Our patient population drawn from major hospitals in southern and central China has a median age of 
+5 years, just above the threshold for lung cancer screening
+ The clinical outcome confirmed the age as a risk factor for lung cancer: the median age of the patients with benign nodules (
+1 years) was about ten years younger than those having lung cancer (median age of Smoking status and family history were not significantly different between the benign and the malignant cases in our cohort
+ One possible explanation could be that the impact of smoking should be considered more broadly than tabaco smoking alone
+ For example, the time spent on Chinese style cooking could be a potential risk
+ Unfortunately, no such data were collected
+ As a proxy, however, the gender distribution difference could be explored since female usually spends certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    more time in the kitchen
+ While we have more male patients in the cancer group (about 60%), the opposite is true for the benign group which has less (about %)
+  It is reported that tumor burden of lung cancer corresponds to its size ()
+ Our data confirms that the size of the nodule relates to malignancy and progression
+ The average tumor size increases from 22mm in Stage I to 38mm in Stage II and to 50mm in Stage III (Table )
+ However, there is no significant difference between a benign nodule and that of the Stage I cancer (Table The concordance rate between tissue and corresponding plasma ctDNA also reflects the challenge of early cancer liquid biopsy
+ Our study is heavy in Stage I patients (64%, Table 2) which has a rate of 32% and causes the overall rate of %
+ The rate increases as stage advances  up to the highest of 78% and the average of Stage I-III is %
+ In CCGA, a set of 73 early to mid-stage (stage I-III) lung cancer samples showed a similar rate of 59% (CI = 47-70%) ()
+ In another very small study of 31 paired lung cancer tissues and plasma DNA samples with 10,000-fold ctDNA sequencing depth, the concordance of mutation between tumor tissue DNA and ctDNA was merely 
+9% ()
+ Ours is more like CCGA in that we both sequenced ctDNA to the depth >,X
+ Another meta-analysis has also put the pooled sensitivity in the range of 60%s ()
+ The gene mutations shared between the plasma ctDNA and the FFPE tumor tissue increase as the lung cancer stage advances
+ This is in alignment with the previous report that Stage IV tumor has the highest concordance (23), as well as that as the tumor is getting larger, the amount of DNA fragments it sheds into the blood stream will increase (,)
+  Although somatic mutations showed strong feasibility of detecting malignancy and staging the cancer by plasma ctDNA, there more factors to be considered
+ Therefore, combining clinical and genomic features improved the test performance as shown by our LDA modeling (Table )
+ Integrated classifiers have also been explored in terms of plasma protein biomarkers such as the Liquid biopsy starts moving into cancer clinics in therapy selection (26, reviewed in )
+ For early detection of lung cancer, one study involving 60 NSCLC patients, 40 COPD patients and 40 healthy controls showed that serum cfDNA concentrations and integrity may be valuable ()
+ Another certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    study identified 17 miRNA species in the exosomes of the blood that are differentially expressed in cancer (both NSCLC and SCLC) and controls ()
+ The potential use of ctDNA for early detection There are, however, a number of limitation and challenges
+ First of all, the sample sizes of the early detection studies are usually small especially the number of healthy controls
+ Second, ctDNA amount correlates with cancer stage ()
+ Therefore, the consensus is that ultra-deep sequencing of 40,000X is required to detect the low frequency mutations in the 10mL blood
+ Finally, the less than expected driver mutation concordance between ctDNA and tumor DNA may reflect genetic heterogeneity and indicate tumor evolution (32) suggesting that other types of Some biomarkers for lung cancer in blood can be present in patients without identifiable radiological nodules and thus precede the apparition of these nodules
+ We are continuing with long term follow-up to study these biomarkers
+ We also continue working on technical MP, YX, YQ, FC, HY, FY, GT participated in patient recruitment; FC, CL, CX participated in clinical trial and patient sample management; XL, XY, FX participated in genomic sequencing; XT, DK, BH, JH, CX participated in bioinformatics data analysis; and CX, XL, FY, GT participated in manuscript writing and This work was supported by Innovation Fund of Shenzhen China (Grant No: Research Program of Shenzhen China (Grant No: JSGG20160428090301587 and Grant No: certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    2016YFA0501604); the Young Scientist Innovation Team Project of Hubei Colleges (Grant No: T201510); the Key Project of Health and Family Planning Commission of Hubei Province (Grant No: WJ2017Z023), Science technology and innovation committee of Shenzhen for research The authors would like to thank the nurses in the Department of Thoracic Surgery, No
+2 Xiangya Shenzhen Second People's Hospital, Oncology Center and Department of Thoracic Surgery, Sun Yat-sen University Cancer Center for their work in enrolling the patients, collecting biospecimen samples, and related clinical data
+ We would like to thank the laboratory staff at Vienomics for processing the samples and conducting the sequencing procedures
+ Finally but not the least, we would like to express our highest appreciation of the participation and contribution of our 
+ Ferlay J, Soerjomataram I, Dikshit R, et al Cancer incidence and mortality worldwide: sources, methods and major patterns in GLOBOCAN 
+ Int J Cancer ;:E-
+ 
+ Goldstraw P, Chansky K, Crowley J, et al The IASLC Lung Cancer Staging Project: Proposals for Revision of the TNM Stage Groupings in the Forthcoming (Eighth) Edition of the TNM 
+ Henschke CI, Yankelevitz DF, Libby DM, et al Survival of patients with stage I lung cancer certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    
+ Patz EF, Goodman PC, Bepler G
+ Screening for lung cancer
+ N Engl J Med ;:-
+ 
+ National Lung Screening Trial Research Team, Aberle DR, Adams AM, et al Reduced lung-cancer mortality with low-dose computed tomographic screening
+ N Engl J Med ;:-
+ Kakinuma, R
+ et al Evaluation of the 95% limits of agreement of the volumes of 5-year clinically stable solid nodules for the development of a follow-up system for indeterminate solid 
+ Tammemagi MC, Katki HA, Hocking WG, et al Selection criteria for lung-cancer screening
+ N 
+ Nicholson KJ, Yip L
+ An update on the status of molecular testing for the indeterminate thyroid nodule and risk stratification of differentiated thyroid cancer
+ Curr Opin Oncol
+ 2018 
+ Silvestri GA, Tanner NT, Kearney P, et al for PANOPTIC Trial Team
+ Assessment of Plasma Proteomics Biomarker's Ability to Distinguish Benign From Malignant Lung Nodules: Results of 
+ Matikas A, Syrigos KN, Agelaki S
+ Circulating Biomarkers in Non-Small-Cell Lung Cancer: 
+ Levy B, Hu ZI, Cordova KN, et al Clinical Utility of Liquid Diagnostic Platforms in Non-Small 
+ Rolfo C, Mack PC, Scagliotti GV, et al IASLC Statement Paper: Liquid Biopsy for Advanced Non-Small Cell Lung Cancer (NSCLC)
+ J Thorac Oncol
+ 2018 Jun 
+ pii: S-()-
+ 
+ Abbosh C, Birkbak NJ, Wilson GA, et al Phylogenetic ctDNA analysis depicts early-stage lung 
+ Klein EA, Hubbell E, Maddala T, et al Development of a comprehensive cell-free DNA (cfDNA) assay for early detection of multiple tumor types: The Circulating Cell-free Genome Atlas (CCGA) study
+ Abstract#
+ ASCO Conference
+ June 4, 
+ Chicago, IL, USA
+ 
+ Greenberg AK, Rimal B, Felner K, et al S-adenosylmethionine as a biomarker for the early 
+ Ostrow KL, Hoque MO, Loyo M, et al Molecular analysis of plasma DNA for the early detection of lung cancer by quantitative methylation-specific PCR
+ Clin Cancer Res
+ 2010 Jul 
+ Xia L, Li Z, Zhou B, et al Statistical analysis of mutant allele frequency level of circulating cell-free DNA and blood cells in healthy individuals
+ Sci Rep
+ 2017 Aug ;():
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    
+ Lovly, C
+, L
+ Horn, W
+ Pao
+ 
+ Molecular Profiling of Lung Cancer
+ My Cancer Genome 
+ Kakinuma R, Muramatsu Y, Yamamichi J, Gomi S, Oubel E, Moriyama N
+ Evaluation of the 95% limits of agreement of the volumes of 5-year clinically stable solid nodules for the development of a follow-up system for indeterminate solid nodules in CT lung cancer screening
+ 
+ Jahr S Hentze H Englisch S, etal: DNA fragments in the blood plasma of cancer patients: Quantitations and evidence for their origin from apoptotic and necrotic cells Cancer Res 
+ Ye M, Li S, Huang W, et al Comprehensive targeted super-deep next generation sequencing enhances differential diagnosis of solitary pulmonary nodules
+ J Thorac Dis
+ 2018 Apr;10(Suppl 
+ Luo J, Shen L, Zheng D
+ Diagnostic value of circulating free DNA for the detection of EGFR mutation status in NSCLC: A systematic review and meta-analysis
+ Sci Rep ;:
+ 
+ Douillard JY, Ostoros G, CoboMet al Gefitinib treatment in EGFR mutated Caucasian NSCLC: Circulating-free tumor DNA as a surrogate for determination of EGFR status
+ J Thorac Oncol 
+ Diehl F Schmidt K Choti MA, et al: Circulating mutant DNA to assess tumor dynamics Nat 
+ Guida F, Sun N, Bantis LE, et al for Integrative Analysis of Lung Cancer Etiology and Risk (INTEGRAL) Consortium for Early Detection of Lung Cancer
+ Assessment of Lung Cancer Risk on the Basis of a Biomarker Panel of Circulating Proteins
+ JAMA Oncol
+ 2018 Jul :e
+ doi: 
+ Cabanero M, Tsao MS
+ Circulating tumour DNA in EGFR-mutant non-small-cell lung cancer
+ 
+ Hu Y, Alden RS, Odegaard JI, et al Discrimination of Germline EGFR T790M Mutations in Plasma Cell-Free DNA Allows Study of Prevalence Across 31,414 Cancer Patients
+ Clin Cancer 
+ Soliman SE, Alhanafy AM, Habib MSE, et al Serum circulating cell free DNA as potential diagnostic and prognostic biomarker in non small cell lung cancer
+ Biochem Biophys Rep
+ 2018 29, Poroyko V, Mirzapoiazova T, Nam A, et al Exosomal miRNAs species in the blood of small cell and non-small cell lung cancer patients
+ Oncotarget
+ 2018 Apr ;():-
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    
+ Leary RJ Sausen M Kinde I, et al: Detection of chromosomal alterations in the circulation of 
+ Schwarzenbach H Mller V Milde-Langosch K, etal: Evaluation of cell-free tumour DNA and RNA in patients with breast cancer and benign breast disease Mol Biosyst 7:28482854,2011 
+ Diehl F, Li M, Dressman D, etal: Detection and quantification of mutations in the plasma of patients with colorectal tumors Proc Natl Acad Sci U S A 102:1636816373,2005 
+ Pezzuto A, Manicone M, Scaini MC, Ricci A, Mariotta S, Zamarchi R, Rossi E
+ What information could the main actors of liquid biopsy provide? -a representative case of non-small certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    Figure 
+ Lung Cancer Gene Mutation Burden in Benign and Various Stages of Patients Notes: Mutation types: C
+ No mutation found; C
+ 1 non-driver mutation found; C
+ 1 driver mutation found; C
+ Both driver mutation and non-driver 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% %certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    Figure 
+ Lung Cancer Detection Rate by ctDNA, Serum Biomarkers and LDA Model per Stages certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted October 26, 
+ ;    

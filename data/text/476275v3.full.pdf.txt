@@ -1,0 +1,1195 @@
+Long-Term Effects of a Novel Continuous Remote Care Intervention Including Nutritional Ketosis for the Management of Type 2 Diabetes: A 2-year Non-randomized Clinical TrialNutritional Ketosis for the Management of Type 2 Diabetes: A 2-year Non-randomized Shaminie J
+ Athinarayanan1, Rebecca N
+ Adams1, Sarah J
+ Hallberg1,2, Amy L
+ McKenzie1, Nasir H
+ Bhanpuri1, Wayne W
+ Campbell3, Jeff S
+ Volek1,4, Stephen D
+ Phinney1, James P
+ McCarter1,5 1 Virta Health, 501 Folsom Street, San Francisco, CA 94105, USA 3 Department of Nutrition Science, Purdue University, West Lafayette, IN, USA 4 Department of Human Sciences, The Ohio State University, Columbus, OH, USA 5 Department of Genetics, Washington University School of Medicine, St
+ Louis, MO, USA DATA SHARING: The complete data and statistical codes are available upon reasonable request
+ not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    Conflicts of Interests: SJA, RNA, SJH, ALM, NHB, SDP and JPM are employed by Virta Health Corp and were offered stock options
+ SDP and JSV are founders of Virta Health Corp
+ WWC has no conflict Author contributions: S
+ J
+A, R
+ N
+A, and J
+ P
+M drafted the manuscript
+ S
+ J
+A, R
+ N
+A, A
+ L
+M, N
+ H
+B, and S
+ J
+H participated in data acquisition and compiling
+ R
+ N
+A and S
+ J
+A analyzed the data
+ J
+ P
+M, A
+ L
+M, N
+ H
+B, W
+ W
+C, R
+ N
+A, S
+ J
+A, S
+ J
+H, S
+ D
+P and J
+ S
+V edited the manuscript
+ All authors Abbreviations: CCI, continuous care intervention; UC, usual care; T2D, type 2 diabetes; HbA1c, hemoglobin A1c; CVD, cardiovascular disease; VLCD, very low calorie diet; BMI, body mass index; BHB, beta-hydroxybutryrate; BMD, bone mineral density; CAF, central abdominal fat; A/G, android:gynoid ratio; LELM, lower extremities lean mass; HDL, high density lipoprotein; LDL, low density lipoprotein; ALT, nonalcoholic fatty liver disease; NLF, NAFLD liver fat score; NFS, NAFLD fibrosis score; TSH, thyroid stimulating hormone; BUN, blood urea nitrogen; eGFR, estimated glomerular filtration rate; hsCRP, high sensitive C-reactive protein; WBC, white blood cells; HOMA-IR, Homeostatic Model Assessment of inhibitors; GLP-1, glucagon-like-peptide 1 receptor agonists; FFM, fat-free mass; VAT, visceral adipose tissue; GLM, generalized linear model; LMM, linear mixed-effect model; ADA, American Diabetes Association; CLIA, Clinical Laboratory Improvement Amendments; IRB, Institutional Review Board; DXA, not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    OBJECTIVE: Studies on long-term sustainability of low-carbohydrate approaches to treat diabetes are limited
+ We aim to assess the effects of a continuous care intervention (CCI) on retention, glycemic control, weight, body composition, cardiovascular, liver, kidney, thyroid, inflammatory markers, diabetes medication usage and disease outcomes at 2 years in adults with type 2 diabetes (TD)
+ RESEARCH DESIGN AND METHODS: An open label, non-randomized, controlled study with 262 and 87 participants with T2D were enrolled in the CCI and usual care (UC) groups, respectively
+  RESULTS: Significant changes from baseline to 2 years in the CCI group included: HbA1c (-12% from 
+ 
+1%); fasting glucose (-18% from 
+ 
+90 mg/dL); fasting insulin (-42% from 
+ 
+26 pmol L-1); weight (-10% from 
+ 
+60 kg); systolic blood pressure (-4% from 
+ 
+9 mmHg); diastolic blood pressure (-4% from 
+ 
+5 mmHg); triglycerides (-22% from 
+ 
+1 mg/dL); HDL-C (+19% from 
+ 
+9 mg/dL), and liver alanine transaminase (-21% from 
+ 
+97 U/L)
+ Spine bone mineral density in the CCI group was unchanged
+ Glycemic control medication use (excluding metformin) among CCI participants declined (from 
+9% to 
+8%, P=
+3x10-11) including prescribed insulin (-62%) and sulfonylureas (-%)
+ The UC group had no significant changes in these parameters (except uric acid and anion gap) or diabetes medication use
+ There was also significant resolution of diabetes (reversal, 
+5%; remission, 
+6%) in the CCI group but not in UC
+ All the reported CONCLUSIONS: The CCI sustained long-term beneficial effects on multiple clinical markers of diabetes and cardiometabolic health at 2 years while utilizing less medication
+ The intervention was also effective in the resolution of diabetes and visceral obesity, with no adverse effect on bone health
+ not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    Type 2 diabetes (T2D), obesity, and metabolic disease impact over one billion people and present a challenge to public health and economic growth(,S)
+ In the United States, over 30 million people have diabetes and it is a leading cause of morbidity and mortality, especially through increased cardiovascular disease (CVD)()
+ The remission rate under usual care is 
+5 - 2%(3) while intensive lifestyle intervention resulted in remission rates (both partial and complete) of 
+5% and 
+2% at 1 and 2 years()
+ When lifestyle intervention is insufficient, medications are indicated to manage the disease When T2D care directed at disease reversal is successful, this includes achievement of restored metabolic health, glycemic control with reduced dependence on medication, and in some cases disease remission
+ Three non-pharmaceutical approaches have demonstrated high rates of at least temporary T2D diabetes reversal or remission: bariatric surgery, very low calorie diets (VLCD), and nutritional ketosis achieved through carbohydrate restriction(,,)
+ In controlled clinical trials, each approach has demonstrated improved glycemic control and CVD risk factors, reduced pharmaceutical dependence, and weight loss
+ The three approaches show a similar time-course with glycemic control preceding weight With bariatric surgery, up to 60% of patients demonstrate T2D remission at 1 year()
+ Outcomes at two years and beyond indicate ~50% of patients can achieve ongoing diabetes remission(,S)
+ The second Diabetes Surgery Summit recommended using bariatric surgery to treat T2D with support from worldwide medical and scientific societies(10), but both complications and cost limit its widespread use(,S)
+ VLCDs providing <900 kcal/day allow rapid discontinuation of most medications, improved glycemic control, and weight loss
+ This approach is necessarily temporary, however, with weight regain and impaired glucose control typically occurring within 3-6 months of reintroduction of substantial A third approach to diabetes reversal is sustained dietary carbohydrate restriction
+ Low-carbohydrate diets have consistently elicited improvements in T2D, metabolic disease, and obesity up to not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    one year(13,S41); however, longer-term studies and studies including patients prescribed insulin are limited
+  A low carbohydrate Mediterranean diet caused remission in 
+7% of newly diagnosed diabetes patients at 1 year versus 
+1% with a low-fat diet (14), and a small randomized trial utilizing a ketogenic diet demonstrated improved weight and diabetes control at one year ()
+ Systematic reviews also corroborate the effectiveness of a low-carbohydrate diet for T2D(16,S42) and it has recently become a restriction
+ Given that total LDL-P, small LDL-P, and ApoB tend to improve or remain unchanged, the impact of an isolated increase in LDL-C on CVD risk in the context of this dietary pattern is unknown
+   We have previously reported 1 year outcomes of an open-label, non-randomized, controlled, longitudinal study with 262 continuous care intervention (CCI) and 87 usual care (UC) participants with TD()
+ The CCI included telemedicine, health coaching, and guidance in nutritional ketosis using an individualized whole foods diet
+ Eighty-three percent of CCI participants remained enrolled 1 year and 60% of completers achieved an HbA1c <
+5% while prescribed metformin or no diabetes medication
+ Weight was reduced and most CVD risk factors improved()
+ Here we report the results of this study at 2 years
+ The primary aims were to investigate the effect of the CCI on retention, glycemic control, and weight
+ Secondary aims included: (1) investigating the effect of the CCI on bone mineral density, visceral fat composition, cardiovascular risk factors, liver, kidney, thyroid and inflammatory markers; diabetes medication use, and disease outcomes (e
+ g
+ diabetes remission, metabolic syndrome); and (2) The comprehensive study design has been published previously (7,25), and the results presented here are the follow-up 2-year results (Clinical trials
+gov identifier: NCT)
+ This is an open-label, non-randomized, outpatient study and results presented here include data collected between August, 2015 and May, 
+ Participants aged 21 to 65 years with a confirmed diagnosis of T2D and a body not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    mass index (BMI) > 25 kg/m
+ Participants in the CCI accessed a remote care team consisting of a health coach and medical provider and reported routine biomarkers (weight, blood glucose and beta-hydroxybutyrate [BHB]) through a web-based application (app)
+ Participants self-selected between two different CCI educational modes: on-site (n=136, CCI-onsite) or web-based (n=126, CCI-virtual)
+ We also recruited another cohort of participants with T2D (n=87) who were categorized as usual care (UC)
+ Exclusion criteria have been published previously (,)
+  A brief description of the study participants and interventions (CCI and UC) are listed in the supplementary data (Methods section)
+ All study participants provided written informed consent and the study was approved by the Franciscan Health The primary outcomes were retention, HbA1c, HOMA-IR-insulin and c-peptide derived (scores, equations in supplemental material A), fasting glucose, fasting insulin, c-peptide and weight
+ Long-term body composition changes assessed in CCI participants included bone mineral density (BMD), abdominal fat content (CAF and A/G ratio), and lower extremities lean mss (LELM)
+ Body composition was not assessed in UC participants
+ Cardiovascular-, liver-, kidney-, thyroid-related and inflammatory markers were analyzed (Table 1 and Supplementary Table )
+ Changes in overall diabetes medication use, use by class, and insulin dose were tracked over the two years of the trial The prevalence of T2D (diabetes reversal, partial and complete remission), metabolic syndrome, suspected steatosis and absence of fibrosis were evaluated at 2 years in the CCI and UC groups using the criteria provided in Supplementary Table 2 (assignment references listed in the supplementary)
+ Assignment of metabolic syndrome was based on the presence of three of the five defined criteria according to measured laboratory and anthropometric variables; pharmacological treatment for any of not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    Adverse events encountered in the study were reported to the Principal Investigator and reviewed Clinical anthropometrics and laboratory blood analytes measurements were obtained at baseline, 1 year, and 2 years from the CCI and UC participants
+ Details of the methods were previously published(,)
+ All blood analytes were measured at a Clinical Laboratory Improvement Amendments (CLIA) certified laboratory
+ The CCI participants were also assessed for total body composition changes at baseline, 1 and 2 years using dual X-ray absorptiometry (DXA) (Lunar GE Prodigy, Madison, WI) and analyzed using GE Encore software(v
+10, Madison, WI)
+ The details of the DXA procedure and All analyses were conducted using SPSS statistical software (Version 
+0, Armonk, NY)
+ A detailed description of the statistical method is included in the supplementary data (Methods section)
+ Briefly, we conducted intent-to-treat analyses to assess study outcomes
+ For continuous study outcomes, linear mixed-effects (LMM) models were used to assess within-group changes from baseline to 2 years and between-group differences at 2 years
+ For dichotomous disease outcomes, generalized estimating equation models were used
+ Changes in diabetes medication use and insulin dosage from baseline to 2 years were assessed using McNemars tests with continuity correction when appropriate and paired t-tests
+ Available data only was used to assess changes in medication use, which was routinely adjusted as part of the intervention protocol
+  Data from the two CCI educational groups were combined because no group differences were found, as in our prior time points(,S)
+ Completers-only analyses were also conducted for all outcomes and results appear in the supplementary material For all study analyses, nominal significance levels (P) are presented in the tables
+ A significance level of P<
+0012 ensures overall simultaneous significance of P<
+05 over the 43 variables using Bonferroni correction
+  not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    Table 1 presents baseline characteristics of the 262 CCI and 87 UC participants
+ Participants did not differ between groups in demographic characteristics, except the proportion of African Americans was higher in the CCI group
+ Baseline characteristics were well-matched between the groups, except for mean weight and BMI, which were higher in the CCI group
+ There were no significant differences between  One hundred ninety four participants (of 262; 74%) remained enrolled in the CCI at 2 years (Figure 1), as did 78% of the UC group participants (68 of )
+ CCI participant-reported reasons for dropout included: intervening life events (e
+ g
+ family emergencies), difficulty attending or completing laboratory and clinic visits associated with the trial, and insufficient motivation for participation in the intervention
+ At both 1 and 2 years, laboratory measured blood BHB was 
+3  
+0 mmol L-1, about 
+5 fold higher than the baseline value (
+2  
+0 mmol L-)
+ The mean laboratory BHB level was stable from 1 to 2 years, and 
+5% (n=161) of participants reported a blood BHB measurement 
+5mmol L-1 in the app at least once All adjusted within and between group changes in study outcomes for the CCI and UC groups appear in From baseline to  2 years (Table 2), significant reductions in HbA1c (
+9% unit decrease, -12% relative to baseline, P=
+8x10-17; Figure 2A), C-peptide (-27%, P=
+2x10-16), fasting glucose (-18%, exogenous insulin users (-42%, P=
+7x10-13), and C-peptide-derived HOMA-IR (-30%, P=
+1x10-15) were observed in the CCI group, whereas no changes occurred in the UC group (Supplementary Figures 1A and 1B) (Table )
+ There were also significant between-group (CCI vs
+ UC) differences observed at 2 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    years in HbA1c, fasting glucose, fasting insulin, insulin-derived HOMA-IR excluding exogenous users, and C-peptide-derived HOMA-IR, with the CCI group having lower glycemic marker means (Table )
+  At 2 years, mean weight change from baseline was -10% (P=
+8x10-28; Figure 2C) in the CCI group, whereas no change was observed in the UC group (Supplementary Figure C)
+ Among CCI patients, 74% had  5% weight loss compared to only 14% of UC patients (Supplementary Figure 2; completers analysis)
+ Consistent with the weight loss observed, the CCI group had reductions in abdominal fat content, with decreases in CAF (-15%, P=
+6x10-21, Figure 2D) and the A/G ratio (-6%, P=
+7x10-8) from baseline to 2 years (Table )
+ The CCI groups total spine BMD remained unchanged from baseline to 2 years after correction for multiple comparisons (Table )
+ The changes in the average LELM in the CCI are included in the Table 2, and further elaborated in the supplementary data Decreases in systolic (-4%, P= 
+4x10-6, Figure 2E) and diastolic (-4%, P= 
+3x10-5, Figure 2F) blood pressures and triglycerides (-22%, P=
+2x10-9) were observed in the CCI but not UC group at 2 years (Table 2, Supplementary Figures 3A and B)
+ The CCI groups HDL-cholesterol (+19%, P= 
+x-16) and LDL-cholesterol (+11%, P=
+1x10-4) both increased from baseline to two years, whereas no changes were observed in the UC group (Table )
+ No changes in total cholesterol were observed in either the CCI or UC group
+ At 2 years, the CCI group had higher HDL-cholesterol, higher LDL-cholesterol, and lower triglycerides than UC
+ No between-group differences were observed at 2 years for From baseline to 2 years, the CCI groups ALT (-21%, P=
+0x10-10; Table 2, Figure 2G), AST (-12%, P=
+1x10-5), ALP (-13%, P=
+8x10-14), NLF (-78%, P=
+9x10-25) and NFS (-60%, P=
+3x10-9) were reduced, whereas no changes were observed in UC (e
+ g
+ ALT; Supplementary Figure 3C; Table )
+  No bonferroni-corrected group differences were observed for bilirubin,ALT, nor AST at 2 years (Table )
+  not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    The eGFR increased in the CCI (+3%, P=
+6x10-4, Table 2) but not UC group at 2 years
+ The UC but not CCI group had increased anion gap and decreased uric acid (Table )
+ No bonferroni-corrected within-group changes in BUN, serum creatinine, TSH, or Free T4 were observed in either the CCI or UC group from baseline to 2 years
+ No between-group differences were observed for any thyroid- or kidney- From baseline to 2 years, decreases in the CCI groups hsCRP (-37%, P=
+9x10-13, Table 2, Figure 2H) and white blood cell count (-7%, P=
+3x10-5) were observed
+ No changes were observed in the UC group (Supplementary Figure D)
+ At 2 years, both markers of inflammation were lower in the All within-group changes in diabetes medication use among study completers appear in eTable 3 (ns are listed in the table)
+ The proportion of CCI completers taking any diabetes medication (excluding metformin) decreased from 
+7% at baseline to 
+8% at 2 years (P=
+3x10-11, Figure A)
+ Reductions in the use of diabetes medication classes included insulin (
+8% at baseline to 
+3% at 2 years, P=
+1x10-9) and sulfonylureas (
+7% at baseline and 0% at 2 years, P=
+ x-)
+ At 2 years, no changes in the proportions of CCI completers taking SGLT-2 inhibitors (
+3% to 
+1%, P=
+01), DPP-4 (
+9% to 
+7%, P=
+42), GLP-1 agonists (
+4% to 
+8%, P=
+42), thiazolidinediones (
+5% to 
+6%, P=
+73), or metformin (
+4% to 
+9%, P=
+05) were observed after correction for multiple comparisons
+ No changes in use of any diabetes medication (excluding metformin) or individual diabetes medication classes were observed in the UC completers from baseline to 2 years
+  The mean dose for insulin-using participants at baseline decreased among CCI participants by 81% (P= 
+6x10-12) at 2 years, but not in UC participants (+13%, P=
+45) (see Figure B)
+ For participants who remained insulin-users at 2 years, the mean dose also decreased in the CCI group by 61% (P=
+2x10-5) but not UC group (+19%, P=
+ )
+ Among participants prescribed each diabetes medication class, the proportion with each dosage change not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    (eliminated, reduced, unchanged, increased, or newly added) at 2 years in each group appears in Figure All within-group changes and between-group differences in disease outcomes among the CCI and UC group participants appear in supplementary Table 4 (intent-to-treat analyses were conducted; all below n=)
+ The proportion of participants meeting the defined criteria for diabetes reversal at 2 years increased 
+4% (from 
+1% at baseline to 
+5% at 2 years, P<
+0x10-36) in the CCI group, whereas no Bonferroni-corrected change was observed in the UC group (
+1% absolute decrease, P=
+ )
+ In addition, diabetes remission (partial or complete) was observed in 46 (
+6%) participants in the CCI group and two (
+4%) of the UC participants at 2 years
+ Complete remission was observed in 17 (
+7%) CCI participants and none (0%) of the UC participants at 2 years
+  At 2 years, 
+2% of CCI participants and 
+5% of UC patients showed resolution of metabolic syndrome
+ The proportion of participants with metabolic syndrome decreased from baseline to 2 years in the CCI (from 
+1% to 
+9%, P= 
+9x10-15) but not UC group
+ The two years improvements of suspected steatosis and fibrosis status are included in the supplementary Tables 4 and 
+  In the CCI group, there were no reported serious adverse events between one and two years attributed to the intervention or that resulted in discontinuation, including no reported episodes of ketoacidosis or severe hypoglycemia requiring assistance
+ Adverse events occurring in the first year of intervention (n=6) were previously reported[]
+ Details of the adverse events are included in the not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;     Following 2 years of a remote continuous care intervention supporting medical and lifestyle changes, the CCI participants demonstrated improved HbA1c, fasting glucose and insulin, and HOMA-IR
+  Pharmaceutical interventions of 
+5 to 3 years duration report HbA1c reductions of 
+2 to 
+0% with DPP-4 inhibitors, SGLT-2 inhibitors and GLP-1 agonists(,,S-S)
+ The HbA1c reduction of 
+9% with this CCI is comparable to that observed in pharmaceutical trials, but is achieved while discontinuing 
+0% of diabetes-specific prescriptions including most insulin and all sulfonylureas that engender risks for weight gain and hypoglycemia(,)
+ Comparable improvements in glycemic control and reduced medication were not observed in UC participants recruited from the same healthcare system, suggesting that the CCI improves diabetes management relative to usual care
+ Other interventions using The 
+9% absolute (12% relative) HbA1c reduction observed at 2 years is consistent with low carbohydrate studies reporting HbA1c reductions of 8-15% at 2 to 
+5 years (25,26,S49,S51) with medication reduction
+ Two others studies reported no changes in HbA1c from baseline to 2 years, even though the low carbohydrate arm reduced HbA1c in the first 6 months(,S)
+ This study observed a modest increase in HbA1c and weight between 1 and 2 years in CCI participants suggesting some reduction in long-term effectiveness
+ Interestingly, insulin-levels show no regression toward baseline from 1 to 2 years indicating long-term improvement in hyperinsulinemia, an important component of diabetes Criticisms of low-carbohydrate diets relate to poor adherence and long-term sustainability(,)
+ In this CCI, self-monitoring combined with continuous remote-monitoring and feedback from the care team, including behavioral support and nutrition advice via the app, may have improved accountability and engagement(S)
+ In addition to glucose and weight tracking, dietary adherence was monitored by blood ketones
+ The 2 year BHB increase above baseline demonstrates sustained dietary modification
+ While laboratory BHB levels were increased from baseline, nutritional ketosis (
+5 mM) was observed in only a minority (
+1%) of participants at 2 years
+ On average, patient-measured BHB was 
+5 mM not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    for 
+8% of measurements over the 2 years (eFigure )
+ This reveals an opportunity to increase adherence to nutritional ketosis for patients not achieving their desired health outcomes while prompting future research investigating the association between dietary adherence and health improvements
+   A majority of the CCI participants (
+5%) met criteria for diabetes reversal at 2 years while 
+6% achieved diabetes remission (i
+ e
+ glycemic control without medication use) based on intent-to-treat with multiple imputation
+ The percentage of all CCI enrollees (N=262) with verified reversal and remission requiring both completion of two years of the trial and an obtained laboratory value for HbA1c were 
+8% and 
+9%, respectively
+ CCI diabetes reversal exceeds remission as metformin prescriptions were usually continued given its role in preventing disease progression(7,29), preserving -cell function(29) and in treatment of pre-diabetes per guidelines ()
+ Partial and complete remission rates of 
+4% and 
+2% per year, respectively, have been reported in 122,781 T2D patients receiving standard diabetes care()
+The two-year remission rate (both partial and complete) in the CCI (
+6%) is higher than that achieved through intensive lifestyle intervention (ILI) in the Look AHEAD trial (
+ %)()
+ Greater diabetes remission in the CCI versus Look AHEAD ILI could result from differences in the dietary intervention(14), patients ability to self-select their lifestyle or effectiveness of continuous remote care
+ Length of time with a T2D diagnosis is a factor in remission, with longer time since diagnosis resulting in lower remission(,,,S)
+ Despite a mean of 
+4 years since diagnosis among CCI participants, the remission rate was higher than the Look AHEAD trial where its participants had a median of 5 years(4) since Participants in the CCI achieved 10% mean weight loss (-
+9kg) at 2 years
+ CCI weight loss was comparable to observed weight loss following surgical gastric banding (-
+7kg) at 2 years()
+ Previous studies consistently report that weight loss increases the likelihood of T2D remission(,,)
+ CCI participants also improved blood pressure, triglycerides, and HDL-cholesterol
+ Total cholesterol was unchanged and calculated LDL-cholesterol was increased at 2 years, but was not different from the LDL-cholesterol level observed at one year (+
+51, P=
+ )
+ Despite the rise in LDL-cholesterol, the CCI cohort improved in 22 out of 26 CVD markers at one year()
+ This includes a decrease in small LDL-not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    particles and large VLDL-P and an increase in LDL-particle size with no changes in ApoB(19), a marker considered a better predictor of CVD risk than LDL-cholesterol(,,S)
+ Non-elevated LDL cholesterol values together with higher triglycerides and lower HDL-cholesterol are common in patients with abdominal obesity, T2D, and metabolic syndrome(31,S55,S56); these individuals often still have elevated atherogenic lipoproteins such as non-HDL(32,S57), small LDL particles(31,S58), and VLDL(,S)
+ In the CCI group, non-HDL cholesterol did not change significantly from baseline to 2 years and several cardiovascular risk factors across various physiological systems improved, suggesting that the rise in The CCI group had a reduction in visceral fat content, CAF and A/G ratio
+ This is consistent with other low-carbohydrate interventions reporting visceral fat reduction as a component of weight loss(,,,,S)
+ Anatomical distribution of fat around the abdominal area (android obesity) is associated with T2D(36,S60) and other comorbidities such as metabolic syndrome(37) and NAFLD(,S)
+  The alleviation of visceral fat in the CCI group was concurrent with resolution of metabolic syndrome at 2 years, while sustaining one-year improvements of liver enzymes(7), steatosis and fibrosis (39 in press,S-S)
+ While studies in animal models(40,S68,S69) and children treated with ketogenic diets(41,S70) have suggested retardation in skeletal development and reduction in BMD, in this study of T2D adults the CCI group had no change in total spine BMD over two years
+ Our results are consistent with other adult ketogenic dietary studies that reported no bone mass loss in short-term(34,S71) or long-term follow-up of 2(35,S72) and 5(S73) years
+ The differing findings of ketogenic diet on bone mass between adults and children could be due to differential effects on developed and This studys strengths include its size and prospective, longitudinal data collection from two participant groups (CCI and UC) which allowed statistical analysis by LMMs to investigate intervention time and treatment effects
+ While not randomized, the participants self-selection of intervention may not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    contribute to the observed high retention and predicts real-life clinical management of chronic disease
+ The study also included patients prescribed insulin and with long-standing disease, groups often excluded from prior studies
+ The multi-component aspect of the intervention involving regular biomarker monitoring and access to a a remote care team may have improved the patients long-term dietary adherence and engagement
+ The dietary advice including encouraging participants to restrict carbohydrates, moderate protein intake, and eat to satiety may also help in maintaining long-term effectiveness
+ Weaknesses of this study include the lack of randomization and limited racial diversity
+ Interpretation of DXA body composition was limited to subregion analyses due to to the scanner not At 2 years, the CCI, including remote medical management with instruction in nutritional ketosis, led to improvements in blood glucose, insulin, HbA1c, weight, blood pressure, triglycerides, liver function, and inflammation and reduced dependence upon medication
+ These long-term benefits were achieved concurrent with reduced prevalence of metabolic syndrome and visceral adiposity
+ The CCI had no adverse effect on bone mineral density
+ The CCI group also had higher prevalence of diabetes reversal and remission compared to the UC group following a standard diabetes care program
+ These results provide strong evidence that sustained improvement in diabetes status can be achieved through the continuous remote monitoring and accountability mechanisms provided by this multi-component CCI not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    
+ World Health Organization
+ ()
+ Global report on diabetes
+ World Health Organization
+ 
+ Centers for Disease Control and Prevention
+ National Diabetes Statistics Report, 
+ Atlanta, GA: Centers for Disease Control and Prevention, US
+ Dept of Health and Human Services; 
+ 
+ Karter AJ, Nundy S, Parker MM, Moffet HH, Huang ES
+ Incidence of remission in adults with type 2 diabetes: The diabetes & aging study
+ Diabetes Care 2014; 37: -
+ 
+ Gregg EW, Chen H, Wagenknecht LE, et al Association of an intensive lifestyle intervention with 
+ Sjostrom L, Peltonen M, Jacobson P, et al Association of bariatric surgery with long-term remission of type 2 diabetes and with microvascular and macrovascular complications
+ JAMA 
+ Lean MEJ, Leslie WS, Barnes AC, et al Primary care-led weight management for remission of type 2 diabetes (DiRECT): an open-label, cluster-randomised trial The Lancet 2018; 391: -
+ Hallberg SJ, McKenzie AL, Williams PT, et al Effectiveness and safety of a novel care model for the management of type 2 diabetes at 1 year: an open-label, non-randomized, controlled study
+ 
+ Taylor R
+ Type 2 Diabetes: Etiology and reversibility
+ Diabetes Care 2013: 36: -
+ 
+ Dicker D, Yahalom R, Comaneshter DS, Vinker S
+ Long-term outcomes of three types of bariatric surgery on obesity and type 2 diabetes control and remission
+ Obesity Surg 2016; 26: -
+ 
+ Rubino F, Nathan DM, Eckel RH, et al Metabolic surgery in the treatment algorithm for type 2 diabetes: A joint statement by International Diabetes Organizations
+ Diabetes Care 2016; 39: -not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    
+ Berger ER, Huffman KM, Fraker T, et al Prevalence and risk factors for bariatric surgery readmissions: Findings from 130,007 admissions in the metabolic and bariatric surgery 
+ Snel M, Jonker JT, Hammer S, et al Long-term beneficial effect of a 16-week very low calorie diet on pericardial fat in obese type 2 diabetes mellitus patients
+ Obesity 2012; 20: -
+ 
+ Yamada Y, Uchida J, Izumi H, et al A non-calorie-restricted low-carbohydrate diet is effective as an alternative therapy for patients with type 2 diabetes
+ Intern Med 2014; 53: -
+ 
+ Esposito K, Maiorino MI, Petrizzo M, Bellastella G, Giugliano D
+ The effects of a Mediterranean diet on the need for diabetes drugs and remission of newly diagnosed type 2 diabetes: follow-up 
+ Saslow LR, Daubenmier JJ, Moskowitz JT, et al Twelve-month outcomes of a randomized trial of a moderate-carbohydrate versus very low-carbohydrate diet in overweight adults with type 2 diabetes mellitus or prediabetes
+ Nutrition and Diabetes 2017; 304: doi 
+ /s--
+ Wheeler ML, Dunbar SA, Jaacks LM, et al Macronutrients, food groups, and eating patterns in the management of diabetes: a systematic review of the literature, 
+ Diabetes Care 2012; 35: 
+ Davies MJ, DAlessio DA, Fradkin J, et al Management of hyperglycemia in type 2 diabetes, 
+ A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD)
+ Diabetes Care 2018; 
+ Volek JS, Phinney SD, Forsythe CE, et al Carbohydrate restriction has a more favorable impact on the metabolic syndrome than a low fat diet
+ Lipids 2009; 44: -
+ 
+ Bhanpuri NH, Hallberg SJ, Williams PT, et al Cardiovascular disease risk factor responses to a type 2 diabetes care model including nutritional ketosis induced by sustained carbohydrate not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    restriction at 1 year: an open label, non-randomized, controlled study
+ Cardiovasc Diabetol 2018; 
+ Scirica BM, Bhatt DL, Braunwald E, et al Saxagliptin and cardiovascular outcomes in patients with type 2 diabetes mellitus
+ N Engl J Med 2013; 369: -
+ 
+ Marso SP, Bain SC, Consoli A, et al Semaglutide and cardiovascular outcomes in patients with 
+ Action to Control Cardiovascular Risk in Diabetes Study Group, Gerstein HC, Miller ME, Byington RP, et al Effects of intensive glucose lowering in type 2 diabetes
+ N Engl J Med 2008; 358: -
+ Henry RR, Gumbiner B, Ditzler T, Wallace P, Lyon R, Glauber HS
+ Intensive conventional insulin therapy for type II diabetes
+ Metabolic effects during a 6-mo outpatient trial Diabetes Care 1993; 
+ Guldbrand H, Dizdar B, Bunjaku B, et al In type 2 diabetes, randomisation to advice to follow a low-carbohydrate diet transiently improves glycaemic control compared with advice to follow a low-fat diet producing a similar weight loss
+ Diabetologia 2012; 55: -
+ 
+ Nielsen JV, Joensson EA
+ Low carbohydrate diet in type 2 diabetes: stable improvement of bodyweight and glycemic control during 44 months follow-up
+ Nutr Metab 2008; 5: 14 
+ Tay J, Thompson CH, Luscombe-Marsh ND, et al Effects of an energy-restricted low-carbohydrate, high unsaturated fat/low saturated fat diet versus a high-carbohydrate, low-fat diet in type 2 diabetes: A 2-year randomized clinical trial Diabetes Obes Metab 2018; 20: -
+ 
+ Pories WJ and Dohm GL
+ Diabetes: Have we got it all wrong? Hyperinsulinism as the culprit: 
+ Standards of Medical Care in Diabetes-2018: Summary of Revisions
+ Diabetes Care 2018; 41: not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    
+ Xiang AH, Trigo E, Martinez M, et al Impact of gastric banding versus metformin on -cell function in adults with impaired glucose tolerance or mild type 2 diabetes
+ Diabetes Care 2018; 
+ Sniderman AD, Toth PP, Thanassoulis G, Furberg CD
+ An evidence-based analysis of the National Lipid Association recommendations concerning non-HDL-C and apoB
+ J Clin Lipidol 
+ Welthy FK
+ How do elevated triglycerides and low HDL-cholesterol affect inflammation and 
+ Lu W, Resnick HE, Jablonski KA, et al Non-HDL cholesterol as a predictor of cardiovascular 
+ Creighton BC, Hyde PN, Maresh CM, Kraemer WJ, Phinney SD, Volek JS
+ Paradox of hypercholesterolaemia in highly trained, keto-adapted athletes
+ BMJ Open Sport Exerc Med 
+ Gomez-Arbelaez D, Bellido D, Castro AI, et al Body composition changes after very low-calorie-ketogenic diet in obesity evaluated by three standardized methods
+ J Clin Endocrinol Metab 2016; 
+ Moreno B, Crujeiras AB, Bellido D, Sajoux I, Casanueva FF
+ Obesity treatment by very low-calorie-ketogenic diet at two years: reduction in visceral fat and on the burden of disease
+ 
+ Levelt E, Pavlides M, Banerjee R, et al Ectopic and visceral fat deposition in lean and obese patients with type 2 diabetes
+ J Am Coll Cardiol 2016; 68: -
+ 
+ Shah RV, Murthy VL, Abbasi SA, et al Visceral adiposity and the risk of metabolic syndrome across of body mass index
+ JACC Cardiovasc Imaging 2014; 7: -
+ 
+ Mirza MS
+ Obesity, visceral fat, and NAFLD: Querying the role of adipokines in the progression not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    
+ Vilar-Gomez E, Athinarayanan SJ, Adams RN, et al Post-hoc analyses of surrogate markers of non-alcoholic fatty liver disease (NAFLD) and liver fibrosis in patients with type 2 diabetes in a 
+ Bielohuby M, Matsuura M, Herbach N, et al Short-term exposure to low-carbohydrate, high-fat diets induces low bone mineral density and reduces bone formation in rats
+ J Bone Miner Res
+ 
+ Simm PJ, Bicknell-Royle J, Lawrie J, et al The effect of the ketogenic diet on the developing 
+ Stagi S, Cavalli L, lurato C, Seminara S, Brandi ML, de Martino M
+ Bone metabolism in children and adolescents: main characteristics of the determinants of peak bone mass
+ Clin Cases Miner not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    Note
+ Abbreviations: SD, standard deviation; SE, standard error; CCI, continuous care intervention; UC, usual care; HOMA-IR, homeostatic model assessment of insulin resistance; LDL, low-density lipoprotein; HDL, high-density lipoprotein; ALT, alanine aminotransferase; AST, aspartate aminotransferase; ALP, alkaline phosphatase; NAFLD, nonalcoholic fatty liver disease; BUN, blood urea nitrogen; eGFR, estimated glomerular filtration rates; TSH, thyroid stimulating hormone; SGLT-2,  Sodium glucose co-transporter 2 inhibitor; DPP-4,  Dipeptidyl peptidase-4 inhibitor; GLP-1,  aMeeting diabetes reversal criteria at baseline was defined as HbA1c <
+5% and no use of medication for glycemic control *A significance level of P<
+0012 ensures overall simultaneous significance of P < 
+05 over the 43 variables using not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    Note
+ Ns for continuous care intervention =262 and Ns for usual care=
+ Unless otherwise noted, estimates reported were obtained from linear mixed-effects models which provide adjusted means and mean changes, controlling for baseline age, sex, race, body mass index, and insulin use
+ This maximum likelihood-based approach uses all available repeated data, resulting in an intent-to-treat analysis
+ A significance level of P<
+0012 ensures overall simultaneous significance of P < 
+05 over the 43 variables using Bonferroni correction
+ Abbreviations: SE, standard error; CCI, continuous care intervention; UC, usual care; HOMA-IR, homeostatic model assessment of insulin resistance; LDL, low-density lipoprotein; HDL, high-density lipoprotein; ALT, alanine aminotransferase; AST, aspartate aminotransferase; ALP, alkaline phosphatase; NAFLD, nonalcoholic fatty liver disease; BUN, blood urea nitrogen; eGFR, estimated glomerular filtration rates; TSH, thyroid stimulating hormone
+  aVariable was positively skewed and after removing the top 1% of values, skew and kurtosis values fell within acceptable ranges
+ Analyses were conducted on data excluding the top 1% of values for each variable, although due to the maximum likelihood approach all cases were still included bVariable was positively skewed and a natural log transformation was performed
+ The linear mixed-effects model analysis including covariates was conducted on the transformed variable and significance values provided are from the transformed analysis
+ However, because transformed numbers are difficult to interpret, non-transformed and unadjusted means, mean changes, and standard errors for participants who completed the not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    Figure 
+ Flow chart of participants in each stage of the study from recruitment to 2 years post-enrollment and analysis
+ Figure 
+ Adjusted mean changes from baseline to 2-years in the CCI group for (A) HbA1c, (B) Fasting insulin, (C) Weight, (D) Central Abdominal Fat [CAF], (E) Systolic Blood Pressure, (F) Diastolic Blood Pressure (G) Alanine aminotransferase (ALT), and (H) Figure 
+ Medication and insulin dose changes from baseline to 2 years for CCI and UC group completers
+ (A) Percent of completers taking diabetes medications, excluding metformin
+ (B) Mean + SE prescribed insulin dose among baseline users
+ (C) Frequency of medication dosage and use change among prescribed users by diabetes medication class
+  not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    Briefly, participants in the CCI were provided access to a web-based software application (app), which was used to provide 98 telemedicine communication, online resources and biomarker tracking tools
+ The participants used the app to upload and monitor their 99 reportable biomarkers including body weight and blood glucose and beta-hydroxybutryrate (BHB)
+ Biomarkers allowed for daily 100 feedback to the care team and individualization of patient instruction
+ Frequency of reporting was personalized over time based on 101 care needs
+ Participants were advised to achieve nutritional ketosis (blood BHB level at 
+5 to 
+0 mmol L-1) through sufficient 102 carbohydrate restriction (initially <30g day-1 but gradually increased based on personal carbohydrate tolerance and health goals, 103 primarily control of glucose and weight)
+ Participants daily protein intake was initially targeted at a level of 
+5g kg-1 of a medium-frame 104 ideal weight body and further individualized based on biomarkers
+ Participants were instructed to include sufficient dietary fat in meals 105 to achieve satiety without tracking energy intake
+ Nutrition education directed consumption of monounsaturated and saturated fat with 106 sufficient intake of omega-3 and omega-6 polyunsaturated fats
+ The participants were also encouraged to consume sufficient fluid, 107 vitamins and minerals including sodium and magnesium, especially if signs of mineral deficiency were encountered (e
+ g
+ decreased 108 The web-based app was also used by participants to communicate with their remote care team consisting of a health coach 110 and medical provider
+ The remote care team provided education and support regarding dietary changes, behavior modification 111 techniques for maintenance of lifestyle changes and actively directed changes for diabetes and antihypertensive medications as part 112 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    of the intervention
+ Metformin prescriptions were continued except for contraindication, intolerance, or patient request given its efficacy 113 for T2D prevention []
+ Education modules covered core concepts related to the dietary changes for achieving nutritional ketosis, and 114 adaptation to and maintenance of the diet(,)
+ Participants selected their preferred education mode (CCI-virtual, n=126 or CCI-onsite, 115 n=136) during recruitment
+ The CCI-virtual group received care and education primarily via app-based communication
+ The CCI-onsite 116 group received care and education via clinic-based group meetings (weekly for 12 weeks, bi-weekly for 12 weeks, monthly for 6 months, 117 and then quarterly in the second year)
+ All participants had access to the app for communication with their care team, online resources, 118 biomarker tracking and the opportunity to participate in an online peer community for social support
+  119  The participants recruited for usual care (UC) received care from their primary care physician or endocrinologist and were 121 counseled by a registered dietician as part of a diabetes education program
+ These participants received the American Diabetes 122 Association (ADA) recommendations on nutrition, lifestyle and diabetes management()
+ No modification of their care was made for 123 the study
+ This group was used as a reference control to study the effect of disease progression over 2 years in a cohort of participants 124 prospectively recruited from the same geography and healthcare system
+ Figure 1 depicts the study flow from recruitment to 2 years 125  The CCI participants total body composition was measured at baseline, one year and two years using dual-energy X-ray 129 absorptiometry (DXA) (Lunar GE Prodigy, Madison, WI)
+ Participants were scanned while wearing light clothing using standard clinical 130 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    imaging procedures
+ The scans obtained were analyzed using GE Encore software(v
+10, Madison, WI)
+ In many obese patients, full 131 body scans were not obtained due to the scanner not accomodating the patients complete body resulting in issues such as cropping 132 of the arms and/or overlapping of arms with the chest(,)
+ To address these limitations, changes in bone density and fat and lean 133 mass were assessed using subregions rather than the full body scan
+ We assessed changes in the bone mass by evaluating total 134 spine bone mineral density (BMD) from baseline to 2 years()
+ For assessment of fat mass, we manually selected the central abdominal 135 fat (CAF) region using the software and evaluated the changes in CAF over time, as previously suggested for overweight 136 individuals(,)
+ Furthermore, we assessed changes in the android:gynoid (A/G) ratio by time
+ Due to lack of proper arm lean mass 137 measurement, we analyzed the lower extremities lean mass (LELM) to assess weight-related changes in lean mass over time(,)
+  138 All analyses were conducted using SPSS statistical software (Version 
+0, Armonk, NY)
+ First, we examined the assumptions 140 of normality and linearity
+ According to Klines (2011) (10) guidelines, 14 outcomes (i
+ e
+, fasting insulin, insulin and C-peptide-derived 141 HOMA-IR scores, triglycerides, ALT, AST, bilirubin, N-LFS, BUN, serum creatinine, TSH, Free T4, hsCRP, and BHB) were positively 142 skewed
+ We explored two approaches to handling the skewed variables: natural log-transformations and removing the top 1% of values
+ 143 For N-LFS which includes both positive and negative values, a modulus log-transformation was performed instead of a natural log-144 transformation()
+ For most variables, both approaches resulted in new skew and kurtosis values within the acceptable range
+ One 145 variable (triglycerides) was only corrected via log-transformation, whereas two variables (C-peptide-derived HOMA-IR and TSH) were 146 only corrected by removing the top 1% of values
+ For the other variables, we conducted sensitivity analyses to compare the two 147 approaches
+ Because the results did not differ between the approaches and because interpretation of outcomes is more difficult with 148 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    transformed variables, we report results from the approach of removing the top 1% of values for all variables except triglycerides
+ For 149 triglycerides, analyses were performed and p-values reported on the log-transformed variable but the means and standard errors 150 reported were computed from the untransformed variable
+ Next, we ran independent sample t-tests to examine differences in baseline 151 characteristics between CCI and UC, and completers and dropouts
+  152 We performed linear mixed-effects models (LMMs) to assess (1) within-group changes in the continuous study outcomes from 153 baseline to 2 years and (2) between-group differences (CCI vs
+ UC) in the study outcomes at 2 years
+ The LMMs included fixed effects 154 for time, group (CCI vs
+ UC), and a time by group interaction
+ Covariates included baseline age, sex, race (African American vs
+ other), 155 BMI, and insulin use
+ This maximum likelihood-based approach uses all available repeated data, resulting in an intent-to-treat analysis
+ 156 An unstructured covariance structure was specified for all models to account for correlations between repeated measures
+  157 Within-group changes and between-group differences in dichotomous disease outcome variables; i
+ e
+, diabetes reversal, 158 diabetes remission (partial or complete) and complete remission(12), metabolic syndrome(13,14), steatosis(15), fibrosis(16) were 159 assessed, controlling for baseline age, sex, race, time since diagnosis, BMI, and insulin use
+ For this set of analyses, multiple imputation 160 was used to replace missing values from baseline and 2 years with a set of plausible values, facilitating an intent-to-treat analysis (all 161 ns=)
+ Missing values were estimated from 40 imputations (17) from logistic regression
+ Within-group changes from baseline to 2 162 years and between-group differences at 2 years were assessed using generalized estimating equations with binary logistic models and 163 We also examined changes in participants diabetes medication use
+ First, we compared rates of diabetes medication use within 165 groups from baseline to 2 years using McNemars test with continuity correction when appropriate
+ Next, we calculated the proportion 166 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    of participants in each group with each diabetes medication class eliminated, reduced, not changed, increased, or added
+ Paired t-167 tests were used to assess within-group changes in insulin dosages from baseline to 2 years among participants taking insulin at 168 baseline and among participants taking insulin at both baseline and 2 years
+  169 We conducted a second set of the analyses with 2-year completers only
+ Results of the completers-only analyses appear in 170 eTable 3 and 
+ Given that 2 different modes (virtual and onsite) were utilized for delivery of the CCI group educational content, we 171 also conducted another set of analyses to assess whether differences existed between the groups on all analyses of primary outcomes
+ 172 As in our prior time points (1,18), no group differences were found; thus, the data from the two CCI educational groups were combined 173 for this report
+ For all study analyses, nominal significance levels (P) are presented in the tables
+ A significance level of P<
+0012 174 ensures overall simultaneous significance of P<
+05 over the 43 variables using Bonferroni correction
+ 175 During the second year of intervention, nine adverse events were reported including: one breast cancer diagnosis, one mycosis 179 fungoides, one onset of atrial fibrillation (Afib) with heart failure, one onset of migraine, two cases of chest pain (one resulting in stent 180 placement), one pulmonary effusion, and two pulmonary embolisms (one following orthopedic surgery and one with benign ovarian 181 mass/Afib)
+ In the UC group, adverse events occuring in the first year were previously reported(1), and in the second year, adverse 182 events occurred in six participants: one death from liver cancer, one hospitalization from recurrent seizure, one ureteropelvic junction 183 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    obstruction from kidney stone, one cerebrovascular accident with left side weakness and sensory disturbances, one chest pain requiring 184 In this study, the CCI group had a reduction (
+0%, 
+3kg) in the calculated LELM
+ Most lean mass loss was encountered in the first 188 year without further reduction in year 
+ Studies have reported that obese adults have about 20% higher thigh muscle mass than those 189 with normal weight(,)
+ The reduced upper body load burden achieved through weight loss might explain the reduction of LELM
+ 190 This reflects an appropriate post-weight decrease in muscle mass rather than muscle deficiency(,)
+  Weight loss (~10%) induced 191 by energy restriction resulted in slightly higher lean mass loss than the CCI (
+4% appendicular lean mass and 
+6% total lean mass 192 loss at 20 weeks)()
+Total lean mass loss from 10% weight reduction by bariatric surgery is reported in the range of 
+3 to 
+9% from 193 baseline(,)
+ Greater weight loss is usually associated with more lean mass loss(-)
+ Approximately 25% of diet-induced weight 194 loss (without exercise) often arises from FFM()
+ In the present intervention, FFM loss contributed an estimated 14% to the lower 195 extremity weight loss
+ The lower proportion of  FFM loss in the CCI group, despite higher percentage of weight loss, may be due to the 196 adequate dietary protein recommendations (,)
+ Since ~73% of FFM is water, the observed reduction of LELM in the first year of 197 intervention may have arisen from natriuresis and water loss during keto-adaptation(,)
+ 198 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    Equations for calculating HOMA-IR (insulin-derived), HOMA-IR (c-peptide derived), LDL-cholesterol, NAFLD liver fat score (NLF) and 221 HOMA-IR (insulin derived) [fasting insulin (mU/L) x fasting glucose (mg/dL)]/ 405 Friedewald LDL-cholesterol   total cholesterol (mg/dL) - HDL cholesterol (mg/dL) - [TG (mg/dL)/5] NAFLD liver fat score (N-LFS) -
+89 + 
+18 x metabolic syndrome (yes=1 or no=0) + 
+45 x type 2 diabetes (yes=2 or no=0)* + 
+15 x fasting insulin (mU/l) + 
+04 x fasting serum AST (U/L)  not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    Criteria and cut-offs for diabetes reversal, diabetes partial remission, diabetes complete remission, metabolic syndrome, steatosis and 227 Diabetes reversal Sub-diabetic hyperglycemia and normoglycemia (HbA1c below 
+5%), without medications Sub-diabetic hyperglycemia of at least 1 year duration, HbA1c level between 
+ -
+5%,   Normoglycemia of at least 1 year duration, HbA1c below 
+7%, without any medications (two Metabolic syndrome(13,14) Assigned according to the new International Diabetes Federation (IDF) and National Cholesterol Education Programs Adult Treatment Panel III (NCEP ATP III)] classification
+ Metabolic syndrome is assigned if any three of the following five factors were listed: not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    1) Central obesity defined using BMI and waist circumference: > 40 inches for male and > 37 inches for female
+ Those missing waist circumference information, if BMI > 30kg/m2, 3) Reduced HDL-cholesterol: < 40 mg/dL (
+03mmol/L) in males or < 50 mg/dL 5) Raised blood pressure: systolic BP > 130 or diastolic BP  85mmHg A) If patient is missing more than two criteria from the five factors, he/she is classified as B) If patient is missing two or fewer criteria excluding central obesity and any of the remaining criteria were classified positive (present); he/she is assigned as having metabolic syndrome  C) If patient is missing only one criteria excluding central obesity and if the remaining criteria were classified negative (not present), he/she is assigned as not having metabolic syndrome
+ Suspected steatosis(15) Optimal cut-off point of > -
+640 predicts increased liver fat content (suspected steatosis) with Absence of fibrosis(16) Optimal cut-off point of < -
+455 predicts absence of significant fibrosis with a negative not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    Note
+ All means and standard deviations or standard errors are without any adjustments and include all available data for the time 237 point
+ Abbreviations: SD, standard deviation; CCI, continuous care intervention; UC, usual care; HOMA-IR, homeostatic model 238 assessment of insulin resistance; LDL, low-density lipoprotein; HDL, high-density lipoprotein; ALT, alanine aminotransferase; AST, 239 aspartate aminotransferase; ALP, alkaline phosphatase; NAFLD, nonalcoholic fatty liver disease; BUN, blood urea nitrogen; eGFR, 240 estimated glomerular filtration rates; TSH, thyroid stimulating hormone; SGLT-2,  Sodium glucose co-transporter 2 inhibitor; DPP-4,  241 Dipeptidyl peptidase-4 inhibitor; GLP-1,  Glucagon-like peptide 1 receptor agonist
+ 242 aP-values representing changes from baseline to 2 years and between group-differences at 2 years were obtained from linear mixed-243 effects models
+ Covariates in the model included baseline age, sex, race, body mass index, and insulin use
+ Only participants with 244 both baseline and 2 year data for the outcome were included in the analysis
+  245 bP-values representing changes in the proportions of participants taking medication from baseline to 2 years were obtained from 246 McNemars tests, with continuity correction when appropriate
+ Only participants with both baseline and 2 year data for the medication 247 cVariable was positively skewed and after removing the top 1% of values, skew and kurtosis values fell within acceptable ranges
+ 249 Analyses were conducted on data excluding the top 1% of values for each variable
+ 250 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    dVariable was positively skewed and a natural log transformation was performed
+ The linear mixed-effects model analysis including 251 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    Disease outcomes in CCI and UC participants after 2 years (Intent-to-treat analysis with imputation) 258 Note
+ Percentages and standard errors are provided
+ Estimates were obtained from generalized estimating equation models which 259 provide adjusted proportions, controlling for baseline age, sex, race, time since diagnosis, body mass index, and insulin use
+ Multiple 260 imputation was used to replace missing values, facilitating intent-to-treat analyses
+ A significance level of P<
+0012 ensures overall 261 simultaneous significance of P < 
+05 over the 43 study variables using Bonferroni correction
+ 262 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    Disease outcomes in CCI and UC participants after 2 years (Completers-only analysis)  265 N Baseline N 2 Years P N Baseline N 2 Years P P 262 
+ 
+0 181 
+ 
+7 <
+0x10-36 87 
+ 
+4 57 
+ 
+1 
+07 
+4x10-15 262 
+ 
+0 154 
+ 
+9 
+9x10-11 81 
+ 
+1 54 
+ 
+6 
+51 
+9x10-5 243 
+ 
+2 142 
+ 
+9 
+7x10-13 74 
+ 
+6 44 
+ 
+8 
+40 
+9x10-5 Note
+ All percentages and standard errors are without any adjustments and include all available data for the time point
+ P-values 266 representing within-group changes from baseline to 2 years and between-group differences at 2 years were obtained from generalized 267 estimating equation models
+ Covariates in the model included baseline age, sex, race, time since diagnosis, body mass index, and 268 insulin use
+ Only participants with both baseline and 2 year data for the outcome were included in the analysis
+ A significance level of 269 P<
+0012 ensures overall simultaneous significance of P < 
+05 over the 43 study variables using Bonferroni correction
+   270 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    Supplementary Figure 
+ Adjusted mean changes (CCI versus UC) from baseline to 2-years in (A) HbA1c, (B) Fasting insulin, (C) 277 Supplementary Figure 
+ Stratification of participants based on weight change (%) categories in each intervention groups, UC and 280 CCI, among completers
+ Category <5% includes participants with weight gain
+ 281 Supplementary Figure 
+ Adjusted mean changes (CCI versus UC) from baseline to 2-years in (A) Systolic Blood Pressure, (B) 283 Diastolic Blood Pressure, (C) Alanine aminotransferase (ALT), and (D) High sensitive C-reactive protein (hsCRP)
+ 284 Supplementary Figure 
+ Cumulative relative frequency (%) of percentage participants reporting BHB > 
+5mM at first, second and 286 both years of the study
+ The differences in the distribution of participants reporting BHB > 
+5mM between one and two years are 287 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    a          c   295 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    a         c 311 b         d 320 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    
+ Hallberg SJ, McKenzie AL, Williams PT, et al Effectiveness and safety of a novel care model for the management of type 2 346 diabetes at 1 year: an open-label, non-randomized, controlled study
+ Diabetes Ther 2018; 9: -
+ 347 
+ Bhanpuri NH, Hallberg SJ, Williams PT, et al Cardiovascular disease risk factor responses to a type 2 diabetes care model 348 including nutritional ketosis induced by sustained carbohydrate restriction at 1 year: an open label, non-randomized, controlled 349 
+ Standards of Medical Care in Diabetes - 2018: Summary of Revisions
+ Diabetes Care 2018; 41: S1-S1 351 
+ Brownbill RA, and Ilich JZ
+ Measuring body composition in overweight individuals by dual energy x-ray absorptiometry
+ BMC 352 
+ Rothney MP, Brychta RJ, Schaefer EV, et al Body composition measured by dual-energy X-ray absorptiometry half-body scans 354 
+ Chun KJ
+ Bone densitometry
+ Semin Nucl Med 2011; 41: -
+ 356 
+ Kamel EG, McNeill G, Van Wijk CWV
+ Usefulness of anthropometry and DXA in predicting intra-abdominal fat in obese men 357 
+ Reid KF, Naumova EN, Carabello RJ, et al Lower extremity muscle mass predicts functional performance in mobility-limited 359 
+ Moon JJ, Park SG, Ryu SM, et al New skeletal muscle mass index in diagnosis of sacropenia
+ J Bone Metab 2018; 25: -
+ 361 
+ Kline RB
+ Principles and practice of structural equation modeling (3rd ed
+) 2011 New York: The Guilford Press
+ 362 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    
+ John JA, Draper NR
+ An alternative family of transformations
+ Appl Statist 1980; 29: -
+ 363 
+ Buse JB, Caprio S, Cefalu WT, et al How do we define cure of diabetes? ADA Consensus Statement
+ Diabetes Care 2009; 32: 364 
+ International Diabetes Federation (IDF)
+ The IDF consensus worldwide definition of the metabolic syndrome
+ IDF 366 
+ Huang PL
+ A comprehensive definition for metabolic syndrome
+ Dis Model Mech 2009; 2: -
+ 368 
+ Kotronen A, Peltonen M, Hakkarainen A, et al Prediction of non-alcoholic fatty liver disease and liver fat using metabolic and 369 
+ Angulo P, Hui JM, Marchesini G, et al The NAFLD fibrosis score: a noninvasive system that identifies liver fibrosis in patients 371 
+ Graham JW, Olchowski AE, et al How many imputations are really needed? Some practical clarifications of multiple imputation 373 
+ McKenzie A, Hallberg S, Creighton BC, et al A novel intervention including nutritional recommendations reduces hemoglobin 375 A1c level, medication use, and weight in type 2 diabetes
+ JMIR Diabetes 2017; 2: e
+ 376 
+ Lafortuna CL, Tresoldi D, Rizzo G
+ Influence of body adiposity on structural characteristics of skeletal muscle in men and 377 
+ Choi SJ, Files DC, Zhang T, et al Intramyocellular lipid and impaired myofiber contraction in normal weight and obese older 379 adults
+ J Gerontol A Biol Sci Med Sci 2016; 71: -
+ 380 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    
+ Mingrone G, Marino S, DeGaetano A, et al Different limit to the bodys ability of increasing fat-free mass
+ Metabolism 2001;50: 381 
+ Forbes GB, Welle SL
+ Lean body mass in obesity
+ Int J Obes 1983; 7: -
+ 383 
+ Bopp MJ, Houston DK, Lenchik L, et al Lean mass loss is associated with low protein intake during dietary-induced weight loss 384 in postmenopausal women
+ J Am Diet Assoc 2008; 108: -
+ 385 
+ Ciangura C, Bouillot JL, Lloret-Linares C, et al Dynamics of change in total and regional body composition after gastric bypass 386 
+ Varma S, Brown T, Clark J, et al Comparative effects of medical vs
+ surgical weight loss on body composition in a randomized 388 
+ Zalesin KC, Franklin BA, Lillystone MA, et  al Differential loss of fat and lean mass in the morbidly obese after bariatric surgery
+ 390 
+ Redmon JB, Reck KP, Raatz SK, et al Two year outcome of a combination of weight loss therapies for type 2 diabetes
+ Diabetes 392 
+ Maghrabi AH, Wolski K, Abood B, et al Two year outcomes on bone density and fracture incidence in patients with T2DM 394 randomized to bariatric surgery vs
+ intensive medical therapy
+ Obesity 2015; 23: -
+ 395 
+ Heymsfield SB, Gonzalez MCC, Shen W, et al Weight loss composition is one-fourth fat-free mass: A critical review and critique 396 of this widely cited rule
+ Obes Rev 2014; 15: -
+ 397 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    
+ Davis PG, Phinney SD
+ Differential effects of two very low calorie diets on aerobic and anaerobic performance
+ Int J Obesity 398 
+ Kim JE, OConnor LE, Sands LP, et al Effects of dietary protein intake on body composition changes after weight loss in older 400 adults: a systematic review and meta-analysis
+ Nutr Review 2016; 74: 210-224 401 
+ Frigolet ME, Ramos Barragan VE, Tamez Gonzalez M
+ Low-carbohydrate diets: a matter of love or hate
+ Ann Nutr Metab 2011; 402 
+ Kolanowski J, Bodson A, Desmecht P, et al On the relationship between ketonuria and natriuresis during fasting and upon 404 refeeding in obese patients
+ Eur J Clin Invest
+ 1978: 8: -
+ 405 
+ Ng M, Fleming T, Robinson M, et al Global, regional, and national prevalence of overweight and obesity in children and adults 406 during 1980-2013: a systemic analysis for the Global Burden of Disease Study 
+ Lancet 2014; 384: -
+ 407 
+ Knop FK, Taylor R
+ Mechanism of metabolic advantages after bariatric surgery
+ Diabetes Care 2013; 36: 5287- 408 
+ Steven S, Lim EL, Taylor R
+ Dietary reversal of type 2 diabetes motivated by research knowledge
+ Diabet Med 2010; 27: 724-409 
+ Arterburn DE, Bogart A, Sherwood NE, et al A multisite study of long-term remission and relapse of type 2 diabetes mellitus 411 
+ Hamdan K, Somers S, Chand M
+ Management of late postoperative complications of bariatric surgery
+ Br J Surgery 2011; 98: 413 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    
+ Wing RR, Blair E, Marcus M, Epstein LH, Harvey J
+ Year-long weight loss treatment for obese patients with type II diabetes: 415 does including intermittent very-low calorie diet improve outcome? Am J Med 1994; 97: -
+  416 
+ Goday A, Bellido D, Sajoux I, et al Short-term safety, tolerability and efficacy of a very low- calorie-ketogenic diet interventional 417 weight loss program versus hypocaloric diet in patients with type 2 diabetes mellitus
+ Nutr Diabetes 2016;6: e230  418 
+ Westman EC, Yancy WS, Mavropoulos JC, Marquart M, McDuffie JR
+ The effect of a low-carbohydrate, ketogenic diet versus 419 a low-glycemic index diet on glycemic control in type 2 diabetes mellitus
+ Nutr Metab 2009; 19: 36, doi:
+1186/1743-7075-5-420 
+ Kirk JK, Graves DE, Craven TE, et al Restricted-carbohydrate diets in patients with type 2 diabetes: a meta-analysis
+ J Am 422 
+ Volek JS, Sharman MJ, Gomez AL, et al Comparison of a very low-carbohydrate and low-fat diet on fasting lipids, LDL 424 subclasses, insulin resistance, and postprandial lipemic responses in overweight women
+ J Am Coll Nutr 2004; 23: -
+ 425 
+ Seshadri P, Iqbal N, Stern L, et al A randomized study comparing the effects of a low-carbohydrate diet and a conventional 426 diet on lipoprotein subfractions and C-reactive protein levels in patients with severe obesity
+ Am J Med 2004; 117: -
+ 427 
+ McKenzie A, Hallberg S, Creighton BC, et al A novel intervention including nutritional recommendations reduces hemoglobin 428 A1c level, medication use, and weight in type 2 diabetes
+ JMIR Diabetes 2017; 2: e
+ 429 
+ White WB, Cannon CP, Heller CR, et al Alogliptin after acute coronary syndrome in patients with type 2 diabetes
+ N Engl J 430 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    
+ Bethel MA, Patel RA, Merrill P, et al Cardiovascular outcomes with glucagon-like peptide-1 receptor agonists in patients with 432 type 2 diabetes: a meta-analysis
+ Lancet Diabetes Endocrinol 2018; 6: -
+ 433 
+ Zinman B, Wanner C, Lachin JM, et al Empagliflozin, cardiovascular outcomes, and mortality in type 2 diabetes
+ N Engl J Med 434 
+ Shai I, Schwarzfuchs D, Henkin Y, et al Weight loss with a low-carbohydrate, mediterranean, or low-fat diet
+ N Engl J Med 436 
+ Iqbal N, Vetter ML, Moore RH, et al Effects of a low-intensity intervention that prescribed a low-carbohydrate vs
+ a low fat diet 438 
+ Haimoto H, Iwata M, Wakai K, Umegaki H
+ Long-term effects of a diet loosely restricting carbohydrates on HbA1c levels, BMI 440 and tapering of sulfonylureas in type 2 diabetes: A 2-year follow-up study
+ Diab Res Clin Prac 2008; 79: -
+ 441 
+ Steinberg DM, Tate DF, Bennett GG, Ennett S, Samuel-Hodge C, Ward DS
+ The efficacy of a daily self-weighing weight loss 442 intervention using smart scales and email
+ Obesity 2013; 21: -
+ 443 
+ Arterburn D, Bogart A, Coleman KJ, et al Comparative effectiveness of bariatric surgery versus nonsurgical treatment of type 444 2 diabetes among severely obese adults
+ Obes Res Clin Pract 2013; 7: e-e
+  445 
+ Barter PJ, Ballantyne CM, Carmena R, et al Apo B versus cholesterol in estimating cardiovascular risk and in guiding therapy: 446 report of the thirty person/ten-country panel
+ J Intern Med 2006; 259: -
+   447 
+ Verges B
+ Lipid modification in type 2 diabetes: the role of LDL and HDL
+ Fundam Clin Pharmacol 2009; 23: -
+ 448 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    
+ Menke A, Knowler WC, and Cowie CC
+ Physical and metabolic characteristics of persons with diabetes and prediabetes
+ 449 Chapter 9 in Diabetes in America, 3rd ed
+ Cowie CC, Casagrande SS, Menke A, Cissell MA, Eberhardt MS, Meigs JB, Gregg 450 EW, Knowler WC, Barrett-Connor E, Becker DJ, Brancati FL, Boyko EJ, Herman WH, Howard BV, Narayan KMV, Rewers M, 451 Fradkin JE, eds, Bethesda, MD, National Institutes of Health, NIH Pub No
+ -[,p
+ -]
+ 452 
+ Liu J, Sempos C, Donahue RP, et al Joint distribution of non-HDL and LDL cholesterol and coronary heart disease risk 453 prediction among individuals with and without diabetes
+ Diabetes Care 2005; 28: -
+ 454 
+ Hirano T
+ Pathophysiology of diabetic dyslipidemia
+ J Atheroscler Thromb 2018; 25: -
+ 455 
+ Gross BA, Goss AM
+ A lower-carbohydrate, higher-fat diet reduces abdominal and intermuscular fat and increases insulin 456 sensitivity in adults at risk of type 2 diabetes
+ J Nutr 2015; 145: S-S
+ 457 
+ Vague J
+ The degree of masculine differentiation of obesities: a factor determining predisposition to diabetes, atherosclerosis, 458 gout and uric calculous disease
+ Am J Clin Nutr 1956; 4: -
+ 459 
+ Jakobsen MU, Berentzen T, Sorensen TIA, et al Abdominal obesity and fatty liver
+ Epidemiol Rev 2007; :-
+ 460 
+ Bouchi R, Nakano Y, Fukuda T, et al Reduction of visceral fat by liraglutide is associated with ameliorations of hepatic steatosis, 461 albuminuria, and micro-inflammation in type 2 diabetic patients with insulin treatment: a randomized control trial Endocr J 2017; 462 
+ Shimabukuro M, Higa M, Yamakawa K, et al Miglitol, -glycosidase inhibitor, reduces visceral fat accumulation and 464 cardiovascular risk factors in subjects with the metabolic syndrome: a randomized comparable study
+ Int J Cardiol 2013; 167: 465 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    
+ Gabriely I, Ma XH, Yang XM, et al Removal of visceral fat prevents insulin resistance and glucose intolerance of aging: an 467 
+ Garcia-Ruiz I, Solis-Munoz P, Fernandez-Moreira D, et al Omentectomy prevents metabolic syndrome by reducing appetite 469 and body weight in a diet induced obesity rat model
+ Sci Rep 2018; 8: 
+doi: 
+ 
+ /s--
+ 470 
+ Bril F, Cusi K
+ Management of nonalcoholic fatty liver disease in patients with type 2 diabetes: A call to action
+ Diabetes Care 471 
+ Verrijen A, Francque S, Van Gaal L
+ The role of visceral adipose tissue in the pathogenesis of non-alcoholic fatty liver disease
+ 473 
+ Wu X, Huang Z, Wang X
+ et al Ketogenic diet compromises both cancellous and corticol bone mass in mice
+ Calcif Tissue Int 475 
+ Zengin A, Kropp B, Chevalier Y, et al Low-carbohydrate, high-fat diets have sex-specific effects on bone health in rats
+ Eur J 477 
+ Willi SM, Oexmann MJ, Wright NM, Collop NA, Key LL Jr
+ The effects of a high-protein, low-fat, ketogenic diet on adolescents 479 with morbid obesity: body composition, blood chemistries and sleep abnormalities
+ Pediatric 1998; 101: 61-67 480 
+ Colica C, Merra G, Gasbarrini A, et al Efficacy and safety of very low-calorie ketogenic diet: a double blind randomized 481 crossover study
+ Eur Rev Med Pharmacol Sci 2017; 21: -
+ 482 
+ Moreno B, Bellido D, Sajoux I, et al Comparison of a very low-calorie-ketogenic diet with a standard low-calorie diet in the 483 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    
+ Bertoli S, Trentani C, Ferraris C, De Giorgis V, Veggiotti P, Taglibue A
+ Long-term effects of a ketogenic diet on body 485 composition and bone mineralization in GLUT-1 deficiency syndrome: A case series
+ Nutrition 2014; 30: -
+ 486 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    Title and Abstract 1  Information on how units were allocated to interventions  3 Background  2  Scientific background and explanation of rationale  4-5 Participants 3  Eligibility criteria for participants, including criteria at different levels in recruitment/sampling plan (e
+ g
+, cities,    Method of recruitment (e
+ g
+, referral, self-selection), including the sampling method if a systematic sampling  Details of the interventions intended for each study condition and how and when they were actually not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    o Exposure quantity and duration: how many sessions or episodes or events were intended to be delivered? o Time span: how long was it intended to take to deliver the intervention to each unit?  Outcomes 6  Clearly defined primary and secondary outcome measures  6-8    Methods used to collect data and any methods used to enhance the quality of measurements  6-8    Information on validated instruments such as psychometric and biometric properties  N/A Sample size 7  How sample size was determined and, when applicable, explanation of any interim analyses and stopping 8  Unit of assignment (the unit being assigned to study condition, e
+ g
+, individual, group, community)  6-8   Method used to assign units to study conditions, including details of any restriction (e
+ g
+, blocking,   Inclusion of aspects employed to help minimize potential bias induced due to non-randomization (e
+ g
+, Blinding (masking) 9  Whether or not participants, those administering the interventions, and those assessing the outcomes were blinded to study condition assignment; if so, statement regarding how the blinding was accomplished and how Unit of Analysis 10  Description of the smallest unit that is being analysed to assess intervention effects (e
+ g
+, individual, group, or  If the unit of analysis differs from the unit of assignment, the analytical method used to account for this (e
+ g
+, adjusting the standard error estimates by the design effect or using multilevel analysis)  Statistical methods used to compare study groups for primary methods outcome(s), including complex not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;     Statistical methods used for additional analyses, such as subgroup analyses and adjusted analysis  Flow of participants through each stage of the study: enrollment, assignment, allocation and intervention   o Enrollment: the numbers of participants screened for eligibility, found to be eligible or not eligible, declined o Assignment: the numbers of participants assigned to a study condition   o Allocation and intervention exposure: the number of participants assigned to each study condition and the   o Follow-up: the number of participants who completed the follow-up or did not complete the follow-up (i
+ e
+, o Analysis: the number of participants included in or excluded from the main analysis, by study condition  Description of protocol deviations from study as planned, along with reasons  Recruitment 13  Dates defining the periods of recruitment and follow-up  6 Baseline data 14  Baseline demographic and clinical characteristics of participants in each study condition  8, Table 1    Baseline characteristics for each study condition relevant to specific disease prevention research  N/A    Baseline comparisons of those lost to follow-up and those retained, overall and by study condition  8, Table 1    Comparison between study population at baseline and target population of interest  N/A  Data on study group equivalence at baseline and statistical methods used to control for baseline differences 16  Number of participants (denominator) included in each analysis for each study condition, particularly when the denominators change for different outcomes; statement of the results in absolute numbers when feasible    Indication of whether the analysis strategy was intention to treat or, if not, description of how non-compliers not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    17  For each primary and secondary outcome, a summary of results for each estimation study condition, and the estimated effect size and a confidence interval to indicate the precision    Inclusion of results from testing pre-specified causal pathways through which the intervention was intended to  Summary of other analyses performed, including subgroup or restricted analyses, indicating which are pre-Adverse events 19  Summary of all important adverse events or unintended effects in each study condition (including summary Interpretation 20  Interpretation of the results, taking into account study hypotheses, sources of potential bias, imprecision of measures, multiplicative analyses, and other limitations or weaknesses of the study    Discussion of results taking into account the mechanism by which the intervention was intended to work    Discussion of the success of and barriers to implementing the intervention, fidelity of implementation  14-17 Generalizability 21  Generalizability (external validity) of the trial findings, taking into account the study population, the characteristics of the intervention, length of follow-up, incentives, compliance rates, specific sites/settings Overall evidence 22  General interpretation of the results in the context of current evidence and current theory  14-17 From:  Des Jarlais, D
+ C
+, Lyles, C
+, Crepaz, N
+, & the Trend Group ()
+ Improving the reporting quality of nonrandomized evaluations of behavioral and public health 494 interventions: The TREND statement
+ American Journal of Public Health, 94, -
+  For more information, visit:  495 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 6, 
+ ;    

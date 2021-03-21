@@ -1,0 +1,472 @@
+Fecal microbiota transplantation brings about bacterial strain displacement in patients with inflammatory bowel diseases
+ BGI Education Center, University of Chinese Academy of Sciences, Shenzhen 518083 6 
+ Shenzhen Key Laboratory of Human Commensal Microorganisms and Health Research, 10 
+ Medical Center for Digestive Disease, the Second Affiliated Hospital of Nanjing Medical 12 
+ Shenzhen Engineering Laboratory of Detection and Intervention of Human Intestinal 14 
+ Department of Biology, Laboratory of Genomics and Molecular Biomedicine, University of 16 
+ Present address: Department of Human Microbiome, School of Stomatology, Shandong 18 
+ James D
+ Watson Institute of Genome Sciences, Hangzhou 310058, China; 19 
+ Key Lab of Holistic Integrative Enterology, Nanjing Medical University, Nanjing 210011, 20 
+ Macau University of Science and Technology, Taipa, Macau 999078, China; 22 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    Corresponding authors: Faming Zhang, MD, PhD, Medical Center for Digestive Diseases, 24 the Second Affiliated Hospital of Nanjing Medical University, 121 Jiang JiaYuan, Nanjing 25 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    Fecal microbiota transplantation (FMT), which is thought to have the potential to 47 correct dysbiosis of gut microbiota, has recently been used to treat inflammatory bowel 48 disease (IBD)
+ To elucidate the extent and principles of microbiota engraftment in IBD 49 patients after FMT treatment, we conducted an interventional prospective cohort study
+ 50 The cohort included two categories of patients: (1) patients with moderate to severe 51 Crohns disease (CD)Harvey-Bradshaw Index  7, n = 11, and (2) patients with 52 ulcerative colitis (UC) (Montreal classification, S2 and S3, n = )
+ All patients were 53 treated with a single FMT (via mid-gut, from healthy donors) and follow-up visits were 54 performed at baseline, 3 days, one week, and one month after FMT (missing time 55 points included)
+ At each follow-up time point, fecal samples of the participants were 56 collected along with their clinical metadata
+ For comparative analysis, 10 fecal samples 57 from 10 healthy people were included to represent the diversity level of normal gut 58 microbiota
+ Additionally, the metagenomic data of 25 fecal samples from 5 individuals 59 with metabolic syndrome who underwent autologous FMT treatment were downloaded 60 from a previous published paper to represent natural microbiota shifts during FMT
+ All 61 We found that 3 days after FMT, 11 out of 15 recipients were in remission (3 out of 4 63 UC recipients; 8 out of 11 CD recipients)
+ Generally, bacterial colonization was 64 observed to be lower in CD recipients than in UC recipients at both species and strain 65 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    displacement advantages under two-disease status
+ Finally, most post-FMT species (> 67 80%) could be properly predicted (AUC > 85%) using a random forest classification 68 model, with the gut microbiota composition and clinical parameters of pre-FMT 69 recipients acting as the most contributive factors for prediction accuracy
+ 70 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    Inflammatory bowel disease (IBD) is a chronic inflammatory disease characterized by 92 disease (CD) and ulcerative colitis (UC)
+ The etiology of IBD has been proposed to be 94 multifactorial, involving a dysregulated immune response to environmental factors in a 95 genetically susceptible individual ()
+ Interestingly, given the evidence accumulated in 96 recent years, the gut microbiota is now recognized for playing an important role in IBD
+ 97 Dysbiosis is a decrease in gut microbial diversity owing to a shift in the balance 98 between commensal and potentially pathogenic microorganisms of the gut microbial 99 ecosystem, and has long been characterized as a trait of IBD patients (,)
+  100 Fecal microbiota transplantation (FMT) aims to modify the intestinal microbiota 101 composition and function of the recipients by transferring donor fecal suspension into 102 the gastrointestinal tract of a recipient, and has become a promising method for 103 manipulating the gut microbiota
+ Its successful application for the treatment of 104 Clostridium difficile infection has inspired people to apply it to inflammatory bowel 105 disease patients (,,,,,)
+ However, this application is still in its early stages
+ 106 According to a recent systematic review and meta-analysis, after minimizing 107 publication bias, IBD patients who received FMT had a remission rate of only 
+2%: 108 22% for UC and 
+5% for CD ()
+ Moreover, there is a lack of research regarding 109 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    Clinical research to date has focused more on UC (7,8,9), and there has been 111 insufficient research on the effects of FMT on CD patients, with only a few case 112 reports and small-scale case series reported (,,,)
+ In addition, the majority of 113 studies conducted so far to investigate the role FMT plays in treating IBD have used 114 16S rRNA sequencing, which has limited resolution on taxonomic and functional 115 classification of sequences
+ Contradictory results were often observed at species-level 116 resolution, making it hard to determine the exact role of different bacterial agents
+ For 117 instance, the abundance of Faecalibacterium prausnitzii was found to decrease in one 118 study and to increase in another (,)
+ Thus, it is necessary to be able to appreciate 119 the whole composition of gut microbiota at a strain level
+ Strain level variants within 120 microbial species are crucial in determining their functional capacities within the 121 human microbiome, such as interaction with host tissues (17), modulation of immune 122 with the ability to target all DNA material in a sample can give a base pair level 124 resolution of the genome that makes single nucleotide analysis possible
+ Additionally, 125 promising machine learning methods could enable the establishment of predictive 126 models to predict the microbiota composition of post-FMT recipients
+ Recently, S
+ 127 Smillie et al constructed a machine learning model to predict the species profile of 128 post-FMT recipients for 18 C
+ difficile patients and found that bacterial abundance and 129 phylogeny were the strongest determinants of engraftment ()
+ In our study, we utilize 130 a random forest model to predict the mOTUs profile of IBD recipient 3 days after FMT 131 and identified the variables that contribute most to model prediction accuracy
+  132 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    Patients aged 1964 years were recruited from the Second Affiliated Hospital of 137 Nanjing Medical University, China from 2012 to 
+ The dataset was composed of 138 10 fecal samples from 10 healthy people, among which 6 were FMT donors, and 34 139 fecal samples from 15 IBD patients
+ Donor fecal samples were collected prior to FMT
+ 140 Stool samples from recipients were collected at baseline, day 3, and day 7 (or day 30) 141 (Figure )
+ Missing points were due to patient discharge
+ Detailed standards of patient 142 recruitment and donor screening were previously published ()
+ Donors were either 143 related (genetically related family members) or unrelated (screened unrelated family 144 parameters, and blood test resultswere obtained at each follow-up time point
+ For 146 autologous FMT treatment, 25 additional fecal samples from 5 metabolic syndrome 147 individuals were obtained from the Vrieze et al (21) study with follow-up points on 148 day 0 and days 2, 14, 42, and 84 after FMT
+ 149 In summary, 34 samples were used for analysis of the allogenic FMT group, 25 for the 150 Fecal samples were obtained from scanned donors and were isolated for microbiota at 153 lab
+ Fecal microbiota from the donor was prepared according to the manual method of 154 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    Purified fresh fecal microbiota suspension was input into patients mid-gut by a tube 156 within gastroscope under anesthesia, and the entire procedure should be done within 157 DNA extraction and metagenomic sequencing of IBD fecal samples and healthy fecal 160 samples were performed at BGI-Shenzhen, China following HiSeq 2000 sequencing 161 performed at the Genomics Core Facility of the European Molecular Biology 163 Illumina sequencing reads were quality controlled by trimming low quality bases 165 (quality score < 20), filtering adapter reads, and removing host-related reads after 166 mapping to the human genome database
+ The reads quality control procedure was 167 conducted using cOMG with default parameters ()
+ After quality control, 168 1,379,430,125 sequences were obtained, with a mean of 31,350,685 sequences per 169 mOTUs software with default parameters
+ mOTUs is a method that establishes 173 genes
+ It maps the quality-controlled metagenomic sequencing reads against the 175 m-OTUS
+ v
+padded database, which is composed of 10 MGs extracted from 3,496 176 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    prokaryotic reference genomes (download from NCBI) and 263 publicly available 177 metagenomes (from the MetaHIT and HMP projects), and then outputs metagenomic 178 For strain level profiling, metaSNV was utilized to process quality-controlled 180 metagenomic sequencing reads
+ metaSNV is a method that is able to disentangle 181 conspecific strains in metagenomic samples using specific single-site allelic variation 182 (SNVs)
+ It uses a collection of microbial reference genomes in which each species is 183 represented by a single representative genome or gene collection ()
+ To maintain 184 database as our reference genome or gene collection during this procedure
+ First, we 186 bwa and Ngless
+ Next, we ran qaCompute on each sample to determine the average 188 coverage over each reference in each sample and aggregated the coverage information
+ 189 We then took advantage of the mpileup tool to compute genomic variation, and 190 outputted all the variant positions that met the default-imposed quality criteria
+ Lastly, 191 we computed per species pairwise distance matrices for the samples
+  192 All statistical analyses were performed in R using the following packages: vegan, 194 Hmcc, pROC, and RandomForest
+ We conservatively used only the baseline and day 3 195 time point samples for each patient when conducting all the two-sided statistical tests
+ 196 Diversity comparisons
+ The diversity of each gut microbiota community per sample 197 was calculated based on its mOTUs profile, referred to as the Shannon index, using the 198 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    vegan package
+ The Kruskal-Wallis test was used as a significance test for this 199 Species-level changes after FMT
+ After species profiling all fecal samples using 201 mOTU, we took only the species with a detected relative abundance of at least 
+001 202 into account to avoid ambiguous results
+ In order to determine whether donor 203 microbiota could be transferred to recipients, we divided the microbiota composition of 204 common species (shared by donor and recipient), and new species (not found in either 206 the donor or in the pre-FMT recipient)
+ We quantified these 4 groups by comparing the 207 gut microbiota mOTU profiles of the pre-FMT recipient, the post-FMT recipient, and 208 the donor
+ Results were visualized using bar plota with all available follow-up time 209 composition between pre-FMT and post-FMT recipients were represented by the 212 Bray-Curtis distance, which was computed using the vegan package after applying a 213 logarithmic transformation to mOTU relative abundance with the function log(x+x0), 214 where x is the original relative abundance of a certain mOTU and x0 = e-
+ The cosine 215 dissimilarity was also used to examine the correlations between gut microbiota 216 compositions pre-FMT and post-FMT, and between post-FMT recipients and donors
+ 217 Strain-level changes after FMT
+ Strain differentiation, which was determined by 219 comparing the presence or absence of donor-specific, recipient-specific, and previously 220 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    undetected single-site allelic variations, was monitored in post-FMT recipients based 221 on the output files of metaSNV
+ Similar to the process of determining species retention 222 and transplantation, the gut microbiota composition of post-FMT recipients was 223 common strains (shared by donor and recipient)
+ We excluded the newly gained strains 225 because that was not of interest here
+ Quantification of the three groups was 226 Species engraftment model
+ We sought to investigate whether the microbiota 228 composition of post-FMT recipients could be predicted using advanced machine 229 learning models
+ We therefore applied the Random Forest algorithm in R to predict the 230 presence (random forest classification model) and abundance (random forest regression 231 model) of each mOTU in every post-FMT recipient sample
+ For a dataset comprised of 232 15 samples and 123 filtered mOTUs, these models are trained on 15 x 127 total 233 instances
+ The inputs for these predictions are the gut microbiota composition of each 234 pre-FMT patient and their corresponding donor at a species level, along with clinical 235 metadata of the pre-FMT recipient and donor
+ Random Forest is a collection or 236 ensemble of classification and regression trees trained on targeted datasets
+ It is 237 resistant to overfitting and is considered stable in the presence of outliers
+ The error 238 rate of the classification of all the test sets is the out-of-bag (OOB) estimate of the 239 First, we eliminated the condition of class imbalances by filtering out mOTUs that 241 existed in less than 3 samples to avoid prediction bias in favor of the majority class
+ 242 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    Second, the mtry parameter with the lowest error was picked using the rfcv function 243 with 5-fold cross validation
+ Third, we applied the randomForest function to perform 244 classification of post-FMT recipients across all mOTUs
+ This resulted in 123 245 randomForest classification models in total, and we computed the auc value for each 246 model
+ Finally, we chose important features from those models that had good 247 For the regression model, we also accounted for class balance and then used the rfcv 249 function with the same predictors that we used in the classification model to perform 250 Feature Importance
+ Random Forest calculates feature importance by removing each 252 feature from the model and measuring the decrease in accuracy (for presence) or the 253 increase in the mean-square error (for abundance)
+ According to these importance 254 scores, we ranked features in decreasing order across models and picked 40 with the 255 Correlations between change in mOTUs as well as in clinical parameters
+ Clinical 257 metadata of patients was collected at baseline and follow-up visits, including physical 258 immunoglobulin
+ We used the rcorr function in the Hmisc package to compute the 260 spearman correlation iterating from each mOTU-clinical index pair
+ The change in 261 each mOTU was defined as the increase or decrease in its relative abundance 3 days 262 after FMT treatment compared to baseline
+ Changes in clinical index were computed 263 based on the absolute score recipients got at baseline and 3 days after FMT treatment
+ 264 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    For multiple comparisons, the Benjamini-Hochberg method was used to adjust the p 265 value to control for false positives
+ Lastly, we drew a network using Cytoscape based 266 on the pairs with a q-value smaller than 
+05 ()
+ 267 This study was carried out in accordance with the recommendations of good clinical 270 research practice (GCP), the Ethical committee of the Second Affiliated Hospital of 271 Nanjing Medical University, and BGI-IRB
+ The protocol was approved by the Ethical 272 committee of the Second Affiliated Hospital of Nanjing Medical University and 273 BGI-IRB
+ All subjects gave written informed consent in accordance with the 274 After profiling sequenced fecal samples using shotgun metagenomics, the Shannon 279 index (alpha diversity of a community) of gut microbiota was measured across IBD 280 recipients
+ Results showed that the average Shannon index of CD patients was 281 significantly lower than that of healthy controls (P-value = 
+ )
+ In UC patients, 282 although their Shannon index was lower than the average in healthy controls, dysbiosis 283 was not significant (p-value = 
+ )
+ Three days after FMT treatment, the average 284 Shannon indexes of both CD and UC recipients had not significantly improved 285 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    (p-value > 
+01) (Figure A)
+ Unexpectedly, CD-6, CD-7, CD-8, and UC-2 had a 286 Among the whole population of the gut microbiota, some bacteria may be more 288 important than others for maintaining a healthy gut environment
+ For example, 3 days 289 after FMT treatment, there was a universal increase in Bacteroides that have been 290 shown to exist at lower levels in IBD patients than in healthy people ()
+ Some highly 291 individualistic performances were also observed: CD-9 gained an abundant amount of 292 Lactobacillus, which was considered to be probiotics, and CD-1 had a great decrease in 293 Citrobacter, which was recognized to be pathogenic bacteria (Figure B)
+ The amounts 294 of species each recipient gained from their donor after FMT are shown in Figure S
+  295 To investigate the extent to which the gut microbiota of recipients could be altered by 297 FMT treatment, we evaluated both the degree and direction of change
+ Results showed 298 that microbial communities underwent large compositional changes after FMT, and 299 On average, post-FMT CD recipients gained 
+4% of mOTUs from donors (n = 11, 301 SD = 
+4%), while post-FMT UC recipients gained 
+2% of mOTUs from donors (n 302 = 4, SD= %)
+ Our results were analogous to a previous study that found that FMT 303 recipients gained 35% of mOTUs from donors (n = 436, SD = 27%) ()
+  304 By measuring the distance between donor-recipient pairs using Euclidean distance, we 305 determined the direction of microbiota change
+ Results varied between different 306 donor-recipient pairs
+ Out of the 4 patients that had 2 follow-up time points, we found 307 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    that CD-9 and UC-2 tended to be closer to their donors and further from their pre-FMT 308 status
+ CD-2 showed a slightly tendency to return to their initial status, but the 309 disturbance was small enough to be ignored (a shift from 
+628 to 
+ )
+ 310 Surprisingly, CD-1 showed an increased distance from both their donor and their 311 pre-FMT status, which could be attributed to environmental factors
+ Though CD-1, 312 CD-2, and UC-2 all shared the same donor, the direction of their gut flora shift after the 313 treatment varied (Figure A)
+ In addition, we explored the abundance consistency of 314 mOTUs of recipients before and after FMT
+ mOTUs of the recipient post-FMT were 315 highly correlated with mOTUs of the recipient pre-FMT (median cosine similarity of 316 UC patient mOTUs = 
+93, CD patients = 
+ )
+ More importantly, the results showed 317 that mOTUs of post-FMT recipients had high similarity to mOTUs of their donors 318 (median cosine similarity of UC patient mOTUs =
+95, that of CD patients = 
+91) 319 To investigate the extent of strain level changes in our study groups, we monitored 322 SNVs identified at baseline over all available time points
+ Higher levels of single-site 323 allelic variations were observed in UC FMT recipients and CD FMT recipients 324 compared to autologous FMT recipients from a previous paper (21) (P= 
+0056 and 325 
+148, respectively)
+ Moreover, SNVs were found to be higher in UC FMT recipients 326 than in CD FMT recipients (P = 
+070) (Figure )
+  327 To investigate whether this increased variation was due to the transfer and 328 establishment of donor microbiota, we followed methods described in a previously 329 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    published paper (28), defining a set of determinant genomic positions (containing both 330 donor- and recipient-specific SNVs) and monitoring them over time (Figure )
+ For the 331 credibility of SNVs detection, we chose species with sufficient abundance that were 332 consistently detected in at least one donor-recipient pair
+ Donor-specific SNVs were 333 most highly retained 3 days after FMT (UC: 
+ 
+3% of determinant positions 334 across recipients, CD: 
+ 
+3%) and were still present 1 month later (UC: 
+9%, 335 CD: 
+99 
+ %)
+ This was in contrast with the much lower rates of variation 336 observed at equivalent time points in autologous FMT recipients (
+5  
+8%) (Figure 337 S1), showing that the increased variations of gut microbiota in post-FMT patients 338 could be attributed to donor strain transfer instead of temporal variability
+  339 Furthermore, marked differences in colonization success were observed between UC 340 and CD recipients who shared a donor (subjects CD-1,2,3,8, and UC-,)
+ 3 days after 341 treatment, UC-1,2 retained a higher amount of donor-specific SNVs compared to 342 CD-1,2,3,8 (
+9%, 
+4%, 
+9%, 
+4%, 
+5%, and 
+3%, respectively)
+ Extensive 343 coexistence of donor and recipient strains (CD: in 
+1  
+1% of shared species, UC: 344 
+3  
+1%) was found in all other recipients, and persisted for at least one month
+ 345 This suggests that novel strains can colonize the gut without replacing the indigenous 346 strain population of the recipient
+ It appeared that introduced strains were more likely 347 to be established in a new environment if the species was already present, and a pattern 348 of donor strains establishing alongside indigenous strains of the recipient was observed
+ 349 While the phenomenon of donor strain establishment occurred in both CD and UC 350 recipients, UC patients were more susceptible to external sources of microbiota (Figure 351 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    DSM 1402 only exerted strain displacement in CD patients, while donor-specific 357 Blautia obeum A2-162, Bifidobacterium longum subsp
+infantis ATCC 15697 = JCM 359 1222 = DSM 20088, Anaerostispes hadrus, and Eubacterium rectale M104/1 only 360 Construction of a prediction model for gut microbiota composition of post-FMT 362 According to what we have discovered in previous species-level analysis, microbiota 364 of post-FMT recipients are a complex mixture of species from the donor, species from 365 the recipient, and species gained from the environment
+ We speculated that after 366 accounting for the gut microbiota composition of pre-FMT recipients and donors, 367 along with the corresponding clinical metadata of the recipients, we might be able to 368 predict the post-FMT gut microbiota of the recipients
+ We, therefore, performed 369 random forest classification and regression analysis, which is non-linear and can accept 370 categorical and continuous predictors simultaneously from our data ()
+  371 To investigate whether species compositions of post-FMT patientsthat is, the 372 mOTUs profileswere predictable, we first examined the presence of each mOTU 373 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    computed the average area under the curve (AUC) (mean = 
+2%, SD = %)
+ We 375 then utilized a randomForest regression model to test the predictability of abundance of 376 each mOTU (rho = 
+478, P < 
+ e-)
+ Results indicated that the presence of most 377 (>80%) species of post-FMT recipients was highly predictable (AUC > 85%), while a 378 small portion of species was not
+ The abundance of mOTUs of post-FMT recipients 379 was moderately predictable (Figure A)
+ Our results were poorer than a similar study 380 conducted by Christopher S
+ Smillie et al (20) on 19 R-CDI patients
+ One possible 381 explanation for this discrepancy may be that they included other predictors in their 382 model construction in addition to the ones we used: taxonomy, abundance, clinical 383 The RandomForest model also provided an algorithm to rank the contribution of each 385 predictor based on variable importance score
+ According to our analysis, among the top 386 40 most important variables (see Materials & Methods), the IgA score, T-cell, and Th 387 cell-induced of the recipients were the top three clinical-related elements
+ 388 the classification model (Figure B)
+ In terms of species-related factors, 391 Streptococcus
+anginosus was reported to be associated with colorectal cancer and 392 Ruminococcus
+gnavus was found to be linked with a certain type of immunological 393 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    Out of all 15 patients, 8 out of 11 CD patients and 3 out of 4 UC patients were relieved 396 3 days after FMT treatment
+ Clinical improvement was defined as a decrease in the 397 Harvey-Bradshaw Index > 3 for CD, and a decrease in the Mayo score > 3 for UC 398 Relationship between changes in clinical index and changes in gut microbiota 400 Potential antigens in the microflora could have pro- or anti-inflammatory effects, and it 401 could be argued that by reacting to these antigens, an organism is mounting an 402 autoimmune response; by extension, the chronic mucosal inflammation of IBD could 403 be thought of as an autoimmune disease
+ Given this perspective, it would make sense 404 to relate the change in clinical parameters to the abundance change of gut microbiota in 405 response to FMT treatment
+ We established the relationships between the change in 406 clinical indexes as well as in mOTUs of recipients using Spearmans correlation
+ We 407 been identified to be higher in IBD patients than in normal people in previous studies, 411 Lactobacillus
+salivarius, a probiotic bacterium that lives in the gastrointestinal tract 415 and has a range of therapeutic properties including suppression of pathogenic bacteria 416 ()
+ Changes in TSC were significantly positively correlated with changes in 417 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    Bacteroides
+fragilis, which is found in most anaerobic infections and can promote the 418 induction of type 1 T helper (TH1) cells, suppress IL-17 production, and improve 419 experimental colitis ()
+ Additionally, we tested whether the physical characteristics 420 of patients, such as BMI, age, and disease duration, (Table S2) could affect clinical 421 outcomes
+ Changes in CD4+CD8+, Th
+ cell
+Induced (counted by Flow cytometry), and 422 abdominal pain score were found to significantly negatively correlate with the disease 423 start age of patients (p < 
+05), which could reflect disease duration
+ In addition, 424 with the age of patients (when patients received FMT treatment)
+ Disease duration and 426 the age of patients were also discovered to be important features in the random forest 427 classification model
+ As a result, we speculated that disease duration and age could be 428 used as stratifying factors for IBD patients in future therapy plans (Figure B)
+ 429 Consistent with previous findings, our study found reduced bacterial diversity in CD 432 and UC patients
+ Strain level analysis monitored across samples revealed that 3 days 433 after FMT treatment, a certain amount of species had noticeable strain replacements
+ 434 differentially competitive advantages during the process of displacement, measured by 436 their relative abundance in recipients after FMT
+ We also observed that same-donor 437 recipients undergo varying degrees of gut microbiome shifts, implying that the FMT 438 treatment effect may be patient-specific, and raising the possibility of patient 439 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    We also aimed to identify factors that could contribute to the accurate prediction of 441 post-FMT gut microbiota composition of the recipients
+ The moderate predictability of 442 the classification and regression model suggests that the gut microbiota composition of 443 post-FMT recipients can be recognized not through sequencing methods but through 444 algorithms, indicating a promising future towards FMT precision treatment
+ In our 445 model, we only take the species composition of the donor and pre-FMT patient, along 446 with clinical indexes of the pre-FMT patient as predictors
+ There is space left to 447 enhance the resolution of prediction accuracy
+ Based on previous studies concerning 448 the etiology of IBD, factors like genetic background, non-bacterial components 449 (virome, fungi), metabolites profile, and dietary records have the potential to account 450 Associations between immunological factors and clinical outcomes provide us with 452 some limited but intriguing perspectives
+ CD4+CD8+, TSC, and Th
+ cell
+Induced have 453 been found to be associated with certain bacterial species, implying that bacteria have 454 the potential to affect the adaptive immunity of patients
+ However, there are many 455 intermediate issues to be dealt with before making a cohesive interpretation of this 456 metabolomics will minimize the gap between gut microbiota and immunological 458 The present attractive clinical findings are mainly based on our one-hour FMT protocol 460 for providing fresh FMT, which means the time from defecation of stool to deliver 461 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    purified microbiota to patients intestine within one hour (,)
+ Another factor 462 contributing to this positive clinical response, according to our experience, might be 463 the criteria of donor screening which is based on young age population, generally 464 cover children and college students under 24-year-old ()
+ However, the small sample 465 size of our study and the incomplete follow-up visits inevitably limited the scope of 466 our results
+ Future studies need to include a larger study cohort and longer tracking 467 times for the explicit identification of specific bacterial strains that may play a role in 468 FMT treatment efficacy, and to uncover a comprehensive principle of strain 469 Contributors: Conceptualization, Methodology, and Writing  Zhuye Jie, Manli Zou, 472 Bota Cui and Faming Zhang; Revision & Editing  Faming Zhang, Huijue Jia; 473 Acquisition of data  Bota Cui, Honggang Wang, Qiang Feng; Materia Support  474 Yuanqiang Zou, Xiuqing Zhang, Huanming Yang, Jian Wang; Software and Formal 475 Analysis, Manli Zou and Zhuye Jie; Writing  Original Draft, Manli Zou, and Zhuye 476 Disclaimer: The authors declare that they have no competing interests and there is 479 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    The work was financially supported by grants from the Macau Technology Developme484 Ethics approval: This study was approved by BGI-IRB (BGI-R004-05)  491 The quality-controlled sequencing reads are available in the CNGB Nucleotide 495 
+ Khor, Bernard, Agnes Gardet, and Ramnik J
+ Xavier
+ "Genetics and pathogenesis of 504 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    
+ Manichanh C, Borruel N, Casellas F, et al The gut microbiota in IBD[J]
+ Nature Reviews 506 
+ Halfvarson J, Brislawn C J, Lamendella R, et al Dynamics of the human gut microbiome in 508 
+ Borody T, Torres M, Campbell J, et al Reversal of inflammatory bowel disease (IBD) with 510 
+ Zhang F M, Wang H G, Wang M, et al Fecal microbiota transplantation for severe 513 enterocolonic fistulizing Crohns disease[J]
+ World journal of gastroenterology: WJG, 2013, 514 
+ Gutin L, Piceno Y, Fadrosh D, et al Fecal microbiota transplant for Crohn disease: A study 516 
+ Paramsothy, Sudarshan, et al Multidonor intensive faecal microbiota transplantation for 519 active ulcerative colitis: a randomised placebo-controlled trial Lancet Lond Engl 2017; 520 
+ Moayyedi P, Surette M G, Kim P T, et al Fecal microbiota transplantation induces remission 522 in patients with active ulcerative colitis in a randomized controlled trial[J]
+ Gastroenterology, 523 
+ Rossen N G, Fuentes S, van der Spek M J, et al Findings from a randomized controlled 525 trial of fecal transplantation for patients with ulcerative colitis[J]
+ Gastroenterology, 2015, 526 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    
+ Colman R J, Rubin D T
+ Fecal microbiota transplantation as therapy for inflammatory bowel 528 disease: a systematic review and meta-analysis[J]
+ Journal of Crohn's and Colitis, 2014, 529 
+ Angelberger S, Reinisch W, Makristathis A, et al Temporal bacterial community dynamics 531 vary among ulcerative colitis patients after faecal microbiota transplantation[J]
+ The 532 
+ Gordon H, Harbord M
+ A patient with severe Crohn's colitis responds to Faecal Microbiota 534 
+ Cui B, Feng Q, Wang H, et al Faecal microbiota transplantation through midgut for 536 refractory Crohn's disease: Safety, feasibility, and efficacy trial results[J]
+ Journal of 537 
+  Suskind D L, Brittnacher M J, Wahbeh G, et al Faecal microbial transplant effect on 539 clinical outcomes and faecal microbiome in active Crohn's disease[J]
+ Inflammatory bowel 540 
+ Frank D N, Amand A L S, Feldman R A, et al Molecular-phylogenetic characterization of 542 microbial community imbalances in human inflammatory bowel diseases[J]
+ Proceedings of 543 
+ Hansen R, Russell R K, Reiff C, et al Microbiota of de-novo pediatric IBD: increased 545 Faecalibacterium prausnitzii and reduced bacterial diversity in Crohn's but not in ulcerative 546 
+ Bron P A, Van Baarlen P, Kleerebezem M
+ Emerging molecular insights into the interaction 548 between probiotics and the host intestinal mucosa[J]
+ Nature Reviews Microbiology, 2012, 549 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    
+ Needham B D, Carroll S M, Giles D K, et al Modulating the innate immune response by 551 combinatorial engineering of endotoxin[J]
+ Proceedings of the National Academy of 552 
+ Spanogiannopoulos P, Bess E N, Carmody R N, et al The microbial pharmacists within us: 554 a metagenomic view of xenobiotic metabolism[J]
+ Nature Reviews Microbiology, 2016, 555 
+ Smillie C S, Sauk J, Gevers D, et al Strain tracking reveals the determinants of bacterial 557 engraftment in the human gut following faecal microbiota transplantation[J]
+ Cell host & 558 
+ Vrieze A, Van Nood E, Holleman F, et al Transfer of intestinal microbiota from lean donors 560 
+ Fang C, Zhong H, Lin Y, et al Assessment of the cPAS-based BGISEQ-500 platform for 563 
+ Sunagawa S, Mende D R, Zeller G, et al Metagenomic species profiling using universal 565 
+ Costea P I, Munch R, Coelho L P, et al metaSNV: A tool for metagenomic strain level 567 
+ Liaw A, Wiener M
+ Classification and regression by randomForest[J]
+ R news, 2002, 2(3): 569 
+ Shannon P, Markiel A, Ozier O, et al Cytoscape: a software environment for integrated 571 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    
+ Zhou Y, Zhi F
+ Lower level of bacteroides in the gut microbiota is associated with 574 
+ Li S S, Zhu A, Benes V, et al Durable coexistence of donor and recipient strains after faecal 577 
+ Neville B A, OToole P W
+ Probiotic properties of Lactobacillus salivarius and closely related 579 
+ Deng H, Li Z, Tan Y, et al A novel strain of Bacteroides fragilis enhances phagocytosis and 581 
+ Wang H, Cui B, Li Q, et al The safety of fecal microbiota transplantation for Crohns 583 disease: Findings from a long-term study[J]
+ Advances in therapy, 2018, 35(11): -
+ 584 
+ Ding X, Li Q, Li P, et al Long-Term Safety and Efficacy of Fecal Microbiota Transplant in 585 
+ Zhang F, Zhang T, Zhu H, et al Evolution of fecal microbiota transplantation in methodology 587 and ethical issues[J]
+ Current opinion in pharmacology, 2019, 49: -
+ 588 
+ Manli Z, Zhuye J, Bota C, et al Bacterial strain displacement in inflammatory bowel 589 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    Figure 
+ Study design and follow-up visits of the patients  604 To recognize each patient in simplicity, we labeled each of them with disease subtypes 606 CD- or UC- as prefix plus a random assigned number as suffix
+  607 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    Figure 
+ Bacterial communities undergo compositional changes in IBD recipients 609 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    (A) The Shannon index of gut microbiota was lower in IBD patients than in healthy 612 controls, and was not significantly improved 3 days after FMT (p-value > 
+ )
+ 613 (B) The proportion of species gained from the donor in post-FMT recipients lasts 615 during follow-up visits
+ However, the proportions varied among recipients, even 616 those who shared a donor (labels with the same color)
+ Gut microbiota composition 617 per patient was divided into four parts: orange represented donor-specific species, 618 yellow represented species shared by donor and recipient, purple represented 619 recipient-specific species and green represented newly gained species
+    620 Figure 
+ High compositional resemblance of the gut microbiomes of post-FMT 622 recipients and their pre-status, as well as post-FMT recipients and their donors
+ 623 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    (A) After FMT, the microbiota composition of most patients is further from their initial 625 status than natural shift observed in placebo (solid black line)
+ Additionally, 626 recipients with the same donor (lines of the same color) may vary in their shifting 627 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    (B) High consistency (median cosine similarity > 
+9) is found between post-FMT IBD 629 patients (3 days after treatment) with their pre-FMT status, as well as with their 630 Figure 
+ UC recipients display higher strain level variations than CD recipients 3 633 Single-site allelic variations of UC and CD recipients after FMT treatment are a bit 636 higher than autologous FMT recipients (p-value = 
+148 and 
+234, respectively)
+ 637 Single-site allelic variations of UC recipients are significantly higher than CD 638 Figure 
+ Some donor-specific strains undergo transfer, and the existence of donor 641 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    The rate of donor strain transfer is greatest in recipients 3 days after FMT (UC: 
+8 644 
+3%, CD: 
+4 
+3%), and a portion of them persists in recipients 1 month later 645 (UC: 
+9%, CD: 
+99 
+ %)
+ Proportions of donor- and recipient-specific strains 646 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    across 50 species are shown in orange and purple, respectively
+ 647 Figure 
+ Random forest models have the ability to predict the gut microbiota 649 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    (A) Left panel shows the classification result: predicted values have a moderate 652 consistency with true values (rho = 
+478 and p-value < 
+ e-)
+ Right panel 653 shows the regression result: a boxplot of all the AUC values of each mOTU in 654 post-FMT recipients (median AUC value = 
+2%, SD = %)
+ 655 (B) Important variables are computed across those models, defined as those with an 656 AUC value greater than 
+ 
+ Important variables are divided into different 657 categories (represented by different colors)
+ The top 25 variables are classified as 658 Figure 
+ Some clinical indexes of IBD recipients have significantly changed 3 661 days after FMT, and several clinical indexes correlated with changes in the 662 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    (A) Mental status, appetite, tenesmus, etc
+ significantly changed 3 days after FMT 665 (p-value < 
+ )
+ Vertical dotted line indicates a p value of 
+ 
+ 666 (B) Defecation changes and CD4+CD8+ changes have relationships with several 667 mOTUs
+ Blue represents a significant positive correlation, while red indicates a 668 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    significant negative correlation (p-value < 
+ )
+ The width of the lines indicates 669 Figure S
+ The amount of donor-specific species gain after FMT differs, even for 672 Recipients that share a donor are colored the same
+  674 Figure S
+ A certain number of donor species display apparent transfer after FMT 676 Heatmap and hierarchical clustering of mOTU profiles for all samples
+ Pre- and 678 post-FMT CD recipients, pre- and post-FMT UC recipients, and healthy controls are 679 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted August 5, 
+ ;    

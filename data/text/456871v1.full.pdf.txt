@@ -1,0 +1,501 @@
+Meropenem vs standard of care for treatment of neonatal late onset sepsis (NeoMero1): a randomised controlled trialMeropenem vs standard of care for treatment of neonatal late onset sepsis (NeoMero1): 1 Irja LUTSAR MD1,  Corine CHAZALLON MSc2,  Ursula TRAFOJER MD3,  Vincent 3 MEIFFREDY de CABRE MD2,  Cinzia AURITI MD4,  Chiara BERTAINA MD5, Francesca 4 Ippolita CALO CARDUCCI MD5, Fuat Emre CANPOLAT6, Susanna ESPOSITO MD7, 5 Isabelle FOURNIER MD2, Maarja HALLIK MD8, Paul T
+ HEATH FRCPCH9, Mari-Liis 6 ILMOJA MD1,8, Elias IOSIFIDIS MD10, Jelena KUZNETSOVA MD11, Laurence Meyer 7 MD2, Tuuli METSVAHT MD1,11, George MITSIAKOS MD12, Zoi Dorothea PANA MD10, 8 Fabio MOSCA MD13, Lorenza PUGNI MD13, Emmanuel ROILIDES MD10, Paolo ROSSI 9 MD5, Kosmas SARAFIDIS MD14, Laura SANCHEZ15, Michael SHARLAND MD9, Vytautas 10 1 University of Tartu, Institute of Translational Medicine, Ravila 19, 50435 Tartu, Estonia  13 3 Neonatal Intensive Care Unit, Women's and Children's Health Department, Azienda 15 4 Neonatal Intensive Care Unit, Department of Neonatology, Bambino Ges Childrens 17 5 Immunological and Infectious Disease Unit, University Department of Paediatrics, Bambino 19 6 Salk Bilimleri niversitesi, Zekai Tahir Burak Kadn Sal Eitim ve Aratrma 21 7 Pediatric Highly Intensive Care Unit, Universit degli Studi di Milano, Fondazione IRCCS 23 Ca Granda Ospedale Maggiore Policlinico, Via Della Commenda 12, Milan, Italy 24 8 Tallinn Childrens Hospital, Department of Intensive Care, Tervise 28, 13419 Tallinn, 25 9 Paediatric Infectious Disease Research Group, Institute for Infection and Immunity, St 27 10 Infectious Diseases Unit, 3rd Department of Pediatrics, Faculty of Medicine, Aristotle 29 University School of Health Sciences, Hippokration Hospital, Konstantinoupoleos 49, 54642 30 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    11 Tartu University Hospital, Clinic of Anaesthesiology and Intensive Care, Puusepa 1a, 32 12 2nd Department of Neonatology, Faculty of Medicine, Aristotle University School of Health 34 13 Neonatal Intensive Care Unit, Universit degli Studi di Milano, Fondazione IRCCS Ca 36 Granda Ospedale Maggiore Policlinico, Via Della Commenda 12, Milan, Italy 37 14 1st Department of Neonatology, Faculty of Medicine, Aristotle University School of Health 38 15 Hospital Universitario Infantil LA PAZ- H
+ Carlos III, Madrid, Spain 40 16 Faculty of Medicine, Vilnius University, Santariskiu 4, LT-08406 Vilnius, Lithuania 41 17 MRC Centre for Medical Mycology, Institute of Medical Sciences, University of Aberdeen, 42 18 Department of Women's and Children's Health, University of Padova, Padova, Italy
+ 44 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    The early use of broad-spectrum antibiotics remains the cornerstone for the treatment of 58 neonatal late onset sepsis (LOS)
+ However, which antibiotics should be used is still debatable, 59 as relevant studies were conducted more than 20 years ago, were single centre or country, 60 insufficiently powered, evaluated antibiotics not in clinical use anymore and had variable 61 have become a major problem in many countries worldwide
+ We hypothesized that efficacy of 63 meropenem as a broad spectrum antibiotic is superior to standard of care regimen (SOC) in 64 empiric treatment of LOS and thus aimed to compare the efficacy and safety of meropenem to 65 NeoMero-1 was a randomized, open-label, phase III superiority trial conducted in 18 neonatal 68 units in 6 countries
+ Infants with post-menstrual age (PMA) of 44 weeks with positive blood 69 culture and one, or those with negative culture and at least with two predefined clinical and 70 laboratory signs suggestive of LOS, or those with PMA >44 weeks meeting the Goldstein 71 criteria of sepsis, were randomized in a 1:1 ratio to receive meropenem or SOC 72 (ampicillin+gentamicin or cefotaxime+gentamicin) for 8-14 days
+  The primary outcome was 73 treatment success (survival, no modification of allocated therapy, resolution/improvement of 74 clinical and laboratory markers, no need of additional antibiotics and presumed/confirmed 75 eradication of pathogens) at test-of-cure visit (TOC) in full analysis set
+ Stool samples were 76 tested at baseline and day 28 for meropenem-resistant Gram-negative organisms (CRGNO)
+  77 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    The primary analysis was performed in all randomised patients (full analysis set) and in 78 patients with culture confirmed LOS
+ Proportions of participants with successful outcome 79 were compared by using a logistic regression model adjusted for the stratification factors
+  80 From September 3rd 2012 to November 30th 2014, in total 136 patients in each arm were 81 randomized; 140 (52%) were culture positive
+ Success at TOC was achieved in 44/136 (32%) 82 in the meropenem arm vs
+ 31/135 (23%) in the SOC arm (p=
+087); 17/63 (27%) vs
+ 10/77 83 (13%) in patients with positive cultures (p=
+ )
+ The main reason of failure was 84 modification of allocated therapy
+ Adverse events occurred in 72% and serious adverse events 85 in 17% of patients, the mortality rate was 6% with no differences between study arms
+ 86 Cumulative acquisition of CRGNO by day 28 occurred in 4% in the meropenem and 12% in 87 Meropenem was not superior to SOC in terms of success at TOC, short term hearing 90 disturbances, safety or mortality and did not outselect colonization with CRGNOs
+ 91 Meropenem as broad-spectrum antibiotic should be reserved for neonates who are more likely 92 to have Gram-negative LOS, especially in NICUs where microorganisms producing ESBL 93 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    Despite significant changes in neonatal care over the last several decades, late onset bacterial 102 sepsis (LOS) is still one of the leading causes of neonatal morbidity and mortality in 103 developing but also in highly developed countries [-]
+ Although LOS is predominantly 104 caused by coagulase negative staphylococci (CoNS) (36-66% of cases), Gram-negative rods 105 are responsible for about 26-36% of cases [3, ]
+  106 The early use of broad spectrum antibiotic regimens remains the cornerstone for the treatment 107 of LOS
+ However, which antibiotic regimen should be used is still debatable, as relevant 108 studies were conducted more than 20 years ago, were single centre or single country, 109 insufficiently powered, evaluated antibiotics not in clinical use anymore and had variable 110 inclusion/exclusion criteria and outcome measures [5, ]
+ As a result, most antibiotics are 111 prescribed off-label in neonates [7, 8] and treatment guidelines are based on expert opinion 112 rather than on evidence from randomised controlled trials (RCT) []
+ As an example of this, 113 we showed that 49 different antibiotic regimens were used for the empiric treatment of LOS 114 in 111 patients across Europe []
+ In addition, there is significant variation in antibiotic, 115 including meropenem, dosing in neonatal intensive care units (NICUs) []
+ The issue is now 116 further complicated by the rise of antibiotic resistance in NICUs worldwide [12] and the 117 Meropenem is a low protein-bound (2%), broad-spectrum carbapenem with activity against a 119 wide variety of Gram-positive and Gram-negative bacteria including anaerobes and extended 120 has been used off-label in NICUs for more than a decade [16] because of concerns around 122 high rates of extended spectrum beta-lactamase producing enterobacteria and is now the 123 second most commonly used antibiotic [11, ]
+ The advantage of meropenem is its wider 124 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    antibacterial coverage and thus potential of using  monotherapy instead of combination 125 therapy
+ However, there is serious concern  around selection of carbapenem-resistant Gram-126 The safety and effectiveness of meropenem was recently evaluated in a single arm study 128 including 200 infants < 91 days with suspected or confirmed intraabdominal infections
+ In this 129 study, however, only 11% of patients received meropenem as monotherapy and only 15% 130 (29/200) had positive blood cultures
+ The study demonstrated that meropenem was well 131 tolerated and efficacious []
+ Meropenem was included in the European Medicines Agency 132 priority list of off-patent drugs for which studies in neonates are requested 133 The general aim of the study was to suggest the appropriate use of meropenem in settings 136 with low and medium level multi-drug resistance
+ Thus, the efficacy and safety of meropenem 137 with a predefined standard of care (SOC) regimen for the treatment of LOS in patients 138 admitted to NICU were compared
+ The distribution of LOS-causing microorganisms and their 139 antibiotic susceptibility, relapse- and new infection rates, short term outcome of LOS and 140 NeoMero-1 was a randomised, open-label study conducted in 18 NICUs in Estonia, Greece, 145 Italy, Lithuania, Spain and Turkey []
+ Patients with LOS and postnatal age (PNA)  90 days 146 were eligible for inclusion
+ Culture confirmed LOS was defined as the presence of at least one 147 positive culture from a normally sterile site together with at least one abnormal clinical or 148 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    laboratory parameter within the 24 hours prior to randomisation as demonstrated in Table 1 149 []
+ Clinical sepsis criteria were based on postmenstrual age (PMA)
+ If PMA was > 44 150 weeks the International Paediatric Sepsis Consensus Conference criteria had to be met []
+ 151 For patients with PMA  44 weeks the criteria defined by the European Medicines Agency 152 Expert Meeting on Neonatal and Paediatric Sepsis [5, 20] were used and the presence of at 153 least two clinical and two laboratory parameters were required (Table )
+  154 Table 
+ Clinical and laboratory parameters defining LOS in patients with PMA  44 weeks 155 
+ reduced urinary output or hypotension or mottled skin or impaired peripheral perfusion;  
+ apnea or increased oxygen requirement or need for ventilatory support;  
+ skin and subcutaneous lesions (such as petechial rash or sclerema) 
+ white blood cell count < 4 or > 20 x 109 cells/L;  not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    
+ C-reactive protein > 15 mg/L or procalcitonin  2 ng/mL;  
+ glucose intolerance when receiving normal glucose amounts (8-15 g/kg/day) as expressed by blood glucose values > 180 mg/dL or hypoglycemia (<40 mg/dL) confirmed on at least 
+ acidosis with base excess (BE) < -10 mmol/L or lactate above 2 mmol/L Patients who had received systemic antibiotics for more than 24 hours within the 7 days prior 157 to randomisation (except treatment failures), had meningitis and/or organisms suspected or 158 known to be resistant to study antibiotics, were not expected to survive for more than three 159 months, had renal failure and/or required hemofiltration or peritoneal dialysis, were excluded
+ 160 Patients were centrally randomised using a computer generated randomisation list (1:1 ratio) 163 to either meropenem or one of the two SOC regimens (ampicillin + gentamicin or cefotaxime 164 + gentamicin) chosen by each site prior to the start of the study
+ Patients were stratified by 165 SOC regimen and use of systemic antibiotics for LOS in the 24 hours prior to randomisation
+  166 Meropenem was given via 30-minute intravenous infusion at a dose of 20 mg/kg q8h with the 169 exception of those with gestational age (GA) < 32 weeks and PNA <2 weeks who received 170 the same dose q12h with the possibility to increase dosing frequency to q8h from a PNA of 171 two weeks
+ Ampicillin, cefotaxime and gentamicin were administered according to the British 172 National Formulary for Children (BNFC, www
+ bnfc
+org )
+ Total duration of allocated therapy 173 was predefined as 8 to 14 days
+ The concomitant use of other systemic antibiotics was not 174 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    allowed with the exceptions of vancomycin, teicoplanin or linezolid, if started pre-175 Patients were examined at Day 0 (screening and randomisation),  Day 3, end of antibacterial 178 therapy (EOT) and test of cure (TOC) visit, which was performed 2  1 days after EOT for 179 patients treated with antibiotics for the predefined duration (11  3 days)
+ Short-term follow-180 up visit was performed on Day 28 by on-site visit or telephone call
+ 181 Microbiological samples were taken at baseline, Day 3, on appearance of any new signs 182 suggestive of LOS and repeated until the relevant microorganisms were no longer detected
+ 183 All samples were processed at local laboratories according to their own guidelines
+ In a post-184 hoc analysis two experts (IL and JG) reviewed susceptibility data and categorised organisms 185 as susceptible, non-susceptible to study antibiotics, or not possible to categorise
+ Rectal swabs 186 were collected within 72 hours of baseline, at EOT and at Day 28 visit or NICU discharge, 187 and stored locally at -80C before being periodically transferred to the central Biobank
+ The 188 samples were then sent in regular batches to St Georges, University of London, Department 189 of Medical Microbiology
+ The thawed faecal samples were cultured using selective media and 190 CRGNO if phenotypic resistance was detected to meropenem or if Stenotrophomonas 193 maltophilia was isolated, and to be highly CRGNO if meropenem MIC values were 8 mg/L
+ 194 Acquisition of CRGNO during the study was defined if these microorganisms were not 195 detected at baseline but were found in subsequent colonisation cultures
+  196 Hearing was assessed according to local protocol between EOT and Day 28 visit
+ 197 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    Cerebral ultrasound (and if persistently abnormal, magnetic resonance imaging or computed 198 tomography) was undertaken at any time between EOT and Day 28 visit
+  199 Blood and cerebrospinal fluid samples were collected for pharmacokinetic assessment; the 200 The composite primary endpoint was assessed at the TOC visit and defined as success if (1) 204 the patient was alive, and (2) all baseline clinical and laboratory parameters that defined LOS 205 were resolved or improved, (3) there was no need to continue antibiotics, (4) the baseline 206 microorganisms were eradicated or presumably eradicated with no new microorganisms 207 identified, and (5) allocated therapy was given for 11  3 days without any modification for 208 The secondary outcomes were safety, clinical and laboratory response on Day 3, and EOT, 210 survival at Day 28, time to NICU discharge, presence of hearing disturbances and 211 abnormalities in brain ultrasound, acquisition of CRGNO in rectal swabs and occurrence of 212 relapses or new infections after successful outcome at TOC visit until Day 
+ Clinical 213 relapses were defined as recurrence of LOS together with initiation of a new course of 214 antibiotic treatment, and microbiological relapse as an isolation of a phenotypically similar 215 organism from a normally sterile site in a patient with signs of infection
+ 216 On limited data available, we estimated that failure rate in the control arm would be 36% []
+ 219 The required sample size to show a reduction of failure rate by about a third (from 36% to 220 23%) with 80% power in the meropenem arm using a 2-sided test at an alpha level of 
+05, 221 was 220 patients per arm
+ Using a clinical definition of LOS, an ineligibility rate of 15% to 222 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    20% was anticipated
+ The sample size was thus conservatively increased to 275 subjects per 223 arm to compensate for the dilution effect
+ Recruitment was closed on November 30th, 2014 at 224 272 patients randomised, due to expiration of funding by the European Commission
+ 225 Considering the unexpected overall high rate of failures (70% instead of 36% due to frequent 226 modifications of allocated therapy) and the very low percentage of subjects not having LOS, 227 we calculated that the study had already yielded 80% power to show a 20% reduction of the 228 The primary analysis included all randomised patients (full analysis set - FAS)
+ Analysis of 230 the primary endpoint was also performed in patients with culture confirmed LOS
+ Proportions 231 of participants with successful outcome were compared by using a logistic regression model 232 adjusted for the stratification factors
+ Additional efficacy analyses were performed by 233 ignoring the changes in allocated therapy due to safety reasons or all changes of allocated 234 therapy and by allowing duration of allocated therapy between 7 and 14 days
+  Other efficacy 235 endpoints included clinical response at Day 3, end of allocated therapy and EOT, new 236 Survival at day 28 was described using Kaplan-Meier method and curves were compared 238 using a log rank test
+ A significance level of 5% was used and all p-values were the results of 239 All analyses were performed with the use of SAS software, version 
+3 (SAS institute)
+ 241 The local Ethics Committees approved the study protocol
+  The informed consent was signed 244 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    The study was overseen by an independent data safety monitoring board and was registered in 246 This study was funded by the European Commission under the FP7 program (grant number 249 242146) but they had no role in study design or in the analysis of data
+ Chiesi Farmaceutici 250 S
+ P
+ A
+ provided meropenem and collaborated in the study management
+  251 A total of 277 infants were consented and 136 in each arm underwent randomization from 255 September 3rd 2012 to November 30th 
+ In the SOC arm 48 (35%) patients were 256 assigned to ampicillin + gentamicin and 88 (65%) to cefotaxime + gentamicin (Figure )
+ One 257 patient with a major informed consent violation in the SOC arm was excluded leaving 271 258 patients to be analysed for efficacy; 140 (52%) of them had culture proven LOS
+  There were 259 268 (99%) patients who received at least one dose of allocated therapy and were included in 260 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    Figure 
+ Flowchart of the study NeoMero-
+  EOS  early onset sepsis; SOC  standard of 263 care; FAS  full analysis set; AT  allocated therapy; LOS  late onset sepsis; FU  follow-up 264 The baseline characteristics of patients were well balanced between both arms (Table )
+ They 286 were also similar when patients were sub-grouped according to prior antibiotic treatment, 287 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    culture proven LOS or presence of Gram-positive or Gram-negative LOS (data not shown)
+ 288 Patients in the ampicillin+gentamicin sites were more mature than those in the cefotaxime+ 289 gentamicin sites (median PMA 
+8 vs
+ 
+3 weeks and median BW 2560g vs
+ 1105g, 290 Table 
+ Characteristics of study population in meropenem and SOC arm at baseline (FAS 292 population)
+ Data are presented as numbers (%) if not stated otherwise 293 Median GA weeks (IQR) 
+6 (
+4 - 
+3) 
+6 (
+0 - 
+3) Median PNA days (IQR) 16 (8 - 30) 16 (8 - 30) Median PMA days (IQR) 
+5 (
+5 - 
+7) 
+8 (
+9 - 
+1) Median (IQR) birth weight (g) 1540 (840 - 2830) 1340 (850 - 2530) not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    * defined by birth weight  10 th percentile; IQR  interquartile range, 294 In total 200 (74%) patients were premature (35% with birth weight <1000 g) and only 11 had 296 a PMA >44 weeks
+ In the 24 hours prior to randomisation 73% of patients had received 297 antibiotics; 24% had received meropenem with a similar frequency in both study arms (Table 298 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    Patients of PMA 44 weeks had a median (IQR) of 3 (3-4) clinical and 2 (2-3) laboratory 300 signs at baseline, in both arms
+ Clinical or laboratory signs seen in more than 50% of patients 301 were impaired peripheral perfusion, mottled skin, CRP >15 mg/L and lactate >2 mmol/L 302 Figure 
+ Distribution of Clinical criteria of LOS at baseline in patients of PMA < 44 weeks 304 The numbers represent the following clinical signs: 1- Impaired peripheral perfusion, 2- Mottled skin, 3- Feeding 307 intolerance, 4-Apnoea, 5-Increased oxygen requirement, 6- Requirement for ventilation support, 7- Abdominal 308 distension, 8- Hypotonia, 9-Tachycardia, 10:  Lethargy, 11:  Bradycardia spells, 12: Hyperthermia, 13: 309 Hypothermia, 14: Hypotension, 15: Other skin and subcutaneous lesions, 16:  Irritability, 17: Rhythm instability, 310 18:  Reduced urinary output, 19: T instability, 20: Petechial rash, 21: Sclerema 311 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    Baseline blood cultures were positive for 63/132 (46%) patients in the meropenem and 77/135 314 (57%) in the SOC arm with no differences in species distribution between study groups 315 Table 
+ Causative agents of LOS and their susceptibility to study antibiotics 317 -          -Enterobacter spp
+ 8 (13) 7 (78) 10 (13) 6 (55) -          -K
+ pneumoniae 7 (11) 6 (86) 4 (5) 3 (75) not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    -          -K
+ oxytoca 4 (6) 4 (100) 3 (4) 3 (100) -          -Serratia spp
+ 0 - 1 (1) 1 (100) -          -Pseudomonas spp
+ 2 (3) 2 (100) 2 (3) 1 (50) All differenecs non-significant between study arms; GBS  group B streptococci; MRSA  methicillin 318 Of all Gram-negative microorganisms a total of 46 (94%) were susceptible to meropenem, 17 320 (59%) to cefotaxime, 2 (4%) to ampicillin and 32 (65%) to gentamicin
+ Altogether 32/63 321 (51%) of all microorganisms in the meropenem and 32/77 (42%) in the SOC arms were 322 Allocated therapy was used according to the protocol in 134 (99%) of patients in the 326 meropenem and 127 (94%) in SOC arm
+ In total, 65 (48%) and 67 (50%), received allocated 327 therapy alone and 69 (51%) and 58 (43%) received concomitantly glycopeptides in the 328 meropenem and SOC arms, respectively
+ The median duration of allocated therapy was 329 comparable in both arms (
+9 [IQR 
+ -
+7] days in the meropenem vs 
+0 [IQR 
+ -
+6] days 330 in the SOC arm; p = 
+089) but the duration of any antibiotic therapy was shorter in the 331 meropenem than in the SOC arm (
+0 [IQR 
+ -
+0] vs 
+4 [IQR 
+ -
+3] days, 332 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    In the FAS the primary outcome (i
+ e
+ the proportion of patients with a successful outcome at 336 TOC) was comparable in both study arms - 44/136 (32%) in meropenem vs 31/135 (23%) in 337 Table 
+ Primary analysis: primary endpoint and culture-confirmed LOS
+ Data are presented 339 Death before TOC 10 (7) 6 (4) 3 (5) 4 (5) *p=
+09, OR 95%CI: 
+6 (
+9  
+8); **p=
+02, OR 95% CI: 
+0 (
+2  
+5) (logistic model 341 In the culture confirmed LOS population the efficacy of meropenem was greater than that of 343 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    The main reason for failure was modification of allocated therapy, which was more frequent 345 in the SOC than in the meropenem arm
+ However, time on allocated therapy did not influence 346 on probability of survival as shown in Figure 
+  347 Figure 
+ Survival probability and time to modification of allocated therapy (p = 
+0712; log-348 Failure was also due to completion of allocated therapy before Day 8 (38%) and diagnosis of 351 meningitis (13%) in the meropenem arm, while isolation of resistant microorganisms (19%), 352 lack of clinical response (18%) and inappropriate study antibiotics (18%) were the most 353 Table 
+ Reasons for modification or discontinuation of allocated therapy  355 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    Treatment completed after Day 14 1 (1) 2 (2) 
+0 (
+-*All but one patient had CoNS and 1 case had methicillin susceptible S
+aureus 356 In a posthoc analysis of the FAS population, by permitting a duration of allocated therapy 357 between 7 and 14 days (instead of 8 to 14 days), a successful outcome was more frequent in 358 the meropenem than in the SOC arm (65/136, 48% vs 37/135, 27%; p=
+ )
+  There were no 359 differences in success rate between meropenem and SOC arms if changes in the allocated 360 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    therapy for safety reasons were ignored (32% vs 23%) or if all changes of allocated therapy 361 The success rate was greater for infants with Gram-negative than those with Gram-positive 363 LOS (28% vs 13%; p=
+046) mainly because of the modification of allocated therapy
+ The 364 success rate in Gram positive sepsis was 21% in meropenem vs 7% in SOC arm and 34% vs 365 23%, respectively in Gram negative sepsis; these differences were not statistically significant
+ 366 The influence of vancomycin as empiric baseline therapy was tested in log-binominal model 367 A total of 251 patients were evaluated at Day 28 either by on-site visit (66%) or by telephone 371 interview (34%) (Figure )
+ In the meropenem arm 9/61 (15%) and in the SOC arm 20/70 372 (29%) did not pass auditory tests (p =
+ )
+  No differences were observed in abnormal 373 cerebral ultrasound - 27/108 (25%) vs 30/110 (27%) in meropenem vs SOC arm, respectively
+ 374 New infections or clinical relapses were seen with similar frequency in both arms (Table )
+ 375 At least one dose of antibiotic 32/100 (32) 24/98 (24) 
+671 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    *- only patients with success at TOC were evaluated for new infection/relapses 379 The rectal swabs were available for 130, 101 and 95 patients in the meropenem and for 127, 380 94, 103 patients in SOC arm at baseline, EOT and Day 28/ NICU discharge visit, respectively
+ 381 Cumulative acquisition of CRGNO by Day 28 was observed in 4/94 (4%) in the meropenem 382 and in 12/101 (12%) in the SOC arm (p = 
+052) and highly CRGNO in 3/94 (3%) and 7/100 383 (7%), respectively
+ When comparing patients who had received at least one dose of 384 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    meropenem (n=170), regardless of study arm, with those not receiving meropenem, the 385 acquisition of CRGNO in general or of highly resistant strains was similar (8/124 (6%) vs 386 8/71 (11%) for CRGNO and 5/124 (4%) vs 5/70 (7%) for highly CRGNO
+ 387 A total of 193 patients (72%) had at least one adverse event (AE)
+ All cause AEs totalled 304 390 and 317, with 47 and 48 serious AEs in the meropenem and SOC arms, respectively
+ The AEs 391 seen in  3% of patients are listed in Table 
+ In the meropenem arm the most common AEs 392 were anaemia, thrombocytopenia and meningitis and in the SOC arm anaemia, abdominal 393 distension and apnoea
+ Seizures, a recognised side effect of carbapenems, were seen in four 394 (3%) patients in the meropenem arm and one (<1%) in the SOC arm
+ Renal failure occurred 395 in three (2%) patients in the meropenem arm and in four (3%) patients in the SOC arm
+  396 Table 
+ Comparative safety and presence of most common major clinical diagnoses in 397 Total number of patients with AE 91 (67) 102 (77) 
+059 Total number of patients with grade 3/4 AEs 51 (38) 61 (46) 
+148 Total number of patients with SAEs 28 (21) 18 (14) 
+131 Discontinued treatment due to death or AEs 8 (6) 7 (5) 
+796 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    Ten patients in the meropenem and seven in the SOC arm died with an overall mortality rate 400 of %
+ While numerical differences in mortality were seen between meropenem and SOC 401 arms in the FAS population, there were no differences in mortality in culture confirmed LOS 402 (Table )
+ The mortality rate was 1% (1/80) in Gram-positive and 10% (6/60) in Gram-403 negative infections
+ All but three patients who died had a BW <g
+ 404 We have performed the largest RCT on the efficacy of antibiotics in LOS, undertaken in a 407 population of predominantly premature, critically ill hospitalized neonates in Europe
+ We 408 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    have shown that the mortality was low with both antibiotic regimens and the efficacy of 409 meropenem was similar to commonly used SOC combinations based on a complex composite 410 primary endpoint in the FAS population
+ If only patients with culture proven LOS were 411 analysed the efficacy of meropenem was significantly greater than that of SOC in general but 412 there were no differences between study arms if Gram-positive and Gram-negative sepsis 413 were evaluated separately
+ Furthermore, patients randomised to meropenem had a shorter 414 duration of antibacterial therapy than those randomised to SOC
+ The two study arms were 415 similar in terms of adverse events and acquired perirectal colonisation by CRGNO
+  416 The NeoMero1 study differed from previous studies in LOS in many ways
+ First, it was a 417 multicentre study including countries with low to moderate antibiotic resistance rates 418 previous single center and/or national studies [5, ]
+ Second, the demanding inclusion 420 criteria resulted in recruitment of a very sick patient population (e
+ g
+ 55% mechanically 421 ventilated, 35% with BW of <1000g) compared to previous studies []
+ Third, only 2% of 422 patients were ineligible (did not have LOS) and altogether 52% had culture proven LOS as 423 opposed to 15% in a recent study of complicated intraabdominal infections []
+ Fourth, 424 NeoMero1 had an ambitious primary endpoint that in addition to resolution or significant 425 improvement of clinical and laboratory criteria, did not allow any changes of allocated 426 therapy such as deviations from fixed treatment duration, dosing and/or addition of another 427 antibiotic, in contrast to more liberal or less specific endpoints in previous studies [5, ]
+ 428 The most intriguing finding of this study, in comparison to others, was a relatively low 429 success rate in terms of the composite primary endpoint in both study arms (23% in SOC vs
+ 430 32% in meropenem), while mortality rates were much lower than in previous studies of LOS 431 and in a recent Egyptian study comparing conventional and prolonged infusion of meropenem 432 []
+ The low efficacy rate was mainly driven by the modification of allocated therapy and 433 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    most of all by its fixed duration of 8 to 14 days
+ The effect of the latter was clearly 434 demonstrated in the post-hoc analysis in which reducing the allowed treatment duration by 435 just one day (from 8 to 7 days) improved the success rate from 32% to 48% in the meropenem 436 and from 23% to 27% in the SOC arms
+ We believe that this was due to the clinicians 437 decision to stop antibiotics earlier than the pre-defined duration, presumably because they felt 438 that clinically the sepsis episode had resolved and the infant had recovered
+ The optimal 439 duration of antibiotic therapy in LOS is not known []
+ 440 In contrast to previous studies, we did not find an association between carbapenem use and 441 CRGNO colonization [-]
+ Of note, our study was an RCT with strict inclusion criteria, in 442 contrast to previous retrospective and/or observational studies which included all patients 443 without restriction [25, 27, ]
+ We should emphasize that the relatively short duration 444 (median of 9 days) of meropenem treatment in the NeoMero1 study may be relevant
+ For 445 example, Clock et al (2016) showed in an observational study that perirectal colonisation 446 with Gram-negative multi-drug resistant bacteria was associated with >10 days of meropenem 447 In line with previous studies, meropenem was well tolerated and all AEs in this very sick 449 patient population were well balanced between study arms []
+ Seizures, previously reported 450 to be related to meropenem treatment [29], were seen in higher numbers in the meropenem 451 arm but due to very low numbers no meaningful conclusions can be drawn
+ 452 The study had a few limitations
+ First, it was an open label study with the risk of investigator -453 induced bias when evaluating the primary endpoint or changing allocated therapy
+ An open 454 label design was selected because meropenem monotherapy was to be compared with a 455 combination of comparator agents
+ Using a dummy infusion in critically ill, premature babies 456 adds significantly to the complexity and cost of a multicenter trial and is questionable from an 457 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    ethical perspective
+ We also note that the most appropriate targets for meropenem are Gram-458 negative microorganisms, especially those resistant to other antibiotics like ESBL or AmpC 459 producing organisms
+ Despite the demanding inclusion criteria, that well discriminated 460 between patients with and without LOS, these criteria performed poorly in distinguishing 461 between cases caused by Gram-positive and Gram-negative microorganisms; about half of the 462 recruited patients still had Gram-positive infections
+ As long as rapid and reliable methods or 463 biomarkers, which allow differentiation between different species, are not available, 464 recruitment of mixed population into similar studies is unavoidable
+  To target antibiotic 465 therapy more precisely, rapid and reliable tests that enable identification of microorganisms 466 and/or their antibiotic resistance, and biomarkers that differentiate between infections and 467 NeoMero1 is the first adequately powered RCT for LOS since the 1970s [5, 6] but several 469 outstanding issues require further studies to be done
+ For example, the question of best 470 treatment options for LOS in developing countries and/or in areas with high antibiotic 471 resistance rates was not addressed as 92% of microorganisms were susceptible to meropenem 472 and 72% at least to one component of SOC
+ As shown by us, RCTs in LOS treatment are 473 challenging due to a vulnerable population and lack of validated disease criteria and endpoints 474 [5, 6, ]
+ There is an urgent need for cooperation between academia, pharmaceutical industry 475 and regulators in innovating clinical research in neonatology, including defining alternative 476 and more feasible study designs (e
+ g
+ pharmacokinetics/pharmacodynamics, rather than solely 477 clinical endpoint based designs, enabling modelling/simulation and extrapolation from studies 478 in adults) [6, ]
+ It is critical to provide efficacy data for those infected with organisms 479 covered specifically or exclusively by study antibiotics (e
+ g
+ ESBL or AmpC producing 480 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    We have also shown that the LOS criteria developed by an European Medicines Agency 482 expert group [5] were able to discriminate well between patients with and without LOS, but 483 further improvement and validation of these criteria is needed before adopting and 484 implementing them into clinical trials
+ Indeed, other definitions have been published, which 485 use fewer clinical and laboratory parameters, but to the best of our knowledge, these have not 486 been tested or used in large RCTs []
+ The recent STROBE-NI consensus for reporting 487 neonatal sepsis trials should help with this in the future []
+ 488 Conclusion: In predominantly premature critically ill infants with LOS in Europe, 489 meropenem treatment was not superior to SOC in terms of success at TOC, short-term hearing 490 disturbances, safety or mortality
+ However, meropenem monotherapy resulted in slightly 491 shorter treatment duration
+ Meropenem did not lead to enhanced colonization with CRGNOs
+ 492 We recommend that meropenem should be reserved for seriously ill premature neonates with 493 suspected or proven Gram-negative LOS, especially in NICUs in which microorganisms 494 We would like to thank all patients and their parents participating in this study
+ 498 Hugo Devlieger (chair), Jim Gray, John Van den Anker and Pollyanna Hardy 500 Oguz Akbas, Antonella Allegro, Davide Bilardi, Giulia Bonatti, Nijole Drazdien, Silvia 502 Faggion, Eva Germovsek, Genny Gottardi, Tiziana Grossele, Cristina Haass, Tatiana Munera 503 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    Huertas, Valentina Ierardi, Sandrine Kahi, Paraskevi Karagianni, Aspasia Katragkou, Eve 504 Kaur, Birgit Kiilasp, Karin Kipper, Aggeliki Kontou, Victoria Kougia, Hayriye Gzde, 505 Kanmaz Kutman, Elisabetta Lolli, Valentina Montinaro, Makis Mylonas, Kader Ben 506 Abdelkader Emmanuelle Netzer, Clarissa Oeser, Felix Omenaca, Maria Luisa Paoloni, 507 Simona Perniciaro, Laura Picault, Carlo Pietrasanta, Andrea Ronchi, Suzan ahin, Yacine 508 Saidi, Marina Spinelli, Joseph Standing, Claudia Tagliabue, Tuuli Tammekunn, Nina Tiburzi 509 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    
+ Vergnano S, Menson E, Kennea N, Embleton N, Russell AB, Watts T, et al Neonatal infections 511 in England: the NeonIN surveillance network
+ Arch Dis Child Fetal Neonatal Ed
+ ;():F-F
+ 512 
+ Stoll BJ, Hansen N, Fanaroff AA, Wright LL, Carlo WA, Ehrenkranz RA, et al Late-onset sepsis 514 in very low birth weight neonates: the experience of the NICHD Neonatal Research Network
+ 515 
+ Hornik CP, Fort P, Clark RH, Watt K, Benjamin DK, Jr
+, Smith PB, et al Early and late onset 517 sepsis in very-low-birth-weight infants from a large group of neonatal intensive care units
+ Early Hum 518 
+ Cohen-Wolkowiez M, Moran C, Benjamin DK, Cotten CM, Clark RH, Benjamin DK, Jr
+, et al 521 Early and late onset sepsis in late preterm infants
+ Pediatr Infect Dis J
+ ;():-
+ PubMed 522 
+ Oeser C, Lutsar I, Metsvaht T, Turner MA, Heath PT, Sharland M
+ Clinical trials in neonatal 524 
+ Kaguelidou F, Turner MA, Choonara I, van den Anker J, Manzoni P, Alberti C, et al 527 Randomized controlled trials of antibiotics for neonatal infections: a systematic review
+ Br J Clin 528 
+ Neubert A, Lukas K, Leis T, Dormann H, Brune K, Rascher W
+ Drug utilisation on a preterm 531 and neonatal intensive care unit in Germany: a prospective, cohort-based analysis
+ Eur J Clin 532 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    
+ Lass J, Kaar R, Jogi K, Varendi H, Metsvaht T, Lutsar I
+ Drug utilisation pattern and off-label 534 use of medicines in Estonian neonatal units
+ Eur J Clin Pharmacol
+ ;():-
+ doi: 535 
+ Spyridis N, Syridou G, Goossens H, Versporten A, Kopsidas J, Kourlaba G, et al Variation in 537 paediatric hospital antibiotic guidelines in Europe
+ Arch Dis Child
+ ;():-
+ doi: 538 
+ Lutsar I, Chazallon C, Carducci FI, Trafojer U, Abdelkader B, de Cabre VM, et al Current 540 management of late onset neonatal bacterial sepsis in five European countries
+ Eur J Pediatr
+ 541 
+ Metsvaht T, Nellis G, Varendi H, Nunn AJ, Graham S, Rieutord A, et al High variability in the 543 dosing of commonly used antibiotics revealed by a Europe-wide point prevalence study: implications 544 for research and dissemination
+ BMC Pediatr
+ ;:
+ doi: 
+ /s---y
+ PubMed 545 
+ Bielicki JA, Lundin R, Sharland M, Project A
+ Antibiotic Resistance Prevalence in Routine 547 Bloodstream Isolates from Children's Hospitals Varies Substantially from Adult Surveillance Data in 548 Europe
+ Pediatr Infect Dis J
+ ;():-
+ doi: 
+ /INF
+ 
+ PubMed PMID: 549 
+ Freire-Moran L, Aronsson B, Manz C, Gyssens IC, So AD, Monnet DL, et al Critical shortage of 551 new antibiotics in development against multidrug-resistant bacteria-Time to react is now
+ Drug Resist 552 
+ Garazzino S, Lutsar I, Bertaina C, Tovo PA, Sharland M
+ New antibiotics for paediatric use: a 554 review of a decade of regulatory trials submitted to the European Medicines Agency from 2000--why 555 aren't we doing better? Int J Antimicrob Agents
+ ;():-
+ doi: 556 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    
+ Le Doare K, Bielicki J, Heath PT, Sharland M
+ Systematic Review of Antibiotic Resistance Rates 558 Among Gram-Negative Bacteria in Children With Sepsis in Resource-Limited Countries
+ J Pediatric 559 
+ Pacifici GM, Allegaert K
+ Clinical pharmacology of carbapenems in neonates
+ J Chemother
+ 561 
+ Versporten A, Bielicki J, Drapier N, Sharland M, Goossens H, group Ap
+ The Worldwide 563 Antibiotic Resistance and Prescribing in European Children (ARPEC) point prevalence survey: 564 developing hospital-quality indicators of antibiotic prescribing for children
+ J Antimicrob Chemother
+ 565 
+ Clock SA, Ferng YH, Tabibi S, Alba L, Patel SJ, Jia H, et al Colonization With Antimicrobial-567 Resistant Gram-Negative Bacilli at Neonatal Intensive Care Unit Discharge
+ J Pediatric Infect Dis Soc
+ 568 
+ Cohen-Wolkowiez M, Poindexter B, Bidegain M, Weitkamp JH, Schelonka RL, Randolph DA, et 570 al Safety and effectiveness of meropenem in infants with suspected or complicated intra-abdominal 571 infections
+ Clin Infect Dis
+ ;():-
+ doi: 
+ /cid/cis
+ PubMed PMID: 22955430; 572 
+ Lutsar I, Trafojer UM, Heath PT, Metsvaht T, Standing J, Esposito S, et al Meropenem vs 574 standard of care for treatment of late onset sepsis in children of less than 90 days of age: study 575 protocol for a randomised controlled trial Trials
+ ;:
+ doi: 
+ /---
+ 576 
+ Goldstein B, Giroir B, Randolph A, International Consensus Conference on Pediatric S
+ 578 International pediatric sepsis consensus conference: definitions for sepsis and organ dysfunction in 579 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    
+ Germovsek E, Lutsar I, Kipper K, Karlsson MO, Planche T, Chazallon C, et al Plasma and CSF 582 pharmacokinetics of meropenem in neonates and young infants: results from the NeoMero studies
+ J 583 
+ Shabaan AE, Nour I, Elsayed Eldegla H, Nasef N, Shouman B, Abdel-Hady H
+ Conventional 585 Versus Prolonged Infusion of Meropenem in Neonates With Gram-negative Late-onset Sepsis: A 586 
+ McMullan BJ, Andresen D, Blyth CC, Avent ML, Bowen AC, Britton PN, et al Antibiotic 589 duration and timing of the switch from intravenous to oral route for bacterial infections in children: 590 
+ Barron MA, Richardson K, Jeffres M, McCollister B
+ Risk factors and influence of carbapenem 593 exposure on the development of carbapenem resistant Pseudomonas aeruginosa bloodstream 594 
+ Logan LK
+ Carbapenem-resistant enterobacteriaceae: an emerging problem in children
+ Clin 597 
+ Akturk H, Sutcu M, Somer A, Aydin D, Cihan R, Ozdemir A, et al Carbapenem-resistant 599 Klebsiella pneumoniae colonization in pediatric and neonatal intensive care units: risk factors for 600 progression to infection
+ Braz J Infect Dis
+ ;():-
+ doi: 
+ /j
+ bjid
+ 
+ 
+ 
+ 601 
+ Karaaslan A, Soysal A, Altinkanat Gelmez G, Kepenekli Kadayifci E, Soyletir G, Bakir M
+ 603 colonization in children: emergence of NDM-producing Acinetobacter baumannii in a newborn 605 intensive care unit in Turkey
+ J Hosp Infect
+ ;():-
+ doi: 
+ /j
+ jhin
+ 
+ 
+ 
+ 606 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    
+ Cannon JP, Lee TA, Clark NM, Setlak P, Grim SA
+ The risk of seizures among the carbapenems: 608 
+ Wynn JL, Wong HR, Shanley TP, Bizzarro MJ, Saiman L, Polin RA
+ Time for a neonatal-specific 611 consensus definition for sepsis
+ Pediatr Crit Care Med
+ ;():-
+ doi: 612 
+ Fitchett EJ, Seale AC, Vergnano S, Sharland M, Heath PT, Saha SK, et al Strengthening the 615 Reporting of Observational Studies in Epidemiology for Newborn Infection (STROBE-NI): an extension 616 of the STROBE statement for neonatal infection research
+ Lancet Infect Dis
+ ;():e-
+ 617 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    We would like to thank all patients and their parents participating in this study
+ 621 Hugo Devlieger (chair), Jim Gray, John Van den Anker and Pollyanna Hardy 623 Oguz Akbas, Antonella Allegro, Davide Bilardi, Giulia Bonatti, Nijole Drazdien, Silvia 625 Faggion, Eva Germovsek, Genny Gottardi, Tiziana Grossele, Cristina Haass, Tatiana Munera 626 Huertas, Valentina Ierardi, Sandrine Kahi, Paraskevi Karagianni, Aspasia Katragkou, Eve 627 Kaur, Birgit Kiilasp, Karin Kipper, Aggeliki Kontou, Victoria Kougia, Hayriye Gzde, 628 Kanmaz Kutman, Elisabetta Lolli, Valentina Montinaro, Makis Mylonas, Kader Ben 629 Abdelkader Emmanuelle Netzer, Clarissa Oeser, Felix Omenaca, Maria Luisa Paoloni, 630 Simona Perniciaro, Laura Picault, Carlo Pietrasanta, Andrea Ronchi, Suzan ahin, Yacine 631 Saidi, Marina Spinelli, Joseph Standing, Claudia Tagliabue, Tuuli Tammekunn, Nina Tiburzi 632 not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted November 2, 
+ ;    

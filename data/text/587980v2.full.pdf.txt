@@ -1,0 +1,792 @@
+The effect of combined patching and citalopram on visual acuity in adults with amblyopia: a randomized, crossover, placebo-controlled trialThe effect of combined patching and citalopram on visual acuity in adults with amblyopia: a Alice K
+ Lagas1, Joanna M
+ Black1, Bruce R
+ Russell2, Robert R
+ Kydd3, Benjamin Thompson1, 4 1School of Optometry and Vision Science, University of Auckland, New Zealand (SSRIs) can enhance plasticity within the mature visual cortex and enable recovery from amblyopia
+ The aim of this study was to test the hypothesis that the SSRI citalopram combined with part-time patching of the fellow fixing eye would improve amblyopic eye visual acuity in adult humans
+ Following a cross-over, randomized, double blind, placebo-controlled design (pre-eye patching
+ One block combined patching with citalopram (20 mg/day) and the other with a placebo tablet
+ The blocks were separated by a 2-week washout period
+ The primary outcome was change in amblyopic eye visual acuity
+ Secondary outcomes included stereoacuity and randomized, fewer than our pre-specified sample size of 
+ There were no statistically significant differences in amblyopic eye visual acuity change between the active (mean  SD change = 
+ 
+16 logMAR) and the placebo (mean change = -
+ 
+03 logMAR) blocks
+ No treatment effects were observed for any secondary outcomes
+ However, 3 of 7 participants experienced a 
+1 logMAR or greater improvement in amblyopic eye visual acuity in the active but not the placebo block
+ These results from a small sample suggest that larger-scale trials of SSRI treatment for adult amblyopia may be warranted
+ Considerations for future trials include drug dose, Disruptions to binocular vision such as strabismus (an eye turn) or anisometropia (unequal refractive error between the two eyes) during the critical period of visual development can cause a neurodevelopmental disorder of vision called amblyopia [1, ]
+ The deficits associated with amblyopia encompass a wide range of monocular and binocular visual functions [3, 4] and also extend to the fellow fixing eye []
+ Clinically, amblyopia is typically diagnosed on the basis of a monocular visual acuity loss that cannot be explained by ocular pathology combined with an amblyogenic factor []
+  Current treatments for amblyopia in childhood involve the provision of refractive correction followed by patching or penalization of the fellow fixing eye to promote use of the amblyopic eye
+ These treatments are effective [6-12], but efficacy appears to decline with increasing age in children [13-16], possibly due to a decline in neural plasticity as the visual cortex matures and exits the critical period for visual development [-]
+ A growing body of literature certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 17, 
+ ;    demonstrates that vision can improve in adult humans with amblyopia through interventions such as monocular [21, 22] and binocular [23-27] perceptual learning and non-invasive brain stimulation [-]
+ However, these approaches have not yet translated into positive randomized clinical trials in adult patients that are required for translation into clinical practice []
+  Amblyopia also forms the basis of a prominent non-human animal model for studying cortical development and plasticity []
+ Monocular amblyopia can be induced in non-human animals within the critical period of visual development using an eyelid suture, induction of strabismus, or provision of anisometropic refractive error []
+ Over the past decade or so, a considerable number of studies have used this model to explore post-critical period neuroplasticity []
+ Successful interventions for amblyopia recovery in post-critical period animal models include dark exposure [37, 38], enriched visual environments [39], food restriction [40], binocular Pharmaceutical interventions have also been investigated in rodent models of amblyopia
+ A particularly striking result was reported by Maya Vettencourt et al [44] whereby chronic administration of the selective serotonin reuptake inhibitor (SSRI) fluoxetine enabled recovery of normal visual cortex responses and visual acuity in mature rats with unilateral deprivation amblyopia
+ This effect occurred when fluoxetine was administered before and during eyelid suture of the non-deprived eye and opening of the deprived eye (a procedure known as a reverse suture)
+ The improvements in visual function were linked to reduced GABA mediated inhibition within the visual cortex and increased expression of brain derived neurotrophic factor (BDNF)
+ This finding is of particular interest in the context of amblyopia treatment in adult humans because SSRIs are widely available to clinicians
+ Furthermore, SSRIs may enhance plasticity within the human motor [45, 46] and visual [47] cortex
+ Fluoxetine has also been found to enhance physiotherapy outcomes after stroke, possibly by increasing cortical plasticity []
+ However, fluoxetine did not enhance visual perceptual learning of a motion discrimination task or motor Two studies have investigated the use of fluoxetine to treat human amblyopia
+ Sharif et al [50] compared 3 months of fellow fixing eye patching plus fluoxetine (
+5mg/kg/day, n = 20) to patching plus a placebo tablet placebo (n = 15) in older children and adults (10-40 years) with amblyopia
+  A significantly greater amblyopic eye visual acuity improvement in the fluoxetine compared to the placebo group was observed
+ However, Huttunen et al [51] found no differences in visual function improvement between a group of adults with amblyopia treated for 10 days with combined perceptual learning and fluoxetine (20 mg per day, n = 22) and a group treated with perceptual learning combined with a placebo tablet (n = )
+  In this study we explored the effects of 2 weeks (14 days) of the SSRI citalopram combined with fellow fixing eye patching on visual acuity, stereopsis and visually evoked retinal and cortical responses in adults with amblyopia
+ We anticipated that recruitment would be challenging due to the use of patching and the administration of an anti-depressant drug
+ We therefore adopted a placebo-controlled, randomized, double blind, crossover design
+ In this context citalopram was chosen over fluoxetine (as used in prior studies) because citalopram has a shorter half-life [52] certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 17, 
+ ;    that allowed for a manageable washout period to be incorporated into the design of the study
+  No significant effects of citalopram were observed, although our study may have been The single-site trial involved two blocks of fellow fixing eye patching each lasting two weeks separated by a two-week washout period
+ Participants were provided with citalopram (1 x 20mg tablet per day) during one patching block and otherwise identical placebo tablets (sucrose) during the other block
+ Block order was randomized using a random number generator
+ The timing of baseline and outcome measures are shown in Figure 
+ Only the pharmacist dispensing the tablets, who did not interact with study participants, was unmasked to block order
+ Study participants and all other members of the research team were masked to the randomization
+ The study was approved by the Northern X Regional Ethics Committee in New Zealand Participants completed a screening protocol consisting of a telephone interview followed by a full optometric examination, medical history, the Profile of Mood State Short Form questionnaire Study inclusion criteria were: 18 years of age or over, 
+2 logMAR or worse visual acuity in the amblyopic eye, 
+0 logMAR or better visual acuity in the fellow fixing eye, an interocular acuity difference of at least 
+2 logMAR, the presence of a strabismus and/or anisometropia defined as a difference in spherical equivalent refractive error of 
+5 dioptres or greater between the eyes
+ The exclusion criteria were: the presence of ocular pathology, an explanation for the visual acuity loss other than amblyopia, personal or family history of a mood disorder, diabetes, history of addiction, current use of medications or supplements known to alter mood, medications that interact with SSRIs such as codeine and abnormal mood states evident on the mood questionnaires as reviewed by a psychiatrist
+ Prior to randomization, participants who were not wearing optimal full correction for both eyes were provided with full correction (either spectacles or contact lenses) and were reviewed every four weeks until visual acuity was stable (<
+2 logMAR difference between visits)
+ Participants were recruited through the University of Auckland Optometry Clinic, referral from eye care practitioners, word of mouth and newspaper certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 17, 
+ ;    Figure 
+ Schematic of the study protocol and the timing of baseline, outcome and follow-up Visual acuity (VA) was assessed using a computerized ETDRS chart (Medmont) from 6 m
+ The right eye was tested first
+ Each correctly identified letter was worth 
+02 logMAR
+ Binocular vision was assessed using a unilateral cover test, a prism cover test, the Worth 4-dot test (33 cm and 6 m) and the TNO stereoacuity test
+ Electrophysiological measurements of retinal and visual cortex Retiscan system (software version 
+ 
+ 
+ )
+ The following tests were applied monocularly (right eye first); pattern-ERG (1 check size  modified from the 
+8 standard for direct comparison with the VEP stimuli), VEP (1 and 
+3 check sizes), multifocal ERG with pupil dilation
+ ERG measures were included so that any retinal effects of citalopram could be accounted for if the trial was positive
+ The POMS-SF questionnaire was completed at each study visit and participants completed a patching diary for each 2-week patching session
+ Brain derived neurotropic factor (BNDF) phenotype has been identified as a possible mediator of cortical plasticity [53] and BNDF upregulation has been identified as a mechanism for increased visual cortex plasticity following fluoxetine administration in rats []
+ To test for BDNF polymorphisms, participants provided a blood sample directly after the first two-week block of patching
+ Following a previously reported protocol [49], an Agena MassArray IPLEX assay (Agena Bioscience, San Diego, CA, USA) was used for genotyping
+ A Brucker Mass Spectrometer with optimized parameters for iPLEX chemistry was then used to resolve single base extensions
+ Typer 4 analysis software (Agena Bioscience) enabled visual inspection of generated peaks in comparison to the non-template control
+  At the time of study initiation, no previous studies of SSRIs in human amblyopia treatment were available
+ Therefore, we selected a sample size of 20 based on recruitment estimates for the study site
+ Outcome measures were analysed separately using mixed ANOVAs with within-subject factors of Session (baseline vs
+ outcome) and Treatment (active vs
+ placebo) and a certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 17, 
+ ;    Sixty-one participants expressed interest in the study and were sent a study information package
+ Twenty-eight participants responded and were assessed for eligibility
+ Seven participants were randomized
+ The CONSORT diagram for these participants is shown in Figure 
+ Reasons for exclusion included time commitment too great, medical or recreational use of drugs, vision too good in the amblyopic eye and diabetes
+ One participant who did not meet the visual acuity inclusion criteria was randomized (P6, see Table )
+ Data from this participant were included in the final analysis due to the small sample size
+ Randomized participant details, including BDNF certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 17, 
+ ;    Table 
+ Participant details
+ AME, amblyopic eye; FFE, fellow fixing eye; VA, visual acuity; exo, Baseline and outcome data for amblyopic eye visual acuity are shown in Table 
+ There was no significant interaction between Session and Treatment (F1,5 = 
+7, p = 
+25, partial h2 = 
+26) indicating no difference between the active and placebo treatment
+ There was also no main effect of Session indicating the absence of a visual acuity improvement across the two periods of patching (F1,5 = 
+7, p = 
+25, partial h2 = 
+ )
+ Overall, no main effects or interactions were significant in the analysis (all p > 
+ )
+ An inspection of individual data (Table 2) indicated that 3/7 participants improved by >
+1 logMAR in the active but not placebo condition
+ One of these participants had a val66met BDNF polymorphism
+ The remaining two had val/val BNDF polymorphisms
+  No main effects or interactions were present for the fellow fixing eye visual acuity data (all F < 
+9, all p > 
+1, all partial h2 < 
+ )
+  certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 17, 
+ ;    Table 
+ Amblyopic eye visual acuity results
+ Change values were calculated by subtracting Adherence data are shown in Table 
+ Adherence did not differ significantly between active and placebo blocks (t6 = 
+0, p = 
+ )
+ On average participants had approximately 70% adherence with the 120 minutes per day of prescribed patching
+ There was no correlation between patching adherence and visual acuity change in either the active (r7 = -
+2, p = 
+6) or placebo blocks (r7 = Table 
+ Self-reported patching adherence data sourced from participants patching diaries
+ Data are shown as mean minutes of patching per day (SD)
+ The prescribed dose was 120 minutes per Only participant P6 exhibited a change in stereoacuity, improving from nil to 240 arc /sec in the active block and from nil to 480 arc/sec in the placebo block
+ Follow-up stereoacuity was nil
+  No significant treatment effects were evident for any of the electrophysiological measurements (all F < 
+0, all p > )
+  Figure 3 shows 1 check stimulus VEP latencies (left) and N75-P100 amplitudes (right) for both the amblyopic and fellow fixing eyes
+ Figure 4 shows example multifocal ERG data for participant P7 (first baseline measure) and figure 5 shows example pattern ERG and VEP data for the same participant
+ There were no treatment effects on POM-SF scores
+  certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 17, 
+ ;    Figure 
+ VEP results for the 1 check stimulus
+ Latencies for the P100 component are shown on the left and amplitudes for the N57-P100 waveform component are on the right
+ Individual participants are shown with different symbols: P1-7 as follows; filled circle, filled square, filled triangle, filled diamond, filled hexagon, open circle, open square
+ Horizontal lines depict group certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 17, 
+ ;    Figure 
+ Multifocal ERG results for participant P7 (first baseline session)
+  certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 17, 
+ ;    Figure 
+ Pattern ERG (top) and pattern reversal VEP (bottom) results for the amblyopic (left) and The SSRI fluoxetine enabled recovery of vision in mature rats with amblyopia [44] and has recently been reported to enhance the effect of patching in older children and adults []
+ We certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 17, 
+ ;    found no effect of the SSRI citalopram combined with two weeks of patching on amblyopic eye visual acuity or a range of secondary outcome measures in adults with amblyopia
+ These results are broadly consistent with another recent study with a similar duration treatment period (10 days) that reported no advantage of combining fluoxetine with perceptual learning compared to perceptual learning alone in adults with amblyopia []
+ A preliminary study of donepezil [54] and a randomized clinical trial of levodopa [55] have also found no benefit of drug treatment in amblyopia therapy
+ In addition, we found no effect of two weeks of patching alone in adult patients despite reasonable self-reported adherence
+ This is expected based on the short treatment period and the reduced effect of patching with increasing age [15, 16, ]
+ A number of factors may explain the lack of a drug treatment effect in our study
+ First, and perhaps most importantly, we did not achieve our planned sample size of 20 participants due to difficulties with recruitment
+ This led to a small sample with varied amblyopia etiology and treatment history
+ Barriers to recruitment included the time commitment required by the study and the stringent medical inclusion criteria
+ Therefore, our study may be underpowered to detect a treatment effect, although the sample size is within the range of previous case-series perceptual learning studies that have reported treatment effects []
+ It is intriguing that three participants exhibited an amblyopic eye visual acuity improvement of 
+1 logMAR or greater for the active but not the placebo treatment sessions
+ These participants had relatively poor baseline amblyopic eye visual acuity compared to most of the other participants
+ No participants exhibited any improvement for the placebo sessions
+ This observation suggests that further testing of SSRI Whereas previous studies have used fluoxetine, we used citalopram because it has a short lead in period of two hours []
+ Moreover, citalopram has a shorter half-life than fluoxetine; the distribution phase lasts about ten hours and the terminal half-life (T1/2) is 30-35 hours for citalopram [58] in contrast to two to four days half-life for fluoxetine []
+ Citalopram and fluoxetine appear to have the same efficacy for treating major depression [60] and comparable effects on plasma GABA, glutamine and glutamate levels in human patients []
+ However, citalopram and fluoxetine have different patterns of binding affinity within the human brain []
+ It is currently unknown whether the two drugs differ in the extent to which they promote visual We used a 20 mg/day dose of citalopram over 2 weeks
+ It is possible that larger doses and longer treatment times are required to replicate the effects found in non-human animals
+ Supporting this idea, Sharif et al [50] found a significant effect of combined fluoxetine and patching with dose of 
+5 mg/kg/day and a 3-month treatment period whereas Huttunen et al [51] found no effect with 20 mg per day over 10 days
+ The parameter space for dosing and treatment duration is large for drug intervention studies of this type and further work is required to identify optimal values
+ In addition, genotype may also influence an individuals response to a pharmacological intervention
+ In this study we measured BDNF polymorphisms because they have been linked to neuroplasticity [53] and an increase in BDNF expression has been identified as a key mechanism in SSRI-induced recovery from amblyopia in mature rats []
+ There was no relationship between BDNF polymorphism and treatment response in this study with both val/val and val66met certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 17, 
+ ;    carriers improving by 1 logMAR line or more
+ However, the small sample size precludes any In agreement with Huttunen et al [51], we found no effect of SSRI treatment on VEP parameters
+ This is in contrast to other emerging potential approaches to amblyopia treatment in adulthood such as the non-invasive brain stimulation technique anodal transcranial direct current stimulation that increases VEP amplitude []
+ The lack of any VEP changes is consistent with the lack of a treatment effect on any of the other outcome measures used within this study
+ Retinal electrophysiology was also conducted to rule out any retinal changes if a positive treatment effect was observed
+ No retinal changes were observed, in agreement with the overall study In addition to the small sample size, a weakness of our study is that one participant (P6) did not meet the visual acuity inclusion criteria
+ We retained this participant in the study due to difficulties with recruitment
+ We note that excluding this participant from the sample does not In conclusion, we found no effect of 2 weeks of combined citalopram and patching on amblyopic eye visual acuity in adults with amblyopia
+ This result may have been due to our study being underpowered as a result of recruitment challenges
+ Three out of seven participants did exhibit an amblyopic eye visual acuity improvement of 
+1 logMAR or more with combined citalopram and patching suggesting that further studies in this area may be warranted
+  This study was supported by grants to BT from the Marsden Fund of New Zealand and the All clinical data are provided within the manuscript tables
+ Anonymized electrophysiological data 
+ Holmes, J
+ M
+, and Clarke, M
+ P
+ Amblyopia
+ Lancet  2006; 367, -
+ 
+ Maurer, D
+, and Mc, K
+ S
+ Classification and diversity of amblyopia
+ Vis Neurosci  2018; 35, 
+ Hamm, L
+ M
+, Black, J
+, Dai, S
+, and Thompson, B
+ Global processing in amblyopia: a review
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 17, 
+ ;    
+ Wong, A
+ M
+ New concepts concerning the neural mechanisms of amblyopia and their 
+ Meier, K
+, and Giaschi, D
+ Unilateral Amblyopia Affects Two Eyes: Fellow Eye Deficits in 
+ Holmes, J
+ M
+ Designing clinical trials for amblyopia
+ Vision Res  2015; 114, -
+ 
+ Stewart, C
+ E
+, Moseley, M
+ J
+, Stephens, D
+ A
+, and Fielder, A
+ R
+ Treatment dose-response in amblyopia therapy: the Monitored Occlusion Treatment of Amblyopia Study (MOTAS)
+ 
+ Pediatric Eye Disease Investigator Group Writing, C
+, Rutstein, R
+ P
+, Quinn, G
+ E
+, Lazar, E
+ L
+, Beck, R
+ W
+, Bonsall, D
+ J
+, Cotter, S
+ A
+, Crouch, E
+ R
+, Holmes, J
+ M
+, Hoover, D
+ L
+, et al A randomized trial comparing Bangerter filters and patching for the treatment of moderate 
+ Repka, M
+ X
+, and Holmes, J
+ M
+ Lessons from the amblyopia treatment studies
+ 
+ Scheiman, M
+ M
+, Hertle, R
+ W
+, Beck, R
+ W
+, Edwards, A
+ R
+, Birch, E
+, Cotter, S
+ A
+, Crouch, E
+ R
+, Jr
+, Cruz, O
+ A
+, Davitt, B
+ V
+, Donahue, S
+, et al Randomized trial of treatment of amblyopia in children aged 7 to 17 years
+ Arch Ophthalmol  2005; 123, -
+ 
+ Scheiman, M
+ M
+, Hertle, R
+ W
+, Kraker, R
+ T
+, Beck, R
+ W
+, Birch, E
+ E
+, Felius, J
+, Holmes, J
+ M
+, Kundart, J
+, Morrison, D
+ G
+, Repka, M
+ X
+, et al Patching vs atropine to treat amblyopia in children aged 7 to 12 years: a randomized trial Arch Ophthalmol  2008; 126, -
+ 
+ Wallace, D
+ K
+, Pediatric Eye Disease Investigator, G
+, Edwards, A
+ R
+, Cotter, S
+ A
+, Beck, R
+ W
+, Arnold, R
+ W
+, Astle, W
+ F
+, Barnhardt, C
+ N
+, Birch, E
+ E
+, Donahue, S
+ P
+, et al A randomized trial to evaluate 2 hours of daily patching for strabismic and anisometropic 
+ Stewart, C
+ E
+, Stephens, D
+ A
+, Fielder, A
+ R
+, Moseley, M
+ J
+, and Cooperative, M
+ Modeling 
+ Holmes, J
+ M
+, and Levi, D
+ M
+ Treatment of amblyopia as a function of age
+ Vis Neurosci  
+ Holmes, J
+ M
+, Lazar, E
+ L
+, Melia, B
+ M
+, Astle, W
+ F
+, Dagi, L
+ R
+, Donahue, S
+ P
+, Frazier, M
+ G
+, Hertle, R
+ W
+, Repka, M
+ X
+, Quinn, G
+ E
+, et al Effect of age on response to amblyopia 
+ Fronius, M
+, Cirina, L
+, Ackermann, H
+, Kohnen, T
+, and Diehl, C
+ M
+ Efficiency of electronically monitored amblyopia treatment between 5 and 16 years of age: new insight into declining susceptibility of the visual system
+ Vision Res  2014; 103, -
+ 
+ Blakemore, C
+, and Van Sluyters, R
+ C
+ Reversal of the physiological effects of monocular deprivation in kittens: further evidence for a sensitive period
+ J Physiol  1974; 237, -
+ Hubel, D
+ H
+, and Wiesel, T
+ N
+ The period of susceptibility to the physiological effects of unilateral eye closure in kittens
+ J Physiol  1970; 206, -
+ 
+ Movshon, J
+ A
+ Reversal of the physiological effects of monocular deprivation in the 
+ Daw, N
+ ()
+ Visual development, Third edition
+ Edition, (New York: Springer)
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 17, 
+ ;    
+ Levi, D
+ M
+ Perceptual learning in adults with amblyopia: a reevaluation of critical periods 
+ Levi, D
+ M
+, and Li, R
+ W
+ Perceptual learning as a potential treatment for amblyopia: a mini-
+ Hess, R
+ F
+, and Thompson, B
+ Amblyopia and the binocular approach to its therapy
+ Vision 
+ Hess, R
+ F
+, Thompson, B
+, and Baker, D
+ H
+ Binocular vision in amblyopia: structure, 
+ Li, J
+, Spiegel, D
+ P
+, Hess, R
+ F
+, Chen, Z
+, Chan, L
+ Y
+, Deng, D
+, Yu, M
+, and Thompson, B
+ Dichoptic training improves contrast sensitivity in adults with amblyopia
+ Vision Res  2015; 
+ Li, J
+, Thompson, B
+, Deng, D
+, Chan, L
+ Y
+, Yu, M
+, and Hess, R
+ F
+ Dichoptic training enables the adult amblyopic brain to learn
+ Curr Biol  2013; 23, R-
+ 
+ Vedamurthy, I
+, Nahum, M
+, Huang, S
+ J
+, Zheng, F
+, Bayliss, J
+, Bavelier, D
+, and Levi, D
+ M
+ A dichoptic custom-made action video game as a treatment for adult amblyopia
+ Vision 
+ Ding, Z
+, Li, J
+, Spiegel, D
+ P
+, Chen, Z
+, Chan, L
+, Luo, G
+, Yuan, J
+, Deng, D
+, Yu, M
+, and Thompson, B
+ The effect of transcranial direct current stimulation on contrast sensitivity and visual evoked potential amplitude in adults with amblyopia
+ Sci Rep  2016; 6, 
+ 
+ Moret, B
+, Camilleri, R
+, Pavan, A
+, Lo Giudice, G
+, Veronese, A
+, Rizzo, R
+, and Campana, G
+ contrast sensitivity and visual acuity when combined with a short perceptual training in 
+ Spiegel, D
+ P
+, Byblow, W
+ D
+, Hess, R
+ F
+, and Thompson, B
+ Anodal transcranial direct activation in individuals with amblyopia
+ Neurorehabil Neural Repair  2013; 27, -
+ 
+ Spiegel, D
+ P
+, Li, J
+, Hess, R
+ F
+, Byblow, W
+ D
+, Deng, D
+, Yu, M
+, and Thompson, B
+ Transcranial direct current stimulation enhances recovery of stereopsis in adults with 
+ Thompson, B
+, Mansouri, B
+, Koski, L
+, and Hess, R
+ F
+ Brain plasticity in the adult: modulation of function in amblyopia with rTMS
+ Curr Biol  2008; 18, -
+ 
+ Gao, T
+ Y
+, Guo, C
+ X
+, Babu, R
+ J
+, Black, J
+ M
+, Bobier, W
+ R
+, Chakraborty, A
+, Dai, S
+, Hess, R
+ F
+, Jenkins, M
+, Jiang, Y
+, et al Effectiveness of a Binocular Video Game vs Placebo Video Game for Improving Visual Functions in Older Children, Teenagers, and Adults With Amblyopia: A Randomized Clinical Trial JAMA Ophthalmol  2018; 136, -
+ 
+ Morishita, H
+, and Hensch, T
+ K
+ Critical period revisited: impact on vision
+ Curr Opin 
+ Mitchell, D
+, and Sengpiel, F
+ Animal models of amblyopia
+ Vis Neurosci  2018; 35, E
+ 
+ He, H
+ Y
+, Ray, B
+, Dennis, K
+, and Quinlan, E
+ M
+ Experience-dependent recovery of vision 
+ Duffy, K
+ R
+, and Mitchell, D
+ E
+ Darkness alters maturation of visual cortex and promotes fast recovery from monocular deprivation
+ Curr Biol  2013; 23, -
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 17, 
+ ;    
+ Sale, A
+, Maya Vetencourt, J
+ F
+, Medini, P
+, Cenni, M
+ C
+, Baroncelli, L
+, De Pasquale, R
+, and a reduction of intracortical inhibition
+ Nat Neurosci  2007; 10, -
+ 
+ Spolidoro, M
+, Baroncelli, L
+, Putignano, E
+, Maya-Vetencourt, J
+ F
+, Viegi, A
+, and Maffei, L
+ Food restriction enhances visual cortex plasticity in adulthood
+ Nat Commun  2011; 2, 
+ Murphy, K
+ M
+, Roumeliotis, G
+, Williams, K
+, Beston, B
+ R
+, and Jones, D
+ G
+ Binocular visual training to promote recovery from monocular deprivation
+ J Vis  2015; 15, 15 11 
+ 
+ Kaneko, M
+, and Stryker, M
+ P
+ Sensory experience during locomotion promotes recovery of function in adult visual cortex
+ Elife  2014; 3, e
+ 
+ Fong, M
+ F
+, Mitchell, D
+ E
+, Duffy, K
+ R
+, and Bear, M
+ F
+ Rapid recovery from the effects of early monocular deprivation is enabled by temporary inactivation of the retinas
+ Proc Natl 
+ Maya Vetencourt, J
+ F
+, Sale, A
+, Viegi, A
+, Baroncelli, L
+, De Pasquale, R
+, O'Leary, O
+ F
+, Castren, E
+, and Maffei, L
+ The antidepressant fluoxetine restores plasticity in the adult 
+ Loubinoux, I
+, Pariente, J
+, Rascol, O
+, Celsis, P
+, and Chollet, F
+ Selective serotonin 
+ Loubinoux, I
+, Tombari, D
+, Pariente, J
+, Gerdelat-Mas, A
+, Franceries, X
+, Cassol, E
+, Rascol, O
+, Pastor, J
+, and Chollet, F
+ Modulation of behavior and cortical motor activity in healthy subjects by a chronic administration of a serotonin enhancer
+ Neuroimage  2005; 27, -
+ Normann, C
+, Schmitz, D
+, Furmaier, A
+, Doing, C
+, and Bach, M
+ Long-term plasticity of visually evoked potentials in humans is altered in major depression
+ Biol Psychiatry  2007; 
+ Chollet, F
+, Tardy, J
+, Albucher, J
+ F
+, Thalamas, C
+, Berard, E
+, Lamy, C
+, Bejot, Y
+, Deltour, S
+, Jaillard, A
+, Niclot, P
+, et al Fluoxetine for motor recovery after acute ischaemic stroke (FLAME): a randomised placebo-controlled trial Lancet Neurol  2011; 10, -
+ 
+ Lagas, A
+ K
+, Black, J
+ M
+, Byblow, W
+ D
+, Fleming, M
+ K
+, Goodman, L
+ K
+, Kydd, R
+ R
+, Russell, B
+ R
+, Stinear, C
+ M
+, and Thompson, B
+ Fluoxetine Does Not Enhance Visual Perceptual 
+ Sharif, M
+ H
+, Talebnejad, M
+ R
+, Rastegar, K
+, Khalili, M
+ R
+, and Nowroozzadeh, M
+ H
+ Oral fluoxetine in the management of amblyopic patients aged between 10 and 40 years old: 
+ Huttunen, H
+ J
+, Palva, J
+ M
+, Lindberg, L
+, Palva, S
+, Saarela, V
+, Karvonen, E
+, Latvala, M
+ L
+, Liinamaa, J
+, Booms, S
+, Castren, E
+, et al Fluoxetine does not enhance the effect of perceptual learning on visual function in adults with amblyopia
+ Sci Rep  2018; 8, 
+ 
+ Baumann, P
+ Pharmacology and pharmacokinetics of citalopram and other SSRIs
+ Int Clin certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 17, 
+ ;    
+ Kleim, J
+ A
+, Chan, S
+, Pringle, E
+, Schallert, K
+, Procaccio, V
+, Jimenez, R
+, and Cramer, S
+ C
+ plasticity in human motor cortex
+ Nat Neurosci  2006; 9, -
+ 
+ Chung, S
+ T
+ L
+, Li, R
+ W
+, Silver, M
+ A
+, and Levi, D
+ M
+ Donepezil Does Not Enhance Perceptual Learning in Adults with Amblyopia: A Pilot Study
+ Front Neurosci  2017; 11, 
+ 
+ Pediatric Eye Disease Investigator, G
+, Repka, M
+ X
+, Kraker, R
+ T
+, Dean, T
+ W
+, Beck, R
+ W
+, Siatkowski, R
+ M
+, Holmes, J
+ M
+, Beauchamp, C
+ L
+, Golden, R
+ P
+, Miller, A
+ M
+, et al A randomized trial of levodopa as treatment for residual amblyopia in older children
+ 
+ Epelbaum, M
+, Milleret, C
+, Buisseret, P
+, and Dufier, J
+ L
+ The sensitive period for 
+ Levi, D
+ M
+, and Polat, U
+ Neural plasticity in adults with amblyopia
+ Proc Natl Acad Sci U S 
+ Bezchlibnyk-Butler, K
+, Aleksic, I
+, and Kennedy, S
+ H
+ Citalopram--a review of pharmacological and clinical effects
+ J Psychiatry Neurosci  2000; 25, -
+ 
+ Gury, C
+, and Cousin, F
+ [Pharmacokinetics of SSRI antidepressants: half-life and clinical 
+ Patris, M
+, Bouchard, J
+ M
+, Bougerol, T
+, Charbonnier, J
+ F
+, Chevalier, J
+ F
+, Clerc, G
+, Cyran, C
+, Van Amerongen, P
+, Lemming, O
+, and Hopfner Petersen, H
+ E
+ Citalopram versus fluoxetine: a double-blind, controlled, multicentre, phase III trial in patients with unipolar major depression treated in general practice
+ Int Clin Psychopharmacol  1996; 11, -
+ Kucukibrahimoglu, E
+, Saygin, M
+ Z
+, Caliskan, M
+, Kaplan, O
+ K
+, Unsal, C
+, and Goren, M
+ Z
+ The change in plasma GABA, glutamine and glutamate levels in fluoxetine- or S-citalopram-treated female patients with major depression
+ Eur J Clin Pharmacol  2009; 
+ Owens, M
+ J
+, Knight, D
+ L
+, and Nemeroff, C
+ B
+ Second-generation SSRIs: human certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 17, 
+ ;    

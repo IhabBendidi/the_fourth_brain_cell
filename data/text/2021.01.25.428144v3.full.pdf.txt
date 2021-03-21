@@ -1,0 +1,1530 @@
+Manuscript van Dijk et al                                    Page 1 of 60 F
+ van Dijk1,2, S
+ Song1,3, G
+ W
+A van Eck1, X
+ Wu1,2, I
+ S
+ T
+ Bos1, D
+ H
+ A
+ Boom4, I
+ M
+ Kooter4, 5 D
+ C
+ J
+ Spierings5, R
+ Wardenaar5, M
+ Cole6, A
+ Salvati7, R
+ Gosens1,2, B
+ N
+ Melgert1,2,* 6 2Groningen Research Institute for Asthma and COPD, University Medical Center Groningen, 10 3Groningen Research Institute for Pharmacy, Department of Chemical and Pharmaceutical 12 4The Netherlands Organization for Applied Scientific Research, TNO, Utrecht, the 14 5European Research Institute for the Biology of Ageing, University Medical Center 16 7Groningen Research Institute for Pharmacy, Department of Nanomedicine & Drug 19 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 2 of 60 Synthetic textiles shed fibers that accumulate indoors and this results in continuous 32 exposure when indoors
+ High exposure to microplastic fibers in nylon flock workers has 33 been linked to the development of airway and interstitial lung disease, but the exact 34 health effects of microplastic fibers on the lungs are unknown
+ Here we determined effects 35 of polyester and nylon textile microplastic fibers on airway and alveolar epithelial cells 36 using human and murine lung organoids
+ We observed that particularly nylon microfibers 37 had a negative impact on the growth and development of airway organoids
+ We 38 demonstrated that this effect was mediated by components leaking from nylon
+ 39 Moreover, our data suggested that microplastic textile fibers may especially harm the 40 developing airways or airways undergoing repair
+ Our results call for a need to assess 41 exposure and inhalation levels in indoor environments to accurately determine the actual 42 Airborne fibers shed from synthetic textiles, in particular nylon, can inhibit repair of the cells 47 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 3 of 60 Plastic pollution is a pressing global concern and microplastics are a significant part of this 51 problem ()
+ High amounts of microplastics have been found in marine environments, air, 52 soils, plants, and animals, which illustrates how omnipresent this relatively recent 53 pollution actually is ()
+ Microplastic pollution derives from personal care products, 54 synthetic clothes, and degradation of macroplastics (3, )
+ Synthetic textile fibers are one 55 of the most prevalent types of microplastic waste observed, with an annual production of 56 60 million metric tons, which equals 16% of the worlds plastic pollution ()
+ These fibers 57 are typically composed of nylon or polyester and are released into the environment by 58 wear and tear and during washing and drying of garments (-)
+ 59 The ubiquitous nature of microplastics in the environment inevitably leads to human 60 exposure, which can occur through two main routes (7, )
+ Firstly, through ingestion of 61 contaminated food and water and secondly via inhalation
+ Microplastics have been 62 reported both in indoor and outdoor air, with levels indoors being 2-5 times higher as 63 compared to outdoors (9, )
+ Whether or not microfibers can deposit in lung tissue 64 largely depends on the aerodynamic diameter of the fibers (7, )
+ Lung deposition is most 65 efficiently achieved with aerodynamic diameters between 1-10 m (12), however, these 66 sizes are difficult to quantify in environmental samples due to limitations of the analytical 67 techniques (9, )
+ Yet, plastic microfibers have been found in human lung tissue, 68 suggesting inhalation does indeed take place ()
+ Furthermore, several studies from 69 workers in synthetic textile, flock and (poly)vinyl chloride industries suggest that inhalation 70 of such microfibers is harmful, as around 30% of factory workers developed work-related 71 airway and interstitial lung disease (-)
+ Moreover, exposure to particulate matter in air 72 pollution, also containing microplastics (24-26), has been associated with higher risk of 73 developing asthma and an increase in asthma symptoms in areas with higher levels of 74 Despite the potential capacity for microplastic fibers to contribute to respiratory diseases, 76 the health effects are greatly understudied and information providing evidence of 77 potential human health effects of inhaled microplastics is lacking (9, 30, )
+ In the present 78 study, we therefore explored whether textile microplastic fibers can cause damage to lung 79 tissue
+ As epithelial cells are the first to come into contact with inhaled fibers, we 80 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 4 of 60 investigated effects of polyester and nylon microfibers on lung epithelial proliferation, 81 differentiation, and repair processes
+ For this we used lung organoids that are grown from 82 primary lung epithelial progenitor cells with support of a lung fibroblast cell line (32, )
+ 83 The epithelial progenitors can develop into organoids consisting of alveolar epithelial cells 84 or organoids consisting of airway epithelial cells with help of growth factors produced by 85 fibroblasts
+ We found that in particular nylon microfibers negatively impacted developing 86 airway organoids, while developing alveolar organoids and already developed organoids of 87 both types appeared to be less affected
+ This negative effect was caused by still unknown 88 leachates from nylon that particularly inhibit differentiation of airway epithelial cells
+ We 89 therefore call for assessment of exposure levels in indoor environments and actual lung 90 deposition to accurately determine the risk of these fibers to human health
+ 91 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                                    Page 5 of 60 To produce reference textile fibers that resemble microplastics found in our indoor 95 environments, we used a method previous described by us to reproducibly generate fibers 96 of specific lengths ()
+ We particularly focused on polyester and nylon, because these are 97 the most abundant types of microplastics indoors (9, -)
+ As we spend the majority of 98 our time indoors, we may therefore be exposed most to these types of microplastics ()
+ 99 Fibers are commonly defined as having a length to diameter ratio of 3:1 ()
+ The fibers we 100 produced had a median size of 15x52 m for polyester and 12x31 m for nylon (Table S)
+ 101 Using scanning electron microscopy (SEM) we found these fibers to be rod-shaped with a 102 circular cross-section and had a smooth surface (Figure 1A and B)
+ For our polyester fibers 103 energy dispersive X-ray (EDX) analysis confirmed the presence of carbon and oxygen 104 (Figure SA)
+ The recorded micro-Fourier transform infrared (FTIR) spectrum showed 105 characteristic absorbance peaks of polyester (Figure SB)
+ The EDX spectrum for nylon 106 confirmed the presence of carbon, nitrogen and oxygen (Figure S1C) and the FTIR 107 Figure 
+ Morphology of reference microplastic fibers of standardized dimensions
+ 110 Representative SEM micrographs of (A) polyester microfibers (15x52 m) and (B) nylon 111 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 6 of 60 Nylon microfibers inhibited growth of murine and human lung organoids 114 Possible effects of microplastic fibers on lung epithelial proliferation, differentiation, and 115 repair processes were assessed in vitro using both murine and a human lung organoids
+ 116 Airways are lined with ciliated pseudostratified epithelium consisting of basal cells, ciliated 117 cells, and secretory cells like goblet cells and club cells, while alveoli consist of alveolar 118 epithelial cells type I and II (AECI and AECII)
+ Basal cells and club cells have stem cell-like 119 abilities and basal cells can give rise to all important epithelial cells lining the airways, 120 while club cells can develop into ciliated cells, goblet cells, and AECII (41, )
+ AECII can 121 behave as alveolar stem cells and can proliferate and develop into AECI ()
+ The lung 122 organoids we used in these studies self-assemble from the lung epithelial progenitor/stem 123 cells isolated from adult lung tissue, i
+ e
+ basal cells, club cells and AECII
+ The growth of 124 organoids from these progenitor cells is supported by proliferation and differentiation 125 enhancers produced by epithelial cells themselves and fibroblasts also present in our 3D 126 We first assessed the effects of several doses of fibers on organoid growth ranging from 128 2000-5000 fibers per well (Figure S)
+ The fibers were dispersed into liquid Matrigel at the 129 same time as the isolated epithelial cells and fibroblasts were added, after which the 130 Matrigel solidifies and epithelial progenitors start to form organoids
+ Based on these 131 results we continued with 5000 polyester or 5000 nylon fibers per well, equivalent to 122 132 g/ml polyester and 39 g/ml nylon, as this concentration had clear effects and was on the 133 lower end of the spectrum of concentrations used in other studies ()
+  134 Murine lung organoids develop into two distinct phenotypes, i
+ e
+ acetylated -tubulin-135 positive airway organoids (Figure 2A) and prosurfactant protein C-positive alveolar 136 organoids (Figure B)
+ We assessed the effects of the two types of fibers on these two 137 structures separately
+ Exposure during 14 days to either polyester or nylon microfibers 138 resulted in significantly fewer organoids (Figure 2C) compared to untreated controls 139 (Figure 2D and E)
+ The effect of nylon on airway organoids was most profound of the two 140 types of plastic and the two types of structures
+ Moreover, both airway and alveolar 141 organoids were significantly smaller in size following nylon microfiber exposure as 142 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 7 of 60 Figure 
+ Effects of microplastic fibers on growth of murine lung organoids
+ Light 145 airway organoids (red) and (B) prosurfactant protein C-positive alveolar organoids (green)
+ 147 Nuclei were counterstained with DAPI (blue)
+ (C) Representative light microscopy images of 148 the different treatment conditions
+ Yellow arrows in the light microscopy images indicate 149 airway organoids, whereas cyan arrows indicate alveolar organoids
+ (D and E) 150 Quantification of the numbers and (F and G) quantification of the sizes of airway and 151 alveolar lung organoids exposed for 14 days to no fibers, 5000 polyester, or 5000 nylon 152 fibers (equivalent to 122 g/ml polyester or 39 g/ml nylon, n=12 independent isolations)
+ 153 Groups were compared using a Friedman test with Dunns correction for multiple testing
+ 154 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 8 of 60 Similar results were observed in human lung organoids, that mainly develop into alveolar 156 organoids or mixed alveolar/airway organoids positive (Figure A)
+ 14 day-exposure to 157 nylon microfibers resulted in significantly fewer human lung organoids (Figure 3B and C), 158 whereas the effects of polyester on organoid growth were less profound
+ The size of the 159 organoids was not affected by the presence of nylon microfibers (Figure D)
+ 160 Figure 
+ Influence of microplastic fibers on growth of human lung organoids
+ (A) The 161 morphology of the alveolar prosurfactant protein C-positive organoids (green) and mixed 162 acetylated -tubulin/prosurfactant protein C-positive organoids (orange) as shown by light 163 and fluorescence microscopy
+ Nuclei were counterstained with DAPI (blue)
+ (B) 164 Representative light microscopy images of all treatment conditions
+ Cyan arrows indicate 165 lung organoids
+ (C) Quantification of the numbers and (D) sizes of human lung organoids 166 following 14-day exposure to either no microfibers, 5000 polyester, or 5000 nylon fibers 167 (equivalent to 122 g/ml polyester or 39 g/ml nylon, n=7 independent isolations)
+ Groups 168 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 9 of 60 were compared using a Friedman test with Dunns correction for multiple testing
+ P<
+05 169 Having observed these effects after exposure to reference microfibers, we next performed 172 similar experiments using environmentally relevant polyester and nylon fibers on murine 173 lung organoids
+ These were made from white polyester and nylon fabrics purchased in a 174 local fabric store and cut to sizes approximating the reference fibers
+ First, we 175 characterized morphology and chemical composition of these fibers
+ For polyester, we 176 observed a more heterogeneous size distribution as compared to the reference fibers, 177 with fibers having a median size of 17x63 m (Figure 4A, Table S2), but a comparable EDX 178 and FTIR spectrum (Figure S3A and B)
+ The nylon fibers had a disk-shaped appearance but 179 similar dimensions as the reference nylon fibers (median 57x20 m, Table S)
+ The EDX 180 analysis revealed the expected C, N and O peaks for nylon (Figure S3C) and the FTIR 181 Figure 
+ Morphology of environmental microplastic fibers
+ Representative SEM pictures 184 of (A) polyester microfibers (17x63 m) and (B) nylon microfibers (57x20 m)
+ 185 As observed with the reference fibers, exposure to environmental nylon microfibers 187 resulted in markedly fewer lung organoids (Figure 5A, B and C) as well as smaller organoids 188 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 10 of 60 Figure 5: Effect of environmentally relevant textile fibers on growth of murine lung 191 organoids
+ (A) Representative light microscopy images of all treatment conditions
+ Yellow 192 arrows in the light microscopy images indicate airway organoids, whereas cyan arrows 193 indicate alveolar organoids
+ (B and C) Quantification of the numbers and (D and E) sizes of 194 airway and alveolar organoids (n=6 independent isolations) following 14-day exposure to 195 either no microfibers, 5000 polyester or 5000 nylon microfibers (approximately equivalent 196 to 189 g/ml polyester or 531 g/ml nylon)
+ Groups were compared using a Friedman test 197 with Dunns correction for multiple testing
+ P<
+05 was considered significant
+ 198 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 11 of 60 Leaching nylon components caused a reduction in lung organoid growth 200 Since organoid growth was most affected by nylon, both reference and environmentally 201 relevant fibers, we investigated whether this inhibition was caused by the physical 202 presence of fibers nearby the cells or by leaching components from these nylon fibers
+ 203 Therefore, we added nylon reference microfibers either on top of the Matrigel after it had 204 set, thereby preventing direct contact with the cells, or added leachate of these fibers to 205 the medium surrounding the Matrigel for 14 days
+ Interestingly, even when excluding 206 physical contact between the fibers and the cells or simply exposing the cells to medium 207 with leachate, the same effects on airway organoids were observed as when the forming 208 organoids were directly exposed to the fibers
+ We found significantly fewer airway 209 organoids in the presence of nylon microfibers on top of the gel or their leachate (Figure 210 6A and B) compared to having the fibers inside the Matrigel
+ The number of alveolar 211 organoids, on the other hand, was unaffected (fibers on top) or even induced (leachate, 212 Figure 6A and C) compared to having the fibers inside the Matrigel
+ Additionally, the size of 213 these airway organoids was smaller as compared to untreated control organoids (Figure 214 6D), while only slightly inhibiting the size of the alveolar organoids (Figure E)
+ These data 215 suggest that specifically airway epithelial growth is inhibited by components leaching from 216 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 12 of 60 Figure 
+ Impact of nylon reference microfibers and their leaching components on growth 219 of murine lung organoids
+ (A) Representative light microscopy images of all treatment 220 conditions
+ Yellow arrows in the light microscopy images indicate airway organoids, 221 whereas cyan arrows indicate alveolar organoids
+ (B and C) Quantification of the numbers 222 and (D and E) sizes of airway and alveolar organoids following either direct exposure to 223 5000 nylon microfibers or indirect exposure to nylon by adding 5000 microfibers 224 (equivalent to 39 g/ml nylon) on top of the Matrigel or by adding nylon leachate to the 225 culture medium (n=6 independent isolations)
+ Groups were compared using a Friedman 226 test with Dunns correction for multiple testing
+ P<
+05 was considered significant
+  227 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 13 of 60 The strong effects observed with the leachate suggested that some components and/or 229 degradation products may leak and/or form during fiber ageing at C
+ Thus in order to 230 determine the chemical identity of the components leaching from nylon reference 231 microfibers we used mass spectrometry analysis
+ This revealed high concentrations of 232 cyclic nylon oligomers (mono-, di- and trimers) in the leachate of nylon microfibers (Figure 233 S4A), which are known to develop as by-products during the production of nylon ()
+ 234 However, when exposing murine lung organoids to different concentrations of these 235 isolated oligomers separately or in combination, we observed no effects on either number 236 or size of organoids (Figure S4B-E showing the highest concentration that has been tested)
+ 237 These data suggest that other components in nylon leachate are causing the inhibitory 238 effects on organoid growth
+ Recent work by Sait and Srensen and colleagues showed that 239 the most abundant chemicals leaching from nylon are bisphenol A and benzophenone-3 240 (45, )
+ However, we could not detect these in our leachate, suggesting that if they are 241 present, they are so in minute quantities
+ Initial experiments incubating organoids with 242 different concentrations of bisphenol A or benzophenone-3 did not show effects on 243 organoid growth of either of them suggesting they are indeed not the culprits in our 244 As our experimental set-up specifically studied effects of microplastic fibers on developing 248 organoids, we next studied whether already-developed, mature organoids were also 249 affected by nylon microplastics
+ We therefore exposed organoids to nylon reference 250 microfibers during organoid formation as before (14-day incubation) and we additionally 251 exposed fully developed 14-day organoids to microfibers on top of the Matrigel or to nylon 252 leachate for an additional 7 days
+ Interestingly, in contrast to the strong effects observed 253 on developing organoids, we found that the compounds leaching from nylon had no 254 effects on already-developed organoids (Figure 7A), as reflected by unchanged numbers of 255 organoids (Figure 7B and C) and unchanged sizes (Figure 7D and E)
+ This suggests that 256 these nylon leachates are mostly harmful to differentiation of epithelial progenitors, but 257 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 14 of 60 Figure 
+ Effects of nylon reference fiber leachate on already-developed lung organoids
+ 260 (A) Representative light microscopy images of all treatment conditions
+ Yellow arrows in 261 the light microscopy images indicate airway organoids, whereas cyan arrows indicate 262 alveolar organoids
+ (B and C) Quantification of the numbers and (D and E) sizes of airway 263 and alveolar organoids following exposure to no or 5000 nylon microfibers (equivalent to 264 39 g/ml nylon) for 14 or 21 days
+ A set of other organoids developed without treatment 265 for 14 days and were exposed to nylon by adding 5000 microfibers (equivalent to 39 g/ml 266 nylon) on top of the Matrigel or by adding nylon leachate to the culture medium for 267 another 7 days (n=6 independent isolations)
+ Groups were compared using a Kruskal-Wallis 268 test with Dunns correction for multiple testing
+ P<
+05 was considered significant
+ 269 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 15 of 60 Exposure to nylon inhibited epithelial development pathways and stimulated expression 270 To better understand the mechanisms behind the observed effects on the growth of 272 airway organoids, we performed bulk RNA-sequencing (RNAseq) analysis on epithelial cells 273 and fibroblasts resorted from organoid cultures exposed to two different concentrations of 274 nylon fibers (2000 or 5000 fibers) or not
+ The condition of 2000 fibers was added because 275 the effect of 5000 fibers on airway epithelial development was already profound and we 276 wanted to investigate more subtle changes
+ However, both conditions had an enormous 277 impact on epithelial gene expression as depicted by the volcano plots (Figure A-D)
+ 278 Exposure to 2000 nylon fibers (equivalent to 16 g/ml nylon) resulted in 16455 transcripts 279 being differentially expressed at least two-fold compared to nonexposed controls, with an 280 q value <
+05 (p value corrected for the false discovery rate), with most being 281 downregulated (Figure 8A and C)
+ Exposure to 5000 nylon fibers (equivalent to 39 g/ml 282 nylon) resulted in 39395 transcripts being differentially expressed at least two-fold 283 compared to nonexposed controls, with most being upregulated (Figure 8B and D)
+  284 To reduce the number of transcripts, we then selected only those transcripts that had an 285 average basemean expression of at least 10 and were significantly (q value <
+05) up or 286 downregulated in both exposure conditions of 2000 and 5000 nylon fibers compared to 287 nonexposed controls
+ This resulted in 10764 transcripts that were differentially expressed 288 compared to nonexposed controls, with 5522 being downregulated and 5242 being 289 upregulated
+ The downregulated transcripts were then sorted on the lowest q value for 290 exposure to 2000 fibers and the upregulated transcripts were sorted on the lowest q value 291 for exposure to 5000 fibers and the top 500 genes of each were used for pathway analysis 292 The top pathways identified for downregulated genes following nylon exposure were 294 highly enriched for epithelial development and function (figure 8E-F), while the top 295 pathways identified for upregulated genes were highly enriched for mRNA translation and 296 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 16 of 60 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 17 of 60 Figure 8: RNAseq analysis of epithelial cells exposed to nylon or not
+ (A) Volcano plot of 302 differentially expressed genes by epithelial cells exposed to 2000 nylon fibers (equivalent to 303 16 g/ml nylon) or not
+ (B) Volcano plot of differentially expressed genes by epithelial cells 304 exposed to 5000 nylon fibers (equivalent to 39 g/ml nylon) or not
+ Upregulated genes are 305 marked in red, downregulated genes in blue
+ Genes were selected with thresholds of fold 306 change >2 and q<
+ 
+ (C) Unsupervised clustering heat map of epithelial cells exposed to 307 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 18 of 60 2000 nylon fibers (equivalent to 16 g/ml nylon) or not
+ (D) Unsupervised clustering heat 308 map of epithelial cells exposed to 5000 nylon fibers (equivalent to 39 g/ml nylon) or not
+ 309 (E) Metascape bar graphs of top 10 nonredundant enrichment clusters of genes 310 downregulated by exposure to nylon ordered based on statistical significance (p value)
+ (F) 311 similarities of enriched terms of genes downregulated by exposure to nylon, up to ten 313 terms per cluster
+ Cluster annotations colors are shown in bar graph of panel E
+ (G) 314 Metascape bar graphs of top 10 nonredundant enrichment clusters of genes upregulated 315 by exposure to nylon ordered based on statistical significance (p value)
+ (H) Metascape 316 enrichment network visualization showing the intra-cluster and inter-cluster similarities of 317 enriched terms of genes upregulated by exposure to nylon, up to ten terms per cluster
+ 318 Cluster annotations colors are shown in bar graph of panel E
+ 2k: 2000 fibers; 5k: 5000 319 We then investigated expression of individual genes in the top 5 enriched pathways for up 322 and downregulated genes in more detail (Figures E-H)
+ The top 5 enriched pathways for 323 downregulated genes were type I hemidesmosome assembly, formation of cornified 324 envelope, cell-cell adhesion, epithelial cell differentiation, and epithelial cell proliferation, 325 while the top 5 pathways for upregulated genes were SRP-dependent cotranslational 326 protein targeting to membrane, neutrophil degranulation, regulation of protein complex 327 assembly, negative regulation of protein complex assembly, and negative regulation of 328 We first investigated the downregulated genes and many of them represent important 330 epithelial populations in the lung
+ We therefore investigated genes associated with specific 331 epithelial populations (listed in table )
+ The expression of these genes correlated well with 332 our organoid findings that airway epithelial cell growth was most affected by exposure to 333 nylon fibers, while alveolar epithelial cell growth was less affected (Figure )
+ Both AECI 334 and AEC II genes (Figure 9A) were only marginally lower expressed after exposure to nylon 335 while most genes for basal cells (Figure 9B), ciliated cells (Figure 9C), club cells and goblet 336 cells (Figure 9D) were expressed at significantly lower levels compared to controls with 337 two noticeable exceptions: ciliated cell marker Tuba1a and club cell marker Scgb1a1, that 338 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 19 of 60 were expressed at significantly higher levels compared to nonexposed controls
+ 339 Proliferation markers like proliferation marker protein 67 (Mki67), forkhead box protein 340 M1 (Foxm1), and polo-like kinase 1 (Plk1, Figure 9E) confirmed this general lack of 341 proliferation in epithelial cells as all three were expressed at lower levels in a dose-342 dependent manner after exposure to nylon fibers
+ Expression of genes for signaling 343 molecules essential for epithelial growth and development were impressively and dose-344 dependently downregulated by nylon exposure as well (Figure 9F), including Notch1 and 345 Notch2 and their ligands Jagged 1 (Jag1) and 2 (Jag2) (48-50), Bmp4 and Bmp7 (51-53), 346 Wnt4 and Wnt7a (54, 55), and the receptor for hepatocyte growth factor, Met
+ The lower 347 expression of basal cell-specific markers and essential factors that are needed for 348 differentiation of other cell types like ciliated and goblet cells may explain why the growth 349 of in particular airway organoids was inhibited most by nylon
+ 350 Table 1: Markers associated with different epithelial populations in lung tissue
+ 352 To exclude the possibility that these effects on epithelial cells were the result of a 354 decreased support function from fibroblasts, for instance by nylon selectively killing 355 fibroblasts or inhibiting the expression of important growth factors, we separately 356 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 20 of 60 analyzed the resorted fibroblast fraction for expression of proliferation genes and 357 important growth factors, i
+ e
+ Mki67, Foxm1, Plk1, fibroblast growth factors 2, 7, and 10 358 (Fgf2, Fgf7, and Fgf10), Wnt2, Wnt5a, and hepatocyte growth factor (Hgf) ()
+ None of 359 these genes were negatively affected in fibroblasts after exposure to nylon fibers 360 compared to untreated controls and expression of most actually went up slightly (Figure 361 The genes most prominently upregulated after exposure to nylon fibers were mostly 363 encoding for ribosomal proteins, with ribosomal protein L28 (Rpl28), L31 (Rpl31), and L38 364 (Rpl38) being most profoundly upregulated (Figure G)
+ Ribosomal proteins are a large 365 family of proteins and essential parts of ribosomes translating mRNA to protein
+ Recent 366 data has shown that heterogeneity in ribosomal protein composition within ribosomes 367 makes them selective for translating subpools of transcripts ()
+ For instance, Rpl38 has 368 been shown to regulate translation of the homeobox (Hox) genes, that are key in 369 anatomical development ()
+ We therefore also investigated the expression of all Hox 370 genes and some specific members of this family involved in lung epithelial development in 371 more detail (Figure 9H) (58, )
+ After exposure to nylon fibers, expression of Hox family 372 members was significantly higher and this pattern was seen for highlighted members 373 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 21 of 60 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 22 of 60 Figure 9: Expression profiles of individual genes from the pathway analyses
+ Genes shown 377 were significantly differentially expressed in epithelial cells isolated from organoids 378 exposed to 2000 (2k) or 5000 (5k) nylon fibers compared to untreated controls according to 379 a false discovery rate of q<
+05 (n=4 independent isolations)
+ The following genes in the 380 following conditions were not significantly different: 2k nylon: Hopx, Ager, Sftpc, Sftpb, 381 Stk11, Scgb1a1, Bmp4, Notch2, Hoxa4; 5k nylon: Hopx, Ager, Plk
+  382 (A) Genes highly expressed by alveolar epithelial cells type I (AECI) and type II (AECII)
+ (B) 383 Genes highly expressed in basal cells
+ (C) Genes highly expressed in ciliated cells
+ (D) Genes 384 highly expressed in club cells and goblet cells
+ (E) Genes associated with proliferation
+ (F) 385 Genes encoding factors important for epithelial development
+ (G) Genes encoding 386 Recent reports have shown that man-made fibers are ubiquitously present in indoor air (9, 391 -)
+ It is estimated that approximately 30% of those indoor fibers are of plastic origin, 392 particularly from textiles (9, -)
+ The lungs are continuously exposed to this airborne 393 microplastic pollution (60), but the consequences of common household exposure on our 394 lungs are unclear
+ In our present work, we found that both polyester and nylon microfibers 395 negatively affected the growth and development of human and murine lung organoids, 396 with nylon being the most harmful
+ Already established lung organoids were not affected 397 and therefore our results may be of particular importance for young children with 398 developing airways and for people undergoing high levels of epithelial repair, such as 399 Nylon was found to be the most consistently harmful for growth of airway organoids and 402 was less inhibitory for growth of alveolar organoids, while polyester affected both types 403 equally but less profoundly than nylon
+ This was the case for our reference fibers as well as 404 environmentally relevant fibers made from fabrics purchased in a local fabric store
+ The 405 gene expression analysis also confirmed that growth of alveolar organoids was affected 406 less by nylon exposure and even appeared induced after treatment with leachate or lower 407 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 23 of 60 numbers of nylon fibers
+ The explanation for this finding may be found in the 408 downregulation of Notch signaling pathway members by nylon fibers
+ Multiple studies 409 have shown that Notch signaling is required for development of airway epithelial cells, 410 most specifically goblet cells, whereas disruption of this signaling boosts alveolar epithelial 411 development (61, )
+ Both Notch1 and Notch2, as well as their ligands Jag1 and Jag2 412 were expressed at significantly lower levels after nylon treatment, suggesting disruption of 413 Notch signaling may be responsible for the divergent effect nylon has on airway versus 414 The Notch pathway, incidentally, is also important for the development of club cells ()
+ 416 Morimoto and colleagues showed that Notch2 was involved in the decision between club 417 cell or ciliated cell development
+ Interestingly, the gene expression data for club cells and 418 ciliated cells were somewhat ambiguous, with important markers for these cell types 419 having higher expression (Scgb1a1 for club cells and Tub1a1 for ciliated cells) and others 420 having lower expression (Bpifa1 for club cells and Foxj1 and Stk11 for ciliated cells) after 421 nylon exposure
+ This may suggest that the lower expression of Notch2 may be hampering 422 the cell fate decision between club and ciliated cells in some way, resulting in improperly 423 differentiated cell types
+ In combination with the inhibited development of basal epithelial 424 cells and goblet cells, this altered airway epithelial differentiation may explain the 425 bronchiolitis found in nylon flock workers and rats exposed to nylon (-)
+  426 Our results demonstrated that the negative effect of nylon fibers on development of 428 particularly airway organoids was caused by components leaching from these fibers
+ As 429 the most abundant components in this leachate, the cyclic oligomers, were not 430 responsible for this effect, we used RNAseq analysis to look for signatures of other 431 components
+ Although we could not detect bisphenol A in our leachate, it is of interest to 432 note that exposure of fruit flies to bisphenol A specifically upregulated ribosome-433 associated genes (67), similar to what we found in our study
+ The association of these Rpl 434 genes with the Hox family genes is of particular interest for lung epithelial development
+ 435 Rpl38 was one of the three most upregulated Rpl genes by nylon and was shown to 436 interact with a specific subset of Hox genes including Hoxa4, Hoxa5, and Hoxb3 ()
+ These 437 have all been associated with epithelial differentiation, with Hoxa5 taking a center stage in 438 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 24 of 60 goblet versus club cell differentiation (58, )
+ Boucherat and colleagues showed that loss 439 of Hoxa5 drove epithelial differentiation towards goblet cell differentiation at the expense 440 of club cell differentiation and Scgb1a1 expression ()
+ Remarkably, Hoxa5 was expressed 441 at significantly higher levels in our dataset in a dose-dependent manner after exposure to 442 nylon and we also found a matching dose-dependent increase in Scgb1a1 and decrease in 443 Muc5ac and Muc5b expression
+ Taken together our data suggest that component (s) in 444 nylon leachate may be skewing differentiation of epithelial progenitors away from airway 445 epithelial cells possibly through changes in expression of Hoxa5 and/or Notch
+ Which 446 components or combinations of components are responsible for these effects is still an 447 A strength of using lung organoids is the opportunity to directly translate murine findings 450 to human lung epithelial repair (32, 33, 43, 68, )
+ Using cells isolated from human lungs 451 we have shown human epithelial cells respond similarly to polyester and nylon fibers, 452 demonstrating our results are relevant for human epithelial differentiation and growth 453 too
+ Despite this advantage, lung organoids are a relatively simple model of lung tissue and 454 lack the immune and endothelial compartment present in vivo
+ Especially having the 455 immune compartment present could alter how lung tissue responds to these microplastic 456 fibers
+ For example, innate immune cells like macrophages are also one of the first cells to 457 come into contact with microplastic fibers following inhalation and macrophages are 458 known to respond strongly to inhaled particles and fibers (70) and are also important for 459 lung repair ()
+ It is therefore recommended to include lung macrophages in lung 460 organoid cultures in future studies as was done before by Choi et al ()
+ This way, a more 461 comprehensive view on the interaction between pivotal lung cells and microplastics can be 462 The implication of our results for the human population is of high relevance
+ It is important 465 to note that similar to the high occupational exposure in industry workers, the microplastic 466 fiber doses as used in our in vitro experiments are much higher than daily exposure for 467 most people
+ Previous studies estimated that a male person with light activity may inhale 468 around 272 microplastic particles per day based on air sampling using a breathing thermal 469 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 25 of 60 manikin ()
+ The total surface of airway epithelial cells is 2471 cm2 for human lungs (73), 470 resulting in 
+1 particle/cm
+ Our murine cultures had an average of 70 airway organoids 471 with an average size of 320 m, resulting in a total surface of 
+2 cm2 that was incubated 472 with 5000 fibers or 25,000 fibers/cm
+ For our calculations we assumed these 473 particles/fibers will get trapped onto airway epithelial cells
+ Generally particles or fibers of 474 sizes between 10 and 100 m will deposit onto epithelial cells covering airway walls ()
+ 475 Only fibers with a diameter smaller than 3 m have the ability to penetrate deep into the 476 lungs and reach the alveoli
+ Our fiber sizes were limited by the availability of polyester and 477 nylon filaments of standardized small diameters and therefore were not small enough for 478 alveolar deposition
+ However, airway trapping can still cause local harm as we found nylon 479 fibers to inhibit airway epithelial differentiation most
+ It will therefore be crucial to study 480 in more detail how many and what kind of fibers deposit in which regions of the lungs and 481 what fraction can still be cleared
+ In addition, we need to gather more information about 482 exposure levels in indoor environments to assess real-life inhalation levels
+ A limitation 483 here is the detection of microplastics, as smaller particles might escape current detection 484 methods (10, )
+ Especially our finding that epithelial differentiation and repair 485 mechanisms are affected most by microplastics exposure, suggests airborne microplastics 486 may be most harmful to young children with developing airways and to people undergoing 487 high levels of epithelial repair
+ These could be people with a chronic lung disease or even 488 In conclusion, with the ongoing and growing use of plastics, potential associated health 491 problems in the human population may also increase
+ The results of the present study 492 strongly encourage to look in more detail at both hazard of and exposure to microplastic 493 fibers, and outcomes of these experiments will be valuable to advise organizations such as 494 the World Health Organization and Science Advice for Policy by European Academies who 495 have recently stated that more research is urgently needed (30, )
+ Importantly, future 496 research should focus on examining the presence and number of such fibers both in our 497 indoor environment and in human lung tissue, to better estimate the actual risk of these 498 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 26 of 60 Microfibers of standardized dimensions were produced as described before ()
+ In short, 505 polyester and nylon fibers (both Goodfellow, UK) with filament diameters of 
+5 m 506 and 
+5 m respectively were aligned by wrapping them around a custom-made spool, 507 coated with a thin layer of cryo compound (KP-CryoCompound, VWR International B
+ V
+, 508 PA, USA) and frozen
+ Aligned fibers were cut into similar length parts (~2 cm) using a 509 scalpel (Swann-Morton, UK) and moulded onto a compact block that was oriented 510 perpendicular to the base of a cryomicrotome (Microm HM 525, Thermo Fisher Scientific, 511 MA, USA)
+ Microfibers were cut at lengths of 50 m for polyester and 30 m for nylon, 512 after which the fibers were thawed, washed with water through a 120 m filter (Merck 513 Millipore, MA, USA) to remove miscut fibers and contaminants, collected by vacuum 514 filtration using 8 m polycarbonate membrane filters (Sterlitech, WA, USA) and stored dry 515 Nylon leachate was produced by incubation of nylon reference microfibers in phosphate 517 buffered saline (PBS) for 7 days at 37C in the dark, followed by filtration using a 
+2 m 518 syringe filter (GE Healthcare Life Sciences, UK)
+ The leachate was stored at -20C until 519 Environmental polyester and nylon textile microfibers were prepared from commercially 522 available pure fabrics
+ White polyester fabric was washed at 40C in a washing machine 523 (Samsung, South Korea) and dried in a tumble dryer (Whirlpool, MI, US)
+ Fibers with an 524 estimated filament diameter of 15 m were collected on the filter of the tumble dryer and 525 subsequently frozen with cryo compound and sectioned into lengths of 50 m using a 526 cryomicrotome
+ White nylon fabric (estimated filament diameter of 40 m) was cut into 527 small squares, stacked, frozen with cryo compound, and cut into lengths of 12 m
+ All 528 microfibers were thawed, washed with water through a 120 m filter, collected by vacuum 529 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 27 of 60 Samples were prepared for scanning electron microscopy (SEM) analysis on an aluminium 534 sample holder using adhesive carbon-coated tape
+ Excessive microfibers were removed 535 using pressurized air, after which the samples were sputter-coated with 10 nm of gold
+ 536 Images were obtained using a JSM-6460 microscope (Jeol, Japan) at an acceleration 537 Digital photomicrographs were captured at 200 magnification using a Nikon Eclipse TS100 540 inverted microscope coupled to a Nikon Digital Sight DS-U3 microscope camera controller 541 (both Japan), after which microfiber diameters and lengths (median of 200) were 542 The experimental protocol for the use of mice for epithelial cell isolations was approved by 547 the Animal Ethical Committee of the University of Groningen (The Netherlands) and all 548 guidelines on animal experimentation
+ C57BL/6 mice (8-14 weeks) were bred at the 550 Central Animal Facility of the University Medical Center Groningen (UMCG) (IVD 15303-01-551 )
+ Animals received ad libitum normal diet with a 12 h light/dark cycle
+  552 Histologically normal lung tissue was anonymously donated by individuals with COPD (n=6) 554 or without COPD (n=1) undergoing surgery for lung cancer and not objecting to the use of 555 their tissue
+ COPD patients included ex- and current- smoking individuals with GOLD stage 556 I-IV disease (GOLD I=1, GOLD II=2, GOLD IV=)
+ Subjects with other lung diseases such as 557 asthma, cystic fibrosis, or interstitial lung diseases were excluded
+ The study protocol was 558 consistent with the Research Code of the University Medical Center Groningen (UMCG) 559 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 28 of 60 and Dutch national ethical and professional guidelines (www
+ federa
+ org)
+ Sections of lung 560 tissue of each patient were stained with a standard haematoxylin and eosin staining and 561 Mouse lung fibroblasts (CCL-206, ATCC, Wesel, Germany) or human lung fibroblasts 564 (MRC5, ATCC, CCL-171) were cultured in 1:1 DMEM (Gibco, MD, USA) and Hams F12 565 (Lonza, Switzerland) or Hams F12 respectively, both supplemented with 10% heat 566 inactivated fetal bovine serum (FBS, GE Healthcare Life Sciences), 100 U/ml penicillin and 567 100 g/ml streptomycin, 2 mM L-glutamine and 
+5 g/ml amphotericin B (all Gibco)
+ 568 Fibroblasts were cultured at 37C under 5% CO2 and humidified conditions
+ For use in 569 10 g/ml mitomycin C (Sigma-Aldrich, MO, USA) in cell culture medium for 2 hours, after 571 which they were washed in PBS, and left in normal medium for at least 1 hour before 572 Epithelial cells were isolated from lungs of mice using antibody-coupled magnetic beads 577 (microbeads) as described before (32, 33, )
+ In short, mice were sacrificed under 578 anaesthesia, after which the lungs were flushed with 
+9% NaCl and instilled with 75 579 caseinolytic units/
+5 ml dispase (Corning, NY, USA)
+ After 45 minutes of incubation at 580 room temperature, the lobes (excluding trachea and extrapulmonary airways) were 581 homogenized in DMEM containing 100 U/ml penicillin and 100 g/ml streptomycin and 40 582 g/ml DNase1 (PanReac AppliChem, Germany), washed in DMEM (containing penicillin, 583 streptomycin and DNase1), and the digested tissue was passed through a 100 m cell 584 strainer
+ The suspension was incubated for 20 minutes at 4C with anti-CD31 and anti-585 CD45 microbeads in MACS buffer and magnetically sorted using LS columns
+ The 586 CD31/CD45 flow-through was incubated for 20 minutes at 4C with anti-CD326 (EpCAM) 587 microbeads in MACS buffer, after which purified epithelial lung cells were obtained by 588 positive selection using LS columns
+ CD326-positive epithelial cells were resuspended in 589 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 29 of 60 CCL206 fibroblast medium, counted and seeded into Matrigel immediately after isolation 590 with equal numbers of CCL206 fibroblasts, as described below
+ All materials were 591 Human lung epithelial cells were isolated from lung tissue specimens obtained from 595 patients
+ Peripheral lung tissue was minced and dissociated in DMEM-containing enzymes 596 (Multi Tissue Dissociation Kit) at 37C using a gentleMACS Octo Dissociator
+ The cell 597 suspension was filtered (70 m and 35 m nylon strainer, respectively) prior to 20-minute 598 incubation at 4C with anti-CD31 and anti-CD45 microbeads in MACS buffer
+ The 599 CD31/CD45 fraction was obtained by negative selection using an AutoMACS
+ Epithelial 600 cells were then isolated by positive selection after 20-minute incubation at 4C with anti-601 CD326 (EpCAM) microbeads in MACS buffer
+ Human EpCAM+ cells were resuspended in 602 1:1 DMEM and Hams F12, supplemented with 10% heat inactivated FBS, 100 U/ml 603 penicillin and 100 g/ml streptomycin, 2 mM L-glutamine and 
+5 g/ml amphotericin B, 604 counted and seeded into Matrigel immediately after isolation with equal numbers of 605 MRC5 fibroblasts
+ All materials were purchased at Miltenyi Biotec unless stated otherwise
+ 606 Lung organoids were grown as previously described with minor modifications (32, 33, )
+ 609 For mouse lung organoids, 10,000 EpCAM+ cells and 10,000 CCL206 fibroblasts were 610 seeded, and for human lung organoids, 5,000 EpCAM+ cells and 5,000 MRC5 fibroblasts 611 were seeded in 100 l growth factor-reduced Matrigel matrix (Corning) diluted 1:1 in 612 DMEM:Hams F-12 1:1 containing 10% FBS, 100 U/ml penicillin and 100 g/ml 613 streptomycin, 2 mM L-glutamine and 
+5 g/ml amphotericin B into transwell 24-well cell 614 culture plate inserts (Corning)
+ Organoids were cultured in DMEM:Hams F-12 1:1 615 supplemented with 5% FBS, 100 U/ml penicillin and 100 g/ml streptomycin, 2 mM L-616 glutamine, 
+5 g/ml amphotericin B, 4 ml/l insulin-transferrin-selenium (Gibco), 25 g/l 617 recombinant mouse (Sigma-Aldrich) or human epithelial growth factor (EGF, Gibco) and 618 300 g/l bovine pituitary extract (Sigma-Aldrich)
+ During the first 48h of culture, 10 M Y-619 27632 (Axon Medchem, the Netherlands) was added to the medium
+  620 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 30 of 60 A titration curve for polyester or nylon microfibers was made with 2000, 3000, 4000 or 621 5000 fibers per well corresponding to approximately 49, 73, 98 and 122 g/ml of polyester 622 fibers or 16, 23, 31, and 39 g/ml of nylon fibers
+ For all other experiments, 5000 polyester 623 or nylon reference (equivalent to 122 g/ml of polyester or 39 g/ml of nylon) or 624 environmental microfibers (equivalent to 122 g/ml of polyester or 39 g/ml of nylon and) 625 were used per condition
+ Fibers were in direct contact with developing organoids during 626 14 days by mixing them with Matrigel and cells prior to seeding in the insert, except for 627 those experiments studying effects of leaching nylon components
+ In those cases, 5000 628 polyester and nylon reference fibers were added on top of the organoids, thereby 629 excluding physical contact between the microfibers and the developing organoids, or 630 equivalent amounts of fiber leachate were added to the medium during 14 days of 631 organoid culture
+ For testing the effects of nylon oligomers, concentrations between 
+8 632 ng/ml and 
+6 g/ml were used; the latter concentration being twice as high as the used 633 fiber concentrations (5000 fibers per condition)
+ Oligomers were synthesized and 634 characterized as described in the supplementary materials and methods
+ All organoid 635 cultures were maintained for 14 to 21 days at 37 C under 5% CO2 and humidified 636 Organoid colony forming efficiency was quantified by manually counting the total number 638 of organoids per well after 14 or 21 days of culturing using a light microscope at 100 639 magnification
+ For mouse organoids, a distinction was made between airway and alveolar 640 organoids, whereas for human organoids only one organoid phenotype was distinguished
+ 641 The diameter of the organoids was measured using a light microscope (Nikon, Eclipse Ti), 642 only including organoids larger than 50 m in diameter, with a maximum of 50 organoids 643 Organoid cultures in Matrigel were washed with PBS, fixed in ice-cold 1:1 acetone and 647 methanol (both Biosolve Chimie, France) for 15 minutes at -20C and washed again with 648 PBS after which aspecific antibody-binding was blocked for 2 hours in 5% bovine serum 649 albumin (BSA, Sigma-Aldrich)
+ Organoids were incubated overnight at 4C with the primary 650 antibodies (mouse anti-acetylated -tubulin (Santa Cruz, TX, USA) and rabbit anti-651 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 31 of 60 prosurfactant protein C (Merck, Germany)) both diluted 1:200 in 
+1% BSA and 
+1% Triton 652 (Sigma-Aldrich) in PBS
+ Next, after extensive but gentle washing with PBS, organoids were 653 incubated with the appropriate Alexa-conjugated secondary antibody for 2 hours at room 654 temperature (Alexa Fluor 488 donkey anti rabbit IgG and Alexa Fluor 568 donkey anti 655 mouse IgG, both Thermo Fisher Scientific) diluted 1:200 in 
+1% BSA and 
+1% Triton in 656 PBS
+ Organoid cultures were washed with PBS, excised using a scalpel, mounted on glass 657 slides (Knittel, Germany) using mounting medium containing DAPI (Sigma-Aldrich) and 658 covered with a cover glass (VWR)
+ Digital photomicrographs were captured at 200 659 magnification using a DM4000b fluorescence microscope and LAS V
+3 software (both 660 200,000 mouse EpCAM+ primary cells and 200,000 CCL206 fibroblasts (n=4 independent 664 isolations) were seeded in 1 ml Matrigel diluted 1:1 in DMEM containing 10% FBS in 6-well 665 plates (Greiner Bio-One, The Netherlands)
+ 
+000 or 
+000 nylon reference microfibers 666 were mixed with Matrigel and cells prior to seeding
+ Murine organoid culture medium was 667 maintained on top and refreshed every two days
+ After 7 days, organoid cultures were 668 digested with 50 caseinolytic units/ml dispase for 30 minutes at 37C, transferred to 15 ml 669 tubes, washed with MACS BSA stock solution and autoMACS rinsing solution (both 670 Miltenyi), and digested further with trypsin (VWR) diluted 1:5 in PBS for 5 minutes at C
+ 671 The cell suspension was then incubated for 20 minutes at 4C with anti-EpCAM microbeads 672 in MACS buffer, after which the suspension was passed through LS columns
+ Both the 673 EpCAM+ (epithelial cells) and EpCAM (fibroblasts) cell fractions were used for RNA 674 Total RNA was isolated from EpCAM+ and EPCAM- cell fractions using a Maxwell 678 LEV simply RNA Cells/Tissue kit (Promega, WI, USA) according to manufacturers 679 spectrophotometer (Thermo Fisher Scientific)
+ Total RNA (300 ng) was used for library 681 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 32 of 60 preparation
+ Paired-end sequencing was performed using a NextSeq 500 machine 682 (Illumina; mate 1 up to 74 cycles and mate 2 up to 9 cycles)
+ Mate 1 contained the first STL 683 (stochastic labeling) barcode, followed by the first bases of the sequenced fragments, and 684 mate 2 only contained the second STL barcode
+ The generated data were subsequently 685 demultiplexed using sample-specific barcodes and changed into fastq files using bcl2fastq 686 (Illumina; version 
+ 
+ )
+ The quality of the data was assessed using FastQC ()
+ The STL 687 barcodes of the first mate were separated from the sequenced fragments using an in-688 house Perl script
+ Low quality bases and parts of adapter sequences were removed with 689 Cutadapt (version 
+12; settings: q=15, O=5, e=
+1, m=36) ()
+ Sequenced poly A tails 690 were removed as well, by using a poly T sequence as adapter sequence (T (100); reverse 691 complement after sequencing)
+ Reads shorter than 36 bases were discarded
+ The trimmed 692 fragment sequences were subsequently aligned to all known murine cDNA sequences 693 using HISAT2 (version 
+ 
+0; settings: k=1000, --norc)
+ The number of reported alignments, 694 k, was given a high number in order to not miss any alignment results (some genes have up 695 to 62 transcripts)
+ Reads were only mapped to the forward strand (directional sequencing)
+ 696 Fragment sequences that mapped to multiple genes were removed (unknown origin)
+ 697 When fragments mapped to multiple transcripts from the same gene all but one were 698 given a non-primary alignment flag by HISAT2 (flag )
+ These flags were removed 699 (subtraction of 256) by the same Perl script in order to be able to use the Bash-based shell 700 script (dqRNASeq; see below) that is provided by Bioo Scientific (Perkin Elmer, MA, USA)
+ 701 Fragments that mapped to multiple transcripts from the same gene were considered 702 unique and were counted for each of the transcripts
+ The number of unique fragments (or 703 read pairs) was determined for each transcript using the script provided by Bioo Scientific 704 (dqRNASeq; settings: s=8, q=0, m=)
+ Counts that were used for further analysis were 705 based on a unique combination of start and stop positions and barcodes (USS + STL)
+ The 706 full data set is available as Supplemental Table S3 (Supplemental Material available online; 707 All statistics were performed with GraphPad Prism 
+ Nonparametric testing was used to 711 compare groups in all experiments
+ For comparison of multiple-groups, a Kruskall wallis or 712 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 33 of 60 Friedman test was used for nonpaired or paired nonparametric data respectively with 713 Dunns correction for multiple testing
+ Differences in organoid size between groups were 714 tested by using the average size of the organoids per independent experiment
+ Data are 715 presented as median  range and p-values <005 were considered significant
+ 716 For RNA sequencing data, the principal component analyses were performed in R using the 718 R package DESeq2 (version 
+ 
+0) (77) in order to visualize the overall effect of 719 experimental covariates as well as batch effects (function: plotPCA)
+ Differential gene 720 expression analyses (treated vs
+ nontreated) was performed with the same R package 721 (default settings; Negative Binomial GLM fitting and Wald statistics; design=~condition), 722 (nylon-treated versus nontreated fibroblasts or epithelial cells) and a false discovery rate 724 smaller than 
+05 (q value) were considered differentially expressed in that specific cell 725 type
+ Volcano plots and clustering heat maps were made using BioJupies ()
+ Pathway 726 
+ J
+ Gasperi, S
+ L
+ Wright, R
+ Dris, F
+ Collard, C
+ Mandin, M
+ Guerrouache, V
+ Langlois, F
+ J
+ 732 Kelly, B
+ Tassin, Microplastics in air: Are we breathing it in
+ Current Opinion in 733 
+ C
+ M
+ Rochman, Microplastics research-from sink to source
+ Science 360, 28-29 ()
+ 735 
+ I
+ E
+ Napper, A
+ Bakir, S
+ J
+ Rowland, R
+ C
+ Thompson, Characterisation, quantity and 736 sorptive properties of microplastics extracted from cosmetics
+ Mar Pollut Bull 99, 178-737 
+ A
+ L
+ Andrady, Microplastics in the marine environment
+ Mar Pollut Bull 62, 1596-1605 739 
+ V
+ Hidalgo-Ruz, L
+ Gutow, R
+ C
+ Thompson, M
+ Thiel, Microplastics in the marine 741 environment: a review of the methods used for identification and quantification
+ Environ 742 
+ M
+ A
+ Browne, P
+ Crump, S
+ J
+ Niven, E
+ Teuten, A
+ Tonkin, T
+ Galloway, R
+ Thompson, 744 Accumulation of microplastic on shorelines woldwide: sources and sinks
+ Environ Sci 745 
+ J
+ C
+ Prata, J
+ P
+ da Costa, I
+ Lopes, A
+ C
+ Duarte, T
+ Rocha-Santos, Environmental exposure 747 to microplastics: An overview on possible human health effects
+ Sci Total Environ 702, 748 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 34 of 60 
+ S
+ L
+ Wright, F
+ J
+ Kelly, Plastic and Human Health: A Micro Issue? Environ Sci Technol 51, 750 
+ R
+ Dris, J
+ Gasperi, C
+ Mirande, C
+ Mandin, M
+ Guerrouache, V
+ Langlois, B
+ Tassin, A first 752 overview of textile fibers, including microplastics, in indoor and outdoor environments
+ 753 
+ R
+ Dris, J
+ Gasperi, M
+ Saad, C
+ Mirande, B
+ Tassin, Synthetic fibers in atmospheric fallout: 755 A source of microplastics in the environment? Mar Pollut Bull 104, 290-293 ()
+ 756 
+ K
+ Donaldson, D
+ Brown, A
+ Clouter, R
+ Duffin, W
+ MacNee, L
+ Renwick, L
+ Tran, V
+ Stone, 757 The pulmonary toxicology of ultrafine particles
+ J Aerosol Med 15, 213-220 ()
+ 758 
+ G
+ Oberdorster, E
+ Oberdorster, J
+ Oberdorster, Nanotoxicology: an emerging discipline 759 evolving from studies of ultrafine particles
+ Environ Health Perspect 113, 823-839 ()
+ 760 
+ S
+ L
+ Wright, J
+ Ulke, A
+ Font, K
+ L
+ A
+ Chan, F
+ J
+ Kelly, Atmospheric microplastic deposition 761 in an urban environment and an evaluation of transport
+ Environ Int 136, 105411 ()
+ 762 
+ J
+ Pauly, S
+ Stegmeier, H
+ Allaart, R
+ Cheney, P
+ Zhang, A
+ Mayer, R
+ Streck, Inhaled 763 cellulosic and plastic fibers found in human lung tissue
+ Cancer Epidemiol Biomarkers 764 
+ J
+ Burkhart, W
+ Jones, D
+ W
+ Porter, R
+ M
+ Washko, W
+ L
+ Eschenbacher, R
+ M
+ Castellan, 766 Hazardous occupational exposure and lung disease among nylon flock workers
+ Am J Ind 767 
+ W
+ L
+ Eschenbacher, K
+ Kreiss, M
+ D
+ Lougheed, G
+ S
+ Pransky, B
+ Day, R
+ M
+ Castellan, 769 Nylon flock-associated interstitial lung disease
+ Am J Respir Crit Care Med 159, 2003-2008 770 
+ S
+ R
+ Goldyn, R
+ Condos, W
+ N
+ Rom, The burden of exposure-related diffuse lung disease
+ 772 
+ D
+ G
+ Kern, R
+ S
+ Crausman, K
+ T
+ Durand, A
+ Nayer, C
+ Kuhn, 3rd, Flock worker's lung: 774 chronic interstitial lung disease in the nylon flocking industry
+ Ann Intern Med 129, 261-775 
+ M
+ Shuchman, Secrecy in science: the flock worker's lung investigation
+ Ann Intern Med 777 
+ S
+ E
+ Turcotte, A
+ Chee, R
+ Walsh, F
+ C
+ Grant, G
+ M
+ Liss, A
+ Boag, L
+ Forkert, P
+ W
+ Munt, 779 M
+ D
+ Lougheed, Flock worker's lung disease: natural history of cases and exposed 780 
+ R
+ M
+ Washko, B
+ Day, J
+ E
+ Parker, R
+ M
+ Castellan, K
+ Kreiss, Epidemiologic investigation 782 of respiratory morbidity at a nylon flock plant
+ Am J Ind Med 38, 628-638 ()
+ 783 
+ J
+ C
+ Pimentel, R
+ Avila, A
+ G
+ Loureno, Respiratory disease caused by synthetic fibres: a 784 
+ E
+ M
+ Cordasco, S
+ L
+ Demeter, J
+ Kerkay, H
+ S
+ Van Ordstrand, E
+ V
+ Lucas, T
+ Chen, J
+ A
+ 786 Golish, Pulmonary manifestations of vinyl and polyvinyl chloride (interstitial lung 787 
+ P
+ J
+ Kole, A
+ J
+ Lhr, F
+ Van Belleghem, A
+ M
+ J
+ Ragas, Wear and Tear of Tyres: A Stealthy 789 Source of Microplastics in the Environment
+ Int J Environ Res Public Health 14,  ()
+ 790 
+ C
+ E
+ Enyoh, A
+ W
+ Verla, E
+ N
+ Verla, F
+ C
+ Ibe, C
+ E
+ Amaobi, Airborne microplastics: a 791 review study on method for analysis, occurrence, movement and risks
+ Environ Monit 792 
+ L
+ F
+ Amato-Loureno, L
+ Dos Santos Galvo, L
+ A
+ de Weger, P
+ S
+ Hiemstra, M
+ G
+ Vijver, 794 T
+ Mauad, An emerging class of air pollutants: Potential effects of microplastics to 795 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 35 of 60 
+ G
+ Favarato, H
+ R
+ Anderson, R
+ Atkinson, G
+ Fuller, I
+ Mills, H
+ Walton, Traffic-related 797 pollution and asthma prevalence in children
+ Quantification of associations with nitrogen 798 
+ M
+ Guarnieri, J
+ R
+ Balmes, Outdoor air pollution and asthma
+ Lancet 383, 1581-1592 800 
+ C
+ A
+ Keet, J
+ P
+ Keller, R
+ D
+ Peng, Long-Term Coarse Particulate Matter Exposure Is 802 Associated with Asthma among Children in Medicaid
+ Am J Respir Crit Care Med 197, 737-803 
+ W
+ W
+ h
+ Organisation), Microplastics in drinking-water (World health Organisation, 805 
+ S
+ A
+ f
+ P
+ b
+ E
+ A
+ SAPEA, A scientific perspective on microplastics in nature and society 807 
+ J
+ P
+ Ng-Blichfeldt, A
+ Schrik, R
+ K
+ Kortekaas , J
+ A
+ Noordhoek, I
+ H
+ Heijink, P
+ S
+ Hiemstra , 809 J
+ Stolk, M
+ Knigshoff , R
+ Gosens, Retinoic acid signaling balances adult distal lung 810 
+ J
+ P
+ Ng-Blichfeldt, T
+ de Jong, R
+ K
+ Kortekaas, X
+ Wu, M
+ Lindner, V
+ Guryev, P
+ S
+ 812 Hiemstra, J
+ Stolk, M
+ Knigshoff, R
+ Gosens, TGF- activation impairs fibroblast ability to 813 support adult lung epithelial progenitor cell organoid formation
+ Am J Physiol Lung Cell 814 
+ M
+ Cole, A novel method for preparing microplastic fibers
+ Scientific Reports 6,  ()
+ 816 
+ E
+ Gaston, M
+ Woo, C
+ Steele, S
+ Sukumaran, S
+ Anderson, Microplastics Differ Between 817 Indoor and Outdoor Air Masses: Insights from Multiple Microscopy Methodologies
+ Appl 818 
+ S
+ O'Brien, E
+ D
+ Okoffo, J
+ W
+ O'Brien, F
+ Ribeiro, X
+ Wang, S
+ L
+ Wright, S
+ Samanipour, C
+ 820 Rauert, T
+ Y
+ A
+ Toapanta, R
+ Albarracin, K
+ V
+ Thomas, Airborne emissions of microplastic 821 fibres from domestic laundry dryers
+ Sci Total Environ 747, 141175 ()
+ 822 
+ J
+ Zhang, L
+ Wang, K
+ Kannan, Microplastics in house dust from 12 countries and 823 
+ Q
+ Zhang, Y
+ Zhao, F
+ Du, H
+ Cai, G
+ Wang, H
+ Shi, Microplastic Fallout in Different Indoor 825 
+ B
+ L
+ Diffey, An overview analysis of the time people spend outdoors
+ Br J Dermatol 164, 827 Nomenclature, Chemical and Physical Properties W
+ Eastes Ed (Nomenclature Committee 830 
+ M
+ C
+ Basil, J
+ Katzen, A
+ E
+ Engler, M
+ Guo, M
+ J
+ Herriges, J
+ J
+ Kathiriya, R
+ Windmueller, 833 A
+ B
+ Ysasi, W
+ J
+ Zacharias, H
+ A
+ Chapman, D
+ N
+ Kotton, J
+ R
+ Rock, H
+ W
+ Snoeck, G
+ 834 Vunjak-Novakovic, J
+ A
+ Whitsett, E
+ E
+ Morrisey, The Cellular and Physiological Basis for 835 Lung Repair and Regeneration: Past, Present, and Future
+ Cell Stem Cell 26, 482-502 836 
+ B
+ Hogan, C
+ Barkauskas, H
+ Chapman, J
+ Epstein, R
+ Jain, C
+ Hsia, L
+ Niklason, E
+ Calle, A
+ 838 Le, S
+ Randell, J
+ Rock, M
+ Snitow, M
+ Krummel, B
+ Stripp, T
+ Vu, E
+ White, J
+ Whitsett, E
+ 839 Morrisey, Repair and regeneration of the respiratory system: complexity, plasticity, and 840 mechanisms of lung stem cell function
+ Cell Stem Cell 15, 123-138 ()
+ 841 
+ C
+ E
+ Barkauskas, M
+ I
+ Chung, B
+ Fioret, X
+ Gao, H
+ Katsura, B
+ L
+ Hogan, Lung organoids: 842 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 36 of 60 
+ Y
+ Abe, M
+ Mutsuga, H
+ Ohno, Y
+ Kawamura, H
+ Akiyama, Isolation and Quantification of 844 Polyamide Cyclic Oligomers in Kitchen Utensils and Their Migration into Various Food 845 
+ S
+ T
+ L
+ Sait, L
+ Srensen, S
+ Kubowicz, K
+ Vike-Jonas, S
+ V
+ Gonzalez, A
+ G
+ Asimakopoulos, 847 A
+ M
+ Booth, Microplastic fibres from synthetic textiles: Environmental degradation and 848 
+ L
+ Srensen, A
+ S
+ Groven, I
+ A
+ Hovsbakken, O
+ Del Puerto, D
+ F
+ Krause, A
+ Sarno, A
+ M
+ 850 Booth, UV degradation of natural and synthetic microfibers causes fragmentation and 851 release of polymer degradation products and chemical additives
+ Sci Total Environ 755, 852 
+ Y
+ Zhou, B
+ Zhou, L
+ Pache, M
+ Chang, A
+ H
+ Khodabakhshi, O
+ Tanaseichuk, C
+ Benner, S
+ K
+ 854 Chanda, Metascape provides a biologist-oriented resource for the analysis of systems-855 
+ C
+ Di Sano, C
+ D'Anna, M
+ Ferraro, G
+ Chiappara, C
+ Sangiorgi, S
+ Di Vincenzo, A
+ Bertani, P
+ 857 Vitulo, A
+ Bruno, P
+ Dino, E
+ Pace, Impaired activation of Notch-1 signaling hinders repair 858 processes of bronchial epithelial cells exposed to cigarette smoke
+ Toxicol Lett 326, 61-69 859 
+ Y
+ Xing, A
+ Li, Z
+ Borok, C
+ Li, P
+ Minoo, NOTCH1 is required for regeneration of Clara cells 861 during repair of airway injury
+ Stem Cells 30, 946-955 ()
+ 862 
+ D
+ Lafkas, A
+ Shelton, C
+ Chiu, G
+ de Leon Boenig, Y
+ Chen, S
+ S
+ Stawicki, C
+ Siltanen, M
+ 863 Reichelt, M
+ Zhou, X
+ Wu, J
+ Eastham-Anderson, H
+ Moore, M
+ Roose-Girma, Y
+ Chinn, J
+ 864 Q
+ Hang, S
+ Warming, J
+ Egen, W
+ P
+ Lee, C
+ Austin, Y
+ Wu, J
+ Payandeh, J
+ B
+ Lowe, C
+ W
+ 865 Siebel, Therapeutic antibodies reveal Notch control of transdifferentiation in the adult 866 
+ A
+ Sountoulidis, A
+ Stavropoulos, S
+ Giaglis, E
+ Apostolou, R
+ Monteiro, S
+ M
+ Chuva de 868 Sousa Lopes, H
+ Chen, B
+ R
+ Stripp, C
+ Mummery, E
+ Andreakos, P
+ Sideras, Activation of 869 the canonical bone morphogenetic protein (BMP) pathway during lung morphogenesis 870 and adult lung tissue repair
+ PLoS One 7, e41460 ()
+ 871 
+ C
+ Dean, M
+ Ito, H
+ P
+ Makarenkova, S
+ C
+ Faber, R
+ A
+ Lang, Bmp7 regulates branching 872 morphogenesis of the lacrimal gland by promoting mesenchymal proliferation and 873 
+ Q
+ Tan, X
+ Y
+ Ma, W
+ Liu, J
+ A
+ Meridew, D
+ L
+ Jones, A
+ J
+ Haak, D
+ Sicard, G
+ Ligresti, D
+ J
+ 875 Protein-mediated Suppression of Fibroblast Activation
+ Am J Respir Cell Mol Biol 61, 607-877 
+ A
+ Caprioli, A
+ Villasenor, L
+ A
+ Wylie, C
+ Braitsch, L
+ Marty-Santos, D
+ Barry, C
+ M
+ Karner, 879 S
+ Fu, S
+ M
+ Meadows, T
+ J
+ Carroll, O
+ Cleaver, Wnt4 is essential to normal mammalian 880 
+ E
+ M
+ M
+ Abdelwahab, J
+ Rapp, D
+ Feller, V
+ Csongei, S
+ Pal, D
+ Bartis, D
+ R
+ Thickett, J
+ E
+ 882 Pongracz, Wnt signaling regulates trans-differentiation of stem cell like type 2 alveolar 883 epithelial cells to type 1 epithelial cells
+ Respir Res 20, 204 ()
+ 884 
+ N
+ R
+ Genuth, M
+ Barna, The Discovery of Ribosome Heterogeneity and Its Implications 885 for Gene Regulation and Organismal Life
+ Mol Cell 71, 364-374 ()
+ 886 
+ N
+ Kondrashov, A
+ Pusic, C
+ R
+ Stumpf, K
+ Shimizu, A
+ C
+ Hsieh, J
+ Ishijima, T
+ Shiroishi, M
+ 887 Barna, Ribosome-mediated specificity in Hox mRNA translation and vertebrate tissue 888 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 37 of 60 
+ O
+ Boucherat, J
+ Chakir, L
+ Jeannotte, The loss of Hoxa5 function promotes Notch-890 dependent goblet cell metaplasia in lung airways
+ Biol Open 1, 677-691 ()
+ 891 
+ T
+ Yoshimi, N
+ Nakamura, S
+ Shimada, K
+ Iguchi, F
+ Hashimoto, K
+ Mochitate, Y
+ Takahashi, 892 T
+ Miura, Homeobox B3, FoxA1 and FoxA2 interactions in epithelial lung cell 893 differentiation of the multipotent M3E3/C3 cell line
+ Eur J Cell Biol 84, 555-566 ()
+ 894 
+ A
+ Vianello, R
+ L
+ Jensen, L
+ Liu, J
+ Vollertsen, Simulating human exposure to indoor 895 airborne microplastics using a Breathing Thermal Manikin
+ Sci Rep 9, 8670 ()
+ 896 
+ P
+ N
+ Tsao, F
+ Chen, K
+ I
+ Izvolsky, J
+ Walker, M
+ A
+ Kukuruzinska, J
+ Lu, W
+ V
+ Cardoso, 897 Gamma-secretase activation of notch signaling regulates the balance of proximal and 898 distal fates in progenitor cells of the developing lung
+ J Biol Chem 283, 29532-29544 899 
+ J
+ S
+ Guseh, S
+ A
+ Bores, B
+ Z
+ Stanger, Q
+ Zhou, W
+ J
+ Anderson, D
+ A
+ Melton, J
+ Rajagopal, 901 Notch signaling promotes airway mucous metaplasia and inhibits alveolar development
+ 902 
+ M
+ Morimoto, R
+ Nishinakamura, Y
+ Saga, R
+ Kopan, Different assemblies of Notch 904 receptors coordinate the distribution of the major bronchial Clara, ciliated and 905 
+ M
+ Sauler, M
+ Gulati, Newly recognized occupational and environmental causes of 907 chronic terminal airways and parenchymal lung disease
+ Clin Chest Med 33, 667-680 908 
+ D
+ W
+ Porter, V
+ Castranova, V
+ A
+ Robinson, A
+ F
+ Hubbs, R
+ R
+ Mercer, J
+ Scabilloni, T
+ 910 Goldsmith, D
+ Schwegler-Berry, L
+ Battelli, R
+ Washko, J
+ Burkhart, C
+ Piacitelli, M
+ 911 Whitmer, W
+ Jones, Acute inflammatory reaction in rats after intratracheal instillation of 912 material collected from a nylon flocking plant
+ J Toxicol Environ Health A 57, 25-45 913 
+ D
+ B
+ Warheit, T
+ R
+ Webb, K
+ L
+ Reed, J
+ F
+ Hansen, G
+ L
+ Kennedy, Jr
+, Four-week 915 inhalation toxicity study in rats with nylon respirable fibers: rapid lung clearance
+ 916 
+ A
+ T
+ Branco, B
+ Lemos, High intake of dietary sugar enhances bisphenol A (BPA) 918 disruption and reveals ribosome-mediated pathways of toxicity
+ Genetics 197, 147-157 919 
+ Y
+ Hu, J
+ P
+ Ng-Blichfeldt, C
+ Ota, C
+ Ciminieri, W
+ Ren, P
+ S
+ Hiemstra, J
+ Stolk, R
+ Gosens, 921 M
+ Knigshoff, Wnt/-catenin signaling is critical for regenerative potential of distal lung 922 epithelial progenitor cells in homeostasis and emphysema
+ Stem Cells 38, 1467-1478 923 
+ J
+ H
+ Lee, E
+ L
+ Rawlins, Developmental mechanisms and adult stem cells for therapeutic 925 
+ G
+ Oberdrster, Toxicokinetics and effects of fibrous and nonfibrous particles
+ Inhal 927 
+ L
+ Florez-Sampedro, S
+ Song, B
+ Melgert, The diversity of myeloid immune cells shaping 929 wound repair and fibrosis in the lung
+ Regeneration (Oxf) 5, 3-25 ()
+ 930 
+ J
+ Choi, J
+ E
+ Park, G
+ Tsagkogeorga, M
+ Yanagita, B
+ K
+ Koo, N
+ Han, J
+ H
+ Lee, Inflammatory 931 
+ R
+ R
+ Mercer, M
+ L
+ Russell, V
+ L
+ Roggli, J
+ D
+ Crapo, Cell number and distribution in 934 human and rat airways
+ Am J Respir Cell Mol Biol 10, 613-624 ()
+ 935 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 38 of 60 
+ A
+ Ragusa, A
+ Svelato, C
+ Santacroce, P
+ Catalano, V
+ Notarstefano, O
+ Carnevali, F
+ Papa, 936 M
+ C
+ A
+ Rongioletti, F
+ Baiocco, S
+ Draghi, E
+ D'Amore, D
+ Rinaldo, M
+ Matta, E
+ Giorgini, 937 Plasticenta: First evidence of microplastics in human placenta
+ Environ Int 146, 106274 938 
+ M
+ Martin, Cutadapt removes adapter sequences from high-throughput sequencing 941 
+ M
+ I
+ Love, W
+ Huber, S
+ Anders, Moderated estimation of fold change and dispersion for 943 
+ D
+ Torre, A
+ Lachmann, A
+ Ma'ayan, BioJupies: Automated Generation of Interactive 945 Notebooks for RNA-Seq Data Analysis in the Cloud
+ Cell Syst 7, -
+e553 ()
+ 946 
+ P
+ Peets, I
+ Leito, J
+ Pelt, S
+ Vahur, Identification and classification of textile fibres using 947 ATR-FT-IR spectroscopy with chemometric methods
+ Spectrochim Acta A Mol Biomol 948 General: The authors thank Habibie (University of Groningen, Department of Molecular 953 Pharmacology) for his help with the human organoid experiments, Imco Sibum, Paul 954 Hagedoorn, and Anko Eissens (University of Groningen, Department of Pharmaceutical 955 Technology and Biopharmacy) for their assistance at the scanning electron microscope, 956 Andreas W
+ Ehlers (University of Amsterdam, Van 't Hoff Institute for Molecular Sciences) 957 for his assistance with the NMR spectroscopy, and Elena Hppener (TNO, Department 958 Environmental Modeling Sensing and Analysis) for the energy dispersive X-ray and 959 Funding: ZonMW is gratefully acknowledged for their financial support with 962 FD: Study design, collection and assembly of data, data analysis and interpretation, 966 SS: Collection and assembly of data, data analysis and interpretation, critical reading and 968 GE: Collection and assembly of data, data analysis and interpretation, critical reading and 970 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 39 of 60 XW: Collection and assembly of data, data analysis and interpretation, critical reading 972 IB: Collection and assembly of data, critical reading and revision
+ 974 DB: Collection and assembly of data, data analysis and interpretation, experimental 975 IK: Collection and assembly of data, data analysis and interpretation, experimental 977 DS: Collection and assembly of data, data analysis and interpretation, experimental 979 RW: Collection and assembly of data, data analysis and interpretation, experimental 981 MC: Collection and assembly of data, data analysis and interpretation, experimental 983 RG: Data analysis and interpretation, study design, experimental material support, critical 986 BM: Collection and assembly of data, study design, data analysis and interpretation, 988 Data and materials availability: All data needed to evaluate the conclusions in the paper are 993 present in the paper and/or the Supplementary Materials
+ Additional data related to this 994 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 40 of 60 Samples were prepared for energy dispersive X-ray (EDX) spectroscopy analysis on an 1002 aluminium sample holder using adhesive carbon coated tape
+ Excessive microfibers were 1003 removed using pressurized air, after which the samples were sputter coated with 10 nm 1004 of carbon
+ The EDX measurements were performed with a Tescan MAIA III GMH field 1005 emission scanning electron microscope (Czech Republic) equipped with a Bruker X-Flash 1006 30 mm2 silicon drift energy dispersive X-ray microanalysis detector (MA, USA)
+  1007 using a Thermo Nicolet iN10 micro Fourier transform infrared microscope
+ Spectra were 1011 recorded in the wavelength range from 4000 to 675 cm-1 using a spectral resolution of 8 1012 cm-
+ For the transmission measurements of the polyester reference material and the 1013 polyester and nylon environmental fibers, a small amount of the microfibers was 1014 transferred onto a diamond micro compression cell where the samples were 1015 compressed
+ For the reflection measurements of the nylon reference material and the 1016 polyester and nylon environmental fibers, a small portion of microfibers was suspended 1017 in water
+ The suspension was subsequently filtered over a gold coated 
+8 m 1018 polycarbonate filter (TJ Environmental, The Netherlands)
+ A subset of approximately 100 1019 fibers was individually measured directly on the filter using the reflection mode of the -1020 A round bottom flask containing 
+1 g cryogenically milled nylon powder (PA66, Sigma-1024 Aldrich) and 500 ml methanol (VWR) was equipped with a reflux condenser and the 1025 suspension was stirred overnight at C
+ Next, the suspension was cooled to 1026 approximately 30C and filtered over a cellulose filter (VWR) to remove the remaining 1027 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 41 of 60 powder
+ The solvent was removed in vacuo using a rotary evaporator (Bchi rotavapor R-1028 215, Switzerland)
+ A white solid was obtained (yield 220 mg), of which the composition 1029 A column for silica gel chromatography ( 30 mm, VWR) was charged with silica gel 60 1032 (27 g, 
+ -
+200 mm, Merck) and dichloromethane (DCM, VWR) as eluent
+ The crude 1033 extract containing the mixture of oligomers (200 mg) was added on top of the silica gel 1034 column and oligomers were separated on the column using DCM:methanol as eluent 1035 (DCM:MeOH gradient: 100:0  90:10  80:20), which resulted in complete separation 1036 of the oligomers
+ The collected fractions were checked for the presence of product using 1037 LC/MS
+ The fractions containing pure oligomer were combined, filtered over a glass filter 1038 (VWR) and subsequently the solvent was removed in vacuo
+ The obtained solids were 1039 further dried in vacuo, after which the pure oligomers were obtained as white solids
+ The 1040 structure of the oligomers was confirmed by 1H NMR spectroscopy
+ 1041 Qualitative analysis of nylon oligomers was performed with an Agilent 1260 series high-1045 performance liquid chromatographer (CA, USA) equipped with a 100 x 2 mm, 3 m 1046 Gemini NX-C18 110  LC Column (Phenomenex, Utrecht, The Netherlands), coupled with 1047 an Agilent 6410 triple quadrupole LC/MS with electron spray ionization (ESI) in positive 1048 SCAN mode
+ In addition, the LC/MS analysis of the nylon leachate was performed with 1049 the Agilent 1260 liquid chromatographer coupled to an Agilent 6460 triple quadrupole 1050 LC/MS with Jetstream ESI in positive SCAN mode
+ A sample volume of 5 l was injected 1051 with a column temperature of 60 C and a flow rate of 200 l min-
+ The sample was 1052 eluted with a gradient of Milli-Q water (containing 5 mM ammonium formate with 1053 
+0025% formic acid (both Sigma-Aldrich), eluent A) and methanol (containing 5 mM 1054 ammonium formate with 
+0025% formic acid, eluent B) with a flow rate of 
+5 ml min-
+ 1055 Eluent B was increased from 10% to 90% in 10 minutes and maintained for 3 minutes
+ 1056 After this, eluent B was decreased to 10% in 
+1 minute and maintained for 
+9 minute to 1057 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 42 of 60 complete the cycle of 15 minutes
+ Mass spectrometry was performed with a gas 1058 temperature of 350C and a flow rate of 10 l min-
+ Stealth gas temperature (for Agilent 1059 6460) was set at 400 C with a flow rate of 12 l min-
+ The capillary voltage was set at 1060 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 43 of 60 An injection volume of 10 l diluted nylon leachate was directly injected into an Agilent 1064 6410 triple quadrupole MS system with ESI in positive SCAN mode
+ The conditions were 1065 as follows: gas temperature 350 C, flow rate 10 l min-1, mobile phase 50:50 ratio of 1066 80:20 acetonitrile (VWR):Milli-Q water with 5 mM ammonium formate and 10:90 1067 acetonitrile:Milli-Q water with 5 mM ammonium formate, scan range 501000 Da, 1068 The chemical structure of the oligomers was confirmed by 1H NMR spectroscopy (Bruker 1072 Avance 400 spectrometer)
+ The oligomers were dissolved in ~
+5 ml CD3OD:CDCl3 (1:1) 1073 (Sigma-Aldrich)
+ The spectra were recorded at 24 C, and internally referenced to the 1074 Nylon monomer, yield = 77 mg
+ 1H NMR (
+1 MHz, CD3OD/CDCl3 50:50, 297 K)  = 
+56 1076 (br
+ m, 2H; NHCO), 
+22 (m, 4H, NHCH2), 
+19 (m, 4H, COCH2), 
+63 (m, 4H, COCH2CH2), 1077 Nylon dimer, yield = 74 mg
+ 1H NMR (
+1 MHz, CD3OD/CDCl3 50:50, 297 K)  = 
+68 (br
+ 1079 m, 4H; NHCO), 
+15 (t, 8H, NHCH2), 
+18 (m, 8H, COCH2), 
+60 (m, 8H, COCH2CH2), 
+47 1080 Nylon trimer, yield = 16 mg
+ 1H NMR (
+1 MHz, CD3OD/CDCl3 50:50, 297 K)  = 
+74 (br
+ 1082 m, 6H; NHCO), 
+14 (t, 12H, NHCH2), 
+18 (m, 12H, COCH2), 
+60 (m, 12H, COCH2CH2), 1083 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 44 of 60 Table S
+ Size characteristics of polyester and nylon reference microfibers
+ 1089 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 45 of 60 Figure S1: Characterization of the reference microfibers using energy dispersive X-ray - 1094 and infrared spectroscopy
+ (A) EDX spectrum of polyester, confirming the presence of 1095 carbon (C) and oxygen (O), and additionally revealing the presence of titanium (Ti), which 1096 can be ascribed to small TiO2 pigment particles used as filler material in these fibers
+ (B) 1097 FTIR spectrum of polyester with characteristic absorbance peaks (2968 cm-1, C-H stretch; 1098 1723 cm-1, C=O stretch; 1246 cm-1, C-O stretch aromatic ester; 729 cm-1, benzene 1099 derivative ())
+ (C) EDX spectrum of nylon, confirming the presence of carbon (C), 1100 nitrogen (N) and oxygen (O)
+ (D) FTIR spectrum of nylon with characteristic nylon 1101 absorbance peaks (3302 cm-1, N-H stretch; 2934 cm-1, C-H stretch; 1632 cm-1, C=O stretch 1102 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 46 of 60 Figure S2: Determination of the optimal microfiber dose for subsequent in vitro testing 1106 of polyester and nylon reference microfibers, using 2000, 3000, 4000 and 5000 1107 microfibers per condition
+ (A, E) Quantification of airway and (B, F) alveolar organoid 1108 numbers for organoids exposed to polyester or nylon, respectively (n=2 independent 1109 isolations)
+ (C, G) Quantification of the airway and (D, H) alveolar organoid size following 1110 exposure to polyester or nylon
+ 2000, 3000, 4000 or 5000 fibers per well corresponded to 1111 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 47 of 60 approximately 49, 73, 98 and 122 g/ml of polyester fibers or 16, 23, 31, and 39 g/ml of 1112 Table S
+ Size characteristics of polyester and nylon environmental microfibers
+ 1114 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 48 of 60 Figure S3: Characterization of the environmental microfibers using energy dispersive X-1119 ray - and infrared spectroscopy
+ EDX - and -FTIR spectra of (A and B) polyester and (C 1120 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 49 of 60 Figure S4: Characterization of the components leaching from nylon reference 1123 microfibers and their effect on organoid growth
+ (A) Mass spectrometry spectrum of the 1124 nylon leachate, revealing high amounts of cyclic nylon mono-, di- and trimers, as well as 1125 other smaller peaks
+ (B and C) Assessment of the numbers of airway and alveolar 1126 organoids and (D and E) their sizes (n=2 independent isolations)
+  1127 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 50 of 60 Figure S5: Expression of individual genes in fibroblasts isolated from organoid cultures 1132 exposed to nylon microfibers
+ (A) Genes associated with proliferation of fibroblasts
+ (B) 1133 Genes encoding factors produced by fibroblasts important for epithelial development 1134 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 51 of 60 Samples were prepared for energy dispersive X-ray (EDX) spectroscopy analysis on an 1141 aluminium sample holder using adhesive carbon coated tape
+ Excessive microfibers were 1142 removed using pressurized air, after which the samples were sputter coated with 10 nm 1143 of carbon
+ The EDX measurements were performed with a Tescan MAIA III GMH field 1144 emission scanning electron microscope (Czech Republic) equipped with a Bruker X-Flash 1145 30 mm2 silicon drift energy dispersive X-ray microanalysis detector (MA, USA)
+  1146 using a Thermo Nicolet iN10 micro Fourier transform infrared microscope
+ Spectra were 1150 recorded in the wavelength range from 4000 to 675 cm-1 using a spectral resolution of 8 1151 cm-
+ For the transmission measurements of the polyester reference material and the 1152 polyester and nylon environmental fibers, a small amount of the microfibers was 1153 transferred onto a diamond micro compression cell where the samples were 1154 compressed
+ For the reflection measurements of the nylon reference material and the 1155 polyester and nylon environmental fibers, a small portion of microfibers was suspended 1156 in water
+ The suspension was subsequently filtered over a gold coated 
+8 m 1157 polycarbonate filter (TJ Environmental, The Netherlands)
+ A subset of approximately 100 1158 fibers was individually measured directly on the filter using the reflection mode of the -1159 A round bottom flask containing 
+1 g cryogenically milled nylon powder (PA66, Sigma-1163 Aldrich) and 500 ml methanol (VWR) was equipped with a reflux condenser and the 1164 suspension was stirred overnight at C
+ Next, the suspension was cooled to 1165 approximately 30C and filtered over a cellulose filter (VWR) to remove the remaining 1166 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 52 of 60 powder
+ The solvent was removed in vacuo using a rotary evaporator (Bchi rotavapor R-1167 215, Switzerland)
+ A white solid was obtained (yield 220 mg), of which the composition 1168 A column for silica gel chromatography ( 30 mm, VWR) was charged with silica gel 60 1171 (27 g, 
+ -
+200 mm, Merck) and dichloromethane (DCM, VWR) as eluent
+ The crude 1172 extract containing the mixture of oligomers (200 mg) was added on top of the silica gel 1173 column and oligomers were separated on the column using DCM:methanol as eluent 1174 (DCM:MeOH gradient: 100:0  90:10  80:20), which resulted in complete separation 1175 of the oligomers
+ The collected fractions were checked for the presence of product using 1176 LC/MS
+ The fractions containing pure oligomer were combined, filtered over a glass filter 1177 (VWR) and subsequently the solvent was removed in vacuo
+ The obtained solids were 1178 further dried in vacuo, after which the pure oligomers were obtained as white solids
+ The 1179 structure of the oligomers was confirmed by 1H NMR spectroscopy
+ 1180 Qualitative analysis of nylon oligomers was performed with an Agilent 1260 series high-1184 performance liquid chromatographer (CA, USA) equipped with a 100 x 2 mm, 3 m 1185 Gemini NX-C18 110  LC Column (Phenomenex, Utrecht, The Netherlands), coupled with 1186 an Agilent 6410 triple quadrupole LC/MS with electron spray ionization (ESI) in positive 1187 SCAN mode
+ In addition, the LC/MS analysis of the nylon leachate was performed with 1188 the Agilent 1260 liquid chromatographer coupled to an Agilent 6460 triple quadrupole 1189 LC/MS with Jetstream ESI in positive SCAN mode
+ A sample volume of 5 l was injected 1190 with a column temperature of 60 C and a flow rate of 200 l min-
+ The sample was 1191 eluted with a gradient of Milli-Q water (containing 5 mM ammonium formate with 1192 
+0025% formic acid (both Sigma-Aldrich), eluent A) and methanol (containing 5 mM 1193 ammonium formate with 
+0025% formic acid, eluent B) with a flow rate of 
+5 ml min-
+ 1194 Eluent B was increased from 10% to 90% in 10 minutes and maintained for 3 minutes
+ 1195 After this, eluent B was decreased to 10% in 
+1 minute and maintained for 
+9 minute to 1196 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 53 of 60 complete the cycle of 15 minutes
+ Mass spectrometry was performed with a gas 1197 temperature of 350C and a flow rate of 10 l min-
+ Stealth gas temperature (for Agilent 1198 6460) was set at 400 C with a flow rate of 12 l min-
+ The capillary voltage was set at 1199 An injection volume of 10 l diluted nylon leachate was directly injected into an Agilent 1203 6410 triple quadrupole MS system with ESI in positive SCAN mode
+ The conditions were 1204 as follows: gas temperature 350 C, flow rate 10 l min-1, mobile phase 50:50 ratio of 1205 80:20 acetonitrile (VWR):Milli-Q water with 5 mM ammonium formate and 10:90 1206 acetonitrile:Milli-Q water with 5 mM ammonium formate, scan range 501000 Da, 1207 The chemical structure of the oligomers was confirmed by 1H NMR spectroscopy (Bruker 1211 Avance 400 spectrometer)
+ The oligomers were dissolved in ~
+5 ml CD3OD:CDCl3 (1:1) 1212 (Sigma-Aldrich)
+ The spectra were recorded at 24 C, and internally referenced to the 1213 Nylon monomer, yield = 77 mg
+ 1H NMR (
+1 MHz, CD3OD/CDCl3 50:50, 297 K)  = 
+56 1215 (br
+ m, 2H; NHCO), 
+22 (m, 4H, NHCH2), 
+19 (m, 4H, COCH2), 
+63 (m, 4H, COCH2CH2), 1216 Nylon dimer, yield = 74 mg
+ 1H NMR (
+1 MHz, CD3OD/CDCl3 50:50, 297 K)  = 
+68 (br
+ 1218 m, 4H; NHCO), 
+15 (t, 8H, NHCH2), 
+18 (m, 8H, COCH2), 
+60 (m, 8H, COCH2CH2), 
+47 1219 Nylon trimer, yield = 16 mg
+ 1H NMR (
+1 MHz, CD3OD/CDCl3 50:50, 297 K)  = 
+74 (br
+ 1221 m, 6H; NHCO), 
+14 (t, 12H, NHCH2), 
+18 (m, 12H, COCH2), 
+60 (m, 12H, COCH2CH2), 1222 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 54 of 60 Table S
+ Size characteristics of polyester and nylon reference microfibers
+ 1228 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 55 of 60 Figure S1: Characterization of the reference microfibers using energy dispersive X-ray - 1233 and infrared spectroscopy
+ (A) EDX spectrum of polyester, confirming the presence of 1234 carbon (C) and oxygen (O), and additionally revealing the presence of titanium (Ti), which 1235 can be ascribed to small TiO2 pigment particles used as filler material in these fibers
+ (B) 1236 FTIR spectrum of polyester with characteristic absorbance peaks (2968 cm-1, C-H stretch; 1237 1723 cm-1, C=O stretch; 1246 cm-1, C-O stretch aromatic ester; 729 cm-1, benzene 1238 derivative ())
+ (C) EDX spectrum of nylon, confirming the presence of carbon (C), 1239 nitrogen (N) and oxygen (O)
+ (D) FTIR spectrum of nylon with characteristic nylon 1240 absorbance peaks (3302 cm-1, N-H stretch; 2934 cm-1, C-H stretch; 1632 cm-1, C=O stretch 1241 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 56 of 60 Figure S2: Determination of the optimal microfiber dose for subsequent in vitro testing 1245 of polyester and nylon reference microfibers, using 2000, 3000, 4000 and 5000 1246 microfibers per condition
+ (A, E) Quantification of airway and (B, F) alveolar organoid 1247 numbers for organoids exposed to polyester or nylon, respectively (n=2 independent 1248 isolations)
+ (C, G) Quantification of the airway and (D, H) alveolar organoid size following 1249 exposure to polyester or nylon
+ 2000, 3000, 4000 or 5000 fibers per well corresponded to 1250 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 57 of 60 approximately 49, 73, 98 and 122 g/ml of polyester fibers or 16, 23, 31, and 39 g/ml of 1251 Table S
+ Size characteristics of polyester and nylon environmental microfibers
+ 1253 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 58 of 60 Figure S3: Characterization of the environmental microfibers using energy dispersive X-1258 ray - and infrared spectroscopy
+ EDX - and -FTIR spectra of (A and B) polyester and (C 1259 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 59 of 60 Figure S4: Characterization of the components leaching from nylon reference 1262 microfibers and their effect on organoid growth
+ (A) Mass spectrometry spectrum of the 1263 nylon leachate, revealing high amounts of cyclic nylon mono-, di- and trimers, as well as 1264 other smaller peaks
+ (B and C) Assessment of the numbers of airway and alveolar 1265 organoids and (D and E) their sizes (n=2 independent isolations)
+  1266 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    Manuscript van Dijk et al                    Page 60 of 60 Figure S5: Expression of individual genes in fibroblasts isolated from organoid cultures 1271 exposed to nylon microfibers
+ (A) Genes associated with proliferation of fibroblasts
+ (B) 1272 Genes encoding factors produced by fibroblasts important for epithelial development 1273 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 9, 
+ ;    

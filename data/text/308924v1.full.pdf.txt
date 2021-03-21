@@ -1,0 +1,350 @@
+Zhiying Zhao1, Shuxia Yao1, Keshuang Li1, Cornelia Sindermann2, Feng Zhou1, Weihua Zhao1, Jianfu Li1, Michael Lhrs3, Rainer Goebel3, Keith M
+ Kendrick1, Benjamin Becker1* 1Clinical Hospital of Chengdu Brain Science Institute, MOE Key Laboratory for Neuroinformation, University of Electronic Science and Technology of China, Chengdu, China not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    psychopathological marker
+ On the neural level these deficits have been closely linked to direct control over these pathways could therefore provide an innovative and promising strategy to regulate exaggerated anxiety
+ To this end the current proof-of-concept study evaluated the feasibility, functional relevance and maintenance of a novel connectivity-controlled design high anxious subjects (n = 26) underwent real-time fMRI-guided training to enhance connectivity between the ventrolateral prefrontal cortex (vlPFC) and the amygdala (target pathway) during threat exposure
+ Maintenance of regulatory control was assessed after three days and in the absence of feedback
+ Training-induced changes in functional connectivity of the target pathway and anxiety ratings served as primary outcomes
+ Training of the target, yet not the sham-control, pathway significantly increased amygdala-vlPFC connectivity and decreased subjective anxiety levels
+ On the individual level stronger volitional control over the target pathway and decreased anxiety level were maintained in the absence of feedback
+ The present results demonstrate for the first time that successful strategy to control anxiety
+ As such, the present findings underscore both the critical not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    Successful regulation of negative affect is crucial for mental health and well-being (1, )
+ across major psychiatric disorders, including the most prevalent Axis I disorders such as anxiety and addiction as well as Axis II disorders ((35), see also recent meta-analysis ())
+  The functional interplay between and clinical relevance of ER and anxiety mirrors across different levels of observation
+ In healthy subjects, ER capability prospectively predicts anxiety levels for periods up to five years ()
+ The clinical relevance is further emphasized by randomized trials evaluating the efficacy of cognitive-behavioral therapy (CBT) indicating that improved ER predicts symptom reduction in anxiety disorders (1012) 
+ On the neural level efficient regulation of threat and anxiety is neurally underpinned by top-down governance of the amygdala, which is critically engaged in threat responsivity (13), via prefrontal regulatory regions (14, )
+ Within these regulatory circuits the ventrolateral (vlPFC) and dorsomedial (dmPFC) prefrontal cortex are considered to specifically support explicit/volitional control of threat via downregulation of the amygdala (5, 15, )
+ Deficits in this top-down regulatory mechanism have been identified across major psychiatric disorders the prefrontal cortex and concomitantly exaggerated amygdala activity in the context of attenuated functional interplay between these regions ()
+ The therapeutic relevance of these pathways is further emphasized by studies reporting that anxiety reduction following dysregulations, it has yet to directly have a therapeutic impact ()
+ Given that the currently moderate response rates and potential negative side effects (2426), innovative treatments that directly target the identified brain markers are needed ()
+ Within this context, the emergence of real-time fMRI neurofeedback (rt-fMRI NF) training approaches that allow subjects to gain volitional control over regional brain activity have been considered as a potential of rt-fMRI NF by demonstrating that training success in terms of control over regional activity can be maintained beyond the training session (3134), and that training-induced neural activity changes can modulate emotional experience in healthy subjects (31) Initial studies have begun to evaluate the therapeutic potential of rt-fMRI NF in clinical regions such as the insula and amygdala can successfully decreased symptoms in patients with major depression ()
+ Given the critical role of the amygdala in anxiety and consistently observed hyper-responsivity in this region in anxiety-related disorders (18, 36, not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    37) previous rt-fMRI NF studies trained subjects to down-regulate neural activity in this region and demonstrated that this strategy has the potential to enhance ER and attenuate anxious arousal ()
+ In line with current neuro-circuitry models of ER, successful down-regulation of the amygdala was accompanied by increased functional connectivity between the amygdala and prefrontal regulatory regions in both, healthy subjects (39, 42) as well as Summarizing, the current literature suggests that (a) successful ER relies on top-down regulation of the amygdala via prefrontal regions and that (b) rt-fMRI NF-assisted modulation of these regions has the potential to modulate ER and anxious arousal In the context of recent circuit level models of ER (for circuit-level deficits in psychiatric disorders see (44)), evaluating whether (1) rt-fMRI NF has the potential to directly allow regulatory control of the successful regulatory control decreases levels of anxiety in individuals with high anxiety, and (3) volitional control can be maintained in the absence of feedback and over a period of To increase the clinical relevance of the present proof-of-concept study while controlling for healthy subjects with high anxiety (trait anxiety scores > 40, assessed by STAI (45)) were recruited
+ Given that the main aim was to evaluate the feasibility and functional relevance of related variation in ER (46), as well as sex-differences in emotion regulation (47) and associated connectivity in the target pathway (48) were controlled for by focusing on a male sample
+ Detailed eligibility criteria and sample characteristics are provided in the Supplementary Materials
+ All subjects provided written informed consent
+ The study had full ethical approval by the local ethics committee, adhered to the latest reversion of the Participants were scheduled for four MRI sessions: rt-fMRI NF training of the amygdala-vlPFC target pathway (EXP) plus transfer/maintenance assessment after two days (M-EXP) and rt-fMRI NF sham (SHC) training plus transfer/maintenance assessment after two days (M-SHC)
+ During the training sessions feedback was provided but not during the transfer/maintenance sessions
+ Training sessions used identical procedures including four subsequent NF training runs and during the sham session participants received connectivity feedback from a pathway connecting regions not engaged in ER (bilateral motor cortices, M1 ())
+ The SHC served to control for unspecific effects of training, and together with the within-subject design allowed a thorough control of potential confounders
+ To control for carry-over effects not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    the order of training sessions was counterbalanced
+ For randomized allocation of the order of trainings a random number generator was used
+ Training sessions were separated by an interval of 2-3 weeks and subjects were informed that they had to discover new strategies each time
+ Both training sessions were preceded by fMRI-localizer paradigms to determine the pathways used for feedback during EXP and SHC (see Localizer-paradigms)
+ Two days after each training session, participants underwent two transfer runs (M-EXP/M-SHC) during which they were required to perform regulation with the same strategy they had learned during the preceding training but without feedback being provided (protocols see Figure )
+ To evaluate the functional relevance of training success, anxiety levels assessed before and after each session and served as primary behavioral outcome
+ To control confounding effects of pre-training mood and anxiety states these were assessed additionally immediately before regulation nodes (EXP, right amygdala and right vlPFC, emotion localizer) and the bilateral motor cortices (SHC, bilateral M1, motor localizer)
+ These regions-of-interest (ROIs) for the T1-weighted brain-structural images of each subject were overlaid with the real-time localizer activity in native space
+ Subsequently, thresholded peak activity regions within the target structures were manually delineated (standardized ROI size) and used for the subsequent training
+ To further control for movement effects on functional connectivity (49) and physiological artifacts such as respiration and noise from cardiac activity, a third ROI was During the neurofeedback training (NFT) strong negative (threatening) stimuli were displayed with real-time neurofeedback displayed by thermometer bars on both sides (Figure 1, stimuli details see Supplementary Material)
+ Each of the four NFT runs included four blocks of threatening pictures (six pictures per block, inter-block interval 30 seconds fixation, pictures presented for 5 seconds, size gradually increased from half to full size stepped by the TR to increase threat)
+ Rt-fMRI connectivity (FC) between the ROIs was calculated as a partial correlation between the time series from the two pathway ROIs (amygdala-vlPFC or bilateral M1) while including the time series from the white matter ROI as a covariate (details see ())
+ The FC thermometer was updated in real-time (logged to the TR = 
+5 seconds)
+  Participants were informed that the purpose of the training was to enhance their emotion regulation abilities to improve coping with negative emotional events in daily life and reduce stress
+ Participants were instructed to learn to control the threatening feelings evoked by the pictures while breathing normally
+ To increase their regulation ability, the neural emotion regulation success would be presented to them (thermometer bars corresponding to better success) and they should aim to develop a strategy to increase the bars
+ As a specific strategy is not necessary for successful learning in NFT (51, 52), no strategies for emotion regulation were introduced to the participants except that they should not try to increase the not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    thermometers by physical means such as low breathing or head/body motion
+ Participants were encouraged to discovery an efficient strategy to regulate the bars and control threatening feelings
+ Once they discovered an efficient strategy to increase the feedback bars they were asked to continue using it during the subsequent training and transfer sessions
+ Finally, subjects were informed that the feedback would be computed in real-time but displayed with approximately 10 seconds delay (see also Evaluation of training success on The primary behavioral outcome to evaluate the functional relevance of the target pathway training was determined as training-induced changes in subjective anxiety levels as assessed by visual analog scales (VAS, anxiety levels from 0 to 100) administered before and after each training session
+ To further control for confounding effects of pre-training differences in mood and state anxiety between the sessions, corresponding indices were assessed by means of the PANAS (the Positive and Negative Affect Schedule (53)) and SAI (State Anxiety measures were assessed outside of the scanner by an experimenter blinded to the training Data was acquired at 3 Tesla using evaluated sequences (Supplementary Materials)
+ Online (Brain Innovation, Maastricht, The Netherlands)
+ To increase the signal-to-noise ratio of the motion correction and spatial smoothing with a 4mm Full Width at Half Maximum (FWHM) Gaussian kernel and temporal drift removal applied as confound predictor to the GLM
+ Based on findings from a previous study (54) a sliding window approach with a length of 
+5 seconds (5 volumes per window, TR 
+5 seconds) was chosen to compute the real-time connectivity feedback
+ Feedback was thus provided as a partial correlation coefficient between the two ROI time series segemented in consecutive windows while controlling for Preprocessing for offline analysis was conducted using standard procedures in SPM12 changes during the localizers on the group level first level General Linear Models were built
+ To increase the sensitivity of the offline connectivity analysis individual ROIs from the To evaluate whether NFT increased functional connectivity in the emotion regulation circuit, task-based functional connectivity was employed using a generalized form of context-not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    connectivity models with the individualized amygdala (Table S2) or M1 ROIs used during training as seeds
+ The gPPI models were built on the first-level by adding the time-series from the seed region as a new regressor into the GLM design matrix
+ A previous study showed that a 12-second time window had comparable sensitivity in detecting task-relevant connectivity changes as a longer time window (26s) for a finger tapping task ()
+ Since valid online connectivity feedback started at ~
+5 seconds (5 seconds delay from the BOLD response, and 
+5 seconds length of the slide time window) after the start of a regulation block, analysis of NFT task-based functional connectivity focused on the second half of the regulation blocks (last 15 seconds of every training block - additional analyses using the To evaluate training-induced changes in the target pathways connectivity strengths per run were extracted from the corresponding region (vlPFC/right M1) using beta-estimate maps generated in gPPI analysis
+ Estimates were further analyzed using SPSS by means of repeated measure ANOVAs and post-hoc tests controlled for multiple comparisons with Bonferroni-correction
+ In line with our previous study we additionally evaluated training success by comparing differences in connectivity strengths between the first two and the last two Three subjects did not display above-threshold activity in the vlPFC during the emotional localizer and their data was thus excluded from all analysis, resulting in n = 23 for the final analyses
+ Five runs showed > 
+5mm or > 
+5o head motion, data from these runs was consequently excluded
+ Head motion (mean frame-wise displacement (57)) did not differ between the experimental and the sham training (EXP vs
+ SHC, t22 = 
+58, p = 
+ )
+ Mood and anxiety data for one participant was lost (pre-training assessment, EXP)
+ Examination of the pre-training data from the remaining participants confirmed the recruitment of subjects with high anxiety (reflected in high state anxiety scores) and did not reveal differences in pre-training anxiety and mood between training sessions (Table1, paired Group-level analysis of the localizer tasks revealed that the emotional localizer reliably activated the emotional brain networks, including the amygdala and vlPFC (SPM one-sample t-test, whole-brain, False Discovery Rate (FDR) (58), corrected p < 
+01, Figure S)
+ As expected, the motor localizer reliably activated the motor networks including bilateral M1 (Figure S)
+ Importantly, emotion regulation (Regulation - Baseline) during both EXP and SHC training induced a similar activity pattern as in the emotion localizer tasks in the ER brain networks, including dmPFC, vlPFC, amygdala, insula, and parietal regions ()
+ Furthermore, not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    activity patterns overlapped with the amygdala and vlPFC ROIs derived from the emotion localizer yet not the M1 sham ROIs (Figure 2), further validating the M1 regions as a suitable Examining changes in functional connectivity between right amygdala and vlPFC across the four NFT runs with one-way ANOVAs (repeated measures) revealed a significant difference between them (F3, 66 = 
+33, p = 
+ )
+ Importantly, this pathway did not show significant changes across the training runs with sham feedback (F3, 54 = 
+01, p = 
+393) (Figure )
+ Post hoc tests for the EXP training revealed that connectivity in the target pathway did not show changes between the early training runs (Run1 vs Run2, t22 = 
+22, p = 
+240), but increased significantly after the second NFT run (Run3 vs
+ Run2, t22 = 
+95, p = 
+007, Cohens d = 
+78; Run4 vs
+ Run2, t22 = 
+83, p = 
+001, Cohens d = 
+04, paired t-tests, both significant after Bonferroni corrected p = 
+ /)
+ Again, concordant analysis of the sham training data did not yield significant changes in this pathway (t21 = -
+52, p = 
+607) (Figure )
+ In line with our previous study (31) we additionally confirmed training success using a more robust estimation which compared early versus late runs in the target pathway (Run3 + Run4 > Run1 + Run2, t22 = 
+81, p = 
+010, Cohens d = 
+79, paired t-test)
+ In an additional control analysis, training success was confirmed using the data from the entire blocks (see Supplementary One outlier (> 2 SD from mean) for both, EXP and SHC sessions was excluded
+ Next, examining training-associated changes in the levels of anxious arousal, as assessed by VAS for EXP and SHC, revealed a significant decrease in VAS-rated anxiety levels following EXP training (Pre vs
+ Post training, t20 = 
+27, p = 
+035, Cohens d = 
+43, mean decrease 
+9%  100% ) anxiety decrease, Figure 4), whereas for the sham training no significant changes were observed (t21 = - 
+152, p = 
+ )
+ Pre-training anxiety levels did not differ significantly between sessions (t21 = 
+60, p = 
+ )
+  A correlation analysis examined whether the anxiety level decrease after emotion regulation training related to the training-induced changes in the emotion regulation circuit
+ As in our previous study, differences between early and late training runs were considered as a neural index of individual training success ()
+ Results indicated that on an individual level the EXP strength increase in the target pathway (r20 = 
+51, p = 
+016, Spearman)
+  not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    Comparison of the mean amygdala-vlPFC connectivity between the successful training runs on Day 1 (Run3 and Run4) and the two transfer runs on Day 3 was used as an index of training maintenance effects (for a comparable strategy, see ())
+ The analysis revealed no significant difference (p = 
+793) between the effective NFT-EXP runs and the M-EXP runs
+ during NFT-EXP and M-EXP runs (r21 = 
+39, p = 
+068), suggesting that training success on the neural level in terms of regulatory control over the target pathway can be maintained independent of feedback and for a period of up-to three days
+  After excluding two additional subjects based on their anxiety ratings on Day 3 (> 2 SD from mean), no significant training induced changes in anxiety levels were observed on Day 3 (Pre vs
+ Post for M-EXP, t19 = 
+04, p = 
+314; for M-SHC, t22 = -
+12, p = 
+ )
+ However, plotting the anxiety ratings revealed attenuated anxiety levels at maintenance assessment following the EXP training session, but not the SHC (Figure )
+ This pattern was further reflected in a marginal significant decrease in baseline anxiety levels on Day 1 versus Day 3 (Pre NFT-EXP vs
+ Pre M-EXP, t19 = 
+84, p = 
+082), while no changes were observed after the sham training session (Pre NFT-SHC vs
+ Pre M-SHC, t22 = 
+73, p = 
+475, Figure )
+  We further explored the rate of non-responders (criteria: no improvements in primary neural and behavioral outcomes, n = 4) and evaluated the training success in the responders (n = 19), suggesting that determining putative responders may increase training success (details design to evaluate the feasibility, functional relevance and maintenance of a novel connectivity-based rt-fMRI NF approach as a strategy to strengthen emotion regulation and decrease anxiety
+ During training of the amygdala-vlPFC pathway, but not the sham-control motor pathway, participants with high anxiety gained regulatory control over this ER-relevant pathway in terms of successful increasing functional connectivity strength over four subsequent training runs
+ On the behavioral level training of the target pathway  but not the sham pathway  was accompanied post-training by decreased anxious arousal ratings
+ On the individual level, the neural and behavioral indices of training success were control over the amygdala-vlPFC pathway was maintained in the absence of feedback and for a period of three days, with preliminary evidence suggesting that the anxiety reduction was partly maintained
+ Importantly, no changes in the primary neural and behavioral outcomes were observed during the sham condition, arguing against unspecific effects of training or not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    The target amygdala-vlPFC pathway in the present study has previously been demonstrated to play an important role in successful ER (5, 15, 16) with rt-fMRI NF studies suggesting that connectivity in the amygdala-prefrontal pathways as well as enhanced ER (38, )
+ Moreover, previous clinical studies have emphasized the relevance of the amygdala-PFC circuits for treatment success, with changes in this pathway predictive of symptom-reduction after cognitive behavioral therapy (CBT) (20) and anxiolytic drug treatment (21, 22) in patients with exaggerated anxiety
+ In line with our hypothesis, successful training of the target pathway resulted in associated-decreases in anxiety ratings thereby confirming both the important role of the amygdala-vlPFC pathway in the regulation of anxiety as well as the functional relevance of the training
+ To increase the clinical relevance of the present proof-of-concept study subjects with high anxiety were recruited, and the training-associated decrease in anxious-arousal thus suggests that amygdala-vlPFC training may have to potential to normalize deficient prefrontal control of the amygdala and exaggerated levels of Of particular relevance for the application of NF-training approaches in clinical practice (30, 60, 61), the present study observed that subjects were able to maintain the control over the emotion regulation pathway and its effect on anxiety decrease in the absence of feedback and for a period of at least three days
+ These findings are in line with previous studies evaluating transfer and maintenance effects of rt-fMRI NF-assisted control over regional brain activity (31, 62), and additionally suggest that successful neuro-modulatory control on the pathway-level can last beyond the duration of the initial training and thus transfer to Despite increasing interest in the application of rt-fMRI only a few studies to date have brain regions (50, )
+ In line with the present findings, a previous study with a relatively small sample of healthy subjects revealed initial evidence for the feasibility of connectivity-informed NF which was associated with increased perception of positive valence stimuli
+ Importantly, the present study demonstrated the efficacy of this approach in decreasing anxious arousal, a transdiagnostic psychopathology marker (3), in subjects with high anxiety levels and thus may represent and important initial step towards the clinical application of approaches are encouraging, there is still considerable room for improvement to promote transfer into clinical practice
+ For instance, the present study found preliminary evidence that anxiety attenuation was maintained after three days, however no further reduction was observed during the transfer session
+ Future studies should explore whether improved training strategies (52) and more intense or longer training schedules may lead to more robust and enduring behavioral effects in the absence of neurofeedback
+ Moreover, a considerable inter-individual variance in the neural and behavioral indices of training success not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    were observed suggesting that some individuals are more likely to benefit from functional -connectivity-based training than others
+ Future studies are needed to identify optimal neural or behavioral predictors of training success allowing better selection of individuals who may benefit most from rt-fMRI NF training approaches
+ Recent findings suggest that baseline anxiety (66) or behavioral performance (69) may represent promising behavioral markers, although robust training-success predictors on the neural level remain to be determined
+  Although the within-subject design, inclusion of a sham-control training and the pre-registration of the primary outcomes permitted a rigorous control for a number of potential confounds, the present findings still need to be considered in the context of some limitations
+ First, to allow an evaluation of the training independent of menstrual-cycle or gender effects on ER and associated neural activity (4648), our proof-of-concept study focused on male participants
+ The question of whether training success generalizes to female subjects and potential sex-differences therefore remains to be addressed
+ For clinical practice it will be important to compare both training and functional outcome success using cost of longer delay times and higher dimensionality (68) such that learning with this signal may be more demanding, possibly limiting efficacy in patients with cognitive impairments
+  training may represent a potential strategy to decrease anxiety in clinical populations
+ Importantly, neural and behavioral training success was maintained in the absence of not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    This work was supported by the National Natural Science Foundation of China (NSFC, 91632117 to BB; 31530032 to KK), Fundamental Research Funds for the Central Universities of China (ZYGX2015Z002 to BB) and the Sichuan Science and Technology Department not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    
+ Buruck G, Drfel D, Kugler J, Brom SS (2016): Enhancing well-being at work: The role of emotion regulation skills as personal resources
+ J Occup Health Psychol
+ 21: 
+ 
+ Gross JJ, John OP (2003): Individual Differences in Two Emotion Regulation Processes: Implications for Affect, Relationships, and Well-Being
+ J Pers Soc Psychol
+ 85: 
+ 
+ Sloan E, Hall K, Moulding R, Bryce S, Mildred H, Staiger PK (2017): Emotion regulation as a 
+ Aldao A (2016): Introduction to the Special Issue: Emotion Regulation as a Transdiagnostic 
+ Wilcox CE, Pommy JM, Adinoff B (2016): Neural Circuitry of Impaired Emotion Regulation 
+ Grisanzio KA, Goldstein-Piekarski AN, Wang MY, Rashed Ahmed AP, Samara Z, Williams and Daily Function in Mood, Anxiety, and Trauma Disorders
+ JAMA Psychiatry
+ 
+ doi: 
+ Berking M, Orth U, Wupperman P, Meier LL, Caspar F (2008): Prospective Effects of 
+ McLaughlin KA, Hatzenbuehler ML, Mennin DS, Nolen-Hoeksema S (2011): Emotion 
+ Wirtz CM, Hofmann SG, Riper H, Berking M (2014): Emotion regulation predicts anxiety over a five-year interval: A cross-lagged panel analysis
+ Depress Anxiety
+ 31: 
+ 
+ Goldin PR, Lee I, Ziv M, Jazaieri H, Heimberg RG, Gross JJ (2014): Trajectories of change in 
+ Klumpp H, Roberts J, Kennedy AE, Shankman SA, Langenecker SA, Gross JJ, Phan LK 
+ Boden MT, Westermann S, McRae K, Kuo J, Alvarez J, Kulkarni MR, et al (2013): Emotion Regulation and Posttraumatic Stress Disorder: A Prospective Investigation
+ J Soc Clin 
+ Becker B, Mihov Y, Scheele D, Kendrick KM, Feinstein JS, Matusch A, et al (2012): Fear processing and social networking in the absence of a functional amygdala
+ Biol 
+ Ochsner KN, Gross JJ (2005): The cognitive control of emotion
+ Trends Cogn Sci
+ 
+ 
+ Etkin A, Bchel C, Gross JJ (2015): The neural bases of emotion regulation
+ Nat Rev 
+ Banks SJ, Eddy KT, Angstadt M, Nathan PJ, Luan Phan K (2007): Amygdala-frontal 
+ Zilverstand A, Parvaz MA, Goldstein RZ (2017): Neuroimaging cognitive reappraisal in clinical populations to define neural targets for enhancing emotion regulation
+ A not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    
+ Etkin A, Wager TD (2007): Functional neuroimaging of anxiety: a meta-analysis of emotional processing in PTSD, social anxiety disorder, and specific phobia
+ Am J 
+ Sylvester CM, Corbetta M, Raichle ME, Rodebaugh TL, Schlaggar BL, Sheline YI, et al 
+ Klumpp H, Keutmann MK, Fitzgerald DA, Shankman SA, Phan KL (2014): Resting state therapy in generalized social anxiety disorder
+ Biol Mood Anxiety Disord
+ 4: 
+ 
+ Dodhia S, Hosanagar A, Fitzgerald DA, Labuschagne I, Wood AG, Nathan PJ, Phan KL 
+ Gorka SM, Fitzgerald DA, Labuschagne I, Hosanagar A, Wood AG, Nathan PJ, Phan KL (2015): Oxytocin modulation of amygdala functional connectivity to fearful faces in 
+ First M, Botteron K, Carter C, Castellanos FX, Dickstein DP, Drevets W, et al (2012): Consensus Report of the APA Work Group on Neuroimaging Markers of Psychiatric 
+ Carpenter JK, Andrews LA, Witcraft SM, Powers MB, Smits JAJ, Hofmann SG (2018): Cognitive behavioral therapy for anxiety and related disorders: A meta-analysis of 
+ Ipser JC, Wilson D, Akindipe TO, Sager C, Stein DJ (2015): Pharmacotherapy for anxiety and comorbid alcohol use disorders
+ Cochrane Database Syst Rev
+ 
+ doi: 
+ Wang Z, Whiteside SPH, Sim L, Farah W, Morrow AS, Alsawas M, et al (2017): 
+ Cain RA (2007): Navigating the Sequenced Treatment Alternatives to Relieve Depression 
+ Fovet T, Jardri R, Linden D (2015): Current Issues in the Use of fMRI-Based 
+ Thibault RT, Lifshitz M, Birbaumer N, Raz A (2015): Neurofeedback, self-regulation, and brain imaging: Clinical science and fad in the service of mental disorders
+ Psychother 
+ Stoeckel LE, Garrison KA, Ghosh S, Wighton P, Hanlon CA, Gilman JM, et al (2014): 
+ Yao S, Becker B, Geng Y, Zhao Z, Xu X, Zhao W, et al (2016): Voluntary control of anterior not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    
+ Young KD, Zotev V, Phillips R, Misaki M, Yuan H, Drevets WC, Bodurka J (2014): Real-time fMRI neurofeedback training of amygdala activity in patients with major depressive 
+ Linden DEJ, Habes I, Johnston SJ, Linden S, Tatineni R, Subramanian L, et al (2012): Real-time self-regulation of emotion networks in patients with depression
+ PLoS One
+ 
+ doi: 
+ Young KD, Siegle GJ, Zotev V, Phillips R, Misaki M, Yuan H, et al (2017): Randomized Disorder: Effects on Symptoms and Autobiographical Memory Recall
+ Am J Psychiatry
+ 
+ Zilverstand A, Sorger B, Sarkheil P, Goebel R (2015): fMRI neurofeedback facilitates anxiety regulation in females with spider phobia
+ Front Behav Neurosci
+ 9: 
+ 
+ Koch SBJ, van Zuiden M, Nawijn L, Frijling JL, Veltman DJ, Olff M (2016): Aberrant 
+ Sprooten E, Rasgon A, Goodman M, Carlin A, Leibu E, Lee WH, Frangou S (2017): related brain activation in common mental disorders
+ Hum Brain Mapp
+ 38: 
+ Keynan JN, Meir-Hasson Y, Gilam G, Cohen A, Jackont G, Kinreich S, et al (2015): Limbic 
+ Paret C, Ruf M, Gerchen MF, Kluetsch R, Demirakca T, Jungkunz M, et al (2016): FMRI 
+ Nicholson AA, Rabellino D, Densmore M, Frewen PA, Paret C, Kluetsch R, et al (2016): 
+ Paret C, Kluetsch R, Ruf M, Demirakca T, Hoesterey S, Ende G, Schmahl C (2014): Down-regulation of amygdala activation with real-time fMRI neurofeedback in a healthy 
+ Zotev V, Phillips R, Young KD, Drevets WC, Bodurka J (2013): Prefrontal control of the 
+ Paret C, Kluetsch R, Zaehringer J, Ruf M, Demirakca T, Bohus M, et al (2016): Alterations 
+ Insel TR, Wang PS (2010): Rethinking mental illness
+ JAMA - J Am Med Assoc
+ 
+ 
+ Spielberger C (1983): Manual for the State-Trait Anxiety Inventory (STAI)
+ Consult Psychol 
+ Ricarte Trives JJ, Navarro Bravo B, Latorre Postigo JM, Ros Segura L, Watkins E (2016): Memory, Rumination, Problem Solving and Distraction
+ Span J Psychol
+ 19: E
+ 
+ McRae K, Ochsner KN, Mauss I, Gabrieli J (2008): Gender differences in emotion not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    regulation: An fMRI study of cognitive reappraisal Gr Process Intergr Relations
+ 11: 
+ Lungu O, Potvin S, Tiksz A, Mendrek A (2015): Sex differences in effective fronto-limbic 
+ van Dijk KRA, Sabuncu MR, Buckner RL (2012): The influence of head motion on intrinsic 
+ Spetter MS, Malekshahi R, Birbaumer N, Lhrs M, van der Veer AH, Scheffler K, et al (2017): Volitional regulation of brain responses to food stimuli in overweight and obese 
+ Thibault RT, MacPherson A, Lifshitz M, Roth R, Raz A (2018): Neurofeedback with fMRI: A 
+ Sepulveda P, Sitaram R, Rana M, Montalba C, Tejos C, Ruiz S (2016): How feedback, motor imagery, and reward influence brain self-regulation using real-time fMRI
+ Hum 
+ Watson D, Clark LA, Tellegen A (1988): Development and validation of brief measures of positive and negative affect: The PANAS scales
+ J Pers Soc Psychol
+ 54: 
+ 
+ Wilson RS, Mayhew SD, Rollings DT, Goldstone A, Przezdzik I, Arvanitis TN, Bagshaw AP (2015): Influence of epoch length on measurement of dynamic functional connectivity 
+ McLaren DG, Ries ML, Xu G, Johnson SC (2012): A generalized form of context-dependent 
+ Zilverstand A, Sorger B, Zimmermann J, Kaas A, Goebel R (2014): Windowed correlation: 
+ Jenkinson M, Bannister P, Brady M, Smith S (2002): Improved optimization for the robust and accurate linear registration and motion correction of brain images
+ Neuroimage
+ 
+ Benjamini Y, Hochberg Y (1995): Benjamini Y, Hochberg Y
+ Controlling the false discovery rate: a practical and powerful approach to multiple testing
+ J R Stat Soc B
+ 57: 
+ 
+ Ochsner KN, Silvers JA, Buhle JT (2012): Functional imaging studies of emotion regulation: a synthetic review and evolving model of the cognitive control of emotion
+ 
+ Linden DEJ (2014): Neurofeedback and networks of depression
+ Dialogues Clin Neurosci
+ 
+ Sulzer J, Sitaram R, Blefari ML, Kollias S, Birbaumer N, Stephan KE, et al (2013): 
+ Robineau F, Meskaldji DE, Koush Y, Rieger SW, Mermoud C, Morgenthaler S, et al 
+ Kim D-Y, Yoo S-S, Tegethoff M, Meinlschmidt G, Lee J-H (2015): The Inclusion of not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    Efficacy in the Reduction of Cigarette Cravings
+ J Cogn Neurosci
+ 27: 
+ 
+ Megumi F, Yamashita A, Kawato M, Imamizu H (2015): Functional MRI neurofeedback training on connectivity between two regions induces long-lasting changes in intrinsic 
+ Yamashita A, Hayasaka S, Kawato M, Imamizu H (2017): Connectivity Neurofeedback 
+ Koush Y, Meskaldji D-E, Pichon S, Rey G, Rieger SW, Linden DEJ, et al (2017): Learning 
+ Ramot M, Kimmich S, Gonzalez-Castillo J, Roopchansingh V, Popal H, White E, et al 
+ Watanabe T, Sasaki Y, Shibata K, Kawato M (2017): Advances in fMRI Real-Time 
+ Zilverstand A, Sorger B, Slaats-Willemse D, Kan CC, Goebel R, Buitelaar JK (2017): fMRI not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    Figure 
+ Experiment procedures for both training sessions (EXP/SHC)
+ Training sessions for Figure 
+ BOLD responses during NFT tasks in EXP (in red) and SHC (in green) sessions and the ROIs of EXP session
+ Brain activity was thresholded with p < 
+01, FDR correction
+ T values from SPM are indicated by corresponding color bars
+ The overlap between individual sphere ROIS built in offline analysis are displayed for amygdala (in blue) and vlPFC (in violet)
+  not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    Figure 
+ The emotion circuit trained in experimental training session (EXP, Panel A) which runs of NFT training (Panel B)
+ The controlled training (SHC) did not change the connectivity strength in this circuit (Panel C)
+ Significant difference between training runs as tested by not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    Figure 
+ Self-reported anxiety level (VAS rating) decreased after EXP training (first two columns in dark gray) but not after SHC training (first two columns in light gray)
+ Decreased anxiety level was maintained on Day 3 for EXP session (maintenance runs, last two columns in left and right panel)
+ Differences in anxiety between pre and post training were tested by paired t-tests, two tailed
+ *p < 
+ 
+ # denotes marginal significance, p < 
+10  Table
+ Mean scores of positive and negative mood and anxiety levels and their SDs (in Affect Schedule  positive; PANAS-N, the positive and negative affect schedule  negative; not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted April 28, 
+ ;    

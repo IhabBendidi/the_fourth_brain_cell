@@ -1,0 +1,638 @@
+Exploratory analyses suggest less cognitive decline with nilvadipine treatment in very mild Abdullah L1, Crawford F1,2, Langlois H1, Tsolaki M3, Brjesson-Hanson A4, Olde Rikkert M5, Pasquier F6, Wallin A7, Kennelly S8,9, Hendrix S10, Blennow K7,11, Lawlor B8*, Mullan M1,2*  Department of Neurology, Aristotle University of Thessaloniki, Thessaloniki 541 24, Greece 4Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, Sahlgrenska 5Department of Geriatric Medicine, Radboudumc Alzheimer Center, Donders Institute of Medical Neurosciences, Radboudumc, Geert Grooteplein Zuid 10, 6525 GA Nijmegen, The Netherlands  6CHU Lille, Univ
+ Lille, DISTALZ Laboratory of Excellence, 42 Rue Paul Duez, 59000 Lille, France 7Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, the Sahlgrenska 9Department of Age Related Healthcare, Tallaght Hospital, Tallaght, Co
+ Dublin, Ireland  11Clincial Neurochemistry Laboratory, Sahlgrenska University Hospital/Mlndal, Bl strket 5, 413 45 certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    Background: We explored whether the effects of nilvadipine on cognition were influenced by baseline Alzheimers disease (AD) severity
+  Methods:  Exploratory analyses were performed on the modified intention-to-treat (mITT) dataset (n = 497) of a phase III randomized placebo-controlled trial to examine the response to nilvadipine in very mild, mild and moderate AD subjects
+ The outcome measures included total and subscale scores of the Alzheimers Disease Assessment Scale Cognitive 12 (ADAS-Cog 12), the Clinical Dementia Rating Scale sum of boxes (CDR-sb) and the AD composite score (ADCOMS), an outcome measure recently developed to detect treatment responses in subjects with prodromal AD
+ Cerebrospinal fluid (CSF) biomarkers A38, A40, A42, total tau and P181 tau were measured in a subset of samples (n = )
+  Regression  analyses were adjusted for potential confounders and effect modifiers in order to examine the interactive effects of nilvadipine and AD severity on cognitive outcomes over -weeks
+ Results: Compared to their respective placebo-controls, nilvadipine-treated, very mild AD subjects showed less decline, whereas moderate AD subjects showed greater decline on the ADAS-Cog 
+ Also in very mild AD, a beneficial effect (as measured by ADCOMS), was detected in the nilvadipine treated group
+ Therapeutic effects of nilvadipine were also observed for a composite memory trait in very mild AD subjects and a composite language trait in mild AD subjects
+ CSF A42/A40 ratios were increased in mild AD and decreased in moderate AD patients treated with nilvadipine, compared to their respective controls
+   Conclusion:  These data suggest that very mild AD subjects benefited from nilvadipine and that future clinical trials of nilvadipine in this population are keywords: mild Alzheimers disease, nilvadipine, exploratory analysis, cognitive decline, cerebrospinal fluid certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;     Alzheimers disease (AD) is the most common neurodegenerative disease, affecting nearly 
+3 million US citizens
+ By 2050, the prevalence of AD is expected to reach 13 million in the US alone and 100 million worldwide
+ The presence of amyloid plaques and neurofibrillary tangles in the brain are key hallmarks of AD (-3) and are also accompanied by cerebrovascular disease, -synuclein and TDP-43 deposits and inflammation (-)
+ Recent clinical trials have shown that moderate AD patients, with established brain amyloid and tau pathologies, are unresponsive to anti-amyloid therapeutic approaches, although some trials have shown potential benefits in mild and early stage AD patients (-)
+  As such, early and mild AD patient populations  Findings of the Systolic Hypertension in Europe (SYST-EUR) trial of 2400 participants showed that intervention with nitrendipine, a dihydropyridine (DHP) calcium channel blocker (CCB) similar in structure to nilvadipine, resulted in a reduction of AD incidence ()
+  A small clinical trial of nilvadipine in mild cognitive impairment (MCI) patients showed reduced conversion to AD in the subjects treated with nilvadipine compared to those on amlodipine, which, in contrast to nilvadipine, does not penetrate the blood brain barrier (BBB) ()
+  Preclinical studies in mouse models of AD have shown that nilvadipine improves cognitive function, lowers A production, increases A clearance across the BBB and reduces tau hyper-phosphorylation and inflammation (-)
+  In vitro screening of over 1000 DHPs, using cell-based assays, showed that inhibition of A production is not a class effect of DHPs, as only a minority of them, such as nilvadipine and nitrendipine, demonstrated inhibitory action while others had no effect or even enhanced A production (15, )
+  Nilvadipine is a racemic compound and an examination of the individual isomers showed both (+)- and (-)-nilvadipine forms to have beneficial effects on amyloid and tau pathologies in an AD mouse model (17) while only the (+)-nilvadipine has the blood-pressure-lowering effects through antagonism of calcium channels
+  These studies suggest that the preclinical anti-amyloid and anti-tau effects of nilvadipine are not related to its CCB properties
+  It has been shown that nilvadipine inhibits spleen tyrosine kinase (Syk), which consequently downregulates amyloid production, tau phosphorylation and inflammation ()
+  As such, nilvadipine may represent a novel, multimodal, disease-modifying therapy for AD
+  To evaluate this, a phase III multi-center, double-blinded, randomized, placebo-controlled clinical trial was conducted in Europe to test its efficacy in  In the NILVAD trial, when analyzed as a single population according to the protocol, combined mild and moderate AD subjects did not benefit from nilvadipine treatment
+  However, subgroup analyses indicated that, compared to placebo-treated controls, nilvadipine-treated mild AD subjects (baseline MMSE  20) showed cognitive benefits whereas moderate AD subjects (baseline MMSE < 20) showed worsening of cognition ()
+  These findings support further exploration of the treatment effects of nilvadipine in AD patients at the earlier stages of the disease
+  Given the proposed amyloid and tau lowering mechanisms-of-action of nilvadipine (15, 17) and findings from other drug studies targeting the same (7), we hypothesized that the most pronounced beneficial effects of nilvadipine treatment would occur in the subjects who had enrolled in the study when they were in the earliest clinical stages of disease progression
+ We therefore further stratified the study population by AD severity at baseline in mild AD subjects and conducted unplanned, data-dependent, exploratory analyses of the existing dataset from the NILVAD trial ()
+ We anticipated that these exploratory analyses would help identify responsive subgroups of patients for recruitment into future clinical trials of nilvadipine or related compounds
+ In a subset of the study population for whom cerebrospinal fluid (CSF) samples were available, we examined whether CSF A and tau changes differed between nilvadipine and placebo groups  This 18-month phase III double-blind, placebo-controlled, randomized clinical trial was conducted in 9 countries across Europe (see elsewhere for additional details (21)) and funded by the European Commission under a Framework 7 Programme Health Theme collaborative project grant
+  A separate Scientific Advisory Board, an independent Ethics Advisory Board and an independent Data Safety Monitoring Board were involved in the oversight of the trial  The study protocol and associated documents were approved by Research Ethnics Committee and Institutional Review Boards (IRB) for all study sites (see the ethics statement below for the full list of IRB by each country)
+  A written consent for trial participation was obtained following a full explanation of certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    the risks and benefits of the trial to potential participants (see elsewhere for details on the study leaflets ())
+  A written consent was obtained from patients who had the ability to provide a consent as well as from the caregivers at the screening visit prior to initiating the study process
+ The procedure for obtaining informed consent from a participant with reduced decision-making capacity was conducted in accordance to the national laws of each country and assessed by the relevant bodies in each country
+ The sample size calculations for the main trial were based on the mean difference of 
+5 and SD of 9 between the treated and control groups and previously described elsewhere ()
+ The block randomization was performed using an online system hosted by the Clinical Trial Unit at the Kings College London
+ Blocks of varying sizes were used
+ The randomization was at the subject level and stratified by country site, see elsewhere for more details ()
+  All study investigators and patients were blinded to the treatment assignment
+ There were no interim analyses in  Inclusion criteria for the study required that participants should be over the age of 50 and have a diagnosis of mild or moderate probable AD according to the established guidelines from the National Institute of Neurological and Communicative Disorders and Stroke/Alzheimers Disease and Related Disorders Association Inc
+ (NINCDS-ADRDA) and the Alzheimer's Association, and having a baseline Mini-Mental State Examination (MMSE) score of >12 and  27 ()
+  A total of 569 subjects were screened for eligibility and 511 were randomized into the trial with 253 assigned to the nilvadipine group (one dropped out due to blood pressure measurements being out of range) and 258 were assigned to placebo
+  Of these 510 subjects, 11 were lost to follow-up and 2 withdrew consent, leaving 497 subjects in the modified intention-to-treat (mITT) dataset (see Figure )
+  Data from subjects in the mITT set were used for these additional exploratory analyses below
+  At baseline, each subject was randomly assigned to either 8mg of Nilvadipine or placebo once a day, and each study subject was required to take the capsule orally after breakfast for 78 weeks
+  The primary outcome measures were the 12-item Alzheimer's Disease Assessment Scalecognitive sub-scale 12 (ADAS-Cog 12) and the Clinical Dementia Rating scale sum of boxes (CDR-sb), and these tests were administered at  The exploratory analyses of the NILVAD trial were restricted to the co-primary outcome measures of ADAS-Cog 12 and CDR-sb
+  The mild AD group was further stratified by single point increases in the baseline MMSE scores ranging from 20 and above to 25 and above
+  From this data-driven subject stratification approach, we identified three AD severity subgroups as follows: moderate AD (baseline MMSE scores of  19), mild AD (baseline MMSE scores from 20-24) and very mild AD (baseline MMSE scores  )
+  The cutoff of MMSE score for the moderate AD category was chosen as previously recommended (20, )
+ The nomenclature of mild and very mild AD was adopted in accordance with Huntley and colleagues ()
+  These analyses also explored the potential impact of nilvadipine treatment on cognitive sub-scales of the ADAS-Cog 12 and CDR-sb tests
+  The ADAS-Cog 12 sub-scales are: immediate word recall, delayed recall, naming, following commands, constructional praxis, ideational praxis, orientation, word recognition, remembering test directions and instructions, spoken language, comprehension and word finding difficulty in spontaneous speech
+  The sub-scales of CDR-sb are: memory, orientation, judgment and problem solving, community affairs, home and hobbies and personal care
+  In addition, ADAS-Cog 12 sub-scales were further grouped into specific traits for memory, language and praxis based on the topography of tissue loss in AD depending on the stage of the disease, as previously suggested by Verma and colleagues ()
+  Using this strategy, sub-scales related to each trait were grouped together to generate a composite variable for each trait (Figure A)
+ We also calculated a modified AD Composite Score (ADCOMS) using the partial least square (PLS) coefficients previously generated by Wang and colleagues (25, )
+ Briefly, PLS coefficients for each subscale from the  ADAS-Cog 12 and CDR-sb were directly multiplied by scores for each subscale in our dataset
+ The ADAS-Cog 12 subscales were: delayed word recall, orientation, word recognition and word finding difficulty; the CDR-sb subscales were: personal care, community affairs, home and hobbies, judgment and problem solving, memory and orientation
+ Since we did not have MMSE scores at follow-up visits, the MMSE orientation was substituted with the ADAS-Cog 12 orientation subscale by dividing by 8 and multiplying by 5 so that it was on the same scale as the MMSE orientation score
+ Since the MMSE item constructional praxis accounts for only 
+04 points out of 
+97 of the PLS weight, this item was omitted from the analyses
+  certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;     Cerebrospinal fluid samples from both before and after treatment were available for 55 subjects and CSF collection was performed using a standardized sub-study protocol described elsewhere ()
+  Briefly, CSF collection by lumbar puncture was carried out between the screening and the baseline visit (within the 21 day window) and at the treatment termination (between 78 and 82 weeks)
+  The lumbar puncture was performed using routine antiseptic cleansing and anesthesia with the patient in a reclining/sitting position
+  The lumbar puncture was performed using a Spinal Needle Quincke Type Point 
+775 mm (7590 mm) that was inserted between L3/L4 or L4/L5 interspaces
+  Approximately 10ml of CSF was collected in 15ml polypropylene tubes
+  After gentle mixing, samples were centrifuged at 2000 x g for 10 min at 4C to remove cells and debris, and then 1ml aliquots were prepared using polypropylene cryovials and subsequently frozen at 80C until further use
+ Levels of A38, A40, and A42 were quantified using the Meso-scale discovery (MSD) platform as previously described ()
+  Levels of total tau and phosphorylated tau (P181) were measured using commercially available sandwich ELISA kits (INNOTEST; Fujirebio) as per the manufacturers instructions and as previously described ()
+  All analyses were performed by board-certified laboratory technicians blinded to clinical information
+  We applied CSF biomarker criteria using total tau (> 350 pg/ml) and P181 tau (> 60 pg/ml) cut-offs as defined by Hansson et al, 2006 ()
+ An A42/A40 ratio cut-off of < 
+82 was used based on the concordance figures with amyloid PET imaging (Blennow, unpublished data) to compare baseline values with the clinical AD diagnosis
+ In this subsample, 91% of clinically diagnosed AD subjects also met CSF biomarker  The Gentra Puregene Kit (Gentra Systems) was used to purify DNA from frozen whole blood according to the manufacturers instructions and as previously described
+  The EzWay Direct APOE Genotyping Kit, (Koma Biotechnology), was used in accordance with the manufacturers instructions; specifically amplified DNA fragments corresponding to different APOE alleles were separated by electrophoresis in a 3% Ethidium Bromide stained metaphor agarose gel
+  All genotypes were then verified using rapid PCR with high-resolution melting analysis according to the manufacturers instructions (Novallele Genotyping)
+  Apolipoprotein E genotypes were available on a subset of subjects (n = )
+  General demographic characteristics across AD subgroups by treatment within the modified intent to treat (mITT) dataset were compared using either ANOVA or the Chi-square test, as applicable
+  Mixed linear model (MLM) regression was used to examine the main effects and the interactions between treatment, time (time points of study visits at 13 weeks, 52 weeks and 78 weeks) and AD severity at baseline
+  As we were interested in the independent contributions of the baseline AD severity and treatment effect over time on the cognitive outcomes, these analyses were also adjusted to account for the effect modification by gender and confounding by APOE (coded as those with the presence of 4, without 4 and those with no genotype information since not all mITT subjects had APOE genotypes available) and the confounding effects of age at which subjects left education (referred to as education hereon)
+  To account for the treatment effect modification observed in the subgroup analyses, this model also included interactions between time and APOE; treatment and APOE; time, treatment and APOE; time and gender; treatment and gender; and time, treatment and gender
+  Interactive terms were also included for education and time and for treatment and education to account for education imbalance across AD severity subgroups
+  All of these variables were considered fixed factors
+  Subjects and country were treated as random factors
+  The autoregressive covariance structure was used in these MLM analyses
+  The outcome variables included change in the total ADAS-Cog 12 scores and change in composite scores from the ADAS-Cog 12 for different cognitive traits, CDR-sb and the ADCOMS
+  We also applied Principal Component Analysis (PCA) to minimize multicollinearity and achieve dimension-reduction for data on sub-scales from the ADAS-Cog 12 and CDR-sb for all visits
+  This method was used as an unsupervised procedure for achieving data-reduction and for identifying treatment responses in subgroups of subjects based on their baseline AD severity
+  The Kaiser-Meyer-Olkin (KMO) measure of sampling adequacy and Bartletts test for sphericity were used to ensure adequacy for PCA analysis (KMO value of > 
+6 and Bartlett p value < 
+ )
+  Variables with eigenvalues of 1 were retained and PCA components (Factors) were extracted using varimax with Kaiser normalization for rotation in order to simplify and clarify the data structure
+  Individual ADAS-Cog 12 and CDR-sb sub-scales having a correlation of certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    > 
+4 within each PCA factor were then grouped according to their association with a specific factor identified by PCA and then labeled as factors 1 through 4 (Figure B)
+  These composite variables were used as the outcome measures for further analysis by MLM as described above
+  Post-hoc stratification was performed if the interaction terms for treatment, time and baseline AD severity showed a p value  
+ 
+  Due to the confounding by APOE genotypes or effect modification by gender, their influences were also examined by further stratifying the subjects by APOE genotype and baseline AD severity, and by gender and baseline AD severity
+  Changes in CSF levels of A38, A40, A42, total tau and P181 tau were calculated by subtracting values of the samples collected at the final visit from the baseline visit for each subject
+  Given the small sample size for the CSF subset, group comparisons using ANOVA were limited to mild (MMSE  20) and moderate (MMSE < 20) AD severity categories only
+  P values  
+05 were considered significant and all  Demographic characteristics of the AD subgroups stratified by treatment are presented in Table 
+ There were no differences across AD subgroups for age, weight or for the time elapsed since the diagnosis of AD
+  Similarly, there were no differences in ethnicity and the presence of the APOE 4 allele (p > 
+ )
+  However, there were significant differences in education across AD subgroups by treatment
+  There were also significant differences in gender, with females being overrepresented in the nilvadipine-treated moderate AD group compared to all other groups
+  Mild AD subjects having MMSE  20 were further stratified using a 1-point incremental increase in the MMSE cut-off (Figure )
+  This showed that very mild AD subjects, who had MMSE  25, benefited the most after nilvadipine treatment when compared to all other MMSE subgroups, as indicated by the smallest change from baseline on the ADAS-Cog 12 seen in this cut-off compared to others
+  We therefore stratified the study population as described above to allow us to focus on very mild AD subjects along with mild and moderate AD subjects (MMSE = 20-24 and MMSE 19, respectively)
+ Changes in the ADAS-Cog 12 scores and the ADCOMS in response to nilvadipine treatment are modified by  Regression analyses showed a significant interaction between nilvadipine treatment, baseline AD severity and time (F = 
+56, p = 
+02, Figure 4) on the change in the ADAS-Cog 12 after adjusting for the confounding factors described above
+  Post-hoc stratifications of the mean changes on the ADAS-Cog 12 showed a trend for (p = 
+06 at 52 weeks) less decline after nilvadipine treatment among very mild AD subjects and a greater decline on the ADAS-Cog 12 among nilvadipine-treated individuals with moderate AD (p = 
+ )
+  There were no differences on the total ADAS-Cog 12 scores between nilvadipine- and placebo-treated individuals from the mild AD group (p > 
+ )
+ There was also an interaction between treatment, time and baseline AD severity for the change in the ADCOMS (F = 
+16, p = 
+ )
+ Post-hoc stratification showed significantly less decline on the ADCOMS in very mild AD subjects (p = 
+04 at 78 weeks), no change in mild AD subjects and a greater decline in moderate AD subjects (p = 
+03 at 78 weeks) who were treated with nilvadipine compared to their respective placebo treated groups
+ There were no differences on the CDR-sb total score with respect to the disease severity and treatment (data not shown)
+ Since previous subgroup analyses showed an influence of the APOE 4 allele and gender on the treatment outcome, supplementary figure 1 shows further stratification of changes in ADAS-Cog 12 and the ADCOMS in very mild, mild and moderate AD subjects by APOE 4 status and gender
+ Compared to placebo, nilvadipine-treated, very mild AD individuals perform better on the ADCOMS over the 18-month period irrespective of the 4 status or gender
+   Responses to nilvadipine on memory and language traits of the ADAS-Cog 12 depend on the baseline severity  Regression analyses of the ADAS-Cog 12 sub-scales grouped as memory, language and praxis traits showed that the memory trait was significantly affected by the interaction between treatment, time and AD severity at baseline (F = 
+18, p = 
+04, Figure 5A) after adjusting for the confounders/effect modifiers as above
+  Post-hoc stratifications show that only very mild AD subjects treated with nilvadipine had less decline on the memory trait compared to placebo-treated very mild AD subjects (p = 
+04 at 52 weeks)
+  There were no certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    differences for the memory trait between nilvadipine- and placebo-treated mild AD subjects, while a non-significant decline on the memory trait was noted for moderate AD subjects treated with nilvadipine compared to placebo
+  Once adjusted for confounders, there was also a significant interaction between treatment, time and baseline AD severity on the language trait (F = 
+1, p = 
+05, Figure 5B), with post-hoc stratifications showing less decline in the language trait for the nilvadipine-treated mild AD group only (p = 
+03 at 52 weeks)
+  There were no effects by AD severity, time or treatment on the praxis trait (p > 
+ )
+   Principal component analysis of the ADAS-Cog 12 sub-scales show benefits of nilvadipine on memory in  The PCA meeting the KMO-Bartletts test criteria of sampling adequacy and data sphericity identified 4 factors
+  Supplementary table 1 shows correlations between these factors and the different ADAS-Cog 12 and CDR-sb sub-scales
+  Among the 4 factors identified by PCA, there was a trend for an interaction between time, treatment and AD severity for factor 2 (F = 
+98, p = 
+07) loaded with the ADAS-Cog 12 sub-scales related to spoken language ability, comprehension, and word finding difficulty in spontaneous speech
+  Post-hoc stratifications of the mean changes showed that factor 2 differed by treatment only in the mild AD group, see Figure 
+  There was also an interaction between treatment, time and baseline AD severity for factor 3 (F = 
+72, p = 
+001) loaded with the ADAS-Cog 12 sub-scales for the immediate and delayed word recall tasks
+  Post-hoc stratification showed that factor 3 differed by treatment only in the very mild AD group (See Figure )
+ There were no significant differences between the groups for factor 1, which was loaded with all the sub-scales of CDR-sb along with several ADAS-Cog 12 sub-scales, or by factor 4, which was loaded with the ADAS-Cog 12 sub-scales for orientation, word recognition task and remembering the test instructions
+ Nilvadipine treatment differentially modulates cerebrospinal fluid biomarkers depending on AD severity
+   Baseline demographics of the CSF subcohort stratified by mild and moderate AD status are provided in supplementary table 
+  Changes in CSF A42/A40 ratios were significantly different across nilvadipine- and placebo-treated mild and moderate AD subjects (F = 
+55, p = 
+02, Figure A)
+  Post-hoc analyses showed that CSF A42/A40 ratios showed a significant reduction in moderate AD subjects treated with nilvadipine compared to the placebo control group (p < 
+ )
+  A trend for an increase in CSF A42/A40 ratios was observed in mild AD cases treated with nilvadipine compared to placebo (p = 
+ )
+  Figures 7 and 8 show group differences between nilvadipine- and placebo-treated mild and moderate AD subjects for CSF A38 (F = 
+98, p = 
+04), total tau (F = 
+29, p < 
+01) and P181 tau (F = 
+30, p < 
+ )
+  Post-hoc analyses showed that in the moderate AD group, as compared to placebo, nilvadipine-treated subjects had significant increases in CSF A38, total tau and P181 tau after nilvadipine treatment (p < 
+ )
+  There was a non-significant increase in A42 in nilvadipine- compared to placebo-treated mild AD subjects
+   Many clinical trials in combined populations of mild and moderate AD patients have failed to show benefits, possibly because different stages of AD reflect changes in the extent of the underlying amyloid and tau pathologies
+  Frequently the same drugs that have failed in combined mild and moderate populations have shown suggestive benefits for subjects in early stages of the disease (7-10, 30), when the extent of amyloid and tau pathologies is considerably lower than for subjects in the moderate disease stage (-)
+  Although analysis of the overall population showed no benefit of nilvadipine, our exploratory studies show that very mild AD subjects experienced less cognitive decline on the total ADAS-Cog 12 in the nilvadipine-treated group compared to placebo
+  However, moderate AD subjects treated with nilvadipine showed a greater decline compared to their controls
+ We also used the ADCOMS, which showed that the beneficial effects of nilvadipine were restricted to the very mild AD group
+ An examination of different cognitive traits from the ADAS-Cog 12 sub-scales showed that nilvadipine had beneficial effects on the memory trait in the very mild AD group and the language domain in the mild AD group
+  However, moderate AD patients showed worsening of the memory trait after nilvadipine intervention
+  These findings suggest a differential impact of nilvadipine depending on the  The examination of changes over time in the total ADAS-Cog 12 scores, stratified by different stages of AD, suggested that, after 78 weeks of treatment, very mild AD patients treated with nilvadipine showed less cognitive impairment than placebo controls
+  There were no differences in the total ADAS-Cog 12 scores between the placebo- and nilvadipine-treated subjects in the mild AD group, and the scores of the moderate certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    AD subjects treated with nilvadipine showed greater cognitive decline compared to placebo
+  Placebo groups for very mild and mild AD declined at a similar rate, whereas the moderate AD placebo group declined at nearly twice the rate of the milder groups during this period
+  These findings are largely consistent with those previously reported for placebo groups in other clinical trials, in which a lower decline is generally noted in mild AD versus moderate AD subjects (34, )
+  In any of the AD severity categories, there was no correlation between blood pressure changes and total ADAS-Cog 12 changes among those treated with nilvadipine (pers
+ comm)
+  This is consistent with our preclinical studies showing that the anti-A effects of nilvadipine are not  We did not observe an effect of nilvadipine treatment on the changes in CDR-sb
+  Studies have shown that while the ADAS-Cog 12 test is useful at estimating progression in mild stages of AD, the CDR-sb test is a global impression scale designed for staging of dementia rather than quantifying cognitive change over time
+  It is therefore possible that the CDR-sb lacks the desired sensitivity to detect subtle cognitive changes due to high test-retest variability for detecting cognitive differences (36, )
+ Since disease progression in AD differs by the initial stage of the disease, it has been argued that the ADAS-Cog 12 and CDR-sb tests alone do not have the desired sensitivity to detect subtle changes in cognitive decline that occur in mild AD subjects
+  Recently, Wang and colleagues developed a composite variable, ADCOMS, which uses subscales from the ADAS-Cog 12, the MMSE and the CDR-sb and assigns adjusted weights generated from PLS regression to identify their relative contributions to AD progression ()
+ This composite outcome includes both cognitive and functional measures
+ Many clinical trials now incorporate the ADCOMS as it seems to be sensitive at detecting treatment effects in the early stages of AD(38, )
+ When we used the ADCOMS (modified to accommodate the absence of MMSE sub-scales), we observed cognitive benefits in very mild AD subjects treated with  Subjects in different stages of AD demonstrate differential decline in memory, language and praxis traits
+  These traits can be mapped to the underlying brain tissue loss in AD in different stages of the disease
+ For instance, neuronal loss in early AD starts within the medial temporal lobe (MTL), which is primarily involved with memory function
+  With the advancement of AD, further degeneration occurs within the parietal, frontal, and occipital lobes, which are involved in language processing and praxis (24, )
+  Our exploratory analyses of these cognitive traits suggest that benefits of nilvadipine were restricted to the memory trait in very mild AD subjects
+  In mild AD cases, who are at a more advanced disease stage compared to very mild cases, we observed a reduced decline for the language trait in nilvadipine-treated subjects
+  There were no effects of nilvadipine on praxis for any of the AD subpopulations
+  In the moderate AD group, there was no specific domain accounting for the overall decrement in ADAS-Cog 12 with nilvadipine treatment, but rather there were trends for decline in all cognitive domains
+  Over the 18 months, placebo-treated very mild AD subjects showed significant decline in memory
+  This is to be expected since very mild AD subjects initially have the most functional memory, which is rapidly lost in the early stages of the disease
+  The language trait remained largely preserved in very mild AD subjects treated with placebo, but continued to decline further in mild and moderate AD placebo groups
+  The praxis trait further declined in moderate AD on placebo with minimal decline in both very mild and mild AD on placebo
+  This is again to be expected as loss of praxis generally occurs after the loss of memory function as AD progresses
+  Collectively, these data suggest that examination of appropriate cognitive domains relevant to the stage of AD might improve our ability to evaluate treatment effects in AD  Alzheimers Disease patients in the early stages of the disease have limited cognitive and functional impairment
+  As such, currently available clinical outcome scales, such as those utilized here, may not be able to capture subtle cognitive changes, particularly in the presence of relatively small functional decline (26, 41, )
+  As such, there remains a need for the development of composite scores for assessing treatment responses
+ One such approach includes using the ADCOMS (26), which was recently utilized in other AD trials as an outcome measure in 18-month trials to assess disease modification by treatment()
+  We also used the ADCOMS and found that nilvadipine treatment was beneficial for very mild AD
+ Using another similar approach, we performed PCA on sub-scales from both the ADAS-Cog 12 and CDR-sb as an unsupervised dimension reduction method to group specific cognitive domains
+  Factor 1 loading primarily contained all of the CDR-sb sub-scales and also the orientation sub-scale from ADAS-Cog 12, and remained unaffected by nilvadipine treatment
+  Factor 2 loading contained language and word finding abilities-related sub-scales from the ADAS-Cog 12 and, as with the trait analysis, a trend for potential benefit of nilvadipine was limited to the mild AD group only
+  Factor 3 was loaded with immediate and delayed recall, and showed less decline after certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    treatment in the very mild AD group
+  Factor 4 loading contained orientation, word recognition and remembering test instructions, which did not differ between the nilvadipine and placebo groups in any of the AD severity subpopulations
+  Collectively, these results suggest that memory was preserved in very mild AD and language was preserved in mild AD subjects after nilvadipine treatment
+  We also stratified the study population by AD severity at baseline and by APOE 4 carrier status, and our results suggested that among non-carriers, very mild AD cases had lower decline with nilvadipine treatment, but AD patients in the moderate stage showed cognitive decline with nilvadipine treatment
+  In the subpopulation that was genotyped for APOE, 4 carriers were (unusually) as cognitively intact as non-carriers at baseline
+  Despite this, 4 carriers did not benefit from nilvadipine treatment regardless of the initial disease stage, which is consistent with the literature from other AD treatment trials ()
+ However, the very mild and moderate 4 carrying placebo groups did not decline between months 12 and 
+ Stratification by gender showed that both males and females in the very mild AD stage had less cognitive decline with nilvadipine treatment compared to placebo treatment, while females in the moderate AD stage showed a greater cognitive decline with nilvadipine treatment
+  With respect to gender, moderate females did worse on nilvadipine than males
+ This may be consistent with some other studies which show poor response to certain therapies in AD  Correlative studies of amyloid imaging with CSF A levels show that the decrease in CSF A42 is an early event in AD pathogenesis ()
+  Longitudinal profiling of CSF A in AD animal models shows that, with AD progression, CSF A42 levels decline first but A40 levels do not fall until the very late stages of AD pathology ()
+  In addition, recent clinical studies have shown that CSF A42/A40 ratios have a better concordance with amyloid PET imaging for biomarker-based diagnosis of AD than using either A42 or A40 alone (46), and that this ratio is consistently low in AD subjects with high brain amyloid deposition (46, )
+  In the present study, in mild AD patients, CSF A42/A40 ratios increased in nilvadipine-treated subjects compared to placebo-treated subjects
+  The mild AD placebo group essentially had no change in A40 and A42 levels
+  Based on the known mechanism of action of nilvadipine (15), we speculate that the increase in CSF A ratios in the mild AD nilvadipine-treated group reflects clearance of A42 across biological barriers since there was a trend for an increase in A42 levels in nilvadipine-treated subjects
+  However, moderate AD subjects treated with nilvadipine had a decline in CSF A42/A40 ratios compared to their placebo-treated controls
+ This was due to a minimal increase in A42 relative to a larger increase in A40 levels in this moderate AD group
+ Nevertheless, a decline in CSF A42/A40 corresponded with the worsening of cognition after nilvadipine treatment in this group
+  Based on preclinical nilvadipine studies (15), the observation of increased A40 and A438 in the moderate AD subjects treated with nilvadipine could be interpreted as increased clearance of these species, allowing shorter and more soluble A species than A42 to move out of the brain and into CSF
+  However, we do not yet understand the mechanism by which nilvadipine caused moderate AD subjects to experience a greater cognitive decline than placebo treated subjects
+  One explanation could be an increased production of A species, which is probably unlikely since A42 levels remained essentially unaltered in moderate AD subjects treated with nilvadipine
+  An increase in CSF A42/A40 ratios was observed in moderate AD subjects treated with placebo and appears to be a consequence of decline in A40 without any further drop in A42, which is to be expected in such advanced stages of AD ()
+  Total tau and P181 tau were increased after nilvadipine treatment in moderate AD subjects
+  Interestingly, placebo-treated mild and moderate AD subjects showed a decline in total tau and phospho-tau, which is unexpected, but has been previously reported in a longitudinal study of AD subjects ()
+  Together, biomarker data from this NILVAD trial suggest that cognitive improvement in mild AD subjects after treatment corresponds with an increase in CSF A42/A40 ratios, whereas worsening of cognition in moderate AD subjects is paralleled by a decrease in CSF A42/A40 ratios and higher total and phospho-tau levels
+  With failures of most AD trials to satisfy efficacy criteria in mixed AD populations, exploratory analyses of existing trial data are justified and necessary to understand lack of efficacy and to identify if sub-populations exist that may have benefited from interventions
+  The NILVAD trial was designed for the analysis of a mixed mild and moderate AD population and further stratification of the study population into very mild, mild and moderate AD was unplanned and therefore exploratory
+  As such, these subgroup analyses were underpowered, particularly when considering the confounding effects of gender and APOE
+  Nevertheless, analyses adjusted for these factors continue to suggest that very mild AD subjects responded positively to certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    nilvadipine on both the ADAS-Cog 12 and the ADCOMS
+ Furthermore, analyses of the ADAS-Cog 12 sub-scales demonstrate that memory and language traits are beneficially impacted by nilvadipine treatment in very mild and mild AD patients, respectively
+  Together, findings from the clinical studies and CSF biomarker analyses suggest a differential response to nilvadipine treatment in AD based on the severity of the disease at treatment initiation
+  These findings are also consistent with the results of several other experimental AD treatments where only very early stage AD subjects demonstrated benefit, such as Solanezumab (7, 10, 30), aducanumab (8) and LipiDiDiet trials ()
+  Consequently, the Alzheimers therapeutic field is increasingly targeting the early stages of AD ()
+  Finally, possible benefits in the very mild AD group identified by these exploratory analyses warrant further studies of nilvadipine treatment in very mild, prodromal or even preclinical The authors thank all participants in the NILVAD consortium as well as all of the patients and caregivers who so generously gave of their time
+ The authors also thank Muireann O'Briain; Oliver Gupta; the members of the Ethics Advisory Board (Ursula Collins, Mary Donnelly, Tony OBrien and Shaun OKeefe); the members of the Safety Advisory Board (Paul Aisen, Suzanne Hendrix, Robin Jacoby and Maurice OConnell); and the members of the Data Safety Monitoring Board (Bernadette McGuinness, John Newell, Martin ODonnell and Peter Passmore)
+  The authors wish to thank all other study partners  Alzheimer Europe and Newsweaver who helped with dissemination and promotion of the trial and GABO:mi who were the project management company for the majority of the trial  We also would like to acknowledge LabeX DISTALZ for facilitating The list of IRB by each country where the study approval was received: Holland: Radboud universitair medisch centrum Concernstaf Kwaliteit en Veiligheid Commissie Mensgebonden Hungary: Medical Research Council Ethics Committee for Clinical Pharmacology (KFEB)  (Chair: Dr Frst Comitato Etico IRCCS MultiMedica (Chair: Prof Emilio Trabucchi), Comitato Etico dellAienda Ospedaliera Universitaria S
+ Martino di Genova (Chair: Dott
+ Luigi Francesco Meloni) And Comitato Etico Regione Liguria (Chair: Prof
+ Fulvio Brema), Comitato Etico Fondazione Don Carlo Gnocchi (Chair: Prof Flaminio Cattabeni),  United Kingdom: NRES Committee London  Harrow (Chair: Dr Jan Downer and Miss Shelly Glaister-Young)  Ireland: Tallaght Hospital / St
+ James's Hospital Joint Research Ethics Committee (Chair: Dr Peter Lavin)  Germany: Ethik-Kommission der Bayerischen Landesarztekammer (Chair: Prof
+ Dr
+ med
+ Joerg Hasford)  The work leading to these results received funding from the European Union seventh Framework Programme (FP7/2007-2013) under grant agreement number 
+  This work was also supported by the Roskamp Dr
+ Mullan is the Chief Executive Officer of Archer Pharmaceuticals; Dr
+ Crawford is the Chief Operating Officer of Archer Pharmaceuticals
+ Both Drs
+ Mullan and Crawford have commercial interests in nilvadipine
+ Drs
+ Mullan, Crawford, Lawlor, Abdullah and Kennelly are listed as inventors on a pending patent
+ Dr
+ Blennow has served as a consultant or at advisory boards for Alzheon, BioArctic, Biogen, Eli Lilly, Fujirebio Europe, IBL International, Merck, Novartis, Pfizer, and Roche Diagnostics, unrelated to the work presented in this paper
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    Data  Curation: Abdullah L, Langlois H, Tsolaki M, Brjesson-Hanson A, Olde Rikkert M, Pasquier F, Wallin A, Project administration and Supervision: Abdullah L, Crawford F, Lawlor B and Mullan M  Writing  review & editing: Abdullah L, Crawford F, Langlois H, Tsolaki M, Brjesson-Hanson A, Olde Rikkert M, Pasquier F, Wallin A, Kennelly S, Hendrix S, Blennow K, Lawlor B, Mullan M NINCDS-ADRDA  National Institute of Neurological and Communicative Disorders and Stroke/Alzheimers Flow-chart of the main study from which data for exploratory analyses were obtained
+ Figure 2: Grouping of ADAS-cog and CDR-sb sub-scales
+  (2A) Sub-scales of the ADAS-cog 12 test were grouped based on traits for memory, language and praxis to account for the topography of tissue loss in AD depending on the stage of disease
+ (2B) Sub-scales of the ADAS-cog 12 and the CDR-sb were analyzed by PCA, which resulted in grouping of sub-scales into four factors that explained most of the variance in the dataset
+ Composite variables were then generated, which included sub-scales identified in each factor by PCA, and were named factors 1 through 
+ Note, factor 1 also contains the orientation sub-scale from the ADAS-Cog Figure 3: Further stratification of the mild AD group by increasing the increment of MMSE scores by 1 starting from  20 up to  
+ Mean  SE (for MMSE  20 n = 154 for nilvadipine and n = 157 for placebo;  21 n = 125 for nilvadipine and 136 for placebo;  22 n = 103 for nilvadipine and n = 117 for placebo;  23 n = 70 for nilvadipine and n = 99 for placebo;  24 n = 57 for nilvadipine and n = 68 for placebo;  25 n = 36 for nilvadipine and n = 44 for placebo)
+ Mean change from baseline for the total ADAS-Cog 12 scores show the certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    least decline among nilvadipine-treated subjects compared to placebo-treated subjects with MMSE score of  Figure 4: Nilvadipine-treated very mild AD subjects show less cognitive decline compared to controls on the ADAS-Cog 12 and the ADCOMS tests
+ Mean  SE (n = 82 for moderate AD (MMSE  19) on nilvadipine, n = 94 for moderate AD on placebo, n = 118 for mild AD (MMSE 20-24) on nilvadipine, n = 113 for mild AD on placebo, n = 36 for very mild AD (MMSE  35) on nilvadipine and n = 44 for very mild AD on placebo) for the change in ADAS-Cog 12 scores
+ There was a significant effect for the interaction between treatment, time and baseline AD severity as assessed by MMSE scores after correcting for the confounding effects of APOE, gender and education, p < 
+ 
+ (4A-B) Stratifications show that very mild AD subjects treated with nilvadipine have lower scores on the ADAS-Cog 12 and the ADCOMS compared to placebo after 78 weeks
+ Post-hoc analysis stratified by time show a significant treatment effect at 78 weeks for the ADCOMS
+   (4C-D) Mild AD subjects treated with nilvadipine scored similarly to their placebo controls on both the ADAS-Cog 12 and the ADCOMS (E-F)
+ However, moderate AD subjects treated with nilvadipine scored higher on both the ADAS-Cog 12 and the ADCOMS at 78 weeks compared to those on placebo
+ * p < 
+05 Figure 5: Very mild AD subjects show less decline on the memory trait, whereas mild AD subjects show less decline on the language trait, after nilvadipine treatment compared to placebo
+ Mean  SE (n = 82 for moderate AD on nilvadipine, n = 94 for moderate AD on placebo, n = 118 for mild AD on nilvadipine, n = 113 for mild AD on placebo, n = 36 for very mild AD on nilvadipine, n = 44 for very mild AD on placebo) for the change in memory, language and praxis traits of grouped ADAS-cog 12 sub-scales
+ (5A) There was a significant effect for the interaction between treatment, time and baseline AD severity on the memory trait
+ Post-hoc stratifications by time show that very mild AD subjects treated with nilvadipine had significantly less decline on the memory trait compared to their controls
+ (5B) There was also a significant interaction between treatment, time and baseline AD severity for the language trait
+ Post-hoc stratifications by time show that mild AD subjects treated with nilvadipine had less decline on the language trait compared to the placebo-treated mild AD subjects
+ (5C) There was no effect seen for the praxis trait
+ *p < 
+ 
+  Figure 6: Nilvadipine-treated mild and very mild AD groups show less decline for PCA Factors 2 and 3, respectively
+ Mean  SE (n = 82 for moderate AD on nilvadipine, n = 94 for moderate AD on placebo, n = 118 for mild AD on nilvadipine, n = 113 for mild AD on placebo, n = 36 for very mild AD on nilvadipine, n = 44 for very mild AD on placebo) for the change in Factors 1, 2, 3, and 
+ (6A) There were no differences between any of the groups for Factor 
+ (6B) A marginally significant interaction between time, treatment and AD severity was observed for Factor 2, p = 
+07, and subsequent stratifications show that only mild AD subjects treated with nilvadipine had less decline compared to their placebo controls
+ (6C) There was a significant interaction between time, treatment and AD severity for Factor 3, p < 
+ 
+ (4D) There were no significant differences Figure 7: Ratios of CSF A42/A40 increase in nilvadipine-treated mild AD but decrease in moderate AD patients compared to their respective placebo groups
+  (Mean  SE n = 9 for moderate AD on nilvadipine, n = 12 for moderate AD on placebo, n = 14 for mild AD on nilvadipine, n = 20 for mild AD on placebo)
+ (A) Ratios of A42/A40 were higher in mild AD treated with nilvadipine compared to those treated with placebo (p = 
+ )
+  There was a significant decrease in A42/A40 in moderate AD treated with nilvadipine compared to placebo
+ Also in moderate AD subjects, levels of (B) A38 and (C) A40 were elevated and (D) A42 levels were unchanged in moderate AD subjects treated with nilvadipine
+  Levels of A42 were non-significantly higher in mild AD treated with nilvadipine
+ *p < 
+05 Figure 8: Total tau and P181Tau levels were increased in nilvadipine-treated moderate AD patients compared to their respective placebo groups
+  (Mean  SE n = 9 for moderate AD on nilvadipine, n = 12 for moderate AD on placebo, n = 14 for mild AD on nilvadipine, n = 20 for mild AD on placebo)
+  Levels of (A) total tau and (B) P181 tau were increased in moderate AD subjects treated with nilvadipine
+  In mild AD subjects, total tau or P181 tau did not differ between nilvadipine-treated and placebo control groups
+*p < 
+ 
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    Supplemental figure 1: Changes in total ADAS-Cog 12 stratified by baseline AD severity and APOE 4 carrier status
+ Mean  SE (n = 32 for moderate AD on nilvadipine, n = 33 for moderate AD on placebo, n = 47 for mild AD on nilvadipine, n = 48 for mild AD on placebo, n = 15 for very mild AD on nilvadipine, n = 19 for very mild AD on placebo)
+ Moderate non-carrier AD subjects treated with nilvadipine showed decline over the 78-week period, whereas mild or moderate 4 carrier AD subjects treated with nilvadipine scored similarly to 
+ Davies P
+ Neurochemical studies: an update on Alzheimer's disease
+ J Clin Psychiatry
+ 1988;49 
+ Tandon A, Rogaeva E, Mullan M, St George-Hyslop PH
+ Molecular genetics of Alzheimer's disease: the 
+ Scheltens P, Blennow K, Breteler MM, de Strooper B, Frisoni GB, Salloway S, et al Alzheimer's 
+ Kehoe PG, Passmore PA
+ The renin-angiotensin system and antihypertensive drugs in Alzheimer's disease: current standing of the angiotensin hypothesis? J Alzheimers Dis
+ 2012;30 Suppl :S-
+ 
+ Kovacs GG, Milenkovic I, Wohrer A, Hoftberger R, Gelpi E, Haberler C, et al Non-Alzheimer neurodegenerative pathologies and their combinations are more frequent than commonly believed in the 
+ James BD, Wilson RS, Boyle PA, Trojanowski JQ, Bennett DA, Schneider JA
+ TDP-43 stage, mixed 
+ Doody RS, Thomas RG, Farlow M, Iwatsubo T, Vellas B, Joffe S, et al Phase 3 trials of solanezumab 
+ Sevigny J, Suhy J, Chiao P, Chen T, Klein G, Purcell D, et al Amyloid PET Screening for Enrichment of Early-Stage Alzheimer Disease Clinical Trials: Experience in a Phase 1b Clinical Trial Alzheimer Dis Assoc 
+ Soininen H, Solomon A, Visser PJ, Hendrix SB, Blennow K, Kivipelto M, et al 24-month intervention with a specific multinutrient in people with prodromal Alzheimer's disease (LipiDiDiet): a randomised, double-
+ Honig LS, Vellas B, Woodward M, Boada M, Bullock R, Borrie M, et al Trial of Solanezumab for Mild 
+ Liu-Seifert H, Case MG, Andersen SW, Holdridge KC, Aisen PS, Kollack-Walker S, et al Delayed-Start Analyses in the Phase 3 Solanezumab EXPEDITION3 Study in Mild Alzheimer's Disease
+ J Prev Alzheimers 
+ Forette F, Seux ML, Staessen JA, Thijs L, Babarskiene MR, Babeanu S, et al The prevention of dementia with antihypertensive treatment: new evidence from the Systolic Hypertension in Europe (Syst-Eur) 
+ Hanyu H, Hirao K, Shimizu S, Sato T, Kiuchi A, Iwamoto T
+ Nilvadipine prevents cognitive decline of 
+ Bachmeier C, Beaulieu-Abdelahad D, Mullan M, Paris D
+ Selective dihydropyiridine compounds facilitate the clearance of beta-amyloid across the blood-brain barrier
+ Eur J Pharmacol
+ ;(-):-
+ 
+ Paris D, Bachmeier C, Patel N, Quadros A, Volmar CH, Laporte V, et al Selective antihypertensive dihydropyridines lower Abeta accumulation by targeting both the production and the clearance of Abeta across 
+ Paris D, Quadros A, Humphrey J, Patel N, Crescentini R, Crawford F, et al Nilvadipine antagonizes both Abeta vasoactivity in isolated arteries, and the reduced cerebral blood flow in APPsw transgenic mice
+ 
+ Paris D, Ait-Ghezala G, Bachmeier C, Laco G, Beaulieu-Abdelahad D, Lin Y, et al The spleen tyrosine kinase (Syk) regulates Alzheimer amyloid-beta production and Tau hyperphosphorylation
+ J Biol Chem
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    
+ Mathura VS, Patel N, Bachmeier C, Mullan M, Paris D
+ A 3D-QSAR model based screen for dihydropyridine-like compound library to identify inhibitors of amyloid beta (Abeta) production
+ Bioinformation
+ 
+ Lawlor B SR, Kennelly S, Olde Rikkert M, Howard R, Pasquier F
+ NILVADIPINE in mild to moderate 
+ Lawlor B SR, Kennelly S, Olde Rikkert M, Howard R, Pasquier F, Brjesson-Hanson A, Tsolaki M, Lucca U, Molloy D
+ W
+, Coen R, Riepe M
+ W
+, Klmn J, Kenny R
+ A
+, Cregg F, ODwyer S, Walsh C, Adams J, Banzi R, Breuilh L, Daly L, Hendrix S, Aisen P, Gaynor S, Sheikhi A, Taekema D
+ G
+, Verhey F
+ R
+, Nemni R, Nobili F, Franceschi M, Frisoni G, Zanetti O, Konsta A, Anastasios O, Nenopoulou S, Tsolaki-Tagaraki F, Pakaski M, Dereeper O, de la Sayette V, Snchal O, Lavenu I, Devendeville A, Calais G, Crawford F, Mullan M
+ NILVADIPINE in mild to moderate Alzheimers Disease: a randomized controlled trial PLOS Med
+ 
+ Lawlor B, Kennelly S, O'Dwyer S, Cregg F, Walsh C, Coen R, et al NILVAD protocol: a European multicentre double-blind placebo-controlled trial of nilvadipine in mild-to-moderate Alzheimer's disease
+ BMJ 
+ Balkan S, Yaras N, Mihci E, Dora B, Agar A, Yargicoglu P
+ Effect of donepezil on EEG spectral analysis 
+ Huntley J, Bor D, Hampshire A, Owen A, Howard R
+ Working memory task performance and chunking 
+ Verma N, Beretvas SN, Pascual B, Masdeu JC, Markey MK, Alzheimer's Disease Neuroimaging I
+ New scoring methodology improves the sensitivity of the Alzheimer's Disease Assessment Scale-Cognitive 
+ Hendrix S LV, Perdomo C, Wang J, Satlin A
+ Introducing a New Tool for Optimizing Responsiveness to 
+ Wang J, Logovinsky V, Hendrix SB, Stanworth SH, Perdomo C, Xu L, et al ADCOMS: a composite clinical outcome for prodromal Alzheimer's disease trials
+ J Neurol Neurosurg Psychiatry
+ ;():-
+ 
+ Meulenbroek O, O'Dwyer S, de Jong D, van Spijker G, Kennelly S, Cregg F, et al European substudy protocols: NILVAD frailty; NILVAD blood and genetic biomarkers; NILVAD cerebrospinal fluid 
+ Mattsson N, Andreasson U, Persson S, Carrillo MC, Collins S, Chalbot S, et al CSF biomarker variability in the Alzheimer's Association quality control program
+ Alzheimers Dement
+ ;():-
+ 
+ Hansson O, Zetterberg H, Buchhave P, Londos E, Blennow K, Minthon L
+ Association between CSF biomarkers and incipient Alzheimer's disease in patients with mild cognitive impairment: a follow-up study
+ 
+ Liu-Seifert H, Andersen S, Case M, Sparks J, Holdridge KC, Wessels AM, et al Statistical properties of continuous composite scales and implications for drug development
+ J Biopharm Stat
+ ;():-
+ 
+ Weiner MW, Veitch DP, Aisen PS, Beckett LA, Cairns NJ, Green RC, et al Recent publications from the Alzheimer's Disease Neuroimaging Initiative: Reviewing progress toward improved AD clinical trials
+ 
+ Serrano-Pozo A, Qian J, Muzikansky A, Monsell SE, Montine TJ, Frosch MP, et al Thal Amyloid Stages Do Not Significantly Impact the Correlation Between Neuropathological Change and Cognition in the 
+ Furman JL, Vaquer-Alicea J, White CL, 3rd, Cairns NJ, Nelson PT, Diamond MI
+ Widespread tau 
+ Schneider LS, Sano M
+ Current Alzheimer's disease clinical trials: methods and placebo outcomes
+ 
+ Popp D GL, Bohm, Randolph C
+ High Variability and Lack of Change on the ADAS-Cog: Placebo 
+ Knopman DS
+ Clinical trial design issues in mild to moderate Alzheimer disease
+ Cogn Behav Neurol
+ certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    
+ Posner H, Curiel R, Edgar C, Hendrix S, Liu E, Loewenstein DA, et al Outcomes Assessment in Clinical Trials of Alzheimer's Disease and its Precursors: Readying for Short-term and Long-term Clinical Trial 
+ Hendrix S SH, Visser PJ, Solomon A, Kivipelto M, Hartmann T, editor ADCOMS: A Post-hoc analysis using data from the LIPIDIDIET Trial in prodromal Alzheimers disease
+ CTAD; 2018; Barcelona
+ 
+ Swanson CJ, Zhang Y, Dhadda S, Wang J, Kaplow J, Lai RYK, et al TREATMENT OF EARLY AD 
+ Nielson KA, Cummings BJ, Cotman CW
+ Constructional apraxia in Alzheimer's disease correlates with 
+ Petersen RC, Thomas RG, Grundman M, Bennett D, Doody R, Ferris S, et al Vitamin E and donepezil for the treatment of mild cognitive impairment
+ N Engl J Med
+ ;():-
+ 
+ Doody RS, Ferris SH, Salloway S, Sun Y, Goldman R, Watkins WE, et al Donepezil treatment of 
+ Risner ME, Saunders AM, Altman JF, Ormandy GC, Craft S, Foley IM, et al Efficacy of rosiglitazone in 
+ Claxton A, Baker LD, Wilkinson CW, Trittschuh EH, Chapman D, Watson GS, et al Sex and ApoE genotype differences in treatment response to two doses of intranasal insulin in adults with mild cognitive 
+ Maia LF, Kaeser SA, Reichwald J, Lambert M, Obermuller U, Schelle J, et al Increased CSF Abeta during the very early phase of cerebral Abeta deposition in mouse models
+ EMBO Mol Med
+ ;():-
+ Niemantsverdriet E, Ottoy J, Somers C, De Roeck E, Struyfs H, Soetewey F, et al The Cerebrospinal 
+ Lewczuk P, Riederer P, O'Bryant SE, Verbeek MM, Dubois B, Visser PJ, et al Cerebrospinal fluid and blood biomarkers for neurodegenerative dementias: An update of the Consensus of the Task Force on Biological Markers in Psychiatry of the World Federation of Societies of Biological Psychiatry
+ World J Biol 
+ Schindler SE, Sutphen CL, Teunissen C, McCue LM, Morris JC, Holtzman DM, et al Upward drift in cerebrospinal fluid amyloid beta 42 assay values for more than 10 years
+ Alzheimers Dement
+ ;():-
+ Barrera-Ocampo A, Lopera F
+ Amyloid-beta immunotherapy: the hope for Alzheimer disease? Colomb certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    N = 92 N = 94 N = 118 N = 113 N = 36 N = 44 
+80 (
+95) 
+79 (
+85) 
+57 (
+77) 
+16 (
+71) 
+38 (
+25) 
+80 (
+16) Baseline MMSE 
+28 (
+24) 
+23 (
+23) 
+79 (
+13) 
+16 (
+13) 
+56 (
+09) 
+39 (
+08) 
+04 (
+01) 
+95 (
+03) 
+74 (
+63) 
+96 (
+69) 
+53 (
+95) 
+73 (
+07) Baseline CDR 
+13 (
+31) 
+83 (
+27) 
+54 (
+17) 
+53 (
+22) 
+14 (
+33) 
+24 (
+28) Baseline ADCOMS 
+08 (
+11) 
+02 (
+11) 
+79 (
+07) 
+84 (
+09) 
+04 (
+14) 
+05 (
+10) Age left Education* 
+82 (
+36) 
+05 (
+43) 
+62 (
+36) 
+41 (
+35) 
+61 (
+88) 
+70 (
+65) 
+62 (
+28) 
+56 (
+27) 
+31 (
+24) 
+36 (
+28) 
+53 (
+27) 
+49 (
+31) 
+04 (
+20) 
+80 (
+18) 
+62 (
+14) 
+75 (
+18) 
+33 (
+22) 
+35 (
+22) 66 (
+7) 57 (
+6) 77 (
+3) 69 (
+1) 17 (
+2) 21 (
+7) 89 (
+7) 91 (
+8) 115 (
+5) 110 (
+3) 36 (100) 43 (
+7) 32/62 (
+6) 33/64 (
+6) 47/75 (
+7) 48/79 (
+8) 15/24 (
+5) 19/25 (
+0) 
+4 (
+07) 
+1 (
+91) 
+7 (
+87) 
+8 (
+81) 
+3 (
+98) 
+2 (
+43) 
+2 (
+19) 
+0 (
+49) 
+9 (
+09) 
+5 (
+33) 
+8 (
+31) 
+5 (
+99) BMI at Baseline 
+5 (
+42) 
+4 (
+50) 
+0 (
+36) 
+6 (
+42) 
+5 (
+65) 
+7 (
+49) *Note: APOE genotyping was available only for a subset of individuals and the age the subjects left education was significantly different across MMSE categories
+ P < 
+ 
+ Education information was not available for 6 subjects and time since AD diagnosis was unavailable for 1 subject
+ Although the mITT dataset was composed of 498 subjects, 1 subject withdrew consent certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 4, 
+ ;    

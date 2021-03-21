@@ -1,0 +1,963 @@
+Adam Stevens PhD1, Philip Murray MD1, Chiara De Leonibus MD1, Terence Garner MSc1, Ekaterina Koledova MD2, Geoffrey Ambler MD3, Jia-Woei Hou MD4, Klaus Kapelari MD5, Jean Pierre Salles MD6, Gerhard Binder MD7, Mohamad Maghnie MD8, Stefano Zucchini MD9, Elena Bashnina MD10, Julia Skorodok MD11, Diego Yeste MD12, Alicia Belgorosky MD13, Juan-Pedro Lopez Siguero MD14, Regis Coutant MD15, Eirik Vangsy-Hansen MD16, Lars Hagens MD17, Jovanna Dahlgren MD18, Cheri Deal MD19, Pierre Chatelain MD20, Peter Clayton MD*1  1 Division of Developmental Biology & Medicine, Faculty of Biology, Medicine & Health, University of Manchester and Manchester Academic Health Science Centre, Royal Manchester Childrens Hospital, Manchester University Hospitals NHS Foundation Trust; 2 Merck Healthcare KGaA, an affiliation of Merck KGaA, Germany; 3The Childrens Hospital, Westmead, Australia;  4Cathy General Hospital, Taipei, Taiwan; 5Medical University Innsbruck, Innsbruck, Austria; 6Hopital des Enfants, Toulouse, France; 7University-Childrens Hospital, Tuebingen, Germany; 8IRCCS G
+ Gaslini, Genova, Italy; 9University of Bologna, Bologna, Italy; 10North-Western State Medical University, Saint-Petersburg, Russian Federation; 11Saint-Petersburg State Medical University, Saint-Petersburg, Russian Federation; 12Hospital Materno Infantil Vall d'Hebron, Barcelona, Spain; 13Fundacion Hospital de Pediatria, Buenos Aires, Argentina; 14Children's Hospital Malaga, Malaga, Spain; 15University Hospital, Angers, France; 16Haukeland University Hospital, Bergen, Norway; 17Karolinska Hospital, Stockholm, Sweden; 18University of Gothenburg, Sahlgrenska University Hospital, Gothenburg, Sweden; 19University of Montreal, Montreal, Canada; 20Department Pediatrie, Hpital Mre-Enfant  Universit Claude Bernard, 69677 Lyon, France, 3 St
+ One Sentence Summary: A blood transcriptome signature predicts response to recombinant human growth Key words: Gene expression, growth hormone (GH) deficiency, Turner syndrome, GH treatment
+ not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    Recombinant human growth hormone (r-hGH) is used as a therapeutic agent for disorders of growth including 2 growth hormone deficiency (GHD) and Turner syndrome (TS)
+ Treatment is costly and current methods to 3 model response can only account for up to 60% of the variance
+ The aim of this work was to take a novel 4 genomic approach to growth prediction
+ GHD (n=71) and TS patients (n=43) were recruited in a study on the 5 long term response to r-hGH over five years of therapy
+ Pharmacogenomic analysis was performed using 1219 6 genetic markers and baseline blood transcriptome
+ Random forest was used to determine predictive value of 7 transcriptomic data associated with growth response
+ No genetic marker passed the stringency criteria 8 required for predictive value
+ However, we demonstrated that transcriptomic data can be used to predict 9 growth with a high accuracy (AUC > 
+9) for short and long term therapeutic response in GHD and TS
+ Network 10 models identified an identical core set of genes in both GHD and TS at each year of therapy whose expression 11 can be used to classify therapeutic response to r-hGH
+ Combining transcriptomic markers with clinical 12 phenotype was shown to significantly reduce predictive error
+ We have characterised the utility of baseline 13 transcriptome for the prediction of growth response including the identification of a set of common genes in 14 GHD and TS
+ This work could be translated into a single genomic test linked to a prediction algorithm to 15 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    Recombinant human growth hormone (r-hGH) is used as a therapeutic agent for a range of disorders of growth 28 impairment including growth hormone deficiency (GHD) and Turner syndrome (TS)
+ Treatment is costly at 29 between 6000  24000 per centimetre (cm) gained in final height ()
+ Therapy is not always successful in 30 patients and there are currently no genomic markers for predicting positive or negative responses
+ Prediction 31 models up to four years of therapy have been defined using clinical measurements (2) but have been difficult 32 to implement in practise
+ Whilst an understanding of the pharmacogenetic background has been established 33 (3, 4), such approaches are of limited predictive value due to the influence of covariates related to the childs 34 developmental stage, disease severity and geographical location (5, )
+ The pre-treatment blood 35 transcriptome has been previously shown to relate to first year response to r-hGH therapy (7), however, little 36 is known about the predictive value of this association and its relationship to longer term response to therapy
+ 37 The transcriptome represents a level of omic data that reflects genetic information, developmental stage in 38 relation to age (8) along with the impact of the local environment (6) and, therefore, has potential to classify 39 Response to r-hGH in the first year of therapy is considered to be a primary marker of growth response
+ 41 Prediction of first year growth has been shown to be dependent on GHD severity, age, distance to target 42 height, body weight, dose of r-hGH, birth weight and, as defined by regression models, can account for 61% 43 in GHD (9) and 46% in TS (10, 11) of the variation within the data
+ Clinical markers such as distance to target 44 height are surrogate genetic variables and this implies that an effective level of genomic prediction is 45 hypothesised to be possible if developmental (8, 12) and environmental covariates (13) of growth response 46 Transcriptomic data have been used extensively in cancer tissues both to sub-type the tumour (14-16) and to 48 predict response to therapies (17, )
+ In contrast in this study we have used peripheral blood gene expression 49 profiling as the source for gene expression profiles, and show that these patterns can be used to predict 50 response to r-hGH in each year of treatment up to five years in two different growth disorders that account 51 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    Growth response of patients over five years of r-hGH treatment 54 The auxology of the PREDICT study has been previously described at baseline and after one year (7) and after 55 three years (5) of therapy with r-hGH
+ Height velocities as a measure of response to r-hGH at each year in GHD 56 and TS are shown in Table A
+ As expected, first year growth response is the largest with a decline in 57 Genetic associations were not robust enough to be used to predict changes in growth rate over the five years 60 The association between SNP carriage and growth response was assessed for 1096 and 792 growth-related 62 candidate genes, in GHD and TS respectively, which passed the filtering criterion
+ Whilst 113 SNPs were 63 associated with growth response endpoints with an FDR p-value <
+05 modified by the number of blocks of 64 linkage disequilibrium, none of these were deemed to pass the stringency criteria required for predictive value 65 Unsupervised and supervised analysis demonstrates that GHD and TS blood transcriptome at baseline can be 68 used to classify response to r-hGH therapy over five years of treatment 69 We first demonstrated that a fundamental relationship existed between the baseline blood transcriptome and 70 response to r-hGH over the 5 years of the study (GHD n= 50, TS n=22) using DAPC on the unsupervised baseline 71 transcriptome (GHD = 8875, TS = 8455 gene probe sets)
+ These analyses showed clear segregation of the low 72 response (LoQ) and the high response (HiQ) quartiles of response to r-hGH thus demonstrating the utility of 73 blood transcriptome to differentiate response groups (Figure )
+ Partial least squares Discriminant Analysis 74 (PLS-DA) of the unsupervised baseline transcriptome demonstrated similar findings (Figure )
+ 75 GHD and TS blood transcriptome at baseline can be used to classify response to r-hGH therapy year-on-year 77 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    Baseline gene expression associated with height velocity at each year of the five years after the start of 79 treatment with r-hGH was defined using rank regression (p<
+01) (Supplemental Table S2) with a range of 80 covariates  microarray batch, age, body mass index (BMI) at baseline for both GHD and TS patients along with 81 gender and peak GH test response in GHD
+ Tanner stage was added as a further covariate to account for the 82 pubertal status of the patients (Figure )
+ There was no difference in auxology at baseline between each group 83 of patients at each year of the study (Table 1B & Supplemental Table S)
+ First classification of low and high 84 responding quartile groups of patients was assessed by PLS-DA using unmodified class sizes (Supplemental 85 Table S3A & 3B): clear separation of the quartiles was observed (example of first year GHD response, Figure 86 )
+ We also examined classification of growth response using random forest (RF) with oversampling by SMOTE 87 to correct for uneven class size (GHD, Supplemental Table S3A and TS, Supplemental Table SB)
+ These data 88 show clear classification of good and poor responders: at each year of the study all PLS-DA area under the 89 curve of the receiver operating characteristics (AUCs) were between 73% and 98% and all RF AUCs were 90 There was limited overlap between GHD and TS whole blood transcriptomic markers related to growth 94 response at each year of the study (Supplemental Table S)
+ We therefore generated interactome network 95 models including inferred interactions to assess whether GHD and TS growth response-associated gene 96 expression was related by affecting the function of similar network modules, albeit in different ways
+   97 Interactome network models of gene expression associated with height velocity at each year of the study were 98 generated
+ The hierarchy of overlapping modules of genes was identified in each network using the network 99 topology parameter of centrality (Supplemental Table S)
+ Network centrality is measurement that is known 100 to be related to gene function within networks; the more central a gene is, the more capable it is of influencing 101 The gene level summary of SNP associations with change in height and height velocity measurements with 103 FDR <
+05 (Supplemental Table S1C and S1D) were mapped onto the network models (Supplemental Table 104 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    S)
+ Most of the genetic associations with change in height and height velocity were also present within the 105 network models  15/25 SNPs in GHD and 9/12 in TS (Supplemental Table S5), implying that these genes have 106 Network models associated with height velocity in each year in both GHD and TS demonstrated significant 108 overlaps (Hypergeometric test, p<
+01) (Figure )
+ These observations imply that whilst associated gene 109 expression may be different between GHD and TS, common network elements are being affected in the two 110 The overlap between network models formed a discrete interactome element shared between GHD and TS 112 (Figure )
+ When this network was partitioned into genes related to each year of response to r-hGH (coloured 113 Figure 6A), it was determined that the genes associated with year 3 formed a less distinct cluster within the 114 network (Figure B)
+ This observation is in alignment with a partition between early (years 1 and 2) and later 115 (years 4 and 5) response to r-hGH as would be expected clinically
+  116 The facts that i) genetic associations with growth response map to the network models derived from 117 transcriptomic data and that ii) the network connectivity of the central modules changes over the duration of 118 the study imply that the network models are robust and account for the effect of development on related 119 The Identification of core sets of genes that can classify response to r-hGH in both GHD and TS 122 The overlap between network models was used to select a common set of genes at each year of therapy 123 present in both GHD and TS
+ Genes within this common list were selected for growth response classification 124 if they had previously been identified as significantly associated with height velocity by rank regression in 125 either GHD or TS (p<
+05) (Figure 6C & Supplemental Table S)
+ 126 Classification of both high and low r-hGH response quartiles against the remaining patients was shown using 127 PLS-DA (no oversampling) and RF (using SMOTE oversampling)
+ All AUCs for classification were between 74% 128 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    Further confidence in the findings was provided by assessing the predictive quality of the gene probe sets 130 using BORUTA to define the limits of the noise in the analysis using a 100-fold permutation of the data (e
+ g
+ 131 first year growth response Figure 7 & Supplemental Table S)
+  132 The core sets of genes with expression in whole blood that can classify response to r-hGH in both GHD and TS 134 Changes in genomic methylation in response to short term treatment with r-hGH (4 days) have been 136 demonstrated in children with range of conditions that manifest short stature ()
+ Using the data provided 137 by this previously published study we examined the epigenome at baseline (prior to r-hGH treatment) in 138 relation to growth response (measured by knemometry) in GHD patients (n=6) and found that using a gene 139 level summary of DNA methylation (20618 genes) 497 had methylation associated with growth response to r-140 hGH (rank regression, p<
+01) (Figure )
+ The majority of associated genes (425/497) were hypermethylated 141 We took the core sets of genes previously identified as classifiers of response to r-hGH in both GHD and TS 143 and mapped gene level methylation present in the six GHD patients with knemometry measurements
+ The 144 majority of genes (57/71) were correlated with growth response (|R|>
+3) these were evenly distributed 145 between positive (n=27/71) and negative (n=30/71) correlations (year one data shown in Figure B)
+ 146 Transcriptomic markers combined with phenotype lead to better growth response prediction  148 It is known that the baseline phenotype of GHD and TS patients can be used to predict response to r-hGH (2, 149 -)
+ We found that including the blood transcriptome markers increased predictive value at each year by 150 an average of 7% (p=
+0031) and 4% (p=
+0365) (prediction of low quartile) along with 4% (p=
+0179) and 4% 151 (p=
+0097) (prediction of high quartile) in GHD and TS respectively (Table S)
+  152 Importantly we also noted a significant decrease of error rate in the prediction of growth response at each 153 year when blood transcriptome markers were combined with clinical phenotype markers
+ Error rates 154 decreased by an average of 5% (p=
+0084) and 5% (p=
+0400) (prediction of low quartile) along with 5% 155 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    (p=
+0252) and 5% (p=
+0067) (prediction of high quartile) in GHD and TS respectively (Table S)
+ The 156 reduction observed amounted to an average halving of the error rate seen when predicting response to r-hGH 157 This study aimed to identify for the first time the genomic associations that classify response to r-hGH therapy 161 from one year up to five years of treatment with r-hGH in children with TS and GHD
+  162 Our previous analysis has shown limited utility of genetic associations derived from a candidate set of growth 163 related genes in the prediction of response to r-hGh in GHD and TS after one year of therapy (5, 7, )
+ Hence 164 genetic data do not appear to be powerful enough on their own to be used in prediction and clinical 165 The whole blood transcriptomic profile of GHD and TS patients has been shown to be associated with first year 167 growth response to r-hGH (7) and to correlate with the interaction between GHRd3 and GHD severity ()
+ We 168 therefore reasoned that there may be value in using transcriptomic data to classify growth response, as it 169 reflects both a childs genetic profile and the complex clinical phenotypes arising from changes in physical 170 development during childhood, as well as variation in the severity of the underlying condition
+ By normalising 171 gene expression for phenotype, including pubertal stage, we were able to show that whole blood 172 transcriptomic data, associated with height velocity at each year of the study, could be used to classify both 173 the low and high quartiles of growth response, with Area under the Curve up to 97%, providing the basis for 174 Little overlap between GHD and TS was observed between the gene expression data that was associated with 176 each year of growth response
+ We therefore investigated whether GHD and TS were interacting with similar 177 functional units of genes using network models ()
+ We generated network models of growth response (as 178 determined by height velocity) at each of the five years of treatment using baseline gene expression
+ 179 Functional modules of genes within these models were ranked according to their network centrality
+ The 180 measure of network centrality is known to be associated with mechanism (27, 28) and we used this measure 181 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    to define the functional hierarchy of the modules of genes whose expression was linked to r-hGH response at 182 We demonstrated robustness of the network modules identified by mapping the genetic associations 184 identified in this study to the network models
+ This process highlighted genes previously identified as 185 associated with growth response after one year of therapy (GRB10, SOS1 and INPPL1 in GHD) (7) along with 186 one month change in serum IGF-I associated with r-hGH therapy (CDK4) ()
+ It was also noted that three 187 genes were present (INPPL1 and SOS1 in GHD and PTPN1 in TS) out of the four genes identified within the 188 PREDICT validation study as having replicated an association with first year growth response when controlled 189 A significant overlap between the core network gene modules between GHD and TS was identified
+ We then 191 used gene expression changes associated with growth response within these network elements to identify 192 genes common to both conditions and show that their expression could be used to classify growth response
+  193 The major strength of this study is to have identified predictive markers and common genomic mechanisms 194 related to early and later growth in two different growth disorders
+ Our findings are also supported by the 195 demonstration of differential methylation in these shared genes, associated with response to r-hGH in another 196 study ()
+ Importantly we have defined sets of gene expression with predictive value in two conditions where 197 the number of genes (1726) is smaller than the number of patients in the group (33-70) [Table S2 & S6]; this 198 indicates that the findings are not a consequence of overfitting ()
+  199 In this study we have compared the use of baseline patient auxology to blood transcriptome in predicting 200 response to r-hGH
+ Linear models based on baseline patient auxology can account for ~40-60% of the variance 201 observed (9, )
+ Using random forest we found no significant difference in the AUC of baseline auxology alone 202 compared to using blood transcriptome alone in either GHD or TS (all ~%)
+ It should be noted that this 203 comparison was with the transcriptome shared between GHD and TS and if the full blood transcriptome is 204 used then the average AUC is significantly higher than that derived from baseline auxology (average AUC ~90% 205 compared to ~%)
+ We recognise that further work would need to be done to refine a smaller number of 206 genes and therefore minimise the risk of overfitting when using the full blood transcriptome
+ However, we did 207 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    identify a significant boost to prediction of between 4% and 7% when the transcriptomic signature shared 208 between GHD and TS was combined with the baseline patient auxology
+ Importantly the gain in prediction was 209 combined with an average halving of the error rate, a feature that represents a major clinical advance in the 210 This work has led to three novel findings relevant to growth studies, and potentially to other therapeutic areas 212 in paediatrics
+ First, this study has demonstrated the utility of whole blood transcriptome in the classification 213 of growth response in GHD and TS, derived from a baseline blood sample which is straightforward to obtain 214 in any child
+ This technique may be of particular use in conditions with marked variability in response to r-hGH 215 such as the short child born small for gestational age
+ Second, network analysis provides a novel approach that 216 can be used to identify genomic features that are likely to have high predictive value
+ Finally, a set of common 217 genes in GHD and TS identified by a network approach can be used to classify growth response in both 218 conditions, providing the opportunity to develop a test to inform clinical management
+ 219 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    The PREDICT Long Term Follow up study (multicentre, open-label, prospective, phase IV) and the 237 pharmacogenetics of the first year of r-hGH treatment have been described extensively previously (7, )
+ 238 Briefly, pre-pubertal children with GHD and TS were enrolled
+ A diagnosis of GHD was reached following two 239 pharmacological stimulation tests with a peak GH concentration of < g/L
+ Prior to enrolment in the study 240 none of the children had received GH therapy
+ Children with GHD due to central nervous system tumours or 241 radiotherapy were excluded but children born small for gestational age were not
+ The diagnosis of TS was 242 This PREDICT study was conducted in compliance with ethical principles based on the Declaration of Helsinki, 244 the International Conference on Harmonization Tripartite Guideline for Good Clinical Practice, and all 245 A total of 1219 genetic markers were used in the analysis, 1217 Illumina-genotyped single nucleotide 249 polymorphisms (SNPs) corresponding to a candidate list of 103 genes and 2 TaqMan-genotyped SNPs in the 250 IGFBP3 promoter
+ All genes selected are known to be involved in growth regulation and GH action as 251 A Kruskal-Wallis rank sum test was applied on the following 3 genetic models a) genotypic (AA, AB, BB); b) 253 dominant (AA/AB+BB) and; c) recessive (AA+AB/BB)
+ For non-pseudoautosomal X chromosome markers, GHD 254 boys and TS girls were analysed as having only two homozygote categories (AA/BB)
+ Adjustment for multiple 255 testing was performed using Bonferroni correction with 2 different parameters as the number of independent 256 tests, the number of Linkage Disequilibrium (LD) blocks in the gene in which the SNP is contained and the total 257 number of LD blocks present in all genes (768 in GHD and 563 in TS)
+ Filtering criterion for prediction were 258 defined as a false discovery rate [FDR] modified p-value <
+05 unmodified for linkage disequilibrium blocks
+ 259 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    Transcriptomic profiling was carried out on whole blood RNA as described previously (7) using Affymetrix 262 GeneChip Human Genome U133 plus 
+0 Arrays
+ For background correction, the Robust Multichip Average 263 (RMA) was applied with quantile normalisation and a mean probe set summarisation using Qlucore Omics 264 Explorer 
+3 (Qlucore, Lund, Sweden)
+ The data set generated was subject to quality control to investigate the 265 Baseline gene expression associations with height velocity in each year of growth response were determined 267 using rank regression with microarray batch, age, body mass index (BMI) at baseline as covariates for both 268 GHD and TS patients along with gender and peak GH test response (average of two provocative tests) for the 269 GHD patients
+ Over the study a number of children either entered puberty spontaneously or received 270 exogenous sex steroids for pubertal induction
+ We therefore introduced a further normalisation for Tanner 271 stage to the analysis to account for the proportion of children entering puberty in each year of the study
+ 272 Network analysis allows the identification and prioritisation of key functional elements within interactome 275 models
+ To derive an interactome model differentially expressed genes were used as seeds and all known 276 protein:protein interactions between the seeds and their inferred immediate neighbours were calculated to 277 generate a biological network using the output of the Biogrid model of the human Interactome (
+ 
+ )()
+ 278 Network generation and processing was performed using Cytoscape 
+ 
+ ()
+  279 Clustering and community structure of modules within biological networks arise from variation in 282 connectivity within the network and are known to be associated with function (27, )
+ To rank these 283 functional components within interactome models we used the ModuLand plugin for Cytoscape 
+ 
+3 to 284 determine overlapping modules and to identify hierarchical structure using the centrality property thus 285 enabling the identification of key network elements ()
+ The central core unit of each network module 286 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    (metanode) was defined as the ten most central genes
+ A list of the unique genes in each metanode was 287 generated and used as a model of the functional core of the associated network for further comparison
+ 288 Network topology was analysed using the CytoHubba plugin for Cytoscape ()
+ The String database was used 289 to assess the integrity and connectivity of gene modules ()
+ 290 Epigenomic data from the whole genome DNA previously published methylation profiles of six GHD patients 293 was used to assess the relationship of changes in DNA methylation in relation to response to r-hGH ()
+ The 294 data from GSE57107 was re-analysed in Qlucore Omics Explorer 
+3 and a median based gene level summary 295 of methylation was determined (n=)
+ The relationship between gene level DNA methylation and 296 All analysis was performed using the statistical software R 
+ 
+2 ()
+ The relationship of baseline gene 300 expression to potential predictive value (classification of low and high quartiles of response) was performed 301 using Discriminant Analysis of Principal Components (DAPC) (39), Partial Least Squares Discriminant Analysis 302 (PLS-DA) (mixOmics 
+ 
+1 R package (40)) and random forest with 1000 trees ()
+ Class size imbalance was 303 corrected for using Synthetic Minority Oversampling Technique (SMOTE) ()
+ Feature selection from random 304 forest data was performed using the BORUTA algorithm ()
+ The area under the curve of the receiver 305 operating characteristic (AUC) was used to present the probability of a randomly selected sample being 306 In random forests about one third of the cases are left out of each iteration and can be used as a test set to 308 perform cross-validation and to get an unbiased estimate of the test set error, the out of bag (oob) error 309 estimate
+ The oob error estimate is recognised as being unbiased ()
+ 310 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    We used random forest to investigate whether blood transcriptomic data from GHD and TS patients provided 311 additional value for prediction of response to r-hGH based on baseline patient auxology (age, weight SDS, 312 birthweight SDS and distance to target height SDS in both TS and GHD with the addition of peak GH value for 313 GH provocation test in GHD)
+ These analyses were performed by defining the predictive value of baseline 314 clinical phenotype alone and these data were then compared to baseline clinical phenotype in addition to 315 Analyses were performed to determine genetic associations with response to r-hGH using the Kruskal-Wallis 319 rank-sum test with Bonferroni corrections for false discovery rate (FDR)
+ 320 Transcriptomic data was subjected to dimensional scaling using Principal Components Analysis (PCA) and Iso-321 map multidimensional scaling (MDS) (44) and used to demonstrate data homogeneity (Qlucore Omics Explorer 322 
+3) along with outliers using cross-validation
+ Unsupervised analysis of transcriptome data was performed 323 using a projection score to select optimal variable subsets by variance filtering ()
+ 324 Transcriptomic associations with response to r-hGH were performed using rank regression (p<
+01) and 325 modified for the listed covariates
+ This was done by fitting a linear model with the factors to be eliminated as 326 predictors, and retaining only the residuals (i
+ e
+ subtracting the part explained by the predictors)
+ When a 327 nominal factor was used as covariate (such as gender), this is equivalent to mean-centring each variable over 328 The significance of gene set overlaps derived from the network analysis was determined using the 330 hypergeometric test
+ Analyses were performed in the stated software or using R ()
+ 331 The PREDICT (NCT00256126) and PREDICT long-term follow-up (NCT00699855) studies were approved by the 334 Scotland Medical Research and Ethics Committee (reference 05/MRE10/61) and the North West Research 335 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    Ethics Committee (reference 08/H1010/77), respectively
+ Informed consent was obtained from parents for all 336 Supplemental Table SA
+ Association of SNPs with growth response endpoints in GHD and TS
+ 341 Supplemental Table SB-D
+ Gene level single nucleotide polymorphism (SNP) associations with growth 342 response endpoints in growth hormone deficiency (GHD) and Turner syndrome (TS)
+ 343 Supplemental Table S
+ Transcriptomic associations with height velocity growth response endpoints at each 344 Supplemental Table S
+ Predictive value of whole blood gene expression associated with response to 346 recombinant human growth hormone (r-hGH) in patients with growth hormone deficiency (GHD) and Turner 347 Supplemental Table S
+ Interactome models of transcriptomic data associated with height velocity growth 349 Supplemental Table S
+ Gene level SNP associations mapped to network properties of the interactome models 351 Supplemental Table S
+ Predictive value of an identical set of blood gene expression markers identified by 353 network analysis in the classification of response to recombinant human growth hormone (r-hGH) in patients 354 Supplemental Table S
+ Overlap between GHD and TS interactome models at each year of therapy with r-356 Supplemental Table S
+ Comparison of the prediction of growth response using clinical phenotype with and 358 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    
+ National Institute for Health and Care Excellence (NICE), Human growth hormone (somatropin) for the 363 
+ M
+ B
+ Ranke, A
+ Lindberg, M
+ Brosz, S
+ Kaspers, J
+ Loftus, H
+ Wollmann, M
+ Koltowska-Haggstrom, M
+ Roelants, 365 Accurate long-term prediction of height during the first four years of growth hormone treatment in 366 prepubertal children with growth hormone deficiency or Turner Syndrome
+ Horm Res Paediatr 78, 8-17 ()
+ 367 
+ A
+ Stevens, C
+ De Leonibus, D
+ Hanson, A
+ Whatmore, P
+ Murray, R
+ Donn, S
+ Meyer, P
+ Chatelain, P
+ Clayton, 368 
+ A
+ Stevens, C
+ De Leonibus, A
+ Whatmore, D
+ Hanson, P
+ Murray, P
+ Chatelain, M
+ Westwood, P
+ Clayton, 370 Pharmacogenomics related to growth disorders
+ Horm Res Paediatr 80, 477-490 ()
+ 371 
+ A
+ Stevens, P
+ Murray, J
+ Wojcik, J
+ Raelson, E
+ Koledova, P
+ Chatelain, P
+ Clayton, P
+ I
+ Group, Validating genetic 372 markers of response to recombinant human growth hormone in children with growth hormone deficiency and 373 Turner syndrome: the PREDICT validation study
+ Eur J Endocrinol 175, 633-643 ()
+ 374 
+ C
+ De Leonibus, P
+ Chatelain, C
+ Knight, P
+ Clayton, A
+ Stevens, Effect of summer daylight exposure and genetic 375 background on growth in growth hormone-deficient children
+ Pharmacogenomics J 16, 540-550 ()
+ 376 
+ P
+ Clayton, P
+ Chatelain, L
+ Tato, H
+ W
+ Yoo, G
+ R
+ Ambler, A
+ Belgorosky, S
+ Quinteiro, C
+ Deal, A
+ Stevens, J
+ 377 Raelson, P
+ Croteau, B
+ Destenaves, C
+ Olivier, A pharmacogenomic approach to the treatment of children with 378 GH deficiency or Turner syndrome
+ Eur J Endocrinol 169, 277-289 ()
+ 379 
+ A
+ Stevens, D
+ Hanson, A
+ Whatmore, B
+ Destenaves, P
+ Chatelain, P
+ Clayton, Human growth is associated with 380 distinct patterns of gene expression in evolutionarily conserved networks
+ BMC Genomics 14, 547 ()
+ 381 
+ M
+ B
+ Ranke, A
+ Lindberg, P
+ Chatelain, P
+ Wilton, W
+ Cutfield, K
+ Albertsson-Wikland, D
+ A
+ Price, Derivation and 382 validation of a mathematical model for predicting the response to exogenous recombinant human growth 383 hormone (GH) in prepubertal children with idiopathic GH deficiency
+ KIGS International Board
+ Kabi Pharmacia 384 International Growth Study
+ The Journal of Clinical Endocrinology and Metabolism 84, 1174-1183 ()
+ 385 
+ M
+ B
+ Ranke, A
+ Lindberg, P
+ Chatelain, P
+ Wilton, W
+ Cutfield, K
+ Albertsson-Wikland, D
+ A
+ Price, Prediction of 386 long-term response to recombinant human growth hormone in Turner syndrome: development and validation 387 of mathematical models
+ KIGS International Board
+ Kabi International Growth Study
+ The Journal of Clinical 388 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    
+ M
+ B
+ Ranke, A
+ Lindberg, P
+ Chatelain, P
+ Wilton, W
+ Cutfield, K
+ Albertsson-Wikland, D
+ A
+ Price, Predicting the 390 response to recombinant human growth hormone in Turner syndrome: KIGS models
+ KIGS International Board
+ 391 Kabi International Growth Study
+ Acta Paediatr Suppl 88, 122-125 ()
+ 392 
+ A
+ Stevens, C
+ Bonshek, A
+ Whatmore, I
+ Butcher, D
+ Hanson, C
+ De Leonibus, G
+ Shaikh, M
+ Brown, E
+ O'Shea, S
+ 393 Victor, P
+ Powell, P
+ Settle, B
+ Padmakumar, A
+ Tan, E
+ Odeka, C
+ Cooper, J
+ Birch, A
+ Shenoy, M
+ Westwood, L
+ 394 Patel, B
+ W
+ Dunn, P
+ Clayton, Insights into the pathophysiology of catch-up compared with non-catch-up 395 growth in children born small for gestational age: an integrated analysis of metabolic and transcriptomic data
+ 396 
+ C
+ De Leonibus, P
+ Chatelain, C
+ Knight, P
+ Clayton, A
+ Stevens, Effect of summer daylight exposure and genetic 398 background on growth in growth hormone-deficient children
+ Pharmacogenomics J,  ()
+ 399 
+ T
+ Gerber, E
+ Willscher, H
+ Loeffler-Wirth, L
+ Hopp, D
+ Schadendorf, M
+ Schartl, U
+ Anderegg, G
+ Camp, B
+ 400 Treutlein, H
+ Binder, M
+ Kunz, Mapping heterogeneity in patient-derived melanoma cultures by single-cell RNA-401 
+ M
+ Grigoroiu, R
+ Tagett, S
+ Draghici, S
+ Dima, A
+ Nastase, R
+ Florea, A
+ Sorop, V
+ Ilie, N
+ Bacalbasa, V
+ Tica, V
+ 403 Laszlo, A
+ Mansuet-Lupo, D
+ Damotte, W
+ Klepetko, I
+ Popescu, J
+ F
+ Regnard, Gene-expression Profiling in Non-404 small Cell Lung Cancer with Invasion of Mediastinal Lymph Nodes for Prognosis Evaluation
+ Cancer Genomics & 405 
+ F
+ M
+ G
+ Cavalli, M
+ Remke, L
+ Rampasek, J
+ Peacock, D
+ J
+ H
+ Shih, B
+ Luu, L
+ Garzia, J
+ Torchia, C
+ Nor, A
+ S
+ 407 Morrissy, S
+ Agnihotri, Y
+ Y
+ Thompson, C
+ M
+ Kuzan-Fischer, H
+ Farooq, K
+ Isaev, C
+ Daniels, B
+ K
+ Cho, S
+ K
+ Kim, 408 K
+ C
+ Wang, J
+ Y
+ Lee, W
+ A
+ Grajkowska, M
+ Perek-Polnik, A
+ Vasiljevic, C
+ Faure-Conter, A
+ Jouvet, C
+ Giannini, A
+ 409 A
+ Nageswara Rao, K
+ K
+ W
+ Li, H
+ K
+ Ng, C
+ G
+ Eberhart, I
+ F
+ Pollack, R
+ L
+ Hamilton, G
+ Y
+ Gillespie, J
+ M
+ Olson, S
+ 410 Leary, W
+ A
+ Weiss, B
+ Lach, L
+ B
+ Chambless, R
+ C
+ Thompson, M
+ K
+ Cooper, R
+ Vibhakar, P
+ Hauser, M
+ C
+ van 411 Veelen, J
+ M
+ Kros, P
+ J
+ French, Y
+ S
+ Ra, T
+ Kumabe, E
+ Lopez-Aguilar, K
+ Zitterbart, J
+ Sterba, G
+ Finocchiaro, M
+ 412 Massimino, E
+ G
+ Van Meir, S
+ Osuka, T
+ Shofuda, A
+ Klekner, M
+ Zollo, J
+ R
+ Leonard, J
+ B
+ Rubin, N
+ Jabado, S
+ 413 Albrecht, J
+ Mora, T
+ E
+ Van Meter, S
+ Jung, A
+ S
+ Moore, A
+ R
+ Hallahan, J
+ A
+ Chan, D
+ P
+ C
+ Tirapelli, C
+ G
+ 414 Carlotti, M
+ Fouladi, J
+ Pimentel, C
+ C
+ Faria, A
+ G
+ Saad, L
+ Massimi, L
+ M
+ Liau, H
+ Wheeler, H
+ Nakamura, S
+ K
+ 415 Elbabaa, M
+ Perezpena-Diazconti, F
+ Chico Ponce de Leon, S
+ Robinson, M
+ Zapotocky, A
+ Lassaletta, A
+ Huang, 416 C
+ E
+ Hawkins, U
+ Tabori, E
+ Bouffet, U
+ Bartels, P
+ B
+ Dirks, J
+ T
+ Rutka, G
+ D
+ Bader, J
+ Reimand, A
+ Goldenberg, 417 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    V
+ Ramaswamy, M
+ D
+ Taylor, Intertumoral Heterogeneity within Medulloblastoma Subgroups
+ Cancer Cell 31, 418 
+ M
+ Bhutani, Q
+ Zhang, R
+ Friend, P
+ M
+ Voorhees, L
+ J
+ Druhan, B
+ Barlogie, P
+ Sonneveld, G
+ J
+ Morgan, J
+ T
+ 420 Symanowski, B
+ R
+ Avalos, E
+ A
+ Copelan, S
+ Z
+ Usmani, Investigation of a gene signature to predict response to 421 immunomodulatory derivatives for patients with multiple myeloma: an exploratory, retrospective study using 422 microarray datasets from prospective clinical trials
+ The Lancet
+ Haematology 4, e443-e451 ()
+ 423 
+ H
+ F
+ M
+ Kamel, H
+ Al-Amodi, Exploitation of Gene Expression and Cancer Biomarkers in Paving the Path to Era 424 
+ M
+ B
+ Ranke, A
+ Lindberg, Predicting growth in response to growth hormone treatment
+ Growth Horm IGF Res 426 
+ Y
+ Tuo, N
+ An, M
+ Zhang, Feature genes in metastatic breast cancer identified by MetaDE and SVM classifier 428 
+ J
+ Kolarova, O
+ Ammerpohl, J
+ Gutwein, M
+ Welzel, I
+ Baus, F
+ G
+ Riepe, T
+ Eggermann, A
+ Caliebe, P
+ M
+ 430 Holterhus, R
+ Siebert, S
+ Bens, In vivo investigations of the effect of short- and long-term recombinant growth 431 hormone treatment on DNA-methylation in humans
+ PLoS One 10, e0120463 ()
+ 432 
+ M
+ B
+ Ranke, J
+ M
+ Wit, Growth hormone - past, present and future
+ Nat Rev Endocrinol 14, 285-300 ()
+ 433 
+ J
+ M
+ Wit, M
+ B
+ Ranke, K
+ Albertsson-Wikland, A
+ Carrascosa, R
+ G
+ Rosenfeld, S
+ Van Buuren, B
+ Kristrom, E
+ 434 Schoenau, L
+ Audi, A
+ C
+ Hokken-Koelega, P
+ Bang, H
+ Jung, W
+ F
+ Blum, L
+ A
+ Silverman, P
+ Cohen, S
+ Cianfarani, 435 C
+ Deal, P
+ E
+ Clayton, L
+ de Graaff, J
+ Dahlgren, J
+ Kleintjens, M
+ Roelants, Personalized approach to growth 436 hormone treatment: clinical use of growth prediction models
+ Horm Res Paediatr 79, 257-270 ()
+ 437 
+ M
+ B
+ Ranke, R
+ Schweizer, D
+ D
+ Martin, S
+ Ehehalt, C
+ P
+ Schwarze, F
+ Serra, G
+ Binder, Analyses from a centre 438 of short- and long-term growth in Turner's syndrome on standard growth hormone doses confirm growth 439 prediction algorithms and show normal IGF-I levels
+ Horm Res Paediatr 77, 214-221 ()
+ 440 
+ A
+ Valsesia, P
+ Chatelain, A
+ Stevens, V
+ A
+ Peterkova, A
+ Belgorosky, M
+ Maghnie, F
+ Antoniazzi, E
+ Koledova, J
+ 441 Wojcik, P
+ Farmer, B
+ Destenaves, P
+ Clayton, P
+ I
+ group, GH deficiency status combined with GH receptor 442 polymorphism affects response to GH in children
+ Eur J Endocrinol 173, 777-789 ()
+ 443 
+ A
+ Stevens, C
+ De Leonibus, D
+ Hanson, A
+ W
+ Dowsey, A
+ Whatmore, S
+ Meyer, R
+ P
+ Donn, P
+ Chatelain, I
+ 444 Banerjee, K
+ E
+ Cosgrove, P
+ E
+ Clayton, M
+ J
+ Dunne, Network analysis: a new approach to study endocrine 445 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    
+ J
+ Sun, Z
+ Zhao, A comparative study of cancer proteins in the human protein-protein interaction network
+ BMC 447 
+ I
+ A
+ Kovacs, R
+ Palotai, M
+ S
+ Szalay, P
+ Csermely, Community landscapes: an integrative approach to determine 449 overlapping network module hierarchy, identify key nodes and predict network dynamics
+ PLoS One 5,  ()
+ 450 
+ A
+ Stevens, P
+ Clayton, L
+ Tato, H
+ W
+ Yoo, M
+ D
+ Rodriguez-Arnao, J
+ Skorodok, G
+ R
+ Ambler, M
+ Zignani, J
+ 451 Zieschang, G
+ Della Corte, B
+ Destenaves, A
+ Champigneulle, J
+ Raelson, P
+ Chatelain, Pharmacogenomics of 452 insulin-like growth factor-I generation during GH treatment in children with GH deficiency or Turner syndrome
+ 453 
+ J
+ Kolarova, O
+ Ammerpohl, J
+ Gutwein, M
+ Welzel, I
+ Baus, F
+ G
+ Riepe, T
+ Eggermann, A
+ Caliebe, P
+ -M
+ 455 Holterhus, R
+ Siebert, S
+ Bens, In vivo Investigations of the Effect of Short- and Long-Term Recombinant Growth 456 Hormone Treatment on DNA-Methylation in Humans
+ PLOS ONE 10, e0120463 ()
+ 457 
+ D
+ Chicco, Ten quick tips for machine learning in computational biology
+ BioData Min 10, 35 ()
+ 458 
+ A
+ Chatr-Aryamontri, B
+ J
+ Breitkreutz, R
+ Oughtred, L
+ Boucher, S
+ Heinicke, D
+ Chen, C
+ Stark, A
+ Breitkreutz, N
+ 459 Kolas, L
+ O'Donnell, T
+ Reguly, J
+ Nixon, L
+ Ramage, A
+ Winter, A
+ Sellam, C
+ Chang, J
+ Hirschman, C
+ Theesfeld, J
+ 460 Rust, M
+ S
+ Livstone, K
+ Dolinski, M
+ Tyers, The BioGRID interaction database: 2015 update
+ Nucleic Acids Res 461 
+ M
+ E
+ Smoot, K
+ Ono, J
+ Ruscheinski, P
+ L
+ Wang, T
+ Ideker, Cytoscape 
+8: new features for data integration and 463 
+ H
+ Yu, P
+ M
+ Kim, E
+ Sprecher, V
+ Trifonov, M
+ Gerstein, The importance of bottlenecks in protein networks: 465 correlation with gene essentiality and expression dynamics
+ PLoS Comput Biol 3, e59 ()
+ 466 
+ M
+ Szalay-Beko, R
+ Palotai, B
+ Szappanos, I
+ A
+ Kovacs, B
+ Papp, P
+ Csermely, ModuLand plug-in for Cytoscape: 467 determination of hierarchical layers of overlapping network modules and community centrality
+ Bioinformatics 468 
+ C
+ H
+ Chin, S
+ H
+ Chen, H
+ H
+ Wu, C
+ W
+ Ho, M
+ T
+ Ko, C
+ Y
+ Lin, cytoHubba: identifying hub objects and sub-470 networks from complex interactome
+ BMC Syst Biol 8 Suppl 4, S11 ()
+ 471 
+ D
+ Szklarczyk, A
+ Franceschini, S
+ Wyder, K
+ Forslund, D
+ Heller, J
+ Huerta-Cepas, M
+ Simonovic, A
+ Roth, A
+ 472 Santos, K
+ P
+ Tsafou, M
+ Kuhn, P
+ Bork, L
+ J
+ Jensen, C
+ von Mering, STRING v10: protein-protein interaction 473 networks, integrated over the tree of life
+ Nucleic Acids Res 43, D447-452 ()
+ 474 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    
+ RCoreTeam, R: A language and environment for statistical computing
+ R Foundation for Statistical Computing, 475 
+ T
+ Jombart, S
+ Devillard, F
+ Balloux, Discriminant analysis of principal components: a new method for the 477 analysis of genetically structured populations
+ BMC Genet 11, 94 ()
+ 478 
+ F
+ Rohart, B
+ Gautier, A
+ Singh, K
+ A
+ Le Cao, mixOmics: An R package for 'omics feature selection and multiple 479 
+ A
+ W
+ Liaw, M
+, Classification and Regression by randomForest
+ R News 2, 18-22 ()
+ 481 
+ N
+ V
+ Chawla, K
+ W
+ Bowyer, L
+ O
+ Hall, W
+ P
+ Kegelmeyer, SMOTE: Synthetic minority over-sampling technique
+ 482 
+ M
+ B
+ Kursa, W
+ R
+ Rudnicki, Feature Selection with the Boruta Package
+ J Stat Softw 36, 1-13 ()
+ 484 
+ J
+ Nilsson, T
+ Fioretos, M
+ Hoglund, M
+ Fontes, Approximate geodesic distances reveal biologically relevant 485 structures in microarray data
+ Bioinformatics (Oxford, England) 20, 874-880 ()
+ 486 
+ M
+ Fontes, C
+ Soneson, The projection score--an evaluation criterion for variable subset selection in PCA 487 The following were PREDICT local centre principal investigators who enrolled patients into the study: 490 Yang, S-W; Yoo, H-W; Wang, T-J; Cabrol, S; Weill, J; Pfaeffle, R; Antoniazzi, F; Pilotta, A; Veimo, D; Peterkova, 491 V; Ferrandez Longas, A; Gonzalez, I; Quinteiro, S; Rodriguez Arnao, M; Bath, L; Colle, M; Brusquet, Y
+ 492 PEC and PC conceived and designed the PREDICT project and this study
+ Data analysis and methodology 494 development were undertaken by AS, PGM, TG and CDL
+ The manuscript was written by AS and PGM and 495 revised by EK, PC, and PEC
+ EK, GA, JH, KK, JPS, GB, MM, SZ, EB, JS, DY, AB, JPLS, RC, EVH, LH, JD, CD all 496 contributed to the clinical data analysis
+ All authors reviewed the final manuscript
+ 497 AS and PM have received speaker honoraria from Merck KGaA, Darmstadt, Germany
+ PCh has received 499 investigator research support, consultant and speaker honoraria from Merck KGaA, Darmstadt, Germany
+ PCl 500 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    had received research investigator support and speaker honoraria from Merck KGaA, Darmstadt, Germany
+ EK 501 All transcriptomic data will be available from Gene Expression Omnibus (GEO) and is currently in submission
+ 504 Most of the GHD patient transcriptomic data is already available from GEO - GSE
+ 505 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    Table 
+ Patient characteristics
+ A) Growth response endpoints used over the duration of the study and B) 529 baseline auxology for patients with growth hormone deficiency (GHD) and Turner Syndrome treated with 530 HV2 
+0 (
+1)    
+1 (
+3, 
+0)    31 Height velocity (HV) at each year of therapy (cm/year), min = minimum value, max = maximum value, N = sample size (data were not available on all children at each year after the first year) Data are n (%) or median (Quartile 1, Quartile )
+ *All were Tanner Stage 1 at baseline
+ BMI, body mass index; GH, growth hormone; GHD, growth hormone deficiency; TS, Turner syndrome; MPH, not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    Figure 
+ The association of whole blood gene expression at baseline with response to recombinant human 533 growth hormone (r-hGH) over all five years of therapy in patients with growth hormone deficiency (GHD) 534 and Turner syndrome (TS)
+ Comparison of patient response to r-hGH using Discriminant Analysis of Principal 535 Components (DAPC)
+ Low quartile (green, LoQ) and high quartile (red, HiQ) of growth response over five years 536 of therapy (cms grown) compared to the remaining patients (orange) in GHD (N= 50) and TS (N=)
+ 537 Unsupervised transcriptomic data with no normalisation for phenotype are shown, GHD = 8875 & TS = 8455 538 gene probesets
+ DAPC generates a discriminant function, a synthetic variable that optimises the variation 539 between the groups whilst minimising the variation within a group
+ The frequency of the discriminant function 540 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;     Figure 
+ Whole blood gene expression is associated with response to recombinant human growth hormone 543 (r-hGH) over five years of therapy in patients with growth hormone deficiency (GHD) and Turner syndrome 544 (TS)
+ Partial least squares discriminant analysis (PLS-DA) of unsupervised transcriptome using three 545 components
+ The low and high quartiles of growth response are shown for response to r-hGH (cm) over five 546 years in A) GHD and B) TS
+ Star plot shows sample distance from the centroid, the arithmetic mean position 547 Low Quartile (
+) v Rest (
+) High Quartile (
+) v Rest (
+)Low Quartile (
+) v Rest (
+) High Quartile (
+) v Rest (
+)not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    Figure 
+ Distribution of Tanner stages over the study duration
+ Heat map of the Tanner stage of each patient 551 (row) ordered by age (youngest at top)
+ Y = year of study
+ 552 Baseline Y1 Y2 Y3 Y4 Y5 Baseline Y1 Y2 Y3 Y4 Ynot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    Figure 
+ Predictive value of whole blood gene expression associated with response to recombinant human 568 growth hormone (r-hGH) in patients with growth hormone deficiency (GHD)
+ Classification of low quartile 569 (LoQ) and high quartile (HiQ) of growth response (height velocity, cm/year) over each of five years of therapy 570 with r-hGH (Y1-Y5) was performed in GHD patients and TS patients
+ Gene expression associated with growth 571 response was determined using rank regression (p<
+01) and Partial least squares discriminant analysis (PLS-572 DA) with two components (X-variate 1 & 2) was used to visualise response groups; PLS-DA is an analytical 573 approach that determines the similarity between individual patients whilst maximising the difference between 574 patient groups
+ Low quartile (green) and high quartile (red) compared to the rest of the data (orange) is shown 575 for first year growth response to r-hGH in GHD (N = 71, 330 gene probesets with rank regression p<
+ )
+ 576 Similarity between samples is represented by their proximity
+ The star plot shows sample distance from the 577 centroid, the arithmetic mean position of all the points in each group
+  578 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    Figure 
+ Overlap of the core interactome models of height velocity related gene expression in GHD and TS
+ 580 Interactome models were generated from the gene expression associated (p<
+01) with the height velocity at 581 each year of the study
+ The functional hierarchy of gene interaction modules within the interactome models 582 was determined using the Moduland algorithm and the core of the interactome model was defined as the 583 unique sum of the top ten elements of the modules as ranked by network centrality
+ The overlap of the core 584 of the interactome models between GHD and TS was then determined and visualised as a Venn diagram
+ 585 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    Figure 
+ Predictive value of an identical set of blood gene expression markers identified by network analysis 620 in the classification of response to recombinant human growth hormone (r-hGH) in patients with growth 621 hormone deficiency (GHD) and Turner syndrome (TS)
+ First year growth response is used as an example
+ 622 Similarities in the interactome models of the response of GHD and TS to r-hGH were identified by overlap at 623 each year of therapy
+ Genes were selected that were significantly related to growth response in either or both 624 GHD and TS, generating an identical set of gene probesets used for prediction of both high and low response 625 in both GHD and TS
+ BORUTA, an all relevant feature selection wrapper random forest based algorithm, was 626 used to confirm the importance of gene expression probe-sets used for classification of response to r-hGH
+ 627 The BORUTA algorithm uses a 100-fold permutation to define the noise present in the data; the noise is 628 modelled as shadow variables and used as a basis to assess confidence in the data
+ Green = confirmed gene 629 probeset, yellow = tentative gene probeset, red = rejected gene probeset, blue = shadow variables (high, 630 medium and low shadow variables are derived to define the noise within the dataset)
+ Low quartile (left 631 column- LoQ) and high quartile (right column- HiQ) are shown for first year growth response to r-hGH in GHD 632 and TS
+ The same group of gene probesets are used in each case
+ 633 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    Figure 
+ Gene level summary of DNA methylation in GHD patients is related to growth response as 644 measured by Knemometry
+ Whole epigenome measurements of six GHD patients with growth response after 645 4 days of r-hGH therapy measured by knemometry were available from previously published data (GSE)
+ 646 A gene level summary of DNA methylation was conducted using median values in Qlucore Omics Explorer 647 (version 
+3) (n=)
+ A) Rank regression of whole genome DNA methylation against growth response after 648 4 days of r-hGH as measured by knemometry (p<
+01) found 497 genes with differential methylation the 649 majority of which showed increased methylation at low rates of growth (negative correlation)
+ B) Whole 650 genome methylation in the six GHD patients ordered by growth response in the sets of genes identified as 651 predicting response to r-hGH in the first year of therapy in both GHD and TS
+ 652 not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this  (which wasthis version posted May 17, 
+ ;    

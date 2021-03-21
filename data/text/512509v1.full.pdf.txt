@@ -1,0 +1,777 @@
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;       Age, mean (range) 24 (15-43) 24 (15-43) 24 (15-41) 24 (15-60) 25 (15-44) 24 (15-45) 24 (-)   Years of education, mean (range) 6 (0-15) 6 (0-14) 6 (0-17) 6 (0-16) 6 (0-14) 6 (0-16) 6 (-)   Years of education, mean (range) 5 (0-16) 5 (0-16) 5 (0-17) 5 (0-16) 5 (0-16) 5 (0-16) 5 (-)   Works in agriculture, % (n) 
+4 (292) 
+5 (173) 
+7 (168) 
+5 (202) 
+0 (162) 
+6 (165) 
+2 ()   Number of persons, mean (range) 5 (2-17) 5 (2-23) 5 (2-17) 5 (2-22) 5 (1-14) 5 (2-18) 5 (-)   Has electricity, % (n) 
+9 (538) 
+7 (345) 
+5 (331) 
+7 (322) 
+1 (330) 
+3 (301) 
+6 ()   Has a cement floor, % (n) 
+0 (93) 
+0 (66) 
+1 (66) 
+0 (43) 
+7 (56) 
+6 (42) 
+1 ()   Acres of agricultural land owned, mean (range) 
+1 (
+ -
+5) 
+1 (
+ -
+4) 
+1 (
+ -
+2) 
+1 (
+ -
+6) 
+2 (
+ -
+1) 
+2 (
+ -
+8) 
+2 (
+ -
+)   Shallow tubewell primary water source, % (n) 
+5 (711) 
+5 (404) 
+1 (411) 
+3 (379) 
+0 (413) 
+2 (369) 
+0 ()   Stored water observed at home, % (n) 
+6 (433) 
+1 (281) 
+4 (259) 
+8 (263) 
+5 (217) 
+8 (205) 
+0 ()   Reported treating water yesterday, % (n) 
+3 (3) 
+2 (1) 
+0 (0) 
+2 (1) 
+0 (0) 
+0 (0) 
+4 ()      Adult men 
+2 (67) 
+3 (29) 
+6 (36) 
+8 (53) 
+5 (34) 
+3 (36) 
+5 ()      Adult women 
+7 (44) 
+6 (14) 
+2 (23) 
+2 (28) 
+0 (21) 
+30 (26) 
+8 ()      Children: 8-<15 years (N=1743) 
+2 (38) 
+5 (21) 
+9 (22) 
+5 (37) 
+3 (19) 
+3 (17) 
+5 ()      Children: 3-<8 years (N=2179) 
+0 (197) 
+0 (111) 
+2 (109) 
+7 (110) 
+5 (99) 
+1 (85) 
+3 ()      Children: 0-<3 years (N=848) 
+5 (157) 
+6 (89) 
+1 (86) 
+5 (100) 
+0 (92) 
+5 (85) 
+6 ()      Owned 
+4 (496) 
+9 (291) 
+4 (292) 
+6 (294) 
+0 (277) 
+2 (266) 
+1 ()      Concete slab 
+4 (840) 
+7 (510) 
+3 (483) 
+6 (483) 
+1 (471) 
+0 (440) 
+3 ()      Functional water seal 
+3 (235) 
+4 (145) 
+0 (142) 
+4 (137) 
+0 (110) 
+5 (130) 
+6 ()      Visible stool on slab or floor 
+6 (451) 
+9 (247) 
+8 (245) 
+8 (236) 
+6 (275) 
+2 (227) 
+3 ()   Owned a potty, % (n) 
+4 (32) 
+8 (21) 
+8 (21) 
+0 (27) 
+6 (19) 
+3 (26) 
+8 ()      House 
+0 (84) 
+6 (53) 
+7 (42) 
+6 (57) 
+1 (37) 
+1 (35) 
+9 ()      Child's play area 
+4 (13) 
+1 (6) 
+9 (5) 
+1 (6) 
+8 (4) 
+6 (3) 
+2 ()      Water 
+8 (119) 
+0 (66) 
+9 (65) 
+5 (46) 
+2 (43) 
+6 (42) 
+7 ()      Soap 
+5 (51) 
+9 (38) 
+5 (41) 
+8 (26) 
+6 (24) 
+5 (22) 
+9 ()      Water 
+5 (79) 
+6 (36) 
+3 (40) 
+8 (31) 
+2 (43) 
+1 (45) 
+8 ()      Soap 
+4 (22) 
+2 (12) 
+0 (11) 
+0 (11) 
+1 (11) 
+9 (19) 
+3 ()certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    All observations Index children a Other children in index household b Children in non-index households cN Prev Prevalence ratio N Prev Prevalence ratio N Prev Prevalence ratio N Prev Prevalence ratioWater 971 
+8% 
+97 (
+86, 
+11) 522 
+0% 
+89 (
+74, 
+07) 325 
+4% 
+98 (
+82, 
+18) 124 
+2% 
+22 (
+91, 
+)Sanitation 972 
+9% 
+98 (
+88, 
+09) 525 
+3% 
+97 (
+83, 
+13) 327 
+8% 
+98 (
+84, 
+13) 120 
+7% 
+96 (
+73, 
+)Handwashing 977 
+5% 
+10 (
+98, 
+24) 513 
+5% 
+16 (
+97, 
+40) 322 
+7% 
+05 (
+89, 
+23) 142 
+7% 
+05 (
+80, 
+)WSH 941 
+3% 
+93 (
+83, 
+05) 496 
+8% 
+92 (
+78, 
+09) 311 
+5% 
+93 (
+78, 
+12) 134 
+3% 
+00 (
+74, 
+)Nutrition 863 
+3% 
+10 (
+98, 
+23) 463 
+0% 
+12 (
+96, 
+29) 257 
+0% 
+14 (
+95, 
+37) 143 
+0% 
+14 (
+84, 
+)Nutrition + WSH 933 
+0% 
+90 (
+80, 
+01) 489 
+4% 
+84 (
+72, 
+99) 290 
+0% 
+95 (
+80, 
+13) 154 
+0% 
+02 (
+75, 
+)Water 971 
+4% 
+69 (
+50, 
+95) 522 
+4% 
+95 (
+52, 
+71) 325 
+5% 
+59 (
+39, 
+90) 124 
+5% 
+75 (
+37, 
+)Sanitation 972 
+0% 
+76 (
+54, 
+06) 525 
+7% 
+73 (
+35, 
+51) 327 
+5% 
+78 (
+52, 
+17) 120 
+8% 
+78 (
+38, 
+)Handwashing 977 
+3% 
+90 (
+66, 
+22) 513 
+5% 
+96 (
+49, 
+90) 322 
+4% 
+84 (
+61, 
+16) 142 
+1% 
+95 (
+54, 
+)WSH 941 
+6% 
+71 (
+52, 
+99) 496 
+0% 
+83 (
+49, 
+40) 311 
+3% 
+70 (
+46, 
+08) 134 
+0% 
+63 (
+36, 
+)Nutrition 863 
+5% 
+03 (
+74, 
+43) 463 
+0% 
+36 (
+72, 
+59) 257 
+0% 
+90 (
+62, 
+30) 143 
+1% 
+37 (
+78, 
+)Nutrition + WSH 933 
+2% 
+67 (
+50, 
+91) 489 
+1% 
+84 (
+51, 
+38) 290 
+7% 
+62 (
+41, 
+94) 154 
+7% 
+58 (
+28, 
+)Water 971 
+1% 
+95 (
+68, 
+32) 522 
+6% 
+88 (
+54, 
+44) 325 
+5% 
+02 (
+63, 
+66) 124 
+3% 
+86 (
+42, 
+)Sanitation 972 
+3% 
+71 (
+52, 
+98) 525 
+2% 
+62 (
+38, 
+00) 327 
+3% 
+81 (
+49, 
+35) 120 
+2% 
+72 (
+41, 
+)Handwashing 977 
+0% 
+80 (
+59, 
+10) 513 
+7% 
+71 (
+41, 
+21) 322 
+3% 
+98 (
+61, 
+59) 142 
+0% 
+72 (
+34, 
+)WSH 941 
+4% 
+85 (
+59, 
+22) 496 
+0% 
+96 (
+63, 
+47) 311 
+0% 
+87 (
+54, 
+41) 134 
+5% 
+69 (
+32, 
+)Nutrition 863 
+2% 
+96 (
+69, 
+33) 463 
+5% 
+87 (
+55, 
+37) 257 
+6% 
+92 (
+57, 
+50) 143 
+3% 
+31 (
+61, 
+)Nutrition + WSH 933 
+1% 
+21 (
+89, 
+65) 489 
+3% 
+21 (
+79, 
+86) 290 
+4% 
+33 (
+88, 
+02) 154 
+7% 
+04 (
+52, 
+)Water 971 
+5% 
+98 (
+87, 
+10) 522 
+0% 
+94 (
+79, 
+11) 325 
+6% 
+98 (
+85, 
+14) 124 
+5% 
+14 (
+89, 
+)Sanitation 972 
+6% 
+94 (
+84, 
+04) 525 
+6% 
+92 (
+79, 
+07) 327 
+2% 
+95 (
+82, 
+09) 120 
+0% 
+97 (
+75, 
+)Handwashing 977 
+3% 
+07 (
+96, 
+19) 513 
+8% 
+10 (
+93, 
+31) 322 
+7% 
+02 (
+89, 
+17) 142 
+2% 
+07 (
+85, 
+)WSH 941 
+3% 
+91 (
+81, 
+01) 496 
+3% 
+92 (
+79, 
+06) 311 
+6% 
+90 (
+76, 
+06) 134 
+3% 
+93 (
+70, 
+)Nutrition 863 
+1% 
+04 (
+93, 
+16) 463 
+2% 
+08 (
+95, 
+24) 257 
+7% 
+02 (
+86, 
+21) 143 
+7% 
+14 (
+88, 
+)Nutrition + WSH 933 
+8% 
+89 (
+81, 
+99) 489 
+1% 
+85 (
+74, 
+98) 290 
+3% 
+93 (
+80, 
+08) 154 
+8% 
+95 (
+74, 
+)certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    (N=1,530) (N=  971) (N=  972) (N=  977) (N=  941) (N=  863) (N=  933)Prevalence Ratio (95% CI)Intervention vs
+ Control ref 
+97 (
+86, 
+11) 
+98 (
+88, 
+09) 
+10 (
+98, 
+24) 
+93 (
+83, 
+05) 
+10 (
+98, 
+23) 
+90 (
+80, 
+)(N=1,530) (N=  971) (N=  972) (N=  977) (N=  941) (N=  863) (N=  933)Prevalence Ratio (95% CI)Intervention vs
+ Control ref 
+69 (
+50, 
+95) 
+76 (
+54, 
+06) 
+90 (
+66, 
+22) 
+71 (
+52, 
+99) 
+03 (
+74, 
+43) 
+67 (
+50, 
+)(N=1,530) (N=  971) (N=  972) (N=  977) (N=  941) (N=  863) (N=  933)Prevalence Ratio (95% CI)Intervention vs
+ Control ref 
+95 (
+68, 
+32) 
+71 (
+52, 
+98) 
+80 (
+59, 
+10) 
+85 (
+59, 
+22) 
+96 (
+69, 
+33) 
+21 (
+89, 
+)(N=1,530) (N=  971) (N=  972) (N=  977) (N=  941) (N=  863) (N=  933)Prevalence Ratio (95% CI)Intervention vs
+ Control ref 
+98 (
+87, 
+10) 
+94 (
+84, 
+04) 
+07 (
+96, 
+19) 
+91 (
+81, 
+01) 
+04 (
+93, 
+16) 
+89 (
+81, 
+)certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    (N=1,530) (N=  971) (N=  972) (N=  977) (N=  941) (N=  863) (N=  )Intervention vs
+ Control ref 
+04 (
+30, 
+21) 
+08 (
+27, 
+12) 
+38 (
+01, 
+75) 
+14 (
+34, 
+07) 
+16 (
+12, 
+45) 
+02 (
+28, 
+)(N=1,530) (N=  971) (N=  972) (N=  977) (N=  941) (N=  863) (N=  )Intervention vs
+ Control ref 
+13 (
+23, 
+03) 
+09 (
+22, 
+03) 
+04 (
+16, 
+09) 
+11 (
+22, 
+00) 
+02 (
+14, 
+17) 
+14 (
+23, 
+)(N=1,530) (N=  971) (N=  972) (N=  977) (N=  941) (N=  863) (N=  )Intervention vs
+ Control ref 
+00 (
+13, 
+12) 
+10 (
+19, 
+01) 
+09 (
+18, 
+00) 
+03 (
+17, 
+10) 
+02 (
+14, 
+10) 
+10 (
+06, 
+)certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted January 12, 
+ ;    

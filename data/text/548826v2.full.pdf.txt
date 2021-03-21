@@ -1,0 +1,1164 @@
+Clinical, imaging genetics and deformation based morphometry study of longitudinal changes after surgery for intractable aggressive behaviourAuthors: Flavia V
+ Gouveia1,2*, Jrgen Germann3*, Rosa M
+ C
+ B
+ de Morais4, Erich T
+ Fonoff,Clement  Hamani2,5,6,  Eduardo  Joaquim  Alho5,  Helena  Brentani7,8,  Ana  Paula  Martins4,  GabrielDevenyi3, Raihaan Patel3, Christopher J
+ Steele3, Robert Gramer9, M
+ Mallar Chakravarty3, Raquel
+ Laboratory of Neuromodulation, Teaching and Research Institute, Hospital Sirio-Libanes, Sao Paulo,
+ Neuromodulation Centre, Sunnybrook Reseach Institute, University of Toronto, Toronto, Ontario,
+ CIC, Douglas Mental Health University Institute, McGill University, Montreal, Quebec, Canada
+ PROTEA, Department of Psychiatry - University of Sao Paulo School of Medicine, Sao Paulo, Sao
+ Department  of  Neurology,  Division  of  Functional  Neurosurgery  of  the  Institute  of  Psychiatry,University of Sao Paulo, Medical School, Sao Paulo, Sao Paulo, Brazil
+ 
+ Division  of  Neurosurgery,  Sunnybrook Health  Sciences  Centre,  University  of  Toronto,  Toronto,
+ Department of Psychiatry - University of Sao Paulo, Medical School, Sao Paulo, Sao Paulo, Brazil
+ 
+ National Institute of Developmental Psychiatry for Children and Adolescents, CNPq, Sao Paulo, Sao
+ Department  of  Neurosurgery,  Duke University  Medical  Center,  Durham,  North Carolina,  Unitedcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    Intractable aggressive behaviour is a devastating behavioural disorder that reach 30% ofpsychiatric aggressive patients
+ Neuromodulatory surgeries may be treatment alternatives to reducesuffering
+  We investigated  the  outcomes  of  bilateral  amygdala  radiofrequency  ablation  in  fourstudying  whole  brain  magnetic  resonance  imaging  and  clinical  data
+  Post-surgery  assessmentsrevealed decreases  in  aggression and agitation and improvements  in  quality  of life
+  Aggressivebehaviour was positively correlated with serum testosterone levels and the testosterone/cortisol ratioin  males
+  No  clinically  significant  side  effects  were  observed
+  Imaging  analyses  revealedpreoperative amygdala volumes within normal range and confirmed appropriate lesion locations
+Reduction in aggressiveness were accompanied by volumetric reduction in brain areas associatedwith aggressive behaviour (express genes related to aggressive behaviour), and increases in regionsrelated to somatosensation
+ These findings further elucidates the neurocircuitry of aggression andKeywords: Aggressive  Behavior;  Amygdala;  Testosterone;  Magnetic  Ressonance  Imaging;certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    Excessive  aggressive  behavior  is  highly  prevalent  in  patients  with  Autism  SpectrumDisorder (ASD) and Intellectual Disabilities (ID)
+ It presents a major obstacle to patient care andtreatment
+ Additionally, it often presents as severe self-injurious behavior that may culminate withthe need for chronic restraining of patients, substantially reducing quality of life,
+ The primarytreatment for excessive aggressive behavior involves the use of behavioral therapy and medicationsthat act mainly on dopaminergic and serotoninergic systems,
+ When patients fail to respond toconventional behavioral and medical treatments, high dose mono- or polypharmacy strategies areindicated
+ Although these therapies are successful in most patients, there is a significant subset ofindividuals (approximately 30%) who do not adequately respond to treatment and are consideredStructures  related  to  the  control  of  aggressive  behavior  include  the  prefrontal  cortex,amygdala,  hypothalamus  and  midbrain  periaqueductal  gray
+  It  is  believed  that  aggressiveindividuals have alterations in these structures
+ Prior research suggests that higher limbic systemactivity alters perception of provocative stimuli, and reduces top-down control of the prefrontalcortex, minimizing the ability to suppress aggressive behavior
+ Lesion studies performed in the late18th and  early  19th centuries  have  shown  that  the  removal  of  the  temporal  lobes  or  selectiveamygdala ablation resulted in marked reduction of aggressive behavior in humans911 and nonhumanprimates,
+ Imaging studies have been largely controversial and/or inconclusive in asserting anassociation between amygdala volume14 or activity15 and behavioral disorders (including aggressivebehavior)
+ For  example,  veterans  with  aggressive  behavior  disorders  have  been  shown  todemonstrate  a  more  intense  amygdala  response  to  external  stimuli  as  well  as  an  attenuatedamygdala-prefrontal  cortex  connectivity,
+  In  contrast,  studies  in  criminal  psychopaths  havecertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    reported  that  the  level  of  amygdala  activation  is  lower  during  processing  of  negative  affectiveMore recently,  amygdala deep brain stimulation (DBS) was successfully  used  to  reduceQuite often, however, patients with severe self-aggressive behavior towards the face and head areprecluded from DBS consideration for fear of complications such as infection, skin erosion, andlead fracture
+ For this small population of non-responsive individuals, stereotactic ablative surgerytargeting the amygdala has been performed with beneficial result,
+ As this patient population issmall and the number of recent publications are limited, in depth clinical follow up and the study ofneuroanatomical and/or functional aspects of this surgery remain sparse
+ In particular, to date, nostudy has attempted to identify and characterize the brain morphology and changes associated withWe  addressed  the  crucial  gap  in  understanding  the  aggressive  brain  circuitry  and  howstructural  and  functional  changes  in  this  network  relate  to  behavior  changes  by  studyinglongitudinal  local  volume and structure changes throughout  the whole brain and examining theclinical and hormonal effects of bilateral amygdala radiofrequency ablation in a small cohort ofBehavior  assessments  demonstrated  a  marked  reduction  in  aggressive  behavior  in  allpatients  (p01:  
+6%;  p02:  80%;  p03:  
+9%;  p04:  
+2%;  p(cor)<
+01;  Figure  E)
+  This  wasassociated with a reduction in motor agitation (p(cor)<
+05; Figure 1F) and an increase in quality oflife  (p(cor)<
+01;  Figure  G)
+  Significant  correlations  were  found  between  improvements  inaggressive behavior and agitation (p<
+0001) and between improvements in aggressive behaviorcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    Each  total  amygdala  volume  was  measured  before  the  surgical  procedure  and  wasdetermined to be within normal range21 (Figure A-D)
+ After surgery, we confirmed the location ofthe lesion and measured its size
+ As shown in Figure 1D, lesions were smaller in volume than theamygdala
+  P01, p02 and p04 required a second procedure, after which most of the amygdala wasThe ratio between testosterone and cortisol is a biomarker for aggressive behavior
+  Weidentified a positive correlation between aggressive behavior and the testosterone/cortisol ratio inthe  males  (p(cor)<
+01,  Figure  1H;  p01  p=
+0205;  p02  p=
+0243;  p03  p=
+0334;  p04  p=
+;Supplementary Figures 1D-G) and between aggressive behavior and total testosterone, also only inthe  male  patients  (p=
+00101;  pp=
+0142;  p02  p=
+0584;  p03  p=
+0247;  p04  p=
+,Supplementary Figures 1C and H-K)
+ Although some fluctuation in the hormone levels occurred,there was no significant clinical impact on patients well-being (Supplementary Table )
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    Figure 
+ Baseline and follow up evaluations
+ A
+ MRI image showing amygdala location before surgery
+ B
+ MRI image showing lesion placement
+ C
+3D reconstruction of the amygdala on an MRI image
+ D
+ Amygdala volume; E
+ Aggressive levels measured by the Overt Aggression Scale (OAS); F
+General motor  agitation measured by the  Agitated Behavior Scale  (ABS);  G
+ Quality  of life  evaluated by the Short Form Survey (SF-36);  H:Correlation between the testosterone/cortisol ratio and aggressive behavior for male patients (p01, p02, p03, mean)
+ Abbreviations: 1st: Baselineevaluation; 2nd: 3 months after surgery; 3rd: 12 months after surgery; 4th: 24 months after surgery; 5th: 36 months after surgery for p03 and after ndcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    The  longitudinal  DBM  analysis  of  these  patients  (Figure  2)  identified  significantmorphological changes in several brain regions
+  Volumetric decrease was found in many areas,including  those  known to  play  a  role  in  mechanisms  of  aggressive  behavior  (e
+ g
+  doroslateralprefrontal cortex (DLPFC), nucleus accumbens (NAcc), bed nucleus of stria terminalis (BNST)),
+Volume increases were observed in areas involved in somatosensory processing and pain perception(e
+ g
+ somatosensory cortex, thalamus)
+ Supplementary Figure 2 illustrates the volume change inthose  and other  main  regions
+  Table  1  lists  and  names  the  key peaks  passing  FDR correctioncertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    Figure 
+ Results from Deformation Based Morphometry analysis (DBM)
+ A
+ Coronal slices illustrating areas that presented significant local volumechanges in the longitudinal DBM analysis
+ The areas named are known to be part of the neurocircuitry of aggressive behavior or somatosensation
+ B
+Changes overtime in selected peak voxels in each patient
+ Data is presented as scale of relative voxel size
+ I
+ Dorsal Raphe nucleus; II
+ PeriaqueductalGray; III
+ Right Bed Nucleus of Stria Terminalis; IV
+ Left Nucleus Accumbens; V
+ Right Insula; VI
+ Left Anterior Cinculate
+ Abbreviations: BNST:bed nucleus of stria terminalis; Cl: claustrum; cx: cortex; DLPFC: dorsolateral prefrontal cortex; DRN: dorsal raphe nucleus; Ins: insula;  int
+ internal;L:  left;  lam: lamina;  NAcc:  nucleus accumbens;  nu:  nucleus;  OFC: orbitofrontal  cortex;  PV:  paraventricular  thalamic  nucleus;  R:right;  SI/SII:certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    R bed nucleus of stria terminalis 
+10 
+43 -
+69 -
+96** -
+958 
+R medial dorsal thalamic nucleus 
+05 -
+18 
+74 -
+21** -
+317 
+R ventral lateral thalamic nucleus 
+99 -
+32 
+64 -
+78** -
+216 -
+R internal medullary lamina of thalamus 
+92 -
+53 
+90 -
+03** -
+846 
+L bed nucleus of stria terminalis -
+93 
+97 -
+98 -
+68** 
+314 
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    Abbreviations: L: left; R: Right; JD: Jacobian Determinant, from DBM analysis; FA: Fractional Anisotropy; MD: Mean Diffusivity
+ All peaks pass voxel level FDR whole brain correction for multiple correction with **q<
+01 (absolute t-value>
+ )
+ Thus at the most there is one false positive finding per 100 significant peak voxels
+ Local changes at the voxel level are calculated within subject and co-registered for subsequent group level Likewise, both FA and MD changed after surgery and there was a significant correlationbetween changes in Jacobians and MD, which is related to the displacement of water (FA p(cor)>
+;MD p(cor)<
+05; Figure 3A for main peaks
+ Supplementary Figure 3 for all peaks)
+Hierarchical clustering was applied to investigate the possibility of groupings within brainareas that were significant in the DBM analysis
+ The results confirmed the presence of 2 clusters:Cluster 1: areas that decrease in volume known to be related to aggressive behavior and connectedto the amygdala8,23; Cluster 2: areas that increase in volume involved in somatosensation and painFigure 
+ Results from Fractional Anisotropy (FA) and Mean Diffusivity (MD) maps and Cluster analysis of the Deformation Based Morphometrystudy
+ A
+ Correlation between DBM Jacobians, FA and MD maps for main peaks
+ B
+ Hierarchical cluster of DBM peaks (5% FDR correction)
+ The  gene  ontology  analysis  of  the  genes  highly  expressed  in  regions  that  exhibitedmorphological shrinkage (Cluster 1) compared to the rest of the brain showed functions related toamygdala  and  aggressive  behavior:  
+  Steroid  metabolic  process;  
+  Regulation  of  groomingbehavior; 
+ Response to chemicals Nitric oxide and Amphetamine; 
+ Aminergic neurotransmittercertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    transport
+ Figure 4 shows these results and the complete gene enrichment analysis can be found inFigure 
+ Results of gene enrichment analysis
+ A
+ Illustration of the inside/area genetic enrichment analysis
+ The left side shows the distribution ofDBM results (10% FDR corrected) red represents increases and blue decreases in volume
+ The right shows the location where tissue samples werecollected for the gene expression analysis
+ Every green dot indicates a well location
+ B
+ Summary of GOrilla and GEAS gene enrichment analysisStereotactic surgery led to a remarkable reduction in aggressive behavior and improvementsin  quality  of  life  in  patients  with  medically-refractory  aggressive  behavior
+  To assess  potentialtherapeutic mechanisms for the procedure, MRI images acquired before and after the surgery wereanalyzed using DBM, and FA and MD maps computed
+  While the DBM technique uses imageregistration to calculate local deformation fields at a voxel level for the detection of morphologicalvariations25,  FA and MD values  are  indicative  of  local  microstructural  characteristics  primarilyrelated to white matter
+ FA is an index of diffusion asymmetry and is related to characteristics suchcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    as fiber density, axonal diameter and myelination, while MD shows the degree of displacement ofWe found  that  morphological  changes  associated  with  reduction  in  aggressive  behaviorcould be grouped into two clusters: Cluster 1 includes areas associated with aggressive behaviorsuch as the DLPFC, NAcc, BNST, Insula, periaqueductal gray (PAG), and dorsal raphe nucleus(DRN)
+ Cluster 2 regions includes areas related to somatosensation and pain perception, such assomatosensory  cortex,  thalamus,  and  anterior  Cingulate  Cortex
+  The  correlation  of  volumetricchanges with DWI measures suggests that the volume change following surgery is related to localmicrostructural  changes
+  Though  the  exact  mechanism  driving  these  distinct  changes  remainsunexplained (e
+ g
+ increase/decrease of number of glial cells, hypo- or hypertrophy of neurons), it isinteresting to note the clusters change in opposite directions
+ Areas of cluster 1 receive alert signalsfrom the presumably hyperactive amygdala8 and decrease in volume once the amygdala stimulationceases
+ Whereas, activity in the regions of cluster 2 are suppressed when the amygdala is highlyactivated and increase in volume post-surgery
+ The distinct pattern of local changes throughout thesomatosensory/pain network is particularly intriguing in this group and may explain the reduction inself-aggressive behavior  observed after  surgery (OAS self-injury subscale change:  p01:  4 to  ;p02:1 to 0; p03: 4 to 0; p04: 4 to )
+ It is known that the amygdala has a central role in processingnociceptive27 stimuli and that patients with self-injurious behavior have altered pain perceptior
+Thus, amygdala ablation could affect this neurocircuitry, restoring normal activity in areas related tothe process of nociceptive stimuli resulting in reduction of self-injury behavior
+The correlation found between aggressive behavior and agitation supports the theory thatexcessive aggressive behavior occurs when the amygdala is hyper-activated and more responsive toenvironmental stimuli
+ In fact, after surgery, patients were able to return to a special needs schoolthat  they  were  previously  forced  to  withdraw  from  when  their  condition  had  progressivelyworsened
+ There they are able to learn and improve skills, mainly related to daily life activitycertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    and  communication
+  In  this  sense,  the  procedure  appears  to  leads  to  significant  behavioralimprovement which enables patients to function in a social construct that fosters further behavioralimprovement
+  Although  permanent  side  effects  and  worsened  behavioral  problems  have  beenpreviously reported9,11,19, an important aspect of our study was that no noticeable side effects wereThe gene ontology analysis  found that Cluster 1 regions are related to steroid metabolicprocess,  response  to  Nitric  oxide  and  Amphetamine,  aminergic  neurotransmitter  transport,  andinterestingly, regulation of grooming behavior
+ These all are closely related to the amygdala andaggressive behavior: Grooming behavior is similar to aggressive behaviors in the sense that it is aninnate social behavior influenced by the amygdala, which plays an important role in social bondingand  the  maintenance  of  species
+  The  aminergic  neurotransmitter  system  (e
+ g
+  serotonin  anddopamine) as well as nitric oxide and amphetamine have all been implicated in the modulation ofaggressive  behavio5,30,31The  mechanism  for  this  effect,  however,  is  still  unknown
+  Steroidmetabolism is  a  process  linked  to  aggressive  behavior  and  is  influenced  by  the  amygdala  viaextensive  bi-directional  projections  to  and  from  the  hypothalamus
+  This  latter  structure  isresponsible for controlling hormonal production and secretion including precursors of the synthesisof  testosterone  and  cortisol
+  These  two  hormones  are  part  of  internal  feedback  loops  of  theamygdala  resulting  in  the  expression  of  more  aggressive  actions  (consequence  of  testosteroneaugmentation) or increased fear responses (consequence of cortisol predominance)
+ It is believedthat the ratio between those two hormones may be a biomarker for aggressive behavior
+ In fact,this is reinforced by the correlation found between testosterone and the testosterone/cortisol ratioTo our knowledge, this is the first report of longitudinal neuroimaging analyses of patientstreated with bilateral amygdala radiofrequency ablation
+ DBM analyses enabled the detection ofsubtle  local  volumetric  changes  throughout  the  brain  and  helped  us  identify  numerous  localcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    structural alterations that accompany the behavioral changes
+ We observed consistent characteristicchanges within our patients and we believe that this analysis better elucidates the whole humanneurocircuitry of aggressive behavior and provides new insights for future interventions
+ All thechanges result in striking behavior alterations leading to easing of suffering and improvement inquality  of  life
+  The  changes  essential  and  necessary  for  the  positive  outcome  are  yet  to  beelucidated
+ Expounding these connections through future research could be instrumental in derivinga better understanding this complex neurocircuitry as well as its mechanism in modulating behavior
+Our results, however, suggest an interesting starting point to investigate possible new targets forintervention
+ For example, one could propose the use of non-invasive neuromodulatory techniques(e
+ g
+  Transcranial  Magnetic  Stimulation  (TMS),  Transcranial  direct  current  stimulation  (tDCS))delivered  to  somatosensory cortical  areas  or  DBS to  the  NAcc or  BNST,  for  the  treatment  ofpatients  with  excessive  aggressive  behavior
+  Furthermore,  these  results  highlight  the  need  forstudies to ascertain the cause of morphological changes, identify the population of neurons beingaffected, and explore the impact of these changes on neurotransmitter systems, especially in theIn summary, our results provide novel evidence that bilateral amygdala ablation induces re-adaptation of the neurocircuitry that controls aggressive behavior, with a concomitant behavioralphenotype
+ These morphological changes could be integral to the reduction of aggressive behaviorand increase in quality of life observed in our study population
+ Further research is necessary tobetter understand this complex neurocircuitry and explore new targets for therapeutic interventionscertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    Four  patients with  intractable aggressive behavior (3 males, 1 female; aged 19-32 years;demographics  in  Table  2)  were  included  in  the  study  following  psychiatric  referral  from  ouroutpatient psychiatric clinic
+ All subjects were diagnosed with severe ID and the 3 males also withASD
+  All  patients  showed  uncontrollable  life-threatening-self-injurious  behavior  and  extremeaggressive  behavior  towards  their  surroundings  and  others
+  Three  patients  required  restraintmeasures on a daily basis
+ The subjects were selected for the ablation procedure as their severe self-aggressive  behavior  made  them non-eligible  for  DBS
+  An  experienced  multidisciplinary  teamassisted  the  patients  and caregivers  at  all  times
+  Patients psychiatric  histories  are  presented  inSupplementary  Text  
+  Criteria  for patient  selection  and  for  defining  treatment  refractorinessfollowed  the mandate for conducting psychiatric surgery stipulated by the Regional and FederalMedical  Councils
+  All  study  procedures,  logs,  and  results  were  documented  and  archived  inThe patients parents provided written informed consent after being instructed about potential risksand  benefits  of  surgical  treatment
+  The  study  was  registered  as  a  clinical  trial  atcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    well  as  whole  brain  magnetic  resonance  imaging  (MRI)
+  Questionnaires  quantified  aggressivebehavior,  general  motor  agitation,  and  quality  of  life  with  the  Overt  Aggression  Scale  (OAS),Agitated Behavior  Scale (ABS),  and Short Form Survey (SF-36),  respectively
+  Laboratory testsincluded:  thyroid,  kidney,  and  liver  function,  adrenal  and  gonadal  hormone  levels;  lipid,coagulation, and inflammation profiles; and complete blood count (Supplementary Table )
+ SincePostoperative follow up included all preoperative measures and was performed at 3, 12, and 36 months after surgery
+ Patients p01, p02 and p04 needed a second surgery 24 months after thefirst to increase lesion size, characterized on imaging as well as by minimal symptomatic benefits
+Their follow-up was indexed from the date of the first operation
+ Supplementary Figure 5 illustratesThe surgeries were completed under local anesthesia and sedation
+ Following a preoperativeMRI,  a Leksell stereotactic frame (Elekta AB, Sweden) was applied to the patients head and astereotactic  computed  tomography  was  obtained
+  Imaging  data  was  transferred  to  the  iPlancertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    Stereotaxy software (Brainlab - Feldkirchen, Germany) for calculation of optimal tridimensionalcoordinates for the inferior and superior aspects of the proposed lesion, as well as for the entry pointand trajectory of the radiofrequency probe
+ A two millimeter straight probe was introduced though atwist drill burr hole in the coordinates of the inferior aspect of the lesion, medial part
+  A radiofrequency lesion was then applied at 80C for 90 seconds
+ The probe was adjusted three millimeterslaterally,  and a second lesion was placed,  followed by a third and fourth lesion at the superiorcoordinates
+ This procedure was repeated for the contralateral amygdala
+ Figure 5 illustrates probeFigure 
+ 3D reconstructions of probe placement in the amygdala
+ Abbreviations: Ba: Basalis; BaA: Basalis acessorius; Ce: Centralis; Co: Corticalis; Scans were obtained on a 
+5 Tesla MRI system (Magnetom Espree, Siemens, Germany)
+T1-weighted structural images (slice thickness 
+0 mm, no gap, TE/TR 5/300 ms, flip angle ,FOV 240 mm, 1 x 
+9 x 
+9 mm or 1 x 
+5 x 
+5 mm voxel) and diffusion-weighted images (DWI)(
+0 mm slice thickness, gap 
+5 mm, TE/TR 5000/100 ms, flip angle 45, FOV 240 mm, 4 x 2 x certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    mm voxel, b=1000, 36 directions, 3 b0 images) were acquired
+ Images were resampled to 
+mmisotropic voxels for Deformation Based Morphometry (DBM) analysis
+ The Fractional Anisotropy(FA) and Mean Diffusivity (MD) maps were computed at native resolution and then coregisteredPresurgical amygdala volume and post-surgical lesion size were estimated using Amira D(FEI Houston Company, USA)
+ For the remaining analysis, amygdala lesion and area of the probeentry were excluded
+ T1-weighted images were non-uniformity corrected and skull-stripped
+ Tocapture changes in local brain morphology, we used DBM, a technique based on image registration
+Image registration produces transformations that map every point in one image to its correspondingpoint in another image
+ Thus, it allows for detection and quantification of anatomic differences
+ Inthis  sense,  longitudinal  changes  were  evaluated  by  DBM  using  the  ANTs  toolkitlinear registration in a 2 level registration procedure where we first registered all images of thesame subject to one another to detect within subject changes occurring over time  the criticalIn a second registration, we registered the subject averages to one another to achieve voxelcorrespondence  to  compare  the  local  individual  changes  across  the  group  of  subjects
+  Localvolumetric changes of each voxel within each image are captured in the Jacobian of the deformationfrom the image registration, and have been shown to be sensitive to anatomical changes within thebrain without requiring a priori  segmentation
+  Especially within-subject longitudinal DBM hasbeen shown to be capable of detecting small local brain changes
+ The Jacobians were calculatedwithin each subject, transformed to the group average and smoothed using a 2 mm gaussian Dcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    DWI  images  were  analyzed  using  the  MRtrix  package  (J-D  Tournier,  Brain  ResearchInstitute,  Australia,    Raw  images  were  first  corrected  fordistortions  and  motion36 within  each  acquisition,  and  then  denoised37 before  calculating  thediffusion tensor
+ FA and MD maps were then computed from the diffusion tensor
+ To achieve localcorrespondence  between  the  DWI  and  the  DBM  measures,  the  individual  DWI  images  werecoregistered with the corresponding individual T1-weighted images and mapped onto the groupaverage of the DBM analysis
+ FA and MD maps were subsequently blurred using a 2 mm gaussian3D kernel
+ Local MD and FA values were extracted in regions that showed significant local volumeThe  RMINC  (  package  in  RStudio(version 
+ 
+3,  was used for statistical analysis
+ A linear mixed-effectmodel  was  performed
+  To  test  changes  over  time  and  the  relationship  between  behavior  andhormone evaluation we used a linear mixed effect model with subject as random effect
+For imaging analysis, the model tested local change at every voxel over time with the threetimepoints as ordered factor as fixed and patient and random effect
+  T- statistics for linear andquadratic trajectories of change across time were calculated at each voxel and corrected for multiplecomparisons using false discovery rate (FDR)
+ The level of significance was set at q<
+05 (wholebrain FDR-correction) for all DBM analyses
+ To investigate possible patterns in the DBM results, ahierarchical clustering analysis was performed
+ The input was a cross correlation matrix,  whereelement (x,y) describes the correlation of computed Jacobians between region x and region y acrossall  4 subjects
+  The agglomerative clustering algorithm from sci-kit  learn (was used with ward linkage criterion
+ In this method, each observation (i
+ e
+, vector of correlations)starts as its own cluster before clusters are successively merged together based on their similarity
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    Maps of volumetric change were used to identify regions of interest (ROI) for inside/outsidegenetic enrichment analysis of areas that grew or shrunk significantly over time compared to therest of the brain using the Allen Institute human gene expression data38 ( 2010 Allen Institute forBrain Science
+ Allen Human Brain Atlas
+ human
+ brain-map
+ org)
+T-stat maps were thresholded at |t|>
+66 (q<
+1 whole brain FDR corrected; this threshold is necessary to get a more expansive spatialmap of volumetric changes to colocalize with brain areas included in the Allen brain atlas)
+ Thewell locations used for the Allen gene atlas were registered to common space and each well locationwas given a spatial extent of a sphere with radius mm
+ T-stat maps were registered to commonspace, binarized, and a mixed effects linear model with Age and Sex as fixed effect covariates aswell as Allen subject ID as a random effect covariate were used to compare the genetic expressioninside versus outside the binarized map
+ Inside versus outside gene significance was then adjustedfor multiple comparisons using bonferroni correction (pcor<
+05) sorted and split for positive andnegative t-statistics  (genes  enriched versus  underexpressed within  versus  the  rest  of  the  brain)
+Finally  the  ranked  gene  orders  were  used  as  inputs  for  gene  enrichment  analysis  using  theThe  authors  thanks  all  the  research  assistants  and  staff  of  Hospital  Sirio-Libanes  andHCFMUSP
+ RCRM and FVG are the recipients of grants FAPESP #11/08575-7, #13/20602-5 and#17/10466-8 from Brazils government
+ HB is recipient of grants FAPESP and CNPQ
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    
+ Brentani H de P, Silvestre C, Bordini D, et al Autism spectrum disorders: An overview on
+ Kanne SM, Mazurek MO
+ Aggression in children and adolescents with ASD: Prevalence and
+ Sturm V, Fricke O, Bhrle CP, et al DBS in the basolateral amygdala improves symptoms ofautism and related self-injurious behavior: a case report and hypothesis on the pathogenesis
+ Fountas  KN,  Smith  JR,  Lee  GP
+  Bilateral  stereotactic  amygdalotomy  for  self-mutilationdisorder: Case report and review of the literature
+  Stereotact Funct Neurosurg
+ ;(-
+ Comai S, Tau M, Pavlovic Z, Gobbi G
+ The psychopharmacology of aggressive behavior: Aand  lithium
+  J  Clin  Psychopharmacol
+  ;():-
+ 
+ Morrissette DA, Stahl SM
+ Treating the violent patient with psychosis or impulsivity utilizing
+ Adler BA, Wink LK, Early M, et al Drug-refractory aggression, self-injurious behavior, andsevere tantrums in autism spectrum disorders: A chart review study
+ Autism
+ ;():-certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    
+ Blair  R
+  The Neurobiology of  Impulsive  Aggression
+  J  Child  Adolesc  Psychopharmacol
+ 
+ Narabayashi  H,  Uno  M
+  Long  range  results  of  stereotaxic  amygdalotomy  for  behavior
+ Small  IF,  Heimburger  RF,  Small  JG,  Milstein  V,  Moore  DF
+  Follow-up  of  stereotaxic
+ Balasubramaniam  V,  Ramamurthi  B
+  Stereotaxic  amygdalotomy  in  behavior  disorders
+ 
+ Kluver H, Bucy PC
+ Preliminary analysis of functions of the temporal lobes in monkeys
+ 
+ Rosvold HE, Mirsky AF, Pribram KH
+ Influence of amygdalectomy on social behavior in
+ Saxbe D, Lyden H, Gimbel SI, et al Longitudinal Associations Between Family Aggression,Externalizing Behavior,  and the Structure and Function of the Amygdala
+  J Res Adolesc
+ 
+ Heesink L, Gladwin TE, Vink M, van Honk J, Kleber R, Geuze E
+ Neural activity during theviewing  of  emotional  pictures  in  veterans  with  pathological  anger  and  aggression
+  Eur
+ Varkevisser  T,  Gladwin  TE,  Heesink  L,  van  Honk  J,  Geuze  E
+  Resting-state  functionalconnectivity  in  combat  veterans  suffering  from  impulsive  aggression
+  Soc  Cogn  Affectcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    
+ Kiehl  KA,  Smith  AM, Hare  RD,  et  al  Limbic  abnormalities  in  affective  processing  bycriminal psychopaths as revealed by functional magnetic resonance imaging
+ Biol Psychiatry
+ 
+ Glenn  AL,  Raine  A,  Schug  RA
+  The  neural  correlates  of  moral  decision-making  in
+ Gouveia FV, Hamani C, Fonoff ET, et al Amygdala and Hypothalamus: Historical Overview
+ Zhang S, Zhou P, Jiang S, Li P, Wang W
+ Bilateral anterior capsulotomy and amygdalotomyfor  mental  retardation  with  psychiatric  symptoms  and  aggression
+  Med  (United  States)
+ 
+ Brabec J, Rulseh A, Hoyt B, et al Volumetry of the human amygdala - An anatomical study
+ 
+ Montoya ER, Terburg D, Bos PA, van Honk J
+ Testosterone, cortisol, and serotonin as keyregulators  of  social  aggression:  A  review  and  theoretical  perspective
+  Motiv  Emot
+ 
+ Takahashi A, Miczek KA
+ Neurogenetics of Aggressive Behavior: Studies in Rodents
+ In:
+ Bingel  U,  Tracey  I
+  Imaging  CNS  Modulation  of  Pain  in  Humans
+  Physiology
+ 
+ Chung MK, Worsley KJ, Paus T, et al A unified statistical approach to deformation-based
+ Beaulieu C
+ The basis of anisotropic water diffusion in the nervous system - A technicalcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    
+ Seno  MDJ,  Assis  D  V
+,  Gouveia  F,  et  al  The  critical  role  of  amygdala  subnuclei  in
+ Koenig  J,  Rinnewitz  L,  Warth  M,  et  al  Psychobiological  response  to  pain  in  femaleadolescents  with  nonsuicidal  self-injury
+  J  Psychiatry  Neurosci
+  ;():-
+ 
+ Hong W, Kim D-W, Anderson DJ
+ Antagonistic Control of Social versus Repetitive Self-Grooming Behaviors  by  Separable  Amygdala  Neuronal  Subsets
+  Cell
+  ;():-
+ Carreo Gutirrez H, OLeary A, Freudenberg F, et al Nitric oxide interacts with monoamineoxidase  to  modulate  aggression  and  anxiety-like  behaviour
+  Eur  Neuropsychopharmacol
+ 
+ Miczek KA, Haney M
+ Psychomotor stimulant effects of d-amphetamine, MDMA and PCP:aggressive  and  schedule-controlled  behavior  in  mice
+  Psychopharmacology  (Berl)
+ 
+ Dudas  B
+  The  Human  Hypothalamus  Anatomy,  Functions  and  Disorders
+  Nova  Science
+ Tustison NJ, Cook PA, Klein A, et al Large-scale evaluation of ANTs and FreeSurfer cortical
+ Lerch JP, Gazdzinski L, Germann J, Sled JG, Henkelman RM, Nieman BJ
+ Wanted dead oralive? The tradeoff between in-vivo versus ex-vivo MR brain imaging in the mouse
+  Frontcertified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    
+ Smith RE, Tournier JD, Calamante F, Connelly A
+ SIFT: Spherical-deconvolution informed
+ Andersson JLR, Sotiropoulos SN
+ An integrated approach to  correction for off-resonance
+ Veraart J, Novikov DS, Christiaens D, Ades-aron B, Sijbers J, Fieremans E
+ Denoising ofdiffusion  MRI  using  random  matrix  theory
+  Neuroimage
+  ;():-
+ 
+ Hawrylycz MJ, Lein ES, Guillozet-Bongaarts AL, et al An anatomically comprehensive atlasof  the  adult  human  brain  transcriptome
+  Nature
+  ;():-
+ 
+ Eden E,  Navon R,  Steinfeld  I,  Lipson D,  Yakhini  Z
+  GOrilla:  A tool  for  discovery  andvisualization of enriched GO terms in ranked gene lists
+  BMC Bioinformatics
+ ;:-
+ 
+ Subramanian A, Tamayo P, Mootha VK, et al Gene set enrichment analysis: A knowledge-based  approach  for  interpreting  genome-wide  expression  profiles
+  Proc  Natl  Acad  Sci
+certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    Supplementary Figure 
+ Hormonal and behavior correlations
+ A
+ Aggressive Behavior (Overt Aggression Scale - OAS) and Agitation (Agitated Behavior Scale - ABS)
+ B
+ Aggressive Behavior (OAS) and Quality of life (SF-)
+ C
+ % of change in aggressive behavior (OAS) and % of change in Free Testosterone
+ D-G
+ Individual analysis of aggressive behavior and free testosterone (p-p)
+ H-K
+ Supplementary Figure 
+ Illustration representing the main changes in areas related to cluster 1 aggressive behavior  (blue, decreases in volume) and cluster 2 somatosensation (red, increases in volume)
+ Abbreviations: ACC: anterior cingulate cortex; BNST: bed nucleus of stria terminalis; DLPFC: dorsolateral prefrontal cortex; DRN: dorsal raphe nucleus; NAcc: nucleus accumbens; OFC: orbitofrontal cortex; PAG: periaqueductal gray; SI/SII: certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;    Supplementary Figure 3: Correlation between DBM Jacobians, FA and MD maps for all peaks
+ A
+ Correlations between local volume change in Jacobian and FA map
+ B
+ Correlations between local volume change in Jacobian Supplementary Figure 
+ Results of gene enrichment analysis using the GOrilla gene ontology tool
+ A
+ Highly expressed genes in areas of volumes decrease (DBM)
+ B
+ Low expressed genes in areas of volumes decrease (DBM)
+ C
+ Low expressed genes in areas of volumes increase (DBM)
+ D
+ Highly expressed genes in areas of volumes increase (DBM)
+Supplementary Figure 
+ Study design
+ A
+ Study design for patients p01, p02 and p
+ B
+ Study design for patient p
+ Abbreviations: After surgery 3, 12, 24 and 36: 3, 12, 24 and 36 months after surgery, respectively; OAS: Overt Aggression Scale; ABS: Agitated Behavior Scale; MRI: Magnetic certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted March 27, 
+ ;     1st 2nd 3rd 4th 5th 1st 2nd 3rd 4th 5th 1st 2nd 3rd 4th 5th 1st 2nd 3rd 4th 5th TSH (mIU/L) 
+83 
+58 
+24 
+16 
+76 
+89 
+91 
+11 
+94 
+74 
+75 
+78 
+39 
+49 
+32 
+56 
+56 
+99 
+66 
+13 Free T4 (ng/dL) 
+58 
+18 
+01 
+25 
+09 
+44 
+48 
+49 
+48 
+72 
+16 
+94 
+75 
+91 
+84 
+31 
+04 
+33 
+99 
+16 T3 (mg/dL) 
+13 
+10 
+10 
+10 
+12 110 110 120 120 
+15 
+81 
+81 
+72 
+69 
+81 
+13 
+07 
+09 
+10 
+09 Cortisol (mg/dL) 
+60 
+90 
+50 
+80 
+50 
+90 
+10 
+20 
+80 
+5 
+90 
+90 
+50 
+60 
+20 
+40 
+50 
+30 
+16 
+00 LH (IU/L) 
+70 
+00 
+40 
+30 
+30 
+40 
+80 
+50 
+30 
+4 
+80 
+00 
+00 
+40 
+60 
+30 
+30 
+80 
+98 
+50 FSH (IU/L) 
+30 
+40 
+60 
+90 
+60 
+90 
+60 
+40 
+80 
+8 
+00 
+70 
+90 
+00 
+10 
+10 
+10 
+20 
+61 
+80 Estradiol (pg/mL) 
+00 
+00 
+00 
+10 
+80 
+00 
+00 
+10 
+30 
+2 
+00 
+00 
+00 
+00 
+50 
+00 
+00 
+50 
+79 
+00 Prolactin (mg/dL) 
+57 
+69 
+69 
+85 
+74 
+20 
+30 
+30 
+80 
+2 
+10 
+20 
+50 
+40 
+60 
+40 
+30 
+9 
+2 
+10 Progesterone (ng/mL) 
+30 
+30 
+50 
+40 
+50 
+30 
+30 
+40 
+40 
+6 
+30 
+40 
+30 
+30 
+30 
+30 
+90 
+30 
+10 
+30 Total Testosterone (ng/mL) 336 198 115 350 115 412 310 281 428 279 409 
+00 528 634 359 
+00 
+00 
+00 
+73 
+00 Free Testosterone (pmol/L) 169 122 102 157 
+00 535 242 257 386 288 407 
+00 308 355 208 
+00 
+00 
+00 
+40 
+00 SHBG (nmol/L) 
+00 
+00 
+20 
+60 
+80 
+00 
+00 
+10 
+00 
+6 
+00 
+00 
+70 
+30 
+30 
+00 
+00 
+80 113 
+90 Urea  (mg/dL) 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 Creatinine (mg/dL) 
+76 
+75 
+97 
+86 
+87 
+86 
+80 
+90 
+78 
+84 
+86 
+81 
+92 
+83 
+70 
+84 
+72 
+56 
+65 
+61 Sodium (mEq/L) 140 144 141 138 141 140 145 138 145 144 137 130 131 139 129 142 144 142 142 140 Potassium (mEq/L) 
+40 
+10 
+70 
+70 
+20 
+90 
+70 
+40 
+30 
+20 
+00 
+10 
+50 
+50 
+70 
+00 
+10 
+10 
+80 
+00 AST (U/L) 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 ALT (U/L) 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 Total Bilirubin (mg/dL) 
+16 
+38 
+54 
+16 
+29 
+28 
+56 
+32 
+42 
+36 
+25 
+32 
+28 
+42 
+36 
+33 
+45 
+47 
+37 
+39 Total Cholesterol (mg/dL) 221 221 181 180 227 159 157 142 153 149 256 245 238 261 212 149 137 152 148 163 Triglycerides (mg/dL) 218 103 116 137 208 164 131 138 146 195 183 245 280 373 176 131 131 132 131 130 HDL (mg/dL) 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 
+00 LDL (mg/dL) 138 115 107 
+00 139 
+00 
+00 
+00 
+00 
+00 110 136 123 151 112 
+00 
+00 
+00 
+00 
+00 C-reactive protein (mg/L) 
+60 
+20 
+60 
+90 
+30 
+20 
+60 
+10 
+60 
+30 
+00 
+30 
+50 
+70 
+00 
+60 
+30 
+80 
+20 
+00 Platelets (th/mm3) 301 292 327 212 267 165 135 234 184 196 214 173 183 202 166 
+00 
+00 
+00 102 
+00 MPV (fL) 
+70 
+70 
+90 
+50 
+00 
+80 
+30 
+30 
+60 
+80 
+70 
+00 
+40 
+00 
+10 
+90 
+80 
+90 
+30 
+90 Erythrocytes (mil/mm3) 
+49 
+94 
+36 
+92 
+93 
+49 
+16 
+75 
+58 
+48 
+66 
+46 
+47 
+42 
+37 
+38 
+93 
+38 
+28 
+65 Hemoglobin (g/dL) 
+20 
+70 
+20 
+50 
+70 
+60 
+00 
+70 
+10 
+90 
+60 
+10 
+00 
+10 
+70 
+40 
+60 
+00 
+80 
+90 Hematocrit (%) 
+20 
+00 
+30 
+90 
+30 
+40 
+90 
+70 
+00 
+70 
+6 
+90 
+30 
+20 
+70 
+50 
+80 
+20 
+00 
+40 MCV (fL) 
+20 
+00 
+40 
+30 
+90 
+40 
+30 
+80 
+90 
+60 
+30 
+50 
+20 
+40 
+60 
+00 
+60 
+80 
+50 
+20 MCH (pg) 
+50 
+80 
+20 
+50 
+80 
+80 
+20 
+10 
+70 
+20 
+30 
+60 
+30 
+90 
+40 
+90 
+10 
+00 
+20 
+00 MCHC (g/dL) 
+10 
+00 
+00 
+50 
+40 
+90 
+60 
+20 
+00 
+30 
+10 
+30 
+70 
+90 
+40 
+90 
+20 
+80 
+50 
+10 RDW-CV (%) 
+80 
+80 
+30 
+90 
+60 
+80 
+30 
+00 
+10 
+50 
+30 
+20 
+10 
+00 
+30 
+50 
+20 
+40 
+10 
+10 RDW-SD (fL) 
+80 
+00 
+60 
+20 
+30 
+70 
+10 
+00 
+70 
+70 
+50 
+00 
+30 
+00 
+80 
+60 
+90 
+00 
+90 
+50 Leukocytes (th/mm3) 
+77 
+19 
+99 
+48 
+95 
+01 
+46 
+47 
+86 
+58 
+62 
+18 
+49 
+20 
+30 
+76 
+81 
+67 
+60 
+61 Neutrophils (%) 
+10 
+40 
+10 
+70 
+20 
+30 
+60 
+47 
+90 
+80 
+10 
+00 
+30 
+20 
+20 
+00 
+70 
+00 
+00 
+40 Eosinophils (%) 
+60 
+20 
+20 
+30 
+50 
+90 
+90 
+15 
+90 
+70 
+40 
+50 
+20 
+70 
+50 
+60 
+60 
+70 
+30 
+30 Basophils (%) 
+20 
+00 
+20 
+10 
+20 
+60 
+50 
+05 
+60 
+60 
+40 
+20 
+40 
+50 
+00 
+00 
+30 
+40 
+20 
+00 Lymphocyte (%) 
+00 
+80 
+70 
+50 
+80 
+80 
+70 
+19 
+30 
+30 
+50 
+90 
+80 
+80 
+70 
+80 
+40 
+80 
+00 
+90 Monocytes (%) 
+10 
+60 
+80 
+40 
+30 
+40 
+30 
+61 
+30 
+60 
+60 
+40 
+30 
+80 
+60 
+60 
+00 
+10 
+50 
+40 Abbreviations: 1st: Before surgery; 2nd: 3 months after surgery; 3rd 12 months after surgery; 4th 24 months after surgery; 5th 36 months after surgery for p03 and after second surgery for p01, p02, p04; TSH: Thyroid-Stimulating Hormone; Free T4: Free Thyroxine; T3: Triiodothyronine; LH: Luteinizing Hormone; FSH: Follicle-Stimulating Hormone; SHBG: Sex Hormone Binding Globulin; AST: Aspartate Aminotransferase; ALT: Alanine Aminotransferase; HDL: High-Density Lipoprotein; LDL: Low-Density Lipoprotein; MPV: Mean Platelet Volume; MCV: Mean Corpuscular Volume; MCH: Mean Cell Hemoglobin; MCHC: Mean Cell Hemoglobin Concentration; RDW-CV: Red Cell Distribution Width  Cell Volume; RDW-SD: Red Cell Distribution 

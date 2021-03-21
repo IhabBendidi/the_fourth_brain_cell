@@ -1,4 +1,5 @@
-numpy
-pandas
+flask
+gensim
+scikit-learn
+requests
 tqdm
-textacy

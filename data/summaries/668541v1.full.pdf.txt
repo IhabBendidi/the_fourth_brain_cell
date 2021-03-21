@@ -1,0 +1,16 @@
+gov: Transcranial Alternating Current Stimulation in Back Pain- Pilot Study, NCT Funding Source: This work was supported by the National Institute of Mental Health of the National Institutes of Health under Award Numbers RMH and RMH, the National Center for Advancing Translational Sciences (NCATS), National Institutes of Health, through Grant Award Number Conflict of Interest: J
+Objective: To evaluate if non-invasive brain stimulation modulates the ANS, we analyzed HRV metrics collected in a previously published study of transcranial alternating current stimulation (tACS) for the modulation of CLBP through enhancing alpha oscillations
+Keywords: Low back pain, autonomic nervous system, heart rate variability, Transcranial alternating certified by peer review) is the author/funder
+While opioid therapy has shown short-term efficacy in decreasing pain, few studies have investigated its long-term effectiveness () and systematic reviews identify multiple severe risks of long-term use, including: misuse, abuse/dependence, overdose, and death (,)
+Regulatory ANS function can be quantitatively assessed by the analysis of the heart rate variability (HRV), which is the certified by peer review) is the author/funder
+Previous studies have targeted the reduced RSA using biofeedback interventions, and HRV components have been used to measure the efficacy of chronic pain therapies ()
+investigate the effect of transcranial alternating current stimulation (tACS), which is a form of non-invasive brain stimulation that applies weak sine-wave electrical current to the scalp and can certified by peer review) is the author/funder
+Participants were asked to stay relaxed, watch Participants completed a battery of baseline surveys including demographics, handedness, State-(BIS/BAS)(,), and pre-treatment opinion on the likelihood of pain improvement (- certified by peer review) is the author/funder
+All analyses were run on the difference of data before and after stimulation (post - pre) after taking the natural logarithm (within Porges-Bohrer certified by peer review) is the author/funder
+;    In this study, we investigated how non-invasive brain stimulation (Hz-tACS) alters ANS balance measured with RSA and how these metrics correlated with the level of pain and other self-report characteristics
+Our findings thus suggest that SDNN may be a better target than Previous studies, which investigated non-invasive brain stimulation interventions in chronic pain, have shown promising, but varied results (,,)
+Several studies have investigated non-invasive brain stimulation techniques in patients with chronic pain, but treatment effects vary across the studies, and typically only clinical outcomes are reported
+Our results presented here along with those in our previous paper () show that brain network dynamics and self-reported pain seem to be more sensitive ways than HRV metrics to measure effects of brain stimulation for certified by peer review) is the author/funder
+Non-pharmacological Intervention for Chronic Pain in Veterans: A Pilot Study of Heart Rate Variability Biofeedback
+Effects of heart rate variability biofeedback in subjects with stress-related chronic neck pain: a pilot study
+Identifying and Engaging Neuronal Oscillations by Transcranial Alternating Current Stimulation in Patients With Chronic Low Back Pain: A Randomized, 

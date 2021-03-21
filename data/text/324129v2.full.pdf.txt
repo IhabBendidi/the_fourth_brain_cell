@@ -1,0 +1,164 @@
+Dose Escalation for Locally Advanced Pancreatic Cancer: How High Can We Go?  Lauren E
+ Colbert, MD1, Neal Rebueno, CMD1, Shalini Moningi, MD1, Sam Beddar, PhD1, Gabriel Sawakuchi, PhD1, Joseph Herman, MD1, Albert C
+ Koong, MD, PhD1, Prajnan Das, MD1, Emma Holliday, MD1, Eugene J
+ Koay, MD, PhD1, Cullen M
+ 1 Department of Radiation Oncology, University of Texas MD Anderson Cancer Center, certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 19, 
+ ;     Locally advanced pancreatic cancer (LAPC) is particularly difficult to treat given that it exhibits a poor response to chemotherapy and is by definition unresectable
+ A large proportion of patients experience significant morbidity and mortality due to local progression
+ As systemic therapy improves with the advent of gemcitabine/ abraxane1 and FOLFIRINOX2, the burden of local disease will only increase
+ Standard radiation therapy doses have failed to improve survival, which is not unexpected given anatomical and technical limitations
+ Although the LAP-07 trial3 failed to show an overall survival benefit to radiation at standard doses, it did show benefits in terms of local control and time off of chemotherapy
+ At higher radiation doses, however, our institutional data suggests improved overall survival (
+8 months vs 15 months)4 and recurrence-free survival (
+2 months vs 
+2 months), in addition to decreased acute grade 3+ gastrointestinal toxicity (1% vs 14%)5 even at higher doses (BED>70Gy) with  Given these initial retrospective data, we initiated a phase I/II adaptive dose escalation trial using image guided stereotactic body radiation therapy (SBRT) for LAPC maximum tolerated dose using SBRT
+ In preparation for the activation of this protocol, we undertook a dosimetric feasibility study to determine a) whether all patients treated with IMRT could have also been planned with SBRT and b) the maximum feasible delivered biological effective dose (BED) using SBRT while maintaining standard organ at risk (OAR) constraints to gastrointestinal (GI) mucosa with daily imaging, motion certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 19, 
+ ;    management, and treatment planning techniques that would be available at most The first ten sequential SBRT patients treated at our institution using SBRT at a dose of 40Gy in 5 fractions or 36Gy in 5 fractions (SD-SBRT) were selected for this IMRT; 
+5Gy in 15 fractions) were randomly selected from our previously published cohort in order to obtain a fair distribution of patients
+  All patients received 4 to 6 disease based on a multidisciplinary review of computed tomography (CT) images using located >5mm from GI mucosa (OARs) with no predefined size limit, while SD-SBRT patients had tumors <4cm in maximal dimension with no evidence of duodenal invasion DE-IMRT and DE-SBRT patients were immobilized using upper body vac-lock cradles
+ All patients were simulated NPO for three hours, using intravenous (IV) contrast and inspiration breath hold (IBH) with 5-6 scans for reproducibility
+ Typically two IBH CT scans were acquired without IV contrast followed by 3-4 IBH CT scans acquired after IV certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 19, 
+ ;    contrast injection performed in intervals of approximately 30 s between scans beginning 30 seconds after IV contrast administration
+ Simulation technique and example IBH CT validated by two separate physicians (LE and CT) with identical targets using commercial treatment planning software (Phillips Pinnacle version 
+ )
+  The IBH CT images were used to contour an integrated GTV (iGTV) and integrated OAR structures (iDuodenum, iStomach and iSmallBowel; Figure a)
+ This is a similar concept to a movement of a target
+ The iOAR structures were uniformly expanded by 5mm expansion to create a GI mucosa planning risk volume (GI_PRV)
+ Example contours are For each DE-IMRT and SD-SBRT, we attempted to created a dose-escalated SBRT (DE-SBRT) plan with an SIB to 40 Gy (8Gy/fx) and 70Gy (14Gy/fx) in 5 fractions
+  The PTV_40 was created by adding 3mm to the iGTV and subtracting the GI_PRV
+ A PTV_70 was created from the iGTV with 3mm contraction in 3 dimensions
+ DE-IMRT patients were re-planned for a 40Gy in 5 fractions SBRT plan and a 40Gy in 5 fraction plan with an increased simultaneous integrated boost (SIB) dose until the highest possible dose was reached (up to 70 Gy), while maintaining set OAR constraints (Table )
+ The ten SD-SBRT patients were re-planned with a DE-IMRT plan and a DE-SBRT plan with an increased SIB
+ A tumor-vessel interface (TVI) has been included in recent certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 19, 
+ ;    trials to escalate dose to the SMA/ tumor interface
+ This was not used in our study to simplify plan comparisons, but areas of increased dose were pushed posteriorly to Planning was performed in one of the IV contrast IBH CT scans without density override for the IV contrast
+ 40Gy was prescribed to the PTV_40 with a SIB technique prescribing 70Gy to the PTV_
+ There was no minimum coverage requirement for the iGTV, but >95% coverage was requested for the PTVs
+ OARs were prioritized during IMRT planning over target coverage
+ Successful plans typically had between 7 and 12 coplanar beam angles
+ VMAT was acceptable if available for treatment delivery with breathhold
+ Example treatment plans are presented in Figure 
+  Based on toxicities observed in previous SBRT trials and the associated constraints (Table 1), dose 40Gy)/ prescription target volume (PTV) and homogeneity index was calculated using both D95/D5 and Dmax/Dmin formulas
+ Gradient index was calculated using 50% PIV / Descriptive statistics were generated for all targets and all OAR
+ The 90th percentile was used as a minimum threshold for reasonably achievable OAR certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 19, 
+ ;    contstraints
+ A minimum coverage percent of 60 percent was defined as acceptable for All DE-IMRT were treated in a Clinac 2100 EX (Varian Medical Systems, Palo Alto, CA) equipped with a CT on rails (CTOR) (Smart Gantry, GE Healthcare, Chicago, IL)
+ SD-SBRT patients were treated in a Truebeam (Varian Medical System) or the Clinac 2100 EX
+ For CTOR treatments, patients were initially set up under IBH using radiopaque skin marks placed on the planning final isocenter followed by CTOR under IBH
+  In-house software (Court and Dong 2003, Med Phys 30:2750) was used to register the CTOR to the planning CT using a contour of the vertebral body located just posterior to the iGTV
+  The final targets were then manually aligned using the implanted fiducial markers
+  The auto registration software then provides the couch shifts relative to the radiopaque skin marks to align the patient to the treatment final isocenter
+ Finally, a MV image pair is acquired to verify the bony alignment and treatment is delivered
+ For the Truebeam treatments, patients were initially set up to the planning final isocenter then aligned to fiducials using a kilovoltage image pair with cone beam CT (CBCT) for verification
+ Schema for standard treatment delivery using CTOR is given in Figure 
+  Clinically acceptable DE-SBRT plans based on iGTV and PTV coverage and OAR constraints were generated for 100% of patients originally treated with DE-IMRT
+ Acceptable DE-IMRT plans were also generated for 100% of patients originally planned certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 19, 
+ ;    with SD-SBRT
+ For the maximum dose escalated SBRT plans (Figure 4), mean PTV volume was 
+8cc (range 
+ -
+91; 
+ cc)
+ Mean iGTV volume was 
+4cc (range index using Dmax/Dmin was 
+26 (
+21) and using D95/D5 was 
+77 (
+ )
+ Mean PTV coverage by the 40Gy line was 
+6% (
+ %)
+ Mean iGTV coverage by 50Gy was 91% (
+07%), by 60Gy was 
+3% (
+08%) and by 70Gy was 
+4% (
+ %)
+ Maximum PTV coverage by 70Gy was %
+ Maximum PTV coverage by 60Gy was 
+ %
+ Distributions for conformality and homogeneity and gradient indices and target coverage are given in Figure 
+ Distributions for V20, V30 and V35 for all OARs are given in Figure 
+ The following OAR constraints were achieved for 90% of generated  Dosimetrically, all patients treated with IMRT could also have been treated with SBRT, with similar (or improved) BED delivery
+ Given this, it is worth investigating SBRT techniques for patient convenience and continuity of systemic therapy
+ Based on the 90th percentile used in the above data, dose escalation with an SIB technique to 60Gy in 5 fractions is achievable while maintaining acceptable target coverage and standard OAR constraints
+  We note that our study was enriched in patients with more favorable anatomy (uncinate and body tumors), but we believe that our approach and dose constraints would also apply to any patient that is eligible for pancreatic SBRT
+  certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 19, 
+ ;    Our SIB approach covered the GTV between 60% and 80% by the highest doses while still maintaining >98% PTV coverage by the 40Gy line
+ Pancreatic tumors are particularly hypoxic at their core7, and delivering high doses to this hypoxic core may have a radiobiologic advantage despite not achieving full target coverage
+ This concept is similar to acceptance of dose heterogeneity within the GTV in other forms of SBRT
+ Past SBRT trials, even with three and one fraction regimens have shown that duodenum, small bowel and stomach constraints of V20<30cc, V35<1cc, and max dose<40Gy are safe and well tolerated (Table )
+ Using the above planning technique, these same dose constraints are achievable in 90% of cases, which supports the idea that dose escalation for LAPC is feasible and should be investigated in clinical trials
+  Our data provide a roadmap for other clinicians looking to achieve dose escalation up to 60Gy in 5 fractions for pancreatic cancer in the appropriate setting
+ Table 
+ Pre-study and post-study Dose Constraints for Dose Escalated SBRT certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 19, 
+ ;    
+ Von Hoff DD, Ervin T, Arena FP, et al Increased survival in pancreatic cancer 
+ Conroy T, Desseigne F, Ychou M, et al FOLFIRINOX versus gemcitabine for 
+ Hammel P, Huguet F, van Laethem JL, et al Effect of Chemoradiotherapy vs Controlled After 4 Months of Gemcitabine With or Without Erlotinib: The LAP07 
+ Krishnan S, Chadha AS, Suh Y, et al Focal Radiation Therapy Dose Escalation 
+ Colbert LE, Moningi S, Chadha A, et al Dose escalation with an IMRT technique in 15 to 28 fractions is better tolerated than standard doses of 3DCRT for LAPC
+ Adv 
+ Isaji S, Mizuno S, Windsor JA, et al International consensus on definition and 
+ Colbert LE, Fisher SB, Balci S, et al High nuclear hypoxia-inducible factor 1 alpha expression is a predictor of distant recurrence in patients with resected pancreatic certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 19, 
+ ;    
+ Yaparpalvi R, Garg MK, Shen J, et al Evaluating which plan quality metrics are 
+ Comito T, Cozzi L, Zerbi A, et al Clinical results of stereotactic body radiotherapy (SBRT) in the treatment of isolated local recurrence of pancreatic cancer after R0 
+ Chang DT, Schellenberg D, Shen J, et al Stereotactic radiotherapy for 
+ Barney BM, Olivier KR, Macdonald OK, Fong de Los Santos LE, Miller RC, 
+ Chuong MD, Springett GM, Freilich JM, et al Stereotactic body radiation therapy for locally advanced and borderline resectable pancreatic cancer is effective and well 
+ Herman JM, Chang DT, Goodman KA, et al Phase 2 multi-institutional trial 
+ Navarria P, Ascolese AM, Mancosu P, et al Volumetric modulated arc therapy with flattening filter free (FFF) beams for stereotactic body radiation therapy (SBRT) in patients with medically inoperable early stage non small cell lung cancer (NSCLC)
+ 
+ Gurka MK, Collins SP, Slack R, et al Stereotactic body radiation therapy with concurrent full-dose gemcitabine for locally advanced pancreatic cancer: a pilot trial certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 19, 
+ ;    
+ Mellon EA, Hoffe SE, Springett GM, et al Long-term outcomes of induction 
+ Shaib WL, Hawk N, Cassidy RJ, et al A Phase 1 Study of Stereotactic Body certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 19, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 19, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 19, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 19, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 19, 
+ ;    certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available under The copyright holder for this  (which was notthis version posted May 19, 
+ ;    Duodenum 45Gy in 6 fx D1<36Gy None >G3 Comito et al Duodenum 25Gy in 1 fx <5% of volume <
+5Gy; <50% of Stomach 25Gy in 1 fx <4% of volume<
+5Gy 4% G3 (gastric ulcers) Chang et al 
+ Comito T, Cozzi L, Zerbi A, et al Clinical results of stereotactic body radiotherapy (SBRT) in the treatment of isolated local recurrence of pancreatic cancer after R0 surgery: A retrospective study
+ Eur J Surg Oncol ;:-
+ 
+ Chang DT, Schellenberg D, Shen J, et al Stereotactic radiotherapy for unresectable adenocarcinoma of the pancreas
+ Cancer 
+ Barney BM, Olivier KR, Macdonald OK, Fong de Los Santos LE, Miller RC, Haddock MG
+ Clinical outcomes and dosimetric considerations using stereotactic body radiotherapy for abdominopelvic tumors
+ Am J Clin Oncol ;:-
+ 
+ Chuong MD, Springett GM, Freilich JM, et al Stereotactic body radiation therapy for locally advanced and borderline resectable pancreatic cancer is effective and well tolerated
+ Int J Radiat Oncol Biol Phys ;:-
+ 
+ Herman JM, Chang DT, Goodman KA, et al Phase 2 multi-institutional trial evaluating gemcitabine and stereotactic body radiotherapy 
+ Navarria P, Ascolese AM, Mancosu P, et al Volumetric modulated arc therapy with flattening filter free (FFF) beams for stereotactic body radiation therapy (SBRT) in patients with medically inoperable early stage non small cell lung cancer (NSCLC)
+ Radiother Oncol ;:-
+ 
+ Gurka MK, Collins SP, Slack R, et al Stereotactic body radiation therapy with concurrent full-dose gemcitabine for locally advanced 
+ Mellon EA, Hoffe SE, Springett GM, et al Long-term outcomes of induction chemotherapy and neoadjuvant stereotactic body radiotherapy for borderline resectable and locally advanced pancreatic adenocarcinoma
+ Acta Oncol ;:-
+ 
+ Shaib WL, Hawk N, Cassidy RJ, et al A Phase 1 Study of Stereotactic Body Radiation Therapy Dose Escalation for Borderline Resectable Pancreatic Cancer After Modified FOLFIRINOX (NCT)
+ Int J Radiat Oncol Biol Phys ;:-
+ Table 
+ Pre-study and post- study dose constraints for dose escalated SBRT 

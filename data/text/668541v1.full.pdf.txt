@@ -1,0 +1,686 @@
+Targeting the Autonomic Nervous System Balance in Patients with Chronic Low Back Pain Julianna H
+ Prim1,2,3,, Sangtae Ahn1,2,, Maria I
+ Davila1,  Morgan L
+ Alexander1,2, Karen L
+ 1Department of Psychiatry, University of North Carolina at Chapel Hill, Chapel Hill NC 27599 2Carolina Center for Neurostimulation, University of North Carolina at Chapel Hill, Chapel Hill NC 27599 3Human Movement Science Curriculum, University of North Carolina at Chapel Hill, Chapel Hill NC 27599 4Division of Physical Therapy, University of North Carolina at Chapel Hill, Chapel Hill NC 27599 5Department of Neurology, University of North Carolina at Chapel Hill, Chapel Hill NC 27599 6Department of Biomedical Engineering, University of North Carolina at Chapel Hill, Chapel Hill NC 27599 7Department of Cell Biology and Physiology, University of North Carolina at Chapel Hill, Chapel Hill NC 27599 8Neuroscience Center, University of North Carolina at Chapel Hill, Chapel Hill NC 27599 Correspondence should be addressed to: Flavio Frhlich, 115 Mason Farm Rd
+ NRB 4109F, Chapel Hill, NC
+ ClinicalTrials
+gov: Transcranial Alternating Current Stimulation in Back Pain- Pilot Study, NCT03243084 Funding Source: This work was supported by the National Institute of Mental Health of the National Institutes of Health under Award Numbers R01MH111889 and R01MH101547, the National Center for Advancing Translational Sciences (NCATS), National Institutes of Health, through Grant Award Number Conflict of Interest: J
+ H
+P, S
+ A
+, M
+ I
+ D
+, M
+ L
+ A
+, and K
+ L
+ M
+ have no financial conflicts
+ F
+ F
+is the lead inventor of IP filed by UNC
+ The clinical studies performed in the Frohlich Lab have received a designation as conflict of interest with administrative considerations
+ F
+ F
+is the founder, CSO and majority owner of Pulvinar Neuro LLC, a company that markets research tDCS and tACS devices for research only
+ Pulvinar Neuro played no role in the study reported here
+ F
+ F
+ has received research funding from the National Institute of Health, the Brain Behavior Foundation, the Foundation of Hope, the Human Frontier Science Program, Tal Medical, NeuroCare Group, and individual donations
+ F
+ F
+ is an adjunct professor in Neurology at the Insel Hospital of the University of Bern, Switzerland
+ F
+ F
+ receives royalties for his textbook Network Neuroscience published by Academic Press
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    Background: Chronic low back pain (CLBP) is characterized by an alteration in pain processing by the central nervous system that may affect autonomic nervous system (ANS) balance
+ Heart rate variability (HRV) reflects the balance of parasympathetic and sympathetic ANS activation
+ In particular, respiratory sinus arrhythmia (RSA) solely reflects parasympathetic input and is reduced in CLBP patients
+ Yet, it remains unknown if non-invasive brain stimulation can alter ANS balance in CLBP patients
+ Objective: To evaluate if non-invasive brain stimulation modulates the ANS, we analyzed HRV metrics collected in a previously published study of transcranial alternating current stimulation (tACS) for the modulation of CLBP through enhancing alpha oscillations
+ We hypothesized that tACS would increase Methods: A randomized, crossover, double-blind, sham-controlled pilot study was conducted to investigate the effects of 10Hz-tACS on metrics of ANS balance calculated from electrocardiogram (ECG)
+ ECG data were collected for 2 minutes before and after 40 minutes of 10Hz-tACS or sham Results: There were no significant changes in RSA or other frequency-domain HRV components from Hz-tACS
+ However, exploratory time-domain HRV analysis revealed a significant increase in the standard deviation of normal RR intervals (SDNN) for 10Hz-tACS relative to sham
+ Conclusion(s): Although tACS did not significantly increase RSA, we found in an exploratory analysis that tACS modulated an integrated HRV measure of both ANS branches
+ These findings support the further study of how the ANS and alpha oscillations interact and are modulated by tACS
+ Keywords: Low back pain, autonomic nervous system, heart rate variability, Transcranial alternating certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    Chronic pain is a severe, disabling condition that affects 25-30% of the population in the United States (1) and treatment options are limited ()
+ While opioid therapy has shown short-term efficacy in decreasing pain, few studies have investigated its long-term effectiveness (3) and systematic reviews identify multiple severe risks of long-term use, including: misuse, abuse/dependence, overdose, and death (,)
+ Chronic low back pain (CLBP) is the second most prevalent cause of disability in adults in the US ()
+ The poor rates of recovery (58% at 1 month) and high rates of recurrence (73% in 12 months) contribute to high social and economic costs CLBP often persists without clear peripheral pathology (peripheral injury may trigger but does not sustain CLBP) and the mechanism of pain development is not fully understood ()
+ In CLBP, the relationship between nociception and pain is often weak or lost indicating abnormal integration (8), which points to an alteration in pain processing by the central nervous system (,)
+ CLBP stems from dynamic interactions between sensory and contextual (i
+ e
+, cognitive, emotional, and motivational) processes in the brain that are mediated by feed-forward and feedback processes ()
+ Recent neurobiological investigations support the crucial role of the brain within chronic pain development by showing substantial structural, physiological, and metabolic changes (8) including autonomic nervous system (ANS) balance ()
+ The ANS controls a range of vital involuntary physiological functions, such as regulating blood pressure, temperature, and heart rate at rest and in response to stressors ()
+ Regulatory ANS function can be quantitatively assessed by the analysis of the heart rate variability (HRV), which is the certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    variation in time between successive heartbeats
+ HRV is composed of input from the excitatory sympathetic and inhibitory parasympathetic nervous system as well as baroreceptors and vagal tone
+ When HRV is deconstructed through signal processing, it is possible to quantify rhythmic components that reflect specific pathways of the ANS neural regulation
+ The most salient components are a respiratory oscillation known as respiratory sinus arrhythmia (RSA)(13) and low-frequency (LF) components assumed to be related to blood pressure regulation via the Pain signal regulation is a normal part of the defensive response mediated by the nervous system
+ The body reacts to illness by activating and sensitizing afferent nociceptive neurons ()
+ In the case of chronic pain, this process may trigger hyperarousal of the sympathetic nervous system ()
+ Based on the Polyvagal theory (18,19), an evolutionary neurophysiological model of the autonomic response to safety and threat, chronic maintenance of threat responses can lead to a compromised functional state ()
+ These chronic systemic functional problems are reflected in the regulation of the heart by the most rapidly responsive component of the nervous system, the ventral vagal complex, as measured by RSA ()
+ Previous studies have targeted the reduced RSA using biofeedback interventions, and HRV components have been used to measure the efficacy of chronic pain therapies ()
+ Yet, little is known if targeting network pathologies by non-invasive brain stimulation can influence ANS balance in patients with CLBP
+ investigate the effect of transcranial alternating current stimulation (tACS), which is a form of non-invasive brain stimulation that applies weak sine-wave electrical current to the scalp and can certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    modulate oscillatory brain network activity (2527), in patients with CLPB
+ In a separate publication, we reported that tACS enhanced impaired alpha oscillations and that pain relief correlated with the stimulation-induced increase in alpha oscillations in patients with CLBP ()
+ We hypothesized that tACS would increase RSA, and therefore reduced CLBP, based on previous findings that patients with CLBP show pathologically reduced RSA compared to certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    The inclusion criteria were as follows: (1) age between 18 and 65; (2) diagnosis of chronic low back pain by a clinician; (3) pain for at least 6months; (3) an average daily pain rating 4 as measured by a 0-10 numeric rating scale (NRS); (4) no history of neurologic or psychiatric conditions and no current unstable medical conditions; (5) no contraindications to tACS; and (6) no current pregnancy
+ The study was approved by the Biomedical Institutional Review Board of University of North Carolina at Chapel Hill and registered on clinicaltrials
+gov (NCT)
+ Participants were recruited from local pain and physical therapy clinics, as well as the University listserv email and a recruitment website (jointheconquest
+ org)
+ Participation consisted of two sessions and two follow up emails after a telephone screening determined initial eligibility
+ Participants also met criteria for low depression (total score <17) and suicide risk as defined by received both 10Hz-tACS and active sham stimulation in a randomized and counter-balanced order with a separation of at least one week between sessions
+ Each stimulation session was certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    We applied 10Hz-tACS via three silicone-carbon electrodes on the scalp with Ten20 conductive paste (Bio-Medical Instruments, Clinton Township, MI) and the XCISTE 100 stimulator (Pulvinar Neuro, Chapel Hill, NC)
+ The two stimulation electrodes (5x5cm) were placed at F3 and F4 according to the 10-20 international coordinate system (Figure )
+ Stimulation montage and modeling of electric field distribution were calculated by the tES LAB 
+0 software (Neurophet Inc
+, Seoul, South Korea)
+ The return electrode (5x7cm) was placed slightly below Pz
+ The two stimulation electrodes each delivered an in-phase sinusoidal waveform with 1mA zero-to-peak amplitude
+ Stimulation ramped up and down for 10 seconds
+ For active 10Hz-tACS, the stimulation lasted for 40 minutes
+ Sham stimulation was identical to active, except that stimulation only lasted for one minute
+ All participants completed the 10Hz-tACS and sham stimulation for 40 minutes on a different day
+ There was a required gap of at least 7 days between the two sessions to reduce carry-over effects (
+4 days  
+ )
+ Five-digit codes were used to ensure that study coordinators were blind to the stimulation condition
+ During minimize the phosphenes induced by stimulation
+ Participants were asked to stay relaxed, watch Participants completed a battery of baseline surveys including demographics, handedness, State-(BIS/BAS)(37,38), and pre-treatment opinion on the likelihood of pain improvement (0-10 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    numeric rating scale)
+ Other self-report baseline measures included the Pain Catastrophizing depression levels, physical activity limitations, and confidence in daily activities respectively
+ Pain severity and disability were assessed both prior to and after receiving stimulation
+ The pain scale utilized was an 11 point NRS (0-10) that includes word and facial descriptions and is part of the previously validated Defense and Veterans Pain Rating Scale (DVPRS) ()
+ The DVPRS was a repeated measure completed at the beginning and end of both sessions and a two-day follow up email
+ It also includes domain specific questions about pain interference in activity, mood, sleep, and stress in the last 24 hours (answered at session beginning and follow up only)
+ Disability was measured by the Oswestry Disability Index (ODI) (45,46), a back pain specific assessment measuring perception of disability
+ The ODI was another repeated measure that was completed at the beginning of each session and at follow-up
+ A pressure pain threshold (PPT) test using the Wagner FDX Algometer (Wagner Instruments FDX-25, Greenwich, Connecticut) was assessed to help quantify and document levels of pain sensitivity via pain tolerance measurement
+ PPT was assessed before and after stimulation at the right brachioradialis and right sacroiliac joint ()
+ The participant was instructed to inform the assessor when they first perceived a sensation of pain
+ The amount of pressure in pounds (lb) that constituted the pain sensation was recorded
+ This process was repeated three times bilaterally at each site and the average of these measures was used in the data analysis
+ The test-retest reliability of PPT certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    ECG data were collected with the Physio16 input box (Geodesic EEG System, EGI Inc
+, Eugene, OR) at a sampling rate of kHz
+ HRV components were extracted from ECG data (14,50) to evaluate changes in neural regulation of the ANS before and after intervention
+ We placed two disposable snap electrodes below the right collarbone and left inferior costal arch
+ Inter-beat intervals (IBI), which is the time between consecutive heartbeats expressed in milliseconds, were derived from detected R peaks in ECG data
+ The R peaks were extracted using the Cardio Peak-Valley Detector (CPVD) (51) and the IBI event series were obtained
+ The unedited IBI file was visually inspected and edited offline with CardioEdit software (developed in the Porges laboratory and implemented by researchers trained in the Porges laboratory)
+ Editing consisted of integer arithmetic (i
+ e
+, dividing intervals between heart beats when detections of R-wave from the ECG were missed or adding intervals when spuriously invalid detections occurred)
+ The resulting normal RR intervals were used in analysis when abnormal beats, like ectopic beats (heartbeats that originate outside the right atriums sinoatrial node) have been removed
+ ()
+ HRV time and frequency components were calculated with MATLAB and CardioBatch software (Brain-Body Center, University of Illinois at Chicago), respectively
+ For HRV time components, the average of normal RR intervals (meanRR), the standard deviation of normal RR intervals (SDNN), and the root mean square differences of successive RR intervals (RMSSD) were calculated using custom-built scripts in MATLAB
+ For HRV frequency components, RSA was calculated using CardioBatch software, which implements the Porges-Bohrer metric ()
+ This metric is neither moderated by respiration, nor influenced by nonstationarity, and reliably generates stronger effect sizes than other commonly used metrics of RSA (steps are described in depth in (53) and validated in ()
+ To derive the other HRV frequency components (LF, and certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    LF/HF), the IBI event series was resampled at 2 Hz to generate an equally spaced intervals time series
+ RSA and LF were calculated based on the Porges-Bohrer method (53,54); RSA uses a third-order, 21 point moving polynomial filter (MPF) applied to the 2 Hz IBI time series to remove low frequency oscillations and slow trend
+ The residual detrended output of the MPF was filtered with a Kaiser FIR windowed filter with cut-off frequencies that removes variance not related to spontaneous breathing in adults (
+12 to 
+40 Hz)
+ The filtered detrended output was divided into sequential 30-second epochs and the variance within each epoch was transformed by a natural logarithm (ln(ms2)), the mean of these epoch values was used as the estimate of RSA for the specific segment
+ LF uses a third-order, 51 point moving polynomial filter (MPF) applied to the 2 Hz IBI trend to remove extremely low frequency oscillations and slow trend
+ The residual detrended output of the MPF was filtered with a Kaiser FIR windowed filter with cut-off frequencies (
+04 to 
+10 Hz)
+ The filtered detrended output was divided in 30 second epochs and the variance within each epoch was transformed with a natural logarithm (ln(ms2)), the mean of the epochs values was used as an estimate of LF for the segment()
+ These variables included:1) respiratory sinus arrhythmia (i
+ e
+, RSA or high frequency HRV defined by the frequencies of spontaneous breathing (
+ -
+4 Hz), 2) low frequency HRV (i
+ e
+, occurring within the frequencies of spontaneous vasomotor and blood pressure oscillations; 
+-All statistical analyses were performed using custom-built scripts in R (R Foundation for Statistical Computing, Vienna, Austria)
+ All analyses were run on the difference of data before and after stimulation (post - pre) after taking the natural logarithm (within Porges-Bohrer certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    method)
+ A two-way repeated-measures ANOVA was run with a factor for the stimulation condition (10Hz-tACS vs
+ sham) and session (first vs
+ second) for all other HRV components
+  The session factor was included to control for non-specific effects that the session order might certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    The consort diagram is presented in Figure 2 ()
+ Twenty of the twenty-one participants recruited completed the study
+ Eighty percent of participants reported CLBP with a duration of greater than two years (Table )
+ The most common previous treatment reported included the use of NSAIDs, physical or aquatic therapy, alternative treatments, and low impact exercise such as yoga
+ All participants reported trying at least two previous treatment options
+ Full demographics The HRV frequency-domain components followed normal distribution as defined by the Wilks-Sharpiro test (p>
+ )
+ RSA was analyzed using a two-way repeated-measured ANOVA of condition (10 Hz-tACS and sham) and session (first visit and second visit)
+ In this analysis the interaction of condition and session was considered to represent a sequence effect if present
+ For RSA we found no significant main effect for condition (F1,35 = 
+01, p =
+32), session (F1,35 = 
+33, p = 
+57), or sequence (F1,35 = 
+66, p = 
+42) (Figure 3A, left panel)
+ We ran the same two-way repeated-measures ANOVA for LF and LF/HF
+ We found no significant effects of condition (F,=
+56, p=
+22), session (F,=
+91, p=
+10), or sequence (F1,35 = 
+44, p = 
+24) for LF nor did we find significant effects of condition (F,=
+14, p=
+72), session (F,=
+63, p=
+11), or sequence (F1,35 = 
+84, p = 
+37) for LF/HF (Figure 3A, middle and right panels)
+ In the time-domain analyses, we found a trending significant main effect of condition for meanRR (F,=
+92, p=
+096) but not session (F,=
+012, p=
+91) or sequence (F,=
+11 p=
+74; certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    Figure 3B, left panel)
+ For the standard deviation of normal RR intervals (SDNN), we found a significant main effect of condition (F,=
+34, p=
+027), but not session (F,=
+00, p=
+999) or sequence (F,=
+29, p=
+59; Figure 3B, middle panel)
+ Post-hoc paired t-tests yielded a significant SDNN increase in the 10Hz-tACS condition (t=
+07, p=
+ )
+ We found no significant difference in RMSSD for condition (F,=
+59, p=
+12), session (F,=
+16, p=
+69), or sequence (F,=
+02, p=
+88; Figure 3B, right panel)
+ These findings suggest that tACS modulated total HRV (both sympathetic and parasympathetic input) in patients with CLBP
+ Values for the pain and HRV metrics are presented in Table 
+ To investigate the presence of a relationship between baseline RSA and pain level, we calculated the Pearson correlation for the pre-stimulation time point (Table A)
+ Neither RSA nor SDNN measures correlated with baseline pain level, ODI, or PPT (Table A)
+ We also investigated the change in RSA and SDDN with pain, ODI, and PPT change
+ We found neither RSA nor SDNN Responders in this study are defined by participants who had a decrease of two points or more on the DVPRS (11 point NRS) after stimulation, which indicates the minimal clinically important difference (MCID) in CLBP based on previously reported findings ()
+ Twice as many participants reported being a responder (>2 decrease in pain scale) in the 10Hz-tACS versus the sham condition (8 of responders in 10Hz-tACS vs
+ 4 of responders in sham)
+ A chi-square test of independence was performed to examine the relation between stimulation condition and being a certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    responder
+ The relation between these variables did not reach statistical significance,  (2, N = 2) = 
+14, p =
+15, with a high Odds Ratio (OR=
+ )
+  Participants were asked how sure they were of having received stimulation on a visual analog scale (-)
+ A t-test was used to analyze confidence in stimulation
+ There was no significant successful
+ All participants completed a side-effect questionnaire after both sessions and there were no significant differences in any of the queried potential side-effects between active 10Hz certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    In this study, we investigated how non-invasive brain stimulation (10Hz-tACS) alters ANS balance measured with RSA and how these metrics correlated with the level of pain and other self-report characteristics
+ Contrary to our hypothesis, we found that there was no effect of Hz-tACS on RSA
+ Previous studies using transcranial direct current stimulation increased RSA in healthy participants (,)
+ However, we found a significant increase in SDNN for 10 Hz-tACS relative to sham
+ Our exploratory analyses to find a relationship between baseline RSA and pain severity did not show any significant correlations in agreement with previous findings that While both sequences had a similar tACS effect on RSA (Figure 2A, left panel), we found a trending effect of greater RSA in the tACS condition compared to sham before the intervention at both sessions (Figure 4, F,=
+105, p=
+ )
+ This finding may have limited the potential influence that 10Hz-tACS had on RSA as there was less potential for an intervention to increase RSA due to ceiling effects ()
+ Previous evidence suggests that there is an optimal range for RSA based on breathing rate and vagal input ()
+ Furthermore, most HRV intervention studies including biofeedback training with a slow controlled breathing rate or meditation (61) and HRV changes are measured throughout a longer duration with daily sessions for six weeks (,,)
+ RSA adapts quickly due to both internal and external perturbations (20), therefore  a treatment to create a lasting effect needs to be consistent, such as structured resonance breathing training certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    Within our time-domain analysis, 10Hz- tACS had a significant effect on SDNN
+ The time domain analysis reports the activity of the cardiac system (63), which may in turn broadly reflect ANS balance ()
+ SDNN is a commonly used parameter for the measurement of total HRV and represents the overall variability of both sympathetic and parasympathetic inputs to the heart ()
+ Many studies within chronic pain have found decreased SDNN within clinical populations compared to healthy controls (12) and HRV suppression has been correlated with pain severity or disability perception (,,)
+ One study (67) measured SDNN in patients with spinal cord injury (SCI) with and without neuropathic pain and found significant lower resting SDNN in SCI patients with pain compared to SCI without pain and healthy controls
+ Since SDNN includes input from both the parasympathetic and sympathetic input, few conclusions on the increase of specific ANS branches can be drawn (12), but SDNN has been hypothesized to provide objective quantification of analgesic response to pain treatment ()
+ Therefore, increasing overall HRV (SDNN) may be beneficial in patients with CLBP, and HRV intervention studies have shown increases in total HRV ()
+ Our findings thus suggest that SDNN may be a better target than Previous studies, which investigated non-invasive brain stimulation interventions in chronic pain, have shown promising, but varied results (,,)
+ Most of these studies have focused on transcranial direct current stimulation and transcranial magnet stimulation
+ Given our findings of successful target engagement of alpha oscillations that correlated with clinical pain improvement as reported in our previous paper (28), tACS has the potential to provide a safe, scientifically-supported, low-cost treatment option
+  However, more research utilizing tACS is needed to replicate our results and further dissect the underlying mechanism(s)
+ Our detailed certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    characterization (Tables 1 and 2) of the patient population provided here can be used to inform the planning of future tACS studies including the use of power calculations to inform sample As with any scientific study, the work presented here has limitations
+ First, this was a pilot study and thus not designed to establish statistical significance for small effect sizes
+ Our within-subject design increased our statistical power and is a strength considering large between-subject variation in many HRV components ()
+ Nevertheless, all statistical results should be interpreted cautiously given the small sample size
+ Second, we did not collect medication and lifestyle information unrelated to pain, such as antihistamines or caffeine use, both of which have been shown to influence HRV, albeit the within-subjects design should reduce impact of external factors ()
+ Third, we only analyzed two minutes of ECG data for HRV analysis following other studies in the field (,)
+ However, the current gold standard for HRV recordings is at least five minutes (74) and our study may have benefited from longer recordings
+ Fourth, our crossover study design only allowed for one session of active stimulation
+ TACS may have an additive effect on modulating oscillations if a design with multiple sessions were used (,)
+  Future studies involving multiple stimulation sessions are the next steps since recurring stimulation sessions are likely needed to produce perceptible and lasting clinical effects due to presumed underlying mechanisms that appear to be related synaptic plasticity ()
+ Several studies have investigated non-invasive brain stimulation techniques in patients with chronic pain, but treatment effects vary across the studies, and typically only clinical outcomes are reported
+ We aimed to identify objective biological targets using EEG and ECG to better understand the certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    action of 10Hz-tACS and the role of the ANS in chronic pain
+ Our results presented here along with those in our previous paper (28) show that brain network dynamics and self-reported pain seem to be more sensitive ways than HRV metrics to measure effects of brain stimulation for certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    This work was supported by the National Institute of Mental Health of the National Institutes of Health under Award Numbers R01MH111889 and R01MH101547, the National Center for Advancing Translational Sciences (NCATS), National Institutes of Health, through Grant Award Number ULTR
+ The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH
+ We gratefully acknowledge the help and All authors have read and approved to submit the paper
+ F
+ F
+, J
+ H
+ P
+, and K
+ L
+M designed the study
+ J
+ H
+ P
+ and M
+ L
+ A
+ performed the study
+ J
+ H
+ P
+, M
+D, and S
+ A
+ analyzed the data
+ J
+ H
+P and F
+ F
+ wrote the manuscript and all authors contributed to editing the manuscript
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    
+  Baliki MN, Apkarian AV
+ Nociception, pain, negative moods, and behavior selection
+ Neuron
+ 2015 Aug 
+  Ferrari R, Zanolin ME, Duse G, Visentin M
+ Effectiveness of opioid analgesics in chronic noncancer pain
+ 
+  Dowell D, Haegerich TM, Chou R
+ CDC Guideline for Prescribing Opioids for Chronic Pain--United States, 
+  Chou R, Turner JA, Devine EB, Hansen RN, Sullivan SD, Blazina I, et al The effectiveness and risks of long-term opioid therapy for chronic pain: a systematic review for a National Institutes of Health Pathways to 
+  Freburger JK, Carey TS, Holmes GM
+ Physical therapy for chronic low back pain in North Carolina: overuse, 
+  Pengel LHM, Herbert RD, Maher CG, Refshauge KM
+ Acute low back pain: systematic review of its 
+  Luedtke K, Rushton A, Wright C, Jrgens T, Polzer A, Mueller G, et al Effectiveness of transcranial direct current stimulation preceding cognitive behavioural management for chronic low back pain: sham controlled 
+  Ploner M, Sorg C, Gross J
+ Brain rhythms of pain
+ Trends Cogn Sci (Regul Ed)
+ 2017 Feb;():
+ 
+  Lee YC, Nassikas NJ, Clauw DJ
+ The role of the central nervous system in the generation and maintenance of chronic pain in rheumatoid arthritis, osteoarthritis and fibromyalgia
+ Arthritis Res Ther
+ 2011 Apr 
+  Nir R-R, Sinai A, Moont R, Harari E, Yarnitsky D
+ Tonic pain and continuous EEG: prediction of subjective pain perception by alpha-1 power during stimulation and at rest
+ Clin Neurophysiol
+ 2012 Mar;():
+  Sdervall J, Karppinen J, Puolitaival J, Kyllnen E, Kiviniemi AM, Tulppo MP, et al Heart rate variability in sciatica patients referred to spine surgery: a case control study
+ BMC Musculoskelet Disord
+ 2013 Apr 
+  Tracy LM, Ioannou L, Baker KS, Gibson SJ, Georgiou-Karistianis N, Giummarra MJ
+ Meta-analytic evidence for decreased heart rate variability in chronic pain implicating parasympathetic nervous system 
+  Denver JW, Reed SF, Porges SW
+ Methodological issues in the quantification of respiratory sinus 
+  Porges SW
+ A phylogenetic journey through the vague and ambiguous Xth cranial nerve: a commentary on 
+  Reyes del Paso GA, Langewitz W, Mulder LJM, van Roon A, Duschek S
+ The utility of low frequency heart rate variability as an index of sympathetic cardiac tone: a review with emphasis on a reanalysis of previous 
+  Mathias CJ, Bannister SR, editors
+ Autonomic Failure: A Textbook of Clinical Disorders of the Autonomic certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    
+  Nazarewicz J, Verdejo-Garcia A, Giummarra MJ
+ Sympathetic pain? A role of poor parasympathetic nervous 
+  Porges SW
+ The polyvagal theory: phylogenetic substrates of a social nervous system
+ Int J Psychophysiol
+ 
+  Porges SW
+ The polyvagal theory: new insights into adaptive reactions of the autonomic nervous system
+ 
+  Kolacz J, Porges SW
+ Chronic diffuse pain and functional gastrointestinal disorders after traumatic stress: pathophysiology through a polyvagal perspective
+ Front Med (Lausanne)
+ 2018 May ;:
+ 
+  Berry ME, Chapple IT, Ginsberg JP, Gleichauf KJ, Meyer JA, Nagpal ML
+ Non-pharmacological Intervention for Chronic Pain in Veterans: A Pilot Study of Heart Rate Variability Biofeedback
+ Glob Adv 
+  Hassett AL, Radvanski DC, Vaschillo EG, Vaschillo B, Sigal LH, Karavidas MK, et al A pilot study of the efficacy of heart rate variability (HRV) biofeedback in patients with fibromyalgia
+ Appl Psychophysiol 
+  Hoffman BM, Papas RK, Chatkoff DK, Kerns RD
+ Meta-analysis of psychological interventions for chronic 
+  Hallman DM, Olsson EMG, Schele B von, Melin L, Lyskov E
+ Effects of heart rate variability biofeedback in subjects with stress-related chronic neck pain: a pilot study
+ Appl Psychophysiol Biofeedback
+ 2011 
+  Helfrich RF, Schneider TR, Rach S, Trautmann-Lengsfeld SA, Engel AK, Herrmann CS
+ Entrainment of brain oscillations by transcranial alternating current stimulation
+ Curr Biol
+ 2014 Feb ;():
+ 
+  Frhlich F, Sellers KK, Cordle AL
+ Targeting the neurophysiology of cognitive systems with transcranial 
+  Frhlich F
+ Endogenous and exogenous electric fields as modifiers of brain activity: rational design of noninvasive brain stimulation with transcranial alternating current stimulation
+ Dialogues Clin Neurosci
+ 
+  Ahn S, Prim JH, Alexander ML, McCulloch KL, Frhlich F
+ Identifying and Engaging Neuronal Oscillations by Transcranial Alternating Current Stimulation in Patients With Chronic Low Back Pain: A Randomized, 
+  Ahamed S, Sheriff R
+ Analysis of heart rate variability in patients with chronic rheumatoid arthritis
+ Int J Clin 
+  Evrengl H, Dursunoglu D, Cobankara V, Polat B, Seleci D, Kabuku S, et al Heart rate variability in 
+  Appelhans BM, Luecken LJ
+ Heart rate variability as an index of regulated emotional responding
+ Review of 
+  Sanya EO, Brown CM, Wilmowsky C
+ Impairment of parasympathetic baroreflex responses in migraine 
+  Kulshreshtha P, Gupta R, Yadav RK, Bijlani RL, Deepak KK
+ A comprehensive study of autonomic certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    
+  Meeus M, Goubert D, De Backer F, Struyf F, Hermans L, Coppieters I, et al Heart rate variability in patients with fibromyalgia and patients with chronic fatigue syndrome: a systematic review
+ Semin Arthritis Rheum
+ 
+  Zimmerman M, Martinez JH, Young D, Chelminski I, Dalrymple K
+ Severity classification on the Hamilton 
+  Spielberger CD, Gorsuch RL, Lushene RE, Vagg PR
+ State-trait anxiety inventory (STAI)
+ BiB
+ 2010; 
+  Carver CS, White TL
+ Behavioral inhibition, behavioral activation, and affective responses to impending reward and punishment: The BIS/BAS Scales
+ J Pers Soc Psychol
+ ;():
+ 
+  Jorm AF, Christensen H, Henderson AS, Jacomb PA, Korten AE, Rodgers B
+ Using the BIS/BAS scales to measure behavioural inhibition and behavioural activation: Factor structure, validity and norms in a large 
+  Sullivan MJL, Bishop SR, Pivik J
+ The Pain Catastrophizing Scale: Development and validation
+ Psychol 
+  Osman A, Barrios FX, Gutierrez PM, Kopper BA, Merrifield T, Grittmann L
+ The Pain Catastrophizing Scale: further psychometric evaluation with adult samples
+ J Behav Med
+ 2000 Aug;():
+ 
+  Lovibond PF, Lovibond SH
+ The structure of negative emotional states: comparison of the Depression Anxiety Stress Scales (DASS) with the Beck Depression and Anxiety Inventories
+ Behav Res Ther
+ 1995 
+  Saleh KJ, Mulhall KJ, Bershadsky B, Ghomrawi HM, White LE, Buyea CM, et al Development and validation of a lower-extremity activity scale
+ Use for patients treated with revision total knee arthroplasty
+ J 
+  Nicholas MK
+ The pain self-efficacy questionnaire: Taking pain into account
+ Eur J Pain
+ 2007 
+  Buckenmaier CC, Galloway KT, Polomano RC, McDuffie M, Kwon N, Gallagher RM
+ Preliminary validation of the Defense and Veterans Pain Rating Scale (DVPRS) in a military population
+ Pain Med
+ 2013 
+  Fritz JM, Irrgang JJ
+ A comparison of a modified Oswestry Low Back Pain Disability Questionnaire and the 
+  Fritz CO, Morris PE, Richler JJ
+ Effect size estimates: current use, calculations, and interpretation
+ J Exp 
+  Schwarzer AC, Aprill CN, Bogduk N
+ The sacroiliac joint in chronic low back pain
+ Spine
+ 1995 Jan 
+  Farasyn A, Lassat B
+ Cross friction algometry (CFA): Comparison of pressure pain thresholds between patients with chronic non-specific low back pain and healthy subjects
+ J Bodyw Mov Ther
+ 2016 
+  Fischer AA
+ Pressure algometry over normal muscles
+ Standard values, validity and reproducibility of 
+  Lewis GF, Furman SA, McCool MF, Porges SW
+ Statistical strategies to quantify respiratory sinus certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    
+  Dvila DF, Donis JH, Arata de Bellabarba G, Villarroel V, Sanchez F, Berrueta L, et al Cardiac autonomic control mechanisms in the pathogenesis of chagas heart disease
+ Interdiscip Perspect Infect Dis
+ 2012 Oct 
+  Shaffer F, Ginsberg JP
+ An overview of heart rate variability metrics and norms
+ Front Public Health
+ 2017 
+  Porges SW
+ ,,
+ Washington, DC: US Patent and Trademark Office
+ 
+  Porges SW, Bohrer RE
+ The analysis of periodic processes in psychophysiological research
+ Principles of psychophysiology: Physical, social, and inferential elements  [Internet]
+ New York, NY: US: Cambridge University Press
+; 1990 [cited 2018 Sep ]
+ p
+ 
+ Available from: 
+  Davila MI
+ Noncontact Extraction Of Human Arterial Pulse With A Commercial Digital Color Video 
+  Katz NP, Paillard FC, Ekman E
+ Determining the clinical importance of treatment benefits for interventions for painful orthopedic conditions
+ J Orthop Surg Res
+ 2015 Feb ;:
+ 
+  Nikolin S, Boonstra TW, Loo CK, Martin D
+ Combined effect of prefrontal transcranial direct current stimulation and a working memory task on heart rate variability
+ PLoS ONE
+ 2017 Aug ;():e
+ 
+  Montenegro RA, Farinatti P de TV, Fontes EB, Soares PP da S, da Cunha FA, Gurgel JL, et al Transcranial direct current stimulation influences the cardiac autonomic nervous control
+ Neurosci Lett
+ 2011 Jun 
+  Gockel M, Lindholm H, Niemist L, Hurri H
+ Perceived disability but not pain is connected with autonomic nervous function among patients with chronic low back pain
+ J Rehabil Med
+ 2008 May;():
+ 
+  Reynard A, Gevirtz R, Berlow R, Brown M, Boutelle K
+ Heart rate variability as a marker of self-regulation
+ 
+  Lehrer PM, Gevirtz R
+ Heart rate variability biofeedback: how and why does it work? Front Psychol
+ 2014 
+  Sielski R, Rief W, Glombiewski JA
+ Efficacy of Biofeedback in Chronic back Pain: a Meta-Analysis
+ Int J 
+  Wang H-M, Huang S-C
+ SDNN/RMSSD as a Surrogate for LF/HF: A Revised Investigation
+ Modelling and 
+  Wulsin L, Herman J, Thayer JF
+ Stress, autonomic imbalance, and the prediction of metabolic risk: A model 
+  Hallman DM, Ekman AH, Lyskov E
+ Changes in physical activity and heart rate variability in chronic neck-shoulder pain: monitoring during work and leisure time
+ Int Arch Occup Environ Health
+ ;():
+ 
+  Mostoufi SM, Afari N, Ahumada SM, Reis V, Wetherell JL
+ Health and distress predictors of heart rate variability in fibromyalgia and other forms of chronic pain
+ J Psychosom Res
+ 2012 Jan;():
+ 
+  Karri J, Zhang L, Li S, Chen Y-T, Stampas A, Li S
+ Heart Rate Variability: A Novel Modality for Diagnosing Neuropathic Pain after Spinal Cord Injury
+ Front Physiol
+ 2017 Jul ;:
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    
+  Schabrun SM, Jones E, Elgueta Cancino EL, Hodges PW
+ Targeting chronic recurrent low back pain from the top-down and the bottom-up: a combined transcranial direct current stimulation and peripheral electrical 
+  Antal A, Terney D, Khnl S, Paulus W
+ Anodal transcranial direct current stimulation of the motor cortex ameliorates chronic pain and reduces short intracortical inhibition
+ J Pain Symptom Manage
+ 2010 
+  Fregni F, Freedman S, Pascual-Leone A
+ Recent advances in the treatment of chronic pain with non-invasive 
+  Quintana DS, Heathers JAJ
+ Considerations in the assessment of heart rate variability in biobehavioral 
+  Dekker JM, Crow RS, Folsom AR, Hannan PJ, Liao D, Swenne CA, et al Low heart rate variability in a -minute rhythm strip predicts risk of coronary heart disease and mortality from several causes: the ARIC 
+  Shankar N, Thakur M, Tandon OP, Saxena AK
+ Autonomic status and pain profile in patients of chronic low back pain and following electro acupuncture therapy: a randomized control trial Indian J Physiol 
+ 2011; 
+  Malik M
+ Heart Rate Variability
+ Ann Noninv Electrocard
+ 1996 Apr;():
+ 
+  Mellin JM, Alagapan S, Lustenberger C, Lugo CE, Alexander ML, Gilmore JH, et al Randomized trial of transcranial alternating current stimulation for treatment of auditory hallucinations in schizophrenia
+ Eur 
+  Ahn S, Mellin JM, Alagapan S, Alexander ML, Gilmore JH, Jarskog LF, et al Targeting reduced neural oscillations in patients with schizophrenia by transcranial alternating current stimulation
+ Neuroimage
+ 2018 
+  Ziemann U, Ili TV, Pauli C, Meintzschel F, Ruge D
+ Learning modifies subsequent induction of long-term potentiation-like and long-term depression-like plasticity in human motor cortex
+ J Neurosci
+ 2004 Feb certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    Figure 
+ Stimulation montage and electric field distribution
+ (A) Electrode E1 and E2 deliver 1mA (zero-to-peak) in-phase sine-wave
+ Electrode E3 is used as a return electrode
+ (B) Normalized electric field distribution on the cortex (left: top-view, right: left-view)
+ Figure 
+ HRV changes [ln(post)-ln(pre)] between tACS and sham conditions for (A) Frequency-domain HRV components; RSA, LF, and LF/HF and for (B) Time-domain HRV Figure 
+ Baseline RSA values before stimulation (tACS and sham) in both sessions
+ Table 
+ Demographic Information
+ BMI: Body Mass Index, BIS/BAS: Behavioral Inhibition HRV: Heart Rate Variability, LF/HF: ration of Low Frequency to high frequency, Mean RR: Mean time between RR (all R peaks) intervals, Baseline refers to the pre-stimulation measures of Table 
+ Pre and Post Stimulation Metrics between Treatment Groups for Primary Pain and all HRV Outcome Variables
+ Each group: N=20 unless otherwise noted
+ *: n=19, +:n=
+ Table 
+ Correlations of HRV Measures (RSA and SDNN) with Pain Measures  a) Correlations at baseline
+ Baseline refers to the pre-session measures of session 
+, b) Correlations for the change (post-pre stimulation) at both sessions
+ N=20 participants
+ RSA-Respiratory Sinus Arrhythmia, SDNN- Standard Deviation of NN intervals, DVPRS- Defense and Veterans Pain Rating Scale, PPT- Pressure Pain Threshold, ODI- Oswestry Disability Index, Table 
+ Side Effect Differences Between Conditions
+ A side effects questionnaire was completed after stimulation  at both sessions with 1=absent, 2=mild, 3=moderate, =severe
+ The Mean(SD) are reported for both conditions and paired t-tests were used to test for differences certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    Table 
+ Demographic Information
+ BMI: Body Mass Index, BIS/BAS: Behavioral Inhibition System/ Behavioral Activation System Scale, HamD-17: Hamilton Depression Rating Scale, HRV: Heart Rate Variability, LF/HF: ration of Low Frequency to high frequency, Mean RR: Mean time between RR (all R peaks) intervals, Baseline refers to the pre-stimulation measures of certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    Table 2: Pre and Post Stimulation Metrics between Treatment Groups for Primary Pain and all HRV Outcome Variables
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    Table 3: Correlations of HRV Measures (RSA and SDNN) with Pain Measures  a) Correlations at baseline
+ Baseline refers to the pre-session measures of session 
+, b) Correlations for the change (post-pre stimulation) at both sessions
+ N=20 participants
+ RSA-Respiratory Sinus Arrhythmia, SDNN- Standard Deviation of NN intervals, DVPRS- Defense and Veterans Pain Rating Scale, PPT- Pressure Pain Threshold, ODI- Oswestry Disability Index, ll Table 
+ Side Effect Differences Between Conditions
+ A side effects questionnaire was completed after stimulation  at both sessions with 1=absent, 2=mild, 3=moderate, =severe
+ The Mean(SD) are reported for both conditions and paired t-tests certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted June 20, 
+ ;    

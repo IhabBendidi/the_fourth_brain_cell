@@ -1,0 +1,404 @@
+Fracture Mechanics of Human Blood Clots: Measurements of Toughness and Critical Length scalesShiyu Liu,a Guangyu Bao,a Zhenwei Ma,a Christian J
+ Kastrupb and Jianyu Li*ac Blood coagulates to plug vascular damage and stop bleeding, and thus the function of blood clots in hemostasis depends on their resistance against rupture (toughness)
+ Despite the significance, fracture mechanics of blood clots remains largely unexplored, particularly the measurements of toughness and critical length scales governing clot fracture
+ Here, we study the fracture behavior of human whole blood clots and platelet-poor plasma clots
+ The fracture energy of whole blood clots and platelet-poor plasma clots determined using modified lap-shear method is 
+ 
+18 J/m2 and 
+ 
+90 J/m2, respectively
+ We find that the measured toughness is independent of the specimen geometry and loading conditions
+ These results reveal a significant contribution of blood cells to the clot fracture, as well as the dissipative length scale and nonlinear plug and seal the blood vessel defects, where they are exposed to shear stress, tension and blood pressure from the local tissue even fatal The fracture of the blood clots at wound sites results clot yields small pieces of thrombi that may disturb blood flow clots in human health, it is not well understood compared to the cracks
+ Few works to date are reported on the toughness (i
+ e
+, fracture energy required to extend a unit area of crack) of blood clots are soft (shear modulus < 1 kPa) and deformable, this methods such as pure shear tests
+6 Also, the wet nature of blood clots makes them difficult to grip or handle
+ Lastly, blood clots are not stable and there is a limited operational time window
+ complexity of blood clots
+1 A running crack in a blood clot is tip
+ There exists a failure zone where dissipation occurs and a define the failure zone and nonlinear zone are known as the a
+ Department of Mechanical Engineering, McGill University, 817 Sherbrooke St W, b
+ Michael Smith Laboratories, University of British Columbia, 2185 East Mall, c
+ Department of Biomedical Engineering, McGill University, 817 Sherbrooke St W, (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    2 | J
+ Name
+, 2020, 00, 1-3 This journal is   The Royal Society of Chemistry 20xx measure the fracture energy of human blood clots
+ We ask the and how does it depend on the composition and loading? To blood clots
+ To mimic aspects of tissue surfaces, we will employ defining the crack tip field of blood clots
+ These findings will The human ethics protocol for this study has been approved by preserved in 1 mL aliquots
+ The human WB was kept at 4  and the PPP was frozen at -80 
+ They were thawed at room containing NaCl and CaCl2 was mixed with the tissue factor at a volume ratio of :
+ The mixture was then added into the blood samples (either WB or PPP), with a final volume ratio of NaCl was fixed at 
+5 mM, the final concentration of CaCl2 was after recalcification, the blood clot was kept in a sealed Ziploc the samples were incubated at 37   for 2 hours to allow Fig
+ 1 Schematics of clot formation and failure at a wound of a blood vessel
+ (A) Blood loss at a wound of a blood vessel
+ (B) A blood clot, formed to seal the defect, experiencing mechanical loading from the blood flow and the surrounding tissue, which might result in clot rupture
+ (C) Blood clots may rupture, causing rebleeding
+ (D) Schematic of the crack tip zone
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    This journal is   The Royal Society of Chemistry 20xx J
+ Name
+, 2020, 00, 1-3 | 3  map the clotting kinetics of WB or PPP
+ Blood samples were the stage of a rheometer
+ The gap between the plate and the stage was set at 500 m for a 160-L blood sample
+ The temperature was set at 37   to mimic the physiological 1 Hz) using a 20-mm parallel steel plate, the clotting kinetics was modulus reached 90% of its plateau value
+ At least 4 replicates width 15 mm, and thickness 
+1 mm) was placed between two An incision of 1-mm length was introduced as a pre-crack at the area, was calculated as the total work (i
+ e
+, the area under the surface after rupture,  = tW A 
+ The shear strength was also curve divided by the initial area of the sample
+ The fracture laser-cut and glued to produce rigid cantilever beams (60 mm x 10 mm x 6 mm) and coated with collagen casing to mimic tissue geometry (40 mm length, 10 mm width, and 
+1 mm thickness) crack surface after rupture, i
+ e
+,  = tW A 
+ At least 4 replicates were calculated
+ All data are represented as a means  
+5SD, and compared for the role of blood cells in clot fracture
+ The solution and tissue factor (Fig
+ A)
+ The addition of Ca2+ initiated Blood clots stiffened with the presence of blood cells such as SEM to image the microscopic morphology of the clots
+ The PPP clot is a typical cross-linked fibrin network, while the WB clot is a tight aggregation of RBCs connected by the fibrin network and platelets (Fig
+ S1, ESI)
+ As the RBCs take up to 50% of the total (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    4 | J
+ Name
+, 2020, 00, 1-3 This journal is   The Royal Society of Chemistry 20xx calcium concentration increases from 10 mM to 30 mM (Fig
+ 2C) and 40 mM)
+ A similar trend was also observed on the change fig
+ 2A, B)
+ As a result, 30 mM final calcium concentration was used in the following study on both human WB and human PPP clots
+ The shear modulus of human WB clots is 
+ 
+42 Pa, introduced a pre-crack in the middle of the sample and adjusted reveal fibrin fibers pulled out at the crack tip (Fig
+3A inset)
+ From (Fig
+ 3B, C)
+ The shear strain rate was fixed 20/min in this study
+ It should be noted that the loading rate is expected to play a role as the blood clots are highly viscoelastic, calling for further Fig
+ 2 Rheological measurements of blood clots
+ (A) Schematics of blood clot sample preparation
+ (B) Gelation kinetics of clotting whole blood (WB) and platelet-poor plasma (PPP)
+ (C) Plateau storage moduli of whole blood clots and platelet-poor plasma clots as a function of (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    This journal is   The Royal Society of Chemistry 20xx J
+ Name
+, 2020, 00, 1-3 | 5  method to test human PPP clots (Fig
+ A)
+ In the modified DCB Fig
+ 3 Fracture energy of blood clots measured by lap shear test were size independent
+ A) Schematics of lap shear test setup
+ (B) Force-displacement curves of lap shear tests for whole blood (WB) clots and platelet-poor plasma (PPP) clots; the inset shows the fracture surface of the WB specimen
+ (C) Fracture energy results of whole blood clots and platelet-poor plasma clots
+ Sample size N= 
+ (D) Representative force-displacement curves of whole blood clot lap shear tests of different sample lengths
+ (E) Fracture energy of whole blood clots obtained from lap shear tests of different sample lengths
+ Sample size N=4; error bars, mean  
+5SD; NS: no significance, one-way analysis of variance (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    6 | J
+ Name
+, 2020, 00, 1-3 This journal is   The Royal Society of Chemistry 20xx by lap shear tests (
+ 
+90 J/m2) was consistent (Fig
+ B)
+  In that of the lap shear tests (
+ 
+47 kPa) (Fig
+ C)
+ This result fracture of blood clots: the dissipative length scale   and the nonlinear elastic length scale l 
+11 The former describes the size of the process zone near the crack tip during fracture and reflects the flaw sensitivity of a material, while the latter depicts crack tip (as illustrated in Fig
+ C)
+10 The dissipative length scale was estimated by the ratio of the fracture energy to the work to rupture,  =  *W 
+ The work to rupture *W  was characterized by loading specimens without a cut to rupture using the same setup (lap shear test in this study) and defined by the area under ratio of the fracture energy to the shear modulus, = l E 
+ As can be seen, the length scales were on the order of 
+1-1 mm, The two length scales provide insights for modeling the crack tip and PPP clots from this work, and those reported in literature clot8, the WB clots have a smaller flaw sensitivity length scale of the fact that the WB clots contain large fraction of blood cells
+ Platelets attach to the fibrin fibers to stiffen and densify the clot, of soft and viscoelastic filler, RBCs, can dissipate the stress and Fig
+ 4 Lap shear test results were compared with double cantilever beam tests, and loading condition independence was found
+ (A) Schematics of double cantilever beam (DCB) testing, and representative force-displacement curves of DCB tests on PPP clots
+ (B) Fracture energy of PPP clots obtained from DCB tests and lap shear tests
+ (C) Strength of PPP clots measured by DCB tests and strength of PPP clots measured by lap shear tests
+ Strength is defined as the maximum force divided by the initial area of the sample section surface
+ Sample size (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    This journal is   The Royal Society of Chemistry 20xx J
+ Name
+, 2020, 00, 1-3 | 7  clots and PPP clots, as well as the critical length scales of blood to the sample size
+ The fracture energy measured with the lap-into the stress-strain field in the crack tip during blood clot 
+ Y
+ Qiu, D
+ R
+ Myers and W
+ A
+ Lam, Nat
+ Rev
+ Mater
+, 2019, 
+ B
+ Furie and B
+ C
+ Furie, N
+ Engl
+ J
+ Med
+, 2008, 359, -
+ K
+ Y
+ T
+ Chan, A
+ S
+ M
+ Yong, X
+ Wang, K
+ M
+ Ringgold, A
+ E
+ St John, J
+ R
+ Baylis, N
+ J
+ White and C
+ J
+ Kastrup, Sci
+ Rep
+, 
+ M
+ B
+ Malas, I
+ N
+ Naazie, N
+ Elsayed, A
+ Mathlouthi, R
+ 
+ R
+ Long and C
+ Y
+ Hui, Soft Matter, 2016, 12, -
+ 
+ J
+ Kang, C
+ Wang and S
+ Cai, Soft Matter, 2017, 13, -
+ V
+ Tutwiler, J
+ Singh, R
+ I
+ Litvinov, J
+ L
+ Bassani, P
+ K
+ Purohit 
+ A
+ F
+ Bower, Applied mechanics of solids, CRC press, 
+ 
+ C
+ Chen, Z
+ Wang and Z
+ Suo, Extreme Mech
+ Lett
+, 2017, 10, 
+ R
+ Long, C
+ -Y
+ Hui, J
+ P
+ Gong and E
+ Bouchbinder, Annu
+ Rev
+ Fig
+ 5 Dissipative and nonlinear elastic length scales of a variety of materials
+ (A) Rough quantified critical length scales of whole blood (WB) and platelet-poor plasma (PPP) clots measured in this work
+ As expected, the dissipative length scale is smaller than the nonlinear elastic length scale, since the blood clots are soft
+ (B) Fracture length-scale chart for soft and biological materials from reported work by others8, 11, -
+ Dash line represents that the materials dissipative length scale and nonlinear length scale are equal (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    8 | J
+ Name
+, 2020, 00, 1-3 This journal is   The Royal Society of Chemistry 20xx 
+ J
+ Hun Yeon, K
+ Y
+ Chan, T
+ C
+ Wong, K
+ Chan, M
+ R
+ Sutherland, R
+ F
+ Ismagilov, E
+ L
+ Pryzdial and C
+ J
+ Kastrup, 
+ X
+ Ni, C
+ Chen and J
+ Li, Extreme Mech
+ Lett
+, 2020, 34, 
+ Y
+ Wang, X
+ Yang, G
+ Nian and Z
+ Suo, J
+ Mech
+ Phys
+ Solids, 
+ K
+ Y
+ T
+ Chan, C
+ Zhao, E
+ M
+ J
+ Siren, J
+ C
+ Y
+ Chan, J
+ 
+ A
+ K
+ Dastjerdi, M
+ Pagano, M
+ T
+ Kaartinen, M
+ D
+ McKee 
+ E
+ W
+ Davie, K
+ Fujikawa and W
+ Kisiel, Biochem
+, 1991, 30, 
+ R
+ I
+ Litvinov and J
+ W
+ Weisel, ISBT Sci
+ Ser
+, 2017, 12, -
+ K
+ C
+ Gersh, C
+ Nagaswami and J
+ W
+ Weisel, Thromb
+ 
+ W
+ A
+ Lam, O
+ Chaudhuri, A
+ Crow, K
+ D
+ Webster, T
+ -D
+ Li, A
+ Kita, J
+ Huang and D
+ A
+ Fletcher, Nature Materials, 2011, 
+ W
+ Li, J
+ Sigley, M
+ Pieters, C
+ C
+ Helms, C
+ Nagaswami, J
+ W
+ 
+ E
+ A
+ Ryan, L
+ F
+ Mockros, J
+ W
+ Weisel and L
+ Lorand, 
+ P
+ Evans, K
+ Hawkins, M
+ Lawrence, M
+ S
+ Barrow, P
+ 
+ G
+ P
+ Sugerman, S
+ H
+ Parekh and M
+ K
+ Rausch, , 
+ Y
+ Z
+ Yoon, J
+ Kotar, G
+ Yoon and P
+ Cicuta, Phys
+ Biol
+, 2008, 
+ T
+ Khamdaeng, J
+ Luo, J
+ Vappou, P
+ Terdtoon and E
+ E
+ 
+ J
+ Li, W
+ R
+ K
+ Illeperuma, Z
+ Suo and J
+ J
+ Vlassak, ACS Macro 
+ R
+ S
+ Rivlin and A
+ G
+ Thomas, J
+ Polym
+ Sci
+, 1953, 10, -
+ T
+ Nakajima, T
+ Kurokawa, S
+ Ahmed, W
+ -L
+ Wu and J
+ P
+ 
+ M
+ Lefranc and E
+ Bouchaud, Extreme Mech
+ Lett
+, 2014, 1, 
+ Y
+ Akagi, H
+ Sakurai, J
+ P
+ Gong, U
+ -I
+ Chung and T
+ Sakai, J
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    

@@ -1,0 +1,483 @@
+Yuri Kato1, Shigeru Yamada2, Kazuhiro Nishiyama1, Ayano Satsuka2, Suyong Re3, Daiki 2 Division of Pharmacology, National Institute of Health Sciences (NIHS), Kanagawa, 3 Artificial Intelligence Center for Health and Biomedical Research (ArCHER), National 4 Laboratory of Creative Science for Insect Industries, Faculty of Agriculture, Kyushu 5 National Institute for Physiological Sciences & Exploratory Research Center on Life and Living Systems, National Institutes of Natural Sciences, Okazaki, 444-8787, Japan 6 Division of Biomedical Food Research, National Institute of Health Sciences (NIHS), 7 Graduate Division of Nutritional and Environmental Sciences, University of Shizuoka, (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;     Laboratory of Regulation for Intractable Infectious Diseases, Center for Vaccine and 9 Department of Applied Chemistry, Graduate School of Engineering, Kyushu University, 10 Division of Biotechnology, Center for Future Chemistry, Kyushu University, Fukuoka, 11 Institute for Protein Research, Osaka University, 3-2 Yamadaoka, Suita, Osaka, -12 Laboratory of Insect Genome Science, Faculty of Agriculture, Kyushu University, (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    infection is one of key determinants of COVID-19 severity and mortality
+ SARS-CoV-2 entry to host cells are initiated by binding with its receptor, angiotensin converting enzyme (ACE) 2, and the ACE2 abundance is thought to reflect the susceptibility to infection
+ Here, we found that clomipramine, a tricyclic antidepressant, potently inhibits Among 13 approved drugs that we have previously identified as potential inhibitor of with clomipramine
+ Furthermore, the combined use of clomipramine and remdesivir was revealed to synergistically suppress SARS-CoV-2 infection
+ Our results will provide the (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    A new pandemic of pneumonia caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has emerged in 2019 and rapidly spread worldwide in early ,
+ Severe prognostic symptoms have become a global problem and the development of effective treatments and drugs is urgently needed,
+ Coronaviruses are known for their impact on the respiratory tract, but SARS-CoV-2 can invade and infect the heart, and lead arrhythmias, heart attack-like symptom, and heart failure,
+ The tropism of organs has been studied from autopsy specimens
+ Sequencing data has revealed that SARS-CoV-2 genomic RNA was highest in the lungs, but the heart, kidney, and liver also showed substantial amounts
+ In fact, above 1,000 copies of SARS-CoV-2 virus were detected in The heart is one of the many organs with high expression of SARS-CoV-2 receptor, angiotensin converting enzyme 2 (ACE)
+ SARS-CoV use its spike (S) glycoprotein to bind with ACE2, and mediate membrane fusion and virus entry,
+ In the process of endosome13, two-pore channel subtype 2 (TPC2)12, a major downstream effector of (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    14, and cathepsin L12,15 , a cysteine protease that cleaves S protein to facilitate virus entry in lysosome
+ In this study, we focused on ACE2 internalization as a therapeutic target of severe COVID-
+ Among 13 approved drugs that we have previously identified a tricyclic antidepressant18, was found to suppress SARS-CoV-2 invasion and infection remdesivir, suggesting the potential as a breakthrough treatment for severe COVID-
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    Muscular wasting, caused by atrophic remodeling of muscular tissues, is a major symptom of aging (i
+ e
+, sarcopenia) and cancer cachexia, and a risk factor for severe COVID-
+ We previously identified several approved drugs with potency to inhibit inflammatory drug used in the treatment of asthma and stroke, is now under progress of clinical trials for the treatment of acute respiratory distress syndrome (ARDS) in COVID-19 patients
+ Therefore, we screened another type of drug that has an additional potency marked ACE2 internalization by S protein (50 nM) treatment (Figure A)
+ Among top 13 levels18, showed the best potency to inhibit the S protein-induced ACE2 internalization (Figure 1B, Table )
+ Clomipramine inhibited SARS-CoV-2 pseudovirus infection in a concentration-dependent manner with an IC50 of 682  44 nM (Figure C)
+ internalization with an IC50 of 684  46 nM (Figure C)
+ HiLyte Fluoragents21-24 nor other tricyclic antidepressant agents showed as promising inhibitory effect as clomipramine (Figure 1E, F)
+ We also developed bioluminescence resonance energy (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    (Figure G)
+ The ACE2 internalization caused by pseudovirus infection determined by the decrease in BRET ratio (BRET) was suppressed by clomipramine in a concentration-dependent manner
+ (Figure H)
+ In fact, HiLyte Fluor 555-labeled S protein was which was significantly suppressed by clomipramine treatment
+ These results suggest that clomipramine could be repurposed for the treatment with COVID-19 by inhibiting ACE2 Clinically, it is important whether drug treatment after SARS-CoV-2 infection is effective
+ We confirmed that treatment with clomipramine 1 hour after pseudovirus infection also prevented the intracellular viral RNA level by 91% (for 6 hours) and 67% (for 18 hours (Figure B-C)
+ In contrast, treatment with ibudilast failed to prevent SARS-CoV-2 virus infection (Figure B-D)
+ Treatment with clomipramine simultaneously and 1 hour after SARS-CoV-2 infection also suppressed the intracellular viral RNA level (Figure D)
+ with an IC50 of 
+4  
+69 M (Figure E)
+ Desmethylclomipramine also suppressed (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    SARS-CoV-2 infection (Figure F)
+ Plaque assay revealed that the SARS-CoV-2 virus viability was also reduced by clomipramine, but not ibudilast treatment (Figure G)
+ Remdesivir is the RNA-dependent RNA polymerase inhibitor that is approved for the Solidarity Trial results show little or no effect on hospitalized patients with COVID-
+ remdesivir, which have different targets, would enhance the anti-COVID-19 effect
+ The single treatment with remdesivir slightly reduced viral RNA level in TMPRSS-reduction of SARS-CoV-2 viral RNA level (Figure 2H), indicating their synergistic not ibudilast, 1 hour before and after SARS-CoV-2 infection significantly reduced viral RNA levels in iPS-CMs (Figure J)
+ These results suggest that clomipramine prevents internalized cells due to S protein exposure was suppressed by clomipramine in a (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    A)
+ Higher concentration (> 10 M) of clomipramine was required to significantly suppress the interaction between S protein and ACE2, and amitriptyline, another tricyclic antidepressant like clomipramine, never suppress the binding of S protein to ACE2 (Figure B)
+ Clomipramine failed to reduce ACE2 enzyme activity (Figure C)
+ These results suggest that clomipramine does not seemingly bind with ACE2 but non-competitively inhibits ACE2 internalization in the cells
+ The receptor binding domain (RBD) of S protein reportedly activates the ACE2-mediated endocytic signal pathway, by which SARS-CoV-2 virus enters the susceptible cells
+ We first attempted a structure-activity relationship analysis among tricyclic antidepressants with a structure similar to clomipramine, but it was difficult because none of the compounds showed significant inhibition of ACE2 internalization (Figure D-F)
+ An in silico docking analysis suggests that clomipramine interacts with the S protein at one end of its RBD (Figure 
+G) and that the interacting residues are distinct from other candidate compounds (Figure D-F)
+ However, no apparent correlation was observed between the estimated binding energies and the internalization suppression ratio (Figure D-E)
+ These results suggest that (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    drugs that are expected to repurpose their indications for COVID-19 treatment have been identified one after another, but there is still few effective drug proven in clinical trials established by WHO
+ Clomipramine, clinically applied as a tricyclic antidepressant, has been used in basic research as a pharmacological tool to inhibit clathrin-dependent endocytosis26, and therefore speculated to have antiviral activity
+ We substantiated that CMs by preventing ACE2 internalization (Figure 1, )
+ In addition to a long half-life similar inhibitory effect of SARS-CoV-2 infection (Figure 1, 2), suggesting that the antiviral effect of clomipramine lasts for a long time
+ In the process of SARS-CoV-2 virus lysosome fusion pathway (targeted by chloroquine) have been attracted attention as therapeutic targets
+ In fact, several candidate compounds have also been identified,
+ On the other hand, we have not clarified the molecular mechanism underlying demonstrated a potent inhibition of ACE2 internalization due to pseudovirus infection, no drug with the same or better inhibitory effect as clomipramine was obtained (Figure )
+ This result may explain why clomipramine potently suppresses SARS-CoV-2 virus (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    As to the possibility of the improvement of severe COVID-19 by clomipramine, we suggest an anti-inflammatory effect of clomipramine like ibudilast
+ We have previously reported that transient receptor potential canonical (TRPC) 3 protein, a major component caused by anti-cancer drug treatment16, by promoting NADPH oxidase (Nox) -Severe COVID-19 symptoms include abnormalities of many organs other than the heart, fever,
+ Particularly, ibudilast, identified as the best potent inhibitor of TRPC3-Nox2 complex formation, is now under progress of clinical trials for the treatment of ARDS in shown)
+ Thus, future studies using COVID-19 model animals will clarify whether clomipramine is effective for the prevention and treatment of severe COVID-
+ infection, its mode of action was not competitive inhibition
+ In silico docking analysis predicts that clomipramine interacts with the S protein at the end of the RBD domain, binding is weak and therefore this might not fully explain the potent inhibitory effect on SARS-CoV-2 infection by clomipramine
+ Further study is necessary to identify a molecular target by which clomipramine inhibits ACE2 internalization caused by SARS-(which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    The ACE2 upregulation due to exposure to risk factors for severe COVID-19 is considered as a compensatory mechanism for attenuating the action of angiotensin (Ang) II
+ Clomipramine does not affect basal ACE2 expression level, but suppresses pathological ACE2 upregulation caused by exposure to risk factors
+ Additionally, since clomipramine has no impact on ACE2 enzyme activity, it is considered that clomipramine has little effect on AngII and Ang1-7 / Mas receptor signaling pathways in normal cells
+ On the other hand, it has been reported that Ang1-7 / Mas receptor signaling is attenuated is also expected to contribute to the maintenance of Ang1-7 / Mas receptor signaling after In conclusion, this study establishes clomipramine as a potent anti-SARS-CoV-2 agent a promising therapeutic strategy for the prevention and treatment of severe COVID-
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    Figure 
+ Identification of clomipramine as a potent inhibitor of SARS-CoV-2 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    (A) ACE2 receptor internalization with S protein (50 nM) for 3 hours in HEK293T cells
+ Scale bars = 10 m
+ (B) Inhibitory effects of approved drugs that reportedly have potency to suppress TRPC3-Nox2 complex formation
+ Cells were treated with each drug (1 M) 1 hour before exposure to S protein (50 nM) for 3 hours
+ Compounds number correspond by HiLyte Fluor 555-labeled S protein (50 nM) and its suppression by clomipramine (1M) in ACE2-expressing HEK293T cells
+ Scale bars = 10 m
+ (E) Inhibitory effects of repurpose drugs reported to have therapeutic effect targeting SARS-CoV-
+ Cells were treated with each drug (1 M) 1 hour before exposure to S protein (50 nM) for 3 hours
+ (F) Inhibitory effects of other tricyclic antidepressant agents
+ Cells were treated with each drug (1 M) 1 hour before exposure to S protein (50 nM) for 3 hours
+ (G) The principle of BRET assay
+ (H) The effect of clomipramine on S protein-induced decrease in BRET ratio (BRET)
+ (I) Protection of human iPS-CMs by clomipramine against pseudo-infection of HiLyte Fluor 555-labeled S protein
+ Scale bars = 10 m
+ All data are shown as mean  SE; n=3-5 Significance was imparted using one-way ANOVA followed (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    clomipramine and ibudilast (1 M) 1hour administered before (Pre) or after (Post) S protein pseudo-infection for 3 hours
+ (B-C) Effects of clomipramine and ibudilast (10 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    exposed to SARS-CoV-2 virus for 6 hours (B) and 18 hours (C)
+ (D-E) Effects of VeroE6 cells
+ (D) This VeroE6 cells were treated with drugs 
+5 hours before (Pre), simultaneously (Co-admin) or 1 hour after (Post) SARS-CoV-2 infection for 6 hours
+ (E) expressing VeroE6 cells
+ (G) Results of plaque assay
+ (H) Combined effect of VeroE6 cells without () or with () clomipramine (1 M) 1 hour after SARS-CoV-2 infection
+ Relative value is SARS-CoV-2 mRNA copy numbers converted with control as Scale bars = 10 m
+ (J) Effects of drugs on SARS-CoV-2 infection of iPS-CMs for 48 hours
+  All data are shown as mean  SE; n=3 Significance was imparted using t test for (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    (A) The dose-dependent inhibition of ACE2 receptor internalization by clomipramine (0 M (), 1 M, () or 10 M ()) for 1 hour before treatment with S protein (50 nM) amitriptyline on the direct interaction between S-protein and ACE
+ (C) The effects of clomipramine (1 or 100 M) and DX600 (1 M) on ACE2 enzymatic activity
+ (D) Estimated binding energy distribution of 22 candidate compounds obtained from the docking simulations with SMINA score
+ The compounds exhibiting more than 20 % of the internalization suppression ratio were listed in red color
+ No significant correlation with the inhibitory effect is observed
+ (E) Estimated binding energies of the best poses for 22 candidate compounds minimized using ad4_scoring, which includes a desolvation fee energy term
+ In inset, the logP values of compounds are plotted along the internalization suppression ration (inhibitory effect)
+ The logP and the inhibitory effect weakly correlate and the compounds exhibiting higher inhibitory effect tend to increase the binding energy due to the lesser desolvation penalty
+ (G) The interaction map of 22 candidate compounds with key residues in the RBD of Spike protein
+ The residues within 4  of any heavy atoms of a drug were colored blue
+ (H) In silico model of the interaction between the RBD Spike protein and clomipramine (colored in yellow)
+ The drug binds to an edge of RBD (region I colored in magenta) (top)
+ The superposition of the docked structure and the crystal structures of ACE2/RBD complex (PDBID: 6m0j) suggests a potential inhibition of ACE2/RBD interaction by the drug (bottom)
+ All data are shown as mean  (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    expressing VeroE6 (JCRB, 1819) were cultured in Dulbeccos modified eagle medium (DMEM) supplemented with 10% FBS and 1% penicillin and streptomycin
+ Human iPS hours before addition of S-protein
+ In each well, S-protein (50 nM) or HiLyte Fluor -labeled S-protein (100 nM) were added and cells were incubated for 3 hours at 37 C, 5% CO
+ Cells were fixed in 4% paraformaldehyde for 10 min to stop the reaction and were counted in each section and normalized without S protein as a control
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    Recombinant SARS-CoV-2 spike protein (S protein) were purified using the baculovirus-silkworm system
+ Purified S protein were chemically labeled with a fluorescent probe HEK293 cells were seeded on a 12 well plate, 24 hours before transfection
+ To analyze the interaction of KRAS and ACE2, BRET between KRAS-Rluc (donor) and ACE-venus (acceptor) was measured
+ For the BRET saturation assay, HEK293 cells were transfected with a constant amount of KRAS-Rluc with an increasing amount of ACE-venus or venus as a negative control
+ After 24 hours of transfection, cells were suspended in DMEM and were transferred to 96-well plates
+ In each well, S-protein (50 nM) were added and incubated for 3 hours at 37 C, 5% CO
+ Coelenterazine h (5 M) was added detected using Nivo plate reader (PerkinElmer)
+ The BRET ratio was calculated by dividing the fluorescence signal (531/22 emission filter) by the luminescence signal washed twice in PBS
+ The fixed cells were permeabilized and blocked using 
+1% Triton X-100 and 1% BSA in PBS for 1 hour at room temperature
+ Alexa Fluor 488 phalloidin (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    (Thermo Fisher Scientific) was diluted with PBS and reacted for 1 hour at room Diseases in Japan
+ TMPRSS2 expressed VeroE6 cells (
+5104 cells/well) were seeded in 96-well plates 24 hours before infection
+ Each compound (10 M) was added
+ SARS-CoV-2 virus were added at multiplicity-of-infections (MOI) 
+05 or 
+ 
+ iPS-CMs (3104 cells/well) were seeded in 96-well plates and were cultured for 5-7 days before infection
+ Each compound (10 M) was added and SARS-CoV-2 virus were added at MOI 
+ 
+ After infection, intracellular RNA was extracted with CellAmp direct RNA prep kit performed using a TaqMan Fast Virus 1-Step Master Mix (Thermo Fisher Scientific), Control (Integrated DNA Technologies) with a QuantStudio 7 Flex Real-Time PCR (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    expressing VeroE6 cells after SARS-CoV-2 virus infection was diluted by DMEM supplemented with 2% FBS and 1% penicillin and streptomycin
+ This sample spread on an agar plate with 2% FBS and 1% methylcellulose and cultured at 37 C for 3 days
+ VeroE6 cells on the plate were fixed in 10% neutral-buffered formalin (Fujifilm Wako Chemicals, Tokyo, Japan), and strained with methylene blue
+ Numbers of the plaque in each well were counted to calculate infective per one ml of the samples
+ Human iPS-CMs (3104 cells/well) were seeded
+ SARS-CoV-2 were added at MOI 
+ 
+ Forty-eight hours after infection, cells were fixed in 4% paraformaldehyde
+ The fixed SARS spike glycoprotein (1:100; abcam) and DAPI
+ Images were captured using a Nikon was purchased and measured the binding of ACE2 and SARS-CoV-2 Spike in the The ACE2 Inhibitor screening assay kit (BPS Bioscience #79923) was purchased and (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    measured the exopeptidase activity of ACE2 in the presence and absence of inhibitors, In silico binding mode prediction of ACE2 / SARS-CoV-2 Spike Inhibitors The bindings of 22 candidate compounds, including clomipramine, toward the receptor binding domain (RBD) of SARS-CoV-2 Spike protein were analyzed using SMINA program with its own score function (SMINA score)
+ The structure of the receptor (RBD of Spike protein) was taken from the crystal structure (PDBID: 6m0j)35 and hydrogens were added by h_add function in PyMOL
+ SMILE stings of 22 compounds from ibuprofen, indomethacin and loxoprofen) using RDKit39 according to the pka calculations with ChemAxon software MARVIN
+ Each compound was initially docked into the region centered at Gln493 of the RBD (30 30 30 ), and we used the results as regions for subsequent docking
+ The procedure was repeated three times to sample 183 bound poses distributed over the RBD surface interfacing ACE2 / SARS-CoV-2 binding
+ The estimated binding energy distribution of 22 compounds was shown in Supplemental Figure 5A and the binding mode with the lowest binding energy for clomipramine was shown in Figure D
+ The estimated binding energies of the best poses for 22 compounds were further refined by minimizing using ad4_scoring, which corresponds to the (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    AutoDock 4 score including a desolvation fee energy term (Supplemental Figure B)
+ pirfenidone were purchased from Tokyo Chemical Industry (Tokyo, Japan)
+  Fipexide, G*Power
+ 
+ 
+2 software was used to calculate the sample size for each group
+ All results are presented as the mean  SEM from at least 3 independent experiments and were considered significant if P < 
+ 
+ Statistical comparisons were made using unpaired t test for two-group comparisons or using one-way ANOVA with Tukeys post hoc test for comparisons among 3 or more groups when F achieved was P < 
+05, and there was no Prism 
+0 (GraphPad Software, LaJolla, CA)
+ Some results were normalized to control to (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    
+ Zhu, N
+ et al A Novel Coronavirus from Patients with Pneumonia in China, 
+ Wang, C
+, Horby, P
+ W
+, Hayden, F
+ G
+ & Gao, G
+ F
+ A novel coronavirus 
+ Huang, C
+ et al Clinical features of patients infected with 2019 novel 
+ Pettit, D
+ S
+ et al 'All In' : a pragmatic framework for COVID-19 testing and 
+ Topol, E
+ J
+ COVID-19 can affect the heart
+ Science 370, 408409 ()
+ 
+ Puelles, G
+ V
+ et al Multiorgan and Renal Tropism of SARS-CoV-
+ N
+ Engl
+ J
+ 
+ Lindner, D
+ et al Association of Cardiac Infection with SARS-CoV-2 in 
+ Chen, L
+, Li, X
+, Chen, M
+, Feng, Y
+ & Xiong, C
+ The ACE2 expression in human heart indicates new potential mechanism of heart injury among patients 
+ Li, W
+ et al Angiotensin-Converting enzyme 2 is a functional receptor for the 
+ Hoffmann, M
+ et al SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor
+ Cell 181, -
+e8 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    
+ Kang, Y
+ L
+ et al Inhibition of PIKfyve kinase prevents infection by Zaire ebolavirus and SARS-CoV-
+ Proc
+ Natl
+ Acad
+ Sci
+ U
+ S
+ A
+ 117, 2080320813 
+ Ou, X
+ et al Characterization of spike glycoprotein of SARS-CoV-2 on virus 
+ Liu, T
+, Luo, S
+, Libby, P
+ & Shi, G
+ P
+ Cathepsin L-selective inhibitors: A 
+ Padmanabhan, P
+, Desikan, R
+ & Dixit, N
+ M
+ Targeting TMPRSS2 and Cathepsin B/L together may be synergistic against SARSCoV- 2 infection
+ PLoS 
+ McTavish, D
+ & Benfield, P
+ Clomipramine: An Overview of its Pharmacological Properties and a Review of its Therapeutic Use in Obsessive 
+ Morley, J
+ E
+, Kalantar-Zadeh, K
+ & Anker, S
+ D
+ COVID-19: a major cause of 
+ Kitajima, N
+ et al TRPC3 positively regulates reactive oxygen species driving 
+ Saha, R
+ P
+ et al Repurposing Drugs, Ongoing Vaccine, and New Therapeutic (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    
+ Rogosnitzky, M
+, Okediji, P
+ & Koman, I
+ Cepharanthine: a review of the 
+ Li, F
+, Michelson, A
+ P
+, Foraker, R
+, Zhan, M
+ & Payne, P
+ R
+ Repurposing drugs for COVID-19 based on transcriptional response of host cells to SARS-CoV-
+ 
+ Lenze, E
+ J
+ et al Fluvoxamine vs Placebo and Clinical Deterioration in 
+ Pan, H
+ et al Repurposed antiviral drugs for Covid-19 - interim WHO solidarity 
+ Vercauteren, D
+ et al The Use of Inhibitors to Study Endocytic Pathways of 
+ Yang, X
+ et al Clinical course and outcomes of critically ill patients with SARS-
+ Whitcroft, K
+ L
+ & Hummel, T
+ Olfactory Dysfunction in COVID-19: Diagnosis and Management
+ JAMA - J
+ Am
+ Med
+ Assoc
+ 323, 25122514 ()
+ 
+ Liaudet, L
+ & Szabo, C
+ Blocking mineralocorticoid receptor with spironolactone may have a wide range of therapeutic actions in severe COVID-19 disease
+ 
+ Kuba, K
+ et al A crucial role of angiotensin converting enzyme 2 (ACE2) in (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    
+ Fujita, R
+ et al Efficient production of recombinant SARS-CoV-2 spike protein 
+ Bear, A
+ & Kehn-Hall, K
+ Viral concentration determination through plaque assays:using traditional and novel overlay systems
+ J
+ Vis
+ Exp
+ 93, e
+ 
+ Ryan Koes, D
+, Baumgartner, M
+ P
+ & Camacho, C
+ J
+ Lessons Learned in Empirical Scoring with smina from the CSAR 2011 Benchmarking Exercise
+ J
+ 
+ Lan, J
+ et al Structure of the SARS-CoV-2 spike receptor-binding domain bound 
+ Kim, S
+ et al PubChem in 2021: New data content and improved web interfaces
+ 
+ OBoyle, N
+ M
+ et al Open Babel
+ J
+ Cheminform
+ 3, 114 ()
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    We appreciate the technical assistance from The Research Support Center, Research Center for Human Disease Modeling, Kyushu University Graduate School of Medical Sciences
+ This work is supported by the grants from Smoking Research Foundation (to Project from Sumitomo Mitsui Trust Bank (to M
+ N
+ and T
+ K
+), Uehara memorial Memorial Foundation (to K
+ N
+) and in part by JST, CREST Grant Number JPMJCR2024 (20348438 to M
+ N
+), Platform Project for Supporting Drug Discovery and Life Science Research (BINDS) from Japan Agency for Medical Research and Development (AMED) under Grant Number JP20am0101091 (to M
+ N
+) and AMED under Grant Numbers Yu
+ K
+, K
+ N
+, S
+ R
+, K
+ M
+ and M
+ N
+ wrote the paper, Ya
+ K
+ and Yu
+ K
+ designed experiments, Yu
+ K
+, S
+ Y
+, K
+ N
+, A
+ S
+, D
+ T
+, J
+ L
+, K
+ Y
+ and H
+ A
+ performed experiments, S
+ R
+ and K
+ M
+ performed in silico analysis, T
+ K
+, N
+ K
+, Y
+ Ib
+ and Y
+ Im
+ contributed new reagents/analytic tools and critical suggestions, T
+ T
+, S
+ R
+, K
+ M
+ and A
+ N
+ analyzed and interpreted data, (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 14, 
+ ;    

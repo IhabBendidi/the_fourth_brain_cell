@@ -1,0 +1,680 @@
+Neurological mechanism of sensory deficits after exposure to non-dioxin-like polychlorinated biphenyls (PCBs) in zebrafish larvaeNadja R
+ Brun1, Jennifer M
+ Panlilio1, Kun Zhang2,3, Yanbin Zhao2,3, Evgeny Ivashkin4,5, John 3 1 Department of Biology, Woods Hole Oceanographic Institution, Woods Hole, MA, USA 5 2 School of Environmental Science and Engineering, Shanghai Jiao Tong University, 800 Dongchuan 6 3 Shanghai Institute of Pollution Control and Ecological Security, Shanghai 200092, China 8 4 Josephine Bay Paul Center for Comparative Molecular Biology and Evolution, Marine Biological 9 5 A
+ N
+ Severtsov Institute of Ecology and Evolution, Russian Academy of Sciences, Moscow, Russia  11 The authors declare they have no actual or potential competing financial interests
+  21  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Background: The most abundant polychlorinated biphenyl (PCB) congeners found in the 23 environment and in humans are the ortho-substituted, non-dioxin-like (NDL) congeners, 24 especially PCB
+ While evidence indicates that exposure to PCB153 and other NDL-PCBs 25 in early vertebrate development can contribute to neurobehavioral disorders, the basis of 26 Methods: We assessed a range of effects of several NDL-PCB congeners (PCB153, 28 PCB52, PCB118, and PCB138) on cellular morphologies and synaptic transmission linked to 29 the proper execution of a sensorimotor response in zebrafish, taking advantage of the well-30 established neural circuit in this model
+ Specifically, we imaged hair cells, neurons, and 31 muscle tissue to evaluate their presence and morphology
+ We measured neurotransmitter 32 levels in larvae and assessed the mechanosensory startle response in co-exposures to 33 PCB153 and neurotransmitter modulators to evaluate the involvement of neurotransmitters 34 in the behavioral response
+ The startle response was also assessed in dioxin-like (DL)-35 Results: Startle responses were dramatically delayed in 6-day old larvae exposed to NDL-37 PCB
+ In contrast, exposure to the DL PCB126 did not delay startle response times
+ 38 Morphological and biochemical data showed that exposure to NDL-PCBs during 39 development induces swelling of afferent sensory neurons and disrupts dopaminergic and 40 and processing of sensory stimuli occur at low concentrations of NDL-PCBs, similar to those 43 present in human and animal samples
+ The effects on important and broadly conserved 44 signaling mechanisms in vertebrates suggest that NDL-PCBs can contribute to 45  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Humans and wildlife are exposed to a wide range of contaminants in the environment, and 49 the role of these chemical pollutants in developmental neurotoxicity, cognitive impairment, 50 and neurodegenerative disorders has become a global environmental health concern 51 (Landrigan et al )
+ Among the top industrial chemicals thought to be involved in 52 2014), a mix of 209 different structures, including planar dioxin-like (DL) congeners and non-54 planar non-dioxin-like (NDL) congeners
+ PCBs are persistent legacy contaminants that have 55 been produced and used for decades to serve as insulators, coatings, and caulks, and there 56 is worldwide PCB contamination of wildlife tissue and human cord blood, amniotic fluid, and 57 mother's milk (Ennaceur et al 2008; Lancz et al a)
+ The developing nervous system is 58 generally sensitive to chemical exposure at doses much lower than those affecting adult 59 nervous system function (Rice and Barone )
+ For instance, prenatal exposure to PCBs 60 is associated with a decrease in motor skills in infants, while postnatal exposure seems to 61 have no obvious effects (Ribas-Fit et al )
+ Thus, identifying the mechanisms 62 underpinning the effects of neurotoxic PCBs during gestation and early life stages is of 63 critical importance in attaining successful treatments and remediating health effects in 64 The NDL-PCBs are the most abundant congeners in human and environmental samples
+ 66 The NDL-PCB138 and PCB153, are particularly abundant
+ Median PCB153 concentrations 67 measured in human cord blood serum range from 
+4 to 110 ng g-1 lipid (Bergonzi et al 68 2009; Herbstman et al 2007; Lancz et al 2015b), far greater than the levels of DL 69 congeners
+ Evidence also suggests the NDL-PCBs contribute substantially to neurotoxic and 70 behavioral effects (Boix et al 2010; Boucher et al )
+ However, understanding of the 71 mechanisms and effects of NDL-PCBs, especially during the more sensitive early stages of 72  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Increased serum PCB concentrations in children are associated with deficits in cochlear 74 functions (Jusko et al 2014; Trnovec et al 2010), fine motor skills (Walkowiak et al 2001), 75 and cognitive impairment (Boucher et al 2009; Chen et al )
+ Developmental exposure 76 of rats to NDL-PCBs has been linked to behavioral changes, including hyperactivity, 77 impulsiveness, and impairment of cognitive function (e
+ g
+, impairment of the ability to learn 78 the Y maze task) (Berger et al 2001; Boix et al 2010; Johansen et al )
+ NDL-PCB 79 developmental exposure also adversely affects auditory function in adult rats, including 80 elevated thresholds of brainstem auditory evoked potentials, auditory deficits at low 81 frequencies, audiogenic seizures, and reduced auditory startle responses (Crofton et al 82 2000; Goldey et al 1995; Lilienthal et al 2011, 2015; Poon et al )
+ The mechanism(s) 83 involved in these effects on cognitive and auditory systems are not known
+ 84 Zebrafish are increasingly used as model organism to uncover the mechanisms of 85 neurotoxicity that are relevant for humans and other vertebrates
+ Zebrafish remain 86 transparent throughout early development, facilitating the use of transgenic and other 87 molecular approaches to label and observe specific classes of neurons and to follow their 88 functional development
+ Fish have relatively simple neural circuits, particularly for the 89 auditory system
+ In fish, the auditory-evoked startle response plays a critical role in animal 90 neurotransmitters that are conserved among vertebrates (Stewart et al )
+ Many of the 92 pathways and genes that regulate zebrafish startle behavior also operate in human 93 neurological disorders (Howe et al 2013; Maximino and Herculano 2010; Meserve et al 94 2020; Tropepe and Sive 2003; Wolman et al )
+ In this study, we use the zebrafish 95 startle response to decipher the neuro-disruptive basis of NDL-PCBs on the auditory system 96 during the early stages of development
+ To this end, we examined the effects of different 97 NDL-PCBs (PCB153, PCB52, PCB118, PCB138), in comparison to the DL-PCB126 and at 98 different environmentally relevant concentrations, dissecting various steps in the neural 99  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    In addition to other attributes, zebrafish have relatively simple neural circuits, particularly for 103 the auditory system
+ Many of the components of the auditory circuit are homologous in 104 mammals and fish, including hair cells, neural transmission, and lower motorneurons, while 105 the mechanosensory lateral line system and Mauthner (M) cells are exclusively found in fish 106 and a cochlea is only found in mammals
+ In fish, vibro-acoustic stimuli are first sensed by the 107 hair cell bundles in the auditory, vestibular, and lateral-line systems and rapidly encoded into 108 trains of action potentials in the afferent neurons (Figure 1) (Hudspeth )
+ The signal 109 detected through the sensory hair cells of the lateral line is transmitted through the anterior 110 and posterior lateral line ganglia whereas the auditory input is transmitted through the VIIIth 111 statoacoustic nerve, all of which synapse to the lateral dendrite of the M-cell and two 112 segmental homologs (Nakayama 2004; Pujol-Mart and Lpez-Schier )
+ The signal is 113 propagated down the M-cell axon in the spinal cord to activate the motoneurons leading to a 114 Zebrafish (Danio rerio) were maintained at 
+5 C and on a 12:12 h light-dark cycle 117 according to the guidelines of the Zebrafish Model Organism Database (ZFIN,  118 and institutional guidelines at WHOI and the experimental procedures approved by the 119 Institutional Animal Care and Use Committee (ID Number BI
+ )
+ Adult zebrafish were 120 fed brine shrimp and pellets every day
+ In this study, we used wild-type zebrafish of the AB 121 strain obtained from Zebrafish International Resource Center (ZIRC), as well as several 122 USA), and the transgenic lines Tg(cntn1b:EGFP-CAAX) (Panlilio et al 2021) labeling axons, 125 Tg(olig2:EGFP)vu12 (Park et al 2007; Shin et al 2003) marking oligodendrocyte precursor 126 cell bodies, Tg(sox10:mRFP) (Takada et al 2010) marking oligodendrocyte lineage cells, as 127  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    well as Tg(mbp:EGFP-CAAX) (Almeida et al 2011) and Tg(mbp:EGFP) (gift from Dr
+ Kelly 128 Monk, generated by Dr
+ Charles Kaufman in the laboratory of Dr
+ Leonard Zon, Harvard 129 Medical School, Boston, MA) marking myelin sheaths
+ Zebrafish eggs were obtained by 130 pairwise breeding and kept in 
+3x Danieau's (17 mM NaCl, 
+2 mM KCl, 
+12 mM MgSO4, 131 
+18 mM Ca(NO3)2 and 
+5 mM HEPES, pH 
+6) in glass vials at a density of 10 individuals 132 per 10 mL, at a constant water temperature of 28  1C and standard 14-h light/10-h dark 133 cycle
+ The medium was supplemented with 1-Phenyl-2-thiourea (PTU, 
+003% w/v) from 24 134 hours post-fertilization (hpf) onwards to prevent pigment formation when necessary for 135 imaging
+ Fertilized eggs were used for exposures starting at 3 hpf to solvent control (
+1% 136 exposure scenario with PCB153 was started at 24 hpf, to assess whether effects are 140 induced during or after initial neuronal cell differentiation
+ Sensory neurons send their 141 projection along the ectoderm as early as 16 hpf (Kimmel )
+ The lowest exposure 142 concentration for PCB153 was 10 nM (
+6 ng mL-1) which is estimated to result in ~5 ng g-1 143 (5 ppm) per zebrafish larvae (comparing to PCB95 uptake levels; (Ranasinghe et al ))
+ 144 PCB153 mean concentrations found in maternal cord blood serum are 
+27 ng mL-1 or 110 145 ng g-1 lipid (Lancz et al b))
+ Other concentrations used were 30, 100, and 1000 nM 146 which are found in fish of contaminated ecosystems (Grns et al )
+ For PCB52, 147 PCB118, and PCB138, a concentration of 1000 nM was chosen to compare to the highest 148 effect concentration of PCB
+ The DL-PCB126 is cardioteratogenic in the low nanomolar 149 range
+ To avoid malformations, a concentration of 1 nM was chosen
+ Exposures were 150 refreshed daily until four days post-fertilization (dpf) and all larvae were kept in Danieau's 151 from 5 to 6 dpf
+ All imaging and behavioral assays were performed at 6 dpf, except for the 152  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    The influence of neurotransmitters on the startle behavior was assessed by exposures to 154 compounds known to interfere with monoamines
+ At 6 dpf, larvae were evaluated for their 155 startle behavior and then immersed in the dopamine precursors L-DOPA (1 mM) or L-156 tyrosine (1 mM), dopamine receptor agonist quinpirole (10 M), dopamine D2-receptor 157 antagonist and GABA receptor modulator haloperidol (10 M), endogenous serotonin 5-HT 158 (10 M), and serotonin precursor 5-HTP (1 mM) for 30 min in the well plate before assessing 159 the startle behavior again
+ Additionally, the effect of neurotransmitter modulation during 160 development on startle response was assessed by exposing larvae from 3 to 120 hpf to L-161 DOPA (1 mM), L-tyrosine (1 mM), and quinpirole (10 M)
+  162 Larval locomotion was monitored using the Noldus Daniovison system (Noldus Information 164 Technology, Leesburg, VA, USA) using 6-dpf larvae distributed in 48-well plates (1 larva per 165 well)
+ After an acclimation period of 40 minutes in the illuminated chamber, spontaneous 166 swimming activity was tracked for 10 minutes
+ Following the spontaneous swimming, three 167 alternating cycles of dark and light conditions (10 minutes each) were run
+ The experiment 168 was repeated three times with cohorts from separate breeding events (n = 24 per group and 169 breeding event)
+ Video data were recorded with 30 frames per second via an infrared 170 camera
+ Obtained data were analyzed with the supplied software EthoVision XT 12 171 The activity of Rohon-Beard sensory neurons was tested at 26 hpf by lightly touching 173 DMSO- and 1000 nM PCB153-exposed embryos (n = 10 per group and breeding event) 174 using a piece of fishing line affixed to a glass pipette
+ Each embryo was touched ten times 175 and the response was scored as follows: 0, no response; 
+5, light tail flicking response, 1, 176 coiling in the opposite direction of the touch stimulus, yielding a score of maximum 10 per 177 embryo
+ The experiment was repeated twice with cohorts from separate breeding events
+  178  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Vibro-acoustic startle response was assessed as described previously (Panlilio et al )
+ 179 Briefly, the acoustic stimuli were delivered by a vibrational exciter producing acoustic 180 vibrations at a frequency of a 1000 Hz for a duration of 2 ms at four different amplitudes (32, 181 38, 41, 43 dB)
+ For each amplitude, the stimulus was delivered four times, spaced 20 182 seconds apart, to a 4 x 4 well-plate mounted on top of the speaker, each well containing an 183 individual larva
+ The response was tracked with a high-speed camera (Edgertronic SC1) at 184 1000 frames s-1 for 250 ms (13 ms before and 237 ms after the stimulus)
+ PulsePal was used 185 to synchronize the camera recording to the acoustic stimuli using a TTL pulse
+ Automated 186 analysis of larval movement kinematics (response frequency, latency, turning angle) was 187 performed using the FLOTE software package (Burgess and Granato )
+ Each treatment 188 group was assessed at least three times with eggs from different clutches
+ The total replicate 189 A startle response in fish can be executed with a short latency C-bend (SLC) or long latency 191 C-bend (LLC), with the SLC being the more frequent response at higher stimulus intensities
+ 192 The cut-off time between SLC and LLC can vary depending on environmental conditions 193 such as temperature and has been determined empirically for this experiment using a 194 Gaussian mixture model (Panlilio et al 2020)(Figure S)
+ Responses within 15 ms were 195 categorized as SLC, latencies greater than 15 ms as LLC
+ Following this classification, the 196 median response type (Relative Startle Bias) for each responsive fish was determined for 197 each stimulus intensity (32, 38, 41, and 43 dB)
+ Bias per individual fish was calculated as: 198 (frequency of SLC  frequency of LLC) / total responses
+ Pure SLC responses result in a 199 value of +1, while pure LLC responses are a value of -1 (Jain et al )
+ 200 Electric field pulses (EFPs) directly activate the M-cells (Tabor et al )
+ Responsiveness 201 of M-cells was assessed by applying EFPs (
+4 V cm-1 for 2 ms, square pulse) to head-202 restrained larvae (n = 46 per treatment group)
+ Seven consecutive EFPs were applied with a 203 recovery time of 20 s in between pulses
+ For each run, one control and one exposed larva 204 were embedded in 
+5% agarose side-by-side and their tails freed
+ Response frequency, 205  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    latency, and bend angle were tracked using FLOTE
+ For all behavioral assays, only larvae 206 Larval length (from snout to the tail-fin end) was measured in DMSO (n = 57) and 1000 nM 209 PCB153 (n = 51) exposed larvae using ImageJ
+ The experiment was performed three times 210 pyridinium dibromide; Invitrogen) specifically labels hair cells in the lateral line and inner ear 214 of vertebrates of by entering through open mechanotransduction channels and filling the 215 cytoplasm of hair cells (Meyers et al )
+ At 6 dpf, zebrafish larvae of 1000 nM PCB153-216 exposed (n = 32) and unexposed (n = 28) groups were immersed in Danieau's 217 supplemented with 3 M FM1-43 for 30 s, rinsed three times in Danieau's, anesthetized in 1 218 mM 3-amino-benzoic acid (Tricaine), and mounted in 
+5% low melting agarose for confocal 219 imaging of the L3 neuromast
+ The experiment was performed three times independently
+ 220 Whole-mount immunohistochemistry of zebrafish larvae and brains was performed following 222 standard procedures
+ Briefly, 10 AB larvae per exposure group were treated as described 223 above and subsequently fixed in 4% paraformaldehyde (PFA) in PBS overnight at 4 C
+ For 224 labelling brain tissue, larval brains were dissected before continuing with the protocol
+ 225 Multiple rinsing steps in PBS containing either 
+5% Triton-X100 or 
+1% Tween-20 (PBST) 226 for larvae or brains, respectively, was followed by an antigen retrieval step in 150 mM Tris 227 HCl (pH 
+0) at 70 C (Inoue and Wittbrodt 2011), and a permeabilization step using 228 proteinase K (10 g/mL for 3 minutes)
+ Subsequently, the samples were blocked in blocking 229 solution (10% Normal Goat Serum, 1% DMSO, 1% BSA, 88% PBST) for 1 h and then 230 stained with blocking solution supplemented with the primary antibody for three days at 4 C
+ 231  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Bank, 1:100 dilution) was used to label a subset of hindbrain spinal cord projecting neurons 233 such as the M-cell neurons (DMSO n = 23, PCB153 n = )
+ The anti-5HT rabbit polyclonal 234 antibody (Sigma-Aldrich, #S5545, 1:500) was used to label serotonergic cells (DMSO n = 16, 235 PCB153 n = )
+ The anti-acetylated alpha-tubulin mouse polyclonal antibody (Sigma-236 Aldrich, #T6793, 1:1000 dilution) was used to label kinocilia and hair cell innervating neurons 237 (DMSO n = 25, PCB153 n = )
+ After several washing steps, in PBST, the samples were 238 incubated with Alexa Fluor 488- or 594-conjugated goat-anti-mouse or goat-anti-rabbit 239 secondary antibodies (Abcam, 1:500 dilution) overnight at 4 C and rinsed several times in 240 PBST before mounting in ProLong Diamond Antifade mountant (Invitrogen) for imaging
+ For 241 visualization of skeletal muscle fibers (DMSO n = 11, PCB153 n = 11), larvae were fixed as 242 above, followed by permeabilization in 5% Triton-X for overnight and incubation in phalloidin 243 Alexa-546 conjugate (Invitrogen, :)
+ All staining experiments were repeated three times 244 with larvae from independent clutches except the phalloidin staining, which were performed 245 Imaging of hair cell innervating neurons, primary motoneuron, and oligodendrocyte 247 The Tg(cntn1b:EGFP-CAAX) transgenic line was used to image the cell bodies of neurons 249 that innervate the hair cells at the L3 position in the lateral line (DMSO n = 22, PCB153 n = 250 20, two independent experiments)
+ The axons of the main caudal primary motoneurons were 251 visualized using the Tg(olig2:EGFP) transgenic line (n = 4 per treatment group, one 252 experiment)
+ The double transgenic Tg(olig2:EGFP) x Tg(sox10:mRFP) was used to quantify 253 oligodendrocyte lineage cells in the spinal cord of in DMSO (n = 22) and 1000 nM PCB153 254 (n = 16) treated larvae (Shin et al )
+ All larvae were anesthetized in tricaine (
+16% 255 MS222) before mounting laterally in 
+5% low melting agarose on a glass-bottom microscopy 256 dish (MatTek)
+ Fluorescently-labeled cell bodies were imaged at the distal end of the 257  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    intestine, around the L3 neuromast
+ The experiments were performed three times 258 Neuronal activity in DMSO- and PCB153-treated larvae was visualized using the CaMPARI 261 (elavl3:CaMPARI) transgenic zebrafish line with an engineered fluorescent protein that 262 permanently photoconverts from green to red in the presence of elevated calcium and UV 263 light (Fosque et al )
+ Photoconversion was achieved by mounting an LED light (405 nm; 264 LEDSupply) between the speaker and a custom-made 3-well plate containing the freely 265 swimming larvae (DMSO- and PCB-treated)
+ Larvae of the same treatment were divided 266 into two batches: one was photoconverted in medium at room temperature (RT) and the 267 other one at 4C to elicit high neuronal activity
+ Photoconversion was achieved by shining the 268 LED light for 10 sec either with one vibrational stimulus of 43 dB at the start or without 269 stimulus
+ Subsequently, larvae were anesthetized, embedded in agarose, and whole brains 270 imaged using the 10x objective
+ The experiment was performed twice (n = 11-16 per 271 Whole-brain, hair cells, M-cell, and motor neurons were imaged on a Zeiss LSM 800 274 confocal system with a x/
+45 Plan-Apochromat, x/
+8 Plan-Apochromat, or x/
+2 C-275 Apochromat water immersion objective
+ Airy scan was applied for hair cell imaging at x
+ Z-276 stacks were merged to a single plane by maximal intensity projection using Fiji (Schindelin et 277 al )
+ The number of olig2 cells dorsal of the spinal cord (DMSO n = 22, 1000 nM 278 PCB153 n = 16) was counted in confocal image stacks using the 3D projection of the Zeiss 279 Zen blue software
+ Myelination was evaluated after imaging the spinal cord (DMSO n = 26, 280 1000 nM PCB153 n = 27) using the 20x objective and scored for deficits according to Panlilio 281 et al 
+ Representative myelination was imaged at x
+ The intensity of serotonergic 282 neurons in the brain (DMSO n = 16, 1000 nM PCB153 n = 13) was measured performing a 283  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Sum Slices Z-projection followed by drawing a ROI around the 5-HT immuno-responsive 284 cells, and per image, three random squares (area size = 
+65 x 
+65) within the non-285 fluorescent area of the ROI for background subtraction (for orientation see Figure S)
+ 286 Similarly, the FM1-43 intensity was measured drawing a ROI around the fluorescent hair 287 cells and measuring the background in three random squares (DMSO n = 20, 1000 nM 288 PCB153 n = )
+ Corrected total cell fluorescence (CTCF) was calculated according to the 289 formula: Integrated density - (ROI x Mean fluorescence of background readings)
+ For 290 quantification of active neurons in the brain of freely swimming and startling CaMPARI 291 zebrafish larvae, Sum Slices Z-projection were analyzed for red fluorescence intensity in the 292 The volume of hair cell innervating neurons was calculated by measuring the volume of 294 threshold pixels (30-255, Otsu method) in image stacks using an imageJ macro looping 295 through the stack and summing the area measurements, then multiplying this sum by the 296 depth of each slice (DMSO n = 30, 1000 nM PCB153 n = )
+ The presence of primary 297 motor neurons was confirmed using the Simple Neurite Tracer plugin in Fiji (DMSO n = 21, 298 1000 nM PCB153 n = )
+ All image evaluations and quantifications were done without the 299 was performed with a method developed in a previous study (Zhao et al )
+ Briefly, the 305 zebrafish embryo samples were spiked with 100 ppb isotope-labeled internal standards and 306 then homogenized
+ The homogenized tissue samples were extracted with 200 L of 80:20 307 v/v ACN/Milli-Q water containing 
+1% formic acid and 1% ascorbic acid and 200 L ACN
+ 308 After protein precipitation, the supernatants were dried and redissolved in 100 L of Milli-Q 309 water containing 
+1% formic acid for UHPLC-MS/MS analysis
+ Neurotransmitters were 310  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    quantified by a high-performance liquid chromatography system coupled to a Q-Exactive 311 separation of neurotransmitters was carried out with an Acquity UPLC HSS T3 column with 313 Milli-Q water containing 
+1% formic acid and ACN containing 
+1% formic acid as mobile 314 phase
+ The MS acquisition was performed in the full scan mode and parallel reaction 315 monitoring mode
+ The experiment was performed once (n = 4 per treatment group)
+ 316 All statistical analyses were conducted using Graph Pad Prism 
+4 except some of the startle 318 behavior analysis, which was completed in R
+ All quantitative data were tested for normality 319 using the Shapiro-Wilk test, and if there were unequal number of subjects between groups, 320 the data were tested for homogeneity in variances using the Brown-Forsythe test
+ All 321 Responsiveness to auditory stimuli (response or not) and startle type (SLC vs
+ LLC) was 323 modeled in R (version 
+ 
+2) using a binomial generalized linear mixed effect model (glmer() 324 from the lme4 R package) (Bates et al )
+ The response to electrical stimulus was 325 modeled using glm() from the lme4 R package
+ For the auditory response, we included 326 treatment as a fixed effect and the replicate experimental trials as a random effect
+ The 327 model specification for fraction responding was as follows: Responders ~ TreatmentGroup 328 + (TreatmentGroup|trial)
+ The model specification for startle bias was as follows: 329 SLCorLLCresponse ~ TreatmentGroup + stimdB + (|trial)
+ The data were analyzed fitting 330 the model for each stimulus intensity independently
+ The model specification for the electrical 331 To assess treatment differences of normal data with three or more groups (fluorescence 333 intensity CaMPARI), ANOVA comparisons were performed followed by a multiple 334 comparison using the Tukeys correction to adjust the critical values
+ A Tukey-corrected p-335 value < 
+05 was considered statistically significant
+ For normal data with heterogeneity 336  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    within-group variances (LLC bend angle), a Welch ANOVA followed by a Dunnett's T3 337 multiple comparison test was performed
+ For non-normal data with three or more groups 338 (SLC bend angle), a Kruskal-Wallis followed by the Dunn's multiple comparison test was 339 performed
+ For normal data with two groups (length, mean latency, bend angle in e-stim, 340 oligodendrocyte lineage cell count, 5-HT intensity), an unpaired two-tailed t-test with Welch's 341 correction (Welch's t- test) was performed
+ The nonparametric scoring data of the touch 342 assay and latency in e-stim was analyzed using a two-tailed Mann-Whitney test
+ The data 343 are presented as meanSD with single data points (replicates) superimposed on the graph 344 The startle response circuit is of wide relevance and well-established for assessing the 347 influence of specific factors on neuronal cell development, neuromuscular connectivity, and 348 transmission (Burgess and Granato 2007; Medan and Preuss 2014; Meserve et al 2020; 349 Panlilio et al )
+ We used the startle response circuit to assess the effects of NDL-PCBs 350 on the formation of neuronal populations and neurotransmission and its consequences for 351 Rohon-Beard cells are the earliest mechanosensory neurons that develop
+ They are located 354 in the dorsal region of the embryonic spinal cord and appear around 24 hpf (Roberts )
+ 355 A few days into development, Rohon-Beard cells also relay sensory information to the M-356 cells (Liu and Hale )
+ In our experiments, a tactile stimulus on the trunk at 26 hpf evoked 357 a C-shaped body flexion in both the DMSO- and the 1000 nM PCB153-treated embryos (U = 358 183, p = 
+599; Figure S2), indicating that the formation and function of Rohon-Beard cells 359  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Exposure to contaminants during development can result in reduced growth, which can 361 affect kinematics in swimming behavior (Voesenek et al )
+ PCB153-exposed larvae 362 developed normally with no difference in body length on day six in comparison to the control 363 group, in all three trials (Trial 1: t(
+98) = 
+661, p = 
+514; Trial 2: t(
+98) = 
+443, p = 
+660; 364 Trial 3: t(
+43) = 
+645, p = 
+523; Figure S)
+ At 6 dpf, spontaneous and light-dark-stimulated 365 swimming activity was assessed
+ Larvae exposed to PCB 153 (1000 nM) had lower 366 cumulative locomotion activity over ten minutes (M = 1182 mm, SD = 382) in comparison to 367 the control group (M = 1510 mm, SD = 402), t(
+4) = 
+854, p < 
+0001 (Figure SA)
+ 368 Zebrafish larvae typically increase locomotion in dark conditions following light exposure
+ 369 Once stimulated with a rapid loss of illumination during the dark phase, both treatment 370 The vibro-acoustic startle response can be executed either rapidly, within 15 ms (short 372 latency C-bend; SLC), or beginning at longer times and extending for up to 100 ms (long 373 latency C-bend; LLC)
+ The mean latency value, representing the population response 374 including SLC and LLC responses, was 21  20 ms for control larvae at the highest stimulus 375 intensity (Figure S1, Figure 2A, B)
+ By contrast, the NDL-PCB-treated larvae that 376 responded to the vibro-acoustic stimulus showed significantly longer average latencies in 377 response to the same auditory stimulus given the controls, F(5, 907 = 
+61, p < 
+ )
+ 378 PCB153-treated (1000 nM) larvae responded at a mean latency of 68  32 ms, PCB138 at 379 52  37 ms, PCB118 at 45  27 ms, and PCB52 at 39  32 ms
+ For PCB153, a dose-380 dependent response was observed, with mean latencies increasing with dose (10 nM: 26  381 27 ms, 30 nM: 50  36 ms, 100 nM: 50  30 ms, 1000 nM: 68  32 ms)
+ The lowest PCB153 382 concentration tested (10 nM) was not significantly different from controls
+ Unlike NDL-PCB 383 treated larvae, the DL-PCB126-treated larvae had a mean latency (22  22 ms), which was 384 Examining the SLC and LLC responses separately can give insight into the underlying 386 mechanism of effect
+ A greater stimulus intensity increases the probability of evoking SLC, 387  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    shifting the response bias from LLC to SLC (Troconis et al )
+ Here, we also observed a 388 shift to SLC with increasing stimulus intensity in solvent control (DMSO-treated) larvae 389 (Figure 2C, Figure SA)
+ Larvae were tested four times at each stimulus intensity; thus, a 390 larva is categorized as having SLC bias if it responded 3 or 4 times out of 4 stimuli with an 391 SLC
+ At the highest stimulus intensity that we tested (43 dB), the majority of control larvae 392 (300/448) responded with a SLC within 7  3 ms
+ 43 larvae showed no bias towards SLC or 393 LLC (2 times SLC and 2 times LLC, bias = )
+ Those that did not perform an SLC (n = 105) 394 exhibited an LLC with a mean latency of 54  29 ms (Figure C)
+ In contrast, all NDL-PCB-395 treated larvae (except for 10 nM PCB153) retained a response bias towards LLC at all 396 stimulus intensities tested, which was significantly different from the control (p < 
+001 for all 397 stimulus intensities)
+ Lowering the PCB153 dose gradually increased the shift towards SLC, 398 yet 10 nM PCB153 was still significantly different from the control (p <
+01 for all stimulus 399 intensities)
+ Exposures starting after many structures of the brain and the neural tube have 400 developed, at 24 hpf (Smith and Kimelman 2019), had the same effect on startle latency 401 The proportion of control larvae responding to the stimulus (either SLC or LLC) increased 403 from 
+2  
+0% (n = 450) to 
+8  
+0% (n = 457) from the lowest to highest stimulus 404 intensity, whereas the proportion of NDL-PCB153-, PCB138-, and PCB52-treated larvae that 405 responded remained below 70% (except for 10 nM PCB153) at all intensities and were 406 significantly different (p < 
+01) from the control (Figure 2D, Figure SA)
+ In contrast to those 407 exposed to NDL-PCBs, the larvae exposed to the DL-PCB126 and NDL-PCB118 had a 408 The different startle response bends exhibit different kinematics, with SLCs exhibiting larger 410 bend angles and faster angular velocities than LLCs (Burgess and Granato )
+ Thus, 411 LLC and SLC kinematics were analyzed separately
+ PCB52-treated larvae had increased 412 SLC bend angles (p > 
+0001) at two intermediate stimulus intensities (38 and 41 dB) while 413 PCB126 larvae had increased SLC bend angles at the three highest stimulus intensities 414  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    (Figure S)
+ Furthermore, PCB153 (1000 nM) exposure resulted in an increased SLC bend 415 angle at the highest stimulus intensity for those few larvae that exhibited an SLC (n = 26 of 416 138, 43 dB, p < 
+ )
+ LLC bend angle was significantly decreased across all stimulus 417 intensities for PCB
+ It is not clear how bend angle is associated with altered signaling and 418 The proper execution of the startle response relies on hair cells that sense the auditory 421 stimulus, M-cells to integrate the signals, and motor neurons and musculature to execute the 422 startle behavior
+ Morphological analysis showed that M-cells, motor neurons, and 423 musculature all appeared unaffected by PCB153, but the hair cell innervating neurons 424 appeared to be swollen (Figure )
+ The L3 neuromast volume of control larvae was on 425 average 569 m3 (SD = 125), whereas PCB153-exposed larvae (1000 nM) had significantly 426 larger L3 neuromast volumes 848 m3 (SD = 185), t(
+93) = 
+765, p < 
+0001 (Figure B)
+ 427 However, the number of hair cells in L3 neuromasts (Figure 3C) and the intensity of FM1-43 428 dye internalized by hair cells (Figure 3D) remained unchanged in PCB153-treated larvae in 429 The presence of M-cells is necessary for the SLC startle response
+ Staining with anti-3A10 431 confirmed the presence of M-cells in all PCB153-exposed larvae (21/21) (Figure A)
+ We 432 tested the functional responsiveness of the M-cells by applying electric field pulses to head-433 restrained larvae
+ This electrical stimulation bypasses the sensory system and directly 434 activates the M-cell (Tabor et al )
+ There was no difference detected in response time 435 between control and 1000 nM PCB153-exposed larvae (U = 
+5, p = 
+489), demonstrating 436 that the signal transmission from the M-cell to the motor neurons is not disrupted in PCR153-437 exposed fish (Figure SA)
+ The fraction responding also was similar in both the DMSO-438 treated (290/299) and the PCB153-treated (209/219) groups (GLM, p = 
+427; Figure 4C, 439 Figure SB)
+ However, the C-bend evoked by the electrical stimulation was larger in 440 PCB153-exposed larvae (M = 
+4, SD = 
+60) than in the control larvae (M = 
+12, SD = 441  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    
+ )
+ An unpaired t-test with Welch-s correction indicated that this difference was 442 statistically significant, t(
+27) = 
+679, p =
+0091 (Figure SC)
+ This difference could 443 indicate a PCB153-evoked functional alteration of the M-cell axon or motor neuron
+  444 For rapid and effective axonal signal transmission, proper myelination of axons is key
+ We 445 did not find PCB153 to reduce cells of the oligodendrocyte lineage in the spinal cord, (t(36) = 446 
+553, p < 
+584) nor any obvious differences in myelination itself (Figure S)
+ 447 Proper function and activation of the motor neurons is crucial for completion of the startle 448 circuit, leading to muscle contractions and the characteristic swimming behaviors
+ The main 449 caudal primary (CaP), middle primary (MiP), and rostral primary (RoP) motor neurons did not 450 show any distinct structural differences between exposed and control larvae (Figure S)
+ 451 The fast muscle fibers in the myotome were not found to be differentially striated in either 452 treatment groups (Figure S)
+ No structural difference in the motor neurons or the 453 myotome was apparent in PCB153-exposed larvae, suggesting that the increased bend 454 angle does not originate from any overt structural differences in the motor neurons or muscle 455 The release of neurotransmitters into the synaptic cleft is a characteristic process in signal 458 transmission
+ Both serotonergic and dopaminergic neuromodulators can affect startle latency 459 (Jain et al 2018), and evidence has been found that NDL-PCBs alter these neuromodulators 460 in mammals (e
+ g
+ Castoldi et al 2006; Enayah et al 2018; Wigestrand et al )
+ We 461 observed that PCB153 (1000 nM) altered the levels of several neurotransmitters in 6 dpf 462 zebrafish larvae (Figure A)
+ Significantly increased level of GABA (t(6) = 
+719, p < 
+001), 463 choline-chloride (t(6) = 
+459, p < 
+001), 3-methoxytyramine hydrochloride (t(6) = 
+803, p = 464 
+009), and L-valine (t(6) = 
+134, p = 
+020) were measured in PCB-exposed larvae in 465 comparison to control larvae; while L-Glutamine was decreased in comparison to control 466  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    To assess the interaction between PCB-exposure and changes in neuromodulatory activity, 468 and GABA receptor agonists and antagonists
+ In control larvae, a 30 min exposure to 470 dopamine precursor L-DOPA and D2-receptor agonist Quinpirole, as well as serotonin 471 precursor 5-HTP, shifted the response to LLC, at multiple intensities tested (p < 
+01; Figure 472 C)
+ In contrast, the dopamine antagonist haloperidol exposure induced a shift to SLC in 473 controls across all stimulus intensities (p < 
+01; Figure C)
+ Haloperidol induced the same 474 shift to SLC in PCB153-exposed larvae (p < 
+001), suggesting that the startle circuit is 475 functional but repressed by PCB (Figure C)
+ The response rate remained unchanged after 476 exposure to neurotransmitter modulators except 5-HT, which caused an increase in 477 response probability across all stimulus intensities in control larvae (p < 
+01); Quinpirole, 478 which caused a decrease in response probability at the two lowest stimulus intensities in 479 control larvae (p < 
+01); and Haloperidol, which caused an increase in response probability at 480 41 dB in PCB153-treated larvae (p < 
+01; Figure S)
+ It is noteworthy, that co-exposure to L-481 DOPA and PCB153 throughout development increased the response rate of PCB153-treated 482 larvae significantly (p < 
+01), yet only induced a significant shift towards SLC at 38 dB (p < 483 In the fish brain, a distinct population of serotonergic neurons is found in the posterior 485 tuberculum/hypothalamus, forming a prominent horseshoe-like pattern that is one of several 486 brain regions where 5-HT is synthesized (Oikonomou et al )
+ To assess whether the 487 development of serotonergic cells in the brain of PCB153 larvae was affected, we performed 488 immunohistochemistry using an antibody for 5-HT (Figure S)
+ The intensity of the 489 fluorescent signal in the hypothalamus was not different, comparing PCB153 (M = 
+70 x 490 106, SD = 
+10 x 106) with the control (M = 
+38 x 106, SD = 
+1 x 105) group
+ This suggests 491 that the serotonergic neurons in this region were not affected
+ 492 During specific behaviors or sensory experiences, only a small percentage of neurons are 493 active
+ We analyzed the active neuronal cell populations in PCB153-treated and -untreated 494  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    larvae, focusing on the rostral hindbrain, where the M-cells are located, to assess whether 495 there were changes in neural activity
+ We examined neuronal activity using the CaMPARI 496 zebrafish line, which contains a protein that upon UV illumination permanently photoconverts 497 from green to red fluorescence in cells with high calcium levels (Fosque et al )
+ This 498 genomic tool enabled us to look for active neuronal cell populations in larvae during normal 499 swimming movement, and in larvae experiencing a vibroacoustic stimulated startle response, 500 both in embryo medium at room temperature (24 C), and at a colder temperature (4 C)
+ A 501 higher red to green ratio (Fred/Fgreen) was measured comparing cold medium with room 502 temperature medium: swimming control larvae in cold medium had a higher Fred/Fgreen ratio 503 (M = 
+30, SD = 
+51) in comparison to swimming control larvae at RT (M = 
+96, SD = 504 
+17), confirming the potential of cold medium to elicit higher neuronal activity (Figure S)
+ 505 However, this difference was diminished in PCB153-treated, yet still significant in trial 1: F(1, 506 18) = 121, adj
+ p < 
+001 and trial 2: F(1, 32) = 
+2, adj
+ p = 
+ 
+ Importantly, the difference 507 between swimming control and PCB153-treated larvae in cold medium was significant in 508 both trial 1: F(1, 18) = 121, adj
+ p = 
+028 and trial 2 F(1, 32) = 
+2, adj
+ p < 
+001 (Figure )
+ 509 Similar differences in neuronal activity between control and PCB-153 treated larvae were 510 Despite most use ending decades ago, PCBs remain an important and persistent pollutant 513 impacting both wildlife and humans
+ To date, mechanistic studies of neurodevelopmental 514 effects of NDL-PCBs suggest two major targets: (1) alterations in neurotransmission, 515 particularly involving dopamine and serotonin, and consequently disruptions to Ca2+ signal 516 transduction (Campagna et al 2011; Dervola et al 2015; Enayah et al 2018; Fonnum and 517 Mariussen 2009; Langeveld et al 2012), and (2) loss of outer hair cells (Crofton et al 2000; 518 Trnovec et al 2010) or cochlear development (Goldey et al )
+ However, such studies 519 have not addressed how PCBs exert developmental neurobehavioral deficits, and thus we 520  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    do not know whether neurobehavioral disorders resulting from prenatal exposure originate in 521 a structural effect in the auditory system, a neurotransmitter imbalance, or both
+ In this study 522 we used the zebrafish startle response to comprehensively investigate the effects of different 523 PCBs on neuron development and signal transmission and to assess effects at 524 environmentally relevant concentrations for both humans and aquatic life
+ All NDL-PCBs 525 delayed the acoustic startle response in zebrafish larvae, which coincided with axonal 526 swelling and dysregulated GABA and dopamine metabolite levels
+ Co-exposures to the 527 dopamine D2-receptor antagonist and GABA receptor modulator drug haloperidol, alleviated 528 The morphology of the neuronal cell body (perikarya) and neurite provides essential 530 information on the developmental and physiological abnormalities in the neural circuits
+ We 531 found that in PCB153-exposed larvae, the neurons that innervate the hair cells had an 532 increased volume (Figure 3), indicating that PCB153 alters neuronal structure and hair cell 533 function
+ Swelling of afferent terminals is associated with hearing deficits in both mammalian 534 models (Puel et al 1991) and zebrafish (Sebe et al )
+ The increased volume may 535 originate from increased numbers of bulged (swollen) afferent neurite termini or increased 536 arborization (branching)
+ For example, tmie mutant zebrafish, which are deaf with defective 537 hair-cell function (Gleason et al 2009), have more complex peripheral arbors in afferent 538 axons and an increased number of neurites
+ In wildtype zebrafish, neurites with swollen 539 axonal terminals are associated with hair cells of both polarities rather than just a single 540 polarity, suggesting a dysregulation of selection in synaptic targets (Faucherre et al )
+ 541 At the sub-cellular level, neuronal swelling is due to increased cationic permeability in 542 neurons, causing an osmotic imbalance that leads to water entry and cytotoxic edema 543 (Rungta et al )
+ While we examined a number of morphological features of the startle 544 circuit anatomy (hair cell, afferent neurons, M-cell, oligodendrocyte lineage cells, 545 myelination, motor neuron, muscle), only the volume of the neurons that innervate the hair 546 cells showed a measurable deviation in PCB153-exposed larvae
+ We thus infer that the 547  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    enlargement of axon termini is contributing to the neurotoxic potential of NDL-PCBs  an 548 understudied target of PCB toxicity
+ A few studies associate NDL-PCB exposure with altered 549 dendritic arborization (Lein et al 2007; Yang et al )
+ Axonal swelling is a pathology 550 appearing in many neurodegenerative disease (Coleman 2005), and exposure to NDL-PCBs 551 The startle response in fish and amphibians is a fundamental mechanism involved in 553 predator escape
+ Acoustic stimuli can trigger two distinct motor behaviors: a short-latency C-554 bend (SLC; Figure 2A) initiated within 5-15 ms of the stimulus, or a long-latency C-bend 555 (LLC; Figure 2A), initiated within 15-100 ms (Burgess and Granato )
+ At the structural 556 level, laser-ablation of the M-cell abolishes SLC responses without affecting LLC responses 557 (Lacoste et al 2015), suggesting that the LLC is a backup response (Burgess and Granato 558 )
+ The finding that NDL-PCB-exposed larvae predominantly exhibit LLC without loss of 559 M-cells (Figure 4A), suggests that the M-cells are receiving a delayed input, are not firing 560 properly, or that the signal propagation downstream of the M-cell is disrupted
+ To distinguish 561 these, we directly activated the M-cells by applying electrical stimulation to control larvae 562 with their heads restrained, and found that unlike auditory stimulation, PCB153-exposed fish 563 had latencies indistinguishable from the controls
+ Furthermore, direct stimulation of PCB153-564 exposed larvae resulted in a normal response rate and response time, although the bend 565 angle was significantly increased
+ These results indicate a proper function of M-cells in NDL-566 PCB-treated larvae
+ However, the changes in bend angles we observed during these 567 There is less known about the mechanisms leading to an aberrant turning angle
+ Since we 569 found no obvious structural impairment downstream of the M-cell (oligodendrocyte lineage 570 cells, myelination, motor neuron, musculature), we speculate that the increased bend angle 571 in electrically stimulated larvae exposed to PCB153 may be linked to a sub-cellular 572 disruption such as gap junctions
+ It is known that PCBs can alter gap junction function in 573  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    cells of many organs (Bager et al 1997; Kang et al 1996; Machala et al 2003) including 574 NDL-PCB specific inhibition of gap junctional intercellular communication in neural crest cells 575 (Nyffeler et al 2018) and neuronal stem cells (PCB153; (Kang et al ))
+ Gap junctions 576 are intercellular channels formed by connexins (Cx)
+ RNA sequencing of zebrafish larvae 577 exposed to PCB153 in a similar exposure regime (4-120 hpf) and concentration (10 M) 578 significantly altered the expression of connexin genes cx
+9, cx42, and cx35b (Aluru et al 579 )
+ Cx35 is expressed on the Mauthner neuron lateral dendrites in zebrafish (Jain et al 580 2018) and plays a crucial role in regulating spinal motor activity during fast motor behavior of 581 adult mosquitofish (Serrano-Velez et al )
+ We thus propose that gap junction function 582 could be disrupted, which may be a future study direction using single-cell RNA sequencing 583 or genetically encoded optogenetics that has yet to be developed in a model organism (Dong 584 Neurotransmitters also play a key role in the startle response
+ A previous screening of more 586 modulators among the largest class of drugs that shift bias between SLC and LLC startle 588 behavior (Jain et al )
+ Specifically, acute exposure to the D3R agonist (7OHD) shifted 589 the startle bias from LLC to SLC, while exposure to a D3R antagonist (or a 5-HT1AR 590 agonist) shifted bias toward LLC behavior (Jain et al )
+ Our results extend these 591 findings, showing that 30 minutes exposure to L-DOPA or 5-HTP induces a shift from SLC to 592 LLC at higher stimulus intensities, as opposed to the D2R antagonist haloperidol, which 593 evoked a shift to a stronger SLC bias at all stimulus intensities (Figure C)
+ NDL-PCBs are 594 thought to affect dopaminergic pathways (Mariussen and Fonnum 2001; Tanaka et al 2018; 595 Wigestrand et al 2013), which is partly supported by our measurements of catecholamines 596 and traces amines
+ Specifically, we found that the extracellular dopamine metabolite 3-597 increased (Figure A)
+ The interplay between dopamine and GABA receptors activity is 599 complex
+ In the mammalian system, dopamine is a direct-acting modulator of GABAARs 600  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    (Hoerbelt et al )
+ The simultaneous presence of a dopamine metabolite and GABA in 601 PCB153-exposed zebrafish larvae may indicate that increased levels of GABA are a 602 downstream effect of dysregulated dopamine activity
+ With both dopamine and GABA 603 playing critical roles in motor activity, we hypothesize that PCB153 impairs dopaminergic 604 neurotransmission and subsequently increases GABA levels, leading to the predominant 605 LLC response
+ One of the most crucial regulators of synapse development and function 606 mediating the GABAergic, dopaminergic, and serotonergic synaptic transmission is the brain 607 derived neurotrophic factor (BDNF)
+ PCB153 induced the expression of bdnf in zebrafish 608 larvae (Aluru et al 2020) suggesting BDNF as potential target for transcriptional regulation
+ 609 Furthermore, we propose that GABA is involved in the swelling of the afferent terminals 610 (Figure 3) as GABA activates Cl- channels leading to an influx of Cl- accompanied by H2O 611 (Cesetti et al 2012; Rungta et al )
+ The osmotic neuronal swelling alters neuronal 612 activity
+ This study thus provides new evidence that GABA is involved in the neurobehavioral 613 mode of action of higher chlorinated NDL-PCBs, as has been for lower chlorinated 614 An important finding of this study is that PCB153-exposed larvae can execute SLC when 616 treated with haloperidol, a D2-antagonist that can increase dopamine turnover in acute 617 exposure (Magnusson et al )
+ There is a large body of evidence showing that NDL-618 dopamine precursor enzyme tyrosine hydroxylase and dopamine synthesis itself, in both 620 neural crest cells and adult laboratory animal models including non-human primates (Dervola 621 et al 2015; Enayah et al 2018; Fonnum and Mariussen 2009; Seegal et al )
+ In 622 zebrafish larvae, PCB153 exposure during development elicited differential expression of 623 nine genes related to the dopamine pathway, including tyrosine hydroxylase 2 (th2) (Aluru et 624 al )
+ Yet linking such effects to behavior is rare
+ Tanaka et al (2018) suggested that the 625 NDL-PCB dominant mixture Aroclor 1254 and BDE-47 functionally inhibited dopaminergic 626  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    neurons in early zebrafish embryos, as increased activity in 26 hpf embryos was inhibited by 627 supplementation with L-tyrosine and L-DOPA (Tanaka et al )
+  628 The restoration of the delayed startle phenotype by haloperidol, together with the increased 629 levels of a dopamine metabolite and GABA in PCB153-exposed larvae (Figure 5A), 630 indicates that disruption of dopaminergic and GABAergic signaling between neurons of the 631 auditory circuit is the dominant effect of PCB153-mediated aberrant motor behavior
+ These 632 signaling processes are widely conserved across vertebrate species, and are important in 633 human neurological diseases
+ For example, a recent study found that multiple gene 634 mutations causing defective startle response in zebrafish were also associated with 635 disorders of the locomotor system in humans (Meserve et al )
+  636 The localization of the PCB-induced disruption of dopaminergic signal transmission is likely 637 downstream of the hair cells, potentially in the hindbrain
+ Although dopaminergic neurons 638 innervate lateral line neuromasts, where D1R antagonist reduces the hair cell activity (Toro 639 et al 2015), we found no difference in the hair cell activity of PCB153-exposed larvae 640 (Figure D)
+ This is in contrast to the hindbrain, where neuronal activity was reduced in 641 PCB153 exposed CaMPARI zebrafish larvae (Figure 5), indicating a reduced capacity for 642 release or turnover of calcium
+ Intracellular Ca2+ signaling in neurons controls 643 neurotransmitter secretion among many other cellular processes and thus may be indirectly 644 involved in dopamine or GABA regulation
+ Some NDL-PCBs (PCB 95, 138) are known to 645 inhibit voltage-gated calcium channels (Langeveld et al 2012) contributing to interference 646 (Brunelli et al 2012; Campagna et al 2011; Gafni et al 2003; Ta et al )
+ 648 The startle response to threatening stimuli is vital for survival PCB153-exposed zebrafish 649 larvae predominantly responded with a LLC, which not only delays the response, increasing 650 the chance to be caught by a predator, but also usually does not displace the animal from its 651 original location (Figure 2A and Jain et al, )
+ While survival of predator attack is likely 652  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    context-dependent and species-specific, escaping fast and away from a predator increases 653 survival in the field (McCormick et al )
+ This suggests that exposure to NDL-PCBs may 654 alter selection pressure and thereby shift population structure
+ We have observed a 655 significantly delayed startle response at concentrations as low as 10 nM (
+6 g L-)
+ PCBs 656 are associated with sediments, where concentrations of PCB153 frequently reach multiple 657 g kg-1 (Lai et al )
+ PCB concentrations in organisms may be even higher due to 658 extensive bioconcentration (Killifish from New Bedford Harbor have 
+5 to 7 g of PCB153 659 per g wet weight; Grns et al )
+ All NDL-PCBs tested in this study increased the startle 660 latency
+ Thus, in the environment, where PCBs occur in mixtures of numerous congeners 661 that likely have additive effects, the effect concentration is suggested to be lower than that of 662 single congeners
+ Taken together, these results highlight the importance of the neurotoxic 663 In conclusion, the comprehensive approach presented here suggests that NDL-PCBs alter 665 dopamine signaling, leading to an increase in GABA that ultimately results in swelling of 666 axonal terminals in the auditory circuit
+ While the involvement of connexins remains 667 speculative, our findings provide a foothold into the dopamine dysregulating potential of 668 NDL-PCBs in sensory-motor processing in developing vertebrates, and link that to motor 669 behavior
+ In a direct comparison, the present study demonstrates that the adverse 670 behavioral effects are induced by all NDL-PCBs tested, but not by the classical DL-PCB
+ 671 Whether this is true for compounds that are structurally similar to NDL-PCBs, such as some 672 PBDEs, is not known and will require further research
+ A key finding is that the effect of NDL-673 PCBs on the startle latency occurs at concentrations relevant for both environmental and 674 human exposures, and therefore may contribute to the selection pressure in the environment 675 and neurotoxicological disease in human
+ This study provides valuable clues for tackling 676 health effects in humans and wildlife caused by environmental exposure
+ 677  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Nadja R
+ Brun: Conceptualization, Methodology, Formal analysis, Investigation, Writing - 679 original draft, Writing - review & editing, Visualization, Funding acquisition
+ Jennifer M
+ 680 review & editing, Funding acquisition
+ Kun Zhang: Methodology, Investigation, Writing - 682 review & editing, Funding acquisition
+ Yanbin Zhao: Methodology, Investigation, Writing - 683 review & editing, Funding acquisition
+ Evgeny Ivashkin: Methodology, Investigation
+ John J
+ 684 Stegeman: Conceptualization, Writing - review & editing, Funding acquisition
+ Jared V
+ 685 This work was supported by the Swiss National Science Foundation P2EZP2_165200 (NRB), 688 the Boston University Superfund Research Program NIH 5P42ES007381 (JJS and JVG), the 689 Woods Hole Center for Oceans and Human Health (NIH: P01ES021923 and P01ES028938; 690 NSF: OCE-1314642 and OCE-1840381) (NRB, JMP and JJS), and the National Natural 691 Science Foundation of China 22006099 (KZ and YZ) and the Shanghai Pujiang Program 692 The authors would like to thank Neel Aluru for helpful discussion and providing the confocal 695 microscope and Ed Levin and Mark Hahn for critically reading the manuscript and making 696 Almeida RG, Czopka T, Ffrench-Constant C, Lyons DA
+ 
+ Individual axons regulate the 699 Aluru N, Krick KS, Mcdonald AM, Karchner SI
+ 
+ Developmental exposure to PCB153 702  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Bager Y, Lindebro MC, Martel P, Chaumontet C, Wrngrd L
+ 
+ Altered function, 705 localization and phosphorylation of gap junctions in rat liver epithelial, IAR 20, cells after 706 Bates D, Mchler M, Bolker B, Walker S
+ 
+ Fitting Linear Mixed-Effects Models using 709 Berger DF, Lombardo JP, Jeffers PM, Hunt AE, Bush B, Casey A, et al 
+ Hyperactivity 711 and impulsiveness in rats fed diets supplemented with either Aroclor 1248 or PCB-712 Bergonzi R, Specchia C, Dinolfo M, Tomasi C, De Palma G, Frusca T, et al 
+ 715 Distribution of persistent organochlorine pollutants in maternal and foetal tissues: Data 716 Boix J, Cauli O, Felipo V
+ 
+ Developmental exposure to polychlorinated biphenyls 52, 719 138 or 180 affects differentially learning or motor coordination in adult rats
+ Mechanisms 720 Boucher O, Muckle G, Bastien CH
+ 
+ Prenatal exposure to polychlorinated biphenyls: A 722 Brunelli L, LLansola M, Felipo V, Campagna R, Airoldi L, De Paola M, et al 
+ Insight 724 into the neuroproteomics effects of the food-contaminant non-dioxin like polychlorinated 725 Burgess HA, Granato M
+ 
+ Sensorimotor gating in larval zebrafish
+ J Neurosci 27:4984727 Campagna R, Brunelli L, Airoldi L, Fanelli R, Hakansson H, Heimeier RA, et al 
+ 729 Cerebellum Proteomics addressing the cognitive deficit of rats perinatally exposed to 730 Castoldi AF, Blandini F, Randine G, Samuele A, Manzo L, Coccini T
+ 
+ Brain 733 Cesetti T, Ciccolini F, Li Y
+ 
+ GABA not only a neurotransmitter: Osmotic regulation by 737 Chen Y-CJ, Guo Y-L, Hsu C-C, Rogan WJ
+ 
+ Cognitive development of Yu-Cheng ('Oil 739 Disease) children prenatally exposed to heat-degraded PCBs
+ JAMA J Am Med Assoc 740 Coccini T, Roda E, Castoldi AF, Poli D, Goldoni M, Vettori MV, et al 
+ Developmental 742  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    cerebral dopamine D1-like and D2-like receptors of weanling and pubertal rats
+ Arch 744 Coleman M
+ 
+ Axon degeneration mechanisms: Commonality amid diversity
+ Nat Rev 746 Crofton KM, Ding D-L, Padich R, Taylor M, Henderson D
+ 
+ Hearing loss following 748 exposure during development to polychlorinated biphenyls: A cochlear site of action
+ 749 Dervola KSN, Johansen EB, Walaas SI, Fonnum F
+ 
+ Gender-dependent and genotype-751 sensitive monoaminergic changes induced by polychlorinated biphenyl 153 in the rat 752 Dong A, Liu S, Li Y
+ 
+ Gap junctions in the nervous system: Probing functional 754 Enayah SH, Vanle BC, Fuortes LJ, Doorn JA, Ludewig G
+ 
+ PCB95 and PCB153 757 change dopamine levels and turn-over in PC12 cells
+ Toxicology 394:93101; 758 Ennaceur S, Gandoura N, Driss MR
+ 
+ Distribution of polychlorinated biphenyls and 760 organochlorine pesticides in human breast milk from various locations in Tunisia: Levels 761 of contamination, influencing factors, and infant risk assessment
+ Environ Res 108:86762 Faucherre A, Baudoin JP, Pujol-Mart J, Lpez-Schier H
+ 
+ Multispectral four-764 dimensional imaging reveals that evoked activity modulates peripheral arborization and 765 Fernandes ECA, Hendriks HS, Van Kleef RGDM, Van Den Berg M, Westerink RHS
+ 
+ 768 Potentiation of the human GABAA receptor as a novel mode of action of lower-769 Fonnum F, Mariussen E
+ 
+ Mechanisms involved in the neurotoxic effects of 772 Fosque BF, Sun Y, Dana H, Yang C, Ohyama T, Tadross MR, et al 
+ Labeling of active 775 neural circuits in vivo with designed calcium integrators
+ Science 347: 
+ 776 Gafni J, Wong PW, Pessah IN
+ 
+ Non-coplanar 2,2,3,5,6-pentachlorobiphenyl (PCB 95) 777 neurons by a mechanism involving ryanodine receptors
+ Toxicol Sci 77:7282; 779 Gleason MR, Nagiel A, Jamet S, Vologodskaia M, Lpez-Schier H, Hudspeth AJ
+ 
+ The 781 transmembrane inner ear (Tmie) protein is essential for normal hearing and balance in 782 the zebrafish
+ Proc Natl Acad Sci U S A 106:2134721352; 783  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Goldey ES, Kehn LS, Lau C, Rehnberg GL, Crofton KM
+ 
+ Developmental exposure to 785 concentrations and causes hearing deficits in rats
+ Toxicol Appl Pharmacol 135:7788; 787 Grandjean P, Landrigan PJ
+ 
+ Neurobehavioural effects of developmental toxicity
+ 789 Grns J, Wassmur B, Fernndez-Santoscoy M, Zanette J, Woodin BR, Karchner SI, et al 791 
+ Regulation of pregnane-X-receptor, CYP3A and P-glycoprotein genes in the 792 Herbstman JB, Sjdin A, Apelberg BJ, Witter FR, Patterson DG, Halden RU, et al 
+ 795 polybrominated diphenyl ethers (PBDEs) in an urban population
+ Environ Health 797 Hoerbelt P, Lindsley TA, Fleck MW
+ 
+ Dopamine directly modulates GABAA receptors
+ J 799 Howe K, Clark MD, Torroja CF, Torrance J, Berthelot C, Muffato M, et al 
+ The 801 zebrafish reference genome sequence and its relationship to the human genome
+ 802 Hudspeth A
+ 
+ The cellular basis of hearing: the biophysics of hair cells
+ Science 804 Inoue D, Wittbrodt J
+ 
+ One for all-a highly efficient and versatile method for fluorescent 806 Jain RA, Wolman MA, Marsden KC, Nelson JC, Shoenhard H, Echeverry FA, et al 
+ A 808 forward genetic screen in zebrafish identifies the G-protein-coupled receptor CaSR as a 809 Johansen EB, Fonnum F, Lausund PL, Walaas SI, Brland NE, Wien G, et al 
+ 812 Behavioral changes following PCB 153 exposure in the Spontaneously Hypertensive rat 813 - an animal model of Attention-Deficit/Hyperactivity disorder
+ Behav Brain Funct 10:1814 Jusko TA, Sisto R, Iosif A-M, Moleti A, Wimmerov S, Lancz K, et al 
+ Prenatal and 816 postnatal serum PCB concentrations and cochlear function in children at 45 months of 817 Kang K-S, Park J-E, Ryu D-Y, Lee Y-S
+ 
+ Effects and neuro-toxic mechanisms of 819 2,2,4,4,5,5-hexachlorobiphenyl and endosulfan in neuronal stem cells
+ J Vet Med Sci 820 Kang KS, Wilson MR, Hayashi T, Chang CC, Trosko JE
+ 
+ Inhibition of gap junctional 822 intercellular communication in normal human breast epithelial cells after treatment with 823 pesticides, PCBs, and PBBs, alone or in mixtures
+ Environ Health Perspect 104:192824  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Kimmel CB
+ 
+ Patterning the brain of the zebrafish embryo
+ Annu Rev Neurosci 16:707826 Lacoste AMB, Schoppik D, Robson DN, Haesemeyer M, Portugues R, Li JM, et al 
+ A 828 Lai Z, Li X, Li H, Zhao L, Zeng Y, Wang C, et al 
+ Residual distribution and risk 831 assessment of polychlorinated biphenyls in surface sediments of the Pearl River Delta, 832 Lancz K, Hertz-Picciotto I, Jusko TA, Murnov , Wimmerov S, ovkov E, et al a
+ 834 Duration of breastfeeding and serum PCB 153 concentrations in children
+ Environ Res 835 Lancz K, Palkoviova L, Patayov H, Drobn B, Wimmerov S, ovkov E, et al b
+ 837 Ratio of cord to maternal serum PCB concentrations in relation to their congener-838 Landrigan PJ, Fuller R, Acosta NJR, Adeyi O, Arnold R, Basu N, et al 
+ The Lancet 841 Langeveld WT, Meijer M, Westerink RHS
+ 
+ Differential effects of 20 non-dioxin-like 844 PCBs on basal and depolarization-evoked intracellular calcium levels in PC12 cells
+ 845 Lein PJ, Yang D, Bachstetter AD, Tilson HA, Harry GJ, Mervis RF, et al 
+ Ontogenetic 847 alterations in molecular and structural correlates of dendritic growth after developmental 848 Lilienthal H, Heikkinen P, Andersson PL, van der Ven LTM, Viluksela M
+ 
+ Auditory 851 Lilienthal H, Korkalainen M, Andersson PL, Viluksela M
+ 
+ Developmental exposure to 854 Effects on brainstem auditory evoked potentials and catalepsy
+ Toxicology 327:2231; 856 Liu YC, Hale ME
+ 
+ Local spinal cord circuits and bilateral mauthner cell activity function 858 Machala M, Blha L, Vondrek J, Trosko JE, Scott J, Upham BL
+ 
+ Inhibition of gap 861 Inhibitory potencies and screening for potential Mode(s) of Action
+ Toxicol Sci 76:187863 Magnusson O, Mohringe B, Thorell G, Lake-Bakaar DM
+ 
+ Effects of the dopamine D2 865 selective receptor antagonist remoxipride on dopamine turnover in the rat brain after 866  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Mariussen E, Fonnum F
+ 
+ The effect of polychlorinated biphenyls on the high affinity 869 uptake of the neurotransmitters, dopamine, serotonin, glutamate and GABA, into rat 870 Maximino C, Herculano AM
+ 
+ A review of monoaminergic neuropsychopharmacology in 872 McCormick MI, Fakan E, Allan BJM
+ 
+ Behavioural measures determine survivorship 874 within the hierarchy of whole-organism phenotypic traits
+ Funct Ecol 32:958969; 875 Medan V, Preuss T
+ 
+ The Mauthner-cell circuit of fish as a model system for startle 877 Meserve JH, Nelson JC, Marsden KC, Hsu J, Echeverry FA, Jain A, et al 
+ A forward 879 genetic screen identifies Dolk as a regulator of startle magnitude through the potassium 880 Meyers JR, MacDonald RB, Duggan A, Lenzi D, Standaert DG, Corwin JT, et al 
+ 882 Lighting up the senses: FM1-43 loading of sensory cells through nonselective ion 883 Nakayama H
+ 
+ Common sensory inputs and differential excitability of segmentally 885 Nyffeler J, Chovancova P, Dolde X, Holzer AK, Purvanov V, Kindinger I, et al 
+ A 888 structureactivity relationship linking non-planar PCBs to functional deficits of neural 889 Oikonomou G, Altermatt M, Zhang R wei, Coughlin GM, Montz C, Gradinaru V, et al 
+ 892 The serotonergic raphe promote sleep in zebrafish and mice
+ Neuron :-
+e8; 893 Panlilio JM, Aluru N, Hahn ME
+ 
+ Developmental neurotoxicity of the harmful algal 895 bloom toxin domoic acid: Cellular and molecular mechanisms underlying altered 896 Panlilio JM, Jones IT, Salanga MC, Aluru N, Hahn ME
+ 
+ Developmental exposure to 899 Park H-C, Shin J, Roberts RK, Appel B
+ 
+ An olig2 reporter gene marks oligodendrocyte 902 precursors in the postembryonic spinal cord of zebrafish
+ Dev Dyn 236:34023407; 903 Poon E, Bandara SB, Allen JB, Sadowski RN, Schantz SL
+ 
+ Developmental PCB 905  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Puel JL, Pujol R, Ladrech S, Eybalin M
+ 
+ -Amino-3-hydroxy-5-methyl-4-isoxazole 908 propionic acid electrophysiological and neurotoxic effects in the guinea-pig cochlea
+ 909 Pujol-Mart J, Lpez-Schier H
+ 
+ Developmental and architectural principles of the 911 Ranasinghe P, Thorn RJ, Seto R, Creton R, Bridges WC, Chapman SC, et al 
+ 913 Ribas-Fit N, Sala M, Kogevinas M, Sunyer J
+ 
+ Polychlorinated biphenyls (PCBs) and 916 neurological development in children: A systematic review
+ J Epidemiol Community 917 Rice D, Barone S
+ 
+ Critical periods of vulnerability for the developing nervous system: 919 Evidence from humans and animal models
+ Environ Health Perspect 108:511533; 920 Roberts A
+ 
+ Early functional organization of spinal neurons in developing lower 922 Rungta RL, Choi HB, Tyson JR, Malik A, Dissing-Olesen L, Lin PJC, et al 
+ The cellular 924 Schindelin J, Arganda-Carreras I, Frise E, Kaynig V, Longair M, Pietzsch T, et al 
+ Fiji: 927 Sebe JY, Cho S, Sheets L, Rutherford MA, von Gersdorff H, Raible DW
+ 
+ Ca2+-930 permeable AMPARs mediate glutamatergic transmission and excitotoxic damage at the 931 Seegal RF, Bush B, Shain W
+ 
+ Lightly chlorinated ortho-substituted PCB congeners 934 decrease dopamine in nonhuman primate brain and in tissue culture
+ Toxicol Appl 935 Serrano-Velez JL, Rodriguez-Alvarado M, Torres-Vazquez II, Fraser SE, Yasumura T, 937 Vanderpool KG, et al 
+ Abundance of gap junctions at glutamatergic mixed 938 synapses in adult Mosquitofish spinal cord neurons
+ Front Neural Circuits 8:66; 939 Shin J, Park H-C, Topczewska JM, Mawdsley DJ, Appel B
+ 
+ Neural cell fate analysis in 941 Smith NL, Kimelman D
+ 
+ Establishing the body plan: The first 24 hours of zebrafish 944  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Stenberg M, Hamers T, Machala M, Fonnum F, Stenius U, Lauy AA, et al 
+ Multivariate 946 toxicity profiles and QSAR modeling of non-dioxin-like PCBs - An investigation of in vitro 947 Stewart AM, Braubach O, Spitsbergen J, Gerlai R, Kalueff A V
+ 
+ Zebrafish models for 950 Ta TA, Feng W, Molinski TF, Pessah IN
+ 
+ Hydroxylated xestospongins block inositol-953 Tabor KM, Bergeron SA, Horstick EJ, Jordan DC, Aho V, Porkka-Heiskanen T, et al 
+ 957 Direct activation of the Mauthner cell by electric field pulses drives ultrarapid escape 958 Takada N, Kucenas S, Appel B
+ 
+ Sox10 is necessary for oligodendrocyte survival 960 Tanaka Y, Fujiwara M, Shindo A, Yin G, Kitazawa T, Teraoka H
+ 
+ Aroclor 1254 and 962 BDE-47 inhibit dopaminergic function manifesting as changes in locomotion behaviors 963 Toro C, Trapani JG, Pacentine I, Maeda R, Sheets L, Mo W, et al 
+ Dopamine 966 modulates the activity of sensory hair cells
+ J Neurosci 35:1649416503; 967 Trnovec T, ovkov E, Pavlovinov G, Jakubkov J, Jusko TA, Hustk M, et al 
+ 969 Serum PCB concentrations and cochlear function in 12-year-old children
+ Environ Sci 970 Troconis EL, Ordoobadi AJ, Sommers TF, Aziz-Bose R, Carter AR, Trapani JG
+ 
+ 972 Intensity-dependent timing and precision of startle response latency in larval zebrafish
+ 973 Tropepe V, Sive HL
+ 
+ Can zebrafish be used as a model to study the 975 Vettori MV, Goldoni M, Caglieri A, Poli D, Folesani G, Ceccatelli S, et al 
+ Antagonistic 978 effects of methyl-mercury and PCB153 on PC12 cells after a combined and 979 Voesenek CJ, Muijres FT, Van Leeuwen JL
+ 
+ Biomechanics of swimming in developing 982 Walkowiak J, Wiener J-A, Fastabend A, Heinzow B, Krmer U, Schmidt E, et al 
+ 984 Environmental exposure to polychlorinated biphenyls and quality of the home 985  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Wigestrand MB, Stenberg M, Walaas SI, Fonnum F, Andersson PL
+ 
+ Non-dioxin-like 988 PCBs inhibit [3H]WIN-35,428 binding to the dopamine transporter: A structureactivity 989 Wolman MAA, Jain RAA, Marsden KCC, Bell H, Skinner J, Hayer KEE, et al 
+ A 991 genome-wide screen identifies PAPP-AA-mediated IGFR signaling as a novel regulator 992 Yang D, Kim KH, Phimister A, Bachstetter AD, Ward TR, Stackman RW, et al 
+ 994 dependent dendritic plasticity and ryanodine receptor expression in weanling rats
+ 996 Zhao Y, Liang J, Meng H, Yin Y, Zhen H, Zheng X, et al 
+ Rare earth elements 998  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Figure 
+ Startle response circuit in zebrafish
+ The proper execution of the startle response 1004 relies on hair cells to sense the auditory stimulus, Mauthner-cells to integrate the signals, and 1005  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Figure 
+ Effect of PCBs on startle response in 6 dpf zebrafish
+ (A) Representative short-1007 latency C-bend (SLC) and long-latency C-bend (LLC) startle response of a control zebrafish 1008 larva at 6 dpf in comparison to a typical response of a PCB153 treated larva
+ (B) Vibro-acoustic 1009 startle latency at highest stimulus intensity (43 dB) in vehicle control (n = 479), NDL-PCB153 1010 1000 nM (n = 179), NDL-PCB153 100 nM (n = 253), NDL-PCB153 30 nM (n = 152), NDL-1011 PCB153 10 nM (n = 119), NDL-PCB138 (n = 139), and DL-PCB126 (n = 97) exposed larvae
+ 1012 (C) Bias of SLC and LLC and (D) response rate of different exposure groups at different vibro-1013 acoustic intensities
+ Values are presented as mean  SEM
+ All data points are biologically 1014 independent replicates from at least three independent experiments
+ Significant differences to 1015 DMSO controls (p < 
+01) are indicated by open symbols
+ 1016  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Figure 
+ Effect of PCB153 on morphology and function of lateral line hair cells and 1017 innervating neurons
+ (A) Diagram indicating L3 neuromast
+ (B) Hair cell innervating neurons 1018 at neuromast L3 shown using Tg(cntnb:EGFP-CAAX)
+ Volume of hair cell innervating 1019 neurons of DMSO (n = 30) and PCB153 (n = 29) treated larvae
+ Scale bar = 20 m
+ (C) Whole-1020 mount immune staining of kinocilia and hair cell innervating neurons (anti-acetylated tubulin 1021 antibody; green) and counterstain of stereocilia bundles and muscle tissue (actin; magenta) of 1022 DMSO (n = 26) and PCB153 (n = 24) treated larvae
+ The hair cell number was determined 1023 based on the number of kinocilia
+ Scale bar = 10 m (D) Uptake of FM-143 dye as indication 1024 of functional hair cells of DMSO (n = 32) and PCB153 (n = 28) treated larvae
+ Scale bar = 10 1025 m
+ All data points are biologically independent replicates from at three independent 1026 experiments
+ Asterisks indicate significant differences to controls (***p < 
+ )
+ 1027  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Figure 
+ Effect of PCB153 on morphology and function of the Mauthner-cells
+ (A) 1028 Diagram indicating localization of Mauthner-cells in the hindbrain
+ Brain tissue immunostaining 1029 with anti-neurofilament 3A10 antibody labeling reticulospinal neurons in control and PCB153 1030 treated larvae at 6 dpf (ventral view)
+ Mauthner (arrow) cells were present in all brain tissues 1031 (control: n = 23, PCB153: n = )
+ Scale bar = 50 m
+ (B) Diagram of electrical stimulation 1032 performed to assess the functionality of Mauthner-cells
+ (C) Percentage of responders to 1033 electrical stimulation
+ All data points are biologically independent replicates from at least three 1034  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    Figure 
+ Involvement of neurotransmitters in startle latency
+ (A) Neurotransmitter levels 1036 in 6 dpf larvae exposed to 1000 nM PCB153 in comparison to control (n = )
+ (B) 1037 Representative maximum intensity z-projection from confocal stack after photoconversions of 1038 freely swimming 6 dpf CaMPARI larvae
+ Scale bar = 100 m
+ Ratio of red to green 1039 fluorescence intensity in the rostral hindbrain (indicated by dashed line in image) in DMSO (n 1040 = 14) and 1000 nM PCB153 (n = 14) exposed startling larvae in 4 C (cold) medium
+ Dashed 1041 lines indicate median per trial Two independent experiments
+ Asterisks indicate significant 1042 differences to controls (*p < 
+05, **p < 
+01, and ***p < 
+ )
+ (C) Startle bias shift induced 1043 by 30-minute exposure to serotonin, dopamine, and GABA neurotransmitter modulators in 6 1044 dpf control and 100 nM PCB153 exposed larvae
+ Control (n = 138-172), 5-HTP (n = 67-80), L-1045 DOPA (n = 76-94), Haloperidol (Control n = 123-162, PCB153 n = 37-61), and Bicuculline 1046 (Control n = 90-162, PCB153 n = -)
+ All data points are biologically independent 1047 replicates from at least three independent experiments
+ Significant differences to respective 1048  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in The copyright holder for thisthis version posted February 25, 
+ ;    

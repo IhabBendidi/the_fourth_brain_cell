@@ -1,0 +1,499 @@
+ L
+ Tanner1*, A
+ B
+ Single1, R
+ K
+V Bonghir1, R
+ Oomen2, O
+ Wallner2, T
+ Helleday2,3, C
+ Kalderen2, A
+ 1Respiratory Medicine & Allergology, Department of Clinical Sciences Lund, Lund University and Skne 2Science for Life Laboratory, Department of Oncology-Pathology, Karolinska Institutet, S-171 76 3Sheffield Cancer Centre, Department of Oncology and Metabolism, University of Sheffield, Sheffield S10 Lloyd Tanner (lloyd
+ tanner@med
+ lu
+se) Biomedical Center, Tornavgen 10, SE-221 84 Lund, Sweden
+ Interstitial lung diseases such as idiopathic pulmonary fibrosis (IPF) are caused by persistent micro-injuries to alveolar epithelial tissues together with aberrant repair processes
+ Despite substantial advancement in our understanding of IPF progression, numerous questions remain concerning disease pathology
+ IPF is currently treated with pirfenidone and nintedanib, compounds which slow the rate of disease progression but fail to treat underlying causes of disease
+ The DNA repair enzyme 8-oxoguanine DNA glycosylase-1 (OGG1) is upregulated following TGF- exposure in several fibrosis-associated cell types
+ Currently, no pharmaceutical solutions targeting OGG1 have been utilized in the treatment of IPF
+ In this study, a novel small molecule OGG1 inhibitor, TH5487, decreased myofibroblast transition and associated pro-fibrotic markers in fibroblast cells
+ In addition, TH5487 decreased pro-inflammatory cytokine production, inflammatory cell infiltration, and lung remodeling in a murine model of bleomycin-induced pulmonary fibrosis
+ Taken together, these data strongly suggest that TH5487 is a potent, specific, and clinically-(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    Idiopathic pulmonary fibrosis (IPF) is a disorder characterized by progressive lung scarring with a median 2 survival time of 3 years post-diagnosis ()
+ The disease is associated with increasing cough and dyspnea, 3 affecting approximately 3 million people worldwide, with incidence strongly correlated with increasing age 4 ()
+ IPF is defined on the histological basis of usual interstitial pneumonia (UIP), with UIP usually 5 presenting as honeycombing and peripheral alveolar septal thickening ()
+ Fibroblast and myofibroblast 6 overactivation/overstimulation results in extracellular matrix (ECM) deposition in alveolar walls, reducing 7 alveolar spaces ()
+ Current IPF therapies focus on inhibiting collagen deposition by blocking myofibroblast 8 activation
+ These approaches have shown limited success in achieving overall IPF resolution, highlighting 9 Injured IPF tissues produce reactive oxygen species (ROS), resulting in DNA damage and the upregulation 11 of fibrotic-related pathways, ultimately leading to lung architecture collapse (8, )
+ The DNA base guanine 12 is particularly prone to oxidation, forming 7,8-dihydro-8-oxoguanine (-oxoG)
+ 8-oxoG bases are 13 recognized by the enzyme 8-oxoG DNA glycosylase 1 (OGG1), whereby OGG1 binding triggers DNA 14 inducing agents ()
+ Furthermore, the increased expression of OGG1 is an important marker of 16 inflammation and resultant fibrotic processes (11, )
+    17 Following lung injury, fibroblasts transition to myofibroblasts through stimulatory factors such as TGF-1, 18 which further induce the production of fibrotic markers including alpha smooth muscle actin (-SMA), 19 collagen, and fibronectin (13, )
+ The fibroblast to myofibroblast transition and migratory activities are 20 Interestingly, siRNA-mediated Ogg1 knockdown in murine embryonic fibroblast cells revealed decreased 22 levels of tissue-associated -SMA ()
+ OGG1s implication in fibrogenesis, combined with its role in 23 inflammation, highlights this enzyme as a therapeutic target for IPF treatment ()
+ Thus, we hypothesize 24 that efficacy of a previously identified, potent, and selective OGG1 inhibitor (TH5487) may show promise 25 in a murine model of IPF
+ In this study, we used a 21-day intratracheally bleomycin-challenged murine 26 model to confirm TH5487 efficacy in vivo
+ This model reproduces several phenotypic features of human 27 IPF, including peripheral alveolar septal thickening and acute cytokine production resolving in fibrosis (19, 28 Murine C57BL/6 embryonic lung fibroblasts (MEFs; ATCC, Manassa, VA) and HFL-1 cells were cultured 33 in complete growth medium supplemented with L-glutamine, 100 U/mL penicillin, 100 g/mL 34 streptomycin, and 10% FBS
+ A549 cells were cultured in RPMI 1640 with the addition of 10% FCS, and 35 100U/mL penicillin, 100 g/mL streptomycin
+ Finally, BEAS 2B cells were cultured in RPMI-glutamax 36 and 10% FBS, with the addition of 100 U/mL penicillin and 100 g/mL streptomycin
+ 37 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    Wound healing assays were conducted using A549, murine lung fibroblast (MEF), BEAS 2B, and HFL-1 42 cells grown to confluence in 24-well plates
+ Wounds were made in the confluent cell layer using sterile 200 43 uL pipette tips, followed by washing with PBS and incubation with complete culture medium with or 44 without TGF-1 (10 ng/mL) at 37 C in a 5 % CO2 incubator for 48 h postscratching
+ Cell images were 45 monitored every 24 h using an Olympus CKX41 microscope with Olympus SC30 camera and cellSens 46 Entry software (Olympus, Tokyo, Japan)
+ Images were analyzed using the wound healing tool in ImageJ
+ 47 Data are presented as percentages of the initial wound area
+  48 HFL-1 cells were seeded (1 x 104 cells/mL) into 24 well plates containing rounded glass cover slips
+ TGF-50 1 (10 ng/mL) was added to each well, followed by the addition of medium containing TH 5487, 51 dexamethasone, medium only, or vehicle only
+ Following 96 h of treatment, cells were washed and fixed 52 with ice cold methanol, containing 
+5% Triton-X
+ Slides were blocked using Dako Protein Block 53 (Agilent, CA, USA) for 1 h at room temperature and then stained with primary antibodies overnight, rabbit 54 anti-COL I, rabbit anti-SMA, rabbit anti-fibronectin (Abcam, CAM, UK), and rabbit anti-OGG1 55 (Invitrogen, Carlsbad, CA) antibodies were used
+ AlexaFluor 488-conjugated goat anti-rabbit antibody 56 (Invitrogen, CA, USA) was used as secondary antibody
+ Glass cover slips were removed and mounted onto 57 glass slides, with nuclei counterstained using DAPI-containing fluoroshield (Abcam)
+ Images were 58 visualized using a Nikon Confocal Microscope
+     59 Fibroblast chemotaxis was measured using 24-well Nunc (8 m pore size) transwell inserts (ThermoFisher, 62 MA, USA)
+ HFL-1 cells were seeded (5 x 105 cells/ml) into the upper chamber in FBS-free medium, whilst 63 the lower chamber contained complete medium with additional 10 % FBS as a chemoattractant
+ Medium 64 containing TGF-1 (10 ng/mL) was added to each well and allowed to equilibrate for 24 h
+ Cells were 65 washed with PBS, followed by the addition of medium containing TH5487, dexamethasone, medium only, 66 or vehicle only (DMSO 2% and PBS pH 
+4), with the replacement of each every 24 h
+ Following 96 h, 67 medium was removed and cells in the lower chamber were stained (crystal violet) and imaged using a Nikon 68 HFL-1 cells were starved in culture medium with 
+5% BSA for 24 h
+ Cells were pretreated with TH5487, 71 5 M, 10 M or DMSO for one hour followed by TGF- stimulation (10 ng/ml, Peprotech) for 48 hours
+ 72 mRNA was extracted based on the RNA extraction kit protocol Direct-zol RNA MiniPrep (Zymo research)
+ 73 cDNA synthesis was performed using Quantitect Reverse Transcription kit (Qiagen) and quantified with 74 the iTaq Universal SYBR Green Supermix PCR Kit in Rotor Gene Q (Qiagen)
+ Using the following 75 The obtained Ct values of the samples were normalized to the Ct values of 18SRNA reference gene, 2-80 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    All animal experiments were approved by the MalmLund Animal Care Ethics Committee (M-)
+  84 10-12-week-old male C57Bl/6 mice (Janvier, Le Genest-Saint-Isle, France) were housed at least 2 weeks 86 in the animal facility at the Biomedical Service Division at Lund University before initiating experiments 87 and were provided with food and water ad libitum throughout the study
+ Mice were randomly allocated into 88 five groups: intratracheally (i
+ t
+)-administered bleomycin (
+5 U/kg) + vehicle intraperitoneal (i
+ p
+), 89 bleomycin (i
+ t
+) + TH5487 (40 mg/kg; i
+ p
+), bleomycin (i
+ t
+) + dexamethasone (10 mg/kg; i
+ p
+), saline (i
+ t
+) 90 + vehicle (i
+ p
+), and saline (i
+ t
+) + TH5487 (40 mg/kg; i
+ p
+ )
+  91 Blood was collected in 
+5 M EDTA tubes by cardiac puncture and centrifuged at 1,000 g for 10 min
+ 93 Plasma supernatant was used for the analysis of inflammatory mediators using a bioplex assay
+  94 Right lungs were collected in Eppendorf tubes on dry ice and stored at -80 C
+ The snap-frozen lungs were 96 thawed and homogenized in tissue protein extraction reagent (T-PER) solution (ThermoFisher) containing 97 protease inhibitor (Pefabloc SC; Sigma-Aldrich) at a final concentration of 1 mM
+ Lung homogenates were 98 centrifuged at 9,000 g for 10 min at 4C, and the supernatants were collected for bioplex analysis
+ Left 99 lungs were collected in Histofix (Histolab, Gteborg, Sweden) and submerged in 4 % buffered 100 BAL was performed with a total volume of 1 ml PBS containing 100 M EDTA
+ BALF was collected in 103 Eppendorf tubes on ice, with aliquots made for flow cytometry, cytospin differential counts, and an aliquot 104 transferred to -80C for bioplex cytokine analysis
+ Cytospin preparations of cells were stained with 105 For the detection of multiple cytokines in BALF, plasma, and lung homogenate, the Bio-Plex Pro mouse 108 cytokine assay (23-Plex Group I; Bio-Rad) was used on a Luminex-xMAP/Bio-Plex 200 System with Bio-109 Plex Manager 
+2 software (Bio-Rad, Richmond, CA)
+ A cytometric magnetic bead-based assay was used 110 to measure cytokine levels, according to the manufacturers instructions
+ The detection limits were as 111 follows: Eotaxin (
+ -
+23 pg/mL), GCSF (
+ -
+3 pg/mL), GMCSF (
+ -
+91 pg/mL), IFN-112 
+24 pg/mL), IL-3 (
+ -
+44 pg/mL), IL-4 (
+ -
+34 pg/mL), IL-5 (
+ -
+78 pg/mL), IL-6 114 
+62 pg/mL), IL-12p70 (
+ -
+81 pg/mL), IL-13 (
+ -
+16 pg/mL), IL-17 (
+ -
+51 116 pg/mL), KC (
+ -
+4 pg/mL), MCP-1 (
+ -
+01 pg/mL), MIP-1 (
+ -
+63 pg/mL), 117 MIP-1 (
+ -
+34 pg/mL), RANTES (
+ -
+61 pg/mL), and TNF- (
+ -
+69 pg/mL)
+ 118 Cytokine measurements for lung homogenate samples were corrected for total protein concentration using 119 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    The Quantikine ELISA kit targeting TGF-1 (R&D systems, UK) was used to assess TGF-1 levels in the 123 BALF, plasma, and lung homogenate of murine samples according to the manufacturers instructions
+ 124 Optical density was measured at 450 nm using a VICTOR 1420 Multilabel plate reader (Perkin Elmer, MA, 125 Flow cytometry was carried out using a BD Accuri C6 Plus (BD Biosciences)
+ The washed cells were 128 incubated with Fixable Viability Stain 510 (FVS510; BD #564406) to differentiate live and dead cells
+ Cells 129 were washed with Stain buffer 1x (BD #554656) and incubated with Lyse Fix 1x (BD #558049 (x))
+ Fixed 130 cells were washed with stain buffer and aliquoted into two samples incubated with either anti-CD11b 131 Mouse left lungs were fixed in Histofix (Histolab Products AB, Askim, Sweden), paraffin-embedded and 135 sectioned at 3 m
+ The tissue sections were placed on slides (Superfrost Plus; Fisher Scientific) and 136 deparaffinized in serial baths of xylene and ethanol followed by staining using Mayer hematoxylin and 137 
+2% eosin (Histolab Products AB, Askim, Sweden) or picrosirius red staining kit (Abcam, Cambridge, 138 UK)
+  The stained slides were imaged using an Aperio CS2 image capture device
+ 139 Lung tissue sections were fixed as reported above
+ After fixation, samples were washed and dehydrated in 141 alcohol at increasing concentrations, critical point dried, mounted on aluminium holders, and covered with 142 20 nm of gold
+ Samples were examined in a Philips XL30 FEG scanning electron microscope (Eindhoven, 143 The Netherlands) operated at an acceleration voltage of 5 kV
+ 144 Lung tissue sections were fixed as reported above
+ Lung samples underwent antigen retrieval (pH9 buffer) 146 using a Dako PT Link pre-treatment module (Agilent, CA, USA)
+ Samples were washed and blocked for 147 10 min (Dako protein block, Agilent, CA, USA) before being treated with primary antibodies overnight
+ 148 Mouse anti-COL1A1, rabbit anti-fibronectin, rabbit anti-MPO (Abcam, CAM, UK), and rabbit anti-OGG1 149 (Invitrogen, Carlsbad, CA) antibodies were used
+ Alexa Fluor 488-conjugated goat/anti-mouse and Alexa 150 Fluor 647 goat/anti-rabbit (Invitrogen, CA, USA) were used as secondary antibodies
+ Glass cover slips were 151 placed onto slides and mounted with DAPI-containing fluoroshield (Abcam)
+ Images were visualized using 152 The migration of fibroblasts into the lung injury site is a key step in the pathogenesis of pulmonary fibrosis
+ 157 The human HFL-1 and MEF cell lines were used for this analysis, alongside the alveolar epithelium-derived 158 cell lines A549 and BEASB
+ Cells were grown to form a confluent monolayer, scratched to form a wound, 159 then stimulated with 10 ng/mL TGF-B1 to induce cell migration and wound closure
+ The cells were 160 additionally treated with TH5487 (10 uM), vehicle, or dexamethasone (10 uM) as a comparator drug
+ This 161 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    assay showed the wound area percentage in all cell types was significantly reduced following TGF-1 162 addition, indicating the expected pro-migratory effects of TGF-B1 stimulation (Figure A)
+ TGF-B1-163 induced wound closure was inhibited by TH5487 treatment across all tested cell lines (Figure A)
+ 164 Interestingly, dexamethasone only inhibited cell migration in BEAS 2B and HFL-1 cells and showed 165 minimal effects in A549 and mouse lung fibroblast cells
+ In summary, these results indicate TH5487 is 166 capable of inhibiting TGF-B1-mediated migratory effects of lung-derived cells, including both human- and 167 TGF-1 driven fibrosis results in the transition of fibroblasts to myofibroblasts resulting in the production 171 of fibrotic proteins
+ TH5487 treatment additionally reduced the production of collagen, fibronectin, and -172 smooth muscle actin, as measured by immunofluorescence and qPCR (Figure 1B and E)
+ Compelling 173 evidence of TH5487 involvement in OGG1 reduction is presented in Figure 1C, with significant decrease 174 in OGG1 fluorescence compared to TGF-
+ To investigate myofibroblast transition, TGF-B1-stimulated 175 HFL-1 cells were analyzed for TH5487-mediated inhibition to myofibroblasts in a transwell assay (Figure 176 D)
+ Interestingly, TH5487 significantly reduced this myofibroblast transition (P <
+001) compared to 177 We next investigated TH5487-mediated Ogg1 inhibition in vivo using a mouse model of pulmonary 181 fibrosis
+ Mice received a one-off intratracheal administration of bleomycin (
+5 U/kg) and were dosed (IP) 182 with TH5487 or dexamethasone 1h post-bleomycin administration, followed by additional dosing once per 183 day, in five-day intervals, over a total period of 21 days (Figure A)
+ Body weights were recorded as a 184 proxy for murine health status (Figure B)
+ Mice in the bleomycin/vehicle group lost 
+5  
+1 % total 185 bodyweight, whilst mice in remaining groups either maintained their bodyweight or gained significant 186 weight compared to the bleomycin/vehicle group over the experiment timeline
+  187 The effect of TH5487 treatment on inflammatory cytokine levels was investigated from the in vivo study 190 using a 23-cytokine multiplex assay (Supp
+ Figure -)
+ Cytokines were assessed in lung tissue homogenate, 191 BALF, and plasma (Figure 3 A-C)
+ TH5487 treatment significantly reduced the levels of several bleomycin-192 induced inflammatory cytokines, including those in the BALF such as IL-9, eotaxin, MIP-1 (*P<
+05), 193 MIP-1 and IL-5 (**P<
+01), and KC (***P<
+005), whilst cytokines from the plasma displaying a 194 reduction include IL-5 and MIP-1 (*P< 
+05), IL-17 and RANTES (**P< 
+01), and eotaxin 195 (****P<
+ )
+ Further, similar reductions in the lung homogenate were seen following TH5487 196 administration in particular in MIP-1, KC, and IL-9 (*P< 
+05) and IL-2 (**P< 
+ )
+ Additionally, TGF-197 1 levels were measured in the BALF, plasma, and lung homogenate of murine samples (Figure D)
+ 198 TH5487-treated samples displayed significantly less TGF-1 than in vehicle/bleomycin samples as 199 compared by one-way ANOVA (*P<
+05; **P<
+01; ***P<
+ )
+ Plasma leakage into the BALF as a 200 proxy for lung damage was assessed by BCA assay (Figure E)
+ TH5487-treated samples displayed 201 significantly lower albumin levels compared to vehicle/bleomycin samples as assessed by one-way 202 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    TH5487 treatment reduced immune cell infiltration into the airways in vivo 204 We next investigated the effects of TH5487 treatment on immune cell infiltration into the airways by 205 performing flow cytometry on BALF fluid obtained from the in vivo studies
+ Decreases in neutrophil count 206 and inflammatory macrophages were seen following TH5487 administration compared to 207 vehicle/bleomycin samples (Figure 4A and B)
+ Giemsa-Wright-stained BALF samples showed bleomycin-208 treated macrophages were enlarged, displaying an inflammatory phenotype not seen in mice treated with 209 Next, TH5487s impact on bleomycin-induced lung damage was investigated using histological analysis of 213 whole lung sections obtained from the in vivo studies (Supp
+ Figure 4 and )
+ Bleomycin-treated control 214 mice displayed significant lung damage when compared to saline-treated controls (Figure 5A and B)
+ 215 Bleomycin-treated mice that received TH5487 treatment showed reduced lung damage, with lesser degrees 216 of alveolar structural collapse, less septal thickening of the alveoli, and less immune cell influx as indicated 217 by the H&E stain (Figure A)
+ Picrosirius red staining revealed a reduced level of collagen deposition in 218 TH5487-treated versus control-treated mice (Figure B)
+ Positive pixel analysis was used to quantify lung 219 damage and showed significantly less H&E and picrosirius red staining in the TH 5487-administered lungs, 220 with no significant decreases in either staining reported for dexamethasone-treated lungs (Figure 5A and 221 B)
+ Further, scanning electron microscopy analysis (SEM) revealed collagen deposition surrounding the 222 alveolar walls of bleomycin control mice was reduced in response to TH5487 treatment (Figure C)
+ 223 Immunofluorescent staining of murine lung sections revealed decreased myeloperoxidase (MPO), 224 fibronectin, COL1A1, and OGG1 staining compared to the vehicle bleomycin control group (Figure D)
+ 225 To further support the involvement of OGG1 in fibrotic related lung damage, co-staining was carried out 226 on murine lung sections, revealing increased COL1A1/OGG1 fluorescence in similar lung areas (Figure 227 IPF is an interstitial lung disease characterized by dysregulated inflammation, progressive lung scarring, 231 and eventual death due to respiratory complications (1, )
+ Importantly, uncontrolled lung injury is a 232 hallmark of IPF initiation and progression, resulting in pro-inflammatory and pro-fibrotic cytokine release 233 driving further fibrosis-related immune cell influx and ECM remodeling (16, 22, )
+ Ensuing TGF- 234 production following lung injury results in the upregulation of tissue repair genes, including the DNA base 235 excision repair gene OGG1 (14, 24, )
+ Previously reported data indicate that OGG1 is increased in lung 236 epithelial cells and fibroblasts following TGF- stimulation addition ()
+  237 Although studies showing in vitro and in vivo involvement of OGG1 in various pathologies, this is to the 238 best of our knowledge, the first reported evidence of OGG1-targeting using a clinically relevant 239 pharmacological agent
+ The approach reported in this study utilizes a potent and selective small molecule 240 employing a novel and distinct mechanism of action, preventing OGG1 from binding damaged DNA, 241 initiating transcription factors, and upregulating pro-inflammatory and pro-fibrotic pathways ()
+  242 Abnormal wound healing of the alveolar epithelium in response to micro-injuries plays a crucial role in IPF 243 progression ()
+ To test whether TH5487 inhibits relevant lung-resident epithelial and fibroblast cells, 244 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    A549, BEAS 2B, HFL-1, and murine lung fibroblast cells were included in wound healing assays
+ TH5487 245 significantly reduced migration and wound healing compared to TGF- controls in all tested cell types
+ In 246 addition, myofibroblast transition is vital to ECM remodeling, leading to lung tissue rigidity and decreased 247 breathing capacity ()
+ In this regard, HFL-1 myofibroblast transition and proliferation was significantly 248 Whilst increased myofibroblast number has been directly linked with IPF progression, fibrotic markers such 250 as collagen, fibronectin, and -SMA have additionally been linked with ECM deposition and IPF 251 progression (30, )
+ In this study, we show that collagen, fibronectin, and -SMA are reduced by TH5487 252 treatment in murine lung fibroblast cells stimulated with TGF-, whilst dexamethasone reduced collagen 253 and -SMA but importantly did not decrease fibronectin
+ Fibronectin is a crucial ECM glycoprotein 254 abundantly expressed by fibroblasts, mediating migration and proliferation of myofibroblasts ()
+ 255 Transition of fibroblasts to myofibroblasts is additionally associated with transcriptional upregulation of 256 profibrotic genes
+ The effects of TH5487 on transcription of -smooth muscle actin (-SMA) and collagen 257 (ColA1) in TGF-1 stimulated HFL-1 cells were investigated by qPCR
+ TH5487, 10 M significantly 258 reduced transcription of Col1A1 and -SMA while TH5487 at 5 M reduced mRNA levels of -SMA in 259 TGF-1 stimulated cells
+ Furthermore, immunofluorescence revealed a significant and specific decrease in 260 OGG1 expression following TH5487 treatment, a decrease not seen in TGF- or dexamethasone controls
+ 261 Importantly, this confirms the potent and specific activity of TH5487 to decrease OGG1 in fibrosis-inducing 262 In this study, in vivo efficacy of TH5487 was tested using an intratracheal bleomycin model of fibrotic lung 264 damage
+ Bleomycin-induced fibrosis in C57BL/6 mice is reproducible, only affects the lungs, and is widely 265 used, allowing generation of comparative results (20, )
+ Previous studies have shown significant fibrotic-266 associated weight loss in this model (34), an effect confirmed in this study
+ Murine weight-loss was 267 significantly higher in groups not receiving TH5487 or dexamethasone, indicative of the protective effects 268 Mechanistic studies using this model, incorporated pro-inflammatory cytokine measurement of various 270 lung environments
+ BALF, plasma, and lung homogenate displayed significantly decreased levels of a pro-271 inflammatory and pro-fibrotic cytokines
+ Specifically, macrophage-recruiting cytokines such as MIP-1 272 were significantly reduced in the BALF and lung homogenate samples, whilst neutrophil-recruiting MIP-273 1 (CCL4), KC/CXCL 1, and eotaxin were all reduced following TH5487 treatment
+    274 Interleukin-5 (IL-5) was significantly decreased in the BALF and plasma of TH5487-treated mice
+ Involved 275 in numerous inflammatory processes in the lungs including IPF (35), IL-5 displays chemoattractant 276 properties for eosinophils, immune cells providing sources of TGF- and MCP-1 (36, )
+ IL-9 was also 277 significantly decreased in both BALF and lung homogenate of TH 5487-treated mice
+ IL-9 is Th2 cytokine 278 implicated in fibrosis, acting via receptors on macrophages, T/B lymphocytes, and mast cells
+ High levels 279 of IL-9 have been found in both macrophages and CD4-positive cells in patients with IPF, with IL-9 280 blockade displaying decreased levels of silica-induced lung fibrosis ()
+ Additionally, TGF-1 was shown 281 to be reduced in murine BALF, plasma, and lung homogenate following TH5487 treatment as compared to 282 vehicle/bleomycin treated mice
+ Elevated TGF-, a potent inducer of ECM production and key mediator of 283 lung fibrosis, is directly linked to increases in collagen synthesis and deposition ()
+ 284 Furthermore, increases in the permeability of the pulmonary vasculature and plasma protein leakage have 285 been linked to the development of pulmonary fibrosis ()
+ Plasma leakage into the BALF as a marker for 286 lung damage was assessed by the measurement of murine albumin content in the BALF
+ Murine albumin 287 content was significantly decreased in the BALF following TH5487 treatment as compared to 288 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    vehicle/bleomycin treated mice indicative of decreased lung damage ()
+ Taken together, lung injury is 289 accompanied by inflammatory cytokine production, inflammatory cell infiltration, and ensuing fibrosis 290 To test this, inflammatory cell influx was measured in murine BALF via flow cytometry
+ Interestingly, 292 fewer neutrophils and significantly fewer inflammatory macrophages were seen in TH5487-treated samples 293 compared to both dexamethasone/bleomycin and vehicle/bleomycin samples
+ Giemsa-Wright stains of 294 BALF further elucidated the increase in inflammatory macrophage numbers in the bleomycin-treated 295 samples compared to TH5487/bleomycin samples
+ Inflammatory cell incursion into the lung environment 296 plays a role in IPF progression and severity (16, 43), with limitation of lung inflammation providing a 297 Histological analysis of TH5487 murine lung samples revealed significantly decreased levels of collagen 299 deposition in lung tissues compared to vehicle/bleomycin treated samples
+ Furthermore, H&E staining of 300 lung samples indicated significant reduction in lung damage and alveolar structural collapse
+ Further, SEM 301 analysis of TH5487-treated samples revealed decreased thickening of alveolar walls and decreased 302 collagenous deposition compared to vehicle/bleomycin controls
+ These results provide indicative in vivo 303 data of fibrosis reduction following TH5487 treatment
+ Immunofluorescent staining of fibrotic related 304 proteins revealed decreased levels of both fibronectin and COL1A1 following TH5487 treatment
+ 305 Additional staining for neutrophil-associated myeloperoxidase (MPO) revealed decreases in neutrophil 306 influx into the lung environment following TH5487 treatment, as supported by similar neutrophil decreases 307 in the BALF flow cytometric analyses
+ Subsequent co-staining for OGG1/COL1A1 indicates strong 308 signalling of both proteins in similar areas of the murine lung, with both OGG1 and COL1A1 decreased 309 following TH5487 treatment compared to both vehicle/bleomycin and dexamethasone/bleomycin groups
+   310 TH5487 possesses a novel mechanism of action involving upstream gene-targeting of OGG1 using a small 311 molecule inhibitor
+ This study further elucidates the downstream effects of this approach, decreasing 312 myofibroblast transition, epithelial and fibroblast migration, inflammatory cell recruitment, and eventual 313 inhibition of fibrotic-related lung remodelling
+ These data strongly support TH5487 use in clinical trials for 314 The work was supported by grants from the Swedish Research Council, the Swedish Heart and Lung 319 Foundation, the Swedish Government Funds for Clinical Research (ALF), the Swedish Foundation for 320 We would like to acknowledge the assistance received from the IQ Biotechnology Platform (Lund 323 Lloyd Tanner: Investigation, data curation, writing - review & editing, writing - original draft; Andrew 326 B
+ Single: Investigation, data curation, writing - review & editing; Ravi K
+ V
+ Bhongir: Investigation, 327 writing - review & editing; Riya Oomen: investigation, data curation; Olov Wallner: Compound design; 328 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    compound design, funding acquisition; Arne Egesten: Supervision, conceptualization, funding acquisition, 330 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    
+  Raghu G, Collard HR, Egan JJ, Martinez FJ, Behr J, Brown KK, Colby T V, Cordier J-F, Flaherty KR, Lasky JA, Lynch DA, Ryu JH, Swigris JJ, Wells AU, Ancochea J, Bouros D, Carvalho C, Costabel U, Ebina M, Hansell DM, Johkoh T, Kim DS, King  Jr TE, Kondoh Y, Myers J, Mller NL, Nicholson AG, Richeldi L, Selman M, Dudden RF, Griss BS, Protzko SL, Schnemann HJ, Fibrosis AC on IP
+ 
+ An official ATS/ERS/JRS/ALAT statement: idiopathic pulmonary fibrosis: evidence-based guidelines for diagnosis and management
+ Am J Respir Crit Care Med 
+  Chang X, Xing L, Wang Y, Yang C-X, He Y-J, Zhou T-J, Gao X-D, Li L, Hao H-P, Jiang H-L
+ 
+  Raghu G, Flaherty KR, Lederer DJ, Lynch DA, Colby T V, Myers JL, Groshong SD, Larsen BT, Chung JH, Steele MP, Benzaquen S, Calero K, Case AH, Criner GJ, Nathan SD, Rai NS, Ramaswamy M, Hagmeyer L, Davis JR, Gauhar UA, Pankratz DG, Choi Y, Huang J, Walsh PS, Neville H, Lofaro LR, Barth NM, Kennedy GC, Brown KK, Martinez FJ
+ 
+ Use of a molecular classifier to identify usual interstitial pneumonia in conventional transbronchial lung 
+  Martinez FJ, Collard HR, Pardo A, Raghu G, Richeldi L, Selman M, Swigris JJ, Taniguchi H, Wells AU
+ 
+ Idiopathic pulmonary fibrosis
+ Nat Rev Dis Prim :
+ 
+  Kim HJ, Perlman D, Tomic R
+ 
+ Natural history of idiopathic pulmonary fibrosis
+ Respir Med 
+  Landi C, Bergantini L, Cameli P, dAlessandro M, Carleo A, Shaba E, Rottoli P, Bini L, Bargagli E
+ 
+ Idiopathic Pulmonary Fibrosis Serum proteomic analysis before and after nintedanib 
+  Lederer DJ, Martinez FJ
+ 
+ Idiopathic pulmonary fibrosis
+ N Engl J Med :
+ 
+  Mora AL, Rojas M, Pardo A, Selman M
+ 
+ Emerging therapies for idiopathic pulmonary 
+  Guo L, Karoubi G, Duchesneau P, Aoki FG, Shutova M V, Rogers I, Nagy A, Waddell TK
+ 
+ Interrupted reprogramming of alveolar type II cells induces progenitor-like cells that ameliorate 
+  Wang Y, Chen T, Pan Z, Lin Z, Yang L, Zou B, Yao W, Feng D, Huangfu C, Lin C, Wu G, Ling H, Liu G
+ 
+ 8-Oxoguanine DNA glycosylase modulates the cell transformation process in pulmonary fibrosis by inhibiting Smad2/3 and interacting with Smad
+ FASEB J :-
+ 
+  Zhang S, Li J, Li Y, Liu Y, Guo H, Xu X
+ 
+ Nitric oxide synthase activity correlates with 
+  Pan L, Wang H, Luo J, Zeng J, Pi J, Liu H, Liu C, Ba X, Qu X, Xiang Y, Boldogh I, Qin X
+ 
+ Epigenetic regulation of TIMP1 expression by 8-oxoguanine DNA glycosylase-1 binding to 
+  Selman M, King Jr TE, Pardo A
+ 
+ Idiopathic pulmonary fibrosis: prevailing and evolving hypotheses about its pathogenesis and implications for therapy
+ Ann Intern Med :
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    
+ Sheppard D
+ 
+ Epithelial-mesenchymal interactions in fibrosis and repair
+ Transforminggrowth factor- activation by epithelial cells and fibroblasts
+ Ann Am Thorac Soc 12 Suppl
+ Tang N, Zhao Y, Feng R, Liu Y, Wang S, Wei W, Ding Q, An MS, Wen J, Li L
+ 
+Lysophosphatidic acid accelerates lung fibrosis by inducing differentiation of mesenchymal stem
+ Wynn TA, Ramalingam TR
+ 
+ Mechanisms of fibrosis: therapeutic translation for fibrotic
+ Luo J, Hosoki K, Bacsi A, Radak Z, Hegde ML, Sur S, Hazra TK, Brasier AR, Ba X, Boldogh I
+ 
+ 8-Oxoguanine DNA glycosylase-1-mediated DNA repair is associated with Rho GTPaseactivation and -smooth muscle actin polymerization
+ Free Radic Biol Med//
+ :
+ Visnes T, Czares-Krner A, Hao W, Wallner O, Masuyer G, Loseva O, Mortusewicz O, Wiita E,Sarno A, Manoilov A, Astorga-Wells J, Jemth A-S, Pan L, Sanjiv K, Karsten S, Gokturk C, GrubeM, Homan EJ, Hanna BMF, Paulin CBJ, Pham T, Rasti A, Berglund UW, von Nicolai C, Benitez-Buelga C, Koolmeister T, Ivanic D, Iliev P, Scobie M, Krokan HE, Baranczewski P, Artursson P,Altun M, Jensen AJ, Kaldern C, Ba X, Zubarev RA, Stenmark P, Boldogh I, Helleday T
+ 
+ 
+ Tashiro J, Rubio GA, Limper AH, Williams K, Elliot SJ, Ninou I, Aidinis V, Tzouvelekis A,Glassberg MK
+ 
+ Exploring animal models that resemble idiopathic pulmonary fibrosis
+ Front
+ Tanner L, Single AB
+ 
+ Animal Models Reflecting Chronic Obstructive Pulmonary Diseaseand Related Respiratory Disorders: Translating Pre-Clinical Data into Clinical Relevance
+ J Innate
+ Lee SB, Kalluri R
+ 
+ Mechanistic connection between inflammation and fibrosis
+ Kidney Int
+ Upagupta C, Shimbori C, Alsilmi R, Kolb M
+ 
+ Matrix abnormalities in pulmonary fibrosis
+ 
+ Wuyts WA, Agostini C, Antoniou KM, Bouros D, Chambers RC, Cottin V, Egan JJ, LambrechtBN, Lories R, Parfrey H, Prasse A, Robalo-Cordeiro C, Verbeken E, Verschakelen JA, Wells AU,Verleden GM
+ 
+ The pathogenesis of pulmonary fibrosis: a moving target
+ Eur Respir J
+ Shi L, Dong N, Fang X, Wang X
+ 
+ Regulatory mechanisms of TGF-1-induced fibrogenesis
+ Hakem R
+ 
+ DNA-damage repair; the good, the bad, and the ugly
+ EMBO J :
+ 
+ Molina-Molina M, Machahua-Huamani C, Vicens-Zygmunt V, Llatjs R, Escobar I, Sala-LlinasE, Luburich-Hernaiz P, Dorca J, Montes-Worboys A
+ 
+ Anti-fibrotic effects of pirfenidoneand rapamycin in primary IPF fibroblasts and human alveolar epithelial cells
+ BMC Pulm Med
+ Fernandez IE, Eickelberg O
+ 
+ New cellular and molecular mechanisms of lung injury and(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    
+ King  Jr TE, Pardo A, Selman M
+ 
+ Idiopathic pulmonary fibrosis
+ Lancet :
+ 
+ Rangarajan S, Bone NB, Zmijewska AA, Jiang S, Park DW, Bernard K, Locy ML, Ravi S,Deshane J, Mannon RB, Abraham E, Darley-Usmar V, Thannickal VJ, Zmijewski JW
+ 
+Metformin reverses established lung fibrosis in a bleomycin model
+ Nat Med :
+ 
+ Hu B, Phan SH
+ 
+ Myofibroblasts
+ Curr Opin Rheumatol :
+ 
+ Phan SH
+ 
+ Biology of fibroblasts and myofibroblasts
+ Proc Am Thorac Soc :
+ 
+ Beyeler J, Katsaros C, Chiquet M
+ 
+ Impaired Contracture of 3D Collagen Constructs by
+ Walters DM, Kleeberger SR
+ 
+ Mouse Models of Bleomycin-Induced Pulmonary Fibrosis
+ 
+ Egger C, Cannet C, Grard C, Jarman E, Jarai G, Feige A, Suply T, Micard A, Dunbar A, TiganiB, Beckmann N
+ 
+ Administration of Bleomycin via the Oropharyngeal Aspiration RouteLeads to Sustained Lung Fibrosis in Mice and Rats as Quantified by UTE-MRI and Histology
+ 
+ Boomars KA, Wagenaar SS, Mulder PG, van Velzen-Blad H, Van den Bosch JM
+ 
+Relationship between cells obtained by bronchoalveolar lavage and survival in idiopathic
+ Zhang K, Gharaee-Kermani M, Jones ML, Warren JS, Phan SH
+ 
+ Lung monocyte
+ Zhang K, Flanders KC, Phan SH
+ 
+ Cellular localization of transforming growth factor-beta
+ Sugimoto N, Suzukawa M, Nagase H, Koizumi Y, Ro S, Kobayashi K, Yoshihara H, Kojima Y,Kamiyama-Hara A, Hebisawa A, Ohta K
+ 
+ IL-9 Blockade Suppresses Silica-induced LungInflammation and Fibrosis in Mice
+ Am J Respir Cell Mol Biol :
+ 
+ Yue X, Shan B, Lasky JA
+ 
+ TGF-: Titan of Lung Fibrogenesis
+ Curr Enzym Inhib
+ Shea BS, Probst CK, Brazee PL, Rotile NJ, Blasi F, Weinreb PH, Black KE, Sosnovik DE, VanCott EM, Violette SM, Caravan P, Tager AM
+ 
+ Uncoupling of the profibrotic and hemostatic
+ Knipe RS, Probst CK, Lagares D, Franklin A, Spinney JJ, Brazee PL, Grasberger P, Zhang L,Black KE, Sakai N, Shea BS, Liao JK, Medoff BD, Tager AM
+ 
+ The Rho Kinase IsoformsROCK1 and ROCK2 Each Contribute to the Development of Experimental Pulmonary Fibrosis
+ 
+ Phan SH, Kunkel SL
+ 
+ Lung Cytokine Production in Bleomycin-Induced Pulmonary
+ Butler MW, Keane MP
+ 
+ The Role of Immunity and Inflammation in IPF Pathogenesis BT  -Idiopathic Pulmonary Fibrosis: A Comprehensive Clinical Guide, p
+ 
+ In Meyer, KC,(which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    Figure 1: In vitro wound healing assay (A), immunofluorescence and myofibroblast transition assay using human lung fibroblast (HFL-1) cells (B-D), and qPCR of HFL-1 cells following TGF-1 stimulation
+ (A) Migration of A549, mouse lung fibroblast (MEF), BEAS2B, and human lung fibroblast cells (HFL-1) was measured at 0, 24, and 48 h post-wound induction
+ Cells were treated with 10 ng/mL of TGF-1 or an equivalent concentration of DMSO in control samples
+ Wound area percentage was compared to the control samples using a one-way ANOVA followed by a Dunnetts post-hoc test: *P<
+05; ***P<
+0005 ****P<
+ 
+ Data is representative of 3 independent experiments containing 4 biological replicates (scale bar=100 m)
+ Immunostaining of myofibroblast cells (B and C) following 96h of TGF-1 treatment, with TH5487 treatment displaying visually reduced levels of collagen (COL1A1), fibronectin, and alpha smooth muscle actin (-SMA) with similarly reduced levels of OGG1 compared to no treatment/TGF-1 control (green fluorescence; scale bar=50 m)
+ (D) Myofibroblast transition of human lung fibroblast cells was measured over h
+ HFL-1 cells in the basal well were stained and counted, with significantly more myofibroblast cells appearing in the untreated control well
+ Drug treated experiment samples were compared to untreated control samples using a one-way ANOVA followed by a Dunnetts post-hoc test: ****P<
+ 
+ Data is representative of 3 independent experiments containing 4 biological replicates (scale bar=100 m)
+ (E) The effects of TH5487 on transcription of -SMA and Col1A1 in TGF-1 stimulated HFL-1 cells were investigated by qPCR
+ TH5487 (10 M), significantly reduced transcription of ColA1 and -SMA, with data representative of 3 independent experiments
+  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    Figure 2: TH5487 murine dosing strategy and weights
+ (A) Mice received intratracheally administered bleomycin (
+5 U/kg) and were subsequently dosed (IP) with TH5487 or dexamethasone 1h post-bleomycin administration
+ Intraperitoneal (i
+ p
+) dosing occurred five times per week, over the course of 21 days, followed by euthanasia and removal of BALF, plasma, and lung tissues
+ (B) Mice receiving bleomycin showed weight loss up until day 10, where after those dosed with TH5847 picked up significant amounts of weight compared to the vehicle/bleomycin group
+  (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    Figure 3: Significantly decreased murine cytokines following TH5487 (IP) administration, with accompanying markers of lung damage
+ Heatmaps (A-C) showing the differences in cytokine levels in murine BALF, plasma, and lung homogenate (Red- high value; Green-low value) with corresponding significantly decreased or increased cytokine levels alongside
+ Cytokine values were compared to the vehicle/bleomycin group using a one-way ANOVA (*P<
+05; **P<
+01; ***P<
+005; *****P<
+ )
+ TGF-1 ELISA (D) conducted on murine BALF, plasma, and lung homogenate revealed significantly decreased TGF-1 levels in all three murine sample types with values compared to the vehicle/bleomycin group using a one-way ANOVA (*P<
+05; **P<
+01; ***P<
+ )
+ Murine albumin content (E) was measured in BALF samples as a marker for plasma leakage, with TH5487 treatment significantly decreasing albumin content in the BALF compared to the vehicle/bleomycin group
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    Figure 4: Inflammatory cell influx measured in murine BALF
+ Murine BALF was assessed for neutrophils, alveolar macrophages, and inflammatory macrophages (A) using flow cytometry, with the representative gating strategy depicted alongside (B)
+ Decreased numbers of neutrophils and inflammatory macrophages were detected in response to TH5487 (IP) treatment, with no significant difference reported between the neutrophils and inflammatory macrophages of mice treated with dexamethasone
+ No significant differences were reported for alveolar macrophage numbers
+ Inflammatory cell numbers were compared to the vehicle/bleomycin group using a one-way ANOVA (*P<
+ )
+ (C) Cytospin Giemsa-Wright stained slides showing vehicle/bleomycin BALF samples containing enlarged inflammatory macrophages, with TH5487 treatment reducing the presence of inflammatory macrophages, whilst the corticosteroid dexamethasone similarly reduced inflammatory macrophage influx comparable to (G) vehicle treated control samples
+ Scale bar=20 m
+ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    Figure 5: Murine lung staining, scanning electron microscopy (SEM), and immunofluorescence show reduced levels of fibrotic-related lung damage following TH5487 treatment compared to vehicle/bleomycin samples
+ (A) TH5487 significantly decreased lung damage (H&E) and (B) collagen deposition (picrosirius red) in both macroscopic and microscopic structures compared to vehicle/bleomycin lungs and was confirmed by positive pixel analysis of whole-lung scanned images (scale bar of microscopic image=100 m; scale bar of whole lung scan=2 mm)
+ Statistical analyses were conducted using a one-way ANOVA (*P<
+05; **P<
+01; ***P<
+ )
+ (C) TH5487 (i
+ p
+)/bleomycin SEM images show reduced collagen deposition in the alveolar borders compared to bleomycin-treated controls (scale bar=20 m)
+ Immunofluorescent staining of murine lung slices (D) revealed decreased levels of myeloperoxidase (MPO), fibronectin, OGG1, and COL1A1 following TH5487 treatment compared to both vehicle/bleomycin and dexamethasone/bleomycin groups (scale bar=50 m)
+ (E) Co-stained murine lung samples revealed corresponding increases in OGG1 and COL1A1 following bleomycin administration, with reduced levels of both OGG1 and COL1A1 in TH5487-treated samples (scale bar=50 m)
+   (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    

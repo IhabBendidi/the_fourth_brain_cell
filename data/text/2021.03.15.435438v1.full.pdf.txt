@@ -1,0 +1,871 @@
+Takumi Kitamoto1 *, Taiyi Kuo1, Atsushi Okabe2, Atsushi Kaneda2, Domenico Accili1 5 1 Department of Medicine and Naomi Berrie Diabetes Center, Vagelos College of Physicians and 9 Surgeons, Columbia University, New York, NY, 10032 2 Department of Molecular Oncology, 10 Graduate School of Medicine, Chiba University, Chiba, Japan, 260-8677  11 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;      Bipartite intron regulation of lipid genes is partly fasting-independent  29   Ppara contributes to the transcriptional resiliency of Foxo1 metabolic targets 30   Insulin resistance causes de novo recruitment of Foxo1 to active enhancers 31 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    Abnormalities of lipid/lipoprotein and glucose metabolism are hallmarks of hepatic insulin 34 resistance in type 2 diabetes
+ The former antedate the latter, but the latter become progressively 35 refractory to treatment and contribute to therapeutic failures
+ Its unclear whether the two processes 36 share a common pathogenesis and what underlies their progressive nature
+ In this study, we 37 investigated the hypothesis that genes in the lipid/lipoprotein pathway and those in the glucose 38 metabolic pathway are governed by different transcriptional logics that affect their response to 39 physiologic (fasting/refeeding) as well as pathophysiologic cues (insulin resistance and 40 hyperglycemia)
+ To this end, we obtained genomic and transcriptomic maps of the key insulin-41 regulated transcription factor, FoxO1, and integrated them with those of CREB, PPARa, and 42 glucocorticoid receptor
+ We found an enrichment of glucose metabolic genes among those 43 regulated by intergenic and promoter enhancers in a fasting-dependent manner, while lipid genes 44 introns
+ Glucose genes also showed a remarkable transcriptional resiliency, i
+ e
+, an enrichment of 46 active marks at shared PPAR/FoxO1 regulatory elements when FoxO1 was inactivated
+ 47 Surprisingly, the main features associated with insulin resistance and hyperglycemia were a 48 spreading of FoxO1 binding to enhancers, and the emergence of target sites unique to this 49 condition
+ We surmise that this unusual pattern correlates with the progressively intractable nature 50 of hepatic insulin resistance
+ This transcriptional logic provides an integrated model to interpret 51 the combined lipid and glucose abnormalities of type 2 diabetes
+ 52 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    The liver is a source of excess lipid, atherogenic lipoproteins, and glucose in patients with type 2 57 diabetes
+ These factors predispose to micro- and macrovascular complications
+ The underlying 58 pathophysiology is not well understood, and mechanistic insight into it may provide better tools 59 to prevent, treat, and reverse the disease
+ Here we propose an alternative explanation for this 60 pathophysiologic conundrum by illustrating a transcriptional logic underlying the regulation of 61 different classes of genes
+ These findings can be interpreted to provide an integrated stepwise 62 model for the coexistence of lipid and glucose abnormalities in hepatic insulin resistance
+  63 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    An impairment of the physiologic response to insulin, or insulin resistance, remains the central 66 cause of type 2 diabetes together with declining insulin secretory capacity, and its principal 67 unmet treatment need ()
+ The pleiotropic nature of insulin resistance poses a therapeutic 68 challenge by having different effects on different organs, and different biological consequences 69 within the same cell type, not to mention evidence of genetic heterogeneity ()
+ Nowhere is this 70 challenge more apparent than at the liver, a central organ in the pathogenesis of two key 71 abnormalities in diabetes: increased production of atherogenic lipoproteins that increase the 72 diabetics susceptibility to heart disease (1); and increased glucose production, predisposing to 73 microvascular complications ()
+ In addition, the progressive nature of the latter defect (4), 74 together with declining b-cell function (5), likely underlies the therapeutic failure of antidiabetic 75 drugs ()
+ Among drugs directly targeting hepatic glucose production, the diabetic pharmacopeia 76 Understanding whether the two central defects of hepatic insulin resistance harken back 78 to a shared mechanism, or arise independently, has obvious implications for the discovery of new 79 treatments ()
+ A useful conceptualization that has gained some consensus separates insulin 80 signaling into FoxO1-dependent and Srebp1c-dependent branches, the former emanating from 81 activation of Akt and allied kinases to regulate glucose metabolism, and the latter being relayed 82 through mTOR to supervise lipid synthetic and turnover pathways ()
+ However, while the case 83 for FoxO1 regulation of specific genes is strong, its genome-wide regulatory function in the 84 broader context of the nutrient response has only been marginally addressed (9, )
+ Therefore, 85 the extent to which the lipid and glucose metabolic branches of insulin signaling share a common 86 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    redundant units with overlapping functions
+ During fasting, as glucagon, catecholamine, and 88 FFA levels rise, a host of factors is activated to modulate glucose and lipid mobilization
+ Besides 89 FoxO, they include CREB, PPARs, CEBPs, and nuclear receptors ()
+ To address these 90 questions, we undertook to generate a liver FoxO1 cistrome in different physiologic and 91 pathophysiologic states and compare it with the CREB, PPARa, and glucocorticoid receptor 92 cistromes
+ By leveraging a new mouse model developed for genome-wide interrogation of 93 FoxO1 function (12), we discovered a FoxO1 transcriptional logic that provides insight into 94 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    There is a dearth of primary data on the kinetics of hepatic FoxO1 localization in response to 100 hormones and nutrients in the living organism
+ To optimize conditions for genome-wide ChIP-101 seq, we performed immunohistochemistry in wild-type mice to determine the time- and dose-102 dependence of FoxO1 nucleocytoplasmic translocation in response to insulin
+ Insulin injection 103 into the inferior vena cava triggered rapid FoxO1 translocation that reached a plateau by 15 104 minutes (Fig
+ S1a), with an ED50 of 
+02U/kg (plasma level 
+4 ng/mL) (Fig
+ Sb)
+ In contrast, 105 HNF4A remained nuclear throughout (Fig
+ Sa)
+ Thus, FoxO1 translocation is rapid and 106 Next, we investigated translocation in response to fasting and refeeding
+ Following a 108 physiologic 4-hr fast, 1-hr refeeding induced complete FoxO1 translocation (Fig
+ a)
+ In contrast, 109 a prolonged, 16-hr fast resulted in decreased FoxO1 immunoreactivity
+ Subsequent refeeding for 110 up to 4 hr failed to translocate residual FoxO1 to the cytoplasm, while FoxO1 immunoreactivity 111 increased and HNF4A immunoreactivity decreased after 2hr refeeding (Fig
+ Sc)
+ The reduced 112 protein levels and delayed translocation are likely secondary to FoxO1 deacetylation (-)
+ 113 FoxO1 localization correlated with plasma glucose and insulin levels, as well as liver Akt 114 phosphorylation
+ Thus, rapid nuclear exclusion in the 4-hr-fast/1-hr-refeed design was associated 115 with a modest rise of glucose and insulin levels (Fig
+ S1d) and increased Akt phosphorylation 116 (Fig
+ S1e), whereas persistent nuclear localization in the 16-hr fast/4-hr refeed design was 117 associated with hyperglycemia, hyperinsulinemia (Fig
+ S1d), and reduced Akt phosphorylation 118 (Fig
+ Se)
+ Based on these findings, we selected the 4-hr fast and 1-hr refeed time points to 119 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    To study the genome-wide regulation of FoxO1 with fasting and refeeding, we interrogated 123 genome occupancy by FoxO1 using an anti-GFP antibody in FoxO1-Venus knock-in mice (12) 124 for chromatin immunoprecipitation (ChIP), to overcome the limitations of anti-FoxO1 125 antibodies
+ As reported (12), anti-FoxO1 antibodies detected the FoxO1-Venus fusion protein 126 encoded by the modified Foxo1 locus (Fig
+ Sa-b)
+ Comparison between the two antibodies at 127 known FoxO1 target genes (Igfbp1, G6pc, and Pck1) confirmed the specificity and superior 128 sensitivity of the GFP antibody (Fig
+ S2c) ()
+ We next compared ChIP-qPCR and ChIP-seq 129 using GFP antibody in FoxO1Venus mice in the same conditions (Fig
+ Sdh)
+ Both approaches 130 demonstrated similar decreases of FoxO1 binding to Igfbp1, G6pc, and Pck1, and the lack of 131 effects on the unrelated Fkbp
+ As the results were internally consistent, we performed further 132 Genome-wide FoxO1 ChIP peak calling detected ~15,000 peaks; ~8,000 unique peaks in 134 fasting, ~1,000 in refeeding, and 5,000 in both conditions but to different extents (Fig
+ b)
+ >30% 135 of FoxO1 sites localized to promoters/transcription start sites (TSS) (Fig
+ c)
+ Signal intensity 136 plots demonstrated that refeeding cleared FoxO1 binding to autosomes (Fig
+ 1d and S3a), 137 regardless of the distance from TSS (Fig
+ Sb)
+ Known (Fig
+ S3c) and de novo motif analyses 138 (Fig
+ 1e, Fig
+ S4) retrieved the FoxO1 motif TGTTTAC ()
+ This motif was found in 17% and 139 
+3% of FoxO1 sites in fasted and refed conditions, respectively
+ The same motif was found in 140 fasted and refed conditions (Fig
+ S3d), and was evenly distributed between 1 and 5Kb from TSS 141 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    Next, we integrated ChIP-seq and RNA-seq data into a hepatic FoxO1 regulome
+ To 143 identify FoxO1-regulated mRNAs, we induced somatic ablation of FoxO1 in liver by injecting 144 Foxo1lox/lox mice with AAV-Cre (A-FLKO) and documented its completeness and specificity by 145 mRNA measurements and western blotting of different tissues (Fig
+ Sf-g)
+ After 3 weeks, we 146 isolated livers from 4-hr-fasted A-FLKO and control (A-WT) mice and performed RNA-seq
+ We 147 plotted the log2 difference in DNA binding (FoxO1 ChIP-seq peak number in fasted vs
+ refed 148 animals) vs
+ the log2 difference in gene expression between A-WT and A-FLKO mice 149 (differentially expressed genes, DEGs)
+ Thus, the effect of genotype lies along the vertical axis, 150 and that of fasting along the horizontal axis (Fig
+ 1f and Table S)
+  151 Contingency analyses showed the strongest association between DEGs in the fasted state 152 and FoxO1 DNA binding sites at promoters/TSS (183 of 198, or 
+4%), followed by introns 153 (260 of 344, 
+6%), and intergenic sites (181 of 281, 
+4%), respectively (p < 
+ )
+ Since 154 DEGs are more likely to be FoxO1 targets, these data provide initial, suggestive evidence of a 155 FoxO1 transcriptional logic, i
+ e
+, genes regulated by FoxO1 in a fasting/refeeding-dependent 156 manner have a greater frequency of FoxO1 sites in their promoter/TSS, introns, and intergenic 157 In addition to metabolism, FoxO1 regulates cellular maintenance functions in a fasting-161 independent manner ()
+ We sought to understand the transcriptional logic of these diverging 162 functions
+ We hypothesized that basic cellular functions would be regulated through core 163 promoters, which are generally found within 1 kb from TSS and are associated with 164 housekeeping genes and developmental TFs ()
+ Conversely, we surmised that metabolic genes 165 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    would be regulated through tissue-specific enhancers (11, )
+ To test the hypothesis, we mapped 166 active enhancers using H3K27ac and H3K4me1 ChIP-seq (21) in fasting and refeeding, and 167 Of 5,303 active enhancers co-localizing with FoxO1 sites genome-wide, 2,975 were 169 unique to fasting, 1,022 to refeeding, and 1,306 were found in both conditions (Fig
+ Sb)
+ FoxO1 170 enhancers localized mostly to intergenic regions and introns, and to a lesser extent to 171 promoter/TSS (Fig
+ a)
+ The rate of clearance in response to refeeding varied according to 172 genomic annotation: 
+6% in intergenic regions (804/1348); 
+9% in introns, (1085/1597); and 173 Next, we performed ontology analyses of genes associated with FoxO1 sites in active 175 enhancers vs
+ core promoters and visualized causal relationships among enriched terms in 176 directed acyclic graphs (DAG) ()
+ FoxO1 sites in active enhancers were overwhelmingly 177 enriched in metabolic genes, with the top three fundamental ontologies being glucose 178 metabolism, lipid homeostasis, and insulin response (FDR 10-40 to -70) (Fig
+ 2b, c, Sc)
+ These 179 gene ontologies showed a strong correlation between the fasting/refeeding ratio of FoxO1 DNA 180 binding (Fig
+ 2d, e and S5d) (b = 
+09, p < 
+0001), and changes to mRNA expression following 181 FoxO1 ablation, especially in fasting conditions (Fig
+ f)
+ In contrast, enhancer-less FoxO1 sites 182 in promoter/TSS included gene ontologies related to intracellular transport, DNA repair, ncRNA 183 processing, and protein modification by small protein conjugation (Fig
+ 2g, h, S5e) (FDR 10-20 to 184 -)
+ These sites showed a lesser correlation between the fasting/refeeding ratio of FoxO1 binding 185 (Fig
+ 2i-j and S5f) (b = 
+29, p < 
+ )
+ More importantly, mRNAs encoded by genes lacking 186 active enhancers were largely unaffected by FoxO1 ablation (Fig
+ k)
+ The active enhancer 187 marker, H3K27ac, was unaffected by fasting and refeeding (b = 
+91, p < 
+0001) (Fig
+ Sg)
+ 188 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    These results indicate that the cell maintenance and metabolic functions of FoxO1 are 189 ruled by distinct transcriptional logics: the former are governed by core promoters in a 190 fasting/refeeding-independent manner, whereas the latter are governed by active enhancers and 191 Enrichment of FoxO1 sites in introns of triglyceride and cholesterol genes 194 The second most common genomic annotation of FoxO1 binding sites mapped to introns (Fig
+ 195 c)
+ The corresponding genes showed changes to their mRNAs following FoxO1 ablation (Fig
+ 196 1f and Table S)
+ To understand the functional correlates of FoxO1 binding to introns, we 197 compared expected and actual distribution of FoxO1 sites across the genome for different gene 198 ontology groups
+ Interestingly, triglyceride metabolism genes showed a skewed distribution, 199 with FoxO1 binding sites occurring at two- to three-fold the expected frequency at two locations: 200 5 to 50kb and 50 to 5kb from TSS (proximal introns and distal promoters), and 30 to 50% of 201 the expected frequency at 0 to 5kb and 50 to 500kb from TSS (Fig
+ a)
+ In contrast, glucose 202 metabolism genes showed an enrichment 50 to 500kb from TSS, followed by the 5 to 50kb 203 regions (Fig
+ b)
+ Statistical analyses of annotation distribution demonstrated that triglyceride 204 metabolism genes were significantly enriched in introns, while glucose metabolism genes were 205 enriched in intergenic and promoter/TSS sites (p = 
+03) (Fig
+ c)
+ 206 The ontology groups of intron-enriched genes included a nearly exclusive assortment of 207 lipid, lipoproteins, and cholesterol genes (Fig
+ d)
+ Nearly half of intron sites were associated 208 with active enhancers (Fig
+ a)
+ Next, we analyzed the FoxO1 regulome by intron enhancer 209 status
+ Linear regression analysis of FoxO1 tags in the fasted vs
+ refed state demonstrated that 210 introns marked by active enhancers showed a three-fold lower coefficient of variation than 211 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    enhancer-less introns (b = 
+19 vs
+ 
+06) (Fig
+ S6ab), and were more frequently associated with 212 variations of the encoded mRNAs in A-FLKO
+ For example, ScarB1 (23) (Fig
+ 3e), Angptl4, and 213 Angptl8 (24) (Table S2) showed fasting-induced FoxO1 binding to active intron enhancers, as 214 well as altered mRNA levels upon FoxO1 ablation
+ In contrast, the ApoB, ApoA1/C3/A4/A5 and 215 C2/C4/C1/E clusters (the latter syntenic with the human APOCII enhancer) (25) showed fasting-216 independent FoxO1 binding to enhancer-less introns, and preserved mRNA expression following 217 The transcriptional logic of the FoxO1 regulome emerging from the preceding analyses 219 suggests that a majority of glucose metabolism genes are governed by an intergenic/proximal 220 promoter/TSS active enhancer-logic in a fasting-inducible manner, whereas a majority of 221 triglyceride, lipoprotein, and cholesterol genes are ruled by a bipartite intron-logic: fasting-222 We hypothesized that this differential logic underlies hepatic insulin resistance
+ We tested 224 the hypothesis using three different conditions: (i) resilience analysis to determine whether these 225 two regulatory modalities affect the ability of these genes to undergo compensatory changes in 226 response to variations in FoxO1 function, as a surrogate measure of insulin action (Fig
+ S1); (ii) 227 comparative genomic analyses with other fasting-induced TFs to identify functional partners and 228 First, we sought to determine whether different modalities of FoxO1 regulation (intergenic and 232 promoter/TSS vs
+ intron) were associated with differential compensation by other TFs that may 233 affect the pathophysiology of insulin resistance
+ To this end, we compared gene expression 234 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    differences between constitutive vs
+ adult-onset somatic ablation of FoxO1 in liver (26-28) and 235 We generated Alb-Cre:FoxO1fl/fl mice to induce constitutive hepatic FoxO1 ablation (C-237 FLKO) and compared gene expression differences between adult-onset (A-FLKO, described in 238 Fig
+ 1) and constitutive (C-FLKO) knockouts according to nutritional state (fast vs
+ refeed), 239 genotype (WT vs
+ FoxO1 ablation), and timing of ablation (A-FLKO vs
+ C-FLKO) using RNA-240 seq (Fig
+ S)
+ t-SNE plots showed large differences in fasted vs
+ refed gene expression patterns 241 between A-FLKO and their matched controls (A-WT)
+ In contrast, the differences between C-242 FLKO and C-WT were considerably blunted (Fig
+ a)
+ We calculated fold-change and average 243 gene expression in each WT/knockout pair to draw MA-plots of log-intensity ratios (M-values) 244 vs
+ averages (A-values)
+ The number of differentially regulated genes in fasted C-FLKO mice 245 decreased by 60% compared to A-FLKO (227 vs
+ 585), whereas it was similar in refed 246 conditions (301 vs
+ 243) (Fig
+ 4be, Table S)
+ Thus, a first conclusion is that chronic 247 compensatory changes partially mask the effect of FoxO1 ablation on the fasting response
+ 248 Next, we determined the ontologies of genes undergoing compensatory changes as a 249 function of nutritional status (fast vs
+ refeed), genotype (knockout vs
+ WT), and timing-of-250 ablation (A-FLKO vs
+ C-FLKO) (Fig
+ f)
+ We identified four ontology groups (A-D)
+ Group A 251 was comprised of genes induced by fasting, and group C of genes induced by refeeding, neither 252 of which was affected by FoxO1 ablation in either A-FLKO or C-FLKO mice
+ These groups 253 included cellular, immune, chemical, and stress response genes
+ In contrast, group B was 254 comprised of genes affected by genotype (A-FLKO vs
+ A-WT and C-FLKO vs
+ C-WT), 255 regardless of the timing of ablation
+ This group included primarily lipid and fatty acid 256 metabolism genes whose expression decreased with fasting in FoxO1 knockouts
+ Group D was 257 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    enriched in genes regulated by fasting, genotype, and timing of ablation
+ These genes were 258 induced by fasting in WT, but not in A-FLKO mice
+ However, the differences between WT and 259 A-FLKO were virtually lost in C-FLKO mice
+ This group included metabolic pathways, retinol 260 and PPAR signaling, and steroid function genes (Fig
+ g)
+ In contrast, only a small number of 261 genes, primarily linked to extracellular matrix-receptor interaction and protein digestion and 262 We examined group D at a more granular level to identify genes in which the effect of 264 FoxO1 ablation became less marked in C-FLKO (i
+ e
+, lower fold-change and higher FDR value 265 between control and KO mice in C-FLKO than those in A-FLKO)
+ These genes involved 266 classical FoxO1 targets regulating insulin signaling (Irs2), gluconeogenesis (G6pc, Pck1, 267 Ppargc1a), glycolysis (Gck, Pfkfb1 and 3, Ldhd), ketogenesis (Hmgcs1), and glucose/fatty acid 268 partitioning (Pdk4) (Table S)
+ Other genes undergoing compensation included 17 members of 269 the Cyp2 family and 6 members of the Cyp4 family of drug metabolizing enzymes, Angptl8, 270 Fgf21, Gdf15, Klf15, Slc13a5 (encoding INDY), Enho (encoding Adropin), Fmo3, and Asns
+ 271 Among genes involved in fatty acid synthesis or oxidation, apolipoproteins, and 272 cholesterol trafficking, only Vldlr and Lpin1 showed >50% compensation
+ Thus, FoxO1-273 regulated glucose metabolism genes as well as several metabolically important genes undergo a 274 compensatory response following constitutive FoxO1 ablation, whereas the majority of lipid 275 Transcriptional regulation of the fasting response involves several TFs, including CREB, GR, 279 and PPARa ()
+ To understand the integration of these networks with FoxO1 and their potential 280 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    role in the transcriptional resiliency observed after FoxO1 ablation, we compared the present 281 dataset with published genome-wide ChIP-seq of these three factors (29, )
+ Analyses of peak 282 distribution demonstrated that CREB peaks are enriched at promoters, while GR and PPARa are 283 enriched in introns and intergenic regions (Fig
+ a)
+ When overlaid with FoxO1 sites, we found 284 that co-localization of FoxO1/PPARa (Fig
+ 5b) prevailed at active intergenic and intron 285 enhancers, where approximately half of FoxO1 sites are shared with PPARa (Fig
+ 5c, e)
+ In 286 (Fig
+ 5d, e)
+ At active enhancer sites, 
+2% of unique FoxO1 sites were associated with changes 288 in gene expression following FoxO1 ablation, whereas only 
+4% of shared sites (FoxO1 and 289 CREB or PPARa) did (p < 
+0001, Table S)
+ This difference was not seen in non-active 290 enhancer sites (
+09% vs
+ 
+93%, respectively) (p = NS, Table S)
+ Gene ontology analysis (Fig
+ 291 5f) showed that abnormal gluconeogenesis is the most significant annotation of 292 FoxO1/PPARa shared intergenic peaks (FDR = 
+22  10-31), while lipid homeostasis is the most 293 Next, we asked whether co-regulation by FoxO1 and PPARa can explain the resiliency 295 of gene expression
+ We plotted each FoxO1/PPARa shared peak with active enhancer marks vs
+ 296 changes to mRNA encoded by associated genes in A-FLKO and C-FLKO (Fig
+ g-h)
+ In both 297 intergenic (Fig
+ 5g) and intron (Fig
+ 5h) sites, >80% of FoxO1/PPARa co-regulated genes 298 showed a compensatory response to constitutive FoxO1 ablation (75 of 92 and 68 of 76, 299 respectively)
+ In intergenic sites, we found notable resilient glucose metabolism genes, such as 300 Pck1, G6pc, Irs2, Ppargc1a and b, Ppp1r3g, Cry1, Gdf15 (31) and Klf15 (32) (Fig
+ g)
+ In 301 introns, we found lipid genes, such as Gdf15, and Lipc (Fig
+ 5h, Table S)
+ Thus, shared 302 FoxO1/PPARa enhancers are more likely to undergo compensation when FoxO1 is inactive
+ 303 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    To evaluate the effects of insulin resistance and hyperglycemia on the FoxO1 regulome, we 306 subjected FoxO1-Venus mice to high fat diet (HFD) or treatment with the insulin receptor 307 antagonist, S961 ()
+ Both interventions impaired refeeding-induced FoxO1 translocation (Fig
+ 308 6a) and caused hyperglycemia (not shown)
+ However, as the effects of S961 were more marked, 309 we performed genome-wide ChIP-seq in livers of 4-hr-fasted/1-hr-refed mice treated with S961 310 Regression analysis of FoxO1 tags under fasted and refed conditions showed a two-fold 312 higher coefficient in S961-treated mice than in vehicle controls (b = 
+28 vs
+ 
+62, Fig
+ 6b), 313 consistent with impaired translocation (Fig
+ a)
+ We examined FoxO1 binding to representative 314 genes of the two main transcription logics identified above, intergenic/promoter/TSS (glucose) 315 vs
+ intron (lipid) genes
+ We found the emergence of novel FoxO1 binding patterns at active 316 enhancers of both classes
+ Examples included intergenic/promoter enhancers of glucogenic 317 (G6pc, Pck1, Klf15) (Fig
+ 6cd, S8a) and glucoselipid metabolic partitioning genes (Pdk4) (Fig
+ 318 6e), as well as intron enhancers of lipid/cholesterol genes (ApoA1/C3/A4, Scarb1) (Fig
+ 6f, S8b319 c)
+ These novel FoxO1 peaks were unaffected by fasting/refeeding, and included both FoxO1 320 binding motif-containing sites and sites without FoxO1 motifs
+ In contrast, novel FoxO1 marks 321 at enhancer-less sites occurred less frequently
+ Thus, insulin resistance and hyperglycemia bring 322 about an ectopic, dysregulated binding of FoxO1 at enhancer sites, which we term enhancer 323 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    The present study provides transcriptional logic insight into the differential regulation of glucose 328 and lipid metabolism in response to nutrient changes, and in insulin resistance
+ There are 329 obviously non-transcriptional components to this pathophysiologic state that are partly cell-330 nonautonomous (34), but the present study was designed to establish genome-wide map that 331 integrates multiple TFs, including FoxO1, with the salient pathophysiologic features of hepatic 332 insulin action and resistance
+ The main conclusions are: (i) the transcriptional logic of FoxO1 is 333 compatible with the bifurcating model of insulin signaling to lipid vs
+ glucose metabolism (35), 334 whereby glucose metabolic genes are governed by intergenic and promoter/TSS enhancers, and 335 lipid genes by a bipartite intron logic that includes fasting-dependent intron enhancers and 336 fasting independent enhancer-less introns
+ (ii) Active enhancers of glucose metabolic genes show 337 transcriptional resiliency, likely through shared PPAR/FoxO1 regulatory elements
+ (iii) Insulin 338 resistance and hyperglycemia result in the spreading of FoxO1 binding to enhancers, resulting in 339 Based on these findings, we propose this model (Fig
+ 7): in the physiologic 341 fasting/refeeding transition, FoxO1 is cleared more efficiently from enhancer-containing sites 342 than from enhancer-less sites
+ As the former are more tightly associated with glucose genes, and 343 the latter with lipid/lipoprotein genes, in the initial stages of insulin resistance glucose genes can 344 still be regulated, while regulation of lipid genes is impaired
+ This differential sensitivity can 345 progression of diabetes ()
+ Further work will be required to functionally interrogate different 347 classes of sites
+ As insulin resistance progresses, the gradual compensation of glucose vs
+ lipid 348 genes in response to chronic vs
+ adult-onset FoxO1 ablation (transcriptional resiliency at 349 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    intergenic and promoter/TSS enhancers) can be interpreted to suggest that glucose genes can 350 gradually become FoxO1-independent, allowing transcription factors (likely PPAR) to induce 351 their expression
+ In the clinically overt stage of the disease, as insulin resistance increases, 352 activation of FoxO1 at ectopic (or low-affinity) enhancers leads to worsening fasting 353 hyperglycemia, and may possibly underlie therapeutic failures
+ The proposed model integrates in 354 vivo pathophysiological and cell biological data with genome-wide assessments to explain a 355 clinical conundrum that has important practical implications for treatment and drug development 356 ()
+ This model also addresses two criticisms leveled at the FoxO-centric view of insulin action: 357 (i) that FoxO1 sensitivity to insulin makes it an unlikely candidate as a mediator of insulin 358 resistance (37); and (ii) that transcription of candidate glucogenic genes alone does not fully 359 explain increased hepatic glucose production ()
+ Indeed, the gamut of FoxO1 targets includes 360 most genes involved in insulin action, and the failure to detect abnormalities in their expression 361 following constitutive somatic ablation of FoxO1 can be explained by their resiliency
+ 362 To demonstrate a distinctive FoxO1 transcriptional logic, we decisively leveraged the 363 ability to examine FoxO1 targets by genome-wide ChIP-seq ()
+ Previous studies have been 364 limited by the sensitivity of available FoxO1 antibodies, and have therefore detected fewer 365 FoxO1 binding sites (9, 10, )
+ There is a partial dissociation between the ChIP results, 366 indicating that FoxO1 is still bound at several sites after refeeding, and the immunofluorescence 367 that shows FoxO1 nuclear exclusion
+ However, ChIP is more sensitive than 368 immunohistochemistry, being based on PCR amplification, and can detect lower levels of FoxO1 369 protein
+ The formation of different molecular complexes likely underlies the different modes of 370 FoxO1 action
+ In this regard, we have previously shown that SIN3a is the FoxO1 corepressor at 371 glucokinase, providing a mechanistic precedent for gene-specific targeting ()
+ The preferential 372 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    regulation of FoxO1 by fasting/refeeding at active enhancers likely results from intrinsic and 373 extrinsic factors, such as higher DNA accessibility at active enhancers (40), and active enhancer-374 promoter interactions (41) that affect assembly of pre-initiation complexes, initiation of 375 Following FoxO1 ablation, expression of its targets can be compensated for by 377 transcription factors acting synergistically, through its paralogue FoxO3, or reorganization of 378 chromatin accessibility at sites where FoxO1 acts as pioneer transcription factor (42), as shown 379 with other FoxO isoforms ()
+ Interestingly, genes associated with glucose metabolism (G6pc, 380 Pck1, Ppargc1a, Pdk4 and Klf15), but not those regulating general cellular responses, are 381 selectively compensated for following FoxO1 ablation
+ FoxO1 peaks in these genes are cleared 382 by refeeding, but not in insulin-resistant conditions
+ These genes have been shown to play a role 383 in diabetes in studies with insulin-resistant mice (26, -)
+  384 There are parallels between our findings and recent evidence that immunocyte 385 differentiation is controlled by an enhancer- or core promoter-driven logic, with a striking 386 partition between the two gene sets ()
+ The former activity is cued by the overall activity 387 pattern of distal enhancers, while the latter is aligned with promoters
+ Although it is disputed 388 whether core promoters and enhancers represent different entities or synergistically regulate 389 transcriptional bursting, enhancers are thought to be tissue-specific, and thus more likely to 390 confer specificity on the tissue-specific metabolic functions of FoxO1 ()
+ 391 interactions with GR, CREB and PPARa, the latter involving up to half of the FoxO1 sites in 393 active enhancers
+ The extensive sharing of intergenic active enhancers of glucose genes by 394 FoxO1 and PPARa is a novel finding of this study that dovetails with the different physiologic 395 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    cues regulating these two TFs
+ During fasting, glycogenolysis precedes gluconeogenesis and the 396 generation of FFA substrates that activate PPARa ()
+ Thus, we envision that FoxO1 and 397 PPARa act in a physiologic relay to ensure continuity between the early and late fast
+ The 398 significant overlap between FoxO1 and PPAR may also provide an explanation for the 399 relatively mild phenotypes of liver-specific inactivation of FoxO1 (26) and PPARa ()
+ 400 Functional elucidation of their interactions will be important to determine key targets in glucose 401 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    Further information and requests for resources and reagents should be directed to and will be 404 The ChIP-seq and RNA-seq datasets generated during this study are available at the NCBI GEO 407 Mice were housed in a climate-controlled room on a 12h light/dark cycle with lights on at 07:00 411 and off at 19:00, and were fed standard chow (PicoLab rodent diet20, 5053; PurinaMills)
+ Male 412 mice of C57BL/6J background aged 8-12 weeks were used
+ FoxO1-Venus mice have been 413 obtained the pCAG:myr-Venus plasmid
+ A 15-amino acid linker sequence was placed between 415 the C terminus of FoxO1 and N terminus of Venus to alleviate steric hindrance
+ We used BAC 416 recombineering to generate FoxO1-Venus ES cells
+ To generate constitutive liver-specific 417 FoxO1 knockouts, we crossed FoxO1lox/lox and Albumin-cre (50) transgenic mice
+ Adult onset 418 liver-specific FoxO1 knockout mice were generated by injection of 11011 purified viral particles 419 (AAV
+ TBG
+eGFP or AAV
+ TBG
+Cre, Penn Vector Core) per mouse via tail vein
+ We 420 performed metabolic analysis or killed animals on day 21 post-injection
+ To assess FoxO1 421 localization and other liver parameters, we took organs from 4-hr-fasted (10:00 to 14:00) or 4-hr-422 fasted/1-hr-refed mice
+ For prolonged fasting experiments, we removed food overnight (18:00 to 423 :)
+ Mice were killed 0, 1, 2, or 4 hr after refeeding
+ For insulin treatment, we anesthetized 424 16-hr-fasted mice with ketamine (100mg/kg) and xylazine (10mg/kg) i
+ p
+, followed by injection 425 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    of 1U/kg insulin (NovoLog, Novo Nordisk, Denmark) in the inferior vena cava (IVC)
+ We 426 collected blood and took the liver before and after insulin injection
+ Blood glucose was measured 427 using (CONTOURNEXT ONE, Ascensia, USA), and insulin with a mouse-specific ELISA kit 428 (Mercodia, USA)
+ All animal experiments were in accordance with NIH guidelines, approved 429 and overseen by the Columbia University Institutional Animal Care and Use Committee
+ 430 Primary hepatocyte isolation was performed as described ()
+ We anesthetized male mice with 432 ketamine (100mg/kg) and xylazine (10mg/kg) i
+ p
+, cannulated the IVC with a 24-gauge catheter 433 (Exel international), and infused 50 cc EGTA-based perfusion solution followed by 100 cc type I 434 collagenase solution (Worthington Biochemicals)
+ Following cell dissociation, we filtered cells 435 with 100 mm mesh cell strainers, and gradient centrifugation steps to purify cell suspension
+ 436 Then, we suspended hepatocytes at 5  105 cells / mL in Medium 199 (Sigma), 10% FBS (Life 437 Technologies), antibiotics (plating medium)
+ After plating for 2 hr on collagen-coated plates, we 438 Ketamine was from KetaSet and Xylazine from AnaSed; medium 199, HBSS, EGTA, 443 HEPES, PenStrep and Gentamycin from Life Technology; collagen type 4 from Worthington; 444 Insulin (NovoLog) and S961 from Novo Nordisk A/S; sodium orthovanadate from New 445 England Bio; Bovine Serum Albumin (BSA) from Fisher Scientific
+ 16% paraformaldehyde 446 (PFA) was from Electron Microscopy Sciences, and was diluted in sterile phosphate buffer 447 solution to 4% final concentration
+ Anti FoxO1 (for Western Blot and immunohistochemistry, 448 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    C29H4), anti panAkt (for Western Blot, 40D4) and phosphor-Akt (Ser473) (for Western Blot, 449 D9E), normal Rabbit IgG (for chromatin immunoprecipitation, 2729) were from Cell Signaling
+ 450 290), FoxO1 (for chromatin immunoprecipitation, ab39670) were from Abcam
+ H3K27ac (for 452 Livers were lysed in sonication buffer containing 20 mM HEPES pH
+5, 150 mM NaCl, 25 mM 456 EDTA, 1% NP-40, 10% glycerol, 1 mM Na vanadate, 1 mM phenylmethylsulphonyl fluoride 457 (PMSF), and protease and phosphatase inhibitors cocktail (Cell Signaling)
+ We sonicated lysates 458 for 100 sec (5, output 70%, 20sec/20sec) and centrifuged them for 15 min at 14,000 rpm
+ 30 g 459 protein (Pierce BCA, Thermo scientific) was subjected to SDS-PAGE
+ We used the following 460 antibodies: Akt (1:2,000), phosphor-Akt (Ser473) (1:2,000), -actin (1:1,000), FoxO1 (1:1,000) 461 We anesthetized 8- to 12-week-old mice fasted or refed for various lengths of time and perfused 464 them with 4% PFA through the IVC
+ Livers were collected, fixed in 4% paraformaldehyde for 2-465 hr, dehydrated in 30% sucrose overnight at 4oC, embedded in OCT (Sakura, Torrance, CA), 466 frozen to -80oC, and cut into 7-m sections
+ We used primary antibodies to FoxO1 (1:100; Cell 467 signaling technology, Boston, MA) and HNF4A (1:100; Abcam, Cambridge, MA), and 468 secondary anti-IgG antibodies conjugated with Alexa Fluor 488 and 555 for each of the species 469 (1:1,000; Life Technologies)
+ Immunofluorescence was visualized by the TSA fluorescence 470 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    We lysed livers in 1 mL of TRIzol, purified RNA using RNeasy Mini Kit (Qiagen, Germantown, 473 MD), reverse-transcribed it with qScript cDNA Synthesis Kit (QuantaBio, Beverly, MA), and 474 performed PCR with GoTaq qPCR Master Mix (Promega, Madison, WI)
+ Primer sequences are 475 available upon request
+ Gene expression levels were normalized to 18S using the 2-DDCt 476 We prepared the samples from three mice for each group, and generated the libraries 479 individually
+ Libraries for RNA-seq were prepared using the TruSeq Stranded mRNA Sample 480 Prep Kit (Illumina), following the manufacturers protocol
+ Deep sequencing was carried out on 481 the Illumina NextSeq 500 platform using the NextSeq 500/550 high-throughput kit v
+5 482 (Illumina) in 75-base single-end mode according to the manufacturers protocol
+ Sequenced 483 reads from the RNA-seq experiment were aligned to mouse genome mm10 using HISAT
+ 484 Cufflinks was used for transcript assembly
+ Gene expression levels were expressed as fragments 485 per kilobase of exon per million mapped sequence reads and Cuffdiff was used for statistical 486 The ChIP-IT High Sensitivity kit (Active Motif, Carlsbad, CA) was used for chromatin 489 immunoprecipitation (ChIP) following the manufacturers protocol
+ We anesthetized 8- to 12-490 week-old mice after 4-hr fasting followed or not by 1-hr refeeding and perfused them with 10 491 M orthovanadate through the IVC
+ We harvested samples from left lobe of liver tissues and 492 pooled 100mg of samples from three individual replicates for further experiments
+ We obtained 493 sheared chromatin from 300 mg of liver extract using a S220 Focused-ultrasonicator (Covaris)
+ 494 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    Immunoprecipitation was performed using 4 g of anti-GFP antibody for 10 g of sheared 495 chromatin
+ The specificity of the anti-GFP antibody was confirmed by western blotting of liver 496 extract
+ ChIP-seq libraries were constructed using KAPA Hyper Prep Kit (KAPA Biosystems) 497 according to the manufacturers instructions
+ ChIP-seq libraries were quantified by Tapestation 498 (Agilent) and sequenced on an Illumina NEXTseq (Illumina, San Diego, CA, USA) with 75-base 499 Real-time ChIP-qPCR was carried out as described above
+ The signal of binding events was 502 normalized against input DNA for primer efficiency (Active Motif)
+ Quantitative PCR primers 503 Reads were aligned to mouse genome mm10 using Bowtie2 software ()
+ The reads used in 510 subsequent analysis passed Illuminas purity filter, aligned with no more than 2 mismatches, and 511 mapped uniquely to the genome
+ Duplicate reads were removed with Picard tools
+ The tags were 512 extended at their 3-ends to -bp
+ Technical information of sequencing depth and aligned reads 513 is summarized in Table S
+ Peak calling was performed by MACS 
+ 
+0 (53) with the p-value 514 cutoff of 10-7 for narrow peaks and with the q-value cutoff of 10-1 for broad peaks against the 515 input DNA control sample
+ The transcription start site (TSS) determined on mouse genome 516 mm10 was used as measurement of the distance of each peak
+ HOMER software suite (54) was 517 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    used to perform motif analysis, annotate peaks, such as promoter/TSS, introns, exons, intergenic, 518 5 UTR, non-coding RNA, and 3 UTR, merge files, and quantify data to compare peaks
+ For the 519 detection of active enhancers, we used bedtools (55) by collecting the intersection of the peaks of 520 For high-fat diet-induced insulin resistance, animals were fed either standard or High-fat chow 523 (Rodent Diet with 60kcal% fat, D12492i; Research diets Inc
+) beginning at 8 weeks of age for 4 524 weeks
+ For S961 treatment, vehicle (normal saline) or 10nmol S961 was loaded into Alzet 525 osmotic pumps 2001 and implanted subcutaneously on the back of mice
+ Mice were euthanized 3 526 The following public source data were used in this work: ChIP-seq data from adult mouse liver 529 [H3K4me1] (56) (GEO: GSE31039), PPAR (30) (GEO: GSE35262), GR and CREB (29) (GEO: 530 Values are presented as means  SEM, and analyzed using Prism 
+ 
+1 (GraphPad Software, 533 Inc
+ )
+ We used unpaired Students t-test for normally distributed variables for comparisons 534 between two groups, one-way ANOVA followed by Bonferroni post-hoc test for multiple 535 comparisons, and Pearsons correlation coefficient to investigate the relationship between two 536 variables
+ Chi-square tests are applied for contingency analysis
+ We used a threshold of p < 
+05 537 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    Acknowledgments
+ We thank members of the Accili and Kaneda laboratories, Dr
+ Utpal B
+ 540 Pajvani, Dr
+ Rebecca A
+ Haeusler, Dr
+ Michael J Kraakman for insightful discussions of the data
+ 541 Mr
+ Thomas Kolar and Ms
+ Ana Maria Flete (Columbia University) for exceptional technical 542 Funding
+ Supported by NIH grants DK57539 and DK63608 (Columbia Diabetes Research 544 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    
+ E
+ Ferrannini, R
+ A
+ DeFronzo, Impact of glucose-lowering drugs on cardiovascular 548 disease in type 2 diabetes
+ Eur Heart J 36, 2288-2296 ()
+ 549 
+ R
+ A
+ Haeusler, T
+ E
+ McGraw, D
+ Accili, Biochemical and cellular properties of insulin 550 receptor signalling
+ Nat Rev Mol Cell Biol 19, 31-44 ()
+ 551 
+ R
+ N
+ Bergman, M
+ S
+ Iyer, Indirect Regulation of Endogenous Glucose Production by 552 Insulin: The Single Gateway Hypothesis Revisited
+ Diabetes 66, 1742-1747 ()
+ 553 
+ R
+ A
+ Rizza, Pathogenesis of fasting and postprandial hyperglycemia in type 2 diabetes: 554 
+ D
+ Accili, Insulin Action Research and the Future of Diabetes Treatment: The 2017 556 Banting Medal for Scientific Achievement Lecture
+ Diabetes 67, 1701-1709 ()
+ 557 
+ L
+ Monnier, C
+ Colette, G
+ J
+ Dunseath, D
+ R
+ Owens, The loss of postprandial glycemic 558 control precedes stepwise deterioration of fasting with worsening diabetes
+ Diabetes Care 559 
+ M
+ Evans, A
+ R
+ Morgan, Z
+ Yousef, What Next After Metformin? Thinking Beyond 561 Glycaemia: Are SGLT2 Inhibitors the Answer? Diabetes Ther 10, 1719-1731 ()
+ 562 
+ F
+ Langlet et al, Selective Inhibition of FOXO1 Activator/Repressor Balance Modulates 563 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    
+ W
+ Fan et al, FoxO1 regulates Tlr4 inflammatory pathway signalling in macrophages
+ 565 
+ D
+ J
+ Shin et al, Genome-wide analysis of FoxO1 binding in hepatic chromatin: potential 567 involvement of FoxO1 in linking retinoid signaling to hepatic gluconeogenesis
+ Nucleic 568 
+ I
+ Goldstein, G
+ L
+ Hager, Transcriptional and Chromatin Regulation during Fasting - The 570 
+ T
+ Kuo et al, Identification of C2CD4A as a human diabetes susceptibility gene with a 572 role in beta cell insulin secretion
+ Proc Natl Acad Sci U S A 116, 20033-20042 ()
+ 573 
+ L
+ Qiang, A
+ S
+ Banks, D
+ Accili, Uncoupling of acetylation from phosphorylation 574 regulates FoxO1 function independent of its subcellular localization
+ J Biol Chem 285, 575 
+ A
+ S
+ Banks et al, Dissociation of the glucose and lipid regulatory functions of FoxO1 by 577 targeted knockin of acetylation-defective alleles in mice
+ Cell Metab 14, 587-597 ()
+ 578 
+ J
+ Y
+ Kim-Muller et al, FoxO1 Deacetylation Decreases Fatty Acid Oxidation in beta-579 Cells and Sustains Insulin Secretion in Diabetes
+ J Biol Chem 291, 10162-10172 ()
+ 580 
+ A
+ Nitzsche et al, RAD21 cooperates with pluripotency transcription factors in the 581 maintenance of embryonic stem cell identity
+ PLoS One 6, e19470 ()
+ 582 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    
+ N
+ D
+ Heintzman et al, Distinct and predictive chromatin signatures of transcriptional 583 promoters and enhancers in the human genome
+ Nat Genet 39, 311-318 ()
+ 584 
+ D
+ Accili, K
+ C
+ Arden, FoxOs at the crossroads of cellular metabolism, differentiation, 585 
+ V
+ Haberle, A
+ Stark, Eukaryotic core promoters and the functional basis of transcription 587 
+ E
+ Calo, J
+ Wysocka, Modification of enhancer chromatin: what, how, and why? Mol Cell 589 
+ R
+ Raisner et al, Enhancer Activity Requires CBP/P300 Bromodomain-Dependent 591 
+ C
+ Y
+ McLean et al, GREAT improves functional interpretation of cis-regulatory 593 
+ S
+ X
+ Lee et al, FoxO transcription factors are required for hepatic HDL cholesterol 595 
+ K
+ C
+ Ehrlich, M
+ Lacey, M
+ Ehrlich, Tissue-specific epigenetics of atherosclerosis-597 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    
+ C
+ M
+ Allan, S
+ Taylor, J
+ M
+ Taylor, Two hepatic enhancers, HCR
+1 and HCR
+2, 599 coordinate the liver expression of the entire human apolipoprotein E/C-I/C-IV/C-II gene 600 
+ M
+ Matsumoto, A
+ Pocai, L
+ Rossetti, R
+ A
+ Depinho, D
+ Accili, Impaired regulation of 602 hepatic glucose production in mice lacking the forkhead transcription factor Foxo1 in 603 
+ R
+ A
+ Haeusler, K
+ H
+ Kaestner, D
+ Accili, FoxOs function synergistically to promote 605 
+ R
+ A
+ Haeusler et al, Integrated control of hepatic lipogenesis versus glucose production 607 
+ I
+ Goldstein et al, Transcription factor assisted loading and enhancer dynamics dictate 609 
+ M
+ Boergesen et al, Genome-wide profiling of liver X receptor, retinoid X receptor, and 611 peroxisome proliferator-activated receptor alpha in mouse liver reveals extensive sharing 612 
+ S
+ Patel et al, GDF15 Provides an Endocrine Signal of Nutritional Stress in Mice and 614 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    
+ Y
+ Takeuchi et al, KLF15 Enables Rapid Switching between Lipogenesis and 616 
+ A
+ Vikram, G
+ Jena, S961, an insulin receptor antagonist causes hyperinsulinemia, 618 insulin-resistance and depletion of energy stores in rats
+ Biochem Biophys Res Commun 619 
+ H
+ V
+ Lin, D
+ Accili, Hormonal regulation of hepatic glucose production in health and 621 
+ M
+ S
+ Brown, J
+ L
+ Goldstein, Selective versus total insulin resistance: a pathogenic 623 
+ S
+ Baldi et al, Influence of apolipoproteins on the association between lipids and insulin 625 sensitivity: a cross-sectional analysis of the RISC Study
+ Diabetes Care 36, 4125-4131 626 
+ P
+ M
+ Titchenell, Q
+ Chu, B
+ R
+ Monks, M
+ J
+ Birnbaum, Hepatic insulin signalling is 628 dispensable for suppression of glucose output by insulin in vivo
+ Nature communications 629 
+ V
+ T
+ Samuel et al, Fasting hyperglycemia is not associated with increased expression of 631 PEPCK or G6Pc in patients with Type 2 Diabetes
+ Proc Natl Acad Sci U S A 106, 12121-632 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    
+ A
+ Kalvisa et al, Insulin signaling and reduced glucocorticoid receptor activity attenuate 634 postprandial gene expression in liver
+ PLOS Biology 16, e2006249 ()
+ 635 
+ R
+ Andersson, A
+ Sandelin, Determinants of enhancer and promoter activities of 636 
+ M
+ A
+ Zabidi et al, Enhancer-core-promoter specificity separates developmental and 638 
+ M
+ M
+ Brent, R
+ Anand, R
+ Marmorstein, Structural basis for DNA recognition by FoxO1 640 and its regulation by posttranslational modification
+ Structure 16, 1407-1416 ()
+ 641 
+ X
+ C
+ Dong et al, Inactivation of hepatic Foxo1 by insulin signaling is required for 642 adaptive nutrient homeostasis and endocrine growth regulation
+ Cell Metab 8, 65-76 643 
+ N
+ Kubota et al, Dynamic functional relay between insulin receptor substrate 1 and 2 in 645 hepatic insulin signaling during fasting and feeding
+ Cell Metab 8, 49-64 ()
+ 646 
+ M
+ Lu et al, Insulin regulates liver metabolism in vivo in the absence of hepatic Akt and 647 
+ H
+ Yoshida et al, The cis-Regulatory Atlas of the Mouse Immune System
+ Cell 176, 897-649 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    
+ M
+ Pawlak, P
+ Lefebvre, B
+ Staels, Molecular mechanism of PPAR action and its impact 651 on lipid metabolism, inflammation and fibrosis in non-alcoholic fatty liver disease
+ 652 
+ A
+ Montagner et al, Liver PPARalpha is crucial for whole-body fatty acid homeostasis 654 
+ T
+ Kuo et al, Induction of alpha cell-restricted Gc in dedifferentiating beta cells 656 
+ C
+ Postic et al, Dual Roles for Glucokinase in Glucose Homeostasis as Determined by 658 Liver and Pancreatic  Cell-specific Gene Knock-outs Using Cre Recombinase
+ Journal 659 
+ J
+ R
+ Cook, F
+ Langlet, Y
+ Kido, D
+ Accili, Pathogenesis of Selective Insulin Resistance 661 in Isolated Hepatocytes
+ Journal of Biological Chemistry 290, 13972-13980 ()
+ 662 
+ B
+ Langmead, S
+ L
+ Salzberg, Fast gapped-read alignment with Bowtie 
+ Nat Methods 9, 663 
+ J
+ Feng, T
+ Liu, B
+ Qin, Y
+ Zhang, X
+ S
+ Liu, Identifying ChIP-seq enrichment using 665 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    
+ S
+ Heinz et al, Simple combinations of lineage-determining transcription factors prime 667 cis-regulatory elements required for macrophage and B cell identities
+ Mol Cell 38, 576-668 
+ A
+ R
+ Quinlan, BEDTools: The Swiss-Army Tool for Genome Feature Analysis
+ Curr 670 
+ E
+ P
+ Consortium, An integrated encyclopedia of DNA elements in the human genome
+ 672 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    Figure 
+ Distribution of genome-wide FoxO1 binding sites in the fast-refeed transition 678 (a) FoxO1 and HNF4 immunohistochemistry in liver
+ Scale bar = 50 m
+ (b) Venn diagram of 679 the number of FoxO1 peaks in fasted or refed conditions
+ (c) Distribution of FoxO1 peaks 680 relative to annotated RefSeq genes (color-coded) compared with mouse genomic background
+ (d) 681 Signal intensity plots of ChIP-seq data for FoxO1 compared to input chromatin
+ The highest 682 level of binding occupancy of chromatin is at the top
+ (e) De novo motif analysis of the FoxO1 683 ChIP-seq
+ Logos of the recovered FoxO1 motif shows position-specific probabilities for each 684 nucleotide (p = 1e-185 in fast, 1e-195 in refeed)
+ (f) Scatterplots of FoxO1 ChIP-seq peaks, 685 expressed as log2 fold-change of FoxO1 tags between fast and refeed (horizontal axis) vs
+ log2 686 fold-change of mRNA levels between wild type and liver-specific FoxO1 knockout mice 687 (vertical axis) for each genomic site
+ FoxO1 peaks detected in fasted or refed conditions were 688 included in this analysis, and their number at each genomic annotation is shown inside each 689 graph
+ Detailed information on peaks associated with genes whose FDR < 
+05 is in Table S
+ 690 Red= FDR < 1%; Blue= 1%  FDR < 5%; Green= 5%  FDR < 10%; Black= 10%  FDR
+ See 691 Figure 
+ Comparison of the features of FoxO1 sites in active enhancers vs
+ non-enhancers in 694 (a) Bar diagram of FoxO1 active enhancers (red) and FoxO1 non-active enhancers (green) in 696 each genomic location
+ The number of active enhancer/non-active enhancer at each genomic 697 location is: Intergenic=1795/849, 5 UTR= 128/966, Promoter/TSS= 760/4303, exon= 384/1258, 698 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    intron= 2034/2501, non-coding= 44/158), TTS= 105/17), 3 UTR= /
+ (b) Directed acyclic 699 graph derived from gene ontology analysis (GO) of biological processes associated with 5,305 700 FoxO1 active enhancers by GREAT GO tools
+ Letters correspond to the groups shown in (c) and 701 Fig
+ Sc
+ Numbers indicate the terms fold-enrichment
+ Red circles: fundamental ontologies in 702 the hierarchy listed in (c)
+ Blue circles: additional enriched ontologies
+ Gray circles: parent 703 ontologies
+ (c) List of GO in (b) and their log10 FDR
+ (df) Heatmap alignments of ChIPseq 704 FoxO1 binding in fast (d), fast/refeed ratio (e), and FDR of gene expression changes between 705 wild type and liver FoxO1 knockout mice (f) in GO related to glucose metabolic processes, lipid 706 homeostasis, and cellular response to insulin genes as listed in (b, c)
+ (g, h) Same GO analysis as 707 in (b, c) applied to 4,303 FoxO1 sites lacking active enhancer marks in promoter/TSS
+ (ik) 708 Heatmap alignments as in (d-f) of GO related to ncRNA processing, DNA repair, and protein 709 modification as listed in (g, h)
+ See also Figure S3 710 Figure 
+ Different FoxO1 binding logic between triglyceride and glucose metabolism genes 712 (a, b) Comparison between region-gene associations of triglyceride homeostasis (yellow bar) (a), 713 or glucose metabolic process (orange bar), with set-wide FoxO1 binding sites (blue bar) as 714 detected by FoxO1 ChIP-seq in fasted or refed conditions, binned by orientation and distance 715 from TSS
+ *= p < 
+05; **= p < 
+01; ****= p < 
+0001 by chi-square test
+ (c) Distribution of 716 FoxO1 binding sites associated with triglyceride homeostasis or glucose metabolic process genes 717 according to genomic annotation as in Fig
+ c
+ p= <
+03 by contingency analysis
+ (d) GO 718 analysis of biological processes associated with  4,535 FoxO1 binding sites in introns using 719 GREAT GO tools
+ (eg) IGV Genome browser views of FoxO1 peaks and associated H3K27ac and 720 H3K4me1 histone marks at selected apolipoprotein clusters (Apob and ApoC2/C4/C1/E Apob, 721 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    Apoc4-c2, Apoc1, Apoe) and ScarB
+ Signals are normalized for the comparisons between 722 fasted and refed conditions
+ FoxO1 signals are aligned with peak regions
+ Red arrows indicate 723 active enhancers as detected by H3K27ac and H3K4me1 signals
+ FoxO1 peaks in introns are listed in 724 (a) t-SNE plot of RNA-seq data (n= )
+ Circles indicate fasted and triangles refed animals
+ Filled 728 red symbols: AAV-GFP-injected animals (A-WT in the text); empty symbols with red border: 729 AAV-CRE-injected animals (A-FLKO in the text); green filled symbols: Foxo1loxp/loxp (C-WT in 730 the text); empty symbols with green border: Alb-Cre/Foxo1flox/flox (C-FLKO in the text)
+ (b-e) 731 MA-scatterplots of average expression levels vs
+ log2 fold-change induced by FoxO1 ablation in 732 tag count within exons of Ensemble gene bodies in fasted (b) or refed (c) AFLKO, and fasted 733 (d) or refed (e) CFLKO
+ Red dots represent differentially expressed genes (DEGs) (FDR  734 
+ )
+ The number of DEGs is indicated in each box
+ (f) Enrichment analysis of k-Means clusters 735 with molecular pathways underlying each category with top 1,000 variable genes among all 736 samples used in (a) by iDEP tools
+ (g) GO analysis of DEGs in fasted conditions, shown in (b) 737 and (d), by Shiny GO tools
+ Red heatmap shows FDR of genes in AFLKO or CFLKO
+ Violin 738 plots show log2 fold-change of gene expression between control and A-FLKO (red) or C-FLKO 739 (green) for DEGs
+ Number of DEGs is indicated at the top
+ Purple heatmap shows FDR of each 740 ontology described next to it
+ Red- colored ontologies indicate the top enriched term in each 741 category
+ The number of genes in each ontology is shown in parenthesis in (f, g)
+ DEGs are listed 742 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    (a) Distribution of PPAR, CREB and GR binding sites in fasted conditions
+ (b) Peak plot 746 mapping the overlap of the FoxO1 (Fig
+ 1e) and PPAR, CREB and GR peaks
+ (c-d) Intersection 747 analyses of active (c), and non-active (d) FoxO1 and PPAR, CREB or GR enhancer peaks in 748 fasting conditions
+ (e) Proportion of PAAR peaks with/without active enhancer marks in FoxO1 749 active enhancers in fasting conditions according to genomic annotation
+ (f) Heatmap with 750 associated FDR of phenotype ontology terms of shared FoxO1/PPAR active enhancers (red 751 bars) in intergenic regions and introns
+ (g, h) Resiliency plots of genes associated with shared 752 FoxO1/PPAR active enhancers in intergenic regions (g) and introns (h)
+ Plot show log2 fold-753 change induced by adult-onset vs
+ constitutive liver FoxO1 ablation
+ Resilient genes (FDR  
+05 754 in AFKO or CFKO mice, showing lower fold-change and higher FDR value in CFKO mice than 755 AFKO mice) are indicated by blue dots, non-resilient genes (FDR  
+05 in AFKO or CFKO 756 mice) are marked by red dots, FDR > 
+05 in both mice by white dots
+ DEGs are listed in Table 757 Figure 
+ The transition of FoxO1 binding sites under insulin resistant condition 760 (a) Immunohistochemistry of FoxO1 and HNF4 after 4hr fasting or following 1hr refeeding in 761 high fat diet (HFD)-fed mice or insulin receptor antagonist (S961)-treated mice
+ Scale bar = 20 762 m
+ (b) Scatterplots showing linear regression analysis of FoxO1 tag count between fasted and 763 refed conditions
+ Green: vehicle; red: S961-treated mice
+ (cf) IGV Genome browser views of 764 FoxO1 peaks with or without S961 treatment and associated H3K27ac and H3K4me1 marks of at 765 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    Figure 
+ Model of FoxO1 transcriptional logic in the pathogenesis of selective insulin resistance  768 In normal conditions, FoxO1 is cleared upon refeeding from resilient enhancers, enriched in 769 glucose metabolism genes, but not in introns, enriched in lipid metabolism genes
+ With the onset 770 of insulin resistance-induced hyperinsulinemia, FoxO1 can be cleared from resilient enhancers, 771 but not from introns, increasing serum lipoprotein and triglyceride levels
+ As insulin resistance 772 progresses, compensation by PPAR and spreading of FoxO1 binding to additional sites bolsters 773 expression of glucose metabolic genes, inducing fasting hyperglycemia with dyslipidemia
+ 774 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 16, 
+ ;    

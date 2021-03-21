@@ -1,0 +1,686 @@
+Tobias Winkler1,2, Carsten Perka1,3, Philipp von Roth1,3, Alison N
+ Agres1,2,3, Henning Plage1, Christine Consentius2,3, Mathias Streitz2,6, Petra Reinke2,5, Georg N
+ Duda1,2,3* and Hans-4Institute of Cell Biology and Neurobiology, Charit - Universitaetsmedizin Berlin, Germany
+ 5Clinic of Nephrology and Internal Intensive Care Medicine, Charit - Universitaetsmedizin Corresponding author:  Prof
+ Georg N
+ Duda, Julius Wolff Institute and Berlin-Brandenburg 1, 13353, Berlin, Germany, Charit - Universitaetsmedizin Berlin, Tel: +49 30 450 552079;  G
+ N
+ Duda and H
+ D
+ Volk contributed equally to this study as senior authors
+ Conflict of interest: T
+ Winkler, C
+ Perka and G
+ N
+ Duda are members of a clinical advisory board of Pluristem Ltd for future indications
+ T
+ Winkler, C
+ Perka, G
+ N
+ Duda, P
+ von Roth filed a patent together with Pluristem Ltd
+ E
+ Lukasiewicz Hagai, R
+ Ofir, L
+ Pinzur and E
+ Eyal are current or former employees of Pluristem Ltd
+ 
+ T
+ Winkler, P
+ Reinke and H
+ -D
+ Volk received in the past consulting fees from Pluristem Ltd
+ but not for this project
+ not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    Background: No regenerative approach has thus far been shown to be effective in skeletal muscle injuries, despite high frequency and associated functional deficits
+ We sought to address surgical trauma related muscle injuries using local intraoperative application of allogeneic standardized injury model, because of the high regenerative and immunomodulatory potency Methods: Our pilot phase I/IIa study was prospective, randomized, double blind and placebo-controlled
+ Twenty patients undergoing hip arthroplasty via a direct lateral approach were injected with 
+0108 or 
+5108 PLX-PAD or a placebo into the gluteus medius muscle
+  Results: We did not observe any relevant PLX-PAD-related adverse events at the 2-year follow-up
+ Improved gluteus medius strength was noted as early as week 6 in the treatment-groups
+ Surprisingly, until week 26 the low-dose outperformed the high-dose group and reached significantly improved strength compared to placebo, mirrored by an increase in muscle volume
+ Histology indicated accelerated healing after cell therapy
+ Biomarker studies revealed that low-dose treatment reduced the surgery-related immunological stress reaction more than high-dose
+ Signs of late-onset immune reactivity after high-dose treatment corresponded to reduced Conclusion: Allogeneic PLX-PAD therapy improved strength and volume of injured skeletal muscle with a reasonable safety profile
+ Outcomes could be positively correlated with the Funding: The study was funded by the Sponsor, Pluristem Therapeutics, the Israeli innovation authority and the German Federal Ministry of Education and Research
+ not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    Skeletal muscles are of utmost importance for movement, and they also play a critical role in joint stabilization and trophic support for underlying structures
+ Impaired muscle functioning results in reduced strength, a reduced range of motion and joint instability, effects that are all associated with decreased quality of life, enhanced mortality, and socio-economic burden
+ Even so, there are no therapeutic options for regenerating injured skeletal muscles
+  This problem becomes evident when the muscular abductor apparatus is injured when exposing the hip during total hip arthroplasty (THA)
+ (1, 2) Rupture or destruction of the hip abductors can result in limping and predispose the joint to dislocation after THA
+ (3, 4) Any following revision substantially increases damage to the periarticular muscles
+ (5) Here, we used this highly standardized surgical procedure to assess a novel therapeutic option for muscle Preclinical work by us and other groups has demonstrated that the local injection of autologous mesenchymal stromal cells (MSCs) improves contraction strength after skeletal muscle injury
+ (6-8) MSCs do not differentiate into muscle cells but instead act via their secretome
+ (9) processes
+ Therefore, the immunomodulatory effects of MSC-like cells and their secretion of trophic factors are key to tissue regeneration
+ (10) However, immune monitoring in patients that enables characterization of these effects following MSC therapy remains scarce, profile and proliferation properties as MSCs derived from other sources (11) but differ in their reduced ability to differentiate to mesodermal lineages
+ (12) These cells are isolated from full-not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    fibrotic (13-15) properties, which are key to muscle regeneration
+ Data from two phase I first-in-man studies in patients suffering from chronic limb ischemia demonstrated their low alloimmunogenicity, which enabled their use as a Human Leukocyte Antigen (HLA)-unmatched off-the-shelf product
+ (16) This characteristic also renders these cells ideal Here, we translated our preclinical work into patient treatment using a highly standardized and frequent muscle injury
+ We treated damage of the gluteus medius muscle (GM) due to a direct lateral, transgluteal implantation of a total hip using a local, intramuscular injection of PLX-PAD
+ Patients were followed up for safety, efficacy, biomechanical muscle function, muscle morphology and the impact of the therapy on the immune system
+  not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    Twenty-one patients were screened in the study of whom one patient was categorized as a post-fissures in two of the 20 patients; biomechanical analysis was not performed on these patients at visit 6 (6 weeks postoperatively)
+ The patient demographic data are listed in Table 
+ Patient Our primary finding was a highly significant improvement in maximal isometric contraction force in the treated abductor muscles of the low-dose group compared with the placebo group after 26 weeks (P=
+ )
+ (Figure A)
+ This improvement was accompanied by an increased GM volume (P=
+004) (Figure 3A) without evidence for an increase in intramuscular fat (Figure B)
+ An enhanced contraction force was also noted on the contralateral, non-treated side in the 150M group vs
+ the placebo group without increasing volume (Figure B)
+ The placebo group exhibited a slight increase in muscle force and volume on both sides over 6 months
+ In the high-dose treatment group, we observed an initial superior (treated side) or equivalent (contralateral side) muscle force compared with the low-dose and placebo group at 6 weeks, but with a decline at week 12 (Figure )
+ Thereafter, the 300M group increased again but did not exceed the values of the 150M group until the 26th week; this group did not reach statistical significance compared with the placebo group (Figure )
+ The corresponding volume changes reflected the pattern in the force measurements of all groups, with inferior findings of We also analyzed whether changes in function and macrostructure were reflected on the microstructural level based on our analyses of GM needle biopsies but no significant differences not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    were found between the groups
+ However, the pattern of the distribution of regenerating myofibers, as reflected in fiber diameter distribution, indicated the possibility of a faster Histological analysis of fiber type change and blood vessel formation did not reveal any differences between groups in the tissue of the fine needle biopsies (Figures 4B and C)
+ The analysis of the local infiltration of lymphocytes and macrophages within the muscle biopsies showed an equal distribution between the groups (Figures 4D and E)
+  We did not find any clinically relevant differences between groups in our evaluation of the Harris Hip Score (HSS) (17) and the Short Form-36 (SF-36) (18) (data shown in supplement)
+  i) Do PLX-PAD cells further amplify the known postoperative immune-depression related to Importantly, treatment did not amplify either the post-surgical immune-depression observed in the placebo group (illustrated by the strongly reduced monocytic HLA-DR expression; Figure 5A) or postoperative systemic inflammation (as in IL-6 [Figure 5B] or CrP plasma levels)
+  ii) Can the clear dose-dependent differences in efficacy and its kinetics be related to a Remarkably, alterations of immune cell subsets displaying the immediate postoperative stress were significantly reduced by PLX-PAD therapy, specifically in the low-dose group
+ This effect could be observed as a reduced relative increase in the number of CD16+ natural killer cells, not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    activated CD19+ B-cells, CD57+8+ TEMRA cells and early IL-
+ We also observed a reduced drop in the frequency of naive CD4+ T-cells and T-regulatory cell subset and reduced 2 out of the 6 high-dose patients exhibited a significant increase in their TNF plasma levels The histological analysis showed an equal distribution of lymphocytes and macrophages in the muscle biopsies between the groups
+ Therefore, it can be stated that the systemic immune changes after therapy could not be related to mere compartment shifts into the muscle tissue
+ However, due to the fact that not the whole muscle could be analyzed, an infiltration in other Until week 6, the high-dose patient group exhibited an increased muscle force recovery (although not significant) that decreased thereafter; the low-dose group showed a slower but persistent increase and the best performance at week 26 (Figure )
+ Interestingly, only high-dose patients developed significant signs of unspecific immune stimulation at week 6 corresponding to their poorer performance in terms of efficacy parameters after this time point
+ Figures 5EF show rising plasma IL-10 and bystander T-cell activation for this group
+  We did not find any safety concerns over the 2-year observation period
+ At week 1 after treatment, both therapy groups exhibited a transient elevation of transaminases (maximum elevations: AST, 150M: 
+ 
+7 U/l (<50); ALT, 300M: 
+ 
+3U/l (<41)), which were not detectable after 6 weeks
+ Treatment-emergent adverse events (TEAEs) are summarized in Table 
+ Four out of the 115 TEAEs were considered to be related to study treatment (i
+ e
+, mild breath odor)
+ Two events were considered to be serious adverse events, both of them unrelated not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    Table 2 shows adverse events as classified by Medra System Organ Class (SOC) with all sub categories
+  All PLX-PAD treated patients and 57% of placebo treated patients had at least one of the adverse related events classified in the SOC of injury, poisoning or procedural complications
+ The adverse events belonging to this SOC that were observed in PLX-PAD treated patients in the clinical trial were by frequency order procedural pain, post-procedural swelling, procedural hypotension and suture related complications
+ In the placebo group, the AEs that were reported in the highest percent of patients were procedural pain and postoperative anemia, whereas in the PLX-PAD groups the AEs that were reported in the highest percent of patients were procedural pain and post procedural swelling
+ Muscle spasms/tightness occurred in a total of 4 patients treated with PLX-PAD
+ All these AEs were typical in the postoperative follow-up of hip arthroplasty and were categorized as not related to treatment with the PLX-not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    This study comprises data related to the first successful use of an allogeneic cell therapeutic approach in patients with skeletal muscle injury
+ We followed up patients for 2 years after treatment, and we did not observe any serious product-related side effects
+ The primary finding of our study was an improvement in muscle strength mirrored by an increase in muscle volume in the cell-therapy groups compared with the placebo group and an inferiority of the high-dose group versus the low-dose group
+ Most striking was the concordance of the results gathered from the functional assessments and micro- and macro-morphological studies with the Research of the recent past developed the concept of the immune system as a central player in regenerative processes, triggered by tissue damage
+ In the regeneration of skeletal muscle by a close interplay between local and systemic elements of the immune system
+ (10, 19, )
+ In our study, histological analysis showed an equal distribution of lymphocytes and macrophages in the muscle biopsies between the groups
+ However, the biopsies were taken Of note was a reduced increase in muscle strength after the high-dose treatment between weeks 6 and 12 after an initial larger increase
+ This finding could be related to a distinct pattern in biomarker studies
+ Only in the high-dose group did we observe signs of late-onset immune activation in peripheral blood at week 6, which might explain the drop in efficacy in this specific dosage between weeks 6 and 
+ While the peri-operative rise in IL-10 observed in the placebo group seems typical and is related to a systemic stress reaction triggering IL-10 secretion in the liver (21), the late IL-10 rise observed in the high-dose group (Figure 5E) appears to be instead a result of a counter-regulation to the ongoing inflammation by immune cells themselves
+ This not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    observation is in agreement with the enhanced frequency of spontaneously IFN-particularly with strong adjuvants, and are known as bystander activation
+ (22) The mechanisms behind bystander activation are the release of danger signals in association with cytokines leading to unspecific intra-tissue activation of pre-activated NK- and T-effector cells
+ The selected high dose (in the same volume as the low dose, meaning at higher cell concentrations) might have led to critical local conditions for the PLX-PAD cells applied and may be associated with an increased rate of dying PLX-PAD cells that would release danger signals
+ Another observation was that low-dose PLX-PAD but fewer high-dose PLX-PAD almost composition and IL-10 release
+ The acute stress response immediately after surgery or trauma frequently results in intestinal endotoxin translocation leading to inflammation and protein catabolism that predominantly affects skeletal muscles and results in weight loss and muscle wasting
+ (23) The reduction of initial protein catabolism could therefore have contributed to strength and volume advantages after the low-dose treatment over time
+ Paralleling the initial changes in functional parameters in the high-dose group, we observed a partial suppression of the initial stress response followed by an unspecific inflammatory reaction after the first postoperative week
+ The latter may be reflected in the delayed decrease in muscle strength in Our data suggest that the beneficial effects of regeneration-supporting cells are partially compromised beyond an upper dose threshold
+ In our preclinical studies using autologous MSCs, we observed a plateau effect in the dose-response relationship, which also indicates that a larger number of cells does not necessarily imply a better functional outcome
+ (6)  not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    Another observation was the increase in muscle contraction force after low-dose treatment on the contralateral, non-treated side
+ It remains unknown, if this effect was mediated by the secretory effects of PLX-PAD cells or an improvement in neurophysiological control due to the better performance of the treated side, or a combination of both
+ The latter mechanism would be supported by the fact that the GM volume did not change on the non-treated side and that cross-educational effects are known to improve contralateral limb strength of the trained side by approximately 50% after unilateral training
+ (24) The effect on the contralateral side is not as pronounced as on the treated side, voting for an additional local effect of the cells
+ In contrast to myoblast transplantation studies (25-27), our data reveal that the effect of transplanted PLX-PAD cells is not based on differentiation but rather on trophic and immunomodulatory support of the endogenous regeneration
+ This finding is consistent with recent studies on tendon healing demonstrating the decisive role of early trophic factor delivery to the site of injury
+ (28) Although cells were not labeled in our patients to avoid possible alterations of their biologic potential, preclinical studies had shown that transplanted PLX-PAD cells had been cleared from the host muscle within a few weeks, which highlights the Procedural pain and soft tissue swelling are typical postoperative side effects of hip arthroplasty
+ Analyzing their distribution in table S4, it can be seen that in the 150M group 5 patients showed procedural pain in comparison to 3 in the placebo and the high dose 300M group
+ We cannot exclude pain as a symptom of the early immunological effect in the 150M group, but considering that only 2 more patients stated pain in the 150M group compared to the other groups and that the 300M group was identical to placebo, we would refrain from an interpretation in this direction
+  Procedural swelling could be seen in only 1 more patient in the PLX-PAD groups compared to placebo, which does not allow an interpretation, in our opinion
+   Main limitation of our study is the small sample size due to the pilot phase I/IIa character of not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    the trial with primary focus on safety
+ Even though a small number of patients has been enrolled, the consistent results in various endpoints makes us confident about the effects further supporting the strength of the data despite low number of patients
+ Another weakness is the light sex bias with a skewed distribution between the groups, but even taking into account this bias as confounder, the support of muscle regeneration by PLX cells remains In an injury, which does not comprise the whole muscle, such as the direct lateral approach used as a model in this study, the prize for the high standardization level is the compensation of contraction force within 6 weeks (first time of measurement)
+ Patients of the placebo stayed at this functional level despite the new hip joint and an intensive rehabilitation program, which would naturally lead to an increase in force in the trained musculature
+ Patients treated with 150 million PLX-PAD showed an increase of contraction force and volumes of gluteus medius muscles compared to the placebo group
+ This increase can either be related to an improved healing of the injured muscle part (which in our opinion is the most probable based on previous work with MSCs in preclinical models), or by a hypertrophy or even hyperplasia of the non-injured muscle
+ Due to the restrictions of the human model a more exact differentiation was unfortunately not possible
+ Since we naturally could not analyze the whole muscle tissue of the patients and had to rely on fine needle biopsies of one circumscribed region of the treated muscle, the data from this analysis has to be interpreted cautiously
+ We did not observe an accumulation of immune cells in the treatment groups different from the placebo group and therefore did not find evidence for a compartment shift of the cells
+ Since we were analyzing a region that has been treated and was located directly proximal to the injury zone, we would have expected to observe an immune cell infiltration related to the treatment in this area, but, of course, an infiltration in another muscle region not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    cannot be excluded
+ Likewise, we cannot exclude that another region of the gluteus medius muscle or even another periarticular muscle would show changes in vessel formation and muscle fiber type changes after treatment, but we did not observe this in the biopsies
+ As mentioned before we think that our immunological data may provide an explanation to  why low-dose outperformed high-dose cell therapy
+ The central point seems to be the unspecific bystander activation of effector T cells that can migrate easily to inflamed tissue and induce an overwhelming local inflammation, which is not supportive of regeneration
+ Unfortunately, we were not allowed to take early biopsies, which could confirm our hypothesis derived from our immunological data
+ The week 12 biopsies did not reveal any differences in immune cell infiltration, which only shows that the immunological activation is resolved by endogenous regulation (e
+ g
+ IL-10) which is also reflected by the recovery of the temporary drop in muscle power increase in the high-dose group at week 
+ Promoting skeletal muscle healing is one of the remaining unsolved challenges in orthopedic and trauma surgery; there is a lack of strategies that enable complete regeneration of structure In conclusion, our results demonstrate the safety of placental-expanded mesenchymal-like cells for the treatment of iatrogenic muscle injury in patients and provide preliminary results on the efficacy of this treatment
+ Our biomarker studies suggest that immunomodulation has a significant impact on regeneration and mediates at least partly the mode of action
+  not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    The study was a mono-centric, randomized, double blind and placebo-controlled phase I/IIa trial Study site was a large academic center
+ We compared two dosing arms with one placebo arm (::)
+ Randomization was based on a computorized algorithm randomizing the patients into 3 blocks of 6 patients generated by the data management of the study (CSG - Clinische Studien Gesellschaft mbH, Friedrichstrae 180, 10117 Berlin)
+ The investigational product was shipped to the center after successful screening and randomization of a patient and thawed immediately before use
+ The inclusion criteria included a scheduled hip arthroplasty due to degenerative arthritis of the hip, an age of 5075 years at the time of screening, an American Society of Anesthesiologists (ASA) score of  3 and the ability to provide informed consent
+ For exclusion criteria, we refer the interested reader to the supplement
+ We assessed the patients for study eligibility during a 21-day screening period
+ The included patients were assessed for baseline parameters on day 
+ On day 1, the patients underwent THA; at the end of the procedure, they received local injections of the investigational product in accordance with their allocated group
+ Patients in the dosing arms received 
+5108 (150M We conducted in-clinic visits on day 2 and at weeks 1, 6, 12, 26 and 
+ We assessed safety by evaluating the incidence of adverse events, assessing vital signs, physical examinations, A telephone call at week 104 was made to inquire about newly developed malignancies
+  Except for the unblinded staff members handling the treatment, all investigators, the sponsor, and any personnel involved in the subjects	assessment, monitoring, analysis, and data not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    The study was monitored by an unblinded and a blinded monitor
+ We collected the data in source documents and electronic case report forms
+ The data were pseudonymized and transferred to a central database
+ An independent data safety monitoring board conducted an overview of the study (Prof Stephan Anker, University Medical Centre Goettingen, Germany; Patients underwent THA under general anesthesia via a standard lateral transgluteal approach by one surgeon (C
+ P
+ )
+ A longitudinal skin incision was made lateral to the greater trochanter and the subcutaneous tissue dissected
+ A biopsy of the gluteus medius muscle was taken with a needle biopsy device (C
+ R
+ BARD Biopsie-System Magnum Core HS, Siemens, Erlangen Germany) 5 cm proximal to the greater trochanter
+ The iliotibial tract was opened and the gluteus medius muscle, the greater trochanter and the proximal vastus lateralis muscle exposed
+ Then a transgluteal approach was performed with a dissection of the periosteal flap connecting the gluteus medius and the vastus lateralis muscle followed by sharp dissection of the anterior third of the gluteus medius muscle for a distance of 5 cm proximal to the tip of the greater trochanter
+ The gluteus-vastus flap was then shifted anteriorly and the hip joint exposed in this fashion
+ Following resection of the joint capsule and the femoral head the acetabulum was reamed a non-cemented press-fit cup was implanted
+ The proximal femur was then exposed by transferring the leg to external rotation and adduction and a non-cemented femoral stem implanted after a further reaming procedure
+ The femoral head was set in place and the hip reduced
+ A redon drainage was set in place intra-articularly
+ The traumatized muscle fibers of the gluteus medius muscle were sutured with resorbable material (Vicryl, Ethicon, Somerville, USA) in single node technique
+ Following this, the investigational product was thawed and administered into the muscle in 10 injections of 
+5 ml around the cut, in the distance of 1 cm not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    from the cut prior to wound closure
+ With the used volume and the separation in 10 single injections we were in every case able to yield depots in the muscle without reflux of the The patients were mobilized from the first postoperative day with full weight bearing and received a standardized rehabilitation program during their clinical stay and upon their The primary efficacy endpoint was the function of the GM muscle quantified by the change in Additional efficacy endpoints included the change in total GM volume and fat content, GM fiber type and diameter, pain, Harris Hip Score (HHS) and quality of life assessed using the We performed maximal isometric force measurements of the GM bilaterally on a dynamometer We calculated GM volume and fat content from MRI measurements at identical time points
+ Fine-needle biopsies were obtained from the GM 5 cm proximal to the major trochanter of the Isometric hip abductor strength of each limb was assessed using a dynamometer operating at 1000 Hz (Biodex System 3, Biodex Medical Systems, Shirley, NY), on which maximal voluntary isometric contractions (MVICs) were performed to determine the maximal voluntary torque
+ Prior to measurements, patients were warmed up by walking for at least 15 minutes
+ The test procedure was explained in detail to each patient, with special attention paid to the positioning and execution of the contraction by an experienced physiotherapist
+ A custom-made not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    support was used to support the non-tested limb during each test, to maintain a proper position with the body upright
+ All patients were tested in a standing position facing the dynamometer with the legs shoulder width apart, with the hip rotation axis aligned with the dynamometer axis
+ For familiarization purposes, patients performed a submaximal contraction prior to data collection
+ Each subject performed an MVIC for 15 seconds with at least 60s rest between each Similar techniques to assess hip abduction strength by measuring the torque moment using a dynamometer in a standing position have been used in sports science studies, in both isokinetic (30) and maximal fatigue (31) tests
+ This test has previously been shown to be reliable in maximal isometric tests, with excellent test-retest reliability (ICC = 
+917 between The evaluation of volume and fatty atrophy of the gluteus muscles was performed on axial T1- weighted MR Images by two blinded investigators on a PACS workstation (Osirix The analysis for fatty infiltration was performed using a technique described previously (5, )
+  Briefly, three slices 30mm proximal to the trochanter major were selected in each patient
+ On the basis of regions of interests in the subcutaneous fatty tissue and the ipsilateral iliac muscle the mean intensity of gray levels were defined defining fat or muscle tissue
+ The percentage of fatty infiltration in the gluteus muscle was calculated by using the ratio of pixels of fat-value-not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    All muscle samples were snap frozen, embedded in Tissue-Tek O
+ C
+ T
+TM compound and cut into 10 m cross-sections (Microm HM 60, MICROM International, Walldorf, Germany)
+ The frozen sections were thawed and stained hematoxylin and eosin (Merck, Germany) or immunhistochemistry (IHS) was performed
+ Briefly, for the IHS, sections were 30-min air-dried, fixed and washed in PBS
+ Before the primary antibodies were used, all sections were incubated with blocking solution (horse or goat serum Biozol, Eching, Germany) for 30 min
+ IHC stains were performed with biotinylated antibodies against fast myosin heavy chain (fast-MHC, clone My 32, #M4276, Sigma-Aldrich, St
+ Louis, USA), Factor VIII (#CP 039B, Biocare Germany) and CD68 (#SM1718T, Acris Antibodies GmbH, Herford, Germany)
+ After a -minute incubation with the primary antibody at room temperature, sections were washed twice with PBS for 5 minutes
+ Afterwards the secondary antibody was applied (anti-mouse or anti-rabbit, VectorLaboratories Inc, Burlingame, USA) for 60 minutes and the sections were washed again
+ Finally, the avidin-biotin-complex (# AK 5000, Alkaline Phosphatase Standard Kit, Burlingame, USA) for signal amplification were applied and nuclei were counterstained All images were investigated with a light microscope (Leica Microsystems, Germany) equipped with a digital camera (AxioCam MRc, Carl Zeiss MicroImaging, Germany) in a hundredfold magnification
+ Subsequently sections were inverted to an entire image using the Axiovision parameters two blinded investigators analyzed the samples manually by using regions of interests (ROIs) generated randomly or the total sections as described below using the software ImageJ (Maryland, USA)
+ For the calculation of the mean myofiber diameter the shortest not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    diameter of 400 fibers in ROIs on H&E sections were measured and the mean calculated for each patient (Figure A)
+ Type II and type I myofibers were counted on total sections stained for fast-MHC and the percentage of type II of total fibers calculated (Figure B)
+ Blood vessels were counted in 10 random ROIs of 500 x 500 pixels and given as all FVIII positive vessels per ROI (Figure C)
+ T-lymphocytes were counted on total sections as -t-cell-receptor positive cells and given as cells per mm2 of muscle tissue
+ Lymphocyte numbers in clusters as depicted in figure 4D left were calculated via the ratio of area of the cluster divided by the mean diameter of a lymphocyte nucleus, previously determined by measuring 50 random nuclei on the sections as 
+2 m
+ Macrophages were counted as CD68 positive cells on total sections and given as cells per mm2 of muscle tissue (Figure E)
+   We monitored the patients in terms of their immune cell subset composition, cytokine and endothelial activation marker plasma levels, and ex vivo monocyte and T cell function
+ We obtained blood samples preoperatively, 2 hours after surgery and at days 2, 7 and 42 postoperatively
+ For additional details about the procedure, we refer the interested reader to the PLX-PAD is an allogeneic ex-vivo placental expanded adherent stromal cell product
+ The mesenchymal-like stromal cells, termed adherent stromal cells (ASCs) have been derived from the full term human placenta following a caesarean section and expanded using plastic adherence on tissue culture dishes followed by 3-dimensional (3D) growth on carriers in a bioreactor
+ Seeding the cells on fibra-cel disks and placing them in the bioreactor provides a 3D-structure microenvironment that enables controlled large-scale growth of these cells
+ PLX-PAD cells obtained from Pluristem Ltd
+ are stable adhesive cells that can be expanded in vitro not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    without the loss of phenotype and without showing signs of karyotypic changes
+ PLX-PAD are spindle in shape with a flat, polygonal morphology, and 15-19 m in diameter
+  PLX-PAD cells were further characterized in our institute by in-depth surface marker analysis
+ For this purpose, we applied the Human Cell Surface Marker Screening (PE) Kit (Biolegend) using directly labeled antibodies for detecting surface markers
+ We compared several batches of PLX-PAD cells with a bone-marrow derived MSC line
+ Table 3 summarizes the data from the CD screen
+ PLX-PAD cells showed the consensus expression profile of MSC, such as CD 73+ 90+ 105+   CD45- 31- 34 -
+ In line with the unique properties of PLX-PAD cells compared to conventional MSC, however, they show a much broader expression profile
+ In summary 43 of 243 surface markers screened were expressed by PLX-PAD cells revealing a unique profile
+ Remarkably, there is a broader expression of various adhesion molecules (e
+ g
+ CD49 family, CD144), inhibitors of complement activation (e
+ g
+ CD46, CD55, CD59) and T-cell function (e
+ g
+ PD-L), molecules involved in signal CD 10) but missing some markers expressed on bone marrow derived MSC which are involved in cell activation (e
+ g
+ CD109, CD)
+ This expression profile is in line with the preparations or even from different donors expressed an almost identical marker profile Figure 6 illustrates further in vitro characterization of PLX-PAD with the components of PLX-PAD effect on muscle cell proliferation (Figure 6A) and PLX-PAD secretion of factors not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    PLX-PAD cells secrete proteins that are known to be involved in satellite cell activation, proliferation, and migration
+ Galectin-1, secreted at high levels by PLX-PAD in vitro, is known to be involved in myoblast growth and fusion after muscle injury (33), as well as in angiogenesis-related processes (34, )
+ Osteopontin was shown to be involved in both myogenic and inflammatory processes in early muscle regeneration (36, )
+ Follistatin is a known regulator of muscle growth and an antagonist of myostatin (which inhibits muscle growth) ()
+ IGFBP-3 belongs to a family of IGF binding proteins that enhance the half-life of IGF, and was specifically shown to support myoblast differentiation and to correlate with T cells represent the acquired arm of the immune system, and their activation and proliferation is an important part of the inflammatory process
+ The effect of PLX-PAD on cell proliferation was assessed in vitro by co-culturing PLX-PAD cells with peripheral blood mononuclear cells mitogen
+ The results revealed a significant dose dependent decrease in PBMC proliferation (p PLX-PAD were aseptically filled in cryogenic bags at a concentration of 10-20x106 PLX cells/mL in a mixture containing 10% dimethyl sulfoxide (DMSO), 5% human albumin and plasmalyte and stored in gas phase liquid nitrogen at a temperature lower than -C
+ The required amount of PLX-PAD (1 bag) was thawed in a heated water bath (37C) immediately not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    Since this was a pilot phase I/IIa trial no formal sample size calculation was performed
+ We used a modified intention-to-treat (mITT) set including all treated participants
+ All statistical analyses were performed using SAS (Version 
+2; Cary, North Carolina, USA)
+ We analyzed parameter changes from baseline (day 0) by applying a mixed model for repeated measures
+ We analyzed changes in the micro-structural level from baseline until week 12 based on biopsy data using an ANCOVA model
+ The statistical tests were two-tailed, and we adopted a The study was approved by the German regulatory authorities (Paul Ehrlich Institute, Vorlage-Nr
+: 1552101) and the local institutional review board (Landesamt fr Gesundheit und Soziales, /)
+ Written informed consent was collected from all patients, and the study was registered under ClinicalTrials
+gov with the identifier NCT01525667 and the European Clinical not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    Author Contributions: TW and CP were principal investigators for the study, and designed and managed the study with input from PvR, ANA, BP, MP, SG, ELH, RO, PR, GND and HDV
+ TW, CP, PvR, ANA, HP, BP, MP, LP, GSD, CM, CC, MS, PR and HDV did the study and collected and/or interpreted data
+ EE performed a profound statistical reevaluation of the data
+ TW, GND and HDV drafted the first and subsequent versions of this manuscript with input and key revisions by all authors, who reviewed and approved the final submission
+  Acknowledgements: We thank Anne Zergiebel for her excellent coordination work; Gabriela Korus for her great assistance in histology; Shaul Kadosh for the statistical analysis; Cordula Giesler, Annett Sefrin, Maik Stein and Anke Jurisch for organizing and performing the biomarker tests; and Mark Tastan for assistance with the functional assessments
+  not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    Fig
+ 
+ PLX-PAD treatment leads to improvement in contraction moments compared with placebo of treated and non-treated muscles
+ Change in mean isometric contraction moments of GM over time
+ (A) injured, treated side
+ (B) non-injured, non-treated contralateral side
+ Significant differences (indicated with asterisk) were found for mean isometric contraction forces in injured and uninjured muscles compared to placebo at week 
+ P-value for change from baseline at week 26 150M vs
+ Placebo injured side: P=
+0067 (baseline	adjusted; 95% CI 
+6, 
+ )
+ P-value for change from baseline at week 26 150M vs
+ Placebo uninjured side: P=
+012 (baseline	 adjusted; 95% CI 
+1, 
+ )
+ Repeated measures analysis of covariance, model adjusted means, modified intention to treat cohort
+ Preoperative baseline values of injured, treated side as mean SE (A) Placebo: 
+ 
+7 Nm, 150M: 
+ 
+6 Nm, 300M: 
+ 
+3 Nm
+ Preoperative baselines values of non-injured contralateral side (B) Placebo: not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    Fig
+ 
+ (A, B) PLX-PAD treatment increases GM volume but not fat content
+ Change in the macrostructure of GM over time after PLX-PAD or placebo treatment
+ GM volume (A) and GM fat content (B) analyses were performed via repeated MRI measurements
+ Significant differences (indicated with asterisk) were found for GM volume compared to placebo at week 
+ P-value for change from baseline at week 26 150M vs
+ Placebo: P=
+004 (baseline adjusted; 95% CI 
+0, 
+ )
+ Preoperative baseline values GM volume (A), Placebo: values GM fat content (B), Placebo: 
+ 
+0, 150M: 
+ 
+7%, 300M: 
+ 
+ %
+   = not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    Fig
+ 
+ (A) Fiber distribution in PLX-PAD treated muscles indicates ongoing regeneration in placebo-treated patients
+ We evaluated the mean myofiber diameter (A) on muscle biopsies obtained preoperatively and 12 weeks after PLX-PAD or placebo treatment
+ Preoperative baseline values: Placebo: 
+ 
+1 m, 150M: 
+ 
+6 m, 300M: 
+ 
+1 m
+ P>
+ 
+  = (B, C) Myofiber type and number of blood vessels in fine needle biopsies were not changed by PLX-PAD treatment
+ Preoperative baseline values myofiber type (B): Placebo: 252 
+5, 150M: 
+6 
+3, 300M: 
+1 
+ 
+ Preoperative baseline values blood vessels per region of interest (ROI) (C): Placebo: 
+7 
+1, 150M: 
+6 
+1, 300M: 
+9 
+ 
+  = change
+ (D, E) No shift of T-lymphocytes or macrophages into the gluteus medius muscle observed in biopsies
+ Equal distribution of immune cells between groups within the muscle tissue
+ Preoperative baseline values T-lymphocytes per mm2 (D): Placebo: 
+3 
+3, 150M: 
+7 
+7, 300M: 
+3 
+ 
+ Preoperative baseline values macrophages per mm2 (E): Placebo: 
+02 
+1, 150M: 
+04 
+1, 300M: 
+  = change
+ Data are given as meanSE
+ not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    Fig
+ 
+ (A, B) PLX-PAD therapy does not amplify surgery-induced immune suppression
+ (A) Monocyte function (number of HLA-DR molecules per monocyte) shows a decrease after surgery almost below the values of immune paralysis (8000 molecules/cell), which is not altered by immunomodulation by PLX-PAD cells
+ (B) Plasma IL-6 levels correlate with the extent of surgical trauma and are unaffected by cell therapy
+ (A) and (B): total values over time
+  (C, D) Prevention of surgical stress-related early changes of immune cell subset increase of CD16+ NK cells immediately after surgery (p<
+001) and (D) immediate postoperative decrease of CD4+ T-cells (p<
+001) High-dose group with 
+0108 PLX-PAD cells exhibited same pattern but with less pronounced effect (CD16+ NK cells: Day 1 P=
+06 vs
+ placebo, P=
+074 vs
+ 150M, CD4+ T-cells: Day 1 P=
+04 vs
+ placebo, P=
+08 vs
+ M)
+ Data given as change versus baseline (meanSE)
+ Repeated measures analysis of covariance, model adjusted means, modified intention to treat cohort
+ Preoperative baseline values (C) as not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    (E, F) The high-dose group displays a late rise in inflammatory parameters indicating an unspecific inflammatory reaction
+  (E) PLX-PAD therapy prevented an early rise of plasma IL-10 levels, but the high-dose induced a late increase in plasma IL-
+ In the low-dose group, plasma IL-10 remained at placebo levels from day 
+ (F) IFN- ELISA demonstrated increased inflammation 6 weeks after high-dose therapy (300M vs
+ placebo: P=
+002), which slightly decreased until week 52 (300M vs
+ placebo: P=
+ )
+ Low-dose group exhibited placebo values
+ Preoperative baseline values (E) as meanSE: Placebo: 50 pg/ml, 150M: 
+ 
+8 pg/ml, 300M: 
+ 
+5 pg/ml
+ Preoperative baseline values (D) (meanSE): Placebo: 
+ 
+9, 150M: not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    Fig
+ 
+ In vitro characterization of PLX-PAD cells
+ (A) Migration of myoblasts (C2C12) incubated with conditioned medium of PLX-PAD cells
+ CM#1, CM#2 and CM#3 are conditioned media from three batches of PLX-PAD
+ (B) Secretion of Follistatin, IGFBP-3, not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    Age, mean (SD) 
+3 (
+4) 
+4 (
+9) 
+5 (
+4) 
+8 (
+2) mean (SD), kg/ m2 
+3 (
+8) 
+5 (
+9) 
+7 (
+2) 
+4 (
+4) not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    Table 
+ Frequency and incidence of treatmentemergent adverse events classified by Medra Vertigo positional 
+ 
+ 
+ 
+ 
+ 
+ 1 1 
+7 Eye disorders -ALL 1 1 
+3 1 1 
+3 
+ 
+ 
+ Vision blurred 
+ 
+ 
+ 1 1 
+3 
+ 
+ 
+ Breath odour 1 1 
+3 2 2 
+6 1 1 
+7 Local swelling 1 1 
+3 
+ 
+ 
+ 
+ 
+ 
+ Seasonal allergy 1 1 
+3 
+ 
+ 
+ 
+ 
+ 
+ not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    Procedural pain 4 3 
+9 7 5 
+4 3 3 
+0 Muscle strain 
+ 
+ 
+ 1 1 
+3 
+ 
+ 
+ Femur fracture 1 1 
+3 1 1 
+3 
+ 
+ 
+ Joint swelling 
+ 
+ 
+ 1 1 
+3 
+ 
+ 
+ Muscle spasms 
+ 
+ 
+ 3 2 
+6 1 1 
+7 Muscle tightness 
+ 
+ 
+ 1 1 
+3 
+ 
+ 
+ Pain in extremity 
+ 
+ 
+ 1 1 
+3 
+ 
+ 
+ Limb asymmetry 
+ 
+ 
+ 
+ 
+ 
+ 1 1 
+7 Dizziness postural 1 1 
+3 
+ 
+ 
+ 
+ 
+ 
+ not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    Urethral cyst 2 1 
+3 
+ 
+ 
+ 
+ 
+ 
+ Heat rash 
+ 
+ 
+ 
+ 
+ 
+ 1 1 
+7 Breast pain 
+ 
+ 
+ 1 1 
+3 
+ 
+ 
+ not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    Marker PLX-PAD BM MSC PLX-PAD BM MSC Marker PLX-PAD BM MSC PLX-PAD BM MSCnot certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    Data are shown as x-fold expression /MFI) compared to isotype control: +++: >1,000 fold; ++: >100 fold, +: >10 fold, and -: negative vs
+ isotype control
+ CD85 
+04 
+13 - - EGF R 
+74 
+83 + +CD90 
+98 
+91 + + Integrin b7 
+00 
+90 - -CD93 
+98 
+96 - - MIC A_B 
+13 
+41 - -not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted April 16, 
+ ;    

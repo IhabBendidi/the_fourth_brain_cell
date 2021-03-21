@@ -1,0 +1,679 @@
+A Double-Blind Pilot Dosing Study of Low Field Magnetic Stimulation (LFMS) for Treatment-Resistant Depression (TRD)1Departments of Psychiatry, Weill Cornell Medical CollegeNew York Presbyterian Hospital, New York, NY, USA2Feil Family Brain and Mind Research Institute, Weill Cornell Medical CollegeProgram, National Institute of Mental Health, National Institutes of Health, Bethesda, MD, USA*M
+ J
+ Dubin (mrd@med
+ cornell
+edu) and I
+ Ilieva contributed equally to this work
+Low Field Magnetic Stimulation is a potentially rapid-acting treatment for depression with mood-enhancing effects in as little as one 20-minute session
+ The most convincing data for LFMS has comefrom treating bipolar depression
+ We examined whether LFMS also has rapid mood-enhancing effectsin treatment-resistant major depressive disorder, and whether these effects are dose-dependent
+ Wehypothesized that a single 20-min session of LFMS would reduce depressive symptom severity andthat the magnitude of this change would be greater after three 20-min sessions than after a single -min session
+ In a double-blind randomized controlled trial, 30 participants (age 2165) with treatment-resistant depression were randomized to three 20-minute active or sham LFMS treatments with 48 hoursbetween treatments
+ Response was assessed immediately following LFMS treatment using the -itemHamilton Depression Rating Scale (HAMD-6), the Positive and Negative Affect Scale (PANAS) and theVisual Analog Scale
+ Following the third session of LFMS, the effect of LFMS on VAS and HAMD-6 was superior to sham (F (1, 24) = 
+45, p = 
+03, HolmBonferroni corrected; F (1, 22) = 
+,p = 
+03, HolmBonferroni corrected, respectively)
+ There were no differences between sham andLFMS following the initial or second session with the effect not becoming significant until after thethird session
+ Three 20-minute LFMS sessions were required for active LFMS to have a mood-enhancingeffect for individuals with treatment-resistant depression
+ As this effect may be transient, future workshould address dosing schedules of longer treatment course as well as biomarker-based targeting ofnot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 9, 
+ ;    two-thirds of patients with major depressive disorder (MDD) not achieving remission afterthe first trial of antidepressant medications and one-third of patients remaining symptomaticfollowing multiple sequential trials of antidepressant medication []
+ Other patients are unableto tolerate antidepressant medications [2, ]
+ Although treatments such as electroconvulsivetherapy (ECT) are highly efficacious [46], tolerability of ECT can be low due to potentialcognitive side effects []
+ Newer magnetic stimulation treatments such as repetitive transcranialmagnetic stimulation (rTMS) have shown clinical efficacy, reproduced in meta-analyses [],and have a better side effect profile than ECT and many medications
+ However, the standardrTMS treatment protocol requires daily 40-minute sessions, continuously for 46 weeks, andLow field magnetic stimulation may offer an alternative to patients who do not remit withtraditional pharmacologic approaches
+ LFMS employs the unique magnetic field waveform usedin echo-planar magnetic resonance spectroscopic imaging to deliver a low intensity, time-varyingelectric field in the brain (E  1V/m, 1 kHz)
+ Unlike TMS, LFMS does not evoke neuronalaction potentials, but has been shown to modulate metabolism in broad regions of humancerebral cortex [11], and to modulate spontaneous neuronal oscillations in rodent slice prepa-rations [12, ]
+ LFMS also had significant antidepressant-like behavioral effects in a rodentmodel, reducing immobility in a forced swim test protocol []
+ However, mood enhancementhas been equivocal in humans with MDD, with recent single and multi-site randomized controlledtrials missing targets on their primary outcome variables, while showing some positive resultson select secondary outcomes [15, ]
+ This is in contrast to somewhat more consistent positivemood-enhancing results for bipolar depression [16, ]
+ LFMS may have safety advantages overTMS that could broaden its clinical applicability
+ Because it is subthreshold, it does not requireperiodic monitoring of motor threshold
+ Therefore, it is likely to be better tolerated than TMS,carry a lower seizure risk, and thus could potentially be administered in an unsupervised setting
+The main objectives of this study were to examine the mood effects of LFMS on patients withTRD and to explore dosing in terms of number of treatment sessions
+ To this end, we undertook adouble-blind randomized controlled trial of 3 sessions of LFMS for TRD
+ We hypothesized thatrelative to participants randomized to the sham condition, measures of mood would be greater innot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 9, 
+ ;    the active LFMS group immediately after session 
+ In an exploratory analysis, we investigatedwhether a difference in measures of mood emerged earlier, after the first or second treatmentThis was a single-site, double-blind, randomized, sham-controlled phase II study of the ef-ficacy of LFMS on mood symptoms in TRD
+ Eligible participants were randomly assignedto double-blind treatment with three 20-minute sessions of either active or sham LFMS
+ Thistrial was conducted according to the U
+ S
+ Food and Drug Administration guidelines (consent was obtained from all participants before protocol-specified procedures were carriedout
+ The participants were drawn from an outpatient sample of patients with current MDD
+ Allaspects of our experimental protocol were approved by the Institutional Review Board of WeillThe Principal Investigator (MJD) screened participants for eligibility criteria (below) as out-lined in the Study Flowchart (Figure )
+ In cases in which the participant was unable to answer allrelevant questions regarding their psychiatric history, additional history was obtained from currentand past psychiatric treaters
+ A HIPAA release was obtained from the participant when thisadditional history was required
+ Treatment-resistance was defined as the failure to respond to oneor more trials of an adequate dose of an antidepressant for at least 8 weeks and was documentedusing the MGH Antidepressant Treatment Response Questionnaire (MGH ATRQ) []
+ Inaddition, if currently on psychotropic medication, participants must have been taking the currentdoses of all medications in their current regimen for the past four weeks [21, ]
+ Thirtyparticipants were recruited who met the following inclusion and exclusion criteria
+1) Inclusion Criteria: A participant was eligible for participation in the study if all of thea) Able to understand and read English and give written informed consent prior to the protocolnot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 9, 
+ ;    Figure 1: CONSORT Diagram of the LFMS protocol, showing number of participants fromb) Men and women, ages 18 to 65 inclusive with a diagnosis of major depressive episode asdefined by DSM-IV-TR criteria and diagnosed by a board-certified psychiatrist (MJD) usingc) Inadequate response to 1 or more adequate antidepressant treatments in the current depres-d) 17-item Hamilton Rating Scale for Depression (HAMD-17) score  18 administered by anot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 9, 
+ ;    f) Women of childbearing potential (WOCBP) were required to be using an adequate methodof contraception to avoid pregnancy throughout the study and must have had a negativeurine pregnancy test within 72 hours prior to the start of LFMS
+2) Exclusion Criteria: A participant was ineligible for participation in the study if any of thea) WOCBP who were unwilling or unable to use an acceptable method to avoid pregnancyc) Participants with other DSM-IV-TR Axis I disorders other than Generalized Anxiety Disor-der (GAD: 
+02), Social Anxiety Disorder (
+23), or Specific Phobia (
+ )
+ Partici-pants with co-morbid GAD, Social Anxiety Disorder, or Specific Phobia are ineligible if theco-morbid condition was clinically unstable, required treatment, or had been the primaryf) Patients with a clinically significant Axis II diagnosis of borderline, antisocial, paranoid,g) Patients experiencing hallucinations, delusions, or any psychotic symptomatology in theh) Patients who met DSM-IV-TR criteria for any significant substance use disorder within thei) Patients who received new-onset psychotherapy and/or somatic therapy (light therapy, tran-scranial magnetic stimulation) within 6 weeks of screening, or at any time during partici-j) Patients who, in the opinion of the Investigator, were actively suicidal and at significantk) Patients who had participated in any clinical trial with an investigational drug or devicel) Patients who had received ECT in the past 20 years or Vagus Nerve/Deep Brain Stimulationnot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 9, 
+ ;    m) Patients who had medical illness including, cardiovascular, hepatic, renal, respiratory, en-n) Participants with evidence or history of significant neurological disorder, including headtrauma with loss of consciousness, history of stroke, Parkinsons disease, epilepsy disorder,conditions that lower seizure threshold, seizures of any etiology (including substance or drugwithdrawal), who were taking medications to control seizures, or who had increased riskof seizures as evidenced by history of EEG with epileptiform activity (with the exceptiono) Patients with thyroid pathology (unless condition had been stabilized with medications forp) Patients who had begun any medications in the two weeks prior to screening
+r) Patients who had a history of antidepressant-induced hypomania or dysphoria
+s) Participants who had metal implants (Defined by the NY Presbyterian Hospital MRI Check-All participants in the intent-to-treat group were randomized with a 1 : 1 ratio to LFMS orsham
+ All LFMS sessions were 20 min in duration
+ (1) Each participant in the active LFMS groupreceived 3 days of LFMS treatment, with each treatment session consisting of 20 min of activeLFMS
+ (2) The sham group received 3 days of sham LFMS treatment, with each treatment sessionconsisting of 20 min of sham LFMS
+ For both active and sham groups, successive treatmentsMood-enhancing response was evaluated by assessing changes in three primary outcomemeasures immediately prior to and immediately after each LFMS or sham session
+ The threemeasures were: the observer-rated 6-item Hamilton Depression Rating Scale (HAMD-6) [23, ],the participant-rated Positive and Negative Affect Scale (PANAS) [25], and the participant-slow-quick, and hostile-friendly
+ The VAS score was defined as the average of these five com-ponents []
+ The HAMD-6 ratings were conducted by two research assistants trained bynot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 9, 
+ ;    If the HAMD-6 declined by 25% or greater, either between successive treatments or frombefore to after a given treatment, the participant was terminated from the study
+ The PrincipalInvestigator evaluated the participant for acute risk of suicide
+ If the participant was determinedto be at acute risk for suicide, the participant was brought to the psychiatric emergency roomat Weill Cornell for further evaluation
+ Follow-up care with the participants outside psychiatristLFMS followed a previously published protocol for the treatment of a Major DepressiveEpisode []
+ LFMS treatments were delivered with a prototype LFMS device manufactured byTal Medical (Boston, MA)
+ LFMS sessions consisted of a head coil and pulse sequence as usedin proton echo-planar magnetic resonance spectroscopic imaging and were 20 min in duration
+LFMS exposes participants to magnetic fields of the same magnitude and frequency used inclinical MR-Spectroscopic imaging of the brain
+ Sham LFMS consisted of a three-dimensionalspoiled gradient echo sequence of the same duration as active LFMS and which provided auditoryAt the beginning of a treatment session, the participant lay on a flat, padded table andpositioned his head within the open bore of the LFMS device such that his superior orbitalridge aligned with the opening of the bore
+ The device was preprogrammed to deliver activeor sham treatment so that the participant, operator, and all investigators were blinded to activetreatment vs
+ sham
+ Immediately before and after each treatment session, the HAMD-6, PANAS,and VAS were administered and the participant was monitored for any adverse events
+Observed and spontaneously-reported adverse events were recorded at each visit
+ Spontaneously-reported adverse events were classified as mild, moderate or severe
+ Participants were allowedto contact the principal investigator or a member of the study team at any time between visitsDescriptive statistics (including mean, standard deviation, frequency, and percent) for demo-graphic and baseline clinical severity factors were calculated to characterize the active LFMS andnot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 9, 
+ ;    sham groups (both for per-protocol and intent-to-treat)
+ The two-sample t-test or 2-test wereused, as appropriate, to compare demographic and baseline clinical severity factors betweenthe active LFMS and sham groups
+ Analysis of covariance (ANCOVA) was used to comparemood ratings (i
+ e
+, HAMD-6, PANAS-Positive, PANAS-Negative, and VAS; 4 separate AN-COVA models) at the final session between the active and sham groups, controlling for age,gender, and baseline mood score
+ In cases of missing data, the last-observation-carried-forward(LOCF) method was used in the ANCOVA analyses
+ All p-values are two-sided with statisticalsignificance evaluated at the 
+05 alpha level
+ Both uncorrected p-values and HolmBonferronicorrected p-values are presented for the ANCOVA models
+ For the intent-to-treat analysis, asample size of 30 randomly assigned eligible patients in each group was calculated to have80% power to detect a difference in means of 
+5 on the post-treatment HAMD-6 (between theactive LFMS group and the sham group), assuming a common standard deviation of 
+0, using atwo-group t-test with a two-sided alpha level of %
+ This calculation allowed for a 10% dropoutrate
+ All analyses were performed in SPSS Version 
+0 (IBM Corp
+ Released 
+ IBM SPSSTable 1 shows the demographic characteristics and baseline clinical severity of the sample
+Active LFMS and sham groups did not differ significantly in age, gender, race or baselineclinical severity measured by any of the 3 primary outcome variables
+Table 2 shows the means and standard deviations of mood ratings (HAMD-6, PANAS-Positive,PANAS-Negative, and VAS) in the active-LFMS and sham groups at baseline and upon comple-tion of the third and final treatment session
+ To examine whether mood ratings differed betweenactive and sham LFMS at the conclusion of treatment, we conducted three ANCOVAs (analysesof covariance), with intervention (active, sham) as a between-participants factor and age, sex andbaseline mood rating as covariates
+ The three dependent variables were scores for the primaryoutcome variables (HAMD-6, PANAS-Negative, and VAS) post-intervention
+ The effect of activeLFMS on VAS and HAMD-6 emerged superior to sham (F (1, 24) = 
+45, p = 
+03, Holmnot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 9, 
+ ;    Active and sham groups did not differ on any demographic variables
+ Additionally, baseline clinicalseverity did not differ significantly between active and sham groups with the exception of the shamBonferroni corrected; F (1, 22) = 
+92, p = 
+03, HolmBonferroni corrected, respectively)
+Additionally, to address dosing, we asked how early in the course of treatment significant dif-ferences emerge between the mood effects of active LFMS and sham
+ We conducted ANCOVAswith intervention (active, sham) as a between-participants factor and age, sex and baseline moodrating as covariates
+ The dependent variables were mood scores (HAMD-6, PANAS-Negative, andVAS) during the two mid-intervention (following the second LFMS session) assessment points
+Among these tests, the mid-treatment differences between active LFMS and sham did not reachsignificance on HAMD-6, PANAS-Negative, or VAS after correcting for multiple comparisons
+For the 24 participants who completed a questionnaire about whether they believed they werein the active LFMS or sham condition, participants were not more likely than chance to correctlyidentify the intervention condition they were blind to (2 = 
+001, p = 
+ )
+not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 9, 
+ ;    Figure 2: Effect of active vs
+ sham LFMS on symptoms of depression, measured by HAMD-
+The top graph shows the difference from baseline after active LFMS (green line) comparedto sham LFMS (orange)
+ The difference increases with subsequent sessions and is statisticallysignificant after the final treatment
+ (+ uncorrected; HolmBonferroni corrected)
+ Bottom panelsshow the effect of LFMS on each of the 6 item scores that comprise the HAMD-
+ The largesteffect of active LFMS is on the Depressed mood and Psychic anxiety items
+not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 9, 
+ ;    Figure 3: Effect of Active LFMS vs
+ Sham on mood symptoms, measured by VAS
+ The top graphshows the difference from baseline after active LFMS (purple line) compared to sham LFMS(yellow)
+ The difference increases with subsequent sessions and is statistically significant afterthe final treatment
+ (+ uncorrected HolmBonferroni corrected)
+ Bottom panels show effect ofLFMS on each of the 5 item scores that comprise the VAS
+ The largest effect of active LFMSnot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 9, 
+ ;    Table 2: Effect of three 20 min sessions of active or sham LFMSp-values are for ANCOVAs with age, gender and baseline score on the given primaryLFMS was tolerable
+ One participants dropped out after the first treatment because of seriousclinical events, but these were deemed to be unrelated to the treatment itself
+ We observed notreatment-emergent suicidality
+ One subject who received sham was hospitalized 2 weeks afterThe principal finding of this study is that in a double-blinded sham-controlled study, 2 of primary outcome variables of mood symptoms, namely the HAMD-6 and VAS, showed greaterimprovement after three treatments in the active LFMS group than in sham LFMS
+ This isthe first study to demonstrate mood-enhancing effects of LFMS in treatment-resistant unipolardepression
+ The fact that 3 treatment sessions were required for a significant mood-enhancingeffect to emerge between active and sham LFMS for TRD suggests that unipolar TRD maynot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 9, 
+ ;    require more treatments than bipolar depression for a similar response
+ This is in keeping withbipolar depression responding faster than unipolar depression to ECT [29, ]
+Mood enhancements were unlikely to be attributable to sham because of the high quality of theshamparticipants from active and sham groups guessed that they received active treatment atchance
+ Additionally, the mood-enhancing effect of the sham waned with subsequent treatments,an effect observed in other double-blinded, sham-controlled trials of brain stimulation treatments,The main limitation of our study is the lack of follow-up mood assessments and the shortduration between treatment completion and participant assessments
+ This leaves open the possi-bility that the mood-enhancing effects reported here are highly transient, perhaps waning withinhours
+ However, the mood enhancing effects observed here for TRD warrant further investigationthat includes follow-up assessments to examine durability
+ Further, an enhanced dosing studyof LFMS for TRD, to elucidate the number of sessions required to demonstrate durable moodimprovements is required
+ If LFMS were shown to have more sustained effects using such aprotocol, it would be of significant clinical value as this treatment could be delivered with reducedIn addition to the limited mood assessment window, the use of the HAMD-6, althoughconsistent with previous studies of LFMS, was a limitation of this study because of the timeframe it refers to
+ Although we changed the time frame from 7 days to 48 hrs, the HAMD hasstill been validated only for the 7-day time period and this may have been a less appropriateassessment than the VAS or PANAS to capture transient effects on mood
+In summary, LFMS may be a promising, well-tolerated treatment for TRD with a potentiallyrapid onset of action
+ In addition to optimizing the dosing protocol and testing the durability ofthe mood improvments, we need to better characterize the subgroup of patients who respond toLFMS
+ Using functional neuroimaging to understand the circuit abnormalities that are predictiveof treatment response has shown great promise for TMS []
+ Mapping these abnormalitiesin LFMS responders could eventually help match the treatment to depressed patients most likelyto benefit and will guide advancements in LFMS coil design to optimize treatment [39, ]
+This work was supported by a National Institutes of Health Weill Cornell Clinical and Trans-lational Science Center pilot grant to MD and PL (UL1 TR002384) and additional grant fundingnot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 9, 
+ ;    from TAL Medical, Inc
+ CL was supported by grants from the National Institutes of Health(K99 MH097822) and the DeWitt Wallace Readers Digest Foundation at Weill Cornell
+ FG wassupported by a grant from the National Institutes of Health (R01 MH)
+ JK, BB, and ACwere supported by a grant from the Pritzker Neuropsychiatric Disorders Research Consortium
+ZD and JT are supported by the NIMH Intramural Research Program
+We wish to draw the attention of the reader to the following facts which may be consideredas potential conflicts of interest and to significant financial contributions to this work
+ MJDhas received funding from TAL Medical, Inc, a company involved in the clinical developmentof low field magnetic stimulation
+ ZD is an inventor on patents and patent applications onmagnetic stimulation technology held by Columbia University, Duke University, and NEVAElectromagnetics, LLC
+ JK holds U
+ S
+ Patent No
+ 8,853,279 Method for Determining Sensitivityor Resistance to Compounds That Activate the Brain Serotonin System
+ II, JT, AC, BB, PC,[1] A
+ J
+ Rush, M
+ H
+ Trivedi, S
+ R
+ Wisniewski, A
+ A
+ Nierenberg, J
+ W
+ Stewart, D
+ Warden,G
+ Niederehe, M
+ E
+ Thase, P
+ W
+ Lavori, B
+ D
+ Lebowitz, P
+ J
+ McGrath, J
+ F
+ Rosenbaum,H
+ A
+ Sackeim, D
+ J
+ Kupfer, J
+ Luther, and M
+ Fava, Acute and longer-term outcomes indepressed outpatients requiring one or several treatment steps: a STAR*D report
+ Am J[2] M
+ Fava, Management of nonresponse and intolerance: switching strategies, J Clin[3] G
+ M
+ Murphy, Jr
+, C
+ Kremer, H
+ E
+ Rodrigues, and A
+ F
+ Schatzberg, Pharmacogenetics ofantidepressant medication intolerance, Am J Psychiatry, vol
+ 160, no
+ 10, pp
+ ,[4] UK ECT Review Group, Efficacy and safety of electroconvulsive therapy in depressivedisorders: a systematic review and meta-analysis, Lancet, vol
+ 361, no
+ 9360, pp
+ ,not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 9, 
+ ;    [5] W
+ T
+ Heijnen, T
+ K
+ Birkenhager, A
+ I
+ Wierdsma, and W
+ W
+ van den Broek, Antide-meta-analysis, J Clin Psychopharmacol, vol
+ 30, no
+ 5, pp
+ 616619, 
+[6] L
+ van Diermen, S
+ van den Ameele, A
+ M
+ Kamperman, B
+ C
+ G
+ Sabbe, T
+ Vermeulen,D
+ Schrijvers, and T
+ K
+ Birkenhager, Prediction of electroconvulsive therapy response andremission in major depression: meta-analysis, Br J Psychiatry, vol
+ 212, no
+ 2, pp
+ ,[7] M
+ Semkovska and D
+ M
+ McLoughlin, Objective cognitive performance associated with[8] M
+ T
+ Berlim, F
+ van den Eynde, S
+ Tovar-Perdomo, and Z
+ J
+ Daskalakis, Response,stimulation (rTMS) for treating major depression: a systematic review and meta-analysisof randomized, double-blind and sham-controlled trials, Psycho Med, vol
+ 44, no
+ 2, pp
+[9] I
+ P
+ Ilieva, G
+ S
+ Alexopoulos, M
+ J
+ Dubin, S
+ S
+ Morimoto, L
+ W
+ Victoria, and F
+ M
+function in depression: a systematic review, Am J Geriatr Psychiatry, vol
+ 26, no
+ ,[10] J
+ Mutz, D
+ R
+ Edgcumbe, A
+ R
+ Brunoni, and C
+ H
+ Y
+ Fu, Efficacy and acceptability ofnon-invasive brain stimulation for the treatment of adult unipolar and bipolar depression:[11] N
+ D
+ Volkow, D
+ Tomasi, G
+ J
+ Wang, J
+ S
+ Fowler, F
+ Telang, R
+ Wang, D
+ Alexoff,J
+ Logan, C
+ Wong, K
+ Pradhan, E
+ C
+ Caparelli, Y
+ Ma, and M
+ Jayne, Effects of low-field magnetic stimulation on brain glucose metabolism, Neuroimage, vol
+ 51, no
+ 2, pp
+[12] J
+ K
+ Deans, A
+ D
+ Powell, and J
+ G
+ Jefferys, Sensitivity of coherent oscillations in rathippocampus to AC electric fields, J Physiol, vol
+ 583, no
+ Pt 2, pp
+ 555565, 
+[13] J
+ T
+ Francis, B
+ J
+ Gluckman, and S
+ J
+ Schiff, Sensitivity of neurons to weak electric[14] W
+ A
+ Carlezon, Jr
+, M
+ L
+ Rohan, S
+ D
+ Mague, E
+ G
+ Meloni, A
+ Parsegian, K
+ Cayetano,not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 9, 
+ ;    H
+ C
+ Tomasiewicz, E
+ D
+ Rouse, B
+ M
+ Cohen, and P
+ F
+ Renshaw, Antidepressant-likeeffects of cranial stimulation within a low-energy magnetic field in rats, Biol Psychiatry,[15] M
+ Fava, M
+ P
+ Freeman, M
+ Flynn, B
+ B
+ Hoeppner, R
+ Shelton, D
+ V
+ Iosifescu, J
+ W
+Murrough, D
+ Mischoulon, C
+ Cusin, M
+ Rapaport, B
+ W
+ Dunlop, M
+ H
+ Trivedi, M
+ Jha,G
+ Sanacora, G
+ Hermes, and G
+ I
+ Papakostas, Double-blind, proof-of-concept (POC)in treatment-resistant depression (TRD), Brain Stimul, vol
+ 11, no
+ 1, pp
+ 7584, 
+[16] M
+ L
+ Rohan, R
+ T
+ Yamamoto, C
+ T
+ Ravichandran, K
+ R
+ Cayetano, O
+ G
+ Morales, D
+ P
+Olson, G
+ Vitaliano, S
+ M
+ Paul, and B
+ M
+ Cohen, Rapid mood-elevating effects of lowfield magnetic stimulation in depression, Biol Psychiatry, vol
+ 76, no
+ 3, pp
+ ,[17] M
+ Rohan, A
+ Parow, A
+ L
+ Stoll, C
+ Demopulos, S
+ Friedman, S
+ Dager, J
+ Hennen, B
+ M
+Cohen, and P
+ F
+ Renshaw, Low-field magnetic stimulation in bipolar depression using anMRI-based stimulator, Am J Psychiatry, vol
+ 161, no
+ 1, pp
+ 9398, 
+[18] G
+ M
+ Chandler, D
+ V
+ Iosifescu, M
+ H
+ Pollack, S
+ D
+ Targum, and M
+ Fava, RESEARCH:tionnaire (ATRQ), CNS Neurosci Ther, vol
+ 16, no
+ 5, pp
+ 322325, 
+[19] M
+ Fava, Diagnosis and definition of treatment-resistant depression, Biol Psychiatry,[20] M
+ Fava and K
+ G
+ Davidson, Definition and epidemiology of treatment-resistant depres-sion, Psychiatr Clin North Am, vol
+ 19, no
+ 2, pp
+ 179200, 
+[21] D
+ H
+ Avery, P
+ E
+ Holtzheimer, 3rd, W
+ Fawaz, J
+ Russo, J
+ Neumaier, D
+ L
+ Dunner,D
+ R
+ Haynor, K
+ H
+ Claypoole, C
+ Wajdik, and P
+ Roy-Byrne, A controlled study of[22] C
+ Loo, T
+ McFarquhar, and G
+ Walter, Transcranial magnetic stimulation in adolescent[23] M
+ P
+ Fleck, M
+ F
+ Poirier-Littre, J
+ D
+ Guelfi, M
+ C
+ Bourdel, and H
+ Loo, Factorialstructure of the 17-item Hamilton Depression Rating Scale, Acta Psychiatr Scand, vol
+ ,[24] R
+ L
+ OSullivan, M
+ Fava, C
+ Agustin, L
+ Baer, and J
+ F
+ Rosenbaum, Sensitivity of thenot certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 9, 
+ ;    six-item Hamilton Depression Rating Scale, Acta Psychiatr Scand, vol
+ 95, no
+ 5, pp
+[25] D
+ Watson, L
+ A
+ Clark, and A
+ Tellegen, Development and validation of brief measuresof positive and negative affect: the PANAS scales, J Pers Soc Psychol, vol
+ 54, no
+ 6, pp
+[26] R
+ A
+ Stern, VAMS : visual analog mood scales : professional manual Odessa, FL:[27] E
+ P
+ Ahearn, The use of visual analog scales in mood disorders: a critical review, J[28] M
+ F
+ Folstein and R
+ Luria, Reliability, validity, and clinical application of the VisualAnalogue Mood Scale, Psychol Med, vol
+ 3, no
+ 4, pp
+ 479486, 
+[29] J
+ J
+ Daly, J
+ Prudic, D
+ P
+ Devanand, M
+ S
+ Nobler, S
+ H
+ Lisanby, S
+ Peyser, S
+ P
+ Roose, andH
+ A
+ Sackeim, ECT in bipolar and unipolar depression: differences in speed of response,[30] A
+ U
+ Haq, A
+ F
+ Sitzmann, M
+ L
+ Goldman, D
+ F
+ Maixner, and B
+ J
+ Mickey, Responseof depression to electroconvulsive therapy: a meta-analysis of clinical predictors, J Clin[31] J
+ P
+ OReardon, H
+ B
+ Solvason, P
+ G
+ Janicak, S
+ Sampson, K
+ E
+ Isenberg, Z
+ Nahas,W
+ M
+ McDonald, D
+ Avery, P
+ B
+ Fitzgerald, C
+ Loo, M
+ A
+ Demitrack, M
+ S
+ George,and H
+ A
+ Sackeim, Efficacy and safety of transcranial magnetic stimulation in the acutetreatment of major depression: a multisite randomized controlled trial, Biol Psychiatry,[32] M
+ Avissar, F
+ Powell, I
+ Ilieva, M
+ Respino, F
+ M
+ Gunning, C
+ Liston, and M
+ J
+ Dubin,Functional connectivity of the left DLPFC to striatum predicts treatment response ofdepression to TMS, Brain Stimul, vol
+ 10, no
+ 5, pp
+ 919925, 
+[33] J
+ Downar, J
+ Geraci, T
+ V
+ Salomons, K
+ Dunlop, S
+ Wheeler, M
+ P
+ McAndrews, N
+ Bakker,D
+ M
+ Blumberger, Z
+ J
+ Daskalakis, S
+ H
+ Kennedy, A
+ J
+ Flint, and P
+ Giacobbe, Anhedonia[34] A
+ T
+ Drysdale, L
+ Grosenick, J
+ Downar, K
+ Dunlop, F
+ Mansouri, Y
+ Meng, R
+ N
+ Fetcho,B
+ Zebley, D
+ J
+ Oathes, A
+ Etkin, A
+ F
+ Schatzberg, K
+ Sudheimer, J
+ Keller, H
+ S
+not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 9, 
+ ;    Mayberg, F
+ M
+ Gunning, G
+ S
+ Alexopoulos, M
+ D
+ Fox, A
+ Pascual-Leone, H
+ U
+ Voss,B
+ J
+ Casey, M
+ J
+ Dubin, and C
+ Liston, Resting-state connectivity biomarkers defineneurophysiological subtypes of depression, Nat Med, vol
+ 23, no
+ 1, pp
+ 2838, 
+[35] M
+ D
+ Fox, R
+ L
+ Buckner, M
+ P
+ White, M
+ D
+ Greicius, and A
+ Pascual-Leone, Efficacyof transcranial magnetic stimulation targets for depression is related to intrinsic functionalconnectivity with the subgenual cingulate, Biol Psychiatry, vol
+ 72, no
+ 7, pp
+ ,[36] C
+ Liston, A
+ C
+ Chen, B
+ D
+ Zebley, A
+ T
+ Drysdale, R
+ Gordon, B
+ Leuchter, H
+ U
+ Voss,B
+ J
+ Casey, A
+ Etkin, and M
+ J
+ Dubin, Default mode network mechanisms of transcranialmagnetic stimulation in depression, Biol Psychiatry, vol
+ 76, no
+ 7, pp
+ 517526, 
+[37] T
+ V
+ Salomons, K
+ Dunlop, S
+ H
+ Kennedy, A
+ Flint, J
+ Geraci, P
+ Giacobbe, and J
+ Dow-prefrontal rTMS in major depressive disorder, Neuropsychopharmacology, vol
+ 39, no
+ ,[38] A
+ Weigand, A
+ Horn, R
+ Caballero, D
+ Cooke, A
+ P
+ Stern, S
+ F
+ Taylor, D
+ Press,A
+ Pascual-Leone, and M
+ D
+ Fox, Prospective validation that subgenual connectivity[39] Z
+ -D
+ Deng, S
+ H
+ Lisanby, and A
+ V
+ Peterchev, Electric field depthfocality tradeoff intranscranial magnetic stimulation: simulation comparison of 50 coil designs, Brain Stimul,[40] B
+ Wang, M
+ R
+ Shen, Z
+ -D
+ Deng, J
+ E
+ Smith, J
+ J
+ Tharayil, C
+ J
+ Gurrey, L
+ J
+ Gomez,and A
+ V
+ Peterchev, Redesigning existing transcranial magnetic stimulation coils to reduceenergy: application to low field magnetic stimulation, J Neural Eng, vol
+ 15, no
+ 3, ,not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made available The copyright holder for this  (which wasthis version posted November 9, 
+ ;    

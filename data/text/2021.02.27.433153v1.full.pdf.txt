@@ -1,0 +1,548 @@
+Ian G
+ Reddin, Tim Fenton, Mark N
+ Wass*, Martin Michaelis* 2 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    Despite much debate about a perceived 'reproducibility crisis' in the life 9 sciences, it remains unclear what level of replicability is technically possible [,]
+ 10 Here, we analysed the variation among drug response data of the NCI60 project, 11 which for decades has  tested anti-cancer agents in a 60-cell line panel following a 12 standardised protocol []
+ In total, 
+8 million compound/cell line experiments are 13 available in the NCI60 resource CellMiner []
+ The largest fold change between the 14 lowest and highest GI50 (concentration that reduces cell viability by 50%) in a 15 compound/cell line combination was 
+16 x 
+ All compound/ cell line 16 combinations with >100 experiments displayed maximum GI50 fold changes >5, 17 
+7% maximum fold changes >10, 
+3% maximum fold changes >100, and 
+5% 18 displayed similar variation
+ The variability remained very high after removal of 20 outliers and among experiments performed in the same month
+ Hence, our analysis 21 shows that high variability is an intrinsic feature of experimentation in biological 22 systems, even among highly standardised experiments in a world-leading research 23 environment
+ Thus, a narrow focus on experiment standardisation does not ensure a 24 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    In the life sciences, there is a crisis narrative and a perception of a lack of 28 the actual scale of the crisis remains unclear and evidence is largely anecdotal []
+ 30 Much of the data are based on researcher views expressed in survey responses [11-31 13] or provided as Comments or Correspondence without providing detailed 32 One project that investigates the replicability of research data is the 34 project-cancer-biology)
+ So far, 17 replication studies have been completed
+ Five 37 studies reported the successful reproduction of the original studies [16-20], while 38 eight reported a mixed outcome [21-28], and four failed to reproduce the original 39 findings [-]
+ It is not clear whether these data are representative
+ It is a small 40 dataset focused on small, early, and highly cited studies, which are more likely to 41 There is also a lack of agreement on the expected level of data replicability 43 []
+ In a dispute about the consistency of two large pharmacogenomic screens in 44 cancer cell line panels, the Genomics of Drug Sensitivity in Cancer database and the 45 Cancer Cell Line Encyclopedia [34-37], four analyses by different groups concluded 46 a reasonable level of consistency [37-40], while six studies, all by the same group, 47 To develop a realistic understanding of the replicability of standardised assays 49 in a world-leading research environment, we investigated the variation in drug 50 response data from the NCI60 screen []
+ Since 1985, the NCI60 screen has tested 51 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    the anti-cancer activity of thousands of compounds multiple times in a 60-cell line 52 panel following strict standard operating procedures (Figure 1A) [,,-]
+ Thus, 53 the NCI60 database provides an unprecedented wealth of data on the replicability of 54 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    NCI60 drug response data are characterised by a high level of variability 59 All drug sensitivity data derived from NCI60 testing are made available via 60 Cell Miner [,,,,]
+ In total, 52,585 compounds were tested in the NCI60 61 resulting in 
+8 x 106 compound/cell line combinations
+ Two or more (up to 2,286) 62 experiments were carried out for 11,841 compounds and 594,450 compound/cell line 63 combinations (Figure 1B, Extended Data Table 1; Extended Data Table )
+ More 64 than 100 experiments in at least one cell line were performed for 18 compounds and 65 more than 1,000 experiments for two compounds (Extended Data Table )
+ 66 Concentration ranges varied from 
+2 to 
+ 
+ 612 compounds were screened with 67 multiple concentration ranges, and the most common concentration range was 104 68 (11,213/ 
+7% of the compounds), representing the standard testing range using 69 The maximum fold change between the lowest and highest GI50 71 cyanomorpholinodoxorubicin in the colorectal cancer cell line COLO 205 (
+16 x 73 1010) (Extended Data Figure 1A, Extended Data Table )
+ 232,315 (
+1%) drug/cell 74 line combinations displayed maximum fold changes >2, 108,247 (
+2%) drug/cell 75 line combinations fold changes >5, 59,638 (10%) drug/cell line combinations fold 76 changes >10, 19,089 (
+2%) drug/cell line combinations >100, and 8320 (
+4%) 77 The percentage of compound/cell line combinations with high maximum fold 81 change strongly increased with the number of experiments (Figure 1C, Extended 82 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    Data Figure 2A, Extended Data Figure 2B, Extended Data Table )
+ The mean and 83 median GI50 fold changes increased from 41,292 and 
+4 for compound/cell line 84 combinations with two experiments to 53,343,445 and 1841 for compound/cell line 85 combinations with >20 experiments (Figure 1C, Figure 1D, Extended Data Table )
+  86 When we considered compound/cell line combinations with a minimum of five 87 maximum fold changes >2  and 3,832 (
+7%) compound/cell line combinations 89 >
+ For compound/ cell line combinations with >100 experiments, 100% of 794 90 compound/ cell line combinations displayed a maximum fold change > 5 and 
+5% 91 (560 out of 794) displayed a maximum fold change >1000 (Figure 1E, Extended 92 Taken together, maximum GI50 fold changes increase with the number of 94 experiments
+ In agreement, a significant correlation was detected between maximum 95 GI50 fold changes and the number of experiments per compound/cell line 96 combination (Spearman correlation coefficient = 
+34, p < 
+2 x 10-16) (Extended 97 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    Figure 1 Variability in NCI60 GI50 data
+ A) Overview of the principle of the NCI 60 screen
+ B) 101 Compound/ cell line combinations with two or more experiments in the NCI60 database
+ C) GI50 fold 102 changes in dependence on the number of experiments per compound/ cell line combination
+ 103 Numerical data are presented in the adjacent table
+ D) Distribution of maximum GI50 fold changes 104 illustrated by density plots for experimental compound/cell line combination groups with an increasing 105 minimum number of experiments
+ E) Percentage of compound cell line combinations with maximum 106 fold changes above the indicated thresholds in dependence of the number of experiments
+ Numerical 107 data are presented in the adjacent table
+ F) Distribution of GI50 fold changes in dependence of the 108 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    concentration ranges in which compounds were tested
+ Numerical data are presented in the adjacent 109 The observed fold changes also reflected the tested concentration ranges per 113 compound/ cell line combination in addition to the number of experiments, i
+ e
+ the 114 broader the range of concentrations that were tested, the larger was the maximum 115 fold change (Figure 1D, Extended Data Table )
+ A positive correlation was observed 116 between concentration range and maximum fold change for all compound data 117 (Spearman correlation coefficient = 
+31, p < 
+2 x 10-16) (Extended Data Figure B)
+ 118 The mean and median GI50 fold changes for compound/ cell line 119 combinations for which a maximum concentration range <
+0 x 105 was covered 120 were 
+8 and 
+5, which increased to 68,121,059 and 289, 734 for those with a 121 concentration range of  
+0 x 109 (Figure 1F, Extended Data Table )
+ 122 Since reliable clinical therapy outcomes depend on reproducible drug effects, 125 it may be speculated that FDA-approved drugs are more robust in their drug 126 response data than experimental agents
+ However, the drug response data observed 127 for FDA-approved drugs displayed a similar variability like that observed across all 128 The NCI60 database contained data on 181 FDA-approved drugs, which had 130 been tested at least twice, resulting in 399,686 experiments investigating 9,970 131 individual drug/cell line combinations (Extended Data Table )
+ The number of 132 experiments for drug/cell line combinations ranged from 2 to ,
+  133 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    The maximum GI50 fold change was 
+25 x 1010 observed for mithramycin in 134 four cell lines, the colorectal cancer cell line COLO-205 (26 experiments) (Extended 135 Data Figure 1B), the CNS cell lines SF-295 (24 experiments) and U251 (27 136 experiments), and the ovarian cancer cell line IGROV1 (26 experiments)
+ 137 Mithramycin, a member of the aureolic acid family was approved in 1970 but only 138 temporarily used for testicular carcinoma and other types of cancer due to serious 139 side effects []
+  The second highest GI50 fold change (
+28 x 107) was detected for 140 paclitaxel, a stabilising tubulin-binding agent and one of the most commonly used 141 anti-cancer drugs [53], in MDA-MB-435 (Extended Data Figure 1C), which had 142 originally been assumed to be a breast cancer cell line, but was later found to be 143 The maximum GI50 fold changes were higher among the FDA approved 145 drugs than for the non-FDA approved compounds (Figure 2A, Extended Data Table 146 9), probably because they were tested in more experiments and at bigger 147 When we considered the percentage of FDA-approved drug/ cell line 149 combinations with maximum GI50 fold changes >2, >5, >10, >100, and >1000 for 150 combinations with >5, >10, >20, and >100 experiments (Figure 2B, Figure 2C, 151 Extended Data Table 7, Extended Data Table 10), we obtained similar results to 152 In agreement with the findings across all compound/ cell line combinations, 154 the maximum GI50 fold changes also increased with experiment number when the 155 FDA approved drug/ cell line combinations were grouped into combinations with two 156 experiments, 3 to 5 experiments, 6 to 20 experiments, and >20 experiments (Figure 157 2D, Suppl
+ Table 11), and the maximum GI50 fold change was also correlated with 158 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    the number of experiments performed (Spearman's correlation coefficient = 
+72, p < 159 Moreover, the maximum GI50 fold change increased with the concentration 161 range covered (Figure 2E, Extended Data Table 12), and there was a significant 162 correlation between the concentration range and the maximum GI50 fold change 163 (Spearman's correlation coefficient = 
+62, p < 
+2 x 10-16) (Extended Data Figure 164 Taken together, there is no indication that FDA-approved drugs would display 166 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    Figure 
+ GI50 variation for FDA-approved drugs
+ A) Compound/ cell line combinations with 2 or 170 more experiments in the NCI60 database
+ Numerical data are presented in the adjacent tables
+ B) 171 Percentage of FDA-approved drug/ cell line combinations with maximum fold changes above the 172 indicated thresholds in dependence of the number of experiments
+ Numerical data are presented in 173 the adjacent table
+ C) Distribution of maximum GI50 fold changes illustrated by density plots for 174 experimental compound/cell line combination groups with increasing minimum numbers of 175 experiments
+ D) GI50 fold changes in dependence on the number of experiments per compound/ cell 176 line combination
+ Numerical data are presented in the adjacent table
+ (E) Distribution of GI50 fold 177 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    changes in dependence of the concentration ranges in which compounds were tested
+ Numerical data 178 The reproducibility of results may be affected by parameters such as changes 183 in the reagents, e
+ g
+ use of different lots or batches, different experimenters, and 184 using cell lines at different passages [,-]
+ Hence, experiments performed 185 closely together may be expected to display greater similarity than experiments 186 performed at more distant points in time during the decades of anti-cancer 187 To investigate the effects of the time of testing on data variability, we 189 compared experiments performed in the same month to control samples of the same 190 size that were randomly selected across the whole testing period
+ For this analysis, 191 we used the 18 FDA-approved drugs that were tested at least 100 times in at least 192 one cell line over periods of 95 to 275 months (Figure 3A, Extended Data Table 13), 193 resulting in 51,872 drug/cell line combinations and in total 321,709 experiments 194 For every set of experiments performed on the same date, we generated 196 1,000 random control samples of the same size and compared the value distribution
+ 197 The variability of GI50 fold changes for same date experiments was indeed lower 198 than for random control samples, but remained very high reaching up to 
+74 x 108 199 (Figure 3C, Extended Data Table )
+ Moreover, for 45% of  the same date drug/ cell 200 line combinations the GI50 fold change was higher than the mean fold change of the 201 corresponding 1,000 random samples (Figure 3D, Extended Data Table )
+ 202 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    When we looked at the data per cell line, the same date GI50 fold changes 203 were higher than the mean random sample fold changes for the majority of drugs in 204 ten cell lines, higher for half of the drugs in three cell lines, and lower for the majority 205 drugs in the remaining 47 cell lines (Figure 3E, Extended Data Table )
+ When we 206 looked at the individual drugs, six displayed a majority of drug/cell line combinations 207 with higher mean same date GI50 fold changes higher than in the random samples 208 and twelve drugs displayed lower ones (Figure 3F, Extended Data Table )
+ 209 Taken together, experiments performed in close timely proximity display lower 210 variability than experiments performed over a longer time period, but the same date 211 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    Figure 3 GI50 variability is high between compound/cell line combination experiments on the 215 same date and is not caused by outliers
+ A) Time periods of drug testing for individual drugs
+ B) 216 Testing of individual compound/cell line combinations by date
+ C) Maximum GI50 fold changes in 217 experiments testing compound/ cell line combinations on the same date compared to maximum GI50 218 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    fold changes in 1000 random controls of the same sample size
+ D) Percentage of cases in which 219 same date experiments had a higher fold change than control samples randomly picked across the 220 timeline
+ E) Proportion of same date GI50 fold changes in compound/ cell line combinations  that are 221 higher or lower than random control samples per cell line
+ F) Proportion of same date GI50 fold 222 changes in compound/ cell line combinations  that are higher or lower than random control samples 223 per drug
+ G) GI50 value distribution for maytansine in the prostate cancer cell line DU-145 (outliers 224 indicated in red)
+ H) GI50 value distribution for for 5-fluorouracil in the lung cancer cell line HOP-62 225 (outliers indicated in red)
+ I) Comparison of maximum GI50 fold changes before and after removal of 226 outliers
+ Numerical values are presented in the adjacent table
+ J) Maximum GI50 fold changes 227 increase with experiment number after removal of outliers
+ Numerical values are presented in the 228 adjacent table
+ K) Maximum GI50 fold changes increase with the concentration range covered after 229 removal of outliers
+ Numerical values are presented in the adjacent table
+ 230 Finally, we determined GI50 outliers for compound/cell line combinations with 233 5 or more experiments (738 compounds, 30,212 compound/cell line combinations, 234 598,243 GI50 values) using the adjusted boxplot method []
+ 
+7% (34,216) of GI50 235 values were outliers and 
+7% (13,208/30,212) of compound/cell line combinations 236 had at least one GI50 outlier (Extended Data Table )
+ This indicates that outliers 237 are not responsible for the observed variability of GI50 in the majority (
+3%) of 238 The highest percentage of outliers was 50% (7/14 experiments for maytansine 240 in DU-145 prostate cancer cells) (Figure 3G, Extended Data Table )
+ The greatest 241 number of outliers was 291 (
+8%) out of 1731 experiments for 5-fluorouracil in 242 HOP-62 lung cancer cells (Figure 3H, Extended Data Table )
+ Outlier number 243 increased with the number of experiments for a compound/cell line combination with 244 a Spearman correlation coefficient of 
+25 (p < 
+2 x 10-16) (Extended Data Figure )
+ 245 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    The removal of outliers reduced data variability, but the overall variability remained 246 very high with a maximum GI50 fold range of 
+5 x 109 detected for maytansine in 247 the ovarian cancer cell line OVCAR-5 over 35 experiments (Figure 3I, Extended 248 As detected in the analysis across all experiments, maximum GI50 fold 250 changes increased with the number of experiments and the concentration ranges 251 covered also after the removal of outliers (Figure 3J, Figure 3K, Extended Data 252 Table 19, Extended Data Table )
+ A significant correlation was observed between 253 experiment number and maximum GI50 fold change with a Spearman correlation of 254 
+39 (p < 
+2 x 10-16) (Extended Data Figure 5A) and between concentration range 255 and maximum GI50 fold change with a Spearman correlation of 
+47 (p < 
+2 x 10-16) 256 Cancer cell lines may display substantial changes in genotype and phenotype 260 over time [,]
+ Hence, part of the variability observed in drug sensitivity may be 261 the consequence of a shift in drug response over time
+ To investigate this, we 262 established timelines of the GI50 values for the 18 compounds, which had been 263 tested at least 100 times in one or more cell lines
+ This resulted in time lines for 1080 264 compound/cell line combinations with time frames ranging from 95 months 265 Drug/ cell line combinations, in which the fold change between the mean GI50 268 on the first experimental date and the mean GI50 on the last experimental date was 269 50% or greater than the maximum GI50 fold change for the data points in between 270 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    were considered as candidates for a drift in drug sensitivity
+ Only six (
+56%) out of 271 1080 drug/cell line combinations fulfilled these criteria (Figure 4, Extended Data 272 The distribution of the individual GI50 values for three of the drug/ cell line 274 549) did not indicate a GI50 shift over time (Figure 4A-C, Extended Data Table 21, 276 Extended Data Table )
+ For the other three drug/ cell line combinations 277 (vinblastine/ T-47D, bleomycin/ K-562, M-AMSA/ MDA-MB-435) a drift in sensitivity 278 appears unlikely but cannot be excluded based on the data (Figure 4D-E, Extended 279 Data Table 21, Extended Data Table )
+ However, such observations are very rare
+ 280 Moreover, a phenotypic drift in a cell line would be expected to result in changes in 281 sensitivity to more than one drug over time
+ Hence, the data provide no evidence 282 suggesting that the drug sensitivity of individual cell lines may have changed over 283 time
+ These findings may also reflect that the NCI60 uses cell lines within a window 284 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    Figure 4 Experimental time lines for individual compound/cell line combinations
+ The six 288 experimental timelines for compound/cell line combinations (with more than 100 experiments 289 performed in at least one cell line) with a fold change between the first and last mean GI50 that is 290 50% greater than the maximum GI50 for the remaining experiments
+ A) floxuridine in the ovarian 291 cancer cell line SK-OV-3, B) methotrexate in the breast cancer cell line BT-549, C) 6-mercaptopurine 292 in the breast cancer cell line BT-549, D) bleomycin in the leukaemia cell line K-562, E) vinblastine in 293 the breast cancer cell line T-47D, F) M-AMSA in the melanoma cell line MDA-MB-
+ Plot lines 294 represent mean GI50s while data points represent individual experiments at an experimental date
+ 295 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    To gain real-life insights into the extent of data variability in a standardised 298 research environment, we here investigated the variation of GI50 values indicating 299 drug sensitivity for compounds that had been tested multiple times in the NCI60 300 panel
+ The variation was large with the highest fold change between the lowest and 301 highest GI50 in a given compound/cell line combination being 
+16 x 
+ As might 302 have been expected, the fold change between the lowest and the highest GI50 in a 303 specific compound cell line combination increased with the number of experiments 304 CellMiner contains data on experimental compounds as well as on FDA-306 approved drugs that are in clinical use [,-]
+ Although FDA-approved drugs 307 might have been expected to result in more robust data, this was not the case and 308 they displayed a similar data variability as that determined across all compounds
+ 309 The variability also remained very high when we only considered experiments that 310 Given that the NCI60 uses highly standardised methods, a high variability of 312 assay results appears to be an intrinsic feature of lab experiments
+ The large range 313 of GI50 values observed for anti-cancer drugs is of potential relevance, given that 314 cytotoxic anti-cancer drugs are typically used at maximum tolerated doses that 315 cannot be further increased without unacceptable toxicity [-]
+ Moreover, the 316 maximum effects of targeted drugs, e
+ g
+ antibodies or kinase inhibitors that interfere 317 with cancer-specific structures or entities, do not further increase beyond the optimal 318 biological dose, i
+ e
+ the dose at which the biological target is completely inhibited 319 [-]
+ Hence, even a two-fold difference in the GI50, which occurred in 25,496 320 (
+4%) of 30,212 compound/cell line combinations with at least five experiments, is 321 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    of potential relevance, as a two-fold increase of the clinical dose of an anti-cancer 322 Notably, there is awareness of this variability within the NCI60 project as 324 indicated by strict quality control procedures in the presentation of NCI60 GI50 325 values in CellMiner, which result in the exclusion of up to 96% of experiments (48 out 326 of 50) for a given compound/ cell line combination (Extended Data Table 23) []
+ 327 However, such knowledge has not penetrated into scientific discourse
+ Many 328 authors promote strict standardisation of experimental procedures as a strategy to 329 Our analysis of NCI60 data, which is of unprecedented depth and provided by 331 variation remains very high even under ideal conditions that the vast majority of 333 research groups will not be able to afford
+ Hence, our data suggest that experiment 334 heterogenization, the testing of a hypothesis in many different (experimental) 335 systems and datasets and different laboratories [72-79], is a much better strategy to 336 In conclusion, our analysis demonstrates that the variation of experimental 338 data is extremely high even under optimal conditions in a world-leading environment 339 applying the highest standards
+ This shows that increased standardisation is not a 340 straightforward way to resolve issues associated with limited replicability
+ Hence, 341 increased data robustness will have to include additional strategies such as 342 independent replication and experiment heterogenization, i
+ e
+ multiple testing of the 343 same hypothesis using different approaches and models
+ Awareness of the inherent 344 variability of experimental results, will help researchers to develop a realistic 345 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    understanding of the meaning of their data and to design more diverse research 346 strategies that will result in higher data robustness and reliability
+ 347 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    All data were obtained from CellMiner [80] Version 
+ 
+ Dose concentration 353 range data (June 2018 release) were obtained from the National Cancer Institute 354 52,585 NCI codes given to compounds tested on the NCI-60 cell line panel, 42,794 357 were given to unnamed compounds and 9,791 were given to 9,027 named 358 compounds
+ 262 named compounds received two or more individual codes
+ Some 359 GI50 values represent minimum or maximum drug concentrations where the actual 360 GI50 was not reached []
+ Since such values understate the actual data variation, we 361 did not remove these data
+ All data generated during this study are included in this 362 The drug sensitivity data was converted from log10 GI50, to the GI50 (M) 366 for all compound, all cell lines and all experiments
+ Maximum fold changes were 367 calculated for each compound/cell line combination with more than one experiment 368 (594,450) by dividing the maximum GI50 for a cell line by the minimum GI
+ 369 combination was calculated by counting all experiments performed on the same 373 experimental date as well as experiments on different dates
+ The relationship 374 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    between number of experiments and maximum fold change was investigated by 375 using Spearmans correlation coefficient as the distribution of maximum GI50 fold 376 groupings base on the number of experiments performed: all data, 5 or more 379 experiments, 10 or more experiments, 20 or more experiments, and 100 or more 380 experiments
+ This allowed comparison of high maximum fold changes (>2, >5, >10, 381 >100, and >1000) for combinations with varied number of experiments
+ Additionally, 382 experiments, 3 to 5 experiments, 6 to 20 experiments and over 20 experiments
+ 384 These experimental groupings enabled comparison of GI50 fold change statistics 385  Maximum dose concentration range for a compound/cell line combination was 390 determined by using the minimum and maximum dose concentration used in an 391 experiment for an individual compound on an individual cell line
+ The minimum 392 concentration range was 
+0 x 
+2 and the maximum concentration was 
+0 x 393 
+ 
+ The relationship between dose concentration range and maximum fold 394 change was investigated by using Spearmans correlation coefficient as the 395  Compound/cell line combinations were assigned to groups based on the dose 397 concentration range for that combinations: maximum concentration range less than 398 
+0 x 105, maximum concentration range 
+0 x 105 to 
+0 x 109 exclusive and 399 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    maximum concentration range 
+0 x 109 and above
+ These experimental groupings 400 enabled comparison of GI50 fold change statistics (mean, median, minimum, 401 maximum, variance) for compound/cell line combinations between lower and higher 402  All compounds that were classed as FDA-approved drugs by the NCI-60 in 406 CellMiner Database Version 
+2 and where two or more experiments had been 407 performed were extracted from the complete dataset
+ This created an FDA-approved 408 dataset of 181 drugs for which 399,686 experiments for 9,970 individual drug/cell line 409 combinations were performed
+ Analysis of relationship between the number of 410 experiments/concentration ranges and maximum GI50 fold change for drug/cell line 411 combinations was performed as for the complete dataset, described above
+ 412  Month and year of each experiment was available so experimental timelines 415 were established for compounds by calculating the time between the first and last 416 experiment date
+ Multiple experiments were carried out on the same date for many 417 of the compound/cell line combinations, particularly the 18 compounds with at least 418 one cell line with 100 total experiments
+ The data for these 18 compounds, 17 of 419 which were FDA-approved, was extracted from the complete dataset to create a 420 subset of data deemed suitable to compare GI50 variability on the same date with 421  The maximum GI50 fold change on each date where there were multiple 423 experiments for a compound/cell line combination were calculated by dividing 424 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    maximum GI50 by minimum GI50 value
+ The number of experiments on a specific 425 date for a compound/cell line combination was used to determine the maximum GI50 426 fold change over the same number of experiments picked randomly from that 427 combinations experimental timeline
+ This was performed 1000 times so that for 428 every compound/cell line combination and experimental date with a maximum GI50 429 fold change over multiple experiments there were 1000 corresponding maximum 430 GI50 fold changes calculated from random samples of the same number of 431 experiments on that compound/cell line combinations timeline
+ The mean maximum 432 GI50 fold change was calculated for the 1000 random samples for each 433 compound/cell line combination and the number of maximum GI50 fold changes for 434 experiments on the same date higher and lower than the random sample mean were 435 counted
+ For each compound, significance of the difference between same date 436 maximum GI50 fold change and sample mean GI50 fold change was calculated 437 using Wilcoxon Rank Sum Test
+ This was performed using all cell line data 438 combined for each compound and for each cell line individually for each compound
+ 439 Where a significant difference between same date and random sample mean 440 maximum GI50 fold changes were observed, the number of times the same date 441 GI50 fold change was higher or lower than the random sample mean maximum GI50 442  The mean GI50 fold change was calculated for each experimental date 446 (month) for the 18 compounds with 100 or more experiments for at least one cell 447 line
+ The GI50 fold change between the first experimental date and the last 448 experimental date was calculated using the mean GI50 on those dates
+ The first/last 449 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    GI50 fold change was then compared to the maximum GI50 fold change for each 450 compound/cell line combination and considered a candidate for a drift in sensitivity if 451 it was 50% or more of the maximum fold change
+  452  The adjusted boxplot method was used to identify outlier thresholds
+ This 455 method was chosen as the data set was highly skewed
+ To use this method the 456 medcouple (), a robust measure of skewness, had to be calculated (where 457 Where  is the median of , and  and  have to satisfy        , and 461 Using the  the upper (U) and lower (L) thresholds could be determined
+ If 463 %    & 
+5  exp4   #$ %    & 
+5  exp
+5   #$ (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    If   0 the adjusted boxplot method was not used but instead the Tukey method 468 Where  is the lower quartile,  is the upper quartile and #$ is the interquartile 470  For each compound/cell line combination any GI50 value below  or 472 above % were removed from the dataset
+ Analyses were performed on this dataset 473  Data was carried out using perl version 
+ 
+0, Microsoft Excel (2011) and R 477 Statistics::R were used
+ Packages used in R were robustbase, dplyr, webr, 479 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    Data acquisition and analysis (I
+ R
+), data interpretation (all authors), study 488 conception (M
+ N
+ W
+, M
+ M
+), study design (I
+ R
+, M
+ N
+ W
+, M
+ M
+), manuscript drafting 489 All authors have approved the submitted version and agreed both to be 491 personally accountable for their own contributions and to ensure that questions 492 related to the accuracy or integrity of any part of the work, even ones in which they 493 were not personally involved, are appropriately investigated, resolved, and the 494 All raw data are available from CellMiner [80] Version 
+ 
+ All other data are 501 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    
+ Frana TF, Monserrat JM
+ Reproducibility crisis in science or unrealistic 505 
+ Wass MN, Ray L, Michaelis M
+ Understanding of researcher behavior is required 507 to improve data reliability
+ Gigascience
+ 2019 May ;()
+ pii: giz
+ 508 
+ Shoemaker RH
+ The NCI60 human tumour cell line anticancer drug screen
+ Nat 509 
+ Reinhold WC, Sunshine M, Liu H, Varma S, Kohn K, Morris J, Doroshow J and 511 Pommier Y
+ CellMiner: a web-based suite of genomic and pharmacologic tools to 512 explore transcript and drug patterns in the NCI-60 cell line set
+ Cancer Res
+ 2012 Jul 513 
+ Begley CG, Ioannidis JP
+ Reproducibility in science: improving the standard for 515 
+ Frye SV, Arkin MR, Arrowsmith CH, Conn PJ, Glicksman MA, Hull-Ryde EA, 517 Slusher BS
+ Tackling reproducibility in academic preclinical drug discovery
+ Nat Rev 518 
+ Drucker DJ
+ Never Waste a Good Crisis: Confronting Reproducibility in 520 
+ Fanelli D
+ Opinion: Is science really facing a reproducibility crisis, and do we need 522 it to? Proc Natl Acad Sci U S A
+ 2018 Mar ;():-
+ 523 
+ Samsa G, Samsa L
+ A Guide to Reproducibility in Preclinical Research
+ Acad 524 
+ Munaf MR, Chambers CD, Collins AM, Fortunato L, Macleod MR
+ Research 526 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    
+ Mobley A, Linder SK, Braeuer R, Ellis LM, Zwelling L
+ A survey on data 528 reproducibility in cancer research provides insights into our limited ability to translate 529 findings from the laboratory to the clinic
+ PLoS One ;():e
+ 530 
+ Baker M
+ 1,500 scientists lift the lid on reproducibility
+ Nature ;:-
+ 531 
+ Nature Editorial Checklists work to improve science
+ Nature ;:-
+ 532 
+ Prinz F, Schlange T, Asadullah K
+ Believe it or not: how much can we rely on 533 published data on potential drug targets? Nat Rev Drug Discov
+ ;:
+ 534 
+ Begley CG, Ellis LM
+ Drug development: Raise standards for preclinical cancer 535 
+ Aird F, Kandela I, Mantis C; Reproducibility Project: Cancer Biology
+ Replication 537 Study: BET bromodomain inhibition as a therapeutic strategy to target c-Myc
+ Elife 538 
+ Kandela I, Aird F; Reproducibility Project: Cancer Biology
+ Replication Study: 540 Discovery and preclinical validation of drug indications using compendia of public 541 
+ Shan X, Fung JJ, Kosaka A, Danet-Desnoyers G; Reproducibility Project: Cancer 543 Biology
+ Replication Study: Inhibition of BET recruitment to chromatin as an effective 544 
+ Showalter MR, Hatakeyama J, Cajka T, VanderVorst K, Carraway KL, Fiehn O; 546 Reproducibility Project: Cancer Biology
+ Replication Study: The common feature of 547 leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity 548 
+ Essex A, Pineda J, Acharya G, Xin H, Evans J; Reproducibility Project: Cancer 550 Biology, Iorns E, Tsui R, Denis A, Perfito N, Errington TM, Iorns E, Tsui R, Denis A, 551 Perfito N, Errington TM
+ Replication Study: Wnt activity defines colon cancer stem 552 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    cells and is regulated by the microenvironment
+ Elife
+ 2019 Jun ;
+ pii: e
+ 553 
+ Horrigan SK; Reproducibility Project: Cancer Biology
+ Replication Study: The 555 CD47-signal regulatory protein alpha (SIRPa) interaction is a therapeutic target for 556 
+ Horrigan SK, Courville P, Sampey D, Zhou F, Cai S; Reproducibility Project: 558 
+ Lewis LM, Edwards MC, Meyers ZR, Talbot CC, Hao H, Blum D, Reproducibility 561 Project: Cancer Biology, Iorns E, Tsui R, Denis A, Perfito N, Errington TM
+ 562 Replication Study: Transcriptional amplification in tumor cells with elevated c-Myc
+ 563 
+ Eaton K, Pirani A, Snitkin ES; Reproducibility Project: Cancer Biology, Iorns E, 565 Tsui R, Denis A, Perfito N, Errington TM
+ Replication Study: Intestinal inflammation 566 targets cancer-inducing activity of the microbiota
+ Elife ;
+ pii: e
+ 567 
+ Kim J, Afshari A, Sengupta R, Sebastiano V, Gupta A, Kim YH; Reproducibility 568 Project: Cancer Biology, Iorns E, Tsui R, Denis A, Perfito N, Errington TM
+ 569 toward a pro-metastatic phenotype through MET
+ Elife
+ 2018 Dec ;
+ pii: e
+ 571 
+ Vanden Heuvel JP, Maddox E, Maalouf SW; Reproducibility Project: Cancer 572 Biology, Iorns E, Tsui R, Denis A, Perfito N, Errington TM
+ Replication Study: 573 Systematic identification of genomic markers of drug sensitivity in cancer cells
+ Elife 574 
+ Sheen MR, Fields JL, Northan B, Lacoste J, Ang LH, Fiering S; Reproducibility 576 Project: Cancer Biology, Iorns E, Tsui R, Denis A, Perfito N, Errington TM
+ 577 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    caveolin-1 favors tumor invasion and metastasis
+ Elife
+ 2019 Dec ;
+ pii: e
+ 579 
+ Kerwin J, Khan I; Reproducibility Project: Cancer Biology, Iorns E, Tsui R, Denis 581 A, Perfito N, Errington TM
+ Replication Study: A coding-independent function of gene 582 and pseudogene mRNAs regulates tumour biology
+ Elife
+ 2020 Apr ;:e
+ 583 
+ Mantis C, Kandela I, Aird F; Reproducibility Project: Cancer Biology
+ Replication 584 Study: Coadministration of a tumor-penetrating peptide enhances the efficacy of 585 
+ Repass J; Reproducibility Project: Cancer Biology, Iorns E, Denis A, Williams 587 SR, Perfito N, Errington TM
+ Replication Study: Fusobacterium nucleatum infection is 588 
+ Yan X, Tang B, Chen B, Shan Y, Yang H; Reproducibility Project: Cancer 590 Biology, Iorns E, Tsui R, Denis A, Perfito N, Errington TM
+ Replication Study: The 591 microRNA miR-34a inhibits prostate cancer stem cells and metastasis by directly 592 
+ Wang H, Radomska HS, Phelps MA; Reproducibility Project: Cancer Biology, 594 Iorns E, Tsui R, Denis A, Perfito N, Errington TM
+ Replication Study: Coding-595 independent regulation of the tumor suppressor PTEN by competing endogenous 596 
+ Fanelli D, Costas R, Ioannidis JP
+ Meta-assessment of bias in science
+ Proc Natl 598 
+ Barretina J, Caponigro G, Stransky N, Venkatesan K, Margolin AA, Kim S, 600 Wilson CJ, Lehr J, Kryukov GV, Sonkin D, Reddy A, Liu M, Murray L, Berger MF, 601 Monahan JE, Morais P, Meltzer J, Korejwa A, Jan-Valbuena J, Mapa FA, Thibault 602 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    J, Bric-Furlong E, Raman P, Shipway A, Engels IH, Cheng J, Yu GK, Yu J, Aspesi P 603 Jr, de Silva M, Jagtap K, Jones MD, Wang L, Hatton C, Palescandolo E, Gupta S, 604 Mahan S, Sougnez C, Onofrio RC, Liefeld T, MacConaill L, Winckler W, Reich M, Li 605 N, Mesirov JP, Gabriel SB, Getz G, Ardlie K, Chan V, Myer VE, Weber BL, Porter J, 606 Warmuth M, Finan P, Harris JL, Meyerson M, Golub TR, Morrissey MP, Sellers WR, 607 Schlegel R, Garraway LA
+ The Cancer Cell Line Encyclopedia enables predictive 608 
+ Garnett MJ, Edelman EJ, Heidorn SJ, Greenman CD, Dastur A, Lau KW, 610 Greninger P, Thompson IR, Luo X, Soares J, Liu Q, Iorio F, Surdez D, Chen L, 611 Milano RJ, Bignell GR, Tam AT, Davies H, Stevenson JA, Barthorpe S, Lutz SR, 612 Kogera F, Lawrence K, McLaren-Douglas A, Mitropoulos X, Mironenko T, Thi H, 613 Richardson L, Zhou W, Jewitt F, Zhang T, O'Brien P, Boisvert JL, Price S, Hur W, 614 Yang W, Deng X, Butler A, Choi HG, Chang JW, Baselga J, Stamenkovic I, 615 Engelman JA, Sharma SV, Delattre O, Saez-Rodriguez J, Gray NS, Settleman J, 616 Futreal PA, Haber DA, Stratton MR, Ramaswamy S, McDermott U, Benes CH
+ 617 Systematic identification of genomic markers of drug sensitivity in cancer cells
+ 618 
+ Haibe-Kains B, El-Hachem N, Birkbak NJ, Jin AC, Beck AH, Aerts HJ, 620 Quackenbush J
+ Inconsistency in large pharmacogenomic studies
+ Nature
+ 2013 Dec 621 
+ Cancer Cell Line Encyclopedia Consortium; Genomics of Drug Sensitivity in 623 Cancer Consortium
+ Pharmacogenomic agreement between two cancer cell line data 624 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    
+ Bouhaddou M, DiStefano MS, Riesel EA, Carrasco E, Holzapfel HY, Jones DC, 626 Smith GR, Stern AD, Somani SS, Thompson TV, Birtwistle MR
+ Drug response 627 
+ Geeleher P, Gamazon ER, Seoighe C, Cox NJ, Huang RS
+ Consistency in large 629 
+ Mpindi JP, Yadav B, stling P, Gautam P, Malani D, Murumgi A, Hirasawa A, 631 Kangaspeska S, Wennerberg K, Kallioniemi O, Aittokallio T
+ Consistency in drug 632 
+ Safikhani Z, El-Hachem N, Smirnov P, Freeman M, Goldenberg A, Birkbak NJ, 634 Beck AH, Aerts HJ, Quackenbush J, Haibe-Kains B
+ Safikhani et al reply
+ Nature
+ 635 
+ Safikhani Z, El-Hachem N, Smirnov P, Freeman M, Goldenberg A, Birkbak NJ, 637 Beck AH, Aerts HJ, Quackenbush J, Haibe-Kains B
+ Safikhani et al reply
+ Nature
+ 638 
+ Safikhani Z, El-Hachem N, Smirnov P, Freeman M, Goldenberg A, Birkbak NJ, 640 Beck AH, Aerts HJ, Quackenbush J, Haibe-Kains B
+ Safikhani et al reply
+ Nature
+ 641 
+ Safikhani Z, El-Hachem N, Quevedo R, Smirnov P, Goldenberg A, Juul Birkbak 643 N, Mason C, Hatzis C, Shi L, Aerts HJ, Quackenbush J, Haibe-Kains B
+ FRes
+ 644 
+ Safikhani Z, Smirnov P, Freeman M, El-Hachem N, She A, Rene Q, Goldenberg 646 A, Birkbak NJ, Hatzis C, Shi L, Beck AH, Aerts HJWL, Quackenbush J, Haibe-Kains 647 B
+ Revisiting inconsistency in large pharmacogenomic studies
+ Version 
+ FRes
+ 648 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    
+ Monks A, Scudiero DA, Johnson GS, Paull KD, Sausville EA
+ The NCI anti-650 cancer drug screen: a smart screen to identify effectors of novel targets
+ Anticancer 651 
+ Reinhold WC, Varma S, Sousa F, Sunshine M, Abaan OD, Davis SR, Reinhold 653 SW, Kohn KW, Morris J, Meltzer PS, Doroshow JH, Pommier Y
+ NCI-60 whole 654 exome sequencing and pharmacological CellMiner analyses
+ PLoS One
+ 2014 Jul 655 
+ Reinhold WC, Sunshine M, Varma S, Doroshow JH, Pommier Y
+ Using CellMiner 657 
+6 for Systems Pharmacology and Genomic Analysis of the NCI-
+ Clin Cancer 658 
+ Chabner BA
+ NCI-60 Cell Line Screening: A Radical Departure in its Time
+ J Natl 660 
+ Reinhold WC, Varma S, Sunshine M, Rajapakse V, Luna A, Kohn KW, 662 Stevenson H, Wang Y, Heyn H, Nogales V, Moran S, Goldstein DJ, Doroshow JH, 663 Meltzer PS, Esteller M, Pommier Y
+ The NCI-60 Methylome and Its Integration into 664 
+ Reinhold WC, Varma S, Sunshine M, Elloumi F, Ofori-Atta K, Lee S, Trepel JB, 666 Meltzer PS, Doroshow JH, Pommier Y
+ RNA sequencing of the NCI-60: Integration 667 into CellMiner and CellMiner CDB
+ Cancer Res
+ 2019 May 
+ pii: canres
+ 
+ 
+ 668 
+ Kormanec J, Novakova R, Csolleiova D, Feckova L, Rezuchova B, Sevcikova B, 669 Homerova D
+ The antitumor antibiotic mithramycin: new advanced approaches in 670 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    
+ Gallego-Jara J, Lozano-Terol G, Sola-Martnez RA, Cnovas-Daz M, de Diego 673 Puente T
+ A Compressive Review about Taxol: History and Future Challenges
+ 674 
+ Rae JM, Creighton CJ, Meck JM, Haddad BR, Johnson MD
+ MDA-MB-435 cells 676 are derived from M14 melanoma cells--a loss for breast cancer, but a boon for 677 
+ Ben-David U, Siranosian B, Ha G, Tang H, Oren Y, Hinohara K, Strathdee CA, 679 Dempster J, Lyons NJ, Burns R, Nag A, Kugener G, Cimini B, Tsvetkov P, Maruvka 680 YE, O'Rourke R, Garrity A, Tubelli AA, Bandopadhayay P, Tsherniak A, Vazquez F, 681 Wong B, Birger C, Ghandi M, Thorner AR, Bittker JA, Meyerson M, Getz G, 682 Beroukhim R, Golub TR
+ Genetic and transcriptional evolution alters cancer cell line 683 
+ Noronha N, Ehx G, Meunier MC, Laverdure JP, Thriault C, Perreault C
+ Major 685 
+ Voskuil JLA, Bandrowski A, Begley CG, Bradbury ARM, Chalmers AD, Gomes 688 AV, Hardcastle T, Lund-Johansen F, Plckthun A, Roncador G, Solache A, Taussig 689 MJ, Trimmer JS, Williams C, Goodman SL
+ The Antibody Society's antibody 690 
+ Hubert M, Vandervieren E
+ An adjusted boxplot for skewed distributions
+ 692 
+ Liu Y, Mi Y, Mueller T, Kreibich S, Williams EG, Van Drogen A, Borel C, Frank M, 694 Germain PL, Bludau I, Mehnert M, Seifert M, Emmenlauer M, Sorg I, Bezrukov F, 695 Bena FS, Zhou H, Dehio C, Testa G, Saez-Rodriguez J, Antonarakis SE, Hardt WD, 696 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    Aebersold R
+ Multi-omic measurements of heterogeneity in HeLa cells across 697 
+ Lorenzi PL, Reinhold WC, Varma S, Hutchinson AA, Pommier Y, Chanock SJ, 699 Weinstein JN
+ DNA fingerprinting of the NCI-60 cell line panel
+ Mol Cancer Ther
+ 700 
+ Eisenhauer EA, O'Dwyer PJ, Christian M, Humphrey JS
+ Phase I clinical trial 702 design in cancer drug development
+ J Clin Oncol
+ 2000 Feb;():-
+ 703 
+ Sachs JR, Mayawala K, Gadamsetty S, Kang SP, de Alwis DP
+ Optimal Dosing 704 for Targeted Therapies in Oncology: Drug Development Cases Leading by Example
+ 705 
+ Mansinho A, Boni V, Miguel M, Calvo E
+ New designs in early clinical drug 707 
+ Corbaux P, El-Madani M, Tod M, Pron J, Maillet D, Lopez J, Freyer G, You B
+ 709 Clinical efficacy of the optimal biological dose in early-phase trials of anti-cancer 710 
+ Begley CG
+ Six red flags for suspect work
+ Nature ;:-
+ 712 
+ Ioannidis JP, Greenland S, Hlatky MA, Khoury MJ, Macleod MR, Moher D, 713 Schulz KF, Tibshirani R
+ Increasing value and reducing waste in research design, 714 
+ Hatzis C, Bedard PL, Birkbak NJ, Beck AH, Aerts HJ, Stem DF, Shi L, Clarke R, 716 Quackenbush J, Haibe-Kains B
+ Enhancing reproducibility in cancer drug screening: 717 how do we move forward? Cancer Res
+ 2014 Aug ;():-
+ 718 
+ Freedman LP, Cockburn IM, Simcoe TS
+ The Economics of Reproducibility in 719 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    
+ Jarvis MF, Williams M
+ Irreproducibility in Preclinical Biomedical Research: 721 
+ Freedman LP, Venugopalan G, Wisman R
+ Reproducibility2020: Progress and 724 
+ Kaelin WG Jr
+ Publish houses of brick, not mansions of straw
+ Nature 726 
+ Karp NA, Speak AO, White JK, Adams DJ, Hrab de Angelis M, Hrault Y, Mott 728 RF
+ Impact of temporal variation on design and analysis of mouse knockout 729 
+ Ding KF, Finlay D, Yin H, Hendricks WPD, Sereduk C, Kiefer J, Sekulic A, 731 LoRusso PM, Vuori K, Trent JM, Schork NJ
+ Analysis of variability in high throughput 732 screening data: applications to melanoma cell lines and drug responses
+ Oncotarget
+ 733 
+ Kafkafi N, Golani I, Jaljuli I, Morgan H, Sarig T, Wrbel H, Yaacoby S, Benjamini 735 
+ Karp NA
+ Reproducible preclinical research-Is embracing variability the answer? 738 
+ Milcu A, Puga-Freitas R, Ellison AM, Blouin M, Scheu S, Freschet GT, Rose L, 740 Barot S, Cesarz S, Eisenhauer N, Girin T, Assandri D, Bonkowski M, Buchmann N, 741 Butenschoen O, Devidal S, Gleixner G, Gessler A, Gigon A, Greiner A, Grignani C, 742 Hansart A, Kayler Z, Lange M, Lata JC, Le Galliard JF, Lukac M, Mannerheim N, 743 Mller MEH, Pando A, Rotter P, Scherer-Lorenzen M, Seyhun R, Urban-Mead K, 744 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    Weigelt A, Zavattaro L, Roy J
+ Genotypic variability enhances the reproducibility of 745 
+ Voelkl B, Vogt L, Sena ES, Wrbel H
+ Reproducibility of preclinical animal 747 research improves with heterogeneity of study samples
+ PLoS Biol
+ 2018 Feb 748 
+ Bodden C, von Kortzfleisch VT, Karwinkel F, Kaiser S, Sachser N, Richter SH
+ 750 
+ von Kortzfleisch VT, Karp NA, Palme R, Kaiser S, Sachser N, Richter SH
+ 753 Improving reproducibility in animal research by splitting the study population into 754 
+ Shankavaram UT, Varma S, Kane D, Sunshine M, Chary KK, Reinhold WC, 756 Pommier Y, Weinstein JN
+ CellMiner: a relational database and query tool for the 757 (which was not certified by peer review) is the author/funder, who has granted  a license to display the  in perpetuity
+ It is made The copyright holder for this this version posted February 28, 
+ ;    

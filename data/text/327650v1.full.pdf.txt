@@ -1,0 +1,837 @@
+Effect of fluoxetine on adult amblyopia: a placebo-controlled study combining neuroplasticity-enhancing pharmacological intervention and perceptual trainingEffect of fluoxetine on adult amblyopia: a placebo-controlled study combining neuroplasticity-1 Henri J
+ Huttunen1,2,*, J
+ Matias Palva2,*, Laura Lindberg3, Satu Palva2, Ville Saarela4,5, Elina Karvonen4,5,  3 Marja-Leena Latvala6, Johanna Liinamaa4,5, Sigrid Booms1, Eero Castrn2 and Hannu Uusitalo6,7  4 1Herantis Pharma Plc, 02600 Espoo, Finland; 2Neuroscience Center, HiLIFE, University of Helsinki, 6 00014 Helsinki, Finland; 3Department of Ophthalmology, Helsinki University Hospital, 00029 Helsinki, 7 Finland; 4PEDEGO Research Unit, University of Oulu, 90014 Oulu, Finland; 5Oulu University Hospital 8 and Medical Research Center, 90029 Oulu, Finland; 6Department of Ophthalmology, University of 9 Tampere, School of Medicine, 33014 Tampere, Finland; 7Tays Eye Center, Tampere University Hospital, 10 Corresponding author: Dr
+ Henri J
+ Huttunen, Neuroscience Center, P
+ O
+ Box 63 (Haartmaninkatu 8), 17 00014 University of Helsinki, Finland
+ Tel: +358 2941 57616; Fax: +358 2941 57620; E-mail: 18 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Amblyopia is a common visual disorder that is treatable in childhood
+ However, therapies have limited 2 efficacy in adult patients with amblyopia
+ Fluoxetine can reinstate early-life critical period-like neuronal 3 plasticity and has been used to recover functional vision in adult rats with amblyopia
+ This phase 2, 4 randomized, double-blind (fluoxetine vs
+ placebo), multicenter clinical trial examined whether or not 5 fluoxetine can improve visual acuity in amblyopic adults
+ This interventional trial included 42 participants 6 diagnosed with moderate to severe amblyopia
+ Subjects were randomized to receive either 20 mg 7 fluoxetine (n=22) or placebo (n=)
+ During the 10-week treatment period, all subjects performed daily 8 computerized perceptual training and eye patching
+ There was no significant difference in treatment 9 efficacy between the groups
+ Visual acuity at the primary endpoint had significantly improved over 10 baseline in both the fluoxetine (-
+167 logMAR) and placebo (-
+194 logMAR) groups (both p < 
+ )
+ 11 Because patching alone is not effective in adults, the visual acuity improvement likely resulted from 12 perceptual training
+ There was a positive correlation between visual acuity improvement and the 13 perceptual training time
+ While this study failed to provide evidence that fluoxetine enhances 14 neuroplasticity, our data support the usefulness of perceptual training for vision improvement in adults 15 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;     Amblyopia is a condition in which the best-corrected visual acuity (BCVA) is impaired in one eye or, 2 less frequently, both eyes, even though no ocular abnormalities are generally present
+ Amblyopia develops 3 when one or both eyes have abnormal visual input (either physical or physiological) during the sensitive 4 period in childhood (from birth to 6 years)
+1, 2 Amblyopia is most commonly caused by strabismus in very 5 young children (<3 years of age, 82%)3 and by refractive errors (anisometropia, isoametropia) in older 6 children
+ 4, 5 In the clinical setting, moderate amblyopia is defined as a logarithm of the minimum angle of 7 resolution (logMAR) BCVA of 
+30 (Snellen equivalent: 20/40) and/or an interocular BCVA difference 8 of 
+2 logMAR or more (in cases of unilateral amblyopia)
+ The prevalence of amblyopia in the general 9 population varies from 
+3% to 
+6%, and it is one of the most common causes of monocular visual 10 impairment in adults
+4, 6, 7 Patients with monocular amblyopia have a significantly increased risk of visual 11 impairment if vision in their good eye is lost as a result of trauma or disease
+8, 9  12  Amblyopia can be treated in early life, 1012 but visual gains diminish in school-aged children because 13 of a decline in visual system neuroplasticity and, possibly, treatment compliance
+1, 1315 Amblyopia is very 14 difficult, if not impossible, to treat in adults
+16   15  An improved understanding of the neuronal mechanisms underlying amblyopia and adult brain 16 neuroplasticity1719 has led to the development of visual rehabilitation methods that can be used after the 17 critical period
+2024 Experimental models of amblyopia are based on the effects of monocular deprivation 18 on the structure and function of the visual cortex
+25, 26 Using an animal model, Espinosa and Stryker26 19 showed that the effects of amblyopia can be reversed during the critical period in early postnatal 20 development, but not later in life
+ However, recent evidence indicates that environmental enrichment27, 28 21 and pharmacological treatment29 can reactivate critical period-like plasticity in the visual cortex of adult 22 rodents
+ In particular, fluoxetine, a selective serotonin reuptake inhibitor (SSRI), promotes neuroplasticity 23 and neurogenesis30 and reactivates critical period-like plasticity in the rat visual cortex
+18 24  An emerging body of literature suggests that vision improvements can be achieved with 25 conventional therapies (e
+ g
+, occlusion therapy) in adolescents (i
+ e
+, older children and teenagers)3133 and 26 adults20, 21, 34, 35 with amblyopia even though post-childhood amblyopia is generally considered untreatable
+ 27 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    In addition, catecholamine-based medical treatments can temporarily improve vision in human amblyopic 1 patients, including adults
+1, 36, 37 Perceptual training38, dichoptic non-action and action videogame use39, 2 and videogame use during patching40 can improve vision in the amblyopic eye and binocular vision in 3 adults
+ This placebo-controlled study examined whether fluoxetine can enhance neuroplasticity and 4 improve vision in adults with amblyopia
+ The treatment period included eye patching and computerized 5  A total of 42 subjects were enrolled in the study, with 22 and 20 subjects randomly assigned to the 10 fluoxetine and control group, respectively
+ Table 1 presents a complete list of the eligibility and exclusion 11 criteria used for patient selection
+ Forty-one of 42 subjects (
+6%) required new spectacles before 12 randomization
+ Four subjects were non-compliant, 3 subjects withdrew their consent, and 1 subject was 13 lost to follow-up
+ Therefore, a total of 37 subjects ultimately completed the 10-week treatment period, 14 including primary endpoint assessments, and 34 completed the 3-month post-treatment follow-up period 15 (20  in the fluoxetine group and 14 in the control group; Figure )
+ Data from all 42 randomized subjects 16 were subjected to an intention-to-treat analysis and were included in analyses
+ Subjects that completed the 17 study showed good medication compliance (>85%) and completed >85% of the computerized perceptual 18  Baseline demographic and ocular parameters are summarized in Table 
+ Briefly, best-corrected 20 logMAR visual acuity at baseline was between 
+30 and 
+08 in the amblyopic eye and not worse than 21 
+10 in the dominant eye
+ The majority of subjects had anisometropic amblyopia [19 of 20 control subjects 22 (
+0%), 18 of 22 fluoxetine subjects (
+ %)]
+ Four subjects (1 in the control group and 3 in the 23 fluoxetine group) exhibited combined strabismic-anisometropic amblyopia, while 1 subject in fluoxetine 24 group exhibited strabismic amblyopia
+ These 5 subjects had undergone strabismus surgery during 25 childhood
+ Twenty subjects (8 in the control group and 12 in the fluoxetine group) had moderate 26 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    amblyopia and 22 (12 in the control group and 10 in the fluoxetine group) had severe amblyopia (Figure 1  Mean subject age was 
+4  
+5 years in the control group and 
+5  
+5 years in the fluoxetine 3 group
+ Mean baseline logMAR visual acuity in the amblyopic eye was 
+620  
+190 (Snellen equivalent: 4 20/83) in the control group and 
+649  
+252 (20/89) in the fluoxetine group
+ Overall, the average 5 difference in the logMAR visual acuity between eyes was 
+728 in both groups
+ For hyperopic subjects 6 (n=33), the mean refractive error in the amblyopic eye was +
+13  
+49 and +
+07  
+79 D in the control 7 and fluoxetine groups, respectively, and for myopic subjects (n=9), the mean refractive error in the 8 amblyopic eye was -
+23  
+66 and -
+81  
+07 D, respectively
+ Mean anisometropia was 
+19  
+86 9 and 
+95  
+44 D in the control and fluoxetine groups, respectively
+ Baseline binocular vision testing 10 revealed that 9 of 20 control group subjects (
+0%) and 13 of 22 fluoxetine group subjects (
+1%) had 11 suppression or anomalous retinal correspondence (ARC) at the 4-m distance
+ At the 33-cm distance, 7 of 12 20 subjects in the control group (
+0%) and 8 of 22 subjects in the fluoxetine group (
+4%) showed 13 suppression or ARC at baseline
+ All subjects had impaired near visual acuity (with crowding effect; near 14 logMAR visual acuity < 
+7) at baseline, but only 2 control group subjects (
+0%) and 6 fluoxetine group 15 subjects (
+3%) had abnormal contrast sensitivity at the intermediate spatial frequency measured using 16 the Pelli-Robson chart
+ Mean baseline visual parameters are summarized in Table 
+  17  The 10-week treatment regimen included a combination of medication, eye patching, and perceptual 18 training
+ A game-based perceptual training software was specifically developed for enhancing the use of 19 the amblyopic eye during patching
+ The game tasks are illustrated in Figure 2 and Supplementary video 
+ 20 The study was designed to include a placebo control group for the medication only, and all participating 21 subjects followed the same daily patching and training instructions
+  22  Twenty-two of the 42 subjects (
+4%) showed a clinically relevant improvement in visual acuity [2 25 lines of vision (
+2 improvement in logMAR visual acuity)], and 7 of 42 subjects (
+6%) had improved to 26 normal visual acuity (VA of logMAR 0 or better) during the study period (Table )
+ Visual acuity 27 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    significantly improved in the amblyopic eye in both treatment groups (Figure A)
+ At the primary efficacy 1 endpoint (10 weeks), the change in logMAR visual acuity from baseline was -
+167 [95% confidence 2 interval (CI): -
+226 to -
+108] in the fluoxetine group and -
+194 (95% CI: -
+254 to -
+133) in the control 3 group (both p < 
+001, Figure B)
+ The marginal difference in visual acuity improvement between 4 treatment groups was not statistically significant (p = 
+ )
+ The visual acuity improvements observed in 5 both groups were maintained 10 to 22 weeks after discontinuing all treatments (medication, eye patching, 6 and perceptual training)
+ In addition, visual gains of at least 
+2 logMAR units persisted in many subjects 7 in both groups [9 of 20 fluoxetine subjects (
+0%), 6 of 14 control subjects (
+9%); Figure C]
+  8  Both treatment groups exhibited a positive response to treatment, with 30 of the 42 subjects (
+4%) 11 showing an improvement in at least one visual function test (i
+ e
+, visual acuity, contrast sensitivity, 12 binocularity, crowded near visual acuity) at any visit after the randomization visit
+ Binocularity, contrast 13 sensitivity and crowded near visual acuity improved in both the control and fluoxetine groups
+ Binocular 14 vision was assessed for both near (33 cm) and distant (4 m) vision
+ Twenty-two subjects (9 control group 15 subjects, 13 fluoxetine group subjects) had suppression or ARC in the 4-m test at baseline (Figure A)
+ At 16 10 weeks, the number of patients with suppression or ARC had decreased to 16 subjects (5 control group 17 subjects, 11 fluoxetine group subjects)
+ This change persisted through 22 weeks in 11 subjects (3 control 18 group subjects, 8 fluoxetine group subjects)
+ The results in the 33-cm test were similar for both groups 19  Contrast sensitivity was normal (
+70 log) at baseline in all but 2 fluoxetine subjects (
+8%) with 21 severe amblyopia (both had 0 log values at baseline)
+ Following fluoxetine treatment and perceptual 22 training, both subjects had almost normal contrast sensitivity (10 weeks: 
+20 and 
+95 log, 22 weeks: 23  Crowded near visual acuity was assessed using Landolt C ring charts and was considered to be normal 25 when 
+7 or smaller optotypes were detected
+ The baseline mean crowded near visual acuity in the 26 amblyopic eye was 
+171  
+116 in the control group and 
+165  
+141 in the fluoxetine group
+ 27 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Improvements in these values were observed after treatment in both study groups (Figure C)
+ At 10 1 weeks, the control group had improved by 
+181  
+027 (95% CI: 
+126 to 
+236) and the fluoxetine 2 group had improved by 
+148  
+026 (95% CI: 
+095 to 
+201, both p < 
+ )
+ At 22 weeks, the control 3 group had improved by 
+221  
+036 (95% CI: 
+150 to 
+293) and the fluoxetine group had improved by 4 
+197  
+033 (95% CI: 
+131 to 
+262, both p < 
+ )
+ Figure 4D shows the distribution of patients with 5 normal ( 
+7) and impaired (< 
+7) crowded near visual acuity
+  6  The proportion of patients with an improvement in at least one of the visual function parameters was 7 60% in both treatment groups after 10 weeks of treatment
+ Three months after treatment completion (22 8 weeks), this proportion had increased to 70% in the fluoxetine group and 64% in the control group
+ 9 Moreover, 73% of the fluoxetine group subjects and 70% of the control group subjects showed a clinically 10 relevant improvement in at least one visual function parameter at some point during the study
+ 11 Improvements in visual function parameters are summarized in Table 
+ 12  Our clinical study protocol also included prespecified subgroup analyses, which assessed the effect of 13 the severity of amblyopia (moderate/severe), binocularity (suppression/normal fusion), sex (female/male), 14 compliance with software-based training (85%/<85%), and age (<40/40 years) on changes in visual 15 acuity (logMAR)
+ The subgroup analysis data are summarized in Table 
+ Although the differences were 16 not statistically highly significant (p = 
+048), there were more responders with normal fusion in the 17 control group (6/11; 
+5%) than in the fluoxetine group (1/9; 
+1%), whereas there were more 18 responders with suppression in the fluoxetine group (7/11; 
+6%) than in the control group (3/7; 
+ %)
+ 19 Finally, the visual acuity gains were associated with training compliance (p = 
+012) in both treatment 20  A total of 66 adverse events (AEs) were reported after initiating study treatments
+ Fifty-eight (
+9%) 24 AEs occurred during treatment and 8 AEs occurred (
+1%) after treatment
+ Only 16 AEs (
+2%) were 25 related or possibly related to the study treatment and all were reported during the treatment period
+ Eleven 26 (
+7%) of these AEs occurred in the fluoxetine group and 5 (
+6%) occurred in the placebo group
+ None 27 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    of the treatment-related AEs were reported following the 10-week treatment period and no AEs led to 1 study withdrawal One subject in the fluoxetine group exhibited transient mild diplopia that resolved 2 spontaneously
+ Other reported AEs were not related to visual function
+ One serious adverse event (benign 3 ovarian cyst of moderate severity) occurred during the study, but it was not related to study treatment
+ 4  Amblyopia is a complex brain disorder that can restrict everyday life because of the visual limitations 7 it imposes
+ Despite good screening programs and effective childhood treatments, amblyopia remains a 8 common cause of lifelong visual impairment independent of location or ethnic origin
+4, 7, 9, 41 The 9 combination of adequate refractive correction and occlusion therapy (patching of non-amblyopic eye) has 10 been the mainstay therapy for amblyopia of all etiologies
+ However, the benefits of various forms of 11 occlusion therapy are greatest when therapy is started at an early age (<8 years)
+ Therefore, early 12 amblyopia detection and treatment is the most important factor for obtaining successful visual outcomes
+ 13 Physiologically, the brain has the greatest plasticity during the critical period in early postnatal life
+ 14 However, recent evidence strongly indicates that the primary sensory cortex may remain plastic into 15 adulthood
+1724, 2730 This finding suggests that there is a physiological basis for treating amblyopia in 16 adulthood, which provides an opportunity to potentially alleviate this world-wide public health problem
+  17  The current study examined whether fluoxetine, an SSRI known to modulate adult rat visual cortex 18 plasticity18, can enhance the effects of patching/computer-based perceptual training combination therapy 19 in adults with amblyopia
+ The treatment response was good in both the fluoxetine and placebo study 20 groups, with an overall visual rehabilitation success rate of %
+ In addition, 17% of patients achieved 21 normal visual acuity in the amblyopic eye (Table )
+ Our results are in agreement with those of Li et al40, 22 who found that 33% of adult amblyopic subjects had a substantial improvement in visual acuity following 23 video game-based perceptual training
+ In addition, our subjects had an average gain of approximately 2 24 lines of vision (
+2 logMAR), which was similar to improvements observed with other published training 25 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;     The change in visual acuity after 10 weeks of study medication/perceptual training therapy was not 1 significantly different between subjects taking fluoxetine and subjects taking a matching placebo
+ It may 2 be that 20 mg of fluoxetine, the dose typically used to begin treatment of depression, was too small a dose 3 to modulate neuroplasticity
+ It may also be that the training paradigm (new spectacles, patching, and 4 computerized perceptual training) was so effective that the 20-mg dose of fluoxetine did not provide any 5 additional benefit
+ Larger fluoxetine doses (up to 80 mg/day) are often used in depressed patients when the 6 initial dose does not have the desired therapeutic effect
+ In addition, the 10-week treatment period may 7 have been too short to maximize fluoxetine benefits and it is possible that a difference between treatment 8  Although there is evidence that some amblyopia treatments may be additive (optical correction in 10 combination with patching or atropine)32, some reports have documented that all amblyopia treatment 11 effects may not be additive
+ The effects of multiple amblyopia treatment paradigms were not synergistic in 12 rodent models of amblyopia
+42 Furthermore, environmental enrichment and fluoxetine treatment have been 13 shown to induce similar levels of amblyopia recovery in rodents
+28 Therefore, it is possible that perceptual 14 training alone (with refractive correction) promotes the maximum amount visual cortex plasticity and that 15 further treatments do not have additive benefits
+ The current study was not designed to determine this and 16 future studies should include a group of subjects only treated with fluoxetine (no perceptual training)
+ 17 However, a rodent study found that fluoxetine alone had no effect on vision
+18 Furthermore, there are no 18 prior reports of visual benefits from fluoxetine monotherapy in amblyopic patients, even though millions 19 of patients, and presumably thousands of amblyopic patients, have used the medication over the past three 20 decades
+ In addition, a recent placebo-controlled, double-blinded, clinical study showed that 20 mg/day of 21 fluoxetine for 19 days did not significantly affect visual perceptual learning in humans
+43 These prior 22 studies support the theory that 20 mg/day of fluoxetine may not be a large enough dose to effectively 23  Subjects in the current study received new spectacles with the proper refractive correction at baseline
+ 25 Initiating the use of appropriate prescription glasses can improve amblyopia in children44 and adults
+ 26 Therefore, the use of new corrective lenses may have added to the visual gains observed in the current 27 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    study
+ However, adults have lower plasticity than children so the effects of glasses may have been less 1 prominent in our adult population
+ Furthermore, test-retest variability should be taken into account; this 2 was low in the present study because visual acuity was measured under the same conditions and in the 3 same locations by the same observers
+ Moreover, regression to the mean must be taken into account; 4 because our study was placebo-controlled, the regression to the mean was reduced because both groups 5  We found that training compliance was well correlated with improved visual acuity
+ Therefore, the 7 training software used in the current study could potentially be used in the clinical setting to personalize 8 training and remotely monitor patient compliance
+ This would allow clinicians to adjust follow-up 9 intervals based on treatment response rates
+ Understanding early treatment responses would also aid in 10 determining which patients are likely to benefit from treatment and would allow for adjustment or 11 discontinuation of treatment on the basis of individual responses
+ If no improvement is detected despite 12 good compliance, treatment may be discontinued and the diagnosis of amblyopia may need to be 13 reconsidered
+ Follow-up visit schedules can also be determined based on perceptual training performance
+ 14  Our study had several limitations
+ First, we did not have a true no-treatment control group
+ However, in 15 both the placebo and fluoxetine groups, perceptual training compliance was well correlated with the 16 magnitude of vision improvement
+ This finding strongly suggests that perceptual training resulted in 17 neuroplasticity and subsequent visual benefits
+ Future clinical trials should include several control groups 18 to examine the effects of individual interventions and their combined effects
+ Furthermore, the dose of 19 fluoxetine and duration of its use should be varied in these studies
+ Second, the response to treatment was 20 remarkably variable in both treatment groups
+ This may have resulted from the large amount of variation 21 in amblyopia severity and etiology in our study population
+ Twenty-two subjects (
+4%) had abnormal 22 binocularity at baseline, 10 of which had improvements in binocularity with study treatment
+ In addition, 23 only 2 subjects with severe amblyopia had low contrast sensitivity at baseline
+ Contrast sensitivity deficits 24 are sometimes found to correlate with the visual acuity in the amblyopic eye
+ 
+ Both subjects exhibited 25 remarkable improvements in visual test results
+ Our results are in agreement with those of Zhou et al,49 26 who showed that perceptual learning can improve visual acuity and contrast sensitivity in adult amblyopia 27 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    patients
+ Nine of our subjects (
+4%) had improved crowded near visual acuity (Table )
+ Hussain et al50 1 found a significant association between reduction in crowding and visual acuity improvement in 2 amblyopic adults
+ However, we did not find a significant correlation between visual acuity improvement 3 and crowding, contrast sensitivity, or binocularity
+ It should be noted that the number of subjects in these 4 subgroups was relatively small and that larger subgroups may have revealed additional statistically 5  In conclusion, both fluoxetine and the software-based perceptual training were safe and well-tolerated, 7 with fluoxetine treatment not offering further benefits over perceptual training
+ The training software used 8 in the study simultaneously determined training compliance and improvements in visual function and 9 showed that good training compliance is essential for treatment benefit
+ Therefore, software-based 10 training, combined with eye patching, may improve visual function in adult patients with amblyopia
+ 11 Furthermore, the computer program used here has the potential to become a robust tool for the treatment 12  All study conduct adhered to the tenets of the Declaration of Helsinki and followed Good Clinical 16 Practices
+ This study was reviewed and approved by the Regional Ethics Committee of Tampere 17 University Hospital (centralized process for all centers in Finland) and the Research Ethics Committee of 18 the University of Tartu (Estonia)
+ Written informed consent was obtained from all subjects prior to 19 performing any study examination or procedure
+ The study was registered in the European Clinical Trials 20 Database (EudraCT) on October 1st, 2010 under the number --
+ 21  This phase 2, multi-center, clinical study was a randomized, double-blind, placebo-controlled (for drug 22 treatment), parallel-group trial performed to assess visual acuity improvement in the amblyopic eye, as 23 measured by the Early Treatment of Diabetic Retinopathy Study (ETDRS) chart, following 10 weeks of 24 medication (20 mg fluoxetine or placebo) and computer-based training (with the dominant eye patched)
+ 25 The following assumptions were made to calculate sample size: comparison of two equally sized groups, 26 an intergroup difference (fluoxetine vs
+ placebo) in the change in logMAR visual acuity of at least 
+15, a 27 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    standard deviation (SD) of 
+15, and a subject drop-out rate of %
+ Thirty-four subjects needed to be 1 randomized to power the study to 80%, assuming a two-sided type I error rate of %
+  2 Four eye clinics in Finland and Estonia enrolled 42 subjects between June 2011 and April 
+ Study 5 inclusion and exclusion criteria are fully described in Table 
+ Briefly, adult patients with monocular 6 amblyopia with no other ocular or neurological abnormalities were considered for enrollment
+ Included 7 subjects were 19 to 57 years of age and had moderate (
+ 
+6 logMAR difference) to severe (>
+6 8 logMAR difference) amblyopia due to myopic or hyperopic anisometropia (
+25 D) or congenital 9 esotropia
+ The lower limit for anisometropia was not set in the study protocol
+ The investigators 10 considered the amblyopia to be of the anisometropic type if no strabismus had been diagnosed in 11 childhood and the refractive error was at least 1 D of anisometropia, determined as the spherical 12 equivalent, in childhood
+ Patients with other primary forms of strabismus, extrafoveal (eccentric) fixation, 13 or who used antidepressant drugs in the past 6 months were excluded
+  14 Eligibility, demographic data, medical history, relevant medication, vital signs, physical examination, 17 blood and urine samples (including urine pregnancy test for fertile women), and amblyopia were assessed 18 at screening
+ Amblyopia was confirmed at screening and was defined as an interocular ETDRS best-19 corrected visual acuity difference of at least two lines and/or a logMAR visual acuity between 
+30 and 20 
+10 in the amblyopic eye and 
+10 or better in the dominant eye
+ Prior to randomization, patients received 21 new spectacles based on non-cycloplegic refraction to ensure best-corrected vision during the study
+ 22  A thorough ophthalmic examination was conducted at each of the seven scheduled visits (at 23 weeks -2 (screening), 0 (randomization), 2, 6, 10, 14 and 22; Figure 1) during the 26-week study period
+ 24 Vision tests included the assessment of binocularity, visual acuity, crowded near visual acuity, and 25 contrast sensitivity and were performed with the refractive error corrected
+ In addition, presbyopic 26 correction was used for crowded near visual acuity testing in presbyopic subjects
+  27 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Binocularity was examined using the Bagolini striated glass test51 before monocular testing
+ Lens 1 striations were placed at 135 before the right eye and 45 before the left eye using lorgnette frames
+ This 2 testing setup allows each eye to receive the same fusible image with each fixation streak oriented 3 perpendicular to the striations and 90 away from the other eye
+ The test enables the evaluation of 4 simultaneously perceived images with a minimal dissociative effect and it was performed at near (33 cm) 5 and distance (4 m) under normal lighting conditions
+ Binocularity was categorized as suppression (1 light 6 and only 1 line were seen), normal fusion (binocular single vision, BSV; 2 lines were seen as X and 1 light 7 at the center), anomalous retinal correspondence (ARC; harmonious if 1 light and 2 lines were seen, but 8 one of the lines was broken due to foveal suppression, or inharmonious if 1 light and 2 lines were seen, 9 but the lines did not cross at the center where the light was located) or diplopia (2 lights and 2 lines were 10 seen)
+ However, none of the subjects had diplopia in the current study
+ 11  Visual acuity was assessed under standardized lighting conditions (self-calibrated test lighting with a 12 constant light level of 85 cd/m2) using a large-format standardized ETDRS light box (ESV3000 with LED 13 lights, VectorVision, Greenville, OH) placed 4 meters from the subject
+ Three different ETDRS charts 14 (charts R, 1 and 2) were used to prevent subjects from memorizing eye charts
+ Visual acuity was assessed 15 in the amblyopic eye first and was measured as the number of correctly identified letters
+ A clinically 16 relevant visual acuity improvement was defined as a 
+2 or greater decrease in the logarithm of the 17 minimum angle of resolution (logMAR) visual acuity (i
+ e
+, 2 lines or 10 characters on the ETDRS chart)
+ 18  Contrast sensitivity was determined under standardized lighting conditions using a Pelli-Robson chart 19 at a distance of 1 m (charts A and B), using previously established age-dependent normative values
+52 20 Crowded near visual acuity was assessed using a specific crowded Landolt C ring chart booklet at a 21 distance of 40 cm
+53 Crowded near visual acuity was defined by the smallest line in which the subject 22 correctly identified at least 8 of 12 letters (
+ %)
+ The right eye was tested first in all tests requiring 23 charts
+ The contralateral eye was occluded during testing and charts were switched between eyes
+ All eye 24 examination test charts and Bagolini striated glasses tests were standardized and validated for trial 25 endpoint measurement
+ All staff that evaluated vision were masked to subject group assignment
+ 26 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;     Treatment safety was assessed using ophthalmoscopy, biomicroscopy, intraocular pressure (IOP) 1 measurement, laboratory safety tests [hematology (hemoglobin, hematocrit, erythrocyte count, leukocyte 2 count, platelet count), clinical chemistry (alanine aminotransferase, alkaline phosphatase, aspartate 3 aminotransferase, creatinine, gamma-glutamyl transferase, potassium, sodium, urea), and urine analysis 4 (blood, glucose, ketones, protein, pH)], vital signs, and physical examination performed at screening and 5 at each study visit
+ Adverse events and changes in concomitant medications were recorded at each study 6 Fluoxetine capsules were manufactured by Orion Corporation (Espoo, Finland) and the matching placebo 10 capsules were manufactured by Corden Pharma GmbH (Plankstadt, Germany)
+ Study subjects were 11 randomly assigned to receive either 20 mg fluoxetine each day (hard capsule) or a matching placebo
+ 12 Randomization was done in a 1:1 fashion in blocks of 4 and was stratified by site
+ Randomization was also 13 stratified by amblyopia severity, determined using interocular visual acuity difference (moderate: 
+ -
+6 14 logMAR difference, severe: >
+6 logMAR difference)
+ The randomization structure was designed by a 15 biostatistician and the final randomization list was generated by an independent person who had no 16 contact with study subjects or study data
+ Medication was pre-packed and serially numbered so that 17 subjects were assigned to a study group by giving them the next available medication number in the 18 sequence
+ A drug accountability log was maintained by study-authorized personnel
+ The receipt, dispense 19 and return of study medication was recorded in this log
+ Patients were instructed to return dispensed 20 medication bottles at the next visit, even if the bottles were empty
+ The number of capsules dispensed and 21 returned was reconciled against the number of days between the visits and any discrepancies were 22 accounted for
+ After 10 weeks of receiving study medication, subjects were weaned off the daily 23 medication (1 capsule every other day for the next 2 weeks, Figure B)
+  24 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    All subjects completed daily computerized training with eye patching during the 10-week period of 1 receiving study medication (Figure A)
+ The principle underlying the perceptual training software 2 developed for this study is fully described in the Electronic Supplementary Materials and is illustrated in 3 Figure 2 and Supplementary video 
+ All subjects received new spectacles before randomization and were 4 instructed to wear an eye patch over their dominant eye while performing daily computerized perceptual 5 training
+ The training software was used to track training compliance, which was calculated by dividing 6 the total accomplished training time with the total prescribed training time
+ Training compliance was 7 automatically reported to the study site prior to each scheduled visit
+ 8  All subjects were given an eye patch and were instructed to wear it over the non-amblyopic eye for 9 1 hour each day
+ Subjects were also instructed to complete approximately 30 minutes of the computer-10 based training each day while they were wearing the patch and their spectacles
+ 11  The training period was divided into ten 1-week segments and each subject played an identical 12 composition of games each week
+ The maximum total training time over the 10-week training period was 13 35 hours
+ The training program was made up of seven different games wherein the performance was 14 primarily determined by visual acuity and contrast sensitivity and secondarily by attention and mental 15 effort
+ Thus, the training was primarily focused on visual acuity and contrast sensitivity and was aimed at 16 their improvement
+ A schematic illustration of the training game task design and composition is shown in 17 Figure 
+ In addition, the computerized training setup, training protocol structure, and individual training 18 game design are described in detail in the Electronic Supplementary Materials
+ Data on behavioral 19 performance were collected on a per-game basis
+ For each game type, the corresponding weekly test 20 outcome measures were obtained by pooling the data from all individual games of that type played in that 21 The primary outcome of the study was an improvement in visual acuity in the amblyopic eye, as measured 25 by the ETDRS chart, from baseline (week 0, randomization) to the 10-week visit (end of treatment)
+ 26 Secondary outcomes included the change from baseline in binocularity, contrast sensitivity and crowded 27 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    near visual acuity to week 10 week
+ The persistence of changes observed at 10 weeks was also evaluated 1 at the end of the follow-up period (week )
+ Treatment safety was assessed using adverse event incidence 2 and ophthalmological examination findings throughout the study
+ Exploratory outcomes included changes 3 from baseline in training measures at each study visit
+    4 The primary analysis population was the full analysis dataset (FAS), which included all randomized 7 patients who had received at least one dose of study medication (intention-to-treat principle)
+ A last 8 observation carried forward (LOCF) imputation was applied up to week 10 for subjects who did not 9 complete the study and those who were non-compliant with the treatment
+ 10  Differences in visual acuity and crowded near visual acuity between the two treatment groups were 11 evaluated using the repeated measurements of analysis of covariance (RM ANCOVA) method with 12 baseline values as a covariate
+ The model included the study center, treatment and time point (visit) as 13 main effects, and treatment by time point (visit) as an interaction effect
+ With regard to the primary 14 endpoint, differences between the treatment groups with regards to change in the logMAR visual acuity at 15 10 weeks (and a 95% CI for the difference) were estimated using RM ANCOVA models with a contrast
+ 16 A secondary RM ANCOVA analysis was used to compare the least square means between the treatment 17 groups at the end of the follow-up (22 weeks) period to determine if treatment effects were maintained
+ 18 Contrast sensitivity was not analyzed with RM models because of low variability in the dataset
+ Pearsons 19 chi-square test was used to compare categorical variables
+ Some binocularity categories contained a low 20 number of subjects
+ Therefore, differences between treatment groups in binocularity were evaluated using 21 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    
+ Simons, K
+ Amblyopia characterization, treatment, and prophylaxis
+ Surv Ophthalmol
+ 50, 2 
+ Keech, R
+ V
+ & Kutschke, P
+ J
+ Upper age limit for the development of amblyopia
+ J Pediatr 4 
+ Birch, E
+ E
+ & Holmes, J
+ M
+ The clinical profile of amblyopia in children younger than 3 6 
+ Attebo, K
+ et al Prevalence and causes of amblyopia in an adult population
+ Ophthalmology
+ 8 
+ Group, T
+ P
+ E
+ D
+ I
+ The clinical profile of moderate amblyopia in children younger than 7 10 
+ Birch, E
+ E
+ Amblyopia and binocular vision
+ Prog Retin Eye Res
+ 33, 67-84 ()
+ 12 
+ Vinding, T
+, Gregersen, E
+, Jensen, A
+ & Rindziunski, E
+ Prevalence of amblyopia in old 13 people without previous screening and treatment
+ An evaluation of the present prophylactic 14 procedures among children in Denmark
+ Acta Ophthalmol (Copenh)
+ 69, 796-798 ()
+ 15 
+ Tommila, V
+ & Tarkkanen, A
+ Incidence of loss of vision in the healthy eye in amblyopia
+ Br 16 
+ Rahi, J
+, Logan, S
+, Timms, C
+, Russell-Eggitt, I
+ & Taylor, D
+ Risk, causes, and outcomes of 18 visual impairment after loss of vision in the non-amblyopic eye: a population-based study
+ 19 
+ Group, T
+ P
+ E
+ D
+ I
+ A comparison of atropine and patching treatments for moderate 21 amblyopia by patient age, cause of amblyopia, depth of amblyopia, and other factors
+ 22 
+ Holmes, J
+ M
+ et al A randomized trial of prescribed patching regimens for treatment of 24 
+ Wallace, D
+ K
+ et al A randomized trial to evaluate 2 hours of daily patching for strabismic 26 
+ Oliver, M
+, Neumann, R
+, Chaimovitch, Y
+, Gotesman, N
+ & Shimshoni, M
+ Compliance and 28 results of treatment for amblyopia in children more than 8 years old
+ Am J Ophthalmol
+ 102, 29 
+ Holmes, J
+ M
+ et al Effect of age on response to amblyopia treatment in children
+ Arch 31 
+ Wu, C
+ & Hunter, D
+ G
+ Amblyopia: diagnostic and therapeutic options
+ Am J Ophthalmol
+ 33 
+ Flynn, J
+ T
+, Schiffman, J
+, Feuer, W
+ & Corona, A
+ The therapy of amblyopia: an analysis of 35 the results of amblyopia therapy utilizing the pooled data of published studies
+ Trans Am 36 
+ Gilbert, C
+ D
+, Sigman, M
+ & Crist, R
+ E
+ The neural basis of perceptual learning
+ Neuron
+ 38 
+ Maya Vetencourt, J
+ F
+ et al The antidepressant fluoxetine restores plasticity in the adult 40 
+ Sasaki, Y
+, Nanez, J
+ E
+ & Watanabe, T
+ Advances in visual perceptual learning and 42 
+ Astle, A
+ T
+, McGraw, P
+ V
+ & Webb, B
+ S
+ Can human amblyopia be treated in adulthood? 44 
+ Astle, A
+ T
+, Webb, B
+ S
+ & McGraw, P
+ V
+ Can perceptual learning be used to treat 46 amblyopia beyond the critical period of visual development? Ophthalmic Physiol Opt
+ 31, 47 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    
+ Levi, D
+ M
+ & Li, R
+ W
+ Perceptual learning as a potential treatment for amblyopia: a mini-1 
+ Polat, U
+ Restoration of underdeveloped cortical functions: evidence from treatment of adult 3 
+ Wong, A
+ M
+ New concepts concerning the neural mechanisms of amblyopia and their 5 
+ Hubel, D
+ H
+ & Wiesel, T
+ N
+ The period of susceptibility to the physiological effects of 7 unilateral eye closure in kittens
+ J Physiol
+ 206, 419-436 ()
+ 8 
+ Espinosa, J
+ S
+ & Stryker, M
+ P
+ Development and plasticity of the primary visual cortex
+ 9 
+ Sale, A
+ et al Environmental enrichment in adulthood promotes amblyopia recovery through 11 a reduction of intracortical inhibition
+ Nat Neurosci
+ 10, 679-681 ()
+ 12 
+ Sale, A
+, Berardi, N
+ & Maffei, L
+ Enrich the environment to empower the brain
+ Trends 13 
+ Bavelier, D
+, Levi, D
+ M
+, Li, R
+ W
+, Dan, Y
+ & Hensch, T
+ K
+ Removing brakes on adult 15 brain plasticity: from molecular to behavioral interventions
+ J Neurosci
+ 30, 14964-14971 16 
+ Castren, E
+ & Hen, R
+ Neuronal plasticity and antidepressant actions
+ Trends Neurosci
+ 36, 18 
+ Park, K
+ H
+, Hwang, J
+ M
+ & Ahn, J
+ K
+ Efficacy of amblyopia therapy initiated after 9 years 20 
+ Scheiman, M
+ M
+ et al Randomized trial of treatment of amblyopia in children aged 7 to 17 22 
+ Scheiman, M
+ M
+ et al Patching vs atropine to treat amblyopia in children aged 7 to 12 24 
+ Simmers, A
+ J
+ & Gray, L
+ S
+ Improvement of visual function in an adult amblyope
+ Optom 26 
+ Wick, B
+, Wingard, M
+, Cotter, S
+ & Scheiman, M
+ Anisometropic amblyopia: is the patient 28 ever too old to treat? Optom Vis Sci
+ 69, 866-878 ()
+ 29 
+ Bhartiya, P
+, Sharma, P
+, Biswas, N
+ R
+, Tandon, R
+ & Khokhar, S
+ K
+ Levodopa-carbidopa 30 with occlusion in older children with amblyopia
+ J AAPOS
+ 6, 368-372 ()
+ 31 
+ Campos, E
+ C
+ & Fresina, M
+ Medical treatment of amblyopia: present state and perspectives
+ 32 
+ Polat, U
+, Ma-Naim, T
+, Belkin, M
+ & Sagi, D
+ Improving vision in adult amblyopia by 34 perceptual learning
+ Proc Natl Acad Sci U S A
+ 101, 6692-6697 ()
+ 35 
+ Li, J
+ et al Dichoptic training enables the adult amblyopic brain to learn
+ Curr Biol
+ 23, 36 
+ Li, R
+ W
+, Ngo, C
+, Nguyen, J
+ & Levi, D
+ M
+ Video-game play induces plasticity in the 38 visual system of adults with amblyopia
+ PLoS Biol
+ 9, e1001135 ()
+ 39 
+ Buch, H
+, Vinding, T
+, La Cour, M
+ & Nielsen, N
+ V
+ The prevalence and causes of bilateral 40 and unilateral blindness in an elderly urban Danish population
+ The Copenhagen City Eye 41 
+ Maya-Vetencourt, J
+ F
+ et al IGF-1 restores visual cortex plasticity in adult life by reducing 43 
+ Lagas, A
+ K
+ et al Fluoxetine Does Not Enhance Visual Perceptual Learning and Triazolam 45 Specifically Impairs Learning Transfer
+ Front Hum Neurosci
+ 10, 532 ()
+ 46 
+ Chen, P
+ L
+ et al Anisometropic amblyopia treated with spectacle correction alone: possible 47 factors predicting success and time to start patching
+ Am J Ophthalmol
+ 143, 54-60 ()
+ 48 
+ Gao, T
+ Y
+ et al Resolution of anisometropic amblyopia in a 48-year-old with refractive 49 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    
+ Rogers, G
+ L
+, Bremer, D
+ L
+ & Leguire, L
+ E
+ The contrast sensitivity function and 2 
+ Abrahamsson, M
+ & Sjstrand, J
+ Contrast sensitivity and acuity relationship in strabismic 4 
+ Koskela, P
+ U
+ & Alanko, H
+ I
+ Correlations between visual acuity, grating acuity and 6 
+ Zhou, Y
+ et al Perceptual learning improves contrast sensitivity and visual acuity in adults 8 
+ Hussain, Z
+, Webb, B
+ S
+, Astle, A
+ T
+ & McGraw, P
+ V
+ Perceptual learning reduces 10 crowding in amblyopia and in the normal periphery
+ J Neurosci
+ 32, 474-480 ()
+ 11 
+ Bagolini, B
+ Sensorial anomalies in strabismus
+ (suppression, anomalous correspondence, 12 
+ Mantyjarvi, M
+ & Laitinen, T
+ Normal values for the Pelli-Robson contrast sensitivity test
+ J 14 
+ Hohmann, A
+ & Haase, W
+ Development of visual line acuity in humans
+ Ophthalmic Res
+ 16 The authors thank prof
+ Lamberto Maffei for his input to the design of the study
+  20 HJH, MP, LL, SP, SB, EC and HU designed research; HJH, MP, LL, SP, VS, EK, JL, MLL, SB 24 performed research and analyzed the data; HJH, MP, JL,  EC and HU wrote the paper
+  25 S
+ Booms  Shareholder and employee  Herantis Pharma Plc 28 H
+ Huttunen  Shareholder and employee  Herantis Pharma Plc 30 The trial was funded by Herantis Pharma Plc, Helsinki, Finland
+  34 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Figure 
+ Study design and flow
+ (A) Disposition and patients
+ (B) Visit and assessment schedule and 3 Figure 
+ Schematic illustration of the training game task design and composition
+ For details, please 6 see Materials and Methods section: Training paradigm
+ In short, the training program comprised seven 7 different games, Games 1-7, that tapped primarily on visual acuity and contrast sensitivity in multiple 8 attentional and working memory tasks
+ Subjects were presented with a pre-determined selection of games 9 for each training day
+ The total training duration per week was ~
+5 h, excluding the time spent on game 10 parameter adaptation
+ In all tasks, the subject responded with a single keyboard-button press or withheld 11 the response
+ Games 1 and 2 were single- or multi-object visual tracking tasks where complex shaped 12 objects moved along curved paths on screen and the subjects task was to respond whenever they observed 13 a feature-change in any of the objects
+ Different game segments exhibited different numbers of to-be 14 attended objects (attentional loads 1, 2, 3, and )
+ Prior to each game, there was a calibration period with 15 one (Game 1) or two (Game 2) objects during which the magnitude of the feature change (C) was adjusted 16 to yield a detection rate (HR) of -%
+ Games 3 and 4 were visual-tracking games like Games 1 and 2 17 and had an identical calibration procedure and object mobility, but involved only attentional loads of 1 and 18 2, and exhibited in two out of four conditions six feature-wise distinct distractor objects to impose visual 19 crowding
+ Game 5 was a continuous single-object tracking task where the subjects reported the feature 20 changes of a single object (as in Games -)
+ Game 5 had no calibration but rather started with very 21 salient feature changes that in each of the 12 game segments decreased by a factor of 
+6 so that the 22 subjects on average were able to reach segments 7-8 at a detection rate of >%
+ Game 6 was a Go/No-23 Go 1-back working memory task where the subject was presented stimuli with an object in one quadrant 24 lasting ~1 s at a rate of one stimulus in ~
+5 s
+ The subjects task was to indicate whether the object in the 25 current stimulus was different from the one in the previous stimulus regardless of quadrant and object 26 rotation
+ Game 7 was a threshold-stimulus-detection task where semi-transparent complex visual objects 27 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    were presented randomly for 
+1 s and the subjects task was to report perceived stimuli
+ The object 1 transparency was calibrated so that for an alpha-level A, detection rate of 
+5 was obtained at 
+ A
+ 2 During the games, objects were at five equiprobable levels of A so that A were 0, 
+25, 
+5, 
+75, and 
+ 
+ 3 Figure 
+ Improvement of visual acuity
+ (A) Scatter plots showing each individual patients visual 5 acuity (amblyopic eye) at baseline, at week 10 (end of treatment/training) and at week 22 (end of follow-6 up), as measured by ETDRS chart (logMAR)
+ Control group is shown on the left and fluoxetine group on 7 the right
+ The limit of normal visual acuity (logMAR 0) is shown with a hatched line
+ (B) Average change 8 in visual acuity from baseline as measured by ETDRS chart (logMAR) at baseline and after 2, 6, 10, 14 9 and 22 weeks
+ Average +/- 95% CI in each timepoint when visual acuity was determined by ETDRS chart 10 is shown
+ (C) Number of patients per group who showed improved visual acuity by 
+2 or <
+2 logMAR 11 units at week 10 and 22 as compared to baseline
+  12 Figure 
+ Change in binocularity, contrast sensitivity, crowded near visual acuity
+ (A) Number of 14 patients per group who showed change in binocular vision (suppression, anomalous retinal 15 correspondence (ARC) or normal fusion) at week 10 and 22 as compared to baseline
+ Bagolini striated 16 glass test results at 4 meter distance are shown
+ (B) Mean contrast sensitivity (log value) as measured by 17 Pelli-Robson chart
+ Normal contrast sensitivity (
+70) is indicated by a hatched line
+ Only two patients in 18 the whole patient population (n=42) had significant contrast sensitivity impairment (i
+ e
+ 0 log) at baseline
+ 19 Both patients received fluoxetine and improved to almost normal contrast sensitivity
+ (C) Crowded near 20 visual acuity as measured by Landolt C ring charts
+ Normal crowded near visual acuity was considered as 21 
+7 (hatched line)
+ In panels B and C, the direction of improvement is indicated by an arrow
+ (D) Number 22 of patients per group who improved in crowded near visual acuity test at week 10 and 22 as compared to 23 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Diagnosed with amblyopia due to myopic or hyperopic anisometropia, or, congenital esotropia Judged to be otherwise healthy by the Investigator, based on medical history, brief physical examination, Females of childbearing potential were eligible for the study provided (i) they have a negative urine pregnancy test at the screening visit and (ii) they agreed to use adequate contraception (e
+ g
+ oral, depot or implanted hormonal contraception, intrauterine device, surgical sterilization or partner vasectomy) from the screening visit until at least 4 weeks after the last dose of study medication Diagnosed with other reasons of strabismus (than infantile esotropia) as the primary reason for History of any amblyopia therapy in the 2 years before the screening visit Any eye surgery less than 6 months before the screening visit Pregnant, planning to become pregnant during the study, or breast feeding History of depressive illness or treatment with antidepressant medication within 6 months before the Use of psychiatric medication within 6 months before the screening visit Receipt of an experimental treatment for any disease within 4 weeks before the screening visit History or presence of any medical or psychiatric condition or disease, or laboratory abnormality that, in the opinion of the Investigator, may place the patient at unacceptable risk or that could prevent the certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Table 
+ Demographic data and mean visual parameters at baseline
+ 1 Crowded near visual acuity (decimal, amblyopic eye) 
+171 (
+116) 
+165 (
+141) certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Table 
+ Summary of vision improvement in all 42 patients enrolled in the study, observed at any 1 Visual acuity ETDRS 22 / 42 (52%) 7 / 42 patients (17%) achieved normal visual acuity (<
+10 logMAR)
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    The subgroup analysis results were obtained by incorporating the subgroup main effect and treatment-by- 3 subgroup interaction effect into the primary RM ANCOVA model
+  4 1Statistical significance of treatment-by-subgroup interaction in the FAS (LOCF) dataset 5 2Statistical significance of the subgroup and 10-week treatment effects in the FAS (LOCF) dataset from 6 the model without the interaction effect (amblyopia severity, age, gender, compliance) or with the 7 Note: Severe amblyopia was more pronounced with younger, compliant, female and, especially, 14 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    

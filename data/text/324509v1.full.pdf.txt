@@ -1,0 +1,2058 @@
+Analysis of HIV-1 latent reservoir and rebound viruses in a clinical trial of anti-HIV-1 antibody Running Title: Latent and rebound viruses in a trial of 3BNC117 Yehuda Z
+ Cohen1, Julio C
+ C
+ Lorenzi1, Lisa Krassnig1, John P
+ Barton2, Leah Burke3, Joy Pai1, Ching-Lan Lu1, Pilar Mendoza1, Thiago Y
+ Oliveira1, Christopher Sleckman1, Katrina Millard1, Allison L
+ Butler1, Juan P
+ Dizon1, Shiraz A
+ Belblidia1, Maggi Witmer-Pack1, Irina Shimeliovich1, Roy M
+ Gulick3, Michael S
+ Seaman4, Mila Jankovic1, Marina Caskey1,+,*, Michel 1Laboratory of Molecular Immunology, The Rockefeller University, New York, NY 10065, 2Department of Physics and Astronomy, University of California, Riverside, CA 92521, USA
+ 3Division of Infectious Diseases, Weill Cornell Medicine, New York, NY 10065, USA
+ 4Center for Virology and Vaccine Research, Beth Israel Deaconess Medical Center, Boston, MA certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    In the setting of a clinical trial evaluating the anti-HIV-1 antibody 3BNC117, Cohen et al demonstrate that rebound viruses that emerge following interruption of antiretroviral therapy are distinct from circulating latent viruses
+ However, rebound viruses often appear to be A clinical trial was performed to evaluate 3BNC117, a potent anti-HIV-1 antibody, in infected interruption (ATI)
+ The circulating reservoir was evaluated by quantitative and qualitative outgrowth assay (Q2VOA) at entry and after 6 months, prior to ATI
+ Although there were no significant quantitative changes in the size of the reservoir, the composition of circulating reservoir clones varied over the 6-month period before treatment interruption in a manner that did not correlate with antibody sensitivity
+ The neutralization profile obtained from the reservoir by Q2VOA was predictive of time to rebound after ATI, and thus of antibody efficacy
+ Although 3BNC117 binding site amino acid variants found in rebound viruses pre-existed in the latent reservoir, only 3 of 217 rebound viruses were identical to 868 latent viruses
+ Instead many of the rebound viruses appeared to be recombinants, even in individuals with resistant reservoir viruses
+ By incorporating the possibility of recombination, 63% of the rebound viruses could have derived from the observed latent reservoir
+ In conclusion, viruses emerging during ATI in individuals treated with 3BNC117 are not the dominant species found in the circulating certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Small molecule antiretroviral drugs are highly effective in suppressing HIV-1 viremia
+ However, therapy needs to be lifelong because it fails to eliminate a reservoir of latent HIV-1 viruses integrated into the genome of infected cells (Chun et al, 1997; Finzi et al, )
+ Significant efforts are currently focused on therapies, including immunotherapies, to target the reservoir to achieve sustainable ART-free remission (Churchill et al, 2016; Martin and Siliciano, )
+  The immunotherapeutic agents that are clinically most advanced in this respect are newly discovered broad and potent monoclonal antibodies (bNAbs) that recognize the HIV-1 envelope protein expressed on the surface of infected cells and virions (Halper-Stromberg and Nussenzweig, )
+ These new antibodies protect against and suppress infection in mice and macaques (Barouch et al, 2013; Gautam et al, 2016; Halper-Stromberg et al, 2014; Horwitz et al, 2013; Klein et al, 2012; Shingai et al, 2014; Shingai et al, )
+ In human clinical trials, they suppress viremia, and delay viral rebound in the setting of treatment interruption (Bar et al, 2016; Caskey et al, 2015; Caskey et al, 2017; Lynch et al, 2015; Scheid et al, )
+ Most importantly, immunotherapy with bNAbs differs from small molecule drugs in that antibodies can eliminate circulating virus and infected cells through Fc-mediated effector mechanisms (Halper-Stromberg et al, 2014; Igarashi et al, 1999; Lu et al, )
+ In addition, bNAb administration is associated with development of potent antiviral CD8+ T cell immunity in Infusion of VRC01, an anti-CD4-binding site antibody, in the setting of continued ART did not measurably alter the size of the latent reservoir in 6 individuals (Lynch et al, )
+ However, certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    the sensitivity of circulating reservoir viruses to VRC01 was not determined and the relationship of latent viruses to plasma viruses that emerge during an analytical treatment interruption (ATI) Here we evaluate the effects of 3BNC117, a broad and potent anti-CD4-binding site bNAb (Caskey et al, 2015; Scheid et al, 2016; Scheid et al, 2011) in the setting of continued ART administration and during treatment interruption
+ We report on the dynamics of resistant and sensitive viruses in the latent HIV reservoir over a 6-month period prior to ATI, and the underwent ATI (Table 1, Supplementary Table 1, and Supplementary Fig
+ )
+ Participants received four intravenous infusions of 3BNC117 at 30 mg/kg at week 0, week 12, week 24, and week 27 (Fig
+ a)
+ Leukapheresis was performed at week -2 and week 23 to collect PBMC for analyses of the latent reservoir
+ ART was discontinued 2 days after the week 24 infusion
+ Participants were not screened for 3BNC117 sensitivity before enrollment
+ All participants had a viral load of less than 50 copies/ml at day 
+ The median baseline CD4+ T cell count was 688 cells/mm3, with a range of 391-1418 cells/mm
+ Most participants entered the study on a non-observations, 10 of the 15 participants (67%) had baseline bulk outgrowth culture viruses with certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    3BNC117 IC50 titers < 
+0 g/ml (Supplementary Table 1) (Cohen et al, 2017; Scheid et al, Infusions of 3BNC117 were generally well tolerated
+ One serious adverse event deemed not related to 3BNC117 occurred in a participant who required hospitalization for a psychotic episode associated with a new diagnosis of bipolar disorder
+ This participant was subsequently removed from the study before entering the ATI phase
+ Fourteen of the 15 participants who completed the study received all 4 infusions of BNC
+ One participant received only 3 infusions because viral load results demonstrating viral rebound were available before the fourth infusion
+ Twenty-nine adverse events were considered at least possibly related to BNC
+ Among these, 3 were graded as moderate and 1 was graded as severe
+ Complete data on adverse events is provided in Supplementary Table 
+ In many participants, CD4+ T cell counts transiently declined during the ATI period (Supplementary Table 3, Supplementary Fig
+ )
+ The adverse event profile observed here is similar to what has been reported in prior trials with 3BNC117 (Caskey et al, 2015; Scheid et al, )
+ The average half-life of 3BNC117 was 
+7 days, slightly shorter than the half-life of 17 days in HIV-uninfected individuals, but very similar to that previously reported for individuals receiving ART (Caskey et al, 2015; Scheid et al, The quantitative and qualitative viral outgrowth assay (Q2VOA) was used to examine the effect of 3BNC117 on the latent reservoir (Lorenzi et al, )
+ CD4+ T lymphocytes were collected certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    by leukapheresis at weeks -2 and 23, during which time the participants remained on suppressive ART and received 2 infusions of 3BNC117 at weeks 0 and 12, maintaining detectable 3BNC117 serum levels for most of the 23-week period
+ Q2VOA was performed for 10 participants: the first 9 to enter the ATI phase of the trial (with the exception of participant 604, whose virus could not be grown in Q2VOA), and participant 
+ Nine of these participants had samples available from both week -2 and week 23 (participant 609 declined the week 23 leukapheresis)
+  The infectious units per million (IUPM) of latently infected CD4+ T cells among these nine participants at weeks -2 and 23 ranged from 
+ -
+9 and 
+ -
+0, respectively
+ We found no significant changes in IUPM between the two time points for any participant (defined by a > -fold change (Crooks et al, 2015) (Fig
+ b))
+ We conclude that 2 doses of 3BNC117 administered over 23 weeks in the setting of suppressive ART does not measurably reduce the size of the To examine the molecular nature of the replication-competent viruses in the latent reservoir, we analyzed the latent viruses isolated by Q2VOA at weeks -2 and 
+ An average of 
+18 x 108 CD4+ T lymphocytes were cultured per participant per time point, yielding an average of 40 independent env sequences per participant per time point (Supplementary Table )
+ Phylogenetic analysis showed that each participant analyzed was infected with epidemiologically unrelated clade B viruses (Supplementary Fig
+ )
+ The clonal structure of the latent reservoir differed among the participants analyzed and could be divided into three categories: dominated by a single clone (603, 610, 616), dominated by multiple clones (601, 602, 605, 611, 613), or non-certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    clonal (608) (Fig
+ c)
+ Overall, 57% of viral sequences in the reservoir were clonal, which is consistent with prior studies (Bui et al, 2017; Hosmane et al, 2017; Lee et al, 2017; Lorenzi et We observed clonal fluctuations that varied from appearance or disappearance of clones to large alterations in their relative size
+ For example, a clone from participant 602 comprised 11% of the circulating reservoir at week -2, but 42% of the circulating reservoir at week 23 (Fig
+ c)
+ Utilizing the Q2VOA data and Bayesian inference, we inferred the IUPM of each clone at each time point
+ In 5 of the 9 participants, there were statistically significant fluctuations within the circulating reservoir, indicating that the observed changes in the composition of the reservoir between the 2 time points was very unlikely to be the result of finite sampling alone (Fig
+ d)
+ However, these fluctuations were not correlated with the sensitivity of the outgrown viruses to 3BNC117, with some resistant clones decreasing in size, and some sensitive clones increasing in size (Fig
+ d)
+ We conclude that the size of latent reservoir clones in circulation fluctuates over a 6-month interval in individuals treated with 3BNC117 while on suppressive ART, and that this Participants received 2 additional doses of 3BCN117 at weeks 24 and 27 in the setting of ART interruption (Fig
+ a)
+ Viral rebound occurred between 2 and 17 weeks thereafter (Supplementary Fig
+ )
+ The average time to rebound was 
+5 weeks, which was a significant delay compared to historical controls (p < 
+0001) (Fig a)
+ The size of the latent reservoir, as determined by Q2VOA at week 23, did not correlate with time to rebound (Fig
+ b)
+  certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    For many participants, latent viruses exhibited a range of sensitives to 3BNC117 and other bNAbs that target distinct epitopes, as previously shown (Lorenzi et al, 2016) (Supplementary Tables 5 and )
+ For example, viruses obtained by Q2VOA for participant 601 ranged from sensitive (IC50 = 
+45 g/ml) to completely resistant (IC50 > 50 g/ml) (Fig
+ 2c, blue circles)
+ Participant 616, who demonstrated the longest delay in time to rebound, harbored a reservoir that was both highly sensitive and of restricted neutralization diversity (Fig
+ c)
+ The 3BNC117 IC50 titer of the most resistant latent virus isolated from each of these participants correlated with time to rebound (p = 
+04, R2 = 
+44) (Fig
+ d)
+ Thus, pre-existing resistance within the latent To assess the neutralization sensitivity of rebound viruses, single genome analysis (SGA) was performed on plasma, and outgrowth cultures were performed using PBMCs obtained at the time of rebound
+ For 7 participants, outgrown viruses from the time of rebound were identical to plasma SGA viruses (Supplementary Fig
+ )
+ Neutralization titers were then determined for the rebound viruses isolated from culture (Cohen et al, )
+ Overall, the 3BNC117 IC50 titers measured on the rebound viruses were similar to those found among the corresponding individuals latent viruses (Fig
+ 2c, red circles)
+ We conclude that the circulating latent viruses isolated by Q2VOA are representative of the overall neutralization profile present within the certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Plasma rebound viruses isolated by SGA were compared to Q2VOA-derived latent viruses
+ Although some rebound viruses were closely related to reservoir viruses in resistant participants, only 3 of 217 rebound env sequences obtained were identical to the 768 Q2VOA-derived latent viruses isolated from 9 participants (Fig
+ 3 and Supplementary Fig )
+ Moreover, the 3 exceptions were all found in a single individual (participant 602) and represented only 
+7% of all rebound sequences isolated from that participant (Fig
+ )
+ Although the majority of analyzed participants harbored reservoirs dominated by expanded clones, these clones did not emerge in plasma upon treatment interruption
+ Strikingly, even a latent expanded clone with complete resistance to 3BNC117 could not be found among rebound viruses (Fig 3, participant )
+  We compared the sequences of putative 3BNC117 target sites in env obtained from plasma rebound viruses to Q2VOA-derived sequences from the circulating reservoir for the presence of mutations (Bar et al, 2016; Caskey et al, 2015; Cheng et al, 2018; Lynch et al, 2015; Scheid et al, )
+ Despite the lack of overlap between the rebound and latent viruses noted above, rebound viruses demonstrated nucleotide and corresponding amino acid variants in the 3BNC117 binding site that preexisted in the latent reservoir
+ These variants were often present at low frequencies in the reservoir and enriched in rebound viruses (Figure 4, red arrows)
+ For example, all rebound sequences from participant 601 contain an isoleucine at position 459, compared to 33 percent of sequences within the latent reservoir
+ In participant 609, all rebound sequences at position 371 contain a leucine, which is present in just a small minority of latent reservoir sequences
+ On the other hand, there were only 5 cases in which amino acid variants found in the majority of rebound sequences were not detected in the latent reservoir (Figure 4, black arrows)
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    We conclude that while latent and rebound viruses are distinct, 3BNC117 binding site variants present in rebound viruses are frequently pre-existing within the observed latent reservoir
+ Despite the fact that 3BNC117 binding site variant amino acids found in rebound sequences were already present within the latent reservoir, identical reservoir and rebound sequences were exceedingly rare
+ While occasional rebound viruses were very similar to latent viruses, the average Hamming distance between rebound and latent sequences among all participants was 31 Since Q2VOA is limited by its dependence on reactivation of latent viruses in vitro (Bruner et al, 2016; Ho et al, 2013; Hosmane et al, 2017) we also examined latent viruses by a reactivation-independent method
+ Near full-length HIV genome analysis (Bruner et al, 2016; Ho et al, 2013) was performed on week 23 samples for participants with Q2VOA viruses that displayed varying sensitivity, phylogenetic diversity, and clonal structure
+ Between 9  33 near full-length sequences were obtained from each of 6 participants, for a total of 133 sequences
+ For participants 603 and 616, whose reservoirs are dominated by a large clone, 85% of near full-length sequence env genes were identical to Q2VOA-derived viruses
+ For the other 4 participants, the identity between near-full length sequences and Q2VOA-derived viruses ranged from 
+6% to 
+3% (Supplementary Table )
+ However, we found no instance of identical near full-length HIV sequences and rebound viruses among the 5 participants for whom rebound SGA sequences were available (Supplementary Fig
+ )
+ The average Hamming distance between near full-length HIV sequences and rebound viruses was 32 nucleotides, excluding insertions and deletions, certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    which is similar to that for Q2VOA-derived sequences
+ We conclude that intact proviral DNA sequences obtained from circulating CD4+ T cells overlap with sequences obtained by Q2VOA To examine the accumulation of mutations during ATI as a potential explanation for the divergence between latent and rebound viruses, we created a mathematical model to simulate this process (Supplementary Fig
+ )
+ For each participant we computed the frequency of mutations accumulated during the simulated rebound, where the time to rebound in simulation was within one week before or after the observed time to rebound for that participant (Fig
+ 5a gray bars)
+ Using this model and including 868 env sequences from both near full-length sequencing and Q2VOA (Fig
+ 5a blue bars), we found only 7 rebound sequences that were within the number of expected mutations, and all of these were found in participant 
+ We then analyzed latent and rebound sequences for the presence of recombination using the 3SEQ recombination algorithm null hypothesis of clonal evolution) among 7 of the 9 participants tested (Supplementary Table )
+ In the majority of recombination events, the 2 parent sequences derived from the latent reservoir, and the child sequence was a rebound sequence; however, there were instances in which the parents were comprised of either a latent and rebound sequence or two rebound sequences (Supplementary Fig
+ 7, and Supplementary Table )
+ Examples of recombinant rebound viruses are illustrated in Figure b
+ Of note, there was only a single instance among the 27 latent parents involved in recombination events in which the latent virus was an expanded clone
+ In this case (participant 613), the rebound virus that derived from this recombination event accounted for only 1 out of the 12 rebound viruses isolated
+ The other 11 rebound viruses certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    derived from a recombination event between two latent viruses that were singles (Supplementary Fig
+ 7 and Supplementary Tables 8 and )
+ Taking into account the possibility of recombination, the observed distance between latent and rebound viruses decreases, and is often close to the range predicted by the mutation simulation model described above (Fig
+ 5a yellow bars)
+ We conclude that in addition to the accumulation of mutations during ATI, recombination may account for the considerable genetic distance between circulating latent and rebound virus
+  We enrolled 15 HIV-1-infected individuals to receive 2 doses of monoclonal antibody 3BNC117 over a 23-week period while on suppressive ART and to subsequently undergo ART interruption while receiving 2 additional doses of the antibody
+ Our analysis revealed that the size of the circulating reservoir is not altered during the 23-week observation period before ART interruption
+ However, the composition of the circulating latent reservoir varies significantly, in a way that is independent of the sensitivity of the latent viruses to BNC
+ The neutralization profile obtained from the reservoir by Q2VOA is predictive of time to rebound, and rebound virus amino acid variants are frequently pre-existing within the latent reservoir
+ Finally, although the rebounding viruses are typically absent from the circulating latent reservoir, the sequences of Antibody monotherapy in the absence of ART delays viral rebound and selects for antibody-resistant viruses (Caskey et al, 2015; Caskey et al, 2017; Scheid et al, )
+ When participants in a prior trial were pre-screened for sensitivity and received infusions of 3BNC117 at time 0 and 3 weeks, rebound was delayed for an average of 
+7 weeks (Scheid et al, )
+ The same certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    regimen was administered in the setting of the ATI in the current study, but in participants who were not pre-screened for sensitivity
+ Rebound was delayed for an average of 
+5 weeks, and an analysis of the reservoir by Q2VOA revealed that the delay in rebound by 3BNC117 monotherapy is directly related to the sensitivity of T cell derived outgrowth viruses found in the circulating reservoir
+ Thus, the outgrown viruses obtained by Q2VOA are representative of the The size of the latent reservoir remains relatively constant over time, with a calculated half-life of 
+6 years (Crooks et al, 2015; Finzi et al, )
+ However, the discovery of replication-competent clones suggested a dynamic reservoir (Cohn and Nussenzweig, 2017; Kwon and Siliciano, 2017), and clones of T cells bearing integrated viruses have been reported to expand and contract over periods of years (Cohn et al, 2015; Wang et al, )
+ Expression of viral env in individuals on suppressive ART is limited, and neither 3BNC117 nor VRC01 (Lynch et al, 2015) infusion altered the size of the HIV reservoir in this setting
+ Nevertheless, there was significant fluctuation in the distribution of circulating latent viruses over the 6-month period before ART interruption that was not directly related to 3BNC117 sensitivity
+ These changes could be due to homeostatic proliferation, stimulation by cognate antigen, or cell death
+ For example, an influenza-specific CD4+ T cell clone that harbors a latent virus might expand after vaccination or exposure to the pathogen and later contract
+ Alternatively, the observed differences could simply be due to changes in the specific T cell clones that happen to be in circulation at the 2 time points
+ Our finding that the distribution of circulating clones of latent cells can change dramatically in a relatively short period of 6 months indicates that the certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Viral outgrowth cultures utilizing peripheral blood mononuclear cells are limited in that they only capture the circulating fraction of the reservoir that can be reactivated in vitro
+ Nevertheless, even with limited sampling in 6 participants, there was a 
+7% overall overlap between 133 near full-length provirus sequences amplified from DNA, and 513 sequences obtained from viruses emerging in Q2VOA (Supplementary Table 4, Supplementary Fig
+ )
+ Thus, there is good Although we obtained an average of 80 latent HIV-1 sequences for each participant, and 57% of these were clonal, we only found three instances in which the rebounding virus was identical to a virus in the latent reservoir
+ However, 3BNC117 binding site nucleotide and amino acid variants found in rebound sequences were frequently preexisting in the latent reservoir
+ The observations that rebound viruses are unique but contain specific mutations found in the reservoir appear to be at odds but can be explained at least in part by recombination between viruses
+ Recombination is a major source of HIV-1 diversity (Burke, 1997; Robertson et al, )
+ Recombination occurs when two RNA strands from different viruses co-infect a single cell, wherein recombinant genomes are generated by reverse transcriptase template switching
+ HIV-1 recombination rates have been estimated at ~
+4 x 10-5 to 
+38 x 10-4 events per base per generation (Batorsky et al, 2011; Neher and Leitner, 2010; Shriner et al, )
+ This rate is within range of that of reported HIV mutation rates (Abram et al, 2010; Ji and Loeb, 1992; Roberts et al, )
+ Recombination has been found to mediate escape from ART (Kellam and certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Larder, 1995; Moutouh et al, 1996), CD8+ T cells (Ritchie et al, 2014; Streeck et al, 2008), and autologous neutralizing antibodies (Chaillon et al, 2013; Moore et al, 2013; Song et al, )
+  By incorporating the possibility of recombination and estimating the number of mutations that might have occurred during the ATI period for each participant, approximately 63% (137 of 217) of rebounding viruses could have derived from the observed latent reservoir
+ This includes 5 out of 9 individuals in which all or nearly all of the rebound viruses could be accounted for by this approach
+ Thus, in 56% of the individuals studied, the latent viruses detected by Q2VOA or near full-length genome sequencing appeared to have contributed genetic information to the viruses that emerge at the time of rebound
+ Recombinants were found in 3BNC117-sensitive participants and also in the participant with complete resistance to 3BNC117 (608), and therefore these events do not appear to be dependent on bNAb administration
+ While expanded clones comprised 57% of all outgrowth sequences, in only a single instance did a parent recombinant sequence come from an expanded latent clone
+ This could be because expanded T cell clones harbor viruses with reduced fitness, or because of differences in reactivation requirements of latent viruses in vivo and in vitro, such that latent viruses in large clones readily reactivate under in vitro conditions but are more resistant to reactivation in vivo
+ The latter would be consistent with the ability of the clones to expand without undergoing apoptosis or pyroptosis, as typically happens during productive infection
+ Finally, the number of recombination events observed likely represents an underestimate since we only considered recombination events within env
+   It has been suggested that recombination may be important for the survival of reactivated latent viruses, which could exhibit decreased fitness either as a distinguishing characteristic of their certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    ability to remain in a latent state (de Verneuil et al, 2018) or due to increased sensitivity to the host immune response (Immonen et al, )
+ While our findings suggest that recombination does in fact confer a fitness advantage, our data do not allow us to determine when recombination occurred
+ If the recombinants are preexisting but not detected in circulation before the rebound, it would imply that they are either extremely rare in circulation, or that circulating T cells are not representative of the reservoir
+ If recombination occurs at the time of rebound, it may have significant implications for understanding the frequency with which latent viruses are In conclusion, by examining the effects of antibody therapy on the circulating reservoir we document its dynamic nature and its relationship to viruses that emerge upon interruption of An open label study was conducted in HIV-infected participants virologically suppressed on to eligibility criteria
+ All participants provided written informed consent and the study was conducted in accordance with International Conference on Harmonisation Good Clinical Practice guidelines
+ The study protocol was approved by the Institutional Review Boards at The Rockefeller University and Weill Cornell Medical Center
+ Participants were followed for a total of 60 weeks from the time of enrollment
+ The primary outcome measures of the study were certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Study participants were recruited at The Rockefeller University Hospital and Weill Cornell Medical Center Clinical Trials Unit, both in New York, USA
+ All infusions were performed at The Rockefeller University Hospital Eligible participants were HIV-infected adults on ART aged 18-65 years with plasma HIV-1 RNA < 50 copies/ml for 12 months prior to enrollment and < 20 copies/ml at the time of screening, and CD4 count > /l
+ Exclusion criteria included hepatitis B or C infection, history of AIDS-defining illness within 1 year prior to enrollment, CD4 nadir < 200/l, and significant medical conditions or laboratory abnormalities
+ Participants on an NNRTI were switched to an integrase inhibitor-based regimen 4 weeks before treatment interruption to avoid monotherapy as a result of the prolonged half-life of NNRTIs
+ Time to viral rebound was compared to a historical cohort of 52 participants who underwent ATI without intervention in trials performed by the ACTG, as previously described(Scheid et al, )
+  The appropriate volume of 3BNC117 was calculated according to body weight, diluted in sterile normal saline to a total volume of 250 ml, and administered intravenously over 60 min
+ Study participants received 30mg/kg of 3BNC117 on weeks 0, 12, 24, and 27 and remained under monitoring at The Rockefeller University Hospital for 4 hours after each infusion
+ Participants returned for frequent follow up visits for safety assessments, which included physical urinalysis, and pregnancy tests (for women)
+ Leukapheresis was performed at The Rockefeller University Hospital at week -2 and week 
+ ART treatment was interrupted 2 days after the certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    third 3BNC117 infusion (week )
+ ART was reinitiated after two consecutive plasma viral load measurements exceeded 200 copies/ml or CD4 counts fell below /l
+ Plasma HIV-1 RNA levels were monitored weekly during the ATI period and CD4 counts were measured every other week
+ Study investigators evaluated and graded adverse events according to the DAIDS AE Grading Table v
+0 and determined causality
+ The CTCAE v
+03 grading scale was used for reporting and grading adverse events related to infusion reactions
+ Blood samples were collected before and at multiple times after 3BNC117 infusion
+ Samples were processed within 4 hours of collection, and serum and plasma samples were stored at 80 C
+ PBMCs were isolated by density gradient centrifugation
+ The absolute number of peripheral blood mononuclear cells was determined by an automated cell counter (Vi-Cell XR; Beckman Coulter), and cells were The quantitative and qualitative viral outgrowth assay (Q2VOA) was performed utilizing PBMC isolated by leukapheresis, as previously described (Lorenzi et al, )
+ Q2VOA isolates replication-competent viruses from the latent reservoir using a limiting dilution method such that each virus likely originates from a single reactivated infectious provirus
+ The frequency of Supernatants from p24 positive Q2VOA wells were tested against a panel of broadly neutralizing antibodies by the TZM
+bl neutralization assay, as described (Li et al, 2005; Montefiori, )
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Neutralization assays were conducted in a laboratory meeting Good Clinical Laboratory Practice (GCLP) Quality Assurance criteria (Michael S
+ Seaman, Beth Israel Deaconess Medical Center)
+  Serum concentrations of 3BNC117 were measured at multiple time points post-infusion using a Kelsoe et al, )
+  Briefly, serum samples were tested using a primary 1:20 dilution with -fold titration series against HIV-1 Env pseudovirus Q
+d22, which is highly sensitive to neutralization by BNC
+ Env pseudoviruses were produced using an ART-resistant backbone vector that reduces background inhibitory activity of antiretroviral drugs if present in the serum drug product was also tested in every assay set-up using a primary concentration of 10 g/ml with 5-fold titration series
+ The serum concentration of 3BNC117 for each sample was calculated as follows: serum ID50 titer (dilution) x 3BNC117 IC50 titer (g/ml) = serum concentration of 3BNC117 (g/ml)
+ Murine leukemia virus (MuLV) was utilized as a negative control
+ All assays were performed in a laboratory meeting GCLP standards
+ The half-life of 3BNC117 was We performed bulk viral outgrowth cultures using PBMCs harvested at week -2, and from rebound samples as described (Caskey et al, )
+ Sequence analysis on bulk culture viruses certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Single-genome amplification and sequencing of HIV-1 env genes was performed as previously described (Caskey et al, 2017; Salazar-Gonzalez et al, 2008; Scheid et al, )
+ HIV env sequences from p24 positive supernatants were obtained and analyzed as previously described (Lorenzi et al, )
+ Phylogenetic analysis was performed by generating nucleotide alignments using MAFFT (Katoh and Standley, 2013) and posterior phylogenetic trees using PhyML(Guindon et al, 2010), both installed as plugins on Geneious software version 
+2 Genomic DNA was extracted from 1-10106 CD4+ T cells from week 23 leukapheresis samples
+ DNA was subjected to limiting-dilution PCR using semi-nested primers in the gag gene products were visualized and quantified using 1% 96-well E-Gels (Invitrogen)
+ DNA dilutions wherein < 30% of the gag PCR wells were positive, were selected for further analysis because they have a > 90% of probability of containing single copy of HIV DNA in each PCR reaction based on the Poisson distribution
+ Near full-length outer PCR was performed and 1l aliquots subjected to nested env PCR (Ho et al, 2013; Li et al, )
+ Samples containing approximately 2600bp env amplicons were subjected to four segment PCR (A, B, C, D) (Ho et al, )
+ Samples containing either segment A+C, or A+D, or B+C, or B+D were subjected to library preparation and sequencing (Lorenzi et al, )
+ Sequence adapters were removed using certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Cutadapt v
+ 
+1 and read assembly for each virus was performed in three steps: 
+ de novo assembly was performed using Spades v
+ 
+0 to yield long contig files; 
+ Contigs longer than 255bp were aligned to an HIV full genome reference sequence and a consensus sequence was generated using Mira assembly v
+ 
+2; 
+ Reads were re-aligned to the consensus sequence to close gaps, and a final read consensus was generated for each sequence
+ Sequences with double peaks (cutoff consensus identity for any residue <75%), stop codons, or shorter than the expected All env sequences were translated to amino acids and aligned using ClustalW (Larkin et al, )
+ The HXB2 (K03455) env sequence was used as a reference for numbering the amino acids
+ Frequency plots were produced for each env position targeted by 3BNC117 (Zhou et al, Clonal composition shifts between time points in individual participants
+ We employed a statistical test to gauge whether such changes in composition could be explained by finite sampling alone, or whether they indicated real changes in the relative proportions of each clone in the reservoir
+ For this analysis, the counts for all sequences that were only observed once across time points were merged together in a group of singles
+ All other sequence counts were considered separately
+ We used Fishers exact test, implemented in R, to determine whether the counts of each clone (including the singles) observed at each time point were consistent with a single underlying distribution for both time points
+ IUPM were inferred for each clone based on certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    the particular Q2VOA run from which each member of the clone was isolated, as previously described (Lorenzi et al, )
+ Bayesian Markov chain Monte Carlo was implemented in Stan, using four separate chains of 105 iterations
+ The first 50000 iterations for each chain were Rebounding viral sequences were rarely identical to those observed in viral outgrowth assays or by near full-length sequencing
+ To understand whether the differences between rebound sequences and those in the observed reservoir might be attributed to mutations accumulated during the rebound process, or whether the rebound virus was instead likely to have originated from clones that were not previously observed we developed a stochastic mutation simulation The model is based on that of Hill and collaborators (Hill et al, )
+ We begin with a population of 106 latently infected cells
+ Latent viruses can reactivate with rate A, in which case the latently infected cell becomes actively infected
+ The product of these two parameters (the number of latently infected cells and the reactivation rate) gives the approximate number of reactivation events per day
+ Actively infected cells die with rate d, without infecting other cells, or burst with rate b
+ In the latter case the actively infected cell also dies, but the release of virions results in the active infection of c new cells
+ During each burst event, the number of new infected cells c is assumed to follow a Poisson distribution
+ In principle, latently infected cells could also die or homeostatically expand, but we assume that such processes typically occur at much slower rates than the fast replication dynamics of actively-infected cells
+ Therefore, they are not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    expected to contribute substantially to the rebound process, so we do not include these The underlying parameters (reactivation rate, death rate of actively infected cells, etc
+) are not perfectly constrained by experiment, and may vary between individuals
+ Following the approach of Hill et al (Hill et al, 2014), we therefore choose the net growth rate of rebound virus, the ratio of the variance to the mean number of new infected cells during a cell bursting event, and the rate of reactivation of latently infected cells, to be random within the bounds of experimental constraints (see Hill et al for further details)
+ In addition to these parameters, we also allow the net death rate of actively infected cells to vary, which was not included in the analysis of Hill et al We use the results of Markowitz et al (Markowitz et al, 2003) to constrain the death rate of infected cells, which was estimated to be approximately 1 day-1 with a standard deviation of 
+3 In addition to this simple model tracking the number of latent and actively infected cells, we also consider evolution of the virus at the sequence level
+ In order to compare with the data obtained in this study, we assume a sequence length for Env of 2600 base pairs
+ We are specifically interested in the accumulation of de novo mutations during the rebound process
+ We therefore treat the length 2600 sequences as binary, where zeros represent nucleotides that are the same as the source sequence from the latent reservoir, and ones represent a mutation
+ This approximation is justified because the number of mutations observed is much smaller than the length of the sequence, and thus the probability of back mutations is very small
+ We assume that mutations occur during the reverse transcription process, when new infection events occur after an actively certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    infected cell bursts
+ The probability of mutation per site per new infection event is 310-5 (Sanjuan et al, )
+ In addition we allow for the possibility of recombination between sequences, with a probability of crossover between strands of 
+410-5 per site per new infection event (Neher and Leitner, )
+ This probability also implicitly includes the probability of For simplicity, we assume that mutations have no effect on the fitness (or replication rate) of the virus
+ However, it is known that nonsynonymous mutations are often strongly deleterious, including in HIV (Haddox et al, 2016; Loeb et al, 1989; Louie et al, 2018; Zanini et al, )
+ Thus, our assumption of neutrality likely overestimates the true number of mutations that would We simulate this stochastic rebound process until either the number of actively infected cells reaches 3105, corresponding roughly to a threshold of detection for virus in the blood around 200 copies mL-1 (Hill et al, 2014), or until the total simulation time reaches 100 days
+ We repeated these simulations using 104 random sets of parameters as described above
+ Different parameter choices and stochastic effects lead to a range of observed rebound times (Supplementary Fig
+ )
+ At the end of each simulation, we also record the distribution of the number of mutations accumulated during the rebound process
+ As expected, the average number of accumulated mutations in the rebound sequences increases with the rebound time, though certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    In order to conservatively estimate the true distance (in terms of number of mutations) between rebound sequences and those in the reservoir, we counted each observed variant in rebound sequences as a mutation only if it did not match with any of the nucleotides at that site in the observed reservoir sequences
+ This prevents us from computing spuriously large mutational distances simply due to recombination between diverse sequences in the reservoir during the rebound process
+ The estimated rate of recombination in HIV is high, comparable to the mutation rate (Neher and Leitner, 2010), and thus the possibility of recombination cannot be simply neglected
+ Indeed, tests for signatures of recombination (Lam et al, 2018) in the rebound sequences found multiple likely recombination events for all patients in this study except for 603 Code used for these simulations is available on GitHub at Sequence data that support the findings of this study have been deposited in GenBank with the We thank all study participants who devoted time to our research, and members of the Nussenzweig lab, especially Lilian Cohn, Yotam Bar-On, Till Schoofs, and Jill Horowitz for helpful discussions
+ We also thank Steve Smiley, Randy Tressler, Pat Fast, and Harriet Park
+  certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Y
+ Z
+ C
+ is supported by grant KL2 TR001865 from the National Center for Advancing Translational Sciences (NCATS) and grant UL1 TR000043 from the National Institutes of Health (NIH) Clinical and Translational Science Award (CTSA) program
+ This work was supported by NIH/National Institute of Allergy and Infectious Diseases grant U01 AI118536 (M
+ C
+ )
+ This work was supported in part by Bill and Melinda Gates Foundation Collaboration for AIDS Vaccine Discovery (CAVD) grants OPP1092074 and OPP1124068, the NIH Center for Center for AIDS Research (1P30AI124414-01A1) and the Robertson fund
+ M
+ C
+ N
+ is a Howard Y
+ Z
+ C
+, J
+ C
+ C
+ L
+, L
+ B
+, R
+ M
+ G
+, M
+ C
+, and M
+ C
+ N
+ designed the research
+ Y
+ Z
+ C
+, J
+ C
+ C
+L, L
+ K
+, L
+ B
+, C-L
+ L
+, P
+ M
+ D
+, K
+ M
+, A
+ B
+, J
+ P
+ D
+, S
+ A
+ B
+, M
+ W-P
+, I
+ S
+, M
+ S
+ S
+, and M
+ C
+ performed the research
+ Y
+ Z
+ C
+, J
+ C
+ C
+ L
+, L
+ K
+, J
+ P
+ B
+, J
+ P
+, M
+ C
+, and M
+ C
+ N
+ analyzed the data
+ Y
+ Z
+ C
+, There is a patent on 3BNC117 on which M
+ C
+N is an inventor
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Abram, M
+ E
+, A
+ L
+ Ferris, W
+ Shao, W
+ G
+ Alvord, and S
+ H
+ Hughes
+ 
+ Nature, position, and frequency of mutations made in a single cycle of HIV-1 replication
+ J Virol :-
+ Bar, K
+, M
+ Sneller, L
+ Harrison, J
+ Justement, M
+ Petrone, D
+ Salamantes, C
+ Seamon, B
+ Scheinfeld, R
+ Kwan, G
+ Learn, M
+ Proschan, E
+ Kreider, J
+ Blazkova, M
+ Bardsley, E
+ Refsland, M
+ Messer, K
+ Clarridge, N
+ Tustin, P
+ Madden, K
+ Oden, S
+ O'Dell, B
+ Jarocki, A
+ Shiakolas, R
+ Tressler, N
+ Doria-Rose, R
+ T
+ Bailer, J
+ E
+ Ledgerwood, E
+ Capparelli, R
+ Lynch, B
+ S
+ Graham, S
+ Moir, R
+ A
+ Koup, J
+ Mascola, J
+ Hoxie, A
+ S
+ Fauci, P
+ Tebas, and T
+ W
+ Chun
+ 
+ Effect of HIV Antibody VRC01 on Viral Rebound after Treatment Interruption
+ N Barouch, D
+ H
+, J
+ B
+ Whitney, B
+ Moldt, F
+ Klein, T
+ Y
+ Oliveira, J
+ Liu, K
+ E
+ Stephenson, H
+ W
+ Chang, K
+ Shekhar, S
+ Gupta, J
+ P
+ Nkolola, M
+ S
+ Seaman, K
+ M
+ Smith, E
+ N
+ Borducchi, C
+ Cabral, J
+ Y
+ Smith, S
+ Blackmore, S
+ Sanisetty, J
+ R
+ Perry, M
+ Beck, M
+ G
+ Lewis, W
+ Rinaldi, A
+ K
+ Batorsky, R
+, M
+ F
+ Kearney, S
+ E
+ Palmer, F
+ Maldarelli, I
+ M
+ Rouzine, and J
+ M
+ Coffin
+ 
+ Estimate of effective recombination rate and average selection coefficient for HIV in Bruner, K
+ M
+, A
+ J
+ Murray, R
+ A
+ Pollack, M
+ G
+ Soliman, S
+ B
+ Laskey, A
+ A
+ Capoferri, J
+ Lai, M
+ C
+ Strain, S
+ M
+ Lada, R
+ Hoh, Y
+ C
+ Ho, D
+ D
+ Richman, S
+ G
+ Deeks, J
+ D
+ Siliciano, and R
+ F
+ Bui, J
+ K
+, M
+ D
+ Sobolewski, B
+ F
+ Keele, J
+ Spindler, A
+ Musick, A
+ Wiegand, B
+ T
+ Luke, W
+ Shao, S
+ H
+ Hughes, J
+ M
+ Coffin, M
+ F
+ Kearney, and J
+ W
+ Mellors
+ 
+ Proviruses with identical sequences comprise a large fraction of the replication-competent HIV reservoir
+ PLoS Burke, D
+ S
+ 
+ Recombination in HIV: an important viral evolutionary strategy
+ Emerg Infect Caskey, M
+, F
+ Klein, J
+ C
+ Lorenzi, M
+ S
+ Seaman, A
+ P
+ West, Jr
+, N
+ Buckley, G
+ Kremer, L
+ Nogueira, M
+ Braunschweig, J
+ F
+ Scheid, J
+ A
+ Horwitz, I
+ Shimeliovich, S
+ Ben-Avraham, M
+ Witmer-Pack, M
+ Platten, C
+ Lehmann, L
+ A
+ Burke, T
+ Hawthorne, R
+ J
+ Gorelick, B
+ D
+ Walker, T
+ Keler, R
+ M
+ Gulick, G
+ Fatkenheuer, S
+ J
+ Schlesinger, and M
+ C
+ Nussenzweig
+ Caskey, M
+, T
+ Schoofs, H
+ Gruell, A
+ Settler, T
+ Karagounis, E
+ F
+ Kreider, B
+ Murrell, N
+ Pfeifer, L
+ Nogueira, T
+ Y
+ Oliveira, G
+ H
+ Learn, Y
+ Z
+ Cohen, C
+ Lehmann, D
+ Gillor, I
+ Shimeliovich, C
+ Unson-O'Brien, D
+ Weiland, A
+ Robles, T
+ Kummerle, C
+ Wyen, R
+ Levin, M
+ Witmer-Pack, K
+ Eren, C
+ Ignacio, S
+ Kiss, A
+ P
+ West, Jr
+, H
+ Mouquet, B
+ S
+ Zingman, R
+ M
+ Gulick, T
+ Keler, P
+ J
+ Bjorkman, M
+ S
+ Seaman, B
+ H
+ Hahn, G
+ Fatkenheuer, S
+ J
+ Schlesinger, M
+ C
+ Nussenzweig, and F
+ Klein
+ 
+ Antibody 10-1074 suppresses viremia in HIV-1-infected Chaillon, A
+, G
+ A
+ Wagner, N
+ L
+ Hepler, S
+ J
+ Little, S
+ L
+ Kosakovsky Pond, G
+ Caballero, M
+ E
+ Pacold, P
+ Phung, T
+ Wrin, D
+ D
+ Richman, J
+ O
+ Wertheim, and D
+ M
+ Smith
+ 
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Cheng, H
+ D
+, S
+ K
+ Grimm, M
+ S
+ Gilman, L
+ C
+ Gwom, D
+ Sok, C
+ Sundling, G
+ Donofrio, G
+ B
+ K
+ Hedestam, M
+ Bonsignori, B
+ F
+ Haynes, T
+ P
+ Lahey, I
+ Maro, C
+ F
+ von Reyn, M
+ K
+ Gorny, S
+ Zolla-Pazner, B
+ D
+ Walker, G
+ Alter, D
+ R
+ Burton, M
+ L
+ Robb, S
+ J
+ Krebs, M
+ S
+ Seaman, C
+ neutralization breadth at the HIV-1 envelope CD4-binding site
+ JCI Insight 3: Chun, T
+ W
+, L
+ Carruth, D
+ Finzi, X
+ Shen, J
+ A
+ DiGiuseppe, H
+ Taylor, M
+ Hermankova, K
+ Chadwick, J
+ Margolick, T
+ C
+ Quinn, Y
+ H
+ Kuo, R
+ Brookmeyer, M
+ A
+ Zeiger, P
+ Barditch-Crovo, and R
+ F
+ Siliciano
+ 
+ Quantification of latent tissue reservoirs and total body Churchill, M
+ J
+, S
+ G
+ Deeks, D
+ M
+ Margolis, R
+ F
+ Siliciano, and R
+ Swanstrom
+ 
+ HIV reservoirs: what, where and how to target them
+ Nat Rev Microbiol :-
+ Cohen, Y
+ Z
+, J
+ C
+ C
+ Lorenzi, M
+ S
+ Seaman, L
+ Nogueira, T
+ Schoofs, L
+ Krassnig, A
+ Butler, K
+ Millard, T
+ Fitzsimons, X
+ Daniell, J
+ P
+ Dizon, I
+ Shimeliovich, D
+ C
+ Montefiori, M
+ Caskey, antibodies against clade B clinical isolates produced in peripheral blood mononuclear Cohn, L
+ B
+, and M
+ C
+ Nussenzweig
+ 
+ HIV: Persistence through division
+ J Exp Med :-Cohn, L
+ B
+, I
+ T
+ Silva, T
+ Y
+ Oliveira, R
+ A
+ Rosales, E
+ H
+ Parrish, G
+ H
+ Learn, B
+ H
+ Hahn, J
+ L
+ Czartoski, M
+ J
+ McElrath, C
+ Lehmann, F
+ Klein, M
+ Caskey, B
+ D
+ Walker, J
+ D
+ Siliciano, R
+ F
+ Siliciano, M
+ Jankovic, and M
+ C
+ Nussenzweig
+ 
+ HIV-1 integration landscape during latent and Crooks, A
+ M
+, R
+ Bateson, A
+ B
+ Cope, N
+ P
+ Dahl, M
+ K
+ Griggs, J
+ D
+ Kuruc, C
+ L
+ Gay, J
+ J
+ Eron, D
+ M
+ Margolis, R
+ J
+ Bosch, and N
+ M
+ Archin
+ 
+ Precise Quantitation of the Latent HIV-1 de Verneuil, A
+, J
+ Migraine, F
+ Mammano, J
+ M
+ Molina, S
+ Gallien, H
+ Mouquet, A
+ J
+ Hance, F
+ Clavel, and J
+ Dutrieux
+ 
+ Genetically Intact but Functionally Impaired HIV-1 Env Finzi, D
+, J
+ Blankson, J
+ D
+ Siliciano, J
+ B
+ Margolick, K
+ Chadwick, T
+ Pierson, K
+ Smith, J
+ Lisziewicz, F
+ Lori, C
+ Flexner, T
+ C
+ Quinn, R
+ E
+ Chaisson, E
+ Rosenberg, B
+ Walker, S
+ Gange, J
+ Gallant, and R
+ F
+ Siliciano
+ 
+ Latent infection of CD4+ T cells provides a mechanism for lifelong persistence of HIV-1, even in patients on effective combination therapy
+ Nat Finzi, D
+, M
+ Hermankova, T
+ Pierson, L
+ M
+ Carruth, C
+ Buck, R
+ E
+ Chaisson, T
+ C
+ Quinn, K
+ Chadwick, J
+ Margolick, R
+ Brookmeyer, J
+ Gallant, M
+ Markowitz, D
+ D
+ Ho, D
+ D
+ Richman, and R
+ F
+ Siliciano
+ 
+ Identification of a reservoir for HIV-1 in patients on highly active Gautam, R
+, Y
+ Nishimura, A
+ Pegu, M
+ C
+ Nason, F
+ Klein, A
+ Gazumyan, J
+ Golijanin, A
+ Buckler-White, R
+ Sadjadpour, K
+ Wang, Z
+ Mankoff, S
+ D
+ Schmidt, J
+ D
+ Lifson, J
+ R
+ Mascola, M
+ C
+ Nussenzweig, and M
+ A
+ Martin
+ 
+ A single injection of anti-HIV-1 antibodies protects certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Guindon, S
+, J
+ F
+ Dufayard, V
+ Lefort, M
+ Anisimova, W
+ Hordijk, and O
+ Gascuel
+ 
+ New Haddox, H
+ K
+, A
+ S
+ Dingens, and J
+ D
+ Bloom
+ 
+ Experimental Estimation of the Effects of All Amino-Acid Mutations to HIV's Envelope Protein on Viral Replication in Cell Culture
+ Halper-Stromberg, A
+, C
+ L
+ Lu, F
+ Klein, J
+ A
+ Horwitz, S
+ Bournazos, L
+ Nogueira, T
+ R
+ Eisenreich, C
+ Liu, A
+ Gazumyan, U
+ Schaefer, R
+ C
+ Furze, M
+ S
+ Seaman, R
+ Prinjha, A
+ Tarakhovsky, J
+ V
+ Ravetch, and M
+ C
+ Nussenzweig
+ 
+ Broadly neutralizing antibodies and viral inducers decrease rebound from HIV-1 latent reservoirs in humanized mice
+ Cell :-
+ Halper-Stromberg, A
+, and M
+ C
+ Nussenzweig
+ 
+ Towards HIV-1 remission: potential roles Hill, A
+ L
+, D
+ I
+ Rosenbloom, F
+ Fu, M
+ A
+ Nowak, and R
+ F
+ Siliciano
+ 
+ Predicting the outcomes of treatment to eradicate the latent reservoir for HIV-
+ Proc Natl Acad Sci U S A Ho, Y
+ C
+, L
+ Shan, N
+ N
+ Hosmane, J
+ Wang, S
+ B
+ Laskey, D
+ I
+ Rosenbloom, J
+ Lai, J
+ N
+ Blankson, J
+ D
+ Horwitz, J
+ A
+, A
+ Halper-Stromberg, H
+ Mouquet, A
+ D
+ Gitlin, A
+ Tretiakova, T
+ R
+ Eisenreich, M
+ Malbec, S
+ Gravemann, E
+ Billerbeck, M
+ Dorner, H
+ Buning, O
+ Schwartz, E
+ Knops, R
+ Kaiser, M
+ S
+ Seaman, J
+ M
+ Wilson, C
+ M
+ Rice, A
+ Ploss, P
+ J
+ Bjorkman, F
+ Klein, and M
+ C
+ Nussenzweig
+ 
+ HIV-1 suppression and durable control by combining single broadly neutralizing antibodies and antiretroviral drugs in humanized mice
+ Proc Natl Acad Sci U Hosmane, N
+ N
+, K
+ J
+ Kwon, K
+ M
+ Bruner, A
+ A
+ Capoferri, S
+ Beg, D
+ I
+ Rosenbloom, B
+ F
+ Keele, Y
+ C
+ Ho, J
+ D
+ Siliciano, and R
+ F
+ Siliciano
+ 
+ Proliferation of latently infected CD4+ T cells carrying replication-competent HIV-1: Potential role in latent reservoir dynamics
+ J Exp Igarashi, T
+, C
+ Brown, A
+ Azadegan, N
+ Haigwood, D
+ Dimitrov, M
+ A
+ Martin, and R
+ Shibata
+ Immonen, T
+ T
+, J
+ M
+ Conway, E
+ O
+ Romero-Severson, A
+ S
+ Perelson, and T
+ Leitner
+ 
+ Recombination Enhances HIV-1 Envelope Diversity by Facilitating the Survival of Latent Genomic Fragments in the Plasma Virus Population
+ PLoS Comput Biol :e
+ Ji, J
+ P
+, and L
+ A
+ Loeb
+ 
+ Fidelity of HIV-1 reverse transcriptase copying RNA in vitro
+ Katoh, K
+, and D
+ M
+ Standley
+ 
+ MAFFT multiple sequence alignment software version 7: Kellam, P
+, and B
+ A
+ Larder
+ 
+ Retroviral recombination can lead to linkage of reverse Klein, F
+, A
+ Halper-Stromberg, J
+ A
+ Horwitz, H
+ Gruell, J
+ F
+ Scheid, S
+ Bournazos, H
+ Mouquet, L
+ A
+ Spatz, R
+ Diskin, A
+ Abadir, T
+ Zang, M
+ Dorner, E
+ Billerbeck, R
+ N
+ Labitt, C
+ Gaebler, P
+ Marcovecchio, R
+ B
+ Incesu, T
+ R
+ Eisenreich, P
+ D
+ Bieniasz, M
+ S
+ Seaman, P
+ J
+ Bjorkman, certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    J
+ V
+ Ravetch, A
+ Ploss, and M
+ C
+ Nussenzweig
+ 
+ HIV therapy by a combination of Kwon, K
+ J
+, and R
+ F
+ Siliciano
+ 
+ HIV persistence: clonal expansion of cells in the latent Lam, H
+ M
+, O
+ Ratmann, and M
+ F
+ Boni
+ 
+ Improved Algorithmic Complexity for the 3SEQ Larkin, M
+ A
+, G
+ Blackshields, N
+ P
+ Brown, R
+ Chenna, P
+ A
+ McGettigan, H
+ McWilliam, F
+ Valentin, I
+ M
+ Wallace, A
+ Wilm, R
+ Lopez, J
+ D
+ Thompson, T
+ J
+ Gibson, and D
+ G
+ Higgins
+ Lee, G
+ Q
+, N
+ Orlova-Fink, K
+ Einkauf, F
+ Z
+ Chowdhury, X
+ Sun, S
+ Harrington, H
+ H
+ Kuo, S
+ Hua, H
+ R
+ Chen, Z
+ Ouyang, K
+ Reddy, K
+ Dong, T
+ Ndung'u, B
+ D
+ Walker, E
+ S
+ Rosenberg, X
+ G
+ Yu, and M
+ Lichterfeld
+ 
+ Clonal expansion of genome-intact HIV-1 in functionally Li, B
+, A
+ D
+ Gladden, M
+ Altfeld, J
+ M
+ Kaldor, D
+ A
+ Cooper, A
+ D
+ Kelleher, and T
+ M
+ Allen
+ 
+ Li, M
+, F
+ Gao, J
+ R
+ Mascola, L
+ Stamatatos, V
+ R
+ Polonis, M
+ Koutsoukos, G
+ Voss, P
+ Goepfert, P
+ Gilbert, K
+ M
+ Greene, M
+ Bilska, D
+ L
+ Kothe, J
+ F
+ Salazar-Gonzalez, X
+ Wei, J
+ M
+ Decker, B
+ H
+ Hahn, and D
+ C
+ Montefiori
+ 
+ Human immunodeficiency virus type 1 env clones from acute and early subtype B infections for standardized assessments of vaccine-Loeb, D
+ D
+, R
+ Swanstrom, L
+ Everitt, M
+ Manchester, S
+ E
+ Stamper, and C
+ A
+ Hutchison, rd
+ Lorenzi, J
+ C
+, Y
+ Z
+ Cohen, L
+ B
+ Cohn, E
+ F
+ Kreider, J
+ P
+ Barton, G
+ H
+ Learn, T
+ Oliveira, C
+ L
+ Lavine, J
+ A
+ Horwitz, A
+ Settler, M
+ Jankovic, M
+ S
+ Seaman, A
+ K
+ Chakraborty, B
+ H
+ Hahn, M
+ Caskey, and M
+ C
+ Nussenzweig
+ 
+ Paired quantitative and qualitative assessment of Louie, R
+ H
+ Y
+, K
+ J
+ Kaczorowski, J
+ P
+ Barton, A
+ K
+ Chakraborty, and M
+ R
+ McKay
+ 
+ Fitness landscape of the human immunodeficiency virus envelope protein that is targeted by Lu, C
+ L
+, D
+ K
+ Murakowski, S
+ Bournazos, T
+ Schoofs, D
+ Sarkar, A
+ Halper-Stromberg, J
+ A
+ Horwitz, L
+ Nogueira, J
+ Golijanin, A
+ Gazumyan, J
+ V
+ Ravetch, M
+ Caskey, A
+ K
+ Chakraborty, and Lynch, R
+ M
+, E
+ Boritz, E
+ E
+ Coates, A
+ DeZure, P
+ Madden, P
+ Costner, M
+ E
+ Enama, S
+ Plummer, L
+ Holman, C
+ S
+ Hendel, I
+ Gordon, J
+ Casazza, M
+ Conan-Cibotti, S
+ A
+ Migueles, R
+ Tressler, R
+ T
+ Bailer, A
+ McDermott, S
+ Narpala, S
+ O'Dell, G
+ Wolf, J
+ D
+ Lifson, B
+ A
+ Freemire, R
+ J
+ Gorelick, J
+ P
+ Pandey, S
+ Mohan, N
+ Chomont, R
+ Fromentin, T
+ W
+ Chun, A
+ S
+ Fauci, R
+ M
+ Schwartz, R
+ A
+ Koup, D
+ C
+ Douek, Z
+ Hu, E
+ Capparelli, B
+ S
+ Graham, J
+ R
+ Mascola, J
+ E
+ Ledgerwood, and V
+ R
+ C
+ S
+ Team
+ 
+ Virologic effects of broadly certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Markowitz, M
+, M
+ Louie, A
+ Hurley, E
+ Sun, M
+ Di Mascio, A
+ S
+ Perelson, and D
+ D
+ Ho
+ 
+ A immunodeficiency virus type 1 replication dynamics and T-cell decay in vivo
+ J Virol Martin, A
+ R
+, and R
+ F
+ Siliciano
+ 
+ Progress Toward HIV Eradication: Case Reports, Current Efforts, and the Challenges Associated with Cure
+ Annu Rev Med :-
+ Montefiori, D
+ C
+ 
+ Evaluating neutralizing antibodies against HIV, SIV, and SHIV in luciferase Moore, P
+ L
+, D
+ Sheward, M
+ Nonyane, N
+ Ranchobe, T
+ Hermanus, E
+ S
+ Gray, S
+ S
+ Abdool Karim, C
+ Williamson, and L
+ Morris
+ 
+ Multiple pathways of escape from HIV broadly cross-Moutouh, L
+, J
+ Corbeil, and D
+ D
+ Richman
+ 
+ Recombination leads to the rapid emergence of HIV-1 dually resistant mutants under selective drug pressure
+ Proc Natl Acad Sci U S A Neher, R
+ A
+, and T
+ Leitner
+ 
+ Recombination rate and selection strength in HIV intra-Nishimura, Y
+, R
+ Gautam, T
+ W
+ Chun, R
+ Sadjadpour, K
+ E
+ Foulds, M
+ Shingai, F
+ Klein, A
+ Gazumyan, J
+ Golijanin, M
+ Donaldson, O
+ K
+ Donau, R
+ J
+ Plishka, A
+ Buckler-White, M
+ S
+ Seaman, J
+ D
+ Lifson, R
+ A
+ Koup, A
+ S
+ Fauci, M
+ C
+ Nussenzweig, and M
+ A
+ Martin
+ 
+ Early antibody therapy can induce long-lasting immunity to SHIV
+ Nature :-
+ Ritchie, A
+ J
+, F
+ Cai, N
+ M
+ Smith, S
+ Chen, H
+ Song, S
+ Brackenridge, S
+ S
+ Abdool Karim, B
+ T
+ escape from primary CD8+ T cells in acute HIV-1 infection
+ Retrovirology :
+ Roberts, J
+ D
+, K
+ Bebenek, and T
+ A
+ Kunkel
+ 
+ The accuracy of reverse transcriptase from Robertson, D
+ L
+, P
+ M
+ Sharp, F
+ E
+ McCutchan, and B
+ H
+ Hahn
+ 
+ Recombination in HIV-
+ Rosenbloom, D
+ I
+, O
+ Elliott, A
+ L
+ Hill, T
+ J
+ Henrich, J
+ M
+ Siliciano, and R
+ F
+ Siliciano
+ 
+ to the Latent Reservoir for Human Immunodeficiency Virus-
+ Open Forum Infect Dis Salazar-Gonzalez, J
+ F
+, E
+ Bailes, K
+ T
+ Pham, M
+ G
+ Salazar, M
+ B
+ Guffey, B
+ F
+ Keele, C
+ A
+ Derdeyn, P
+ Farmer, E
+ Hunter, S
+ Allen, O
+ Manigart, J
+ Mulenga, J
+ A
+ Anderson, R
+ Swanstrom, B
+ F
+ Haynes, G
+ S
+ Athreya, B
+ T
+ Korber, P
+ M
+ Sharp, G
+ M
+ Shaw, and B
+ H
+ Hahn
+ 
+ Sanjuan, R
+, M
+ R
+ Nebot, N
+ Chirico, L
+ M
+ Mansky, and R
+ Belshaw
+ 
+ Viral mutation rates
+ J Sarzotti-Kelsoe, M
+, R
+ T
+ Bailer, E
+ Turk, C
+ L
+ Lin, M
+ Bilska, K
+ M
+ Greene, H
+ Gao, C
+ A
+ Todd, D
+ A
+ Ozaki, M
+ S
+ Seaman, J
+ R
+ Mascola, and D
+ C
+ Montefiori
+ 
+ Optimization and validation of the TZM-bl assay for standardized assessments of neutralizing antibodies Scheid, J
+ F
+, J
+ A
+ Horwitz, Y
+ Bar-On, E
+ F
+ Kreider, C
+ L
+ Lu, J
+ C
+ Lorenzi, A
+ Feldmann, M
+ Braunschweig, L
+ Nogueira, T
+ Oliveira, I
+ Shimeliovich, R
+ Patel, L
+ Burke, Y
+ Z
+ Cohen, S
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Hadrigan, A
+ Settler, M
+ Witmer-Pack, A
+ P
+ West, Jr
+, B
+ Juelg, T
+ Keler, T
+ Hawthorne, B
+ Zingman, R
+ M
+ Gulick, N
+ Pfeifer, G
+ H
+ Learn, M
+ S
+ Seaman, P
+ J
+ Bjorkman, F
+ Klein, S
+ J
+ Schlesinger, B
+ D
+ Walker, B
+ H
+ Hahn, and M
+ C
+ Nussenzweig
+ 
+ HIV-1 antibody Scheid, J
+ F
+, H
+ Mouquet, B
+ Ueberheide, R
+ Diskin, F
+ Klein, T
+ Y
+ Oliveira, J
+ Pietzsch, D
+ Fenyo, A
+ Abadir, K
+ Velinzon, A
+ Hurley, S
+ Myung, F
+ Boulad, P
+ Poignard, D
+ R
+ Burton, F
+ Pereyra, D
+ D
+ Ho, B
+ D
+ Walker, M
+ S
+ Seaman, P
+ J
+ Bjorkman, B
+ T
+ Chait, and M
+ C
+ Nussenzweig
+ 
+ Sequence and structural convergence of broad and potent HIV antibodies that Shingai, M
+, O
+ K
+ Donau, R
+ J
+ Plishka, A
+ Buckler-White, J
+ R
+ Mascola, G
+ J
+ Nabel, M
+ C
+ Nason, D
+ Montefiori, B
+ Moldt, P
+ Poignard, R
+ Diskin, P
+ J
+ Bjorkman, M
+ A
+ Eckhaus, F
+ Klein, H
+ Mouquet, J
+ C
+ Cetrulo Lorenzi, A
+ Gazumyan, D
+ R
+ Burton, M
+ C
+ Nussenzweig, M
+ A
+ Martin, and Y
+ Nishimura
+ 
+ Passive transfer of modest titers of potent and broadly neutralizing anti-HIV monoclonal antibodies block SHIV infection in macaques
+ J Exp Shingai, M
+, Y
+ Nishimura, F
+ Klein, H
+ Mouquet, O
+ K
+ Donau, R
+ Plishka, A
+ Buckler-White, M
+ Seaman, M
+ Piatak, Jr
+, J
+ D
+ Lifson, D
+ S
+ Dimitrov, M
+ C
+ Nussenzweig, and M
+ A
+ Martin
+ Shriner, D
+, A
+ G
+ Rodrigo, D
+ C
+ Nickle, and J
+ I
+ Mullins
+ 
+ Pervasive genomic recombination Song, H
+, E
+ E
+ Giorgi, V
+ V
+ Ganusov, F
+ Cai, G
+ Athreya, H
+ Yoon, O
+ Carja, B
+ Hora, P
+ Hraber, E
+ Romero-Severson, C
+ Jiang, X
+ Li, S
+ Wang, H
+ Li, J
+ F
+ Salazar-Gonzalez, M
+ G
+ Salazar, N
+ Goonetilleke, B
+ F
+ Keele, D
+ C
+ Montefiori, M
+ S
+ Cohen, G
+ M
+ Shaw, B
+ H
+ Hahn, A
+ J
+ McMichael, B
+ F
+ Haynes, B
+ Korber, T
+ Bhattacharya, and F
+ Gao
+ 
+ Tracking HIV-1 recombination to resolve its contribution to HIV-1 evolution in natural infection
+ Nat Streeck, H
+, B
+ Li, A
+ F
+ Poon, A
+ Schneidewind, A
+ D
+ Gladden, K
+ A
+ Power, D
+ Daskalakis, S
+ Bazner, R
+ Zuniga, C
+ Brander, E
+ S
+ Rosenberg, S
+ D
+ Frost, M
+ Altfeld, and T
+ M
+ Allen
+ 
+ Immune-driven recombination and loss of control after HIV superinfection
+ J Exp Wang, Z
+, E
+ E
+ Gurule, T
+ P
+ Brennan, J
+ M
+ Gerold, K
+ J
+ Kwon, N
+ N
+ Hosmane, M
+ R
+ Kumar, S
+ A
+ Beg, A
+ A
+ Capoferri, S
+ C
+ Ray, Y
+ C
+ Ho, A
+ L
+ Hill, J
+ D
+ Siliciano, and R
+ F
+ Siliciano
+ 
+ Zanini, F
+, V
+ Puller, J
+ Brodin, J
+ Albert, and R
+ A
+ Neher
+ 
+ In vivo mutation rates and the Zhou, T
+, J
+ Zhu, X
+ Wu, S
+ Moquin, B
+ Zhang, P
+ Acharya, I
+ S
+ Georgiev, H
+ R
+ Altae-Tran, G
+ Y
+ Chuang, M
+ G
+ Joyce, Y
+ D
+ Kwon, N
+ S
+ Longo, M
+ K
+ Louder, T
+ Luongo, K
+ McKee, C
+ A
+ Schramm, J
+ Skinner, Y
+ Yang, Z
+ Yang, Z
+ Zhang, A
+ Zheng, M
+ Bonsignori, B
+ F
+ Haynes, J
+ F
+ Scheid, M
+ C
+ Nussenzweig, M
+ Simek, D
+ R
+ Burton, W
+ C
+ Koff, N
+ C
+ S
+ Program, J
+ C
+ Mullikin, M
+ Connors, L
+ Shapiro, G
+ J
+ Nabel, J
+ R
+ Mascola, and P
+ D
+ Kwong
+ 
+ certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    Figure 
+ Changes in the circulating latent reservoir prior to treatment interruption
+ a, Study design, blue arrows represent 3BNC117 infusions
+ b, Change in infectious units per million (IUPM) of HIV-1 between week -2 and week 23, as determined by QVOA
+ There were no significant changes in IUPM between these two time points for any participant (defined by a > 6-fold change (Crooks et al, ))
+ c, Pie charts depicting the distribution of culture-derived env sequences from the 2 time points
+ The number in the inner circle indicates the total number of env sequences analyzed
+ White represents sequences isolated only once across both time points (singles), and colored areas represent identical sequences that appear more than once (clones)
+ The size of the pie slice is proportional to the size of the clone
+ Red arrows denote clones that change in size between the 2 time points
+ d, Fluctuations within the latent reservoirs certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    of each participant
+ Changes are measured in log2 fold change of IUPM between week -2 and week 
+ Full bars represent clones and empty bars represent all singles as one group
+ P values from Fishers exact test (two-sided) are shown for participants with significant changes between the 2 time points
+ *** represents p-values < 
+001, * represents p-values < 
+ 
+ Colored boxes below each bar represent the 3BNC117 IC50 titer of the particular clone
+ NT = Not tested
+ Figure 
+ Time to rebound following treatment interruption
+ a, Kaplan-Meier plot summarizing viral rebound in 52 ACTG trial participants who underwent ATI without antibody treatment (black), and the 15 participants (red) who underwent ATI with 3BNC117 infusions
+ Y-axis indicates percentage of participants with viral loads below 200 RNA copies/ml, x-axis indicates weeks after ATI
+ The p-value is based on the Log-rank test (two-sided)
+ b, Dot plot representing the relationship between IUPM at week 23 and time to rebound for all participants for whom Q2VOA was performed
+ The p-value was calculated using the Spearman correlation (two-sided)
+ c, Dot plot representing the 3BNC117 sensitivities of latent and rebound viruses
+ Q2VOA-derived latent viruses are shown as blue circles and culture-derived rebound viruses as red circles
+ Culture-derived rebound viruses could not be obtained from participants 611, 613, and 
+ d, Dot plot representing the correlation between 3BNC117 sensitivity of the most resistant virus isolated by Q2VOA, and the week of rebound
+ The p-value was calculated using Figure 
+ Phylogenetic trees of latent and rebound env sequences
+ Maximum likelihood phylogenetic trees of full-length env sequences of viruses isolated from Q2VOA outgrowth cultures and rebound SGA
+ Four participants with varying 3BNC117 sensitivity, clonal structure, certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    and diversity are shown
+ Participants are categorized as 3BNC117 resistant or sensitive based on the presence of any resistant (IC50 > 
+0 g/ml) viruses within the reservoir
+ Q2VOA-derived viruses from week -2 are represented as empty black rectangles, viruses from week 23 as full black rectangles, and rebound SGA viruses as red rectangles
+ Asterisks indicate nodes with significant bootstrap values (bootstrap support  %)
+ Clones are denoted by colored rectangles beside the phylogenetic tree
+ These colors correspond to colors in the pie charts in Figure c
+ Figure 
+ Amino acid variants at 3BNC117 binding sites in latent and rebound viruses
+ Chart illustrates amino acid changes in and around known 3BNC117 contact residues in Env (amino acid positions 274283, 364374, and 455 to 471), according to HXB2 numbering
+ + symbols represent 3BNC117 contact sites confirmed by crystal structures
+ Q2 indicates latent viruses isolated by Q2VOA, and RB represents rebound viruses isolated by SGA
+ Each amino acid is represented by a color, and the frequency of each amino acid is indicated by the height of the rectangle
+ Red arrows represent instances in which an amino acid found at low frequency in latent viruses became a majority amino acid in rebound viruses, and black arrows represent instances in which a majority rebound virus amino acid variant was not found in latent viruses
+  Figure 
+ Relationship between latent and rebound sequences
+ a, Histograms show the percentage of env sequences (y-axis) and nucleotide distance (x-axis)
+ The blue bars represent the observed Hamming distance between rebound and latent viruses
+ The grey bars represent the predicted distance between rebound and latent viruses based on a simulation of mutation accumulation during the ATI period for each participant
+ The yellow bars represent the minimal certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    possible distance between the rebound and latent viruses including the possibility of recombination
+ b, Examples of putative recombination events
+ Parent env sequences are represented in red or blue and child sequences in combined red and blue
+ LR denotes latent reservoir sequences and RB denotes rebound sequences
+ The recombination breakpoints shown are the midpoints of the ranges determined by the 3SEQ algorithm (Supplementary Table )
+ White lines represent point mutations unique to the child sequence
+ Parent and child sequences shown here are marked with green and red stars, respectively, in the phylogenetic trees in certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    274 275 276 277 278 279 280 281 282 283 364 365 366 367 368 369 370 371 372 373 374 455 456 457 458 459 460 461 462 463 464464a464b464c464d464e 464f 465 466 467 468 469 470 274 275 276 277 278 279 280 281 282 283 364 365 366 367 368 369 370 371 372 373 374 455 456 457 458 459 460 461 462 463 464 464a464b 465 466 467 468 469 470 274 275 276 277 278 279 280 281 282 283 364 365 366 367 368 369 370 371 372 373 374 455 456 457 458 459 460 461 462 463 464 465 466 467 468 469 470 274 275 276 277 278 279 280 281 282 283 364 365 366 367 368 369 370 371 372 373 374 455 456 457 458 459 460 461 462 462a462b462c462d 463 464 465 466 467 468 469 470 274 275 276 277 278 279 280 281 282 283 364 365 366 367 368 369 370 371 372 373 374 455 456 457 458 459 460 461 462 462a462b462c 463 464 465 466 467 468 469 470 D E C M R K S T F Y N274 275 276 277 278 279 280 281 282 283 364 365 366 367 368 369 370 371 372 373 374 455 456 457 458 459 460 461 462 463 464 464a464b464c464d 465 466 467 468 469 470 274 275 276 277 278 279 280 281 282 283 364 365 366 367 368 369 370 371 372 373 374 455 456 457 458 459 460 461 462 463 464 464a464b 465 466 467 468 469 470 274 275 276 277 278 279 280 281 282 283 364 365 366 367 368 369 370 371 372 373 374 455 456 457 458 459 460 460a460b 461 462 463 464 465 466 467 468 469 470 274 275 276 277 278 279 280 281 282 283 364 365 366 367 368 369 370 371 372 373 374 455 456 457 458 459 460 461 462 463 464 465 465a465b 466 467 468 469 470 certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    HIV RNA <50 copies/ml (day 0)  n (%) 15 (100) certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which was notthis version posted May 25, 
+ ;    

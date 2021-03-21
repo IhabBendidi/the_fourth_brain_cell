@@ -1,0 +1,859 @@
+Saleh A
+ Ahmed7,8, Anjan Kumar Das9, Maitree Bhattacharyya2, Samir Kumar Pal1,3,* (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Targeting reactive oxygen species (ROS) while maintaining cellular redox signaling is crucial in the development of redox medicine for the therapeutic benefit as the origin of several prevailing diseases including chronic kidney disease (CKD) is linked to ROS imbalance and associated mitochondrial dysfunction
+ Here, we have shown that an functionalized by biocompatible ligand citrate (C-Mn3O4 NPs) can maintain cellular redox balance in an animal model
+ We developed a cisplatin-induced CKD model in C57BL/6j mice where severe mitochondrial dysfunction resulting in oxidative distress lead to the pathogenesis
+ Four weeks of treatment with C-Mn3O4 NPs restored renal function, cytokines, and arrested glomerulosclerosis and interstitial fibrosis in CKD mice
+ A detailed study involving human embryonic kidney (HEK 293) cells and isolated mitochondria from action of the nanomedicine involves protection of structural and functional integrity of mitochondria from oxidative damage, the subsequent reduction in intracellular ROS, and maintenance of cellular redox homeostasis
+ To the best of our knowledge, such studies that efficiently treated a multifaceted disease like CKD using a biocompatible redox nanomedicine are sparse in the literature
+ Successful clinical translation of this nanomedicine may open a new avenue in redox-mediated therapeutics of several other (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Reactive oxygen species (ROS) have long been considered as an unwanted but inevitable byproduct of aerobic oxygen metabolism []
+ Excessive generation of ROS may lead to is linked to inflammation, aging, and pathogenesis of diseases like diabetes, cancer, understanding about the pivotal role of ROS as secondary messengers in cellular signaling to control processes like metabolism, energetics, cell survival, and death lead to a paradigm shift to the traditional oxidants are bad  antioxidants are good based simplistic view of redox biology [-]
+ Apathy towards the paradox between lethality of excessive intracellular ROS (oxidative distress) and beneficial role of low concentration ROS (oxidative eustress) is the major underlying reason behind the failure of conventional acid, -carotene, curcumin, and numerous polyphenols present in the diet) that along with scavenging intracellular free radicals in a stoichiometric way, insulates redox signaling [-]
+ Moreover, meta-analyses of clinical trials show that conventional antioxidants are not only ineffective, but harmful, and even increase mortality [12, ]
+ The understanding that proper cell functioning critically requires a dynamic balance between oxidative eustress and distress (i
+ e
+, cellular redox homeostasis) forms the conceptual framework of redox medicine, a novel therapeutics that passivates the oxidative distress while maintains the normal redox circuitry [10, 12, -]
+ The cellular redox dynamics and its regulations, however, are still largely elusive because of the lack of effective pharmacological interventions []
+ In this regard, biocompatible transition metal oxide nanoparticles with potential electron-donating as well as accepting capability could be a viable option provided they are stable in the biological system, able to assimilate in the targeted tissue, Recently, we have shown that spinel structured citrate functionalized Mn3O4 nanoparticles (C-Mn3O4 NPs) have the unique ability to generate ROS in dark, and when injected into jaundiced animals can selectively degrade bilirubin (a toxic byproduct of heme metabolism) without showing adverse effects to other blood parameters []
+ In the in vitro reaction system, we found that the nanoparticles can catalytically scavenge free radicals changes in pH and dissolved O2) dynamic equilibrium between disproportionation and (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    comproportionation involving Mn3+, Mn4+ and Mn2+ charge states present in the hausmannite structure of C-Mn3O4 NPs is responsible for such dual activity [-]
+ Hence, depending upon the intracellular redox condition, the nanoparticle has the potential to balance the oxidative distress and eustress, the most important feature of a In this study, our major aim was to evaluate the potential of C-Mn3O4 NPs as a redox medicine against CKD
+ CKD, the progressive decline in kidney function, is one of the most serious global public health problem (with 8-16% worldwide prevalence) that originates from redox imbalance due to mitochondrial dysfunction and have no effective medicine till date [-]
+ To evaluate the therapeutic potential of C-Mn3O4 NPs we used a cisplatin-induced C57BL/6j mice model of CKD
+ The mechanistic details of their pharmacological action in the maintenance of redox homeostasis and mitoprotection were further explored using cellular (human embryonic kidney cell, HEK 293) as well as the (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    The size, surface charge, and surface functionalized ligands determine the biodistribution of a nanomaterial inside living organisms
+ Previous studies have reported that particles with less than 8 nm diameters having moderate to high surface negative charge tend to accrue in the renal system []
+ So, care was taken at the time of synthesis to control the size of the Mn3O4 nanoparticles within the range of 6 nm
+ The transmission electron micrograph (TEM) of C-Mn3O4 NPs shows monomodal distribution of nearly spherical particles with an average diameter of 
+ 
+42 nm (Figure a)
+ High resolution (HR) TEM image of a single nanoparticle confirms the crystalline nature with clear atomic lattice fringe spacing of 
+ 
+02 nm (Figure 1a-inset) corresponding to the separation between (112) lattice planes of hausmannite Mn3O4 crystal All x-ray diffraction (XRD) peaks corresponding to (101), (112), (200), (103), (211), (004), (220), (204), (105), (312), (303), (321), (224), and (400) planes of C-Mn3O4 NPs (Figure 1b) exactly reflected the tetragonal hausmannite structure of Mn3O4 with a lattice constant of a=
+76 and c=
+47 and space group of  I41/amd described in the literature (JCPDS No
+ -)
+ The absence of any additional peak from other phases indicates the high purity of the Surface functionalization with carboxyl rich ligand tri-sodium citrate not only made the nanoparticles biocompatible and aqueous soluble but also helped the surface charge to be cmV-s)
+ Furrier transformed infrared (FTIR) spectra were used to confirm the binding of citrate to the surface of the nanomaterial (Figure c)
+ Broadening of the 630, 514 and 413 cm-1 bands associated with stretching vibrations of Mn-O and Mn-O-Mn bonds of Mn3O4 NPs along with substantial disruption of both symmetric (1410 cm-1) and asymmetric (1619 cm-1) stretching modes of carboxylates (COO-) of citrate indicates a strong covalent Previously we showed that C-Mn3O4 NPs can selectively degrade bilirubin without affecting other blood parameters []
+ Here, initially, we evaluated their potential to scavenge H2O2 in an in vitro system using Rose Bengal (RB) degradation assay
+ RB has a distinct absorption peak at 540 nm
+ In the presence of H2O2, RB degenerates with a subsequent decrease in the 540 nm absorbance
+ When added to the reaction mixture, C-(which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Mn3O4 NPs efficiently prevented the RB from H2O2 mediated degradation (Supplementary C-Mn3O4 NPs maintain redox balance in HEK 293 cells against H2O2-induced oxidative To test the ability of C-Mn3O4 NPs to combat oxidative stress in the cellular environment, we used a cell-based approach
+ The HEK 293 cells pretreated with different concentrations of nanoparticles (
+75 to 60 g mL-1) were exogenously exposed to H2O2 (1 mM) and cell diphenyltetrazolium bromide (MTT) assay (Figure a)
+ The survival rate for H2O2 treated cells was ~35% (p<
+001 compared to control)
+ The C-Mn3O4 NPs protected the cells from H2O2 induced cell death in a dose-dependent manner
+ Cell viability reached a maximum of ~85% and ~88% (p<
+001 compared to H2O2 treated cells) in H2O2 exposed cells when pretreated with 30 and 60 g mL-1 NPs respectively
+ Pretreatment of the cells with similar concentrations of the NPs alone did not cause significant cellular mortality
+ Therefore, we selected the 30 g mL-1 concentration of C-Mn3O4 NPs for further experiments
+ Identical results were observed in the lactate dehydrogenase (LDH) assay (Figure b)
+ The presence of a high concentration of H2O2 inside the cell caused oxidative damage to the plasma membrane resulting in an increased release of LDH, a cytosolic enzyme, into the surrounding cell culture medium
+ Pretreatment with C-Mn3O4 NPs protected the cells from H2O2 induced oxidative damage resulting in a ~40% reduction in the LDH release (p<
+001 compared to H2O2 treated cells)
+ To evaluate the scavenging of H2O2 by C-Mn3O4 NPs under stress condition, we monitored the intracellular oxidative stress using a ROS-DCFDA-H2 is transported across the cell membrane and hydrolyzed by intracellular converted to highly fluorescent 2,7-dichlorofluorescein (DCF) in the presence of reactive oxygen species
+ H2O2 exposure caused a substantial increase in the cellular ROS level indicated in the enhanced the relative green fluorescence (em/DCFDA-H2=520 nm) intensity of DCFDA-H2 when measured with fluorescence microscopy (Figure 2c & 2d) or flow cytometry (Figure e)
+ However, pretreatment with 30 g mL-1 C-Mn3O4 NPs significantly lowered intracellular ROS level which was reflected in decreased fluorescence (~ 50% reduction; p<
+001 compared to H2O2 treated cells) of the probe
+ The morphological (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    observations in differential interference contrast (DIC) microscopy (Figure 2d) support the results of cell viability and oxidative damage evaluation
+ The cells pretreated with C-Mn3O4 NPs prevented the shrinkage and congregation of the cell body due to H2O2 Mitochondria despite being the primary source of intracellular ROS and its control is the most susceptible organelle to oxidative damage leading to redox imbalance and cell death [28, ]
+ So, to get further insight into the free radical scavenging activity of C-Mn3O4 NPs drastically decreased the m, as measured by enhanced rhodamine 123 (Rh123) fluorescence (Figure 2f; Supplementary Figure S2a) along with a burst in mitochondrial ROS production, as indicated by the increased fluorescence of Mito-sox red (Figure 2f; Supplementary Figure Sb)
+ Pretreatment with 30 g mL-1 C-Mn3O4 NPs significantly restored the m and reduced the mitochondrial ROS
+ m has a causal relationship with mPTP
+ The results of Ca2+ induced mitochondrial swelling assay indicated that the NPs were effective in preventing the H2O2 induced mPTP opening (Figure 2g) and maintaining opening of mPTP led to a significant fall in the cellular ATP content (Figure h)
+ In C-Mn3O4 NPs pretreated cells, such loss in ATP content was not observed
+ The opening of mPTP, fall in m and ATP content cumulatively functions as a proapoptotic signal to initiate the cell death pathways
+ Superoxide dismutase (SOD), catalase (CAT), and works in consort with mitochondria [-]
+ The accumulation of highly reactive oxygen radicals causes damage to biomolecules in cells and alters enzyme activities [-]
+ Hence, we extended our study towards evaluating the effect of H2O2 and C-Mn3O4 NPs in the ROS regulatory network
+ H2O2 exposure significantly reduced the activity of SOD, CAT, and GPx resulting in a decrease of the reducing pool of cellular thiol constituents (e
+ g
+, GSH) (Figure i-k)
+ Pretreatment with C-Mn3O4 NPs significantly attenuated the damage
+ In cells treated with C-Mn3O4 NPs alone, none of the detrimental effects were (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Thus, our cellular studies indicate that C-Mn3O4 NPs possess the distinctive property of enzymes and maintaining high cell viability by acting as a protector of mitochondria, the master regulator of cellular redox equilibrium (Figure 2l schematically summarizes the There is always a gap in the efficacies of a pharmacological agent tested between cellular metabolism often restricts the use of a cytoprotective agent in vivo [-]
+ Thus, we evaluated the potential of C-Mn3O4 NPs in the treatment of cisplatin-induced C57BL/6j mice, a well-known animal model for testing therapeutic interventions against CKD [-]
+ Chronic administration of cisplatin resulted in significant mortality (~40% compared to control) (Figure a)
+ The fourfold higher blood urea nitrogen (BUN) content (Figure 3b), threefold higher GFR (Table 1), fourfold higher urinary albumin excretion (albuminuria) (Figure 3c) and high urine albumin to creatinine ratio (ACR) (Table 1) along with significantly increased serum urea (Figure 3d) and creatinine (Figure 3e) illustrated induction of proteinuria and notable damage to the renal function of mice, the two hallmarks of CKD [-]
+ Treatment with C-Mn3O4 NPs (
+25 mg kg(BW)) considerably reduced BUN, GFR, urinary albumin, ACR, serum urea, and creatinine (Figure 3b-3e; Table )
+ The treatment also improved survivability (Log-rank p=
+022; hazards ratio 
+62) (Figure a)
+ Treatment with citrate (the functionalization group) was unable to reduce any of the aforementioned parameters (Supplementary Figure S3), confirming the observed effects solely due to the conjugated nanomaterial Cisplatin intoxication caused weight loss in mice (Figure 3f), suggestive of the systemic toxicity that frequently arises in individuals receiving this anticancer drug
+ Animals treated with C-Mn3O4 NPs were capable of mitigating weight loss
+ Next, we examined the external morphology of isolated kidneys from each group
+ The kidneys from the cisplatin exposed group were deviated from the usual darkish brown to a pale brown color with a rough and uneven surface (Figure g)
+ The kidney to body weight ratio (i
+e, kidney index) was also significantly higher (i
+ e
+, edema) in cisplatin-treated animals (
+ 
+2 compared to 
+ 
+1 mg g-1 of control, p<
+001; Figure h)
+ Subsequent treatment with C-Mn3O4 NPs (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Hematoxylin and eosin-stained kidney sections of the control and C-Mn3O4 NP treated groups showed normal histologic features (Figure 3j & 3m) with negligible necrosis score (Figure i)
+ The kidney sections from cisplatin intoxicated mice displayed several pathological features of CKD like focal segmental as well as global glomerulosclerosis along with interstitial fibrosis, diffused thickening of the capillary walls, glomerular hyalinosis, dilated or collapsed Bowmans space and glomerular retraction (Figure k)
+ Tubular atrophy, dilation of cortical tubules, increased mesangial matrix, obliteration of features observed in this group
+ Treatment with C-Mn3O4 NPs notably reduced focal dilation, mild mononuclear infiltration, and detachment of epithelial cells were observed in this group
+ Overall, C-Mn3O4 NPs were able to efficiently revert the marked detrimental changes in the renal architecture of CKD animals
+ The histological observations are quantitatively reflected in the necrosis score (Figure 3i), glomerular injury score (GIS; Previous studies and our histological observations suggested an association between renal fibrosis and CKD [-]
+ So, we measured the renal hydroxyproline content, a byproduct of collagen metabolism and biochemical marker of fibrosis
+ The results indicate almost a threefold increase in the hydroxyproline content (
+ 
+07 compared to 
+ 
+03 mg gm-1 tissue of control; p<
+001) in the cisplatin intoxicated group (Table )
+ In accordance with the histological findings, treatment with C-Mn3O4 NPs markedly reduced the hydroxyproline content (
+ 
+06 mg gm-1 tissue; p<
+001 compared to cisplatin treated Oxidative stress proved to be one of the major causes of cisplatin-induced nephrotoxicity [-]
+ Therefore, we tried to ascertain whether C-Mn3O4 NPs contributed to including lipid peroxidation (in terms of thiobarbituric acid reactive substances, TBARS), reduction in cellular GSH pool, and inhibition of antioxidant enzyme activity were estimated
+ Exposure to cisplatin markedly increased the level of TBARS (Figure 4a) and oxidative glutathione along with a reduction in GSH concentration
+ Furthermore, it inhibited the antioxidant actions of enzymes like SOD, CAT, and GPx (Figure b-d)
+ In (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    consensus with our cellular studies, C-Mn3O4 NPs rescued the detrimental pleiotropic Macrophage infiltration in the kidney and subsequent rise in the plasma concentrations of pro-inflammatory cytokines like TNF- are well-known features of CKD [-]
+ We found significant increases in plasma concentrations of TNF-, IL-1, and IL-6 in cisplatin-induced animals (Figure e-g)
+ Treatment with C-Mn3O4 NPs resulted in a notable decrease in the cytokine levels
+ No difference was observed between the C-Mn3O4 Considering the inevitable role of mitochondria in the pathogenesis of CKD [26, 54-59] and results of our in cellulo observations that C-Mn3O4 NPs protects mitochondria from H2O2 induced oxidative damage, we assessed the role of mitoprotection in the therapeutic salient features of CKD [26, ]
+ Our data clearly show that the mitochondria isolated from the cisplatin intoxicated group were more sensitive towards Ca2+ manifested into a sharp decrease in 540 nm absorbance (Figure a)
+ Treatment with C-Mn3O4 NPs inhibited mPTP opening and maintained membrane integrity
+ m and ATP content declined significantly as a result of cisplatin administration (Figure 5b & c)
+ These were accompanied by an increase in cytochrome c oxidase activity (Figure 5d) and a reduction in dehydrogenase activity (Figure e)
+ The alterations were upended by C-Mn3O4 NP treatment
+ Thus cisplatin-induced renal damage triggered the opening of mPTP, the decline in m, and induction of mitochondrial swelling that resulted in the release of cytochrome c in the cytosol leading to apoptosis
+ The ladder-like DNA fragmentation, a hallmark of apoptosis, was evident in the case of cisplatin-treated diseased groups (Figure f)
+ Whereas, treatment with C-Mn3O4 NPs notably protected the mitochondria, inhibited cell death and decreased the extent of DNA fragmentation
+ Figure 5g schematically (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    In this study, we determined whether C-Mn3O4 NPs could be used as a redox medicine to treat CKD, an important clinical question considering the high prevalence of the disease and the non-availability of effective medication
+ CKD is defined as the progressive and irreversible loss of renal function characterized by reduced glomerular filtration rate (GFR), increased urinary albumin excretion (albuminuria), or both [42, 44, ]
+ Our results present evidence that treatment with C-Mn3O4 NPs significantly improved renal mitochondrial dysfunction in response to the cisplatin toxicity
+ Our cellular and animal studies further enlightened the role of unique mitoprotective as well as redox modulatory Mitochondria have long been recognized for their canonical roles in cellular respiration and energy production []
+ Recently, they have emerged as the master regulator of a of cellular redox equilibrium, calcium homeostasis, inflammation, and cell death [-]
+ Thus, mitochondria are poised to play a pivotal role in the functioning of the kidney, an organ with high energy demand, and rich in mitochondria, second only to the heart []
+ Our findings that C-Mn3O4 NPs maintain cellular redox homeostasis through the prevention of mPTP opening and ATP depletion discloses a key redox-mediated therefore vulnerable to the oxidative distress due to mitochondrial damage [48, ]
+ Cisplatin accrues in mitochondria and reduces the activity of all four respiratory complexes (IV) involved in the electron transport chain, thereby a surge in mitochondrial ROS formation takes place along with mPTP opening, membrane depolarization and impairment in ATP production, leading to cell death [68, ]
+ The mitotoxic mechanism of cisplatin essentially mimics the pathogenesis of CKD, thus an efficient reversal of damage in this rodent model is supposed to reflect the possible effects of a compound in higher animals
+ Data from our cellular as well as animal studies provide sufficient evidence that C-Mn3O4 NPs prevent mitochondrial ROS surge, prevent loss of membrane potential, dysfunction, cellular redox imbalance, and tubular or glomerular cell death
+ As a result, (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    the markers of CKD like increased BUN, plasma creatinine, serum urea, and glomerular This study provides a piece of direct evidence that C-Mn3O4 NPs can scavenge ROS, particularly H2O2 the longest living one in the cellular milieu
+ It also proves the ability of the NPs in the prevention of mPTP from opening and subsequently maintenance of mitochondrial structure and function
+ However, it is not clear whether ROS scavenging protects mitochondria or mitochondrial integrity which results in ROS depletion
+ Several studies showed that a compound with the sole property of free radical scavenging cannot be effective in the reversal of oxidative stress-related diseases in higher animals because the antioxidant property is not sustainable and the compound becomes inactive after one reaction [-]
+ So, to mitigate the burst of ROS, the intracellular concentration required for a conventional antioxidant molecule is enormous and practically hard to achieve [-]
+ Thus, to become an effective medicine a compound should have some additional mechanisms that will ensure the sustainable effect in the therapeutic regime
+ Therefore, and the efficacy of C-Mn3O4 NPs in the treatment of multifaceted diseases like CKD, we propose that both the mechanisms (i
+ e
+, ROS scavenging and mitochondrial protection) The findings that C-Mn3O4 NPs can accelerate the revival of proximal tubule epithelium proliferation of a subset of sublethally damaged, yet surviving, proximal tubule cells contribute to the regenerative property of the kidney []
+ The acceleration of this process is sufficient to confer nephroprotection [74, ]
+ As revealed in our histological findings, the recovery rate of these cells in C-Mn3O4 NP treated cisplatin exposed animals is significantly faster and efficient than the auto-recovery
+ Several mechanisms can be proposed for the enhanced proliferation by C-Mn3O4 NPs
+ The restoration of structural and functional integrity of mitochondria and recovery of respiratory complexes may contribute towards the increased proliferation
+ It is well known that the mitochondrial electron transport chain (ETC) has a crucial role in cell proliferation through regulation of ATP generation, and supply of energy to proliferative pathways [76, ]
+ Previous studies have demonstrated that mutations in ETC genes, or presence of ETC complex inhibitors causes a reduction in ATP synthesis obstructing progression through cell cycle leading to (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    a blockage in proliferation [-]
+ Thus, the mitoprotective activity of C-Mn3O4 NPs may have played a significant role in the revival of tubulointerstitial epithelial cells, in turn protecting the renal architecture
+ Additionally, ROS scavenging by C-Mn3O4 NPs may boost the proliferation because oxidative distress in proximal tubules causes cell cycle The role of intracellular redox regulation through mitoprotection in the therapeutic action of C-Mn3O4 NPs opens up further avenues for the treatment of several unmet diseases like multiple sclerosis), cardiovascular disorders, obesity, etc
+ where pathogenesis is very much in our study C-Mn3O4 NPs did not show any adverse side effect, a detailed study on its in vivo behavior
+ Furthermore, a detailed molecular study analyzing the genome and metabolome of C-Mn3O4 NP treated animals may enlighten its ability to interfere in other pathogenesis pathways
+ As a result, the nano-drug could be repurposed for other therapies (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    There are very few published articles that utilize the promising redox regulatory approach for treatment of chronic diseases like CKD
+ On the other hand, several chronic kidney diseases are reported to be due to redox imbalance in mitochondria
+ Our study suggests that C-Mn3O4 NPs could be an efficient redox medicine to attenuate renal injury and tubuleintestinal fibrosis as evidenced by the improved renal functions, reduction in ROS scavenging by C-Mn3O4 NPs
+ The findings highly suggested the translational potential of C-Mn3O4 NPs as a redox nanomedicine for treating CKD in the clinic
+  (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    A template or surfactant-free sol-gel method was followed for the synthesis of bulk Mn3O4 NPs at room temperature and pressure []
+ To functionalize the nanoparticles with ligand (Sigma, USA) solution of (pH 
+0, 
+5 M) for 15 h in a cyclomixer
+ The time for mixing was carefully adjusted to have a nanomaterial in the size range of 4-6 nm
+ Non-functionalized larger NPs were removed using a syringe filter (
+22 m)
+ TEM and HRTEM images were acquired using an FEI TecnaiTF-20 field emission HRTEM operating at 200 kV
+ Sample preparation was done by drop-casting of C-Mn3O4 NP solution on 300-mesh amorphous carbon-coated copper grids (Sigma, USA) and allowed to dry overnight at room temperature
+  XRD patterns were obtained by employing a scanning rate of 
+02 s-1 in the 2 range from 10 to 80 by a PANalytical XPERT PRO diffractometer equipped with Cu Ka radiation (at 40 mA and 40 kV)
+ FTIR (JASCO FTIR-6300, Japan) was used to confirm the covalent attachment of the citrate molecules with the Mn3O4 NPs
+ For FTIR studies, powdered samples were blended with KBr powder and pelletized
+ KBr pellets were used as a reference to make the background correction
+ The ability of C-Mn3O4 NPs to prevent H2O2 mediated degradation of sodium containing dye RB (Sigma, USA) was used as an indicator of its H2O2 scavenging activity
+ Addition of H2O2 (10 mM) in the aqueous solution of RB (
+5 M) leads to decolourization of the dye reflected into a decrease in absorbance (max=550 nm)
+ Presence of C-Mn3O4 NPs (50 g mL-1) in the reaction mixture reduced degradation
+ All absorbance measurements were HEK 293 cells were maintained at 37C in 5% CO2 in RPMI 1640 growth medium (Himedia, India) that contained 10% foetal bovine serum (Invitrogen, USA), L-glutamine (2 mM), penicillin (100 units mL-1), and streptomycin (100 ng mL-1) (Sigma, USA)
+ Before (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    experimentation, the cells were washed twice and incubated with RPMI 1640 medium (FBS, 
+5%) for 1 h and then treated as described in the figure legends
+ Cell viability was assessed by MTT and LDH assay
+ All cell lines were plated in 96-well plates at a density of 1103 cells/well and cultured overnight at C
+ The treatments were performed as described in the figure legends
+ Next, MTT (5 mg mL-1; Himedia, India) was added to each well, with a final concentration of ~
+5 mg mL-1, and the cells were cultured for 4 h at 37C in a 5% CO2 atmosphere
+ Resultant purple formazan was dissolved by the addition of 10% sodium dodecyl sulfate (Sigma, USA) and the absorbance was read at 570 nm and 630 nm using a microplate reader (BioTek, USA)
+  LDH release was analyzed The formation of intracellular ROS was measured with the DCFH-DA method using both FACS and confocal microscopy
+ For FACS, after treatment cells were trypsinized, washed with 1X PBS and stained with DCFDA-H2 (15 M; Sigma, USA) for 10 mins at 30C in dark
+ Ten thousand events were analyzed by flow cytometry (FACS Verse, Beckton Dickinson, SanJose, USA) and the respective mean fluorescence intensity (in FL1 channel, set with a 530/30 nm bandpass filter) values were correlated with the ROS levels
+ For confocal microscopy, 5000 cells were seeded and treated with agents described earlier
+ Post-treatment cells were stained with DCFDA-H2 (5 M) at 37C in dark and images were acquired with a confocal microscope (Olympus IX84, Japan)
+ All parameters (pinhole, contrast, gain, and offset) were held constant for all sections in the same After treatment with the drug or vehicle, mitochondrial superoxide production was USA)
+ The m in intact cells was assessed by confocal microscopy using Rh 
+ Cells were loaded with MitoSOX Red (
+5 M) or Rh123 (
+5 M) for 10 min at 37C and imaged using a confocal microscope (Olympus IX84, Japan)
+ All parameters (pinhole, contrast, gain, and offset) were held constant for all sections in the same experiment
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Healthy non-diabetic C57/6j mice of both sexes (810 weeks old, weighing 
+3 g) were used in this work
+ Animals were maintained in standard, clean polypropylene cages (temperature 21  1C; relative humidity 4055%; 1:1 light and dark cycle)
+ Water and standard laboratory pellet diet for mice (Saha Enterprise, Kolkata, India) were available ad libitum throughout the experimental period
+ All mice were allowed to acclimatize for 2 weeks before the treatment
+ The guideline of Committee for the Purpose of Control and Supervision of Experiments on Animals, New Delhi, India, was followed and the study was approved by the Institutional Animal Ethics Committee (Ethical Clearance No
+ - The mice were randomly divided into five groups (n = 16 for each group): (1) control; (2) cisplatin; (3) cisplatin + C-Mn3O4 NPs; and (4) C-Mn3O4 NPs; (5) cisplatin + citrate
+ The experimental model of CKD was established according to the previous description
+ In brief, for induction of CKD, we used 8 mg kg-1 BW cisplatin (i
+ p
+) in each alternative day for 28 days
+ After induction, we treated C-Mn3O4 NPs at 
+25 mg kg28 days
+ There was an overlap of 7 days between induction and treatment
+ Citrate was used at a dose of 
+25 mg kg-1 BW for 28 days
+ All doses were finalized based on reported literature and pilot experimentation
+ As citrate treatment did not improve the kidney Whole blood samples from treated mice were collected from retro-orbital sinus plexus and centrifuged at 2000 g for 20 min to separate the serum
+ Urine samples were collected in using commercially available kits (Autospan Liquid Gold, Span Diagnostic Ltd
+, India) following the protocol described by respective manufacturers
+ GFR was estimated by the After incision, kidney tissues from mice were fixed with 4% paraformaldehyde, embedded in paraffin, and cut into 5 m thick section
+ After de-waxing and gradual hydration with (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    ethanol (Merck, USA), kidney sections were stained with hematoxylin and eosin (SRL, India)
+ The sections were then observed under an optical microscope (Olympus, Tokyo, For the measurement of renal hydroxyproline content, a previously described method was used []
+ In brief, snap-frozen kidney specimens (200 mg) were weighed, hydrolyzed in HCl (6M; Merck, USA) for 12 h at C
+ Next, they were oxidized with Chloramine-T (SRL, India)
+ Next, Ehrlich reagent (Sigma, USA) was added which resulted in the formation of a chromophore
+ Absorbance was measured at 550 nm
+ Data were normalized Samples of kidney tissue were collected, homogenized in cold phosphate buffer (
+1 M; pH 
+4), and centrifuged at 10,000 r
+ p
+ m
+ at 4C for 15 min
+ The supernatants were The supernatants obtained in the previous stage were used to measure the activity of SOD, CAT, GPx, and GSH as well as the content of lipid peroxidation (MDA)
+ Lipid peroxidation was determined in TBARS formation using a reported procedure []
+ SOD (Sigma, MO, USA), CAT (Abcam, Germany), and GPx activities (Sigma, MO, USA) by respective manufacturers
+ The renal GSH level was determined by the method of Mitochondria were isolated from mouse kidneys following the method described by Graham [87] with slight modifications
+ In brief, kidneys were excised and homogenized in kidney homogenization medium containing 225 mM D-mannitol, 75 mM sucrose, 
+05 mM EDTA, 10 mM KCl, 10 mM HEPES (pH 
+ )
+ The homogenates were centrifuged at 600 g for 15 min and the resulting supernatants were centrifuged at 8500 g for 10 min
+ The pellets were washed thrice and resuspended in the same buffer
+ All procedures (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Mitochondrial function was evaluated by determining m using JC-1 (Sigma, MO, USA), ATP production (Abcam, Germany), and the activities of mitochondrial complexes succinate dehydrogenase and cytochrome c oxidase
+ mPTP opening was measured in terms of mitochondrial swelling by monitoring the decrease in absorbance at 540 nm after Total renal DNA was isolated following a standard procedure []
+ DNA fragmentation was assessed using agarose gel electrophoresis
+ In a typical procedure, renal DNA (
+0 g) was loaded on 
+5% agarose gel stained with ethidium bromide
+ Electrophoresis was carried out for 2 h at 90 V, and the resultant gel was photographed under UV All numerical data are expressed as mean  standard deviation (SD) unless otherwise specified
+ One-way analysis of variance (ANOVA) followed by Tukeys post hoc multiple comparison test was implemented to compare various parameters between the groups (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    MD thanks University Grants Commission (UGC), Govt
+ of India for Junior Research Fellowship
+ SKP thanks the Indian National Academy of Engineering (INAE) for the authors thank the DBT (WB)-BOOST scheme for the financial grant, /WBBDC/P-AA, MB and SKP designed the experiments
+ AA, SM, and PB did synthesis, characterization and in vitro studies
+ TC, MB performed cellular studies
+ AA, SD, and MD conducted animal experiments
+ AD performed the histological studies and analysis
+ AA, HA, JTA, AS, SAA, MB and SKP discussed and analyzed the results
+ AA wrote the manuscript and all authors contributed towards writing of the final version
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    
+ Wong, H
+ L
+ and K
+ Shimamoto, Sending ROS on a Bullet Train
+ Science Signaling, 
+ 
+ Storz, P
+, Reactive Oxygen SpeciesMediated Mitochondria-to-Nucleus Signaling: A Key to Aging 
+ Carroll, B
+, et al, Oxidation of SQSTM1/p62 mediates the link between redox state and protein 
+ Finkel, T
+ and N
+ J
+ Holbrook, Oxidants, oxidative stress and the biology of ageing
+ Nature, 
+ 
+ Ling, X
+ C
+ and K
+ -L
+ Kuo, Oxidative stress in chronic kidney disease
+ Renal Replacement 
+ Jones, D
+ P
+, Redefining Oxidative Stress
+ Antioxidants & Redox Signaling, 
+ 8(9-10): p
+ 
+ Sies, H
+, Oxidative stress: a concept in redox biology and medicine
+ Redox Biology, 
+ 4: p
+ 
+ Saleme, B
+, et al, Tissue-specific regulation of p53 by PKM2 is redox dependent and provides a 
+ Sies, H
+, Role of Metabolic H2O2 Generation: Redox Signalling and Oxidative Stress
+ Journal of 
+ Casas, A
+ I
+, et al, Reactive Oxygen-Related Diseases: Therapeutic Targets and Emerging Clinical 
+ Niki, E
+, Oxidative stress and antioxidants: Distress or eustress? Free Radical Biology and 
+ Elbatreek, M
+ H
+, et al, Reactive Oxygen Comes of Age: Mechanism-Based Therapy of Diabetic End-Organ Damage
+ Trends in Endocrinology & Metabolism, 
+ 30(5): p
+ -
+ 
+ Schmidt, H
+, H
+ H
+ W
+;, et al, Antioxidants in Translational Medicine
+ Antioxidants & Redox 
+ Sies, H
+ and D
+ P
+ Jones, Reactive oxygen species (ROS) as pleiotropic physiological signalling 
+ D'Autraux, B
+ and M
+ B
+ Toledano, ROS as signalling molecules: mechanisms that generate specificity in ROS homeostasis
+ Nature Reviews Molecular Cell Biology, 
+ 8(10): p
+ -
+ Ursini, F
+, M
+ Maiorino, and H
+ J
+ Forman, Redox homeostasis: The Golden Mean of healthy 
+ Li, N
+, et al, Monitoring Dynamic Cellular Redox Homeostasis Using Fluorescence-Switchable 
+ Polley, N
+, et al, Safe and symptomatic medicinal use of surface-functionalized Mn3O4 nanoparticles for hyperbilirubinemia treatment in mice
+ Nanomedicine, 
+ 10(15): p
+ -(which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    
+ Takashima, T
+, K
+ Hashimoto, and R
+ Nakamura, Inhibition of Charge Disproportionation of MnO2 Electrocatalysts for Efficient Water Oxidation under Neutral Conditions
+ Journal of the 
+ Takashima, T
+, K
+ Hashimoto, and R
+ Nakamura, Mechanisms of pH-Dependent Activity for Water Oxidation to Molecular Oxygen by MnO2 Electrocatalysts
+ Journal of the American 
+ Giri, A
+, et al, Unprecedented catalytic activity of Mn3O4 nanoparticles: potential lead of a sustainable therapeutic agent for hyperbilirubinemia
+ RSC Advances, 
+ 4(10): p
+ -
+ 
+ Small, D
+ M
+, et al, Oxidative stress, anti-oxidant therapies and chronic kidney disease
+ 
+ Beigrezaei, S
+ and H
+ Nasri, Oxidative stress in chronic kidney disease; an updated review on 
+ Dounousi, E
+, et al, Oxidative Stress Is Progressively Enhanced With Advancing Stages of CKD
+ 
+ Ruiz, S
+, et al, Targeting the transcription factor Nrf2 to ameliorate oxidative stress and inflammation in chronic kidney disease
+ Kidney International, 
+ 83(6): p
+ -
+ 
+ Galvan, D
+ L
+, N
+ H
+ Green, and F
+ R
+ Danesh, The hallmarks of mitochondrial dysfunction in 
+ Nel, A
+ E
+, et al, Understanding biophysicochemical interactions at the nanobio interface
+ Nature 
+ Nissanka, N
+ and C
+ T
+ Moraes, Mitochondrial DNA damage and reactive oxygen species in 
+ Musatov, A
+ and N
+ C
+ Robinson, Susceptibility of mitochondrial electron-transport complexes to oxidative damage
+ Focus on cytochrome c oxidase
+ Free Radical Research, 
+ 46(11): p
+ -
+ Adhikari, A
+, et al, Spectroscopic Studies on Dual Role of Natural Flavonoids in Detoxification of Lead Poisoning: Bench-to-Bedside Preclinical Trial ACS Omega, 
+ 3(11): p
+ -
+ 
+ Adhikari, A
+, et al, Citrate functionalized Mn3O4 in nanotherapy of hepatic fibrosis by oral 
+ Adhikari, A
+, et al, Manganese neurotoxicity: nano-oxide compensates for ion-damage in 
+ Schieber, M
+ and Navdeep S
+ Chandel, ROS Function in Redox Signaling and Oxidative Stress
+ 
+ Guachalla, L
+ M
+ and K
+ L
+ Rudolph, ROS induced DNA damage and checkpoint responses: 
+ Temple, M
+ D
+, G
+ G
+ Perrone, and I
+ W
+ Dawes, Complex cellular responses to reactive oxygen 
+ Blomme, E
+ A
+ G
+, Y
+ Yang, and J
+ F
+ Waring, Use of toxicogenomics to understand mechanisms of drug-induced hepatotoxicity during drug discovery and development
+ Toxicology Letters, 
+ 
+ Li, A
+ P
+, Screening for human ADME/Tox drug properties in drug discovery
+ Drug Discovery (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    
+ Kola, I
+ and J
+ Landis, Can the pharmaceutical industry reduce attrition rates? Nature Reviews 
+ Shi, M
+, et al, Cisplatin nephrotoxicity as a model of chronic kidney disease
+ Laboratory 
+ Shah, S
+ V
+ and M
+ M
+ Rajapurkar, The Role of Labile Iron in Kidney Disease and Treatment 
+ Landau, S
+ I
+, et al, Regulated necrosis and failed repair in cisplatin-induced chronic kidney disease
+ 
+ CKDP, C
+, Association of estimated glomerular filtration rate and albuminuria with all-cause and cardiovascular mortality in general population cohorts: a collaborative meta-analysis
+ The Lancet, 
+ El Nahas, A
+ M
+ and A
+ K
+ Bello, Chronic kidney disease: the global challenge
+ The Lancet, 
+ Jha, V
+, et al, Chronic kidney disease: global dimension and perspectives
+ The Lancet, 
+ 
+ He, J
+, et al, Role of the endothelial-to-mesenchymal transition in renal fibrosis of chronic kidney 
+ Liu, N
+, et al, Suramin Inhibits Renal Fibrosis in Chronic Kidney Disease
+ Journal of the 
+ Ninichuk, V
+, et al, Multipotent mesenchymal stem cells reduce interstitial fibrosis but do not delay progression of chronic kidney disease in collagen4A3-deficient mice
+ Kidney International, 
+ 
+ Yu, X
+, et al, Celastrol ameliorates cisplatin nephrotoxicity by inhibiting NF-B and improving 
+ Chirino, Y
+ I
+ and J
+ Pedraza-Chaverri, Role of oxidative and nitrosative stress in cisplatin-
+ Pabla, N
+ and Z
+ Dong, Cisplatin nephrotoxicity: Mechanisms and renoprotective strategies
+ 
+ Lee, B
+ T
+, et al, Association of C-reactive protein, tumor necrosis factor-alpha, and interleukin-6 
+ Kim, H
+ W
+, et al, Effect of anti-tumor necrosis factor alpha treatment of rheumatoid arthritis and 
+ Amdur, R
+ L
+, et al, Inflammation and Progression of CKD: The CRIC Study
+ Clinical Journal 
+ Forbes, J
+ M
+ and D
+ R
+ Thorburn, Mitochondrial dysfunction in diabetic kidney disease
+ Nature 
+ Ishimoto, Y
+ and R
+ Inagi, Mitochondria: a therapeutic target in acute kidney injury
+ 
+ Forbes, J
+ M
+, MitochondriaPower Players in Kidney Function? Trends in Endocrinology & (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    
+ Bhargava, P
+ and R
+ G
+ Schnellmann, Mitochondrial energetics in the kidney
+ Nature Reviews 
+ Szeto, H
+ H
+, Pharmacologic Approaches to Improve Mitochondrial Function in AKI and CKD
+ Journal of the American Society of Nephrology, 
+ 28(10): p
+ -
+ 
+ Szeto, H
+ H
+, et al, Mitochodria-Targeted Peptide Accelerates ATP Recovery and Reduces Ischemic Kidney Injury
+ Journal of the American Society of Nephrology, 2011: p
+ ASN
+ 
+ 
+ Singh, D
+, V
+ Chander, and K
+ Chopra, Cyclosporine protects against ischemia/reperfusion 
+ Lin, Y
+ F
+, et al, Resveratrol-loaded nanoparticles conjugated with kidney injury molecule-1 as a drug delivery system for potential use in chronic kidney disease
+ Nanomedicine (Lond), 
+ 
+ Gulbins, E
+, S
+ Dreschers, and J
+ Bock, Role of Mitochondria in Apoptosis
+ Experimental 
+ Tait, S
+ W
+ G
+ and D
+ R
+ Green, Mitochondria and cell signalling
+ Journal of Cell Science, 
+ 
+ Zhou, R
+, et al, A role for mitochondria in NLRP3 inflammasome activation
+ Nature, 
+ 
+ Ray, P
+ D
+, B
+ -W
+ Huang, and Y
+ Tsuji, Reactive oxygen species (ROS) homeostasis and redox 
+ Adhikari, A
+, et al, Role of Nanomedicine in Redox Mediated Healing at Molecular Level
+ 
+ 
+ Klein, K
+ L
+, et al, Substrate oxidation by isolated single nephron segments of the rat
+ Kidney 
+ Nowak, G
+ y
+, Protein Kinase C- and ERK1/2 Mediate Mitochondrial Dysfunction, Decreases in Active Na+ Transport, and Cisplatin-induced Apoptosis in Renal Cells
+ Journal of Biological 
+ Marullo, R
+, et al, Cisplatin induces a mitochondrial-ROS response that contributes to cytotoxicity depending on mitochondrial redox status and bioenergetic functions
+ PLoS One, 
+ 8(11): p
+ 
+ Warnholtz, A
+ and T
+ Mnzel, Why do antioxidants fail to provide clinical benefit? Trials, 
+ 
+ Steinhubl, S
+ R
+, Why Have Antioxidants Failed in Clinical Trials? The American Journal of 
+ Persson, T
+, B
+ O
+ Popescu, and A
+ Cedazo-Minguez, Oxidative stress in Alzheimers disease: why did antioxidant therapy fail? Oxidative medicine and cellular longevity, 
+ 
+ 
+ Berger, K
+ and M
+ J
+ Moeller, Mechanisms of Epithelial Repair and Regeneration After Acute 
+ Bagnis, C
+, et al, Erythropoietin enhances recovery after cisplatininduced acute renal failure in the 
+ Kawaida, K
+, et al, Hepatocyte growth factor prevents acute renal failure and accelerates renal regeneration in mice
+ Proceedings of the National Academy of Sciences, 
+ 91(10): p
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    
+ Byun, H
+ -O
+, et al, Mitochondrial dysfunction by complex II inhibition delays overall cell cycle progression via reactive oxygen species production
+ Journal of Cellular Biochemistry, 
+ 
+ Yoon, Y
+ -S
+, et al, Complex II Defect via Down-regulation of Iron-Sulfur Subunit Induces 
+ Mandal, S
+, et al, Mitochondrial Regulation of Cell Cycle Progression during Development as Revealed by the tenured Mutation in Drosophila
+ Developmental Cell, 
+ 9(6): p
+ -
+ 
+ Vohwinkel, C
+ U
+, et al, Elevated CO2 Levels Cause Mitochondrial Dysfunction and Impair Cell 
+ Merkwirth, C
+, et al, Prohibitins control cell proliferation and apoptosis by regulating OPA-dependent cristae morphogenesis in mitochondria
+ Genes & Development, 
+ 22(4): p
+ -
+ Duchen, M
+ R
+, Roles of Mitochondria in Health and Disease
+ Diabetes, 
+ 53(suppl 1): p
+ 
+ Lin, M
+ T
+ and M
+ F
+ Beal, Mitochondrial dysfunction and oxidative stress in neurodegenerative 
+ Johri, A
+ and M
+ F
+ Beal, Mitochondrial Dysfunction in Neurodegenerative Diseases
+ Journal of 
+ Ritov, V
+ B
+, et al, Deficiency of Subsarcolemmal Mitochondria in Obesity and Type 2 Diabetes
+ 
+ Ballinger, S
+ W
+, Mitochondrial dysfunction in cardiovascular disease
+ Free Radical Biology and 
+ Ellman, G
+ L
+, Tissue sulfhydryl groups
+ Archives of Biochemistry and Biophysics, 
+ 
+ Graham, J
+ M
+, Isolation of mitochondria, mitochondrial membranes, lysosomes, peroxisomes, and Golgi membranes from rat liver, in Biomembrane protocols
+ 1993, Springer
+ p
+ -
+ 
+ Petrik, J
+, et al, Apoptosis and oxidative stress induced by ochratoxin A in rat kidney
+ Archives of (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Data expressed as Mean  SD (N=/group)
+ GFR: glomerular filtration rate; ACR: albumin to One way ANOVA Tukey post hoc
+  ap<
+05 compared to Cisplatin treated animals; bp<
+05 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Figure 
+ Characterization of C-Mn3O4 NPs
+ (a) TEM image of C-Mn3O4 NPs shows spherical shape of the nanoparticles with monomodal distribution
+ Inset shows HRTEM image of single nanoparticle having high crystalline structure with 
+311 nm interfringe distance corresponding to the (112) plane
+ The other inset shows histogram of size distribution of the particles with average diameter of 
+ 
+42 nm
+ (b) Experimental XRD peaks of the nanoparticle exactly matches to that of literature defined one for Mn3O4 hausmannite (JCPDS No
+ -)
+ (c) FTIR spectra of C-Mn3O4 NPs, Mn3O4 NPs, and citrate
+ Perturbation at Mn-O stretching at 413, 514, 630 cm(shaded grey) of Mn3O4 NPs and carboxylic groups at 1066, 1112, 1410, 1619 cmof citrate confirms strong covalent binding between citrate and the nanoparticle
+  (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Figure 
+ Ability of C-Mn3O4 NPs in regulation of cellular redox and protection of mitochondria from oxidative damage
+ (a) Cell viability as measured using MTT
+ (b) LDH release
+ (c) Quantification of intracellular ROS estimated from fluorescence microscopy
+ (d) Fluorescence micrographs of differently stained HEK 293T cells
+ (e) Intracellular ROS content as measured using flow cytometry using DCFDA
+ (f) Changes in mitochondrial membrane potential (stained with rhodamie 123) and mitochondrial ROS (stained with MitosoxTM) measured using fluorescence imaging
+ (g) Change in Ca2+-induced mPTP opening
+ (h) ATP content
+ (i) Superoxide dismutase (SOD) activity
+ (j) Catalase activity
+ (k) Reduced glutathione (GSH) content
+ (l) Schematic representation of the redox homeostasis by C-Mn3O4 NPs against H2O2 distress through mitochondrial protection
+ For all experiments, [H2O2] =1 mM; [C-Mn3O4 NPs] =30 g mL**, *** Values differ significantly from H2O2 treated cells (without treatment) (***p < 
+001; **p < (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Figure 
+ Efficacy of C-Mn3O4 NPs in reversal of CKD in animal model
+ (a) Kaplan-Meir survival analysis curve
+ The darker shaded area represents co-treatment period
+ (b) Blood urea nitrogen (BUN) content
+ (c) Urinary albumin excretion as an indicator of albuminuria, hallmark of CKD
+ (d) Serum urea concentration
+ (e) Serum creatinine level
+ (f) Body weight at the end of experimental period
+ (g) Photographs of kidneys incised after experimental period
+ (h) Kidney index, defined as kidney to body weight ratio (mg g-)
+ (i) Necrosis score as per the observation of expert clinical pathologist
+ (j-m) Hematoxylin and eosin stained liver sections
+ j: Control; k: Cisplatin; l: Cisplatin+C-Mn3O4 NPs; m: C-Mn3O4 NPs
+ Inset shows magnified image of single Yellow star: mononuclear infiltration (n) Glomerular injury score (GIS)
+ (o) Tubular injury score Data are expressed as Mean  SD
+ N=
+ *, **, *** Values differ significantly from control group (without treatment) (***p < 
+001; **p < 
+01; *p < 
+ )
+  (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Figure 
+ Effect of C-Mn3O4 NPs in protection of intracellular redox regulatory network and malonaldehyde content) measured in terms of thiobarbituric acid reactive substances (TBARS)
+ (b) Superoxide dismutase (SOD) activity
+ (c) Catalase activity
+ (d) Gluthione peroxidase (GPx) activity
+ (e) Tumor necrosis factor- level
+ (f) Interleukin-1 level
+ (g) Interleukin-6 level
+ MDA, SOD, CAT and GPx were estimated from kidney homogenate
+ TNF-, IL-1 and IL-6 were Data are expressed as Mean  SD
+ N=
+ *, **, *** Values differ significantly from control group (without treatment) (***p < 
+001; **p < 
+01; *p < 
+ )
+  (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    Figure 
+ Efficacy of C-Mn3O4 NPs in protection of mitochondria, the master redox regulator in mice
+ (a) Ca2+ induced mPTP opening
+ (b) Mitochondrial membrane potential measured using JC-
+ (c) ATP content
+ (d) Cytochrome c oxidase (complex IV) activity in isolated mitochondria
+ (e) Succinate dehydrogenase (SDH, complex II) activity in isolated mitochondria
+ (f) DNA fragmentation level as a result of oxidative damage measured using agarose gel electrophoresis
+ Group I: Control; Group II: Cisplatin; Group II: Cisplatin+C-Mn3O4 NPs
+ (g) Schematic overview of the comprehensive mechanism of action of C-Mn3O4 NPs as a redox medicine against cisplatin induced CKD
+ The numbers in the black circles indicate the sequence of events
+ Data are expressed as Mean  SD
+ N=
+ *, **, *** Values differ significantly from control group (without treatment) (***p < 
+001; **p < 
+01; *p < 
+ )
+ (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 15, 
+ ;    

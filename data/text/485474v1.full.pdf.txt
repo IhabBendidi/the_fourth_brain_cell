@@ -1,0 +1,246 @@
+Brain volumes of very low birth weight infants measured by two dimensional cranial 1Department of Neonatology, NICU, Zekai Tahir Burak Health Practice and Research Center, Funding Source: This research did not receive any specific grant from funding agencies in Dr Fuat Emre CANPOLAT Department of Neonatology, NICU,  Zekai Tahir Burak not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    Cranial ultrasonography is the main neuroimaging technique for very low birth weight infants
+ Brain volume is a very important information about central nervous system of preterm babies
+ This study aimed to evaluate brain volumes of preterm infants with two dimensional scanning
+ Brain considered a spheric, ellipsoid model and estimated absolute brain volume (EABV) calculated by substracting two lateral ventricular volumes from the total brain One hundred and twenty one preterm infants under a birthweight of 1500 g and 32 weeks of gestational age included in this study
+ Mean gestational age of study population  was 27,7 Twenty two of 121 infants had dilated ventricle, in this group EABV was lower than normal group (202  58 cm3 vs 250  53 cm3, respectively, p<
+ )
+ Advanced resuscitation, bronchopulmonary dysplasia and late onset sepsis found to be independent risk factors for low Estimated absolute brain volume could be calculated and estimated by two dimensional Key words: cranial ultrasonography, brain volume, ventricular volume, very low birth not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    Nonhemorrhagic ventriculomegaly (NHVM) or dilated ventricle is a common finding in very preterm infants ()
+ Nonhemorrhagic ventriculomegaly is associated with increased risks of measurements have been used, there is no concensus on which  measurements or cutoff values should be applied
+ This problem is about preterm infants who do not experience cranial bleeding or periventricular leukomalacia (PVL) because this pathologies should be evaluated seperately
+ Previous studies showed that the ventricular-brain ratio is another way of estimation brain volume in association with head circumference and widths of lateral ventricular horns ()
+ There is some evidence about a good correlation between ultrasonographic measurements and magnetic resonance imaging for volume of ventricles for preterm infants ()
+ Brain volume of preterm infants is an important factor that has an computerized tomography is not a routine advanced imaging technique for preterm infants Furthermore transfontanel ultrasonography is the simplest method to assess preterm brain, appropriate for scanning, easy to use, accessible and even could be found in low resource settings ()
+ We hypothesized that we can calculate the absolute brain volume by subtracting the ventricular volumes from the total brain volume measured and calculated with two Consequently the main aim of this study was to measure 2D distances obtained by not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    This prospective study was conducted in Neonatal Intensive Care Unit (NICU) at University of Health Sciences Zekai Tahir Burak Health, Practice and Research Center Hospital, Ankara Turkey
+ This perinatal center has a NICU with 130 beds and 18,000 birth per year
+ During the study period (January 2017- May 2018) 341 infants were born under 1500 gr and 32 weeks of gestational age
+ Of these 341 infants, 55 died within the first week, 41 were small for gestational age, 72 had Grade III-IV cranial bleeding, 12 had prominent periventricular leukomalacia (PVL), 40 patient dropped out because of, lost follow up (18), declined participation (14) and died (8) before the last examination (34 weeks of gestational age)
+ A total of remaining 121 infants were eligible for all serial cranial ultrasound examinations (Figure )
+ Local review board ratification (Medical Specialty Training Board, TUEK) and Advanced resuscitation in delivery room, if an infants need intubation, and/or chest compression, or drug administration in the delivery room soon after birth
+ Prolonged parenteral nutrition means if an infant needs parenteral nutrition more than 2 Delayed regain of birthweight, if an infant reaches birthweight for more than 2 weeks
+ Feeding intolerance is consist of delayed meconium passage, significant abdominal distension without significant emesis or orogastric tube output but more than >50% gastric residuals at least two times a day, as a result feeding intolerance cause a feeding break
+ not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    Late onset sepsis (culture proven) defined as, clinical worsening with skin abnormalities, findings of sepsis after 7 days of postnatal age without a blood culture positivity ()
+ Bronchopulmonary dysplasia, defined as moderate and severe forms of the disease described before as oxygen dependence at 36 weeks of postmenstrual age ()
+ arterial duct, hypotension, days passed on ventilator, necrotizing enterocolitis, anemia, blood transfusions, postnatal steroids, retinopathy of prematurity etc
+ also noted and entered to the Cranial ultrasound was performed (Toshiba AplioTM 300, Canon Medical Systems Turkey, with a 7 Mhz vector transducer probe) by the attending skilled neonatologist for all infants once within postnatal 3-5 days, on the second week, thereafter monthly and at least once at 34 weeks of corrected age
+ Routine radiologic cranial ultrasonographic examinations were also made by consultant radiologist unaware of this study
+ Radiologists did not measured all measurements as we did except ventricular index
+ We have to do our last scanning in NICU at 34 weeks of gestational age because most of the patients were discharged near 34th week
+ Ultrasound was focused on finding IVH (grading according to Papile et al,[8]) and PVL
+ Cystic periventricular leukomalacia was defined as multiple cysts with a typical region in the posterior periventricular white matter near to lateral aspect of the trigone of lateral ventricle and in the white matter adjacent to the foramen of Monro
+ Definition of non-hemorrhagic ventriculomegaly is a ventricular index (9) should not be larger than 97 percentile+ 4mm and not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    larger than 90 p
+ Previous studies showed that a linear measurement of VI for a preterm infant The three cerebral caliber considered for the model (Figure 2A) were half of the intracranial bi-parietal diameter (R1 = BPDia / 2), intracranial postero-anterior or fronto-occipital diameter (R2 = APD / 2) and cranial height (R3 = ICH / )
+ Bone and extracerebral space were not included in these measurements in our study
+ The transvers plane of the cranium at the level of the maximal occipital-frontal circumference was considered an ellipse for area estimation (area =  X R1 X R2); the cranium was considered as an ellipsoid for volume estimation (volume = 4/3 X  X R1 X R2 X R)()
+ Lateral ventricles are reverse C shaped, asymmetric formations
+ Ventricular volume can be measured by 2D or 3D dimensional ultrasound (3,13,14) and magnetic resonance imaging
+ We calculated estimated ventricular volume as calculating volume of a truncated cone which is confirmed mathematically
+ The small radii is represented by anterior horn width (AHW), the big radii was thalamo-occipital distance (TOD) and the height of the cone was APD (Figure B)
+ Each ventricle measured and calculated seperately beacuse of assymetry
+ All measured distances are explained in Table 1 and Figure 
+ Estimated absolute brain volume (EABV) obtained by substracting two lateral ventricular volumes from the brain volume
+  All this data entered a personal computer, by using MS Excel and with its function property
+ Then all these data entered to SPSS for Windows version 21 to assess statistical nominal logistic regression used for dilated ventricle as dependent variable, covariates not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    designed as birthweight and gestational age, independent variables were, resuscitation in the intolerance, late onset sepsis and bronchopulmonary dysplasia which were all statistically different between groups (infants with and without NHVM) shown by Chi-square test
+ Mean gestational age of study population (n=121) was 27,7 weeks (23-31), and mean birthweight was 1057 g (-)
+ Fifty four  (44,6%) of 121 were male, 94 (77%) were delivered via cesarean section
+ Mean CRIB score was 4 (1-13), 22 (18,2 %) had dilated ventricle, 51 (42%) of these infants had advanced resuscitation, 50 (41%) received parenteral nutrition more than two weeks, 49 (40%) infants reached their birthweights more than two weeks, 48 (39%) had some experience about feeding intolerance, 54 (44%) had clinically suspected late onset sepsis, 40 (33%) had moderate to severe bronchopulmonary dysplasia
+ We also compared clinical characteristics of infants with and without dilated ventricle (Table )
+  After adjusting data with gestational age and birthweight, resuscitation, bronchopulmonary dysplasia and late onset sepsis were independent risk factors for low brain volume and NHVD (Table )
+ Respiratory distress syndrome, surfactant administration, patent associate to ventricular enlargement and low brain volume in our study population
+ Biparietal diameter and ICH were highly correlated with brain volume (r: 
+854, p:
+001, To the best of our knowledge this is the first study which calculates and estimates absolute brain volume with 2D cranial ultrasound measurements in very low birth weight infants
+ Our not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    data suggests that brain volume could be calculated by 2D ultrasonographic distances and this is the most easiest way to observe preterm infants estimated absolute brain volume
+ Even in low resource settings, cranial ultrasonography is the main neuroimaging method that has low cost, easy to use, safe and simple
+ Ventriculomegaly alone is an important issue for preterm infants and associated with poor neurologic outcome ()
+ We can say that the larger ventricle, the smaller brain tissue and this is associated with poorer neurologic outcome (15) so that brain tissue volume of preterm infants is also another way of predicting neurologic In many studies, low brain volume is associated with morbidites and neurodevelopmental impairment (,)
+ All preterm infants should be evaluated for cranial pathologies, screening is recommended for preterm infants under 30 weeks of gestational once between 7 and 14 days of age and should be optimally repeated between 36 and 40 weeks postmenstrual age and this is recommended by American Academy of Pediatrics, American Academy of Neurology and many other national medical societies ()
+ There is no recommendation that all preterms under 1500 gr or less than 32 weeks of gestational age should undergo advanced neuroimaging such as cranial tomography and/or cranial MRI except additional clues like malformations of central nervous system and PVL
+ Therfore very preterm infants with less morbidites and minor complications do not undergo routine advanced neuroimaging in many NICUs but they usually have at least a cranial US scan
+  The ventricular index is one of the important parameter to diagnose or scan ventricular dilation
+ Previous studies published  nomogram for the VI in newborns (,)
+ Both data showed that upper limit of VI depends on gestational week
+ The reference values of these studies correlate well for term and near term neonates, while those for very low birth weight not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    newborns show more variation
+ This may be associated that the lower the post-menstrual age the fewer infants were studied, increase the error of mean
+ Liao et al studied preterm infants near 26-27 weeks of gestation, who are at risk of developing ventricular dilation ()
+ Additionally only evaluation of anterior horn and VI is not enough to say ventricular dilation or reduced brain volume
+ Therefore more data and new techniques are needed especially for Another important measurement is anterior horn width (AHW)
+ In the majority of newborns, the AHW is less than 3 mm (,-)
+ The clinical importance of an AHW more than 3 mm in the absence of bleeding is not obvious
+ An AHW between 3 and 5 mm was not associated with neurodevelopmental impairment at a follow up visit in a group of thirteen babies within the first year of life ()
+ Values over 6 mm, however, are associated with ventricular distension and suggest the need for surgical treatment according to Govaert et al and may be associated with reduced brain volume in the absence of cranial-ventricular hemorrhage ()
+ The other main measurement of preterm ventricle is TOD
+  Controversy also exists whether normal values of occipital horn size and TOD depend on gestational week
+ Furthermore, the variation in reported reference curves is remarkable ()
+ Reeder and friends reported that (22) regardless of the degree of prematurity, an occipital horn length larger than 16 mm suggests main cerebral problmes in premature infants
+ Davies and friends (11) reported much higher reference ranges for  TOD in preterm neonates, with an upper limit of 
+7 mm
+ One of the other issue about brain measurements of preterm infant is ventricular asymmetry
+ During brain growth ventricular asymmetry may be infulenced by genetic and environmental factors (,)
+ It has also been documented that in case of ventricular asymmetry, ventricle dilation is frequently associated with a bigger ipsilateral choroid plexus
+ In previous studies, relationship was found between asymmetric ventricle and mode of delivery, gender and the not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    Extracerebral space is another parameter should be taken into consideration for brain volume
+ Some infants have large extracerebral space in our study but we did not calculate additional volume for extracerebral space
+ In our study, intracranial measurements started at the margin Ventricular/brain ratio and lateral ventricular diameter are also investigated for assessing brain volume and predicting neurologic outcome ()
+ The authors concluded that the ventricular/ brain ratio, size of the lateral ventricles, and head circumference are suitable measures for the estimation of total and regional brain volumes and  this study confirmed that As we observed that each of measurements are associated with ventricular dilation seperately and all have some predictive power for assessing brain volume
+ We hypothesized that a calculation which covers all these parameters will give a more proper information about preterm brain volume
+ We suggest that sonographers and clinicans should make all these measurements as they do before and enter these data to a computer based system and could Of course there are some limitations of this study
+ One of them is we could not confirm these calculations by MRI or similar advanced neuroimaging techniques
+ But this should not be a major shortcoming because further studies and measurements may be established with these ultrasonographic measurements and next years more infants may be evaluated and percentiles and larger databases would be added on these data shortly
+ In future studies infants will have only ultrasonographic measurements even if they do not have any additional intracranial Another limitation is the timing of last ultrasonographic assessment which is at 34 weeks of gestational age
+ Our plan was to make a scan at 36 or 40 weeks of gestational age but this will not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    be resulted in drop out of some infants
+ We did not change the discharge time of infants because of our study protocol and this would be an intervention and would not be ethical  We do not know EABV is associated or related with neurologic outcome
+ We will follow up these patients and will be sharing neurodevelopmental results of our cohort as soon as Additionally there is no other clinican and/or radiologist doing all ultrasonographic measurements except ventricular index to assess an interobserver difference, this is also Anyway this method is safe, effective, easy to use and an applicable model for estimating preterm brain volume
+ As a conclusion, absolute brain volume could be calculated and measurements could be entered a database and/or computer base programme and may give more proper and reliable information about brain volume without any risk or workload in not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    a
+ Ethics approval and consent to participate: All study approvals (Local instutional parental consents, this was in verbal form because cranial ultrasonography is a routine procedure during hospitalization in NICU) received before the initiation of this study
+ b
+ Consent for publication
+ We have approval for publication of these data
+ c
+ The datasets used and/or analysed during the current study are available from the f
+ Authors contributions: GKS, FEC collected data and search literatre, FEC made USG measurements, MB collected data and helped patient care, GKK, CT revised and not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    
+ Maunu J, Parkkola R, Rikalainen H, Lehtonen L, Haataja L, Lapinleimu H; PIPARI Group
+ Brain and ventricles in very low birth weight infants at term: a comparison 
+ Pappas A, Adams-Chapman I, Shankaran S, McDonald SA, Stoll BJ, Laptook AR, Carlo WA, Van Meurs KP, Hintz SR, Carlson MD, Brumbaugh JE, Walsh MC, Wyckoff MH,Das A, Higgins RD; Eunice Kennedy Shriver National Institute of Child 
+ Horsch S, Bengtsson J, Nordell A, Lagercrantz H, Adn U, Blennow M
+ Lateral ventricular size in extremely premature infants: 3D MRI confirms 2D ultrasound 
+ Keunen K, Kersbergen KJ, Groenendaal F, Isgum I, de Vries LS, Benders MJ
+Brain 
+ Ment LR, Bada HS, Barnes P, Grant PE, Hirtz D, Papile LA, Pinto-Martin J,Rivkin M, Slovis TL
+ Practice parameter: neuroimaging of the neonate: report of the Quality Standards Subcommittee of the American Academy of Neurology and the Practice 
+ Vergnano S, Sharland M, Kazembe P, Mwansambo C, Heath PT
+ Neonatal sepsis: an 
+ Jobe AH, Bancalari EH
+ Controversies about the definition of bronchopulmonary 
+ Papile L-A, Burstein J, Burstein R, Koffler H
+ Incidence and evolution of subependymal and intraventricular hemorrhage: a study of infants with birth weight not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    
+ Levene MI
+ Measurement of the growth of the lateral ventricles in preterm infants 
+ Brouwer MJ, de Vries LS, Groenendaal F, Koopman C, Pistorius LR, Mulder EJ, Benders MJ
+ New reference values for the neonatal cerebral ventricles
+ Radiology
+ 
+ Davies MW, Swaminathan M, Chuang SLBF
+ Reference ranges for the linear dimensions of the intracranial ventricles in preterm neonates
+ Arch Dis Child Fetal 
+ Graca AM, Cardoso KR, da Costa JM, Cowan FM
+ Cerebral volume at term 
+ Doria V, Arichi T, Edwards DA
+ Magnetic resonance imaging of the preterm infant 
+ Csutak R, Unterassinger L, Rohrmeister C, Weninger M, Vergesslich KA
+ Three-dimensional volume measurement of the lateral ventricles in preterm and term infants: evaluation of a standardised computer-assisted method in vivo
+ Pediatr Radiol
+ 2003 
+ Rademaker KJ, Uiterwaal CS, Beek FJ, van Haastert IC, Lieftink AF, Groenendaal F, Grobbee DE, de Vries LS
+ Neonatal cranial ultrasound versus MRI and neurodevelopmental outcome at school age in children born preterm
+ Arch Dis Child 
+ Counsell SJ, Rutherford MA, Cowan FM, Edwards AD
+ Magnetic resonance imaging of preterm brain injury
+ Arch Dis Child Fetal Neonatal Ed
+ 2003 Jul;():F-
+ 
+ Fox LM, Choo P, Rogerson SR, Spittle AJ, Anderson PJ, Doyle L, Cheong JL
+ The relationship between ventricular size at 1 month and outcome at 2 years in infants less than 30 weeks' gestation
+ Arch Dis Child Fetal Neonatal Ed
+ 2014 May;():F-
+ 
+ Liao MF, Chaou WT, Tsao LY, Nishida H, Sakanoue M
+ Ultrasound measurement of the ventricular size in newborn infants
+ Brain Dev 1986; 8: 
+ 
+ Sondhi V, Gupta G, Gupta PK, Patnaik SK, Tshering K
+ Establishment of nomograms hemispheric ratio in newborns by ultrasonography
+ Acta Paediatr 2008; 97: 73844 
+ Perry RN, Bowman ED, Murton LJ, Roy RN, de Crespigny LC
+ Ventricular size in 
+ Govaert P, de Vries LS
+ An atlas of neonatal brain sonography
+ London: Mac Keith 
+ Reeder JD, Kaude JV, Setzer ES
+ The occipital horn of the lateral ventricles in premature infants
+ An ultrasonographic study
+ Eur J Radiol 1983; 3: 14850 
+ Brouwer MJ, de Vries LS, Pistorius L, Rademaker KJ, Groenendaal F, Benders MJ
+ Ultrasound measurements of the lateral ventricles in neonates: why, how and when? Figure 
+ Measurements of brain and ventricles as geometric figures
+ ICH, Intracranial not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    Figure 
+ Measurements of brain and ventricles on ultrasonographic images
+ ICH, Intracranial not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    CRIB, Clinical risk index for babies; EABV, estimated absolute brain volme; VI, ventricular index; VH, ventricular height, BPDia, Biparietal diameter; ICH, intracranial height; TOD, not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted December 7, 
+ ;    

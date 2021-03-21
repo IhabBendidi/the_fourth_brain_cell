@@ -1,0 +1,563 @@
+Short-term aerobic training does not improve memory functioning in relapsing remitting multiple sclerosis  a randomized controlled trialShort-term aerobic training does not improve memory functioning in relapsing remitting Baquet L1, Hasselmann H2, Patra S3, Stellmann JP1,4, Vettorazzi E5, Engel AK6, Rosenkranz 1 Institute for Neuroimmunology and Multiple Sclerosis (INIMS), University Medical Center 2 Charit  Universittsmedizin Berlin, Campus Benjamin Franklin, Department for Psychiatry not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    Objective and methods: This randomized controlled trial aimed to determine the effects of aerobic exercise on cognition in relapsing-remitting MS
+ The primary outcome was verbal memory (Verbal learning and memory test, VLMT)
+ Patients were randomized to an intervention group (IG) program or a waitlist control group (CG)
+ Patients in the IG exercised according to an individually tailored training schedule (with 2-3 sessions per week for 12 weeks)
+ The primary analysis was carried out using the intention-to-treat (ITT) sample with Results: 77 RRMS patients were screened and 68 participants randomized (CG n=34; IG n=)
+ The sample comprised 68% females, had a mean age of 39 years, a mean disease duration of 
+3 years, and a mean EDSS of 
+ 
+ No significant effects were detected in the ITT analysis for the primary endpoint VLMT or any other cognitive measures
+ Moreover, no significant treatment effects were observed for quality of life, fatigue, or depressive symptoms
+ Conclusion: This study failed to demonstrate beneficial effects of aerobic exercise on cognition not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    While the pathological hallmark of multiple sclerosis (MS) is inflammation and demyelination of the central nervous system, progressive neurodegeneration plays an important role in MS pathobiology and occurs early on in the disease process (Reich et al )
+ So-called disease modifying therapies can control the inflammation to a variable extent and are thus able to decrease the frequency of relapses (Wingerchuk & Weinshenker )
+ However, there is only modest evidence that the long-term disease progression is altered
+ Neurodegeneration is thought to be a major driver of MS-related impairments in higher order brain functions such as cognition,  highlighting the importance of developing treatment options in this area (Amato et Exercise training has received increasing attention as a putative strategy to target the degenerative component of multiple sclerosis (Motl et al )
+ Some (Kim & Sung 2017), albeit not all (Klaren et al 2016) studies conducted in experimental autoimmune encephalomyelitis (the animal model of MS) have indicated a neuroregenerative effect of exercise
+ For example, Kim et al showed that exercise can improve memory function and Moreover, there are clinical data that support the neuroprotective potential of exercise
+ In healthy elderly humans, aerobic exercise training selectively increased the size of the anterior hippocampus and change in hippocampal volume was significantly related to improved memory in the exercise group (Erickson et al )
+ Epidemiological studies have reported an association of physical fitness with lower risk of dementia disorders (Winblad et al )
+ In addition, lifestyle interventions including exercise and nutrition counselling can reduce the risk of cognitive deterioration in people with minimal cognitive deficits (Ngandu et al)
+ Thus, not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    cognitive performance seems to be a suitable endpoint to determine neuroprotective effects of However, while numerous studies now have shown beneficial effects of exercise training on physical capacity, strength, quality of life, mood (Latimer-Cheung et al 2013) and fatigue in MS (Heine et al 2015), high quality clinical trials focusing on cognitive function are scarce and the evidence not conclusive (Sandroff et al )
+ To our knowledge no study yet has addressed In the current study, we aimed to determine the effects of individually tailored aerobic exercise on verbal learning and memory as the primary endpoint in patients with relapsing-remitting Our trial was a single-blind, 1:1 randomized, controlled phase IIa study with an active intervention (IG) and a waitlist control group (CG)
+ Patients in the IG underwent bicycle ergometry training with 2-3 sessions per week for 12 weeks and a subsequent extension phase of another 12 weeks
+ During the extension phase, patients originally randomized to the waitlist group had the opportunity to train as well and intervention group patients were invited to The primary endpoint of our study was the Verbal Learning and Memory Test (VLMT) (Lux et al )
+ Secondary endpoints were other cognitive functions (see below for details), as well as neuroimaging parameters (which will be reported separately)
+ Tertiary endpoints were walking ability and motor function (for details see below) as well as patient reported outcomes not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    All endpoints were obtained at the MS Day Hospital at the University Medical Center Hamburg Eppendorf at baseline (t0), after the intervention (week 12; t1) and at the end of the extension phase at week 24 (t)
+ Patient recruitment was conducted by screening the registry database of the MS Day Hospital at the University Medical Center Hamburg Eppendorf for patients who met inclusion criteria and had indicated an interest in information about new clinical studies
+ Recruitment started in January 2013 and was completed in November 
+ The trial was approved by the ethics committee of the Hamburg Chamber of Physicians, (Registration Number PV)
+ Participants gave written consent before enrolling in the study
+ To be eligible for trial participation, patients had to be diagnosed with relapsing remitting MS (RR-MS) according to the McDonald criteria 2010 (Polman et al 2011), an EDSS score <
+5, and currently in remission with no relapse or progression during the last 3 months
+ Patients had to be on stable immunotherapy for more than three months or without any planned treatment Exclusion criteria were severe cognitive impairment or major psychiatric comorbidity (e
+ g
+ severe depression, psychosis, dementia) based on clinical judgement
+ Patients not capable to undergo aerobic exercise for medical reasons (i
+e, due to heart disease) were excluded
+  not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    Sample size calculation was based on the results obtained in our previous trial (Briken et al )
+ For the VLMT learning subtest we calculated group sample sizes of 20 each to achieve 90% power to detect a difference of -
+8 points on the scale
+ For the VLMT delayed recall we calculated group sample sizes of 17 and 17 to achieve 92% power to detect a difference of -
+ 
+ Significance level (alpha) was set as 
+025 using a two-sided two-sample t-test
+ For the dual primary endpoints 90% of power could thus be achieved by recruiting n=20 patients for each arm of the trial To safeguard against dropouts and the possibility that the effect sizes in the pilot trial had overestimated the real effect, we planned to enroll at least n=60 patients (approximately n=30 in each trial arm)
+ After reaching the intended sample size the trial was Inclusion was performed by physicians from the MS Day Hospital Random sequence was generated by E
+ Vettorazzi
+ Using a computer-based random number generator, we performed randomization by concealed allocation
+ While blinding of the participants was not possible, the The intervention comprised 12 weeks of aerobic exercise on a bicycle ergometer
+ The pre-specified interval training schedule was tailored to the patients individual level of aerobic fitness as determined by a spiroergometric exhaustion test at baseline (see trial protocol for details)
+ The patients had to train 2-3 times a week for 12 weeks
+ Duration and power (in watts) in each training session were gradually increased to achieve a continuous increase of performance while keeping the perceived (Borg scale) and objectively measured (heart rate) exhaustion at a constant level
+ Each session consisted of 3-5 intervals with short breaks and lasted for a maximum of 70 minutes each
+ Details are provided in the trial protocol (see Suppl
+ not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    From the Verbal Learning and Memory Test (VLMT) (Lux et al 1999) we used the learning curve (words memorized in trials 1-5) and the delayed recall as a measure of memory
+ This choice was based on several considerations: 
+ While processing speed is often considered the most sensitive screening test for cognitive impairment in MS (Costa et al 2016), impairments in learning and memory are also highly common in this population (Chiaravalloti & DeLuca 2008); 
+ Basic science and clinical trials in healthy aging have indicated that CNS networks involved in learning and memory are particularly affected by exercise (Loprinzi et al 2017) and 
+ Results from our previous trial in progressive MS suggested that verbal learning and Other neuropsychological functions were tested as secondary endpoints
+ We chose the Symbol-Digit-Modalities Test (SDMT) and the Paced Auditory Serial Addition Test (PASAT) to assess information processing (Fischer et al 1999) (Lpez-Gngora et al )
+ Visuospatial learning and memory was assessed using the Brief Visuospatial Memory Test  Revised (BVMT-R) (Tam & Schmitter-Edgecombe )
+ In addition, we applied the Corsi Block-Tapping Task (Berch et al 1998) to assess short term and working memory
+ Three subtests of the Test Battery for Attention (TAP) were used to assess attention  alertness, covert shift of attention (CSA) and incompatibility (Zimmermann & Fimm )
+ We administered the Regensburg Verbal Fluency Test (RWT) as a measure of verbal fluency (Aschenbrenner et al )
+ To assess social cognition / theory of mind, we utilized an abbreviated version of the Movie for the not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    The Six Minute Walking Test (6MWT) (Goldman et al 2008) and the Timed 25-Foot Walk (T25FW) (Kaufman et al 2000) served to assess walking ability
+ The Nine-Hole Peg Test (9HPT) assessed motor function of the upper body (Feys et al )
+ We included the 16-item Inventory of Depressive Symptomatology (IDS16SR) (Fischer et al 2015), the Fatigue Scale for Motor and Cognitive Function (FSMC) (Penner et al 2009), the Hamburg Quality of Life Questionnaire for Multiple Sclerosis (HAQUAMS) (Gold et al 2001) and the Multiple Sclerosis Walking Scale-12 (MSWS-12) (Hobart et al )
+ Bicycle spiroergometry using a Metalyser 3b (CORTEX Biophysik GmbH, Leipzig, Germany) was performed at baseline, after the intervention (week 12), and at the end of the extension phase (week )
+ Peak oxygen intake (VO2peak), oxygen intake per kilogram of body weight (VO2peak/kg) and maximal power (Pmax) as well as Borg scaling and lactate levels were obtained every two minutes
+ The test started with 10 watts after a two-minute resting and a two-minute warm-up phase at 10 watts
+ Performance was continuously increased by 1 watt every 6 seconds which resulted in a ramp of 20 watts/2 min
+ We obtained continuous recordings of stress ECG to monitor cardiovascular function
+ Patients were instructed to exercise until perceived exhaustion (Borg -)
+ Spiroergometry results at baseline provided the anchor for the individualized training schedule which was determined by an algorithm including several maximal and sub-maximal parameters of the spiroergometry session (Power, oxygen intake (VO2), Rating of Perceived Exertion Scale (Borg scaling), lactate thresholds, ventilatory not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    performed near the aerobic threshold level within an individually determined starting point to improve aerobic capacity (Westhoff et al )
+ For training plan details see protocol in the The primary analysis compared changes from baseline to week 12 between the intervention group and the waitlist control group
+ According to guidelines for statistical analysis of clinical trials published by The European Agency for the Evaluation of Medicinal Products for all outcomes using ANCOVA models adjusting for baseline measurements of the respective outcome variable to evaluate treatment effects (measured as change from baseline)
+ No other covariates were included in this primary analysis
+ As recommended, this model did also not include treatment by covariate interactions
+ All primary analyses were conducted as intention-to-treat (ITT) including all patients who had received group allocation
+ Every effort was made to obtain week 12 and week 24 data from all participants (even if they dropped out of the exercise program)
+ In case of missing data, primary ITT analyses were conducted using a Last-same ANCOVA models as per-protocol (PP, i
+ e
+ including only patients who completed the 12 weeks of training with at least 18 training sessions)
+ We also defined a responder group (RG), which included those patients in the IG who showed the strongest increases (upper tercile, n=11) in Pmax values from baseline to week 12 (Pmax_week12  Pmax_baseline)
+  This group was compared to all patients in the control group in additional sensitivity analyses
+ not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    77 patients were interested in participating in our study
+ After screening for eligibility, 68 patients fulfilled the inclusion criteria (for patient attrition see Fig
+ )
+ They were randomized to the IG or a CG
+ On average, patients in the IG received 
+5 training sessions
+ Notably, the proportion of men was higher in the IG than in the CG (38% versus %)
+ 58 patients had complete data at baseline- as well as the follow-up-testing 12 weeks later
+ For the ITT analyses, all patients randomized were included (i
+ e
+ 34 patients in each group)
+ Overall, patients had low to moderate clinical disability (median EDSS=
+5; range 0  
+ )
+ Cognitive function overall was in the range of what would be expected in early RRMS and as a group only showed mild impairment (PASAT showed the highest rate of individual abnormal values with baseline findings below age and education adapted references in n=5 IG and n=4 Disease duration - symptoms (years) 
+1 (
+7) 
+1 (
+7) 
+2 (
+2) 
+8 (
+7) Disease duration - diagnosis (years) 
+7 (
+3) 
+8 (
+5) 
+6 (
+0) 
+4 (
+6) CG: Control group; IG: Intervention group; ITT: intention to treat; PP: per protocol; RG: Responder subgroup not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    No significant treatment effects were detected for the primary endpoints (VLMT learning, VLMT delayed recall) or any of the other neuropsychological tests included
+ This was seen in the ITT analyses as well as the sensitivity analyses (PP and responder analyses)
+  VLMT 1-5 
+7 (
+1) 
+0 (
+0) 
+1 (
+3) 
+6 (
+6) 
+61 VLMT 5-7 
+8 (
+4) 
+2 (
+5) 
+0 (
+7) 
+1 (
+6) 
+53 SDMT (points) 
+9 (
+2) 
+4 (
+8) 
+2 (
+1) 
+5 (
+9) 
+18 BVMT-R total learning (points) 
+8 (
+7) 
+3 (
+7) 
+4 (
+2) 
+0 (
+5) 
+74 BVMT-R recall (points) 
+9 (
+0) 
+1 (
+6) 
+0 (
+0) 
+8 (
+0) 
+24 BVMT-R recognition hits (points) 
+8 (
+5) 
+9 (
+3) 
+9 (
+3) 
+9 (
+5) >
+99 BVMT-R false alarms (points) 
+0 (
+2) 
+1 (
+2) 
+1 (
+3) 
+0 (
+0) 
+06 TAP Tonic Alertness (msec) 
+0 (
+6) 
+5 (
+9) 
+2 (
+9) 
+0 (
+4) 
+18 TAP Phasic Alertness (msec) 
+9 (
+8) 
+0 (
+8) 
+9 (
+4) 
+4 (
+0) 
+91 TAP CSA valid (msec) 
+8 (
+6) 
+8 (
+3) 
+6 (
+4) 
+9 (
+5) 
+87 TAP CSA invalid (msec) 
+8 (
+6) 
+0 (
+7) 
+4 (
+6) 
+8 (
+6) 
+71 TAP Incompatibility (msec) 
+2 (
+9) 
+9 (
+6) 
+0 (
+9) 
+8 (
+7) 
+46 RWT verbal fluency I (points) 
+3 (
+1) 
+7 (
+1) 
+3 (
+7) 
+8 (
+9) 
+65 RWT verbal fluency II (points) 
+9 (
+1) 
+3 (
+1) 
+6 (
+6) 
+6 (
+3) 
+72 RWT verbal flexibilty (points) 
+4 (
+0) 
+7 (
+9) 
+7 (
+5) 
+9 (
+1) 
+99 PASAT (points) 
+7 (
+7) 
+9 (
+3) 
+8 (
+8) 
+6 (
+4) 
+13 Corsi forwards (points) 
+0 (
+2) 
+2 (
+3) 
+8 (
+9) 
+6 (
+9) 
+19 Corsi backwards (points) 
+5 (
+9) 
+6 (
+7) 
+5 (
+9) 
+0 (
+8) 
+12 VLMT: Verbal Learning and Memory Test; SDMT: Symbol Digit Modalities Test; BVMT-R: Brief Visuospatial Memory Test-Revised; TAP Tonic Alertness: Test Battery for Attention Tonic Alertness; TAP Phasic Alertness: Test Battery for Attention Phasic Alertness; TAP CSA valid: Test Battery for Attention covert shift of attention valid; TAP CSA invalid: Test Battery for Attention covert shift of attention invalid; TAP Incompatibility: Test Battery for Attention Incompatibility; RWT: Regensburger Verbal Fluency Test; PASAT: Paced Auditory Serial not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    Similarly, ITT analyses of motor function was negative with no significant effects in 3 measures (6MWT, T25, 9HPT dominant hand)
+ One test (9HPT non-dominant hand) showed significant 6 MWT (m) 
+1 (
+7) 
+4 (
+1) 
+8 (
+8) 
+7 (
+2) 
+85 9 HPT dominant (sec) 
+5 (
+7) 
+6 (
+6) 
+1 (
+9) 
+6 (
+0) 
+11 9 HPT non dominant (sec) 
+6 (
+9) 
+9 (
+0) 
+8 (
+1) 
+0 (
+5) 
+03 T25FW (sec) 
+8 (
+8) 
+8 (
+8) 
+8 (
+8) 
+8 (
+8) 
+49 V02peak (ml O2/min) 
+5 (
+5) 
+6 (
+4) 
+5 (
+3) 
+4 (
+4) 
+37 V02peak/kg ((ml O2/min)/kg) 
+2 (
+9) 
+0 (
+8) 
+6 (
+5) 
+6 (
+4) 
+24 Pmax (watt) 
+4 (
+4) 
+3 (
+4) 
+5 (
+1) 
+6 (
+0) 
+01 6 MWT: Six minute walking test; 9 HPT: Nine-Hole Peg Test; T25FW: Timed 25-foot walk; Pmax: maximal IDS16-SR: 16-item version of Inventory of Depressive Symptomatology Self-Rated; FSMC: Fatigue Scale for Motor and Cognitive Functions; MSWS-12: 12-item MS Walking Scale; HAQUAMS: Hamburger Quality of Life not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    Significant treatment effects favoring the intervention group were observed for Pmax in the ITT analysis (see Table )
+ This was confirmed in the PP analysis
+  However, VO2 Peak and VO2/kg Reflecting on baseline fitness indices with 140-160 watts at Pmax and 25 -27 ml (O2/min)/kg at Finally, there were no significant treatment effects in any of the patient-reported outcome measures including quality of life, fatigue, mood or self-reported walking ability (see table )
+ Overall, our trial of standardized exercise over 12 weeks in RRMS patients compared to a waitlist control group failed to meet its clinical endpoints
+ Specifically, the study did not show effects on any cognitive measure and failed to produce significant changes in any of the obtained patient related or objective outcome measures for functioning in MS
+ These results thus cast doubt on the generalizability of recent trials that suggested the potential of exercise to improve cognitive function in progressive (Briken et al 2014) or relapsing-remitting MS Compared to our previous study in progressive MS patients (Briken et al 2014), RRMS patients in the current trial were substantially less disabled physically and cognitively, thereby potentially limiting room for improvements (ceiling effect)
+ Mean EDSS values were below 
+0 which were the lowest among 26 recently reviewed exercise interventions in MS assessing cognition as an outcome (Sandroff et al )
+ In addition, all mean baseline scores on cognitive function were within 1 SD of normative values
+ In contrast, unselected RRMS cohorts not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    show cognitive deficits in at least 40% (Chiaravalloti & DeLuca )
+ Interestingly from the 26 studies referred to above, only two case report studies selected patients based on cognitive deficits
+ Our study underlines that further studies on the cognitive effects of exercise treatments need to address patients presenting with relevant cognitive deficit
+ Another aspect to consider is the choice of verbal learning and memory as our primary endpoint
+ As described in the Methods section above, this choice was based on several considerations
+ However, it could be argued that  given its high sensitivity for detecting cognitive impairment in MS  a test of processing speed (e
+ g
+ the SDMT or the PASAT) might have been a more suitable choice
+ However, given our null effects across all cognitive domains tested as primary or secondary endpoints (including the SDMT and PASAT), this would not have changed our results
+ One strength of our study is that cognition was predefined as the primary outcome
+ Moreover, based on our previous work we chose verbal learning and memory as key domain
+ But is verbal learning and memory the neurocognitive domain most sensitive to exercise interventions? Consistent with our earlier study in progressive MS, a recent trial on high intensity training could show effects on different cognitive dimensions with strongest effects in the verbal memory dimension of the BICAMS (Zimmer et al )
+ However, in the few other MS exercise studies most effects were reported in information processing speed and executive functioning (Sandroff et al )
+ From studies on healthy aging it appeared that depending on age and intervention different cognitive domains might be influenced (Htting & Rder )
+ For example, Htting et al have shown an improvement of episodic memory in middle-aged adults after cardiovascular training but enhanced attention scores after a combined stretching/coordination training (Htting et al )
+ Thus, further work is needed to address which domains might be most sensitive for which intervention at which intensity and at which not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    Training intensity  albeit carefully tailored to the individual patients level of fitness at baseline - was only moderate
+ While available meta-analyses indicate a consistent benefit of exercise training in MS on fitness (Latimer-Cheung et al 2013), this effect can be subtle or not detectable in individual trials
+ In our previous trial in progressive MS (Briken et al 2014) with a similar number of training sessions over 10 weeks, VO2 peak increases in the IG were small and between group comparisons reached significance mainly due to worsening of the control group
+ An earlier study in a mixed sample of relapsing and progressive patients of 8 weeks duration failed to detect significant increases in VO2peak (Schulz et al )
+ Therefore, a more challenging training plan might be considered in future trials, especially in patients with Having said that, effects of exercise training on cognitive functioning in other populations seem not to directly depend on fitness parameters
+ Resistance training or coordinative training regimen have been shown to improve different cognitive measures (Htting & Rder )
+ Therefore, cardiovascular fitness indicators can only be regarded as surrogate markers and not In a related matter, training duration might have been too short
+ MS exercise studies to date typically employ training programs of approximately 12 week duration (Latimer-Cheung et al 2013) with the longest studies up to 26 weeks
+ Studies in ageing healthy adults performed training in up to 52 weeks and meta-analytic data indicate a relevant effect of intervention length (Northey et al )
+ Intriguingly, the recent study by Zimmer indicated that high intensity training over just 3 weeks can have beneficial effects on cognition as well other functional domains (Zimmer et al )
+ Therefore, an optimal balance of intensity and duration needs to be achieved and weighted against other factors such as treatment adherence and attrition
+ In this context, acceptance of a control condition needs to be discussed
+ not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    Finally, on a more optimistic note, it is conceivable that central nervous system (CNS) effects of exercise occur on a subclinical level, i
+ e
+ without detectable effects on formal cognitive testing
+ For example, we recently showed that resistance training can alter structural MRI markers in MS (Kjlhede et al )
+ Thus, MRI might be a more suitable tool to detect early alterations of functional and structural brain status, particularly in short trials
+ In the current trial, we have obtained both measures of structural and functional connectivity, which will be In conclusion we could not demonstrate a beneficial effect of a 12 week moderate exercise training in minor disabled MS on a set of cognitive outcome measures
+ This negative finding This work was funded by the German Ministry of Research and Education within the J
+ P
+ Stellmann received research grants and speaker honoraries from Biogen, Genzyme and Merck
+ C
+ Hessen received research grants and speaker honoraries from Biogen, Genzyme, Novartis and Merck
+ H
+Hasselmann, S
+ Patra, E
+Vettorazzi, A
+ K
+ Engel, S
+ Rosenkranz, J
+ Amato MP, Langdon D, Montalban X, Benedict RHB, DeLuca J, Krupp LB, Thompson AJ, and Comi G
+ 
+ Treatment of cognitive impairment in multiple sclerosis: position paper
+ Aschenbrenner S, Tucha O, and Lange K
+ 
+ Regensburger Wortflssigkeitstest
+ Gttingen: not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    Berch DB, Krikorian R, and Huha EM
+ 
+ The Corsi Block-Tapping Task: Methodological and Briken S, Gold S, Patra S, Vettorazzi E, Harbs D, Tallner A, Ketels G, Schulz K, and Heesen C
+ 
+ Effects of exercise on fitness and cognition in progressive MS: a randomized, Chiaravalloti ND, and DeLuca J
+ 
+ Cognitive impairment in multiple sclerosis
+ The Lancet Costa SL, Genova HM, DeLuca J, and Chiaravalloti ND
+ 
+ Information processing speed in Erickson KI, Voss MW, Prakash RS, Basak C, Szabo A, Chaddock L, Kim JS, Heo S, Alves H, White SM, Wojcicki TR, Mailey E, Vieira VJ, Martin SA, Pence BD, Woods JA, McAuley E, and Kramer AF
+ 
+ Exercise training increases size of hippocampus and improves Feys P, Lamers I, Francis G, Benedict R, Phillips G, LaRocca N, Hudson LD, Rudick R, and Multiple Sclerosis Outcome Assessments C
+ 
+ The Nine-Hole Peg Test as a manual Fischer A, Fischer M, Nicholls RA, Lau S, Poettgen J, Patas K, Heesen C, and Gold SM
+ 
+ Fischer JS, Rudick RA, Cutter GR, and Reingold SC
+ 
+ The Multiple Sclerosis Functional Gold SM, Heesen C, Schulz H, Guder U, Mnch A, Gbadamosi J, Buhmann C, and Schulz KH
+ 
+ Disease specific quality of life instruments in multiple sclerosis: Validation of the Goldman MD, Marrie RA, and Cohen JA
+ 
+ Evaluation of the six-minute walk in multiple Heine M, van de Port I, Rietberg MB, van Wegen EEH, and Kwakkel G
+ 
+ Exercise therapy Hobart JC, Riazi A, Lamping DL, Fitzpatrick R, and Thompson AJ
+ 
+ Measuring the impact of MS on walking ability: The 12-Item MS Walking Scale (MSWS-)
+ Neurology :-Htting K, Reich B, Holzschneider K, Kauschke K, Schmidt T, Reer R, Braumann K-M, and Rder Htting K, and Rder B
+ 
+ Beneficial effects of physical exercise on neuroplasticity and not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    Kaufman M, Moyer D, and Norton J
+ 
+ The significant change for the Timed 25-Foot Walk Kim T-W, and Sung Y-H
+ 
+ Regular exercise promotes memory function and enhances Kjlhede T, Siemonsen S, Wenzel D, Stellmann J-P, Ringgaard S, Pedersen BG, Stenager E, Petersen T, Vissing K, Heesen C, and Dalgas U
+ 
+ Can resistance training impact Klaren RE, Stasula U, Steelman AJ, Hernandez J, Pence BD, Woods JA, and Motl RW
+ 
+ Latimer-Cheung AE, Pilutti LA, Hicks AL, Martin Ginis KA, Fenuta AM, MacKibbon KA, and Motl RW
+ 
+ Effects of Exercise Training on Fitness, Mobility, Fatigue, and Health-Related Quality of Life Among Adults With Multiple Sclerosis: A Systematic Review to Inform Lpez-Gngora M, Querol L, and Escartn A
+ 
+ A one-year follow-up study of the Symbol Digit Modalities Test (SDMT) and the Paced Auditory Serial Addition Test (PASAT) in Loprinzi PD, Edwards MK, and Frith E
+ 
+ Potential avenues for exercise to activate episodic Lux S, Helmstaedter C, and Elger CE
+ 
+ Normierungsstudie zum Verbalen Lern- und Motl RW, Sandroff BM, Kwakkel G, Dalgas U, Feinstein A, Heesen C, Feys P, and Thompson AJ
+ 
+ Exercise in patients with multiple sclerosis
+ The Lancet Neurology :-
+ Ngandu T, Lehtisalo J, Solomon A, Levlahti E, Ahtiluoto S, Antikainen R, Bckman L, Hnninen T, Jula A, Laatikainen T, Lindstrm J, Mangialasche F, Paajanen T, Pajala S, Peltonen M, Rauramaa R, Stigsdotter-Neely A, Strandberg T, Tuomilehto J, Soininen H, and Kivipelto M
+ A 2 year multidomain intervention of diet, exercise, cognitive training, and vascular risk monitoring versus control to prevent cognitive decline in at-risk elderly people Northey JM, Cherbuin N, Pumpa KL, Smee DJ, and Rattray B
+ 
+ Exercise interventions for cognitive function in adults older than 50: a systematic review with meta-analysis
+ Penner IK, Raselli C, Stcklin M, Opwis K, Kappos L, and Calabrese P
+ 
+ The Fatigue Scale for Motor and Cognitive Functions (FSMC): validation of a new instrument to assess Polman CH, Reingold SC, Banwell B, Clanet M, Cohen JA, Filippi M, Fujihara K, Havrdova E, Hutchinson M, Kappos L, Lublin FD, Montalban X, O'Connor P, Sandberg-Wollheim M, Thompson AJ, Waubant E, Weinshenker B, and Wolinsky JS
+ 
+ Diagnostic criteria not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    for multiple sclerosis: 2010 Revisions to the McDonald criteria
+ Annals of Neurology Pttgen J, Dziobek I, Reh S, Heesen C, and Gold SM
+ 
+ Impaired social cognition in multiple Reich DS, Lucchinetti CF, and Calabresi PA
+ 
+ Multiple Sclerosis
+ New England Journal of Sandroff BM, Motl RW, Scudder MR, and DeLuca J
+ 
+ Systematic, Evidence-Based Review of Exercise, Physical Activity, and Physical Fitness Effects on Cognition in Persons with Schulz K-H, Gold SM, Witte J, Bartsch K, Lang UE, Hellweg R, Reer R, Braumann K-M, and neurotrophic factors, quality of life and coordinative function in multiple sclerosis
+ Tam JW, and Schmitter-Edgecombe M
+ 
+ The Role of Processing Speed in the Brief Westhoff M, Ruhle KH, Greiwing A, Schomaker R, Eschenbacher H, Siepmann M, and Lehnigk B
+ 
+ [Positional paper of the German working group "cardiopulmonary exercise Winblad B, Amouyel P, Andrieu S, Ballard C, Brayne C, Brodaty H, Cedazo-Minguez A, Dubois B, Edvardsson D, Feldman H, Fratiglioni L, Frisoni GB, Gauthier S, Georges J, Graff C, Iqbal K, Jessen F, Johansson G, Jnsson L, Kivipelto M, Knapp M, Mangialasche F, Melis R, Nordberg A, Rikkert MO, Qiu C, Sakmar TP, Scheltens P, Schneider LS, Sperling R, Tjernberg LO, Waldemar G, Wimo A, and Zetterberg H
+ 
+ Defeating Alzheimer's disease and other dementias: a priority for European science and society
+ The Lancet Wingerchuk DM, and Weinshenker BG
+ 
+ Disease modifying therapies for relapsing Zimmer P, Bloch W, Schenk A, Oberste M, Riedel S, Kool J, Langdon D, Dalgas U, Kesselring J, and Bansi J
+ 
+ High-intensity interval exercise improves cognitive performance and reduces matrix metalloproteinases-2 serum levels in persons with multiple sclerosis: A Zimmermann P, and Fimm B
+ 
+ Test zur Aufmerksamkeitsprfung
+ Wrselen: Psytest
+ not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this  (which wasthis version posted July 11, 
+ ;    

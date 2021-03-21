@@ -1,0 +1,1783 @@
+Blockade of SARS-CoV-2 infection in vitro by highly potent PI3K-/mTOR/BRD4 inhibitorAuthors: Arpan Acharya1, Kabita Pandey1, Michellie Thurman1, Kishore B
+ Challagundala2, 3 Kendra R
+ Vann3, Tatiana G
+ Kutateladze3, Guillermo A Morales4, Donald L
+ Durden*4,5,6, 4 1Department of Pharmacology and Experimental Neuroscience, University of Nebraska Medical 7 2Department of Biochemistry and Molecular Biology, University of Nebraska Medical Centre, 9 3Department of Pharmacology, University of Colorado School of Medicine; Aurora, CO 80045, 11 5Division of Pediatric Hematology-Oncology, Department of Pediatrics, Moores Cancer Center, 14 UC San Diego School of Medicine; La Jolla, CA 92130, USA
+ 15 7 Department of Genetics, Cell Biology, and Anatomy, University of Nebraska Medical Centre, 17 One Sentence Summary: Evidence of in silico designed chemotype (SF2523) targeting PI3K-23 /mTOR/BRD4 inhibits SARS-CoV-2 infection and is highly synergistic with remdesivir
+   24 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    Pathogenic viruses like SARS-CoV-2 and HIV hijack the host molecular machinery to establish 27 infection and survival in infected cells
+ This has led the scientific community to explore the 28 molecular mechanisms by which SARS-CoV-2 infects host cells, establishes productive 29 infection, and causes life-threatening pathophysiology
+ Very few targeted therapeutics for 30 COVID-19 currently exist, such as remdesivir
+  Recently, a proteomic approach explored the 31 interactions of 26 of 29 SARS-CoV-2 proteins with cellular targets in human cells and identified 32 67 interactions as potential targets for drug development
+ Two of the critical targets, the 33 bromodomain and extra-terminal domain proteins (BETs): BRD2/BRD4 and mTOR, are 34 inhibited by the dual inhibitory small molecule SF2523 at nanomolar potency
+ SF2523 is the 35 only known mTOR PI3K-/(BRD2/BRD4) inhibitor with potential to block two orthogonal 36 pathways necessary for SARS-CoV-2 pathogenesis in human cells
+ Our results demonstrate that 37 SF2523 effectively blocks SARS-CoV-2 replication in lung bronchial epithelial cells in vitro, 38 showing an IC50 value of 
+5 M, comparable to IC50 value of remdesivir (
+1 M)
+ Further, we 39 demonstrated that the combination of doses of SF2523 and remdesivir is highly synergistic: it 40 allows for the reduction of doses of SF2523 and remdesivir by 25-fold and 4-fold, respectively, 41 to achieve the same potency observed for a single inhibitor
+ Because SF2523 inhibits two SARS-42 CoV-2 driven pathogenesis mechanisms involving BRD2/BRD4 and mTOR signaling, our data 43 suggest that SF2523 alone or in combination with remdesivir could be a novel and efficient 44 therapeutic strategy to block SARS-CoV-2 infection and hence be beneficial in preventing severe 45 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    Coronavirus disease 2019 (COVID-19) is caused by a novel coronavirus named severe 50 acute respiratory syndrome coronavirus 2 (SARS-CoV-2) ()
+ This is a novel zoonotic single-51 stranded RNA virus that belongs to the betacoronavirus family, which also includes severe acute 52 coronavirus (MERS-CoV) ()
+ The ongoing global pandemic of SARS-CoV-2 was first reported 54 from Wuhan, China, in January 
+ As of March 01, 2021, globally, more than 
+30 million 55 confirmed cases and 
+53 million deaths had been reported due to COVID-19 56 SARS-CoV-2 utilizes host cell angiotensin-converting enzyme 2 (ACE2) as the primary receptor 58 for entry along with several other accessory factors that include TMPRSS2, neuropilin-1, 59 PIKFyve kinase, and CD147, among others (-)
+ After internalization, cathepsin L cleaves the S 60 protein and aids in releasing the viral genome in the host cell cytoplasm ()
+ Inside the cell, virus 61 utilizes the host cell machinery to replicate its positive-sense RNA genome and process the 62 polyproteins to generate functional structural and nonstructural proteins
+ Then, the viral genome 63 and structural proteins are assembled into progeny viruses, travel to the plasma membrane and 64 are released utilizing lysosomal exocytosis pathways ()
+ During this replication cycle, several 65 viral proteins like NSP1, NSP3, and ORF7a/b suppress the type 1 interferon (IFN) mediated host 66 immune response (10), while others activate Toll-like receptors (TLRs) that stimulate the release 67 of proinflammatory cytokines like IL-1, IL-2, IL-6, IL-7, GCSF, IFN-, and TNF- ()
+  68 The pathophysiology of COVID-19 follows a biphasic pattern
+ In contrast, the initial acute phase 69 of infection is manifested by viral infection-driven symptoms including sore throat, fever, 70 fatigue, dry cough, and/or diarrhea ()
+ In severely ill patients, this is followed by an 71 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    immunopathologic phase that includes the development of acute respiratory distress syndrome 72 (ARDS), systemic inflammation, and cytokine storm, which is responsible for multiple organ 73 failure and a higher rate of fatalities ()
+ Patients with certain comorbid conditions like 74 (COPD) also have a higher probability of developing acute severe respiratory distress syndrome 76 (ARDS)
+ Moreover, a subpopulation of patients develops neurological disease manifestations 77 like loss of taste and smell, dizziness, confusion, ataxia, seizures and Guillain-Barr Syndrome 78 (GBS) have also been reported ()
+ Among the patients who develop ARDS, many of them 79 succumbed to the disease due to the development of pulmonary fibrosis ()
+ These data suggest 80 that the addition of a currently available or upcoming anti-fibrotic agent for the management of 81 critically ill COVID-19 patients would be beneficial to reduce the rate of fatalities and long-term 82 Although some vaccine candidates received emergency use authorization (EUA) from U
+ S
+ Food 84 and Drug Administration (USFDA) to control the rapid spread of the virus, it is anticipated that it 85 will take several months to years to vaccinate the majority of the population ()
+ Again the 86 long-term safety, efficacy, and durability of these vaccines remain unknown specifically for the 87 special populations that include children, pregnant women, individuals with comorbid 88 conditions that may impact immune response against a vaccine ()
+ Along with that, 89 preliminary studies indicate that the emerging new strains of SARS-CoV-2 from South Africa 90 having Lys417Asn, Glu484Lys, and Asn501Tyr substitutions in the receptor-binding domain, 91 and Leu18Phe, Asp80Ala, Asp215Gly, 242244del, and Arg246Ile in the N-terminal domain of 92 spike protein have reduced susceptibility to neutralization by convalescent plasma therapy ()
+ 93 These results question the efficacy of the spike protein-based vaccines against new strains of the 94 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    virus and further support the fact that this virus will eventually enter an endemic stage with 95 world-wide distribution and high-level mortality
+ Therefore, other strategies to reduce SARS-96 CoV-2 and related mutant strain associated morbidity and mortality are urgently needed
+  97 These factors underscore the urgent development of an effective therapeutic regimen that will 98 control the rapid spread of the virus and reduce the high rate of fatalities among severely ill 99 patients
+ From the outset of this pandemic, multiple therapeutic strategies have been tested that 100 are at different stages of development and clinical trials with mixed responses ()
+ The majority 101 of which includes SARS-CoV-2 fusion/entry inhibitors (19), RNA-dependent RNA polymerases 102 (RdRps) inhibitors (20), viral protease inhibitors (21), several classes of immune-suppressive 103 agents to control systemic hyperactive inflammatory response (22), and cytokine storm and 104 At present, remdesivir (GS-5734) is the only US FDA-approved antiviral agent in use to treat 106 COVID-19 ()
+ It is a prodrug of a monophosphate nucleotide analog that selectively inhibits 107 controlled clinical trial reported shorter hospital stay for patients with COVID-19 when treated 109 another multicenter, randomized clinical trial conducted by WHO did not find any superior effect 111 Therefore, in the absence of a fully effective drug in the prevention of COVID-19, it is warranted 113 to identify and validate more compounds that, individually or in combination with other 114 molecules, will have a profound antiviral efficacy against COVID-19 ()
+  115 Recently, Gordon et al (29) used a proteomic approach to explore the interactions of 26 out of 116 29 SARS-CoV-2 proteins with cellular targets in human cells and identified 67 potential 117 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    interactions and targets for drug development
+ By molecular pathway analysis, they 118 demonstrated an interaction of BRD2/BRD4 with E protein of SARS-CoV-
+ In another study 119 Tian et al using CRISPRi screening shown that BRD2 inhibition down regulate the ACE2 120 expression which block the entry of SARS-CoV-2 within host cells as well as control 121 hyperactive immune response in COVID-19 patients through down regulations of ISGs ()
+ 122 Therefore, they proposed BRD2 as a potential target for development of therapeutics against 123 SARS-CoV-
+ Two of the critical host factors responsible for pathogenesis of SARS-CoV-2, the 124 bromodomain and extra-terminal domain proteins (BETs): BRD2/BRD4 and mTOR, are 125 inhibited by the dual inhibitory small molecule SF2523 developed by our group previously
+ In 126 the present study our in vitro data using a human bronchial epithelial cell line (UNCN1T) shows 127 that SF2523 effectively blocks SARS-CoV-2 replication with IC50 values comparable to that of 128 remdesivir
+ We also found that the combination of doses of SF2523 and remdesivir is highly 129 synergistic
+  There is a 25-fold dose reduction for SF2523 and a 4-fold dose reduction for 130 remdesivir, respectively, when the two compounds are used in combination and they maintain 131 similar potency as a single compound
+ Future studies in suitable animal models are needed to 132 establish the clinical efficacy of SF2523 alone or a fixed-dose combination of SF2523 and 133 In a recent study using proteomic analysis, Gordon et al (29) identified 67 host factors that 138 interact with SARS-CoV-2 proteins and represent potential drug development targets
+ Two of the 139 potential host targets identified, BETs BRD2/BRD4 and mTOR, are inhibited by SF
+ 140 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    Molecular modeling and structural analysis of predicted molecular interactions of dual BET 141 (BRD2/4)/PI3K-mTOR inhibitor SF2523 with the catalytic domain of PI3K-a are displayed in 142 the top panel of Fig
+ 
+  The molecular interactions of SF2523 binding to BRD4-BD1 binding 143 pocket were observed from a 
+8 angstrom resolution crystal structure (PDB ID: 5U28) displayed 144 in the bottom panel of Fig
+ 
+ In a cell-free system, the binding potential of SF2523 with its 145 potential targets is shown below the bottom panel of Fig 
+ 146 This study evaluates SF2523 and remdesivir (GS-5734) antiviral efficacy against SARS-CoV-2 148 in Vero-STAT1 knockout cells and UNCN1T cells
+ STAT1 is a transcription factor essential for 149 interferon-mediated host-cell antiviral response
+ The STAT1 knockout cells are highly 150 susceptible to viral infection due to the absence of cellular antiviral response and used as control 151 for robust viral infection in this study
+ On the other hand, UNCN1T is a human bronchial 152 epithelial cell line and expected to demonstrate the in vivo pathogenesis of SARS-CoV-2 in the 153 lung and serves as a good in vitro model for testing efficacy of antiviral compounds against 154 Both cell types were treated with SF2523 or remdesivir and their IC50 values were determined 24 156 hrs, and 48 hrs post-infection
+ The replication kinetics were determined from the culture 157 supernatant of SARS-CoV-2 infected UNCN1T and Vero-STAT1 knockout cells in the presence 158 of increasing concentrations of SF2523 and remdesivir and are described in Fig
+ 2A and Fig
+ 2B, 159 respectively
+  Both compounds show a substantial reduction in SARS-CoV-2 viral load 24 hrs 160 post-infection
+ Based on SARS-CoV-2 viral loads 24 hrs post infection, SF2523 showed 161 potential antiviral activity and inhibited infection in UNCN1T cells with an IC50 of 
+52 M and 162 remdesivir with an IC50 of 
+06 M
+  In Vero-STAT1 knockout cells, SF2523 has an IC50 of 
+02 163 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    M and remdesivir has an IC50 of 
+03 M (Fig
+ 2C and D)
+ SARS-CoV-2 replication kinetics 164 48 hrs post-infection in SF2523 and remdesivir treated UNCN1T and Vero-STAT1 knockout 165 cells are described in Fig
+ S1A and Fig
+ S1B, respectively
+ SF2523 and remdesivir have an IC50 166 value of 
+58 M and 
+75 M in UNCN1T cells (Fig
+ S1C) and IC50 of 
+22 M and 
+76 M 167 After testing SF2523 and remdesivir separately, we evaluated a series of combinations of doses 170 of SF2523 and remdesivir with concentrations above and below the IC50 determined above
+ In 171 UNCN1T cells at 24 hrs post-infection, we observed the best inhibitory dose combination
+ An 172 IC50 value of 
+62 M was observed for remdesivir when combined with 
+1 M SF2523 (Fig
+ 173 A)
+  Vice versa, we saw the inhibition of viral replication at a fixed remdesivir dose of 
+05 M 174 and an IC50 value of 
+21 M for SF
+ (Fig
+ B)
+  The use of multiple drugs with a different 175 modes of action and synergistic effects is a standard for treatment of infectious diseases to 176 increase the overall efficacy of the therapy and reduce dosage of individual drugs  while also 177 reducing the toxicity level and the chances of development of drug resistance ()
+  178 Based on mass action law and the classic model of enzyme-substrate inhibitor interactions, the 179 median-effect equation was proposed by Chou (32), which describes the dose-effect relationship 180 as (Fa/Fu) = (D/Dm)m or log(Fa/Fu) = mlog(D)  mlog(Dm)
+ Where the slope (m) of the lines 181 signifies the shape (m = 1, >1, and <1 signify hyperbolic, sigmoidal, and flat sigmoidal dose-182 effect curves, respectively)
+ Fa is defined as percentage inhibition of viral growth at dose D, and 183 Fu is the fraction that remains unaffected (i
+ e
+, Fu = 1 - Fa)
+ The antilog of x-intercept, where 184 Fa/Fu = 1 or log(Fa/Fu) = 0, gives the Dm value
+ [log(Dm)] signifies the potency of the drugs 185 (where Dm stands for median effective dose or IC50 concentration: The concentration required to 186 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    inhibit 50% growth of the virus)
+ By extrapolating the median-effect equation for multiple drugs, 187 Chou and Talalay proposed the combination index (CI) theorem to quantify synergism and 188 antagonism between drug combinations ()
+ Low CI values with increased Fa values indicate 189 superior compatibility and high synergism between drugs combination (based on Chou and 190 Talalay Combination Index Theorem, CI < 1, = 1, and >1 show synergism, additive effect, and 191 antagonism, respectively)
+ A plot of CI values at different fraction affected (Fa) levels referred to 192 Using CompuSyn, we generated the Median-Effect plot (Chou plot) of remdesivir (red line), 194 SF2523 (blue line), and the fixed-dose combination of remdesivir and SF2523 (green line) for 195 SARS-CoV-2 infected UNCN1T cells 24 hrs post infection as described above (Fig
+ A)
+ 196 Analysis of the Median-Effect, where the X-intercept of the lines indicates potency, shows that 197 the combination dose is more potent than the individual doses of the compounds
+ In contrast, the 198 Chou-Talalay plot (Fig
+ 4B) indicates the synergistic effect of SF2523 and remdesivir
+ The dose-199 response percent inhibition matrix of single and combined treatment of remdesivir and SF2523 200 was computed using SynergyFinder v
+2 (Fig
+ C)
+ The 3-D interaction landscape between 201 remdesivir and SF2523 was calculated based on Loewe additive model using SynergyFinder v
+2 202 in SARS-CoV-2 infected UNCN1T cells 24 hrs post-infection (Loewe synergy score 
+88; with 203 most synergistic area score of 
+24) (Fig D)
+ Synergy maps highlight synergistic and 204 antagonistic dose regions in red and green colors, respectively
+ Although there is no defined 205 threshold, drug combinations with a synergy scores above -10 is considered likely antagonistic, 206 and a score between -10 to 10 is deemed a possible additive
+ Any score above 10 is considered 207 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    Similarly, for SARS-CoV-2 infected Vero-STAT1 knockout cells treated with different 209 combination doses of remdesivir and SF2523, the Median-Effect plot (Chou plot) of remdesivir 210 (red line), SF2523 (blue line), and the fixed-dose combination of remdesivir and SF2523 (green 211 line) is described in Fig
+ 5A, the Chou-Talalay plot (Fig
+ 5B) indicates a synergistic effect of 212 SF2523 and remdesivir
+ The dose-response percent inhibition matrix of single and combined 213 treatment of remdesivir and SF2523 was computed using SynergyFinder v
+2 (Fig
+ 5C) and the 3-214 D interaction landscape between remdesivir and SF2523 was calculated based on a Loewe 215 additive model using SynergyFinder v
+2 in SARS-CoV-2 infected UNCN1T cells 24 hrs post-216 infection (Loewe synergy score -
+20; with most synergistic area score of 
+67) (Fig
+ D)
+ 217 Table 1 indicates the median effective dose of SF2523, remdesivir, and their fixed-dose 218 combinations
+ Whereas Table 2 shows the CI values at ED50, ED75, ED90, and ED95 in VERO-219 STAT1 knockout and UNCN1T cells, which suggests a moderate to strong synergistic effect of 220 the drug combinations
+ In Vero-STAT1 KO cells at Fa 
+5, we obtained a dose reduction index 221 (DRI) of 
+56 for SF2523 and 
+35 for remdesivir, respectively (with Fa for combination 
+452; 222 
+617 for SF2523 and 
+533 for remdesivir)
+ On the other hand, in UNCN1T cells, we obtained a 223 dose reduction index (DRI) of 
+33 for SF2523 and 
+75 for remdesivir, respectively, (with Fa 224 for combination 
+145; 
+836 for SF2523 and 
+272 for remdesivir)
+ 225 We note that remdesivir does not alter the potency of SF2523 and does not interfere with the 227 binding of SF2523 to BRD
+ To confirm this interaction, we performed NMR titration 228 experiments using 15N-labeled BRD4 domains and showed that remdesivir is incapable of 229 binding to either BD1, BD2, or the ET domain of BRD4, as no significant chemical shift 230 perturbations were observed in 1H,15N heteronuclear single quantum coherence (HSQC) spectra 231 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    of these domains (Fig
+ )
+ However, the subsequent addition of SF2523 to the NMR samples of 232 BD1 and BD2 led to large resonance changes, indicating robust binding, and no binding of 233 Other than remdesivir, a viral RNA-dependent RNA polymerase inhibitor (34), there are no 237 confirmed efficacious molecularly targeted therapeutic agents for the treatment of COVID-
+ 238 Targeted therapies that exploit host-virus interaction are likely to be least impacted by the 239 emergence of mutated strains of SARS-CoV-2 and produce more robust, durable treatment 240 options
+ Gordon et al identified two potential targets for SARS-CoV-2 infectivity, including 241 BRD4 and mTOR kinase pathway ()
+  Using an in vitro we show that SF2523 is as potent and 242 effective as remdesivir in blocking the SARS-CoV-2 cytotoxicity and infectivity at 243 concentrations that are achievable and efficacious in animal models ()
+ SF2523 is highly 244 selective and the only known dual inhibitor of PI3K-/mTOR and BRD4 and is currently slated 245 for clinical development
+ Hence, it is an excellent candidate for further development for systemic 246 and pulmonary delivery for treatment of COVID-
+  Importantly, SF2523 and multiple analogs 247 are the product of extensive in silico molecular design to engineer chemotypes with dual or triple 248 inhibitory properties against well-chosen synthetic lethality targets like BRD4, PI3K, and mTOR 249 The ATP catalytic site of PI3K-a is driven by a critical hydrogen-bond interaction with the NH of 251 Val
+ The successful interaction of SF2523 as a PI3K inhibitor was designed with this mode of 252 action where the oxygen atom of the morpholine group engages as a hydrogen-bond acceptor with 253 the required NH of Val
+ For the docking against PI3K, we initially created a p110-PI3K-a 254 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    homology model using the crystal structure of human-derived PI3K-g (PDB ID: 1E7V) where the 255 human PI3K-a protein sequence was superimposed to the PI3K-g protein sequence
+ The resulting 256 3D model of PI3K-a was subsequently used for docking of SF2523 where amino acids within a 257 10  radius at the ATP binding site were selected
+ Successful docking of SF2523 was achieved 258 using FlexX, where the optimal bin36ding mode of SF2523 fulfills 2 pharmacophoric 259 requirements, namely, the spatial location of the carbonyl group of SF2523 and a hydrogen-bond 260 interaction between the morpholine group of SF2523 and Val851 ()
+ 261 BRD4 bromodomain 1 (BRD4-BD1) active site recognizes acetylated lysine residues in histones 262 via hydrogen-bond interaction with the NH of the conserved Asn140 residue
+ This binding site is 263 a hydrophobic cavity that contains structurally conserved water molecules
+ For the docking of 264 SF2523 against BDR4-BD1, a human-derived BDR4-BD1 crystal structure co-crystallized with 265 small-molecule BRD4 inhibitor JQ1 (PDB ID: 3MXF) was obtained and amino acids within a 6 266  radius of JQ1 were selected
+ Using AutoDock Vina (40) and rDock (41), SF2523 was predicted 267 to bind, forming a hydrogen-bond interaction between the carbonyl group of SF2523 and the NH 268 of Asn140 and a conserved water molecule
+ The morpholine group of SF2523 is oriented towards 269 the opening of the binding site (solvent-exposed)
+ The subsequent successful crystallization of 270 SF2523 with BRD4-BD1 (PDB ID: 5U28) confirmed the predicted binding interaction of SF2523 271 and it also revealed that one of the oxygen atoms of the benzodioxane moiety of SF2523 engages 272 in 2 additional hydrogen-bond interactions with BRD4-BD1, one with GLN85 and one with 273 another conserved water molecule ()
+ NMR data from our laboratory confirms interaction 274 between BRD4 BD1 and acetylated lysine with the C terminus of SARS-CoV-2 E protein
+ Also, 275 as per Zhang et al, other viral proteins have been shown to have functional interaction with BET 276 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    From previous experience, it was observed that in patients infected with SARS and MERS, the 278 viral load peaks only after a week of initial reporting of disease symptoms (43, )
+ Whereas in 279 the case of SARS-CoV-2, similar to influenza, the viral load peaks along with the onset of 280 disease symptoms ()
+ It was reported that for influenza patients with high viral load at the 281 beginning of disease symptoms, combinational antiviral therapy is more effective than 282 monotherapies (46, )
+ This is mirrored during the initial phase of the COVID-19 pandemic, 283 where multiple combinational therapeutic approaches using several repurposed drugs show mild 284 to moderate efficacy in treating severely ill patients (-)
+ To extend this combinational 285 therapeutic approach to treat COVID-19 patients in vitro, we tested combination treatment of 286 SF2523 and remdesivir as described above
+ Our findings suggest that this drug combination is 287 highly synergistic in the human bronchial epithelial cell line with 25-fold dose reduction for 288 SF2523 and 4-fold dose reduction for remdesivir while maintaining similar therapeutic efficacy 289 of individual monotherapies
+  This reduction in remdesivir dose is also expected to reduce the 290 high incidence of adverse effects related to remdesivir monotherapy (26, )
+ 291 To characterize the molecular basis for SF2523 mediated inhibition of SARS-CoV-2 replication 292 and confirm the synergistic combination of this compound with remdesivir in vitro, we used 293 NMR to look at the capacity of these two chemotypes to interact with BRD4-BD1, BRD4-BD2, 294 and BRD4-ET domains
+ Consistent with the substantial synergy noted with the two agents, 295 remdesivir did not bind to BRD4; however, SF2523 binds to both BD1 and BD2 but not the 296 extra-terminal (ET) domain of BRD4, supporting differential molecular pathways targeted by 297 these chemically distinct chemotypes
+  BRD2/BRD4 are epigenetic factors whose two N-298 terminal bromodomains (BDs) bind with acetylated histones and regulate several proteins ()
+  299 Several observations related to Gordon et al (29) reporting that BRD4 binds to the SARS-CoV-2 300 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    E protein include: 1) the E protein forms a homopentameric cation-selective channel which is 301 required for viral budding and release from cells, 2) the E protein is a 72-residue viroporin 302 molecule, 3) mutations or deletions within the transmembrane channel attenuate viral 303 pathogenicity ()
+ Data from emerging mutant strains of SARS-CoV-2 strains indicates 304 presence of several variation in the C terminal domain E protein, that may impact its binding 305 with host protein PALS1with altered disease pathogenesis ()
+ BRD2/BRD4 also has a 306 significant role in cell cycle regulation, inflammation, and inhibition of BRD4 by SF2523 307 enhances the innate and adaptive immune response ()
+ Again, BRD4 drives the secretion of IL-308 6, CXCL8, and IL17A, which leads to the development of idiopathic pulmonary fibrosis and 309 chronic obstructive pulmonary disease (COPD) ()
+ This suggests that BET inhibitors may 310 disrupt the interaction between BRDs and E protein and will have a favorable outcome in 311 treating COVID-19 patients
+ LARP1, a significant effector of the mTOR pathway, interacts with 312 nucleocapsid protein (N) ()
+ LARP1 knockdown of inhibitors of mTOR inhibits MERS 313 replication and have an immunosuppressive function ()
+ These data suggest potential important 314 interactions between the SARS-CoV-2 virion and the host machinery elements essential for viral 315 pathogenesis
+ Campbell et al, reported that SF2523 locks HIV replication in human cells via 316 induction of autophagy ()
+ Moreover, Joshi et al reported that SF2523 has a potential 317 immunostimulatory impact on innate and adaptive T-cell immunity ()
+ Because SF2523 318 effectively targets two crucial elements of SARS-CoV-2 driven pathogenesis, BETs 319 BRD2/BRD4, and mTOR, and because of its immune activation activity, SF2523 can be a 320 potential therapeutic agent to control COVID-
+ It can provide significant clinical benefit in 321 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    Our initial efforts to screen the efficacy of SF2523 monotherapy and combinational therapy 323 against SARS-CoV-2 in the 2D-cellular model is an essential step for initial screening of drug 324 like compounds before initiation of pre-clinical studies and commonly used to explore the 325 molecular mechanism of action
+ Our future studies will reveal their efficacy in pre-clinical 326 animal models of COVID-
+ Its synergistic effect will result in a favorable shift in the plasma 327 Cmax/EC90 ratio
+ Ongoing structural studies to elucidate the interaction of SF2523 with host 328 factors and viral targets will clarify mechanisms of efficacy, and potential resistance as the virus 329 continues to undergo mutagenesis and selection during the pandemic
+ Considering the emerging 330 data on the life cycle and biology of SARS-CoV-2 infection in humans and the rapid emergence 331 of mutant variants resistant to vaccine candidates, we suggest that a combinatorial approach 332 based on one small molecule which inhibits the interaction of multiple viral targets with host 333 factors necessary for viral pathogenesis will be required to control the mortality and morbidity 334 associated with the pandemic and the likely endemic phase of this disease globally
+ 335 In conclusion, our study demonstrates the in vitro efficacy of SF2523 as a monotherapy and in 337 combination with remdesivir against SARS-CoV-2 infection
+  Considering the marked 338 synergistic effect of these two molecules in a wide dose range in in vitro assays, we conclude 339 that, SF2523 alone or in combination with remdesivir represents a future therapeutic approach to 340 obviate the severe disease associated with the ongoing pandemic of SARS-CoV-
+  341 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    In this in vitro study using a human bronchial epithelial cell line (UNCN1T) and Vero-STAT1 348 knockout cells, we evaluate the efficacy of SF2523 (PI3K-mTOR/BRD4 inhibitor) as a 349 monotherapy or in combination with remdesivir against SARS-CoV-
+ Using NMR, we also 350 screen the interaction between different domains of BRD4 (BD1, BD2, and ET) and 351 Remdesivir (GS-5734) was obtained from Selleck Chemicals LLC, 14408 W Sylvanfield Drive, 354 Houston, TX 77014 USA
+ Vero E6 (ATCC CRL-1586) and Vero-STAT1 knockout cells 355 (ATCC CCL-81-VHG) were cultured in DMEM containing 10% fetal bovine serum, 2 mM 356 L-glutamine, penicillin (100 units/ml), streptomycin (100 units/mL), and 10 mM HEPES
+ 357 UNCN1T cells (a human bronchial epithelial cell line; Kerafast; cat# ENC011) were cultured 358 using BEGM media (Bronchial Epithelial Cell Growth Medium; Lonza: cat# CC-3170) in FNC 359 (Athena Enzyme Systems; cat# 0407) coated plates
+ All other molecular biology grade fine 360 chemicals used in the study were purchased from Sigma-Aldrich, St
+ Louis, MO, USA, unless 361 In silico docking of SF2523 against PI3K-a and BRD-BD
+  363 The docking of SF-2523 with PI3K-a is described previously ()
+ In silico docking of SF2523 364 against BRD4-BD1 was performed using AutoDock Vina (40) and rDock ()
+ Crystal structure 365 of BRD4 (PDB ID 3MXF) was downloaded from the Protein Data Bank (59), residues and water 366 molecules within 6 3 of JQ1 were kept, hydrogen atoms and charges were added, and SF2523 367 was docked using default parameters
+ A minimum of 150 docking solutions were recorded and the 368 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    conformation of SF2523 matching the expected binding mode (NH of Asn140 forming a hydrogen 369 bond with the carbonyl group of SF2523) with the strongest predicted binding energy was selected
+ 370 The pGEX6P-BRD4 BD1 (amino acids 43-180) and pGEX4T-1 BRD4 BD2 (amino acids 342-372 460) plasmids were expressed in Escherichia coli BL21 (DE3) RIL cells grown in M9 minimal 373 media supplemented with 15NH4Cl and purified as previously described ()
+ The bacteria cells 374 were harvested by centrifugation, resuspended in 10 mM HEPES pH 
+5, 150 mM NaCl, 1 mM 375 TCEP supplemented with DNase I and lysed by sonication
+ The BRD4 BD1 and BD2 constructs 376 were purified from the cleared lysate using glutathione Sepharose 4B beads and the GST tag was 377 cleaved with PreScission or thrombin protease
+ The protein was purified using a S100 column 378 (GE Healthcare) equilibrated in 10 mM HEPES pH 
+5, 150 mM NaCl, 1 mM TCEP
+ BD1 379 protein fractions were assessed for purity (95%) by SDS-PAGE, buffer exchanged into 1X PBS 380 (37 mM NaCl, 
+7 mM KCl, 
+3 mM Na2HPO4, 
+47 mM KH2PO4 supplemented with 5 mM 381 DTT and concentrated to ~10-20 mg/mL using 3 kDa Millipore concentrator and stored at -80 382 The pET32a-BRD4 ET domain (amino acids 600-700) vector was obtained from Timothy 384 McKinsey
+ The N-terminal TRX-6His-S-tagged ET domain was expressed in Escherichia coli 385 Tuner (DE3) competent cells using M9 minimal media supplemented with NHCl
+ Cells were 386 induced with 
+5 mM IPTG, cultured for 16 h post-induction at 18 C, and harvested at 5000 387 rpm
+ The His-tagged protein was purified with Nickel-NTA resin (Thermo Scientific) in 20 mM 388 Sodium Phosphate (pH 
+0) buffer, supplemented with 500 mM NaCl, 10 mM imidazole and 2 389 mM BME
+ The tagged protein was eluted using a 30-300 mM imidazole gradient elution
+ The 390 eluted protein was buffer exchanged into cleavage buffer containing 20 mM Tris pH 
+0, 50 mM 391 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    NaCl, 2 mM CaCl2 and the TRX-6His-S-tag was cleaved overnight at RT with enterokinase 392 protease (NEB)
+ The ET domain was further purified using Nickel-NTA resin (Thermo 393 Scientific) to remove the cleaved tag
+ Size-exclusion chromatography was performed using a 394 Superdex S75 column
+ The purified protein was buffer exchanged into 20 mM Tris pH 
+0, 100 395 mM NaCl, 5 mM DTT and concentrated to ~10 mg/mL using 3 kDa Millipore concentrator and 396 For BRD4 BD1 or BD2 experiments, samples containing 
+2 mM 15N-labeled BRD4 BD1/BD2 399 in 1X PBS, 5 mM DTT, and 10% D2O were prepared
+ For BRD4 ET experiments, samples 400 containing 
+15 mM 15N-labeled BRD4 ET domain in 20 mM Tris pH 
+0, 100 mM NaCl, 5 mM 401 DTT, and 10% D2O were prepared
+ Remdesivir (Selleck Chemicals) and SF2523 (SignalRx 402 Pharmaceuticals, Inc
+) were dissolved in 100% DMSO
+ Remdesivir was titrated into each NMR 403 sample up to 5 molar equivalents
+ Subsequently, SF2523 was added at a 1:2 equivalence
+ Two-404 dimensional 1H,15N HSQC spectra were acquired on a 600 MHz Varian spectrometer fitted with 405 a cryogenic probe at 298 K
+ Spectra were processed with NMRPipe
+ 406 SARS-CoV-2 isolate USA-WI1/2020 (BEI; cat# NR-52384) was procured from BEI and 408 passaged in Vero-STAT1 knockout cells
+ The viral titer was determined using plaque assay ()
+ 409 In brief, Vero E6 cells were seeded in 6-well plates
+ After 24 hrs, cells were washed with sterile 410 1X PBS
+ The viral stock was serially diluted and added to cells in duplicate with fresh media and 411 the plates were incubated at 37 C for 1 hour with occasional shaking every 15 minutes
+ Then 2 412 mL of 
+5% agarose in minimal essential media (MEM) containing 5% FBS and antibiotics was 413 added per well
+ Plates were incubated at 37 C for 72 hours
+ Then the cells were fixed with 4% 414 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    paraformaldehyde overnight, followed by the removal of the overlay and then stained with 
+2% 415 crystal violet to visualize plaque forming units (PFU)
+ All assays involving live SARS-CoV-2 416 were performed in University of Nebraska Medical Center (UNMC) BSL-3 core laboratory 417 setting and approved by the University of Nebraska Medical Center institutional Biosafety 418 Measuring the antiviral potential of SF2523 and remdesivir against SARS-CoV-2: 420 UNCN1T and Vero-STAT1 knockout cells were seeded in 96-well plates 24 hours before 421 infection at 20,000 cells/well
+ Different concentrations of SF2523 and remdesivir (100 M, 10 422 M, 5 M, 1 M, 
+1 M, 
+01 M and 
+001 M) were added to the cells 2 hours before 423 infection
+ The cells were infected with 
+1 MOI of SARS-CoV-2 using Opti-MEM I reduced 424 serum medium (Thermo Fisher, Cat#31985062) and incubated for 1 hour at 37 C with 5% CO
+ 425 For positive control, cells were treated with same volume of DMSO equivalent to the volume of 426 drugs added
+ Mock infected cells received only Opti-MEM I reduced serum medium
+ At the end 427 of incubation virus inoculum was removed, cells were washed with 1X PBS 3 times and fresh 428 media supplemented with same concentration of drugs was added
+ Culture supernatant was 429 collected at 24 hrs and 48 hrs post infection
+  The SARS-CoV-2 viral load was quantified in 430 culture supernatant using RT-QPCR with primer probes targeting E gene of SARS-CoV-2 using 431 PrimeDirect Probe RT-qPCR Mix (TaKaRa Bio USA, Inc) and Applied Biosystems 432 QuantStudio3 real-time PCR system (Applied Biosystems, Waltham, MA, USA) per the 433 manufacturers instructions
+ Primers and probes used for SARS-CoV-2 RNA quantification were 434 as follows: E_Sarbeco_F1: 5  ACAGGTACGTTAATAGTTAATAGCGT  3 (400 nM), 435 E_Sarbeco_R2: 5  ATATTGCAGCAGTACGCACACA  3 (400 nM) and E_Sarbeco_P1: 5 436  FAM - ACACTAGCCATCCTTACTGCGCTTCG - BHQ1  3 (200 nM) as recommended by 437 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    WHO
+ The SARS-CoV-2 genome equivalent copies were calculated using quantitative PCR 438 (qPCR) control RNA from heat-inactivated SARS-CoV-2, isolate USA-WA1/2020 (BEI; cat# 439 NR-)
+ The percentage inhibition of SARS-CoV-2 replication in SF2523 and remdesivir 440 treated wells were calculated with respect to viral concentration in positive control wells that 441 were treated with DMSO (considered 0% inhibition) and negative control wells (uninfected 442 cells)
+ IC50 values were calculated using four parameter variable slope sigmoidal dose-response 443 To determine possible combinational antiviral effect of SF2523 and remdesivir against SARS-446 CoV-2, we tested 5 (remdesivir) X 4 (SF2523) dose combinations in SARS-CoV-2 infected 447 UNCN1T and Vero-STAT1 knockout cells
+ The percentage inhibition of viral replication for 448 each dose combinations were determined by RT-QPCR as described above
+ In brief, the 449 UNCN1T and Vero-STAT1 knockout cells were seeded in 96-well plates at a density of 20,000 450 cells/wells 24 hrs before infection
+ Two hours before infection the cells were treated with 451 different combination doses of SF2523 and remdesivir, infected with 
+1 MOI of SARS-CoV-
+ 452 Twenty-four hours post infection culture supernatant was collected and SARS-CoV-2 viral load 453 was quantified using RT-QPCR as described above
+ The percentage inhibition of SARS-CoV-2 454 replication in the culture supernatant by different combined doses of SF2523 and remdesivir 455 were determined with respect to viral concentration in positive control wells that were treated 456 with DMSO (considered 0% inhibition) and negative control wells (uninfected cells)
+ Then the 457 percent inhibition of viral replication for 1:1 fixed dose combination of the drugs was used to 458 generate CI-Fa, isobologram and dose-response plots
+ The combination index (CI) was 459 calculated using multiple drug effect equation developed by Chou and Talalay using the 460 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    CompuSyn algorithm ( A CI values of <1 indicate synergy, values 461 >1 indicate antagonism, and values equal to 1 indicate additive effects (31, 33, )
+ Dose-462 response percent inhibition matrix of single and combined treatment of remdesivir and SF2523 463 in SARS-CoV-2 infected UNCN1T and Vero-STAT1 knockout cells 24 hrs post infection and 3-464 D interaction landscape between remdesivir and SF2523 were calculated based on Loewe 465 IC50 values were calculated using four parameter variable slope sigmoidal dose-response models 468 using Graph Pad Prism 
+0 software
+ The combination index (CI) was calculated using multiple 469 drug effect equation developed by Chou and Talalay using the CompuSyn algorithm 470 
+ H
+ A
+ Rothan, S
+ N
+ Byrareddy, The epidemiology and pathogenesis of coronavirus disease 475 
+ G
+ Guo, L
+ Ye, K
+ Pan, Y
+ Chen, D
+ Xing, K
+ Yan, Z
+ Chen, N
+ Ding, W
+ Li, H
+ Huang, L
+ 477 Zhang, X
+ Li, X
+ Xue, New Insights of Emerging SARS-CoV-2: Epidemiology, Etiology, 478 Clinical Features, Clinical Treatment, and Prevention
+ Front Cell Dev Biol 8, 410 ()
+ 479 
+ R
+ K
+ Suryawanshi, R
+ Koganti, A
+ Agelidis, C
+ D
+ Patil, D
+ Shukla, Dysregulation of Cell 480 
+ X
+ Ou, Y
+ Liu, X
+ Lei, P
+ Li, D
+ Mi, L
+ Ren, L
+ Guo, R
+ Guo, T
+ Chen, J
+ Hu, Z
+ Xiang, Z
+ 482 Mu, X
+ Chen, J
+ Chen, K
+ Hu, Q
+ Jin, J
+ Wang, Z
+ Qian, Characterization of spike 483 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    glycoprotein of SARS-CoV-2 on virus entry and its immune cross-reactivity with SARS-484 
+ P
+ Xia, A
+ Dubrovska, Tumor markers as an entry for SARS-CoV-2 infection? FEBS J 287, 486 
+ L
+ Cantuti-Castelvetri, R
+ Ojha, L
+ D
+ Pedro, M
+ Djannatian, J
+ Franz, S
+ Kuivanen, F
+ van 488 der Meer, K
+ Kallio, T
+ Kaya, M
+ Anastasina, T
+ Smura, L
+ Levanov, L
+ Szirovicza, A
+ 489 Tobi, H
+ Kallio-Kokko, P
+ Osterlund, M
+ Joensuu, F
+ A
+ Meunier, S
+ J
+ Butcher, M
+ S
+ 490 Winkler, B
+ Mollenhauer, A
+ Helenius, O
+ Gokce, T
+ Teesalu, J
+ Hepojoki, O
+ Vapalahti, 491 C
+ Stadelmann, G
+ Balistreri, M
+ Simons, Neuropilin-1 facilitates SARS-CoV-2 cell entry 492 
+ J
+ L
+ Daly, B
+ Simonetti, K
+ Klein, K
+ E
+ Chen, M
+ K
+ Williamson, C
+ Anton-Plagaro, D
+ K
+ 494 Shoemark, L
+ Simon-Gracia, M
+ Bauer, R
+ Hollandi, U
+ F
+ Greber, P
+ Horvath, R
+ B
+ 495 Sessions, A
+ Helenius, J
+ A
+ Hiscox, T
+ Teesalu, D
+ A
+ Matthews, A
+ D
+ Davidson, B
+ M
+ 496 Collins, P
+ J
+ Cullen, Y
+ Yamauchi, Neuropilin-1 is a host factor for SARS-CoV-2 497 
+ M
+ Hoffmann, H
+ Kleine-Weber, S
+ Schroeder, N
+ Kruger, T
+ Herrler, S
+ Erichsen, T
+ S
+ 499 Schiergens, G
+ Herrler, N
+ H
+ Wu, A
+ Nitsche, M
+ A
+ Muller, C
+ Drosten, S
+ Pohlmann, 500 SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically 501 
+ S
+ Ghosh, T
+ A
+ Dellibovi-Ragheb, A
+ Kerviel, E
+ Pak, Q
+ Qiu, M
+ Fisher, P
+ M
+ Takvorian, 503 C
+ Bleck, V
+ W
+ Hsu, A
+ R
+ Fehr, S
+ Perlman, S
+ R
+ Achar, M
+ R
+ Straus, G
+ R
+ Whittaker, 504 C
+ A
+ M
+ de Haan, J
+ Kehrl, G
+ Altan-Bonnet, N
+ Altan-Bonnet, beta-Coronaviruses Use 505 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    Lysosomes for Egress Instead of the Biosynthetic Secretory Pathway
+ Cell 183, 1520-1535 506 
+ H
+ Xia, Z
+ Cao, X
+ Xie, X
+ Zhang, J
+ Y
+ Chen, H
+ Wang, V
+ D
+ Menachery, R
+ Rajsbaum, 508 P
+ Y
+ Shi, Evasion of Type I Interferon by SARS-CoV-
+ Cell Rep 33, 108234 ()
+ 509 
+ P
+ Conti, G
+ Ronconi, A
+ Caraffa, C
+ E
+ Gallenga, R
+ Ross, I
+ Frydas, S
+ K
+ Kritas, Induction 510 of pro-inflammatory cytokines (IL-1 and IL-6) and lung inflammation by Coronavirus-19 511 (COVI-19 or SARS-CoV-2): anti-inflammatory strategies
+ J Biol Regul Homeost Agents 512 
+ G
+ Pascarella, A
+ Strumia, C
+ Piliego, F
+ Bruno, R
+ Del Buono, F
+ Costa, S
+ Scarlata, F
+ E
+ 514 Agro, COVID-19 diagnosis and management: a comprehensive review
+ J Intern Med 288, 515 
+ A
+ Acharya, B
+ D
+ Kevadiya, H
+ E
+ Gendelman, S
+ N
+ Byrareddy, SARS-CoV-2 Infection 517 Leads to Neurological Dysfunction
+ J Neuroimmune Pharmacol 15, 167-173 ()
+ 518 
+ P
+ M
+ George, A
+ U
+ Wells, R
+ G
+ Jenkins, Pulmonary fibrosis and COVID-19: the potential 519 role for antifibrotic therapy
+ Lancet Respir Med 8, 807-815 ()
+ 520 
+ B
+ M
+ Prubeta, Current State of the First COVID-19 Vaccines
+ Vaccines (Basel) 9,  ()
+ 521 
+ M
+ Connors, B
+ S
+ Graham, H
+ C
+ Lane, A
+ S
+ Fauci, SARS-CoV-2 Vaccines: Much 522 
+ H
+ Tegally, E
+ Wilkinson, R
+ J
+ Lessells, J
+ Giandhari, S
+ Pillay, N
+ Msomi, K
+ Mlisana, J
+ 524 N
+ Bhiman, A
+ von Gottberg, S
+ Walaza, V
+ Fonseca, M
+ Allam, A
+ Ismail, A
+ J
+ Glass, S
+ 525 Engelbrecht, G
+ Van Zyl, W
+ Preiser, C
+ Williamson, F
+ Petruccione, A
+ Sigal, I
+ Gazy, D
+ 526 Hardie, N
+ Y
+ Hsiao, D
+ Martin, D
+ York, D
+ Goedhals, E
+ J
+ San, M
+ Giovanetti, J
+ 527 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    Lourenco, L
+ C
+ J
+ Alcantara, T
+ de Oliveira, Sixteen novel lineages of SARS-CoV-2 in 528 
+ H
+ Li, Y
+ Zhou, M
+ Zhang, H
+ Wang, Q
+ Zhao, J
+ Liu, Updated Approaches against SARS-530 
+ S
+ Xiu, A
+ Dick, H
+ Ju, S
+ Mirzaie, F
+ Abdi, S
+ Cocklin, P
+ Zhan, X
+ Liu, Inhibitors of SARS-532 CoV-2 Entry: Current and Future Opportunities
+ J Med Chem 63, 12256-12274 ()
+ 533 
+ R
+ Pokhrel, P
+ Chapagain, J
+ Siltberg-Liberles, Potential RNA-dependent RNA polymerase 534 inhibitors as prospective therapeutics against SARS-CoV-
+ J Med Microbiol 69, 864-873 535 
+ B
+ Luan, T
+ Huynh, X
+ Cheng, G
+ Lan, H
+ R
+ Wang, Targeting Proteases for Treating 537 
+ A
+ H
+ Mansourabadi, M
+ Sadeghalvad, H
+ R
+ Mohammadi-Motlagh, N
+ Rezaei, The 539 immune system as a target for therapy of SARS-CoV-2: A systematic review of the current 540 
+ S
+ T
+ H
+ Liu, H
+ M
+ Lin, I
+ Baine, A
+ Wajnberg, J
+ P
+ Gumprecht, F
+ Rahman, D
+ Rodriguez, 542 P
+ Tandon, A
+ Bassily-Marcus, J
+ Bander, C
+ Sanky, A
+ Dupper, A
+ Zheng, F
+ T
+ Nguyen, 543 F
+ Amanat, D
+ Stadlbauer, D
+ R
+ Altman, B
+ K
+ Chen, F
+ Krammer, D
+ R
+ Mendu, A
+ Firpo-544 Betancourt, M
+ A
+ Levin, E
+ Bagiella, A
+ Casadevall, C
+ Cordon-Cardo, J
+ S
+ Jhang, S
+ A
+ 545 Arinsburg, D
+ L
+ Reich, J
+ A
+ Aberg, N
+ M
+ Bouvier, Convalescent plasma treatment of 546 severe COVID-19: a propensity score-matched control study
+ Nat Med 26, 1708-1713 547 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    
+ H
+ X
+ J
+ Lin, S
+ Cho, V
+ Meyyur Aravamudan, H
+ Y
+ Sanda, R
+ Palraj, J
+ S
+ Molton, I
+ 549 Venkatachalam, Remdesivir in Coronavirus Disease 2019 (COVID-19) treatment: a review 550 
+ J
+ A
+ Al-Tawfiq, A
+ H
+ Al-Homoud, Z
+ A
+ Memish, Remdesivir as a possible therapeutic 552 option for the COVID-
+ Travel Med Infect Dis 34, 101615 ()
+ 553 
+ J
+ H
+ Beigel, K
+ M
+ Tomashek, L
+ E
+ Dodd, A
+ K
+ Mehta, B
+ S
+ Zingman, A
+ C
+ Kalil, E
+ 554 Hohmann, H
+ Y
+ Chu, A
+ Luetkemeyer, S
+ Kline, D
+ Lopez de Castilla, R
+ W
+ Finberg, K
+ 555 Dierberg, V
+ Tapson, L
+ Hsieh, T
+ F
+ Patterson, R
+ Paredes, D
+ A
+ Sweeney, W
+ R
+ Short, 556 G
+ Touloumi, D
+ C
+ Lye, N
+ Ohmagari, M
+ D
+ Oh, G
+ M
+ Ruiz-Palacios, T
+ Benfield, G
+ 557 Fatkenheuer, M
+ G
+ Kortepeter, R
+ L
+ Atmar, C
+ B
+ Creech, J
+ Lundgren, A
+ G
+ Babiker, S
+ 558 Pett, J
+ D
+ Neaton, T
+ H
+ Burgess, T
+ Bonnett, M
+ Green, M
+ Makowski, A
+ Osinusi, S
+ 559 Nayak, H
+ C
+ Lane, A
+ -S
+ G
+ Members, Remdesivir for the Treatment of Covid-19 - Final 560 
+ W
+ H
+ O
+ S
+ T
+ Consortium, H
+ Pan, R
+ Peto, A
+ M
+ Henao-Restrepo, M
+ P
+ Preziosi, V
+ 562 Sathiyamoorthy, Q
+ Abdool Karim, M
+ M
+ Alejandria, C
+ Hernandez Garcia, M
+ P
+ Kieny, 563 R
+ Malekzadeh, S
+ Murthy, K
+ S
+ Reddy, M
+ Roses Periago, P
+ Abi Hanna, F
+ Ader, A
+ M
+ 564 Al-Bader, A
+ Alhasawi, E
+ Allum, A
+ Alotaibi, C
+ A
+ Alvarez-Moreno, S
+ Appadoo, A
+ 565 Asiri, P
+ Aukrust, A
+ Barratt-Due, S
+ Bellani, M
+ Branca, H
+ B
+ C
+ Cappel-Porter, N
+ 566 Cerrato, T
+ S
+ Chow, N
+ Como, J
+ Eustace, P
+ J
+ Garcia, S
+ Godbole, E
+ Gotuzzo, L
+ 567 Griskevicius, R
+ Hamra, M
+ Hassan, M
+ Hassany, D
+ Hutton, I
+ Irmansyah, L
+ Jancoriene, 568 J
+ Kirwan, S
+ Kumar, P
+ Lennon, G
+ Lopardo, P
+ Lydon, N
+ Magrini, T
+ Maguire, S
+ 569 Manevska, O
+ Manuel, S
+ McGinty, M
+ T
+ Medina, M
+ L
+ Mesa Rubio, M
+ C
+ Miranda-570 Montoya, J
+ Nel, E
+ P
+ Nunes, M
+ Perola, A
+ Portoles, M
+ R
+ Rasmin, A
+ Raza, H
+ Rees, P
+ 571 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    P
+ S
+ Reges, C
+ A
+ Rogers, K
+ Salami, M
+ I
+ Salvadori, N
+ Sinani, J
+ A
+ C
+ Sterne, M
+ 572 Stevanovikj, E
+ Tacconelli, K
+ A
+ O
+ Tikkinen, S
+ Trelle, H
+ Zaid, J
+ A
+ Rottingen, S
+ 573 Swaminathan, Repurposed Antiviral Drugs for Covid-19 - Interim WHO Solidarity Trial 574 
+ A
+ Pizzorno, B
+ Padey, J
+ Dubois, T
+ Julien, A
+ Traversier, V
+ Duliere, P
+ Brun, B
+ Lina, M
+ 576 Rosa-Calatrava, O
+ Terrier, In vitro evaluation of antiviral activity of single and combined 577 
+ D
+ E
+ Gordon, G
+ M
+ Jang, M
+ Bouhaddou, J
+ Xu, K
+ Obernier, K
+ M
+ White, M
+ J
+ O'Meara, 579 V
+ V
+ Rezelj, J
+ Z
+ Guo, D
+ L
+ Swaney, T
+ A
+ Tummino, R
+ Huttenhain, R
+ M
+ Kaake, A
+ L
+ 580 Richards, B
+ Tutuncuoglu, H
+ Foussard, J
+ Batra, K
+ Haas, M
+ Modak, M
+ Kim, P
+ Haas, B
+ 581 J
+ Polacco, H
+ Braberg, J
+ M
+ Fabius, M
+ Eckhardt, M
+ Soucheray, M
+ J
+ Bennett, M
+ Cakir, 582 M
+ J
+ McGregor, Q
+ Li, B
+ Meyer, F
+ Roesch, T
+ Vallet, A
+ Mac Kain, L
+ Miorin, E
+ Moreno, 583 Z
+ Z
+ C
+ Naing, Y
+ Zhou, S
+ Peng, Y
+ Shi, Z
+ Zhang, W
+ Shen, I
+ T
+ Kirby, J
+ E
+ Melnyk, J
+ 584 S
+ Chorba, K
+ Lou, S
+ A
+ Dai, I
+ Barrio-Hernandez, D
+ Memon, C
+ Hernandez-Armenta, J
+ 585 Lyu, C
+ J
+ P
+ Mathy, T
+ Perica, K
+ B
+ Pilla, S
+ J
+ Ganesan, D
+ J
+ Saltzberg, R
+ Rakesh, X
+ 586 Liu, S
+ B
+ Rosenthal, L
+ Calviello, S
+ Venkataramanan, J
+ Liboy-Lugo, Y
+ Lin, X
+ P
+ Huang, 587 Y
+ Liu, S
+ A
+ Wankowicz, M
+ Bohn, M
+ Safari, F
+ S
+ Ugur, C
+ Koh, N
+ S
+ Savar, Q
+ D
+ Tran, 588 D
+ Shengjuler, S
+ J
+ Fletcher, M
+ C
+ O'Neal, Y
+ Cai, J
+ C
+ J
+ Chang, D
+ J
+ Broadhurst, S
+ 589 Klippsten, P
+ P
+ Sharp, N
+ A
+ Wenzell, D
+ Kuzuoglu-Ozturk, H
+ Y
+ Wang, R
+ Trenker, J
+ 590 M
+ Young, D
+ A
+ Cavero, J
+ Hiatt, T
+ L
+ Roth, U
+ Rathore, A
+ Subramanian, J
+ Noack, M
+ 591 Hubert, R
+ M
+ Stroud, A
+ D
+ Frankel, O
+ S
+ Rosenberg, K
+ A
+ Verba, D
+ A
+ Agard, M
+ Ott, 592 M
+ Emerman, N
+ Jura, M
+ von Zastrow, E
+ Verdin, A
+ Ashworth, O
+ Schwartz, C
+ d'Enfert, 593 S
+ Mukherjee, M
+ Jacobson, H
+ S
+ Malik, D
+ G
+ Fujimori, T
+ Ideker, C
+ S
+ Craik, S
+ N
+ Floor, 594 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    J
+ S
+ Fraser, J
+ D
+ Gross, A
+ Sali, B
+ L
+ Roth, D
+ Ruggero, J
+ Taunton, T
+ Kortemme, P
+ 595 Beltrao, M
+ Vignuzzi, A
+ Garcia-Sastre, K
+ M
+ Shokat, B
+ K
+ Shoichet, N
+ J
+ Krogan, A 596 SARS-CoV-2 protein interaction map reveals targets for drug repurposing
+ Nature 583, 597 
+ R
+ Tian, A
+ J
+ Samelson, V
+ V
+ Rezelj, M
+ Chen, G
+ N
+ Ramadoss, X
+ Guo, A
+ M
+ Kain, Q
+ 599 D
+ Tran, S
+ A
+ Lim, I
+ Lui, J
+ Nunez, S
+ J
+ Rockwood, N
+ Liu, J
+ Carlson-Stevermer, J
+ Oki, 600 T
+ Maures, K
+ Holden, J
+ S
+ Weissman, J
+ A
+ Wells, B
+ Conklin, M
+ Vignuzzi, M
+ 601 Kampmann, BRD2 inhibition blocks SARS-CoV-2 infection in vitro by reducing 602 transcription of the host cell receptor ACE
+ ,  ()
+ 603 
+ T
+ C
+ Chou, Theoretical basis, experimental design, and computerized simulation of 604 synergism and antagonism in drug combination studies
+ Pharmacol Rev 58, 621-681 605 
+ T
+ C
+ Chou, Derivation and properties of Michaelis-Menten type and Hill type equations 607 
+ T
+ C
+ Chou, P
+ Talalay, Quantitative analysis of dose-effect relationships: the combined 609 effects of multiple drugs or enzyme inhibitors
+ Adv Enzyme Regul 22, 27-55 ()
+ 610 
+ R
+ T
+ Eastman, J
+ S
+ Roth, K
+ R
+ Brimacombe, A
+ Simeonov, M
+ Shen, S
+ Patnaik, M
+ D
+ 611 Hall, Remdesivir: A Review of Its Discovery and Development Leading to Emergency Use 612 Authorization for Treatment of COVID-
+ ACS Cent Sci 6, 672-683 ()
+ 613 
+ F
+ H
+ Andrews, A
+ R
+ Singh, S
+ Joshi, C
+ A
+ Smith, G
+ A
+ Morales, J
+ R
+ Garlich, D
+ L
+ 614 Durden, T
+ G
+ Kutateladze, Dual-activity PI3K-BRD4 inhibitor for the orthogonal 615 inhibition of MYC to block tumor growth and metastasis
+ Proc Natl Acad Sci U S A 114, 616 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    
+ L
+ Carlino, G
+ Rastelli, Dual Kinase-Bromodomain Inhibitors in Anticancer Drug 618 Discovery: A Structural and Pharmacological Perspective
+ J Med Chem 59, 9305-9320 619 
+ S
+ Joshi, A
+ R
+ Singh, K
+ X
+ Liu, T
+ V
+ Pham, M
+ Zulcic, D
+ Skola, H
+ B
+ Chun, C
+ K
+ Glass, 621 G
+ A
+ Morales, J
+ R
+ Garlich, D
+ L
+ Durden, SF2523: Dual PI3K/BRD4 Inhibitor Blocks 622 Tumor Immunosuppression and Promotes Adaptive Immune Responses in Cancer
+ Mol 623 
+ H
+ Zhu, J
+ H
+ Mao, Y
+ Wang, D
+ H
+ Gu, X
+ D
+ Pan, Y
+ Shan, B
+ Zheng, Dual inhibition of 625 BRD4 and PI3K-AKT by SF2523 suppresses human renal cell carcinoma cell growth
+ 626 
+ G
+ A
+ Morales, J
+ R
+ Garlich, J
+ Su, X
+ Peng, J
+ Newblom, K
+ Weber, D
+ L
+ Durden, 628 b]pyran-7-ones designed as next generation PI3K inhibitors
+ J Med Chem 56, 1922-1939 630 
+ O
+ Trott, A
+ J
+ Olson, AutoDock Vina: improving the speed and accuracy of docking with 632 a new scoring function, efficient optimization, and multithreading
+ J Comput Chem 31, 633 
+ S
+ Ruiz-Carmona, D
+ Alvarez-Garcia, N
+ Foloppe, A
+ B
+ Garmendia-Doval, S
+ Juhos, P
+ 635 Schmidtke, X
+ Barril, R
+ E
+ Hubbard, S
+ D
+ Morley, rDock: a fast, versatile and open source 636 program for docking ligands to proteins and nucleic acids
+ PLoS Comput Biol 10, e1003571 637 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    
+ Q
+ Zhang, L
+ Zeng, C
+ Shen, Y
+ Ju, T
+ Konuma, C
+ Zhao, C
+ R
+ Vakoc, M
+ M
+ Zhou, 639 Structural Mechanism of Transcriptional Regulator NSD3 Recognition by the ET Domain 640 
+ J
+ F
+ Chan, Y
+ Yao, M
+ L
+ Yeung, W
+ Deng, L
+ Bao, L
+ Jia, F
+ Li, C
+ Xiao, H
+ Gao, P
+ Yu, 642 J
+ P
+ Cai, H
+ Chu, J
+ Zhou, H
+ Chen, C
+ Qin, K
+ Y
+ Yuen, Treatment With 643 Lopinavir/Ritonavir or Interferon-beta1b Improves Outcome of MERS-CoV Infection in a 644 Nonhuman Primate Model of Common Marmoset
+ J Infect Dis 212, 1904-1913 ()
+ 645 
+ V
+ C
+ Cheng, B
+ S
+ Tang, A
+ K
+ Wu, C
+ M
+ Chu, K
+ Y
+ Yuen, Medical treatment of viral 646 pneumonia including SARS in immunocompetent adult
+ J Infect 49, 262-273 ()
+ 647 
+ K
+ K
+ To, O
+ T
+ Tsang, W
+ S
+ Leung, A
+ R
+ Tam, T
+ C
+ Wu, D
+ C
+ Lung, C
+ C
+ Yip, J
+ P
+ 648 Cai, J
+ M
+ Chan, T
+ S
+ Chik, D
+ P
+ Lau, C
+ Y
+ Choi, L
+ L
+ Chen, W
+ M
+ Chan, K
+ H
+ Chan, 649 J
+ D
+ Ip, A
+ C
+ Ng, R
+ W
+ Poon, C
+ T
+ Luo, V
+ C
+ Cheng, J
+ F
+ Chan, I
+ F
+ Hung, Z
+ Chen, 650 H
+ Chen, K
+ Y
+ Yuen, Temporal profiles of viral load in posterior oropharyngeal saliva 651 samples and serum antibody responses during infection by SARS-CoV-2: an observational 652 
+ J
+ Dunning, J
+ K
+ Baillie, B
+ Cao, F
+ G
+ Hayden, R
+ International Severe Acute, C
+ Emerging 654 Infection, Antiviral combinations for severe influenza
+ Lancet Infect Dis 14, 1259-1270 655 
+ I
+ F
+ N
+ Hung, K
+ K
+ W
+ To, J
+ F
+ W
+ Chan, V
+ C
+ C
+ Cheng, K
+ S
+ H
+ Liu, A
+ Tam, T
+ C
+ 657 Chan, A
+ J
+ Zhang, P
+ Li, T
+ L
+ Wong, R
+ Zhang, M
+ K
+ S
+ Cheung, W
+ Leung, J
+ Y
+ N
+ Lau, 658 M
+ Fok, H
+ Chen, K
+ H
+ Chan, K
+ Y
+ Yuen, Efficacy of Clarithromycin-Naproxen-659 Oseltamivir Combination in the Treatment of Patients Hospitalized for Influenza A(H3N2) 660 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    Infection: An Open-label Randomized, Controlled, Phase IIb/III Trial Chest 151, 1069-661 
+ C
+ R
+ Rayner, L
+ Dron, J
+ J
+ H
+ Park, E
+ H
+ Decloedt, M
+ F
+ Cotton, V
+ Niranjan, P
+ F
+ Smith, 663 M
+ G
+ Dodds, F
+ Brown, G
+ Reis, D
+ Wesche, E
+ J
+ Mills, Accelerating Clinical Evaluation 664 of Repurposed Combination Therapies for COVID-
+ Am J Trop Med Hyg 103, 1364-665 
+ I
+ F
+ Hung, K
+ C
+ Lung, E
+ Y
+ Tso, R
+ Liu, T
+ W
+ Chung, M
+ Y
+ Chu, Y
+ Y
+ Ng, J
+ Lo, J
+ 667 Chan, A
+ R
+ Tam, H
+ P
+ Shum, V
+ Chan, A
+ K
+ Wu, K
+ M
+ Sin, W
+ S
+ Leung, W
+ L
+ Law, 668 D
+ C
+ Lung, S
+ Sin, P
+ Yeung, C
+ C
+ Yip, R
+ R
+ Zhang, A
+ Y
+ Fung, E
+ Y
+ Yan, K
+ H
+ Leung, 669 J
+ D
+ Ip, A
+ W
+ Chu, W
+ M
+ Chan, A
+ C
+ Ng, R
+ Lee, K
+ Fung, A
+ Yeung, T
+ C
+ Wu, J
+ W
+ 670 Chan, W
+ W
+ Yan, W
+ M
+ Chan, J
+ F
+ Chan, A
+ K
+ Lie, O
+ T
+ Tsang, V
+ C
+ Cheng, T
+ L
+ 671 Que, C
+ S
+ Lau, K
+ H
+ Chan, K
+ K
+ To, K
+ Y
+ Yuen, Triple combination of interferon beta-672 1b, lopinavir-ritonavir, and ribavirin in the treatment of patients admitted to hospital with 673 COVID-19: an open-label, randomised, phase 2 trial Lancet 395, 1695-1704 ()
+ 674 
+ P
+ K
+ Panda, A
+ Bandyopadhyay, B
+ C
+ Singh, B
+ Moirangthem, G
+ Chikara, S
+ Saha, Y
+ A
+ 675 Bahurupi, Safety and efficacy of antiviral combination therapy in symptomatic patients of 676 Covid-19 infection - a randomised controlled trial (SEV-COVID Trial): A structured 677 summary of a study protocol for a randomized controlled trial Trials 21, 866 ()
+ 678 
+ Q
+ Fan, B
+ Zhang, J
+ Ma, S
+ Zhang, Safety profile of the antiviral drug remdesivir: An 679 
+ Q
+ Niu, Z
+ Liu, E
+ Alamer, X
+ Fan, H
+ Chen, J
+ Endsley, B
+ B
+ Gelman, B
+ Tian, J
+ H
+ Kim, 681 N
+ L
+ Michael, M
+ L
+ Robb, J
+ Ananworanich, J
+ Zhou, H
+ Hu, Structure-guided drug design 682 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    identifies a BRD4-selective small molecule that suppresses HIV
+ J Clin Invest 129, 3361-683 
+ V
+ S
+ Mandala, M
+ J
+ McKay, A
+ A
+ Shcherbakov, A
+ J
+ Dregni, A
+ Kolocouris, M
+ Hong, 685 Structure and drug binding of the SARS-CoV-2 envelope protein transmembrane domain 686 in lipid bilayers
+ Nat Struct Mol Biol 27, 1202-1208 ()
+ 687 
+ M
+ S
+ Rahman, M
+ N
+ Hoque, M
+ R
+ Islam, I
+ Islam, I
+ D
+ Mishu, M
+ M
+ Rahaman, M
+ 688 Sultana, M
+ A
+ Hossain, Mutational insights into the envelope protein of SARS-CoV-
+ 689 
+ N
+ Wang, R
+ Wu, D
+ Tang, R
+ Kang, The BET family in immunity and disease
+ Signal 691 
+ A
+ Husain, S
+ N
+ Byrareddy, Rapamycin as a potential repurpose drug candidate for the 693 
+ J
+ Dyall, R
+ Gross, J
+ Kindrachuk, R
+ F
+ Johnson, G
+ G
+ Olinger, Jr
+, L
+ E
+ Hensley, M
+ B
+ 695 Frieman, P
+ B
+ Jahrling, Middle East Respiratory Syndrome and Severe Acute Respiratory 696 Syndrome: Current Therapeutic Options and Potential Targets for Novel Therapies
+ Drugs 697 
+ G
+ R
+ Campbell, R
+ S
+ Bruckman, S
+ D
+ Herns, S
+ Joshi, D
+ L
+ Durden, S
+ A
+ Spector, 699 
+ H
+ M
+ Berman, J
+ Westbrook, Z
+ Feng, G
+ Gilliland, T
+ N
+ Bhat, H
+ Weissig, I
+ N
+ 702 Shindyalov, P
+ E
+ Bourne, The Protein Data Bank
+ Nucleic Acids Res 28, 235-242 ()
+ 703 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    
+ E
+ J
+ Mendoza, K
+ Manguiat, H
+ Wood, M
+ Drebot, Two Detailed Plaque Assay Protocols 704 for the Quantification of Infectious SARS-CoV-
+ Curr Protoc Microbiol 57, ecpmc105 705 
+ T
+ C
+ Chou, Drug combination studies and their synergy quantification using the Chou-707 
+ A
+ Ianevski, A
+ K
+ Giri, T
+ Aittokallio, SynergyFinder 
+0: visual analytics of multi-drug 709 Acknowledgements: We acknowledge the UNMC BSL-3 core facility for allowing us to 711 perform all in vitro experiments involving SARS-CoV-
+ 'The University of Nebraska Medical 712 Center BSL-3 Core Facility is administrated through the Office of the Vice Chancellor for 713 Research and supported by the Nebraska Research Initiative (NRI)
+' The following reagent was 714 deposited by the Centers for Disease Control and Prevention and obtained through BEI 715 Resources, NIAID, NIH: (a) SARS-Related Coronavirus 2, Isolate USA-WI1/2020, NR-52384 716 and (b) Quantitative PCR (qPCR) Control RNA from Heat-Inactivated SARS-Related 717 Funding: This work is partially supported by National Institute of Allergy and Infectious 719 Diseases Grant R01 AI129745, 5P30 CA03672733 and Frances E
+ Lageschulte and Evelyn B
+ 720 Weese New Frontiers in Medical Research Fund to SNB and NIH grants HL151334 and 721 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    Data analysis: AA, KP, MT, KRV, KBC, TGK, DLD, SNB 727 Writing  review & editing: AA, KP, MT, KBC, KRV, TGK, DLD, SNB, GAM
+ 730 Competing interests: DLD and GMA declare financial interest in SF2523 via their holding in  731 Data and materials availability: All data related with this study are presented in the manuscript 733 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    Fig
+ 
+ Predicted binding (docking) of SF2523 in PI3K-a catalytic domain (upper panel) and 754 observed binding in crystal structure of SF2523 bound to BRD4-BD1 acetyl lysine binding site 755 (
+8 Angstroms resolution) (bottom panel)
+ In vitro (enzymatic) potency of SF2523 against 756 Fig 
+ SARS-CoV-2 viral loads and dose-response curve in SF2523 and remdesivir treated 760 and SARS-CoV-2 infected UNCN1T cells and Vero-STAT1 knockout cells
+ (A & B) Real-761 time quantitative PCR analysis of SARS-CoV-2 genome equivalent per ml of culture supernatant 762 after 24 hrs post-infection in SF2523 (in blue) and remdesivir (in green) treated UNCN1T cells 763 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    and Vero-STAT1 knockout cells with indicated drug concentrations, respectively
+ (C & D) 764 SF2523 (in blue) and remdesivir (in green) dose response curve by percentage inhibition of 765 SARS-CoV-2 replication 24 hrs post infection in UNCN1T cells and Vero-STAT1 knockout 766 Fig 
+ Dose-response curve for single and combination of SF2523 and remdesivir in SARS-771 CoV-2 infected UNCN1T cells and Vero-STAT1 knockout cells 24 hrs post infection
+ (A) 772 Dose response curve of remdesivir (green: IC50 = 
+06 M),  (blue: IC50 = 
+52 M), and 773 remdesivir with a fixed dose combination of SF2523 (
+1 M) (red: IC50 = 
+625) by percentage 774 inhibition of SARS-CoV-2 replication 24 hrs post infection in UNCN1T cells; (B) Dose response 775 curve of remdesivir (green: IC50 = 
+03M),  (blue: IC50 = 
+02 M), and SF2523 with a fixed 776 dose combination of remdesivir (
+05M) (red: IC50 = 
+21) by percentage inhibition of SARS-777 CoV-2 replication 24 hrs post infection (IC50 = 
+02 M)  in Vero-STAT1 knockout cells
+ 778 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    Fig 
+ Synergistic effect of remdesivir and SF2523 combined treatment against SARS-CoV-787 2 infected UNCN1T cells 24 hrs post infection
+ (A) The Median-Effect plot (Chou plot) of 788 remdesivir (the red line with square data points, SF2523 (blue line with circular data points) and 789 fixed dose combination of remdesivir and SF2523 (green line with triangular data points)
+ The 790 median-Effect equation, that describes the dose-effect relationship is given by (Fa/Fu) = 791 (D/Dm)m or log(Fa/Fu) = m log(D)  m log(Dm)
+ The slope (m) of the lines signifies the shape 792 (m = 1, >1, and <1 signify hyperbolic, sigmoidal, and flat sigmoidal dose-effect curves 793 respectively)
+ Fa is defined as percentage inhibition of viral growth at dose D and Fu is the 794 fraction that remain unaffected (i
+ e
+, Fu = 1 - Fa)
+ The antilog of x-intercept, where Fa/Fu = 1 or 795 log(Fa/Fu) = 0, gives the Dm value
+ [log(Dm)] signifies the potency of the drugs (where Dm 796 stands for median effective dose or IC50 concentration: The concentration required to inhibit 50% 797 growth of the virus)
+ (B) Combination index plot or Chou-Talaly plot or Fa-CI plot: A plot of CI 798 (combination index) on the Y-axis vs Fa on X-axis for fixed dose combination of remdesivir and 799 SF2523 in SARS-CoV-2 infected UNCN1T cells (blue line with circular data points); Low CI 800 values with increase in Fa values indicates superior compatibility and high synergism between 801 drugs combination (based on Chou and Talalay Combination Index Theorem, CI < 1, = 1, and >1 802 indicate synergism, additive effect, and antagonism, respectively)
+ (C) Dose-response percent 803 inhibition matrix of single and combined treatment of remdesivir and SF2523 in SARS-CoV-2 804 infected UNCN1T cells 24 hrs post infection
+ (D) 3-D interaction landscape between remdesivir 805 and SF2523 calculated based on Loewe additive model using SynergyFinder v
+2 in SARS-CoV-806 2 infected UNCN1T cells 24 hrs post infection (Loewe synergy score 
+88; with most 807 synergistic area score of 
+ )
+ Synergy maps highlight synergistic and antagonistic dose 808 regions in red and green colors, respectively
+ Although there is no defined threshold, for drug 809 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    combinations with a synergy scores above -10 is considered likely antagonistic, score between -810 10 to 10 is considered likely additive and score above 10 is considered synergistic
+ 811 Fig 
+ Synergistic effect of remdesivir and SF2523 combined treatment against SARS-CoV-814 2 in Vero-STAT1 knockout cells 24 hrs post infection
+ (A) The Median-Effect plot (Chou 815 plot) of remdesivir (the red line with square data points, SF2523 (blue line with circular data 816 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    points) and fixed dose combination of remdesivir and SF2523 (green line with triangular data 817 points)
+ The median-Effect equation, that describes the dose-effect relationship is given by 818 (Fa/Fu) = (D/Dm)m or log(Fa/Fu) = m log(D)  m log(Dm)
+ The slope (m) of the lines signifies 819 the shape (m = 1, >1, and <1 signify hyperbolic, sigmoidal, and flat sigmoidal dose-effect curves 820 respectively)
+ Fa is defined as percentage inhibition of viral growth at dose D and Fu is the 821 fraction that remain unaffected (i
+ e
+, Fu = 1 - Fa)
+ The antilog of x-intercept, where Fa/Fu = 1 or 822 log(Fa/Fu) = 0, gives the Dm value
+ [log(Dm)] signifies the potency of the drugs (where Dm 823 stands for median effective dose or IC50 concentration: The concentration required to inhibit 50% 824 growth of the virus)
+ (B) Combination index plot or Chou-Talaly plot or Fa-CI plot: A plot of CI 825 (combination index) on the Y-axis vs Fa on X-axis for fixed dose combination of remdesivir and 826 SF2523 in SARS-CoV-2 infected Vero-STAT1 knockout cells (blue line with circular data 827 points); Low CI values with increase in Fa values indicates superior compatibility and high 828 synergism between drugs combination (based on Chou and Talalay Combination Index Theorem, 829 CI < 1, = 1, and >1 indicate synergism, additive effect, and antagonism, respectively)
+ (C) Dose-830 response percent inhibition matrix of single and combined treatment of remdesivir and SF2523 831 in SARS-CoV-2 infected Vero-STAT1 knockout cells 24 hrs post infection
+ (D) 3-D interaction 832 landscape between remdesivir and SF2523 calculated based on Loewe additive model using 833 SynergyFinder v
+2 in SARS-CoV-2 infected Vero-STAT1 knockout cells 24 hrs post infection 834 (Loewe synergy score -
+20; with most synergistic area score of 
+ )
+ Synergy maps highlight 835 synergistic and antagonistic dose regions in red and green colors, respectively
+ Although there is 836 no defined threshold, for drug combinations with a synergy scores above -10 is considered likely 837 antagonistic, score between -10 to 10 is considered likely additive and score above 10 is 838 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    Fig 
+ Remdesivir does not bind to the BRD4 BD domains and does not affect binding of 841 SF2523 to BDs
+ Superimposed 1H,15N HSQC spectra of uniformly 15N-labeled BD1 (left), BD2 842 (middle) and ET (right) domains of BRD4 with the indicated ligands added in a stepwise 843 manner
+ The spectra are color coded according to the protein:ligand ratios
+ Small resonance 844 changes are due to weak binding of DMSO, which was confirmed by titrating DMSO alone to 845 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    Fig S
+ SARS-CoV-2 viral loads and dose-response curve in SF2523 and remdesivir treated 852 and SARS-CoV-2 infected UNCN1T cells and Vero-STAT1 knockout cells
+ (A & B) Real-853 time quantitative PCR analysis of SARS-CoV-2 genome equivalent per ml of culture supernatant 854 after 48 hrs post-infection in SF2523 (in blue) and remdesivir (in green) treated UNCN1T cells 855 and Vero-STAT1 knockout cells with indicated drug concentrations respectively
+ (C & D) 856 SF2523 (in blue) and remdesivir (in green) dose response curve by percentage inhibition of 857 SARS-CoV-2 replication 48 hrs post infection in UNCN1T cells and Vero-STAT1 knockout 858 cells with indicated drug concentrations respectively
+  In UNCN1T cells, SF2523 has an IC50 of 859 
+58 M and remdesivir has an IC50 of 
+75 M; In Vero-STAT1 knockout cells, SF2523 has an 860 IC50 of 
+22 M and remdesivir has an IC50 of 
+76 M
+ 861 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    Table 1: The median effective dose of individual compounds and their combination 863 Dm: The median effective dose; m: The slope of the median effect (ME) plot; r: The linear correlation 864 Table 2: The CI values at different simulated effective dose of fixed dose combination of 867 (which was not certified by peer review) is the author/funder
+ All rights reserved
+ No reuse allowed without permission
+ The copyright holder for this this version posted March 5, 
+ ;    
