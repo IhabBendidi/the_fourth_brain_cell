@@ -1,6 +1,6 @@
 # The Fourth Brain Cell
 
-This project is made by The Three Last Brain Cells team, in the starthack Hackathon, Microsoft Challenge.
+This project is made by The Three Last Brain Cells team (Ihab, Carlotta & Andrij), in the starthack Hackathon, Microsoft Challenge.
 
 ## Table of Contents
 
