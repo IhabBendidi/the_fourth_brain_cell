@@ -29,7 +29,7 @@ To test the recommendations (imagine yourself a student about to answer a questi
 Run the following line in terminal :
 
 ```
-curl -X GET 'http://127.0.0.1:4500/api/get_recommendation?question=causes+of+diabetes'
+curl -X GET 'http://20.61.169.6:4500/api/get_recommendation?question=causes+of+diabetes'
 ```
 
 Replace the question by a medical question of your choice. Worth noting that the precision of the recommendation would become way better using the health API of azure (details in implementation details below).
@@ -42,14 +42,22 @@ The data used is pdf research papers cited in PubMed and downloaded from bioRxiv
 
 ### Installation
 
-TBD
-
 #### Downloading the model
 
 in the `biomodel` folder, download the model using this command :
 
 ```
 wget https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/12551780/bio_embedding_extrinsic
+```
+
+#### Running the installation
+
+Install dependencies with `pip3 install -r requirements.txt`
+
+Then run the app with :
+
+```
+python3 app.py
 ```
 
 ### Usage
@@ -61,6 +69,8 @@ Follow the next commands (after installation) to run locally :
 ```
 python3 app.py
 ```
+
+Be sure to check in the last line of the `app.py` file that `host = 0.0.0.0` is deleted if you wish to run locally
 
 The endpoint would become `http://127.0.0.1:4500`
 
@@ -82,7 +92,7 @@ We expose one API to get summary/paper recommendations.
 - **Curl request :**
 
 ```
-curl -X GET 'http://127.0.0.1:4500/api/get_recommendation?question=YOUR_QUESTION'
+curl -X GET 'http://20.61.169.6:4500/api/get_recommendation?question=YOUR_QUESTION'
 ```
 
 - **Input :** A string of a question to ask the recommender, so that it would return top 2 articles related to this question and their summary. Note that all spaces in the question would be replaced by "+" in the request for it to work
@@ -92,8 +102,11 @@ curl -X GET 'http://127.0.0.1:4500/api/get_recommendation?question=YOUR_QUESTION
 Response example :
 
 ```
-
+TBD
 ```
 ### Implementation details
 
-TBD
+- Usage of word2vec pretrained on biomedical data scrapped from Pubmed (bioword2vec)
+- Cosine similarity distance
+- Easy scalable training and high inference speed even on a small server (4 CPUs, 8GB Ram)
+- Better results if Azure Health API is integrated (to extract the keywords )
