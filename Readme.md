@@ -44,8 +44,10 @@ To test the recommendations (imagine yourself a student about to answer a questi
 Run the following line in terminal :
 
 ```
-curl -X GET 'http://20.61.169.6:4500/api/get_recommendation?question=causes+of+diabetes'
+curl -X GET 'http://20.61.169.6:4500/api/get_recommendation?question=causes+of+love'
 ```
+
+(Yep, `causes of love` surprisingly worked as a question :D)
 
 Replace the question by a medical question of your choice. Worth noting that the precision of the recommendation would become way better using the health API of azure (details in implementation details below).
 
@@ -131,9 +133,12 @@ Response example :
   }
 }
 ```
+
+The first summary and file are the best fit, followed by the second
 ### Implementation details
 
 - Usage of word2vec pretrained on biomedical data scrapped from Pubmed (bioword2vec)
 - Cosine similarity distance
 - Easy scalable training and high inference speed even on a small server (4 CPUs, 8GB Ram)
-- Better results if Azure Health API is integrated (to extract the keywords )
+- Better results if Azure Health API is integrated (to extract the keywords that are the most important in the text and apply word2vec on them, or extract the entities from questions). It was tested before the API's quota was done, and it actually gave much better result, as it only compares relevant keywords with cosine similarity.
+- Also worth noting that while we used a summarization algorithm similar to the Medical Jargon API, we believe we might have slightly improved results because of a more improved preprocessing (but only adapted to PDF files coming from Biorxiv, so it gotta be changed and adapted when going at scale)
