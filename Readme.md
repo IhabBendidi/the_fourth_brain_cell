@@ -20,7 +20,22 @@ This repository only focuses on all the technical aspects and implementation of 
 
 ### Project Description
 
-TBD
+#### General description
+
+Patients will have access to a chatbot that can answer medical questions. The chatbot will be able to generate understandable answers based on the information that is on a medical forum where medical professionals are encouraged to contribute accessible and understandable answers to medical questions. Medical professionals and their related institutions will receive a score based on the amount of answers they provide, the quality of these answers and how understandable these answers are articulated.
+The main incentive to contribute to the platform is the score, which translates into reputational value for medical students, doctors,... and for their related institutions as a whole (hospitals, universities,...).
+
+We get the valuable medical information from the researcher to the patient in the following steps.
+First, a paper is written and it goes through a peer review process. Then, the paper gets published. This part of the process has been around for a long time, but this is the point where we step in to make this information accessible to people who haven’t spent over a decade at university to study this kind of stuff.
+We use a word2vec embedding trained on pubmed data for vectorizing the papers, then we use metrics of similarity to link papers to the questions that patients will ask.
+
+Next we provide a summary of the papers on the Med Overflow professional platform where medical students (and professionals) convert it into an understandable explanation. Different medical professionals review the answers and the highest ranked answer is sent to the patient through the chatbot we created with Rasa.
+
+#### scope of this repository
+
+In this repository, we're creating the recommendation engine that is coupled with the Jargon API offered by Microsoft, to extract information. This recommendation engine we made has a database of pdf research papers that it uses as a reference, and then depending on the questions of the user, summarizes the most relevant research papers to that specific question. This is supposed to both help medical students write up easily and efficiently correct answers, and for the people that don't find reliable answers to at least have the most reliable research papers summarized.
+
+This is an API without a graphic interface. This part was deemed the most critical and priority of the project (constraints of time)
 
 ### Quickstart
 
