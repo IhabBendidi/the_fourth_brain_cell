@@ -4,7 +4,7 @@ This project is made by The Three Last Brain Cells team (Ihab, Carlotta & Andrij
 
 ## Table of Contents
 
-- goal
+- Goal
 - Project description
 - Quickstart
 - Dataset used
