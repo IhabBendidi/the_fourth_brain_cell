@@ -77,6 +77,10 @@ Then run the app with :
 python3 app.py
 ```
 
+If new papers are going to be added to the database and synchronized, [Medical Jargon API](https://github.com/whatchacallit/medjargonbuster-api) should be installed (check its installation steps) and launched in the same server so that the two servers could communicate.
+
+The medical jargon API is only used to extract the text from pdf files of research papers
+
 ### Usage
 
 #### Run locally (Optional)
