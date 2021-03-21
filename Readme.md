@@ -102,7 +102,19 @@ curl -X GET 'http://20.61.169.6:4500/api/get_recommendation?question=YOUR_QUESTI
 Response example :
 
 ```
-TBD
+{
+  "code": 200,
+  "response": {
+    "1": {
+      "file": "2021.02.08.430342v1.full.pdf",
+      "summary": "The putative causal effect of type  diabetes ..."
+    },
+    "2": {
+      "file": "389841v2.full.pdf",
+      "summary": "proposed measuring subjective sleep ... "
+    }
+  }
+}
 ```
 ### Implementation details
 
